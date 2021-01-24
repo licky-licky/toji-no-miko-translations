@@ -13,7 +13,7 @@ jobs:
       - name: Build
         run: |
           # install .codedoc dependencies
-          (cd codedoc/.codedoc && npm install)
+          (cd .codedoc && npm install)
           # install codedoc
           npm install @codedoc/cli
           # build repo
