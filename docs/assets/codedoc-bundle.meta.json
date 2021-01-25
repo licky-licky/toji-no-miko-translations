@@ -2,125 +2,120 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "HGFH8Gce4TmLibqXQDhbbw=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "Mm3u0cntVL4K7gflsuNV4g=="
     },
     {
       "name": "installTheme",
-      "filename": "/home/user/dev/toji-eng/.codedoc/content/theme.ts",
-      "hash": "9ODXQw6ORyxKmBieDFGMWA=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/content/theme.ts",
+      "hash": "LLGTK3aQAyW3NAZjdp6LKQ=="
     },
     {
       "name": "codeSelection",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "tyy9LsJyF9Z8HE4/diXlJg=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "0GNJO/5VmGMMK4lkLOrV4g=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "VMmR9OLkrWVKzXmUl4zYxg=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "UOA0IPHSDyvuST9kmJdMOw=="
     },
     {
       "name": "initHintBox",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "uwC9+vFUe5JvXRJTZHxXOA=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "yuYF7PQHHsVMQjCFe0YE9Q=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "ViIFbQY+xuzgxLR9leCTxw=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "x8fVfebOQ/DkxfZ2/LKRJw=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "X/iOESWcVj264hUsc828Cg=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "no2+aCr8AwlHwJFpbXrCKA=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "oxLI9zfdr7XivBtl6+TIEg=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "yZp7BOUSVN2a42GZoM9aKQ=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "mtBR28NiHos0vCVTHhu7rA=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "TeM2L7FU823Z6vsNcay8Rg=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "abhDqEjIu6/YklnGtSwQVw=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "YlMtjtRi5SgbJiYXtxfKIQ=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "xGtNK7t116LEvuqVB4+9JA=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "5l9zq3Pcsau8cRTH28e/OQ=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "tfSOZuU07Au+GjLnD8aQWQ=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "7nq6NhZNTr8G08lNbd/ecg=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "c858zsfWxv+5aJ7mFsM88w=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "jVjKwwVHV1cEhq15pa5r8A=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
-      "hash": "9p01BlV33m4P4VAo3JsBAA=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "hTr6qGs413LcByzd8PDe+g=="
     },
     {
       "name": "gatherFootnotes",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
-      "hash": "q5k80NDLFTjr+zK//L6Hjg=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "C5k7DwMpEvSRip7Tk53Rkw=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "tvk1R9cUWGH7r7HfU8Ym3g=="
     }
   ],
   "components": [
     {
       "name": "ToCPrevNext",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "mQsakLsDZqq6eOIEUi5ekw=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "0nQJJvv1ZuA4pDD0rMMbZQ=="
     },
     {
       "name": "CollapseControl",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "+RfmhiVtWRtosOT7c1PcmQ=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "aKxVAFZzmSrnhtZ+q9ZJ2w=="
     },
     {
       "name": "GithubSearch",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
-      "hash": "8wB3kHq88oVJvzS3n2hzkw=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "pPI0V2tGPE6i7R5rcIMc6Q=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "9StriR7MDqkfKzmxMAWlGw=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "r15jVe4dUkqL6cmmQXHmOA=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "KBJ70PoxCGgjVLvzjo7AZw=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "pzGbPwnVBe064NEWOX4SBA=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "XzqZiNAsB96x6+nTWBgyjg=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "yGfPl+yTadaka6bBVq9Nzw=="
     },
     {
       "name": "TabSelector",
-      "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
-      "hash": "keh8S49GOuOJcKJPwMStxQ=="
+      "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "j1URj5ODmqfDYwC7MlV/6g=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/home/user/dev/toji-eng/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "nv2AIb+c055LfEl2ezj0Aw=="
+    "filename": "/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "txVMD87TVIsUfYy89J1shg=="
   }
 }
