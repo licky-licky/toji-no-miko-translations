@@ -7,7 +7,9 @@ import { theme } from './theme';
 export const config = /*#__PURE__*/configuration({
   theme,                                  // --> add the theme. modify `./theme.ts` for chaning the theme.
   dest: {
-    namespace: '/tnm-translations'        // --> your github pages namespace. remove if you are using a custom domain.
+    namespace: '/tnm-translations',       // --> your github pages namespace. remove if you are using a custom domain.
+    html:'dist',
+    assets: 'dist',
   },
   page: {
     title: {
