@@ -1,13 +1,9 @@
 
 Kohagura Ellen Episodes
 =======================
+https://www.youtube.com/watch?v=YTauNsgryxs
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/YTauNsgryxs" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/BHI45rWeMrA
 
   
@@ -66,9 +62,9 @@ https://youtu.be/j47iC8Z6kho
 **Mai:** Fufu. Then, how about we pick out different types? We can taste each other's later.  
 **Hiyori:** Who would even want to eat all these sweets to begin with...  
 **Kanami:** Hiyori-chan\! There's a chocolate mint cake over here\!  
-**Hiyori:** What\!?  
+**Hiyori:** What\!\?  
 **Kanami:** We're back-\! Time to eat-\!  
-**Kanami:** Whoa\!? Ellen-chan's surrounded by an army of cakes\!  
+**Kanami:** Whoa\!\? Ellen-chan's surrounded by an army of cakes\!  
 **Ellen:** No, no\~\! I've maneuvered this army right where I want them\!  
 **Hiyori:** There's no way someone could that much, is there...?  
 **Ellen:** A piece of cake\! I could have this before breakfast\!  
@@ -160,7 +156,7 @@ https://youtu.be/j47iC8Z6kho
 **Ellen:** ---\!  
 **Ellen:** (My spectrum finder picked something up... It's right near the school...)  
 **Ellen:** Sorry, Mimimin-\! Seems like I have some toji work to do. We can settle this later, okay?  
-**Mimi:** Ehh-\!?  
+**Mimi:** Ehh-\!\?  
 **Mimi:** Ah, then I'll go with you\! With both of us together, we can beat that aradama in no time\!  
 **Ellen:** That's a great idea. But this is work for your onee-san. It's still a bit too early for you, Mimimin.  
 **Ellen:** The aradama's close by, so don't leave the school. Promise me that, okay?  

@@ -92,11 +92,11 @@ https://youtu.be/-fV4ehWn5Gw
 **Akira:** I don't know if it's exactly the same, but you're wanting to change yourself, right?  
 **Mihono:** I guess I want to change?  
 **Akira:** Yeah. That's mostly how it is for them. Wanting to get tougher.  
-**Mihono:** -\!? I think you might be right\!  
+**Mihono:** -\!\? I think you might be right\!  
 **Akira:** In that case, you've got to challenge yourself. Do whatever's toughest, cause that's what's best for you.  
 **Hana:** (...Inago-san, she seems like the type who's good at looking after others. Calling her boss wasn't too far off the mark.)  
 **Mihono:** Whatever's toughest... Maybe I will transfer to the police.  
-**Yui:** You mean it\!?  
+**Yui:** You mean it\!\?  
 **Yui:** Between Hana-san and Mihono-chan, I'd have a pretty girl whichever way I look\!  
 **Akira:** Dumbass\! Don't drop your guard\!   
 **Yui:** Eh?  
@@ -104,7 +104,7 @@ https://youtu.be/-fV4ehWn5Gw
 **Yui:** Gah\!  
 **Akira:** Mihono, Hana, get your utsushi up\!  
 **Mihono:** On it\!  
-**Hana:** Kh...\!? I can't...\!  
+**Hana:** Kh...\!\? I can't...\!  
 **Aradama:** GAAAAAAAAAA\!\!  
 **Hana:** Ggh-\!  
 **Akira:** Tch, you're both at your limit then... Oi\! If you're still breathing, then say something\!  
@@ -146,7 +146,7 @@ https://youtu.be/-fV4ehWn5Gw
 **Mihono:** Yeah, I'm just fine, but...  
 **Mai:** But?  
 **Hana:** They seriously did a number on the both of us.  
-**Mai:** Suzumoto-san, and Yamashiro-san too\!? Are you two okay...?  
+**Mai:** Suzumoto-san, and Yamashiro-san too\!\? Are you two okay...?  
 **Hana:** Doesn't feel like I'm doing that great.  
 	[ambulance siren]
 
@@ -161,12 +161,12 @@ https://youtu.be/-fV4ehWn5Gw
 **Futaba:** You just keep saying that\!  
 **Mihono:** Excuse me.  
 **Ema:** Asakura-san? Thank you, for your efforts the other day. What did you need?  
-**Mihono:** Err... About what you said, about transferring to a unit under the MPD's command, can I still do that\!?  
+**Mihono:** Err... About what you said, about transferring to a unit under the MPD's command, can I still do that\!\?  
 **Ema:** Of course, that would be fine, though... Did something happen?  
 **Mihono:** Yeah. I talked to Yui and Suzumoto-san, and Akira-san gave me advice... I made up my mind.  
 **Ema:** It sounds like you got the encouragement you needed.  
 **Ema:** I understand. In that case, starting today, you'll be transferred to the Metropolitan Police Department.  
-**Mihono:** Starting today\!?  
+**Mihono:** Starting today\!\?  
 **Ema:** Yes. Ever since you asked to be sent to the mall, I've been expecting this to come.  
 **Ema:** The preparations were taken care of.  
 **Mihono:** Uwah... Is it really that easy to tell what I'm going to do?  

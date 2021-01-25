@@ -58,7 +58,7 @@ https://youtu.be/WNtGgHguxrw
 **Suzuka:** Though, don't assume I'll be beaten so easily\!  
 **Maki:** SUZUKA--------\!\!  
 **Suzuka:** Eh?  
-**Maki:** Are you okay\!?  
+**Maki:** Are you okay\!\?  
 **Suzuka:** Maki-san...?  
 **Maki:** Can you stand? Are you hurt?  
 **Suzuka:** I'm just fine. Though...  
@@ -81,7 +81,7 @@ https://youtu.be/Y6ff2yewfcQ
   
 
 ## [Halloween 19 - Mirja: Start]: Kaiju Mirja?
-**Yui:** Mirja-san, are you going to be debuting on the silver screen\!?  
+**Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  
 **Mirja:** Calm yourself, Yamashiro Yui. Do you remember before, when Itomi Sayaka appeared in that film?  
 **Kofuki:** Oh yeah, that happened, didn't it. It was that time with the historical drama thing, right?  
 **Yui:** If you mean that, I remember it too\! Sayaka-chan was extra cute back then, wasn't she\!  
@@ -94,11 +94,11 @@ https://youtu.be/Y6ff2yewfcQ
 **Yui:** Anyway, I'm 100% going to go see it, Mirja-san\! I'll see it 7 million 7 hundred and 70 thousand times\!  
 **Yui:** Actually, when are they filming it\! I want to go watch\!  
 **Mirja:** On Halloween day.  
-**Yui:** Halloween day\!?  
+**Yui:** Halloween day\!\?  
 **Yui:** That's when I was supposed to go with Kanami-chan and them to their Halloween event...  
 **Yui:** Gununu... Do I go see Kanami-chan and Hiyori-chan in their costumes, or do I go see Mirja-san...  
 **Mirja:** I should mention, along with myself, Itomi Sayaka and Iwakura Sanae will also be performing.  
-**Yui:** Sayaka-chan and Sanae-san too\!? B-Both of them are hard to pass up...  
+**Yui:** Sayaka-chan and Sanae-san too\!\? B-Both of them are hard to pass up...  
 **Kofuki:** You're making a pretty funny face now, y'know?  
 **Yui:** How can I choose though\!  
 **Mirja:** No matter how much you puzzle over it, I won't bring you with me. This is work.  
@@ -146,7 +146,7 @@ On the day of filming.
 **Mirja:** You demon cat... I-I'll destroy you here\!  
 **Sanae:** You can go ahead and try, nya\!  
 **Mirja:** (Iwakura Sanae comes rushing in... I fight back with the candlestick I'm holding.)  
-**Sanae:** Unyaa\!?  
+**Sanae:** Unyaa\!\?  
 **Mirja:** It's afraid of the flames...? Then\!  
 **Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!)  
 **Sanae:** UNYAAAAAAAAAA\!\! I'LL REMEMBER THIS, NYAAAAA\!\!  
@@ -170,7 +170,7 @@ https://youtu.be/SIh8DzG3-h8
 
 ## [Aradama Hoodie - Kofuki: Start]: Pissing Me Off
 **Kofuki:** GYAAAAAAAAAAAAAAAAAAAAAA\!\!  
-**Mihono:** \!? Just now, that was...  
+**Mihono:** \!\? Just now, that was...  
 **Tsugumi:** Yes, that was the shrill scream of Shichinosato-san just now.  
 **Mihono:** Knowing Fukki, an aradama probably didn't get the drop on her or something, right?  
 **Tsugumi:** Yes, it's difficult to imagine. I think it's safe to say something else must have occurred.  
@@ -209,14 +209,14 @@ https://youtu.be/SIh8DzG3-h8
 **Tsugumi:** That's because you were asleep on the train. Here, have some of this and you'll be wide awake.  
 **Kofuki:** Oh-... Thanks...  
 **Mihono:** Ah.  
-**Kofuki:** BFWOO-\!?  
+**Kofuki:** BFWOO-\!\?  
 **Kofuki:** Oi, what'd you feed me\!\!  
 **Tsugumi:** Just something simple to eliminate drowsiness.  
 **Kofuki:** Don't pass me toxic crap like it's no big deal\! You're freaky.  
 **Tsugumi:** Am I?  
 **Mihono:** Fukki's looking wide awake now at least, so let's go buy some clothes\!  
 **Mihono:** By the way, how do you pick out your clothes, Fukki?  
-**Mihono:** I remember Kiyoka saying, "Fukki's got a great sense of style\!", so I've been curious ever since.  
+**Mihono:** I remember Kiyoka saying, "Fukki's got a great sense of style\!\", so I've been curious ever since.  
 **Kofuki:** I just pick out whatever. Cruise around the shops and buy stuff...  
 **Kofuki:** See, like that? Ohm.  
 **Mihono:** You say, "like that", but... Where'd you find these hoodies?  
@@ -230,13 +230,13 @@ https://youtu.be/SIh8DzG3-h8
 **Kofuki:** ...[grin] Mihocchi, you want a bite?  
 **Mihono:** Can I?  
 **Kofuki:** Sure, but you get one bite, alright? Here... Open wide.  
-**Mihono:** Ahh-... Nngh\!?  
-**Mihono:** Hey, Fukki\! Weren't you gonna let me have some\!?  
+**Mihono:** Ahh-... Nngh\!\?  
+**Mihono:** Hey, Fukki\! Weren't you gonna let me have some\!\?  
 **Kofuki:** Ahahahahaha\! If you wanted to eat some, then go buy it yourself, Mihocchi.  
 **Tsugumi:** Ohm. ...[chew chew] I see, it is fairly good.  
 **Kofuki:** Hey, don't you go eating it\!  
 **Mihono:** Now's my chance... Mmm-, so good\!  
-**Kofuki:** Mihocchi too\!? Ahh, damnit\! Gimme back the bits you ate\!  
+**Kofuki:** Mihocchi too\!\? Ahh, damnit\! Gimme back the bits you ate\!  
 **Mihono:** How am I supposed to do that when I ate it\!  
 **Tsugumi:** You could just go buy another one, Shichinosato-san.  
 **Kofuki:** Like you can talk when you're the one who went and ate it-\!  
@@ -279,14 +279,14 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 
 ## [Stage Girl - Kanami: End]: It Is All for the Sake of Starlight\!
 **Hikari:** ...There-\!  
-**Kanami:** \!? That was a little risky just now\!  
+**Kanami:** \!\? That was a little risky just now\!  
 **Kanami:** You're using the spring in your body to get even sharper with your strikes\! That was a great thrust\!  
 **Hikari:** ...You were able to dodge that just now? Toji really do have great physical performance.  
 **Kanami:** It's important to be able to avoid taking hits in battle, after all. That's a part of training too.  
 **Hikari:** Then, what will you do if I do this?  
-**Kanami:** Eh\!? You threw your weapon\!?  
+**Kanami:** Eh\!\? You threw your weapon\!\?  
 **Hikari:** Thank you. You deflected it just how I wanted you to.  
-**Kanami:** Wawah\!? ...She's flying with a wire\!?  
+**Kanami:** Wawah\!\? ...She's flying with a wire\!\?  
 **Hikari:** And now--\!\!  
 **Kanami:** Seeing that attack just now you did with the wire sent a chill up my spine-. You were right up in front of me all of a sudden.  
 **Kanami:** So you can fight like that too, huh\!  

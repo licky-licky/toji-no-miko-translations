@@ -1,13 +1,9 @@
 
 3 - Time Limit
 ==============
+https://www.youtube.com/watch?v=32B6iYjLJHE
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/32B6iYjLJHE" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Clashing Thoughts and Feelings (1)
 **Chie:** I won't forgive them... For what they did to everyone at Mokusa... I'll avenge them for sure...  
@@ -140,9 +136,9 @@
 **Mihono:** When you're nervous, just write "people" on the palm of your hand, swallow it, and that's sure to calm you down\!  
 **Kiyoka:** I already swallowed it... I lost count how many times... Maybe more than fifty by now...  
 **Mihono:** Already tried it, huh-\! Well, I'm out of ideas.  
-**Kiyoka:** That's your only tip\!?  
+**Kiyoka:** That's your only tip\!\?  
 **Kofuki:** Just don't worry about it.  
-**Kiyoka:** Ehhhh\~\~\!?  
+**Kiyoka:** Ehhhh\~\~\!\?  
 **Yui:** It's okay\! I know just the thing\! It comes with a 100% guarantee to make you feel all better\!  
 **Kiyoka:** Wh-What should I do?  
 **Yui:** Human contact has been proven to help relax\! So\~ that's\~ why\~, when you're feeling nervous, a hug's all you need\! Come on, Kiyoka-chan\!  

@@ -6,13 +6,13 @@ Happy New Year! The Tojis' New Year's an...
 In the middle of January.
 
   
-**Yukina:** Why can't I be with Yukari-onee-sama\!?  
+**Yukina:** Why can't I be with Yukari-onee-sama\!\?  
 **Sana:** Sigh.  
 **Yukina:** Don't sigh at me\!  
 **Yukina:** January's already halfway over, you know? And still, I can count the number of hours I've spent together with Yukari-sama on just one hand\!\!  
 **Sana:** But I mean like, there's nothing you can do about that, right?  
 **Sana:** Missions and stuff get really busy around New Year's, and Yukari-senpai's probably got a lot going on at home.  
-**Yukina:** Still, Hiiragi-san gets to be together with Yukari-onee-sama, doesn't she\!? That's not fair\!  
+**Yukina:** Still, Hiiragi-san gets to be together with Yukari-onee-sama, doesn't she\!\? That's not fair\!  
 **Sana:** Isn't that just like something you've gotta deal with?  
 **Yukina:** ......  
 **Yukina:** Why would you say that? Whose side are you on, Sana?  
@@ -34,7 +34,7 @@ In the middle of January.
 **Minato:** Yukari, Kagari... Wait, Yukina and Sana? Huh; what're you doing here?  
 **Kagari:** Sagami-san was just here inviting us to make our first shrine visit.  
 **Minato:** Cool, our first shrine visit\! I'll go with\!  
-**Yukina:** (You're bringing Minato-senpai too\!? Hiiragi-san\! Is that how badly you want to ruin my time with Yukari-onee-sama\!?)  
+**Yukina:** (You're bringing Minato-senpai too\!\? Hiiragi-san\! Is that how badly you want to ruin my time with Yukari-onee-sama\!\?)  
 **Sana:** (That look on her face... She's totally getting mad at Kagari-senpai for no reason.)  
 **Minato:** C'mon everybody, let's go\!  
 
@@ -45,11 +45,11 @@ In the middle of January.
 **Yukina:** (But, this is where Sana comes in...)  
 **Minato:** Huh, so you're the one who thought of all coming to a shrine together?  
 **Sana:** Yep, that was me-.  
-**Yukina:** (Why are you off having fun chatting with Minato-senpai\!? Didn't you promise to come along and help me\!?)  
+**Yukina:** (Why are you off having fun chatting with Minato-senpai\!\? Didn't you promise to come along and help me\!\?)  
 **Minato:** Since we came to make our first shrine visit, let's all draw our fortunes\!  
 **Sana:** Sounds good\!  
 **Minato:** And whoever gets the worst fortune is buying us juice, Sana.  
-**Sana:** Ehh\!?  
+**Sana:** Ehh\!\?  
 **Kagari:** Gambling on your fortunes is so unscrupulous.  
 **Yukari:** But it does sound fun.  
 **Kagari:** You're bringing Yukari-sama into this too... Minato-senpai?  
@@ -69,7 +69,7 @@ In the middle of January.
 **Kagari:** ...  
 **Yukari:** You shouldn't look so upset, getting a great fortune, Kagari... [achoo].  
 **Yukari:** It's gotten a little chilly, hasn't it?  
-**Yukina:** Yukari-onee-sama\!? It'd be awful if you caught a cold\! I'll go buy you something warm to drink\!  
+**Yukina:** Yukari-onee-sama\!\? It'd be awful if you caught a cold\! I'll go buy you something warm to drink\!  
 **Sana:** ...I'll go too. Yukina-senpai on her own probably won't get anything for anybody besides Yukari-senpai.  
 **Minato:** Then, I guess I'll go along. Won't you have a hard time carrying drinks for 4 people by yourself?  
 **Sana:** Thanks\!  
@@ -97,7 +97,7 @@ In the middle of January.
 **Kagari:** ...  
 **Yukari:** Hey, Kagari. I just...  
 **Minato:** We got drinks\!  
-**Kagari/Yukari:** --\!?  
+**Kagari/Yukari:** --\!\?  
 **Yukina:** Yukari-onee-sama\! Here's hot tea for you\!  
 **Sana:** And I got the same for you, Kagari-senpai.  
 **Kagari:** ...Thank you, Sana. I'll take it.  

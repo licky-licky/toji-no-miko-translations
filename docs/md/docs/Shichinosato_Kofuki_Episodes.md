@@ -1,13 +1,9 @@
 
 Shichinosato Kofuki Episodes
 ============================
+https://www.youtube.com/watch?v=Lk8J11VDtLA
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/Lk8J11VDtLA" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/Qn8sW115TSU
 
   
@@ -78,7 +74,7 @@ In April--
 **Kofuki:** Huh?  
 **Tamaki Marie:** I-I'm Tamaki Marie, a toji in the first year of the high school branch.　If you haven't decided on a research discipline yet, feel free to join me in learning Hokushin Itto-ryu...  
 **Kofuki:** Get lost...  
-**Marie:** Huh\!?  
+**Marie:** Huh\!\?  
 **Watanuki Kazumi:** You there, you're a new student in the middle school branch, aren't you? How would you like to learn the ways of Satsuma Jigen-ryu?  
 **Kazumi:** It requires much more dedication to training than any other style, but no other sword will be able to match your gallantry...  
 **Kofuki:** ...I'm a third year.  
@@ -89,7 +85,7 @@ In April--
 **Kofuki:** ......  
 **Sumi:** Also, I haven't made any friends yet, so... Ah, and if you like, do you want to learn Jiken Shinkage-ryu together...  
 **Kofuki:** Get it through your head already\! I'm a third year\!  
-**Sumi:** Y-You're my senpai\!? S-S-S-Sorry\!  
+**Sumi:** Y-You're my senpai\!\? S-S-S-Sorry\!  
 **???:** Kofukicchi\~\!  
 **Kofuki:** Go to hell\! I said I'm a third yea... Oh, it's you.  
 **Fujimaki Minaki:** Hm\~, what's wrong?  
@@ -103,7 +99,7 @@ In April--
 Inside the research building of Renpu Girls' School, in the aradama processing facility--
 
   
-**Kofuki:** Where's the next one\! Why's the next aradama-chan not in here yet\!?  
+**Kofuki:** Where's the next one\! Why's the next aradama-chan not in here yet\!\?  
 **Tsugumi:** What's the matter? You're in a bad temper today.  
 **Kofuki:** Shut up\! Fuck\! Everyone keeps treating me like a little kid\! Aradama-chan's the only one who gets what I want\!  
 **Kofuki:** Ahhh, damnit\! I love you\! Aradama-chan\!  
@@ -128,7 +124,7 @@ Inside the research building of Renpu Girls' School, in the aradama processing f
 **Kofuki:** ...And I guess that's it.  
 **Kiyoka:** I get it now. Kofuki-san's style is boyish and punk fashion. Where do you usually do your shopping?  
 **Kofuki:** Huh? I just buy something if it catches my eye while I'm out. Don't have any favorite shops or anything. So wait, this stuff is called punk?  
-**Kiyoka:** Y-You didn't know that\!?  
+**Kiyoka:** Y-You didn't know that\!\?  
 Another day...
 
   
@@ -180,9 +176,9 @@ Another day...
 **Kofuki:** ...Damnit... I'm getting really pissed off\! It's all Chichie's fault\!  
 **Kofuki:** I just wanna do my thing and play with aradama-chan, but nooo\!  
 **Kofuki:** I mean...  
-**Chie:** "That's enough\! Please...\! You have to take better care of yourself\!"  
+**Chie:** "That's enough\! Please...\! You have to take better care of yourself\!\"  
 **Kofuki:** ...Cause she keeps saying stuff like that...  
-**Chie:** "You're hurt, Kofuki-chan\! None of us are going to overlook that\!"  
+**Chie:** "You're hurt, Kofuki-chan\! None of us are going to overlook that\!\"  
 **Kofuki:** ...And that...  
 **Chie:** "I'm so glad... You're safe, aren't you..."  
 **Kofuki:** ...And that\! She just won't leave me alone\!  
@@ -210,7 +206,7 @@ https://youtu.be/Qn8sW115TSU
   
 
 ## [Railgun - Kofuki: Start]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!
-**Ruiko:** Shichinosato-san\! Is it really true that Renpu Girls' Academy is researching human aradamas behind closed doors\!?  
+**Ruiko:** Shichinosato-san\! Is it really true that Renpu Girls' Academy is researching human aradamas behind closed doors\!\?  
 **Kofuki:** The hell are you talking about?  
 **Ruiko:** It's a rumor I've been hearing from all the toji\!  
 **Ruiko:** Since I like learning about urban legends, I thought you toji might have some, so I asked a bunch of people\!  
@@ -225,9 +221,9 @@ https://youtu.be/Qn8sW115TSU
 **Ruiko:** You say that, but, if it really was real, wouldn't you be interested, Uiharu?  
 **Kazari:** In that case... I think I would, a little...  
 **Kofuki:** Then, wanna go see the research labs? I was just about to head over there actually.  
-**Ruiko:** Can we\!?  
+**Ruiko:** Can we\!\?  
 **Kofuki:** Sure, do whatever you want. Though, whatever happens when you get there, it's not my problem.  
-**Ruiko:** W-Whatever happens...? Then, are there really human aradama\!?  
+**Ruiko:** W-Whatever happens...? Then, are there really human aradama\!\?  
 **Kazari:** S-Saten-san, maybe we should just give up on this...  
 **Ruiko:** It sounds interesting\! Let's go, Uiharu\!  
 **Kazari:** Of course it came to this...  
@@ -236,7 +232,7 @@ https://youtu.be/Qn8sW115TSU
 **Ruiko:** ...Maybe the toilet?  
 **Kazari:** Do you think?  
 **???:** Excuse me.  
-**Ruiko/Kazari:** HYAAAAAAAA\!?  
+**Ruiko/Kazari:** HYAAAAAAAA\!\?  
 **Ruiko:** I'm sorry, it's not like we wandered in here on our own\! Shichinosato-san just led us here is all\!  
 **Kazari:** This is why I told you to stop, didn't I\!  
 **Tsugumi:** Really now... This was mean of you, Shichinosato-san.  
@@ -246,11 +242,11 @@ https://youtu.be/Qn8sW115TSU
 **Ruiko:** I-I thought you'd be mad at us...  
 
 ## [Railgun - Kofuki: End]: Take it Easy With Gathering Rumors
-**Ruiko:** When you suddenly popped out at us, I was thinking, "We're gonna get turned into human aradama experiments\!"  
+**Ruiko:** When you suddenly popped out at us, I was thinking, "We're gonna get turned into human aradama experiments\!\"  
 **Tsugumi:** Human aradama... Ahh, it's about that rumor, isn't it.  
-**Ruiko:** You know about it\!?  
+**Ruiko:** You know about it\!\?  
 **Kazari:** Saten-san, let's stop asking them weird questions.  
-**Saten:** But, we finally met someone who knows about it\!? Aren't you curious, Uiharu?  
+**Saten:** But, we finally met someone who knows about it\!\? Aren't you curious, Uiharu?  
 **Kazari:** Well, I am a little bit curious...  
 **Tsugumi:** That rumor is completely made up. We don't carry out experiments fusing humans with aradama or the like here.  
 **Ruiko:** So that's all-.  
@@ -265,12 +261,12 @@ https://youtu.be/Qn8sW115TSU
 **Ruiko:** Hey, it looks like she just finished beating the aradama too, so let's go\!  
 **Tsugumi:** Ah, please wait a moment\!  
 **Tsugumi:** Uiharu-san, please stop Saten-san\! The current turn hasn't finished yet\!  
-**Kazari:** Ehh\!? S-Saten-san, hang on\!  
+**Kazari:** Ehh\!\? S-Saten-san, hang on\!  
 **Ruiko:** Huh?  
 **Aradama:** SHAAAAAAAAAAAAAAA\!\!  
 **Kofuki:** Hey, what'd you come running in here for\!\!  
 **Ruiko:** I-I thought you were finished already\!  
-**Kazari:** Are you okay, Saten-san\!?  
+**Kazari:** Are you okay, Saten-san\!\?  
 **Kofuki:** You two aren't supposed to be in here\! Whatever\! I'll take care of these guys fast, so just hide in the back\!  
 **Ruiko/Kazari:** O-Okay\!  
 **Ruiko:** Th-Thank god we're safe...  
@@ -285,7 +281,7 @@ https://youtu.be/SIh8DzG3-h8
 
 ## [Aradama Hoodie - Kofuki: Start]: Pissing Me Off
 **Kofuki:** GYAAAAAAAAAAAAAAAAAAAAAA\!\!  
-**Mihono:** \!? Just now, that was...  
+**Mihono:** \!\? Just now, that was...  
 **Tsugumi:** Yes, that was the shrill scream of Shichinosato-san just now.  
 **Mihono:** Knowing Fukki, an aradama probably didn't get the drop on her or something, right?  
 **Tsugumi:** Yes, it's difficult to imagine. I think it's safe to say something else must have occurred.  
@@ -324,14 +320,14 @@ https://youtu.be/SIh8DzG3-h8
 **Tsugumi:** That's because you were asleep on the train. Here, have some of this and you'll be wide awake.  
 **Kofuki:** Oh-... Thanks...  
 **Mihono:** Ah.  
-**Kofuki:** BFWOO-\!?  
+**Kofuki:** BFWOO-\!\?  
 **Kofuki:** Oi, what'd you feed me\!\!  
 **Tsugumi:** Just something simple to eliminate drowsiness.  
 **Kofuki:** Don't pass me toxic crap like it's no big deal\! You're freaky.  
 **Tsugumi:** Am I?  
 **Mihono:** Fukki's looking wide awake now at least, so let's go buy some clothes\!  
 **Mihono:** By the way, how do you pick out your clothes, Fukki?  
-**Mihono:** I remember Kiyoka saying, "Fukki's got a great sense of style\!", so I've been curious ever since.  
+**Mihono:** I remember Kiyoka saying, "Fukki's got a great sense of style\!\", so I've been curious ever since.  
 **Kofuki:** I just pick out whatever. Cruise around the shops and buy stuff...  
 **Kofuki:** See, like that? Ohm.  
 **Mihono:** You say, "like that", but... Where'd you find these hoodies?  
@@ -345,13 +341,13 @@ https://youtu.be/SIh8DzG3-h8
 **Kofuki:** ...[grin] Mihocchi, you want a bite?  
 **Mihono:** Can I?  
 **Kofuki:** Sure, but you get one bite, alright? Here... Open wide.  
-**Mihono:** Ahh-... Nngh\!?  
-**Mihono:** Hey, Fukki\! Weren't you gonna let me have some\!?  
+**Mihono:** Ahh-... Nngh\!\?  
+**Mihono:** Hey, Fukki\! Weren't you gonna let me have some\!\?  
 **Kofuki:** Ahahahahaha\! If you wanted to eat some, then go buy it yourself, Mihocchi.  
 **Tsugumi:** Ohm. ...[chew chew] I see, it is fairly good.  
 **Kofuki:** Hey, don't you go eating it\!  
 **Mihono:** Now's my chance... Mmm-, so good\!  
-**Kofuki:** Mihocchi too\!? Ahh, damnit\! Gimme back the bits you ate\!  
+**Kofuki:** Mihocchi too\!\? Ahh, damnit\! Gimme back the bits you ate\!  
 **Mihono:** How am I supposed to do that when I ate it\!  
 **Tsugumi:** You could just go buy another one, Shichinosato-san.  
 **Kofuki:** Like you can talk when you're the one who went and ate it-\!  
@@ -368,7 +364,7 @@ https://youtu.be/uHqT2Ku_lgU
 **Kofuki:** Thanks for that... Oww, hot\! Let it cool down some first\!  
 **Tsugumi:** Huh, had it not cooled off enough yet? I'm sorry.  
 **Kofuki:** Damnit... [blow- blow-]...  
-**Kofuki:** Oh yeah, get this\! Earlier, Mihocchi went and ate my milk pudding, y'know\!?  
+**Kofuki:** Oh yeah, get this\! Earlier, Mihocchi went and ate my milk pudding, y'know\!\?  
 **Tsugumi:** That sounds like fun.  
 **Kofuki:** ...Huh? You even listening? What part about getting your pudding eaten sounds fun to you\!  
 **Tsugumi:** Well... You've been sounding like you're enjoying yourself this whole time, Shichinosato-san.  
@@ -422,7 +418,7 @@ https://youtu.be/uHqT2Ku_lgU
 **Kofuki:** You get real annoying when you're explaining stuff, y'know. Like, you're probably thinking you can spin me whatever bullshit, but I'm not letting you outta this one.  
 **Tsugumi:** I'm at a loss then...  
 **Tsugumi:** (I want to tell her that I think she's more lively before, and that she doesn't have to worry about unnecessary things, but... how would I get that across?)  
-**Kofuki:** Is that some aradama-chan\!?  
+**Kofuki:** Is that some aradama-chan\!\?  
 **Tsugumi:** Good timing.  
 **Tsugumi:** You do seem to be having the most fun whenever aradama appear. That part of you really doesn't change.  
 **Kofuki:** 'Course it wouldn't\! Anyway, I'm gonna go check it out\!  

@@ -86,7 +86,7 @@ https://streamable.com/0seagv
 **Suzuka:** But many toji would dream of suppressing aradama while keeping casualties to a minimum, or consider it their ideal.  
 **Suzuka:** Though, wishing all the aradama were gone might be the most common.  
 **Kofuki:** Count me out if all the aradama-chan are gone.  
-**Kiyoka:** Ah, where are you going, Kofuki-san\!?  
+**Kiyoka:** Ah, where are you going, Kofuki-san\!\?  
 **Kofuki:** I'm not interested in training where there's no aradama-chan.  
 **Tsugumi:** Don't worry. Shichinosato-san not participating was well within my expectations.  
 **Chie:** I have to take care of something later too, so I won't be able to participate in the training itself.  
@@ -108,11 +108,11 @@ https://streamable.com/0seagv
 **Kanami:** Yeah\!  
 **Mihono:** Ahaha, even in her dreams, Kanami still acts like Kanami-.  
 **Mirja:** One step at a time, we can only work toward our goals through effort. Holding onto a firm image will be a good experience--  
-**Kiyoka:** Aradama\!?  
+**Kiyoka:** Aradama\!\?  
 **Mirja:** A message came in... It seems we've been given orders to move out.  
 **Mirja:** We'll hurry to the scene immediately\!  
 **Aradama:** GGGGGIIIII...\!  
-**Chiba Erika:** Come on already\! What's with... these things\!? This whole time... there's just no end to them\!  
+**Chiba Erika:** Come on already\! What's with... these things\!\? This whole time... there's just no end to them\!  
 **Shiba Miyuki:** Erika, complaining won't do any good. We may not be sure of what these strange things are, but we can't leave them here.  
 **Miyuki:** --HAAAH\!  
 **Erika:** Thanks, Miyuki\! If they're like this--  
@@ -121,8 +121,8 @@ https://streamable.com/0seagv
 **Saegusa Mayumi:** Still, what are these monstrous looking things in the first place...?  
 **Angelina:**  Wait... Something's not right\! No way; Miyuki's magic isn't working...?  
 **Aradama:** ...UUUUU\!  
-**Yui:** It looks like there's some extra cute cuties fighting for some reason\!?  
-**Mihono:** Eh; you're right\!?  
+**Yui:** It looks like there's some extra cute cuties fighting for some reason\!\?  
+**Mihono:** Eh; you're right\!\?  
 **Kanami:** We've gotta help them\!  
 
 ## 2: Strange Visitors
@@ -133,7 +133,7 @@ https://streamable.com/0seagv
 **Kanami:** Only a toji carrying an okatana can exorcise an aradama.  
 **Erika:** Ehh... What's with that? Is that a thing?  
 **Mayumi:** So that would be why Miyuki-san's magic didn't do any more than hold them still...  
-**Mihono:** ...M-Magic\!? Can you really use magic\!?  
+**Mihono:** ...M-Magic\!\? Can you really use magic\!\?  
 **Honoka:** Ah, we can. We're students of Magic High School.  
 **Kiyoka:** ...Magic... high school?  
 **Angelina:** It looks like... We both have lots of things we don't know about each other.  
@@ -168,7 +168,7 @@ https://streamable.com/0seagv
 **Miyuki:** That makes sense. Then, I will go next. My name is Shiba Miyuki. It's a pleasure to meet you.  
 **Angelina:** I'm Angelina Kudou Shields. It's sort of a mouthful, so I'd appreciate it if you just called me Lina.  
 **Shizuku:** Kitayama Shizuku. Nice to meet you. Come on, it's your turn, Honoka. Show them your magic while you introduce yourself.  
-**Honoko:** Hey... Shizuku\!? It's not like you did that during your turn...  
+**Honoko:** Hey... Shizuku\!\? It's not like you did that during your turn...  
 **Miyuki:** Wouldn't that be alright? So long as you control the power output, flash magic shouldn't be very dangerous to show off.  
 **Honoka:** Not you too, Miyuki...  
 **Honoka:** Sigh... Then, only a little. It's going to be bright, so please don't look directly at it.  
@@ -321,7 +321,7 @@ Several days have passed since meeting Miyuki and the others.
 **Miyuki:** That's true. Toji and aradama. They're things we aren't used to and can hardly imagine.  
 **Miyuki:** I think it's wonderful that we were able to meet you, Kanami-san, Hiyori-san, but it all feels a bit like a dream.  
 **Kanami:** Yeah, it really is like a dream. Getting to hang out together with people from a world where magic is real...  
-**Kanami:** --Wait, it is a dream\!? Hiyori-chan\!  
+**Kanami:** --Wait, it is a dream\!\? Hiyori-chan\!  
 **Hiyori:** Yeah, I just realized it too.  
 **Erika:** What do you mean?  
 **Hiyori:** Before we met you, we were doing a type of image training using dreams.  
@@ -337,8 +337,8 @@ Several days have passed since meeting Miyuki and the others.
 **Maki:** That's true... We never were officially told that the training was over.  
 **Mirja:** We went to discuss this strange situation with Ban Tsugumi here during the day, but failed to meet with her.  
 **Yume:** But, then why're Miyuki-onee-san and everybody here?  
-**Yume:** Ah... Is it cause I kept on thinking about how I wanted to use magic in my dream\!?  
-**Mihono:** I-I did that too\!? I was wondering if something fun like magic would happen in our dreams...  
+**Yume:** Ah... Is it cause I kept on thinking about how I wanted to use magic in my dream\!\?  
+**Mihono:** I-I did that too\!\? I was wondering if something fun like magic would happen in our dreams...  
 **Hiyori:** Well, that might've had some kind of effect, but we can't be sure why they appeared here.  
 **Kanami:** Even if this is a dream, that's pretty weird. Do you have any idea why that could've happened?  
 **Mayumi:** Thinking about this as a dream, the only thing that comes to mind would be, the day before we became lost in this dream, the six of us were staying the night together?  
@@ -351,7 +351,7 @@ Several days have passed since meeting Miyuki and the others.
 
 ## 4: A Way to Wake From the Dream
 **Mihono:** Ah, owww\!\!  
-**Kiyoka:** H-Hono-chan\!? Why did you bash your head against the wall all of a sudden\!?  
+**Kiyoka:** H-Hono-chan\!\? Why did you bash your head against the wall all of a sudden\!\?  
 **Mihono:** I thought, if I did this... Maybe I'd wake up from the dream.  
 **Miyuki:** Even if it is a dream, it's still painful, isn't it? I think you'd better stop, Mihono-san.  
 **Mirja:** I do appreciate your willingness to try anything, but I wouldn't reccomend doing that.  
@@ -382,7 +382,7 @@ Several days have passed since meeting Miyuki and the others.
 **Kanami:** So, help me out, Hiyori-chan\! Let's have a sparring match straight away\! To bring me closer to my ideal self\!  
 **Hiyori:** You... just wanted to have a match with me, didn't you.  
 **Erika:** Kanami-. If you're looking for a sparring partner, how about me?  
-**Kanami:** Really\!?  
+**Kanami:** Really\!\?  
 **Erika:** We both probably have two different concepts of swordfighting. But, I think there'll be enough in common.  
 **Kanami:** I'd love to have you\! Erika-san\!  
 **Erika:** That's the spirit\! Don't go holding back on me, okay?  
@@ -393,7 +393,7 @@ Several days have passed since meeting Miyuki and the others.
 **Hiyori:** ...Do you you think you could tell me yours, for reference? Kanami said I'm fine the way I am, but I have my own thoughts on it.  
 **Miyuki:** ......  
 **Miyuki:** I have someone who I don't want to disappoint, more than any other. I want to be someone that person can be proud of... That's what I thought.  
-**Miyuki:** Ahh\!? I'm sorry... I was supposed to be helping tell you my ideal, but I couldn't get it across very well, could I.  
+**Miyuki:** Ahh\!\? I'm sorry... I was supposed to be helping tell you my ideal, but I couldn't get it across very well, could I.  
 **Hiyori:** Not at all, thanks. I'm sure that, if there's somebody you don't want to dissappoint, you'll keep putting in effort.  
 **Hiyori:** I'll think about it a little.  
 **Miyuki:** Of course; do what you can, Hiyori-san.  
@@ -417,7 +417,7 @@ Several days have passed since meeting Miyuki and the others.
 **Hiyori:** You're really giving it your all, Mihono.  
 **Mihono:** That's cause I'd hate being stuck in a dream forever.  
 **Aradama:** GUOOOOOO...\!  
-**Kiyoka:** Eh\!? They came from outside the circle\!?  
+**Kiyoka:** Eh\!\? They came from outside the circle\!\?  
 **Mayumi:** It's alright, Musumi-san.  
 **Mayumi:** --Take this\!  
 **Maki:** Saegusa-san, thanks for stopping them with your magic\!  
@@ -434,7 +434,7 @@ Several days have passed since meeting Miyuki and the others.
 **Yomi:** More and more are coming.  
 **Erika:** --HAAAAAAAAAH\!  
 **Aradama:** ...OOOONNNN.  
-**Maki:** Chiba Erika\!?  
+**Maki:** Chiba Erika\!\?  
 **Erika:** It's not in me to sit in the back and watch. I'm here to back you up. Come on, you've gotta finish it off already\!  
 **Maki:** --YAAAAAAAA\!  
 **Maki:** I understand that you're skilled, but be more careful with yourself.  
@@ -444,7 +444,7 @@ Several days have passed since meeting Miyuki and the others.
 **Angelina:** She must have been watching Miyuki and the others spamming out magic to back them up too.  
 **Honoka:** Aren't you going to go in and help too, Lina?  
 **Angelina:** Asking me that right after that... Aren't you making me sound like a person who likes going wild with her magic?  
-**Honoka:** Ah. S-Sorry... I didn't mean it that way\!?  
+**Honoka:** Ah. S-Sorry... I didn't mean it that way\!\?  
 **Angelina:** I know. I'm going to hold off here.  
 **Shizuku:** In that case, let's move further back. It'd be bad if we got in their way.  
 **Miyuki:** I won't let you do as you please\!  
@@ -492,7 +492,7 @@ Several days have passed since meeting Miyuki and the others.
 **Tsugumi:** With this, the test of training making use of dreaming while sleeping has finished. Please remain where you are for a moment. I'll come in to get you.  
 **Tsugumi:** How was this new form of training, everyone?  
 **Mihono:** I missed you so much, Chii-neeeee\!  
-**Chie:** M-Mihono-chan\!? Hugging me all of a sudden... Did you have a scary dream?  
+**Chie:** M-Mihono-chan\!\? Hugging me all of a sudden... Did you have a scary dream?  
 **Mihono:** No. But... I felt a little like I might never see you again.  
 **Chie:** You don't have to worry. I'm not going anywhere.  
 **Chie:** Tsugumi-san. How long were we sleeping for?  

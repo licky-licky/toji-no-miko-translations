@@ -1,13 +1,9 @@
 
 2-9 For Those Smiling Faces
 ===========================
+https://www.youtube.com/watch?v=5g3CnOt5aH0
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/5g3CnOt5aH0" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Kaoru's Teachings (1)
 **Kiyoka:** ...Sigh.  
@@ -63,7 +59,7 @@
 **TV (Civilian):** I... Because of all the aradama about, I can hardly sleep at night. It's been like that here all this time\!  
 **TV (Civilian):** They're going to make the Sword Administration pay for all the damages we've suffered because of the aradama, right?  
 **TV (Interviewer):** As you can see, a great number of people are showing open anger towards the Sword Administration Bureau as a result of the leakage issue.  
-**Mihono:** Come onnn-\! What are they talking about\!? None of them even know what's going on-\!\!  
+**Mihono:** Come onnn-\! What are they talking about\!\? None of them even know what's going on-\!\!  
 **Yui:** Watching the news again, Mihono-chan? You're such an M.  
 **Mihono:** M...?  
 **Hana:** What she means is that all you're doing is hurting yourself trying to gather information.  
@@ -73,7 +69,7 @@
 **Mihono:** Still, they can't get away with this...\! All the toji are working as hard as they can\!\!  
 **Yui:** You're so pure, Mihono-chan... Makes me want to dirty you up a little...\!  
 **Mihono:** What are you talking about, Yui. I'm already filthy...  
-**Yui:** Eh-\!?  
+**Yui:** Eh-\!\?  
 **Mihono:** I fell right in the mud on our last mission. I just wanna get in the bath already\!  
 **Yui:** Uh, I wasn't talking so literally...  
 **STT Officer:** Attention all toji\! Aradama have appeared in the nearby area\! Please get ready to sortie\!  
@@ -81,7 +77,7 @@
 
 ## 6: Misunderstanding (2)
 **STT Officer:** Asakura-san\! Yamashiro-san\! Suzumoto-san\! You did good work again today\!  
-**Mihono:** Eh-\!? Why do you know our names...?  
+**Mihono:** Eh-\!\? Why do you know our names...?  
 **STT Officer:** Of course I'd know who you are\! Japan owes you a great debt for keeping it safe\!  
 **Hana:** You're exaggerating; we're not anyone that special.  
 **STT Officer:** No I'm not\! I saw the broadcast on TV too, and I think it's terrible what they're saying\!  
@@ -109,7 +105,7 @@
 
 ## 8: Attack (1)
 **STT Officer:** Everyone\! More aradama have appeared in the area\! Prepare to combat them\!  
-**Yui:** Again\!? How many times does that make it today\!?  
+**Yui:** Again\!\? How many times does that make it today\!\?  
 **Hana:** My body feels heavy... I must be hitting my limit at this point...  
 **Mihono:** But, they need us toji to suppress the aradama...\! So we have to do what we can and head over there\!  
 **Yui:** You're right... For the sake of all the girls living around here...\!  
@@ -119,33 +115,33 @@
 **Hana:** It's too soon to celebrate. There aren't enough people to go around, so we're in charge of collecting the noro here.  
 **Yui:** I know, but, I'm seriously exhausted here... I feel like I could pass out at any moment... Can't we take care of the noro after a little break--  
 **???:** ......  
-**Yui:** Huh-\!? Someone shady looking just showed up out of nowhere\!? Who are you\!?  
+**Yui:** Huh-\!\? Someone shady looking just showed up out of nowhere\!\? Who are you\!\?  
 **Hana:** ...What if this is the mysterious toji they've been talking about; that noro thief...?  
-**Mihono:** Noro thief\!? Why would someone do that\!?  
+**Mihono:** Noro thief\!\? Why would someone do that\!\?  
 **Hana:** I'm not sure, but they've been taking the noro by force, so it can't be for any good reason.  
 **Yui:** Wh-What do we do? Fight her? I hate to say it, but staying standing is about all I can manage right now...  
 **Mihono:** You should rest up, Yui\! I'll see what I can do\!  
 **Yui:** --No way\! If you're fighting, then of course I'm fighting with you\!  
 **Hana:** And it goes without saying, me too.  
 **???:** ......  
-**Hana:** Wha...\!? When did I get cut...\!?  
-**Yui:** I couldn't even see her sword...\!? What is she...\!?  
-**Mihono:** Yui\!? Hana\!?  
+**Hana:** Wha...\!\? When did I get cut...\!\?  
+**Yui:** I couldn't even see her sword...\!\? What is she...\!\?  
+**Mihono:** Yui\!\? Hana\!\?  
 **Mihono:** ...They aren't in the best shape, but she still took them out in an instant...\! So, what am I supposed to do...\!\!  
 
 ## 10: Gathering
 **???:** ......  
 **Mihono:** It's no use... I can't picture myself beating her...\!\! But, I have to protect Yui and Hana...\!\!  
 **Mihono:** What do I do...\!\! Nghh...\!\!  
-**Chie:** --Mihono-chan\!\! Are you okay\!?  
+**Chie:** --Mihono-chan\!\! Are you okay\!\?  
 **Kiyoka:** Hono-chan\! We're here to help\!  
-**Mihono:** Chii-nee and Kiyoka\!?  
+**Mihono:** Chii-nee and Kiyoka\!\?  
 **Kofuki:** Seriously. First time I see you in how long and you're already getting your ass kicked.  
 **Mirja:** Asakura Mihono, can you still move? If so, take Yamashiro Yui and Suzumoto Hana and get back\!  
-**Mihono:** Even Fukki and Mirja-san are here\!\! Did you come to save us\!?  
+**Mihono:** Even Fukki and Mirja-san are here\!\! Did you come to save us\!\?  
 **Mirja:** We can talk after. Right now, we're going to defeat the hooded toji\!  
 **???:** ......  
-**Kofuki:** Ah-\! Oi, get back here\! Did you chicken out when you realized you were gonna lose\!?  
+**Kofuki:** Ah-\! Oi, get back here\! Did you chicken out when you realized you were gonna lose\!\?  
 **Chie:** Kofuki-chan, don't provoke her. She's strong. If we can get out of this without fighting, we should accept it.  
 **Kofuki:** Tch... If you say so.  
 **Kiyoka:** Though, thank goodness we made it in time...  

@@ -1,13 +1,9 @@
 
 3 - Investigation Team Formation Exam
 =====================================
+https://www.youtube.com/watch?v=2Gf_EgUkR-M
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/2Gf_EgUkR-M" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The President, the Akabane Swords, and the Girl with No Presence
 **Mihono:** President Ema...?  
@@ -41,7 +37,7 @@
 **Ema:** Hm...? Ah... I'm so sorry, I completely forgot. Let's see, this is Heijou Institute's Musumi Kiyoka-san.  
 **Ema:** She's the toji that Heijou Institute's president Gojou Iroha is providing for the investigation team.  
 **Kiyoka:** Ah, um...... Pleased to, meet you.  
-**Mihono:** (U-Uh... She... She's got no presence at all, does she\!?)  
+**Mihono:** (U-Uh... She... She's got no presence at all, does she\!\?)  
 
 ## 2: Aptitude Test (1)
 One of The Five Traditions under the Origami Family, Renpu Girl's School--
@@ -81,9 +77,9 @@ One of The Five Traditions under the Origami Family, Renpu Girl's School--
 **Yukina:** Just watch\!  
 
 ## 4: Aptitude Test (3)
-**Kiyoka:** I-I don't want to do this anymore... I thought we were just meeting up; why do we have to fight-\!?  
+**Kiyoka:** I-I don't want to do this anymore... I thought we were just meeting up; why do we have to fight-\!\?  
 **Kiyoka:** Were't we just going to investigate... Kyaa\!  
-**Chie:** What are you thinking, President Takatsu\!? This isn't a test, this is a real battle\!  
+**Chie:** What are you thinking, President Takatsu\!\? This isn't a test, this is a real battle\!  
 **Yukina:** Don't question me.  
 **Yukina:** As pawns in the service of Yukari-sama, isn't it only natural to test whether you can be useful pawns or just plain fodder?  
 **Yukina:** Get back in there and fight.  
@@ -113,26 +109,26 @@ One of The Five Traditions under the Origami Family, Renpu Girl's School--
 **Ema:** Yukina...  
 
 ## 6: Who's Interrupting Our Departure?
-**Kofuki:** Seriously\!? That's it\!? Don't give me that\! I know you've got more aradama\! Bring on dessert\!  
-**Mihono:** Huh... Did we do it? ...Oh yeah\! Did we pass, President Ema\!?  
+**Kofuki:** Seriously\!\? That's it\!\? Don't give me that\! I know you've got more aradama\! Bring on dessert\!  
+**Mihono:** Huh... Did we do it? ...Oh yeah\! Did we pass, President Ema\!\?  
 **Ema:** Seems like it. You made it through, though honestly your teamwork could use improvement. I can't say I'm too satisfied with all this.  
 *alarms flash*
 
   
 **Announcer:** [Confirmed sighting of multiple aradama trespassing on the western end of the campus.]  
 **Ema:** The campus...? What does that mean? Why would aradama be... I don't believe it.  
-**Ema:** (...\! You didn't, did you, Yukina\!? Even for you, this is...)  
+**Ema:** (...\! You didn't, did you, Yukina\!\? Even for you, this is...)  
 **Mihono:** President\! We'll take care of it\! I'm pretty sure we can get there faster than anyone right now\! Let's go, Musumi-san\!  
 **Kiyoka:** Eh? I-I'm going too...?  
 **Mihono:** Of course\! Come on\! You too, Kofuki-san\!  
 **Chie:** Shichinosato-san already ran off ahead\!  
-**Mihono:** Ehh\!? We have to hurry, Chii-nee\! Bye, President Ema\!  
+**Mihono:** Ehh\!\? We have to hurry, Chii-nee\! Bye, President Ema\!  
 
 ## 7: Mirja Touchdown (1)
 **Chie:** Shichinosato-san\! Don't push too far ahead\! Mihono-chan\! You're losing focus; fall back for now\! Just stay behind me, Kiyoka-chan\!  
 **Chie:** (What should I do... I have to keep everyone safe, but I can't keep up with them all...\!)  
 **Mihono:** Look out, Musumi-san\!  
-**Chie:** (Oh no, Kiyoka-chan...\!? I only took my eyes off her for a moment...\!)  
+**Chie:** (Oh no, Kiyoka-chan...\!\? I only took my eyes off her for a moment...\!)  
 **Aradama:** GRRRRUUUU...\!  
 **Kiyoka:** KYAA\! S-Stay back\! Don't come near me\! Go away\!  
 *slash*
@@ -148,15 +144,15 @@ One of The Five Traditions under the Origami Family, Renpu Girl's School--
 *helicopter sounds*
 
   
-**Chie:** A helicopter-\!? Who's dropping in at a time like this...?  
-**Mirja:** What are you doing\!? The enemy's numbers aren't so great\! If you want to defeat them, just do as I say\! This will be over in 5 minutes\!  
-**Chie:** Who's that...\!?  
+**Chie:** A helicopter-\!\? Who's dropping in at a time like this...?  
+**Mirja:** What are you doing\!\? The enemy's numbers aren't so great\! If you want to defeat them, just do as I say\! This will be over in 5 minutes\!  
+**Chie:** Who's that...\!\?  
 **Mirja:** Introductions can come later\! Minoseki\! Renpu is too far forward, stick close behind her right side and support her\!  
 **Mihono:** Uh, okay...\!  
 **Mirja:**  Osafune\! Move forward and hold off the aradama on the left\! Just hold them off; you don't have to kill them\!  
 **Chie:** I-I'm on it\!  
 **Mirja:** Heijou\!  
-**Kiyoka:** Ah- Y-Y-Yes\!?  
+**Kiyoka:** Ah- Y-Y-Yes\!\?  
 **Mirja:** You hang back\! Any aradama the other three let through are yours to finish off\! Prioritize the ones already weakened\!  
 **Kiyoka:** I-I'll try\!  
 **Chie:** (Who is she? She seems so experienced... No, I can't think about that now. Getting through this is all that matters\!)  
@@ -202,10 +198,10 @@ One of The Five Traditions under the Origami Family, Renpu Girl's School--
 **Kofuki:** That sounds lame as hell-\!  
 **Chie:** We don't have a choice though. There's no other leads...  
 **Kiyoka:** ......Harajuku.  
-**Kofuki:** Huh\!?  
+**Kofuki:** Huh\!\?  
 **Kiyoka:** W-We should go... To Harajuku, I think.  
-**Mihono:** Mm, Harajuku. That place is cool... Wait, huh\!?  
-**Kofuki:** Are you an idiot\!?  
+**Mihono:** Mm, Harajuku. That place is cool... Wait, huh\!\?  
+**Kofuki:** Are you an idiot\!\?  
 **Mirja:** Coming from the same Kansai region as you, I can't help but want to visit as well but... We can't be sightseeing on the job, Musumi Kiyoka-san.  
 **Chie:** She's right, Kiyoka-chan. Besides, Shibuya is better for more adult fashion\!  
 **Kofuki:** You too\!\!  

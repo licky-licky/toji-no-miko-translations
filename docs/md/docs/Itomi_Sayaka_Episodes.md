@@ -1,13 +1,9 @@
 
 Itomi Sayaka Episodes
 =====================
+https://www.youtube.com/watch?v=FOmY007u7kA
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/FOmY007u7kA" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Naptime
 **Kofuki:** Oiii-\! Aradama-chan-\! Don't be shy-\! C'mon out and play already-\!  
@@ -17,7 +13,7 @@ Itomi Sayaka Episodes
 **Kofuki:** Huhh? If they were that close, the spectrum finder'd tell us.  
 **Kofuki:** Man, today's not my day. Of all people, why'd you have to follow me around?  
 **Sayaka:** It's an order.  
-**Kofuki:** Oh, is it really? I get that, Sayaka\! But whenever you're around, you steal my kills\! So just don't do anything today. Got that\!?  
+**Kofuki:** Oh, is it really? I get that, Sayaka\! But whenever you're around, you steal my kills\! So just don't do anything today. Got that\!\?  
 **Kofuki:** Nn\! In fact, you just head back home already. That way, I get all the aradama for me...  
 **Sayaka:** There...\! Their numbers are a little more than predicted.  
 **Kofuki:** Fine by me, the more the merrier\! Finally felt like showing yourselves, huh\!  
@@ -65,7 +61,7 @@ Itomi Sayaka Episodes
 **Kofuki:** D-Don't look so peaceful... Hey, Sayaka\! Get off already-\!  
 
 ## 2: Classmates
-**Nagasaki Sumi:** Ehh\! Ehhh\!? Wh-Why're the aradama coming after me...\!?  
+**Nagasaki Sumi:** Ehh\! Ehhh\!\? Wh-Why're the aradama coming after me...\!\?  
 **Sumi:** No way\! No way, no way\! Someone, h-help\!\!  
 **Sayaka:** I'll deal with the aradama on the right. You handle the left.  
 **Sumi:** I-I-Itomi-san...\! I can't\! I was just supposed to be observing from the back today\! I can't just start fighting like this\!  
@@ -96,7 +92,7 @@ Itomi Sayaka Episodes
 **Sayaka:** Itomi-san...  
 **Sayaka:** I practiced a lot, until I was able to do more and more. So I think you should practice a lot too.  
 **Sayaka:** Do you want to practice together sometime?  
-**Sumi:** Eh, with me\!?  
+**Sumi:** Eh, with me\!\?  
 **Sayaka:** Mm. Whenever I don't have a mission.  
 **Sumi:** Do you really think I can improve?  
 **Sayaka:** Mm. You're lacking in a lot of areas, but I think so.  
@@ -140,14 +136,14 @@ Itomi Sayaka Episodes
 **Yukina:** You will feel nothing, think of nothing... You'll simply remove all those who would oppose Yukari-sama.  
 **Sayaka:** (Nothing... What about Mai...?)  
 **Sayaka:** ......No\!  
-**Yukina:** Sayaka\!? Why are you resisting...\!?  
+**Yukina:** Sayaka\!\? Why are you resisting...\!\?  
 **Sayaka:** ...I always did what you said. But...  
 **Sayaka:** I can't... Be the toji you want me to be... No, I don't want to be.  
 **Yukina:** What are... What are you saying...? Sayaka?  
 **Sayaka:** I thought I didn't mind being empty... But, ever since I met Mai, there's this heat inside me.  
 **Sayaka:** I don't want to lose this feeling. I want to be with Mai, who was kind to me.  
 **Yukina:** ...Sayaka. You aren't a defective product like the elite guard. You are the successor to Myoho Muramasa.  
-**Yukina:** In place of... On my behalf, you exist to serve Yukari-sama\! To be a tool for her\!?  
+**Yukina:** In place of... On my behalf, you exist to serve Yukari-sama\! To be a tool for her\!\?  
 **Mai:** Sayaka-chan\! It's alright now\!  
 **Sayaka:** Mai... Why? Why did you come to save me...?  
 **Mai:** Because you're like a little sister to me\! That's all the reason I need\!  
@@ -218,7 +214,7 @@ https://youtu.be/A8mB5sp3tpA
 **Mai:** It might be frightening, but no matter how many there are, what we need to do hasn't changed.  
 **Mai:** Everyone finished evacuating, so let's hold our formation and take them out.  
 **Sayaka:** It's okay. I can... Deal with them.  
-**Mai:** Sayaka-chan\!?  
+**Mai:** Sayaka-chan\!\?  
 **Aradama:** GGIII...\!  
 **Sayaka:** --HAA\!  
 **Aradama:** KSHAAA--\!  
@@ -273,10 +269,10 @@ https://youtu.be/A8mB5sp3tpA
 **Sayaka:** (I want to... Finish this fast, so I can make up with Mai, but...)  
 **Sayaka:** (There's a lot of them today...)  
 **Aradama:** GGGIIII...\!  
-**Mai:** Sayaka-chan\!?  
+**Mai:** Sayaka-chan\!\?  
 **Aradama:** KSHAAAA\!\!  
-**Sayaka:** ...Kgh\!?  
-**Mai:** Are you okay\!?  
+**Sayaka:** ...Kgh\!\?  
+**Mai:** Are you okay\!\?  
 **Sayaka:** I-I'm fine... It wasn't that bad.  
 **Mai:** Thank goodness... You have to make sure not to lose focus, okay?  
 **Sayaka:** Th-Thank you, Mai.  
@@ -361,7 +357,7 @@ https://youtu.be/7xz_k03cXQA
 **Ellen:** Just like she said she would, she's sleeping so peacefully. Let's go wake her up, Saaya\!  
 **Sayaka:** Okay\!  
 **Ellen:** Kaoru-\! It's time to wake up now-\! We're all going down the water slide-\!  
-**Kaoru:** Whoa-\!? What's going on\!?  
+**Kaoru:** Whoa-\!\? What's going on\!\?  
 **Sayaka:** I'm glad. I think I'll have a lot to tell Mai about the pool.  
 https://youtu.be/UdyV4xZkk2E
 
@@ -371,7 +367,7 @@ https://youtu.be/UdyV4xZkk2E
 **Kofuki:** Hey, why're we stopping by this place anyway?  
 **Sayaka:** ...I've been here before.  
 **Mirja:** That's correct. They said they were experiencing trouble, and made a polite appeal, or rather, a request to us.  
-**Kofuki:** Ooh, there's more aradama-chan here\!? Well aren't we lucky\!   
+**Kofuki:** Ooh, there's more aradama-chan here\!\? Well aren't we lucky\!   
 **Mirja:** No, it isn't that kind of trouble. They requested a stuntman for their film.  
 **Kofuki:** Huh?  
 **Sayaka:** ...Stuntman?  
@@ -417,7 +413,7 @@ https://youtu.be/UdyV4xZkk2E
 **Ronin B:** Run away, run away... Everybody split up\!  
 **Sayaka:** (When that person runs, chase him.)  
 **Sayaka:** (Come around right in front of him, and point the tip of my sword toward him... Then done.)  
-**Ronin B:** Eee\!?  
+**Ronin B:** Eee\!\?  
 **Kofuki:** She's actually not doing that bad.  
 **Mirja:** It should be no difficulty at all for her to jump about and wield an imitation sword like that.  
 **Film Director:** CUUUUUUUT\!  

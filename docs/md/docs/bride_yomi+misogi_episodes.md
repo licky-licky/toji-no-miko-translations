@@ -18,7 +18,7 @@ https://streamable.com/wuht4
 **Yume:** A wedding dress\~\! I can't wait\~\!  
 **Yomi:** So this is the reason you proposed an undercover search.  
 **Yomi:** Very well. Then, please leave the aradama to me.  
-**Yume:** Why\!?  
+**Yume:** Why\!\?  
 **Yomi:** It's possible the aradama may not appear if you are holding an okatana.  
 **Yomi:** The decoy should focus entirely on luring out the aradama. The guard will take care of the rest.  
 **Yume:** I don't want to wear a wedding dress then\! You wear it, Yomi-onee-san\!  
@@ -60,7 +60,7 @@ https://streamable.com/rzqc4
 **Yomi:** Ch-Cheese?  
 **Yume:** Hmm, you still aren't smiling right.  
 **Aradama:** GUOOOOOOO\!\!  
-**Yomi:** Ah\!? Tsubakuro-san\! The aradama\!  
+**Yomi:** Ah\!\? Tsubakuro-san\! The aradama\!  
 **Yume:** Oh, you're right. HAAAA\!\!  
 **Yume:** Huh, that was nothing.  
 **Yomi:** ...Tsubakuro-san, you weren't supposed to defeat it. Now we can't identify where the stolen ring was taken.  
@@ -69,7 +69,7 @@ https://streamable.com/rzqc4
 **Yukari:** You did well on your assignment. ...Yomi?  
 **Yomi:** Yes?  
 **Yukari:** That wedding dress suited you.  
-**Yomi:** H-How did you... Tsubakuro-san\!?  
+**Yomi:** H-How did you... Tsubakuro-san\!\?  
 **Yume:** Ah, yep. I showed it around to everyone.  
 **Yomi:** B-By everyone, you mean...  
 **Yume:** Maki-onee-san, and Suzuka-onee-san\~.  
@@ -97,12 +97,12 @@ https://streamable.com/5iebk
 **Yomi:** Right.  
 **Tsugumi:** In that case, I'll send out the next one.  
 **Bull Type Aradama:** ......  
-**Yomi:** ...\!? A bull type...  
+**Yomi:** ...\!\? A bull type...  
 **Bull Type Aradama:** ROAAAAAAAAR\!  
 **Yomi:** Hya...  
 **Tsugumi:** Satsuki-san?  
 **Yomi:** Ah......  
-**Tsugumi:** Satsuki-san\!? What's wrong, Satsuki-san\!\!  
+**Tsugumi:** Satsuki-san\!\? What's wrong, Satsuki-san\!\!  
 **Bull Type Aradama:** GAAAAAAAAAA\!\!  
 **Yomi:** AAAAUGH\!\!  
 **Yomi:** ...Where am I? I remember, I was in the laboratory...  
@@ -142,7 +142,7 @@ https://streamable.com/jwnn0
 **Yomi:** Yes, I felt that I would die there. However... Moments later, a platoon of toji from Renpu arrived, and I was safely rescued.  
 **Yume:** Right in the nick of time\! Do you know any of the girls who saved you?  
 **Yomi:** ...I only learned this later on, but the one directing that platoon was President Takatsu.  
-**Yume:** Really\!?  
+**Yume:** Really\!\?  
 **Yomi:** Yes. I want to repay her for that someday.  
 **Yume:** Repay her? Like how? By beating more aradama?  
 **Yomi:** ...Something like that.  
@@ -176,12 +176,12 @@ https://streamable.com/jwnn0
 **Yume:** Way to go, Yomi-onee-san\! You dodged its attack\!  
 **Yomi:** ...It seems I'm growing used to my fear.  
 **Yume:** Think you can beat it?  
-**Yomi:** I'll try, but...\!?  
+**Yomi:** I'll try, but...\!\?  
 **Bull Type Aradama:** GUUUOOOOO\!\!  
 **Yomi:** (...I'm scared. My body won't stop shaking... This fear won't be erased so easily after all...)  
 **Yomi:** (Though... I did manage to stop its attack.)  
 **Bull Type Aradama:** OOUUUUUUU\!\!  
-**Yume:** Yomi-onee-san\!?  
+**Yume:** Yomi-onee-san\!\?  
 **Yomi:** (If I lose focus, I could be crushed... However, as I am now, I can stop these attacks...)  
 **Yomi:** [Inhale... Exhale...]  
 **Yomi:** ...HAA\!  
@@ -239,7 +239,7 @@ https://streamable.com/hj6lm
 **Hiyori:** (Here they come...\!)  
 **???:** No you don't-\! YAAAA\!  
 **Aradama:** GAAA,aaaa...  
-**Kanami:** Are you okay, Hiyori-chan\!?  
+**Kanami:** Are you okay, Hiyori-chan\!\?  
 **Hiyori:** K-Kanami...?  
 **Mai:** And she's not the only one who came to help.  
 **Hiyori:** Mai, and the rest of you too...?  
@@ -289,8 +289,8 @@ https://streamable.com/kyahp
 **Sawano:** (She isn't launching an attack...? In that case, I'll go to her\!)  
 **Sawano:** HAA\!  
 **Kanami:** ...  
-**Sawano:** (Eh\!? She vanished\!?)  
-**Sawano:** (Behind me\!? In a split second\!?)  
+**Sawano:** (Eh\!\? She vanished\!\?)  
+**Sawano:** (Behind me\!\? In a split second\!\?)  
 **Kanami:** YAAAA-\!  
 **Sawano:** Kh... HAAAAA\!  
 --That night, in Kanami's dreams.
@@ -309,7 +309,7 @@ https://streamable.com/kyahp
 **Kanami:** That's because, you aren't there in the real world... If you were there, then I wouldn't have to.  
 **Minato:** That sounds like it'd be a real waste. You're finally getting to fight people besides me.  
 **Kanami:** It'd be a waste?  
-**Minato:** Each and every fight means you get more people to "Look close\! Listen well\! Focus on your senses\!" with.  
+**Minato:** Each and every fight means you get more people to "Look close\! Listen well\! Focus on your senses\!\" with.  
 **Kanami:** And that's...  
 **Minato:** If you keep that in mind, you could learn even more than you already are, okay?  
 **Kanami:** Look close, listen well, focus on your senses... Okay\! Thanks, Master\!  
@@ -364,7 +364,7 @@ https://streamable.com/8c30b
 **Mai:** It might be frightening, but no matter how many there are, what we need to do hasn't changed.  
 **Mai:** Everyone finished evacuating, so let's hold our formation and take them out.  
 **Sayaka:** It's okay. I can... Deal with them.  
-**Mai:** Sayaka-chan\!?  
+**Mai:** Sayaka-chan\!\?  
 **Aradama:** GGIII...\!  
 **Sayaka:** --HAA\!  
 **Aradama:** KSHAAA--\!  
@@ -422,10 +422,10 @@ https://streamable.com/u67qu
 **Sayaka:** (I want to... Finish this fast, so I can make up with Mai, but...)  
 **Sayaka:** (There's a lot of them today...)  
 **Aradama:** GGGIIII...\!  
-**Mai:** Sayaka-chan\!?  
+**Mai:** Sayaka-chan\!\?  
 **Aradama:** KSHAAAA\!\!  
-**Sayaka:** ...Kgh\!?  
-**Mai:** Are you okay\!?  
+**Sayaka:** ...Kgh\!\?  
+**Mai:** Are you okay\!\?  
 **Sayaka:** I-I'm fine... It wasn't that bad.  
 **Mai:** Thank goodness... You have to make sure not to lose focus, okay?  
 **Sayaka:** Th-Thank you, Mai.  

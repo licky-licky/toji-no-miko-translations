@@ -19,7 +19,7 @@ https://youtu.be/xxSvgtSquMk
 **Yume:** Can I? Thanks. If she's offering, we should just have snacktime with them\! I'll work extra hard after we get there, so we can do it, can't we?  
 **Maki:** I don't see why not; we should be building up our stamina right now...  
 **Maki:** This is Shidou Maki. Did something come up?  
-**Maki:** What\!? Understood. We'll deal with it at once.  
+**Maki:** What\!\? Understood. We'll deal with it at once.  
 **Suzuka:** Maki-san? What's the matter?  
 **Maki:** It sounds like there's been a large outbreak of aradama in the mountain forests here. Every moment counts, so we should get off the train here and deal with that first.  
 **Yomi:** But, if everyone gets off here, won't we be too late to complete our primary duty with this expedition?  
@@ -81,9 +81,9 @@ https://youtu.be/xxSvgtSquMk
 **Yomi:** She handed the phone to me. Tsubakuro-san, I remembered hearing a very interesting rumor about the inn we booked...  
 **Yume:** Eh-, like what, like what? Is it a funny story? I wanna know\~\! Tell me\!  
 **Yomi:** As the rumor goes, a ghost is said to appear in the inn you're staying at. Have you seen it yet?  
-**Yume:** EHH---\!? What do you mean? Nobody said anything like that to me\! Where is it? Where's it supposed to come out\!?  
+**Yume:** EHH---\!\? What do you mean? Nobody said anything like that to me\! Where is it? Where's it supposed to come out\!\?  
 **Yomi:** Ah, I'm sorry, I'm being called for something, so you'll have to excuse me. Anyway, have a nice night, Tsubakuro-san...  
-**Yume:** EHHHHH-\!? Hang on, Yomi-onee-san\! ......She hung up.  
+**Yume:** EHHHHH-\!\? Hang on, Yomi-onee-san\! ......She hung up.  
 **Yume:** W-Well, stuff like ghosts isn't scary or anything\! Cause, I'm super strong and all. There's nothing I can't beat... ...Ah-- But, can you beat a ghost with an okatana?		[Minor trivia, Yume's okatana, Nikkari Ao'e, actually got its name for a legend in which it killed a ghost]  
 **Yume:** I didn't notice it, but it's completely dark outside. ...I can't take this anymore\! I don't wanna stay here all alone by myself until morning--\!  
 **Yume:** Oh, I got it\! Sayaka-chan might be scared all by herself. Since I'm so strong, I'll go and help Sayaka-chan out.  
@@ -110,7 +110,7 @@ https://youtu.be/xxSvgtSquMk
 **Sayaka:** Ummm... I... It doesn't bother me at all, but the others, they say that Mai's... She's too overprotective of me...  
 **Yume:** Hmm. It sorta seems like we both have it hard, being the youngest, don't we.  
 **Sayaka:** Mm... Ah, if I put this here...  
-**Yume:** No way\! You flipped that many\!? You turned the game around in one go. Now I don't have anywhere to put any\!  
+**Yume:** No way\! You flipped that many\!\? You turned the game around in one go. Now I don't have anywhere to put any\!  
 **Sayaka:** I win...  
 **Yume:** Mmgh... That's only cause I got a little distracted talking to you now\! We're playing again\! I'm not stopping until I win\!  
 **Sayaka:** That's fine, but... I'm a little tired... I'll take a short rest...  
@@ -142,11 +142,11 @@ https://youtu.be/xxSvgtSquMk
 **Maki:** What's going on here?  
 **Mai:** Sayaka-chan and Tsubakuro-san, high fiving...  
 **Yume:** Ah-- You're late, onee-sans-\! We already took care of it with just the two of us.  
-**Suzuka:** Eh\!? The two of you took care of all those aradama?  
+**Suzuka:** Eh\!\? The two of you took care of all those aradama?  
 **Yume:** When we put our skills together, it was as easy as that\! See, Sayaka-chan, she's really strong\!  
 **Sayaka:** No, you did a lot of the work, Tsubakuro Yume. You really are... very strong.  
 **Yomi:** They seem to have gotten much closer while we were away.  
-**Maki:** That's for sure. Yesterday, she was all fired up about, "We're having a competition\!" Did you settle that already?  
+**Maki:** That's for sure. Yesterday, she was all fired up about, "We're having a competition\!\" Did you settle that already?  
 **Yume:** Ah-\! That's right, we were competing, weren't we.  
 **Suzuka:** Sigh, Maki-san... Just when they were getting along, you had to go and bring that up...  
 **Yume:** Sayaka-chan, we still haven't settled our aradama competition, and I'm not gonna let you back down from othello just cause you won once\!  

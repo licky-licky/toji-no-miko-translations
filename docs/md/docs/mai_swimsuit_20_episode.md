@@ -59,8 +59,8 @@ mai swimsuit 20 episode
 **Mai:** Mmhm... It's like a ride at an amusement park...\!  
 **Sayaka:** It's really... fun\!  
 **Mai:** When the water splashes you, it feels nice and cool.  
-**Sayaka:** Wahh-\!?  
-**Mai:** Are you alright, Sayaka-chan\!?  
+**Sayaka:** Wahh-\!\?  
+**Mai:** Are you alright, Sayaka-chan\!\?  
 **Sayaka:** I'm fine. The swim ring just started sinking a little.  
 **Mai:** Ah... You scared me.  
 **Mai:** Oh, the tubing attendant is there. It looks like that's the end.  

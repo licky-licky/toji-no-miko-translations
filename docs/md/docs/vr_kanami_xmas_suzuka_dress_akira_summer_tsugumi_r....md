@@ -9,7 +9,7 @@ https://streamable.com/egrfhq
 **Tsugumi:** Etou-san, Itomi-san. Thank you for going out of your way to stop by the lab today.  
 **Kanami:** What was it you wanted Sayaka-chan and me to do?  
 **Tsugumi:** I'm actually working with a new game utilizing the VR technology in development here in the lab... And, we were looking for play testers.  
-**Kanami:** A new game\!? That sounds fun\! Don't you want to try it, Sayaka-chan?  
+**Kanami:** A new game\!\? That sounds fun\! Don't you want to try it, Sayaka-chan?  
 **Sayaka:** ...  
 **Kanami:** Sayaka-chan? What's wrong? You don't look too happy.  
 **Sayaka:** Tsugumi made that, didn't she... Kofuki said, "Watch out with stuff she's made"... Will it be alright?  
@@ -21,7 +21,7 @@ https://streamable.com/egrfhq
 **Kanami:** Sounds fun\! Sayaka-chan, I want to try it out\!  
 **Sayaka:** Mm... But, I'm fine with sweets in the real world...  
 **Tsugumi:** Is that right. Incidentally, we've prepared a prize for the person that achieves the highest score in the game's battle stage.  
-**Kanami:** A prize\!? What do we get?  
+**Kanami:** A prize\!\? What do we get?  
 **Tsugumi:** Kitora-san is out right now picking up cream puffs, but it seems she'll need to wait in line, as the store is fairly popular.  
 **Sayaka:** Creme puffs from a store with a line... Kanami. I'll try it.  
 **Kanami:** Nice-\! Then, we'll be in your care, Tsugumi-san.  
@@ -100,7 +100,7 @@ https://streamable.com/625w4s
 **Suzuka:** It's about the birthday present we bought for Yomi-san the other day.  
 **Maki:** Oh yeah. We picked out a great present thanks to you. I'm looking forward to surprising her with it. But, what about it?  
 **Suzuka:** You see, I had hidden it in the back of the record room so that Yomi-san wouldn't find it until the 24th...  
-**Maki:** Don't tell me she found it\!?  
+**Maki:** Don't tell me she found it\!\?  
 **Suzuka:** No, I was able to retrieve it just in time, but Yomi-san' intuition is sharp. I'm not quite sure how to keep it a secret until the day of.  
 **Maki:** I get it. You're right, that's an important discussion to have.  
 **Suzuka:** To begin with, anywhere we can enter, Yomi-san freely enters as well...  
@@ -188,7 +188,7 @@ https://streamable.com/6wrqf7
 The day of the party.
 
   
-**Akira:** Why'd I have to get a suppression mission today of all days\!?  
+**Akira:** Why'd I have to get a suppression mission today of all days\!\?  
 **Fukuda Sawano:** The aradama are on the move, Inago-san\!  
 **Akira:** ORAA\!  
 **Aradama:** UOOOO...  
@@ -218,7 +218,7 @@ https://streamable.com/pix5zg
 ## [Dress 20 - Akira: End]: Grape Juice
 **Akira:** Phew, made it.  
 **Yomi:** As late as usual.  
-**Akira:** Geh, Yomi\!?  
+**Akira:** Geh, Yomi\!\?  
 **Yomi:** Even after I made such a point of warning you, you still couldn't be here on time.  
 **Akira:** What was I supposed to do\! I mean, I went to school like normal too\!  
 **Akira:** But then I got sent on this mission all of a sudden, and up till now I was way out in the mountains suppressing aradama\!  
@@ -281,7 +281,7 @@ https://streamable.com/f70ac8
 **Suu:** I don't have to do any more missions, or training, or the utsushi increasing program this week\! Hopefully every day gets to be like this\!  
 **Tsugumi:** ......  
 **Tsugumi:** Inami-san.  
-**Suu:** GYAAAAAAAA\!?  
+**Suu:** GYAAAAAAAA\!\?  
 **Suu:** ...Wait, Ban-san?  
 **Tsugumi:** I overheard you speaking to yourself... Are you available tomorrow?  
 **Suu:** Y-Yeah... I guess.  
@@ -290,7 +290,7 @@ https://streamable.com/f70ac8
 **Tsugumi:** I'm glad to hear it. Ah, by the way, the others joining us will be Shichinosato-san, Itomi-san, and Satsuki-san.  
 **Suu:** Huh?  
 **Tsugumi:** Then, I'll see you tomorrow.  
-**Suu:** You didn't tell me they'd be there though\!?  
+**Suu:** You didn't tell me they'd be there though\!\?  
 **Tsugumi:** I spread the word for now, but... How many will actually be there?  
 **Tsugumi:** I'll have to wait and see tomorrow.  
 
@@ -311,7 +311,7 @@ The day of the pool cleaning.
 **Tsugumi:** Right. Then, I'll brush off the grime at the bottom.  
 **Kanami:** Hey, they've already gotten started\!  
 **Yui:** Ah, Boss's spraying water around\! Lucky\! I want to try it too\! I'll get Kiyoka-chan all wet\!  
-**Kiyoka:** Why me\!?  
+**Kiyoka:** Why me\!\?  
 **Mihono:** I'll help you out, Akira-san\!  
 **Akira:** Sure, bring it on\! Let's get this started\!  
 **Mai:** I guess we'll take care of the mopping?  
@@ -320,7 +320,7 @@ The day of the pool cleaning.
 **Ellen:** Don't be like that\! This looks fun, Kaoru\!  
 **Ellen:** Inagooon\! We're helping you toooo\!  
 **Suu:** S-Sorry I'm late... Ah\! Kanami-san\!  
-**Kanami:** Oh, Suu-chan\! Did you already see this week's Marvelous-chan\!?  
+**Kanami:** Oh, Suu-chan\! Did you already see this week's Marvelous-chan\!\?  
 **Suu:** Of course I did\!  
 **Akira:** Look at them all pouring in. Just how many people'd you invite?  
 **Tsugumi:** I only asked three people to come...  
@@ -340,7 +340,7 @@ https://streamable.com/okvt7l
 **Yomi:** What's wrong?  
 **Akira:** Your hair... So what I heard's true after all...  
 **Yomi:** Word reached you quickly then.  
-**Akira:** Who gives a shit about that\! Are you... Are you seriously okay with this\!?  
+**Akira:** Who gives a shit about that\! Are you... Are you seriously okay with this\!\?  
 **Yomi:** I am.  
 **Akira:** --\!  
 **Akira:** ...You're so goddamn stupid. You're gonna make auntie cry, y'know?  
@@ -353,7 +353,7 @@ https://streamable.com/okvt7l
 **Yomi:** Is that so.  
 **Akira:** ...At least talk to me about these things.  
 **Yomi:** Even if I did, there would be no point to it.  
-**Akira:** Even if there's no point, you can still talk\! We're buddies, aren't we\!?  
+**Akira:** Even if there's no point, you can still talk\! We're buddies, aren't we\!\?  
 **Yomi:** ...  
 **Akira:** Say something, damnit\!  
 **Yomi:** I figured you would be angry with me.  
@@ -386,7 +386,7 @@ https://streamable.com/okvt7l
 **Yukina:** Then, begin the experiment\!  
 **Yomi:** HAAAAAHH\!\!  
 **Aradama:** OOOOOOO\!  
-**Yomi:** Kgh\!?  
+**Yomi:** Kgh\!\?  
 **Yukina:** What do you think you're doing\! You shouldn't be struggling against an aradama this weak\!  
 **Yomi:** Yes ma'am\!  
 **Yomi:** YAAAAAAAAAAAAA\!  

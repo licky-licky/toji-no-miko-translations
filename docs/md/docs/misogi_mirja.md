@@ -11,7 +11,7 @@ https://streamable.com/4royp3
 **Mirja:** (What I honed then is the okatana I have with me now: Jikkyuu Mitsutada.)  
 **Mirja:** (I was taken down the path of a toji because of the compatibility I showed with an okatana I myself restored. I'm still proud of that to this day.)  
 **Mirja:** HAAAH\!  
-**Senpai Toji:** ...Wha-\!? Y-You got me...\!  
+**Senpai Toji:** ...Wha-\!\? Y-You got me...\!  
 **Mirja:** Thank you very much for joining me here.  
 **Senpai Toji:** Mann, you're seriously strong, Kitora. No wonder you got picked to represent us at the tournament.  
 **Senpai Toji:** I won't be able to go and cheer you on, but give it your best shot there.  
@@ -27,7 +27,7 @@ https://streamable.com/4royp3
 **Mirja:** ......  
 **Aradama:** GGGGIIii...\!  
 **Senpai Toji:** Kitora\! The aradama's headed your way\!  
-**Mirja:** ...\!?  
+**Mirja:** ...\!\?  
 **Mirja:** (...Was I really that absent minded during a mission?)  
 **Mirja:** Understood... I'll deal with it now\!  
 **Mirja:** I won't let it escape\! --HAAAAAAH\!\!  
@@ -93,6 +93,6 @@ https://streamable.com/w941jg
 **Mirja:** I would like to continue polishing Akabane swords in the future.  
 **Mirja:** By polishing and restoring Akabane swords, it might lead to a rise in the number of toji accepted by okatana. That's something I want to help with.  
 **Nao:** Oh gosh... she has such a serious and well defined goal\~...  
-**Kinuka:** That sounds like something the teachers would take, no questions asked. But, wait, why have you been thinking this out more than us third years-\!?  
+**Kinuka:** That sounds like something the teachers would take, no questions asked. But, wait, why have you been thinking this out more than us third years-\!\?  
 **Mirja:** ...That's something I should be asking, as your kouhai. You should think more carefully about this, you two.  
 > :ToCPrevNext

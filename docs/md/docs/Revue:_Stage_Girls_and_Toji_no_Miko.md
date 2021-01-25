@@ -1,13 +1,9 @@
 
 Revue: Stage Girls and Toji no Miko
 ===================================
+https://www.youtube.com/watch?v=nstX1sl6Xmo
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/nstX1sl6Xmo" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The Training Camp Runs into Trouble
 The Dance Recital; a fine arts festival presented through a collaborative effort by the Five Traditions.
@@ -28,7 +24,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Suzuka:** Wait, Maki-san. It's about time we gave them a break.  
 **Yume:** Hooray-\! A break-\!  
 **Maki:** Hold it, Yume\! I didn't say we were taking a break yet\!  
-**Maki:** Suzuka\! They still have a long way to go before they're ready\! Do you think we have time to stop now\!?  
+**Maki:** Suzuka\! They still have a long way to go before they're ready\! Do you think we have time to stop now\!\?  
 **Suzuka:** That's exactly why we should.  
 **Suzuka:** This training camp will last quite some time. They'll need a degree of rest every now and then, won't they?  
 **Maki:** But...  
@@ -36,7 +32,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Maki:** That's not your place to decide...  
 **Maki:** ...Maybe I have been pushing you too hard though.  
 **Maki:** We're taking a break, everyone. You can all rest until Yume, Mashiko Kaoru, and Shichinosato Kofuki can manage that performance.  
-**Kaoru/Kofuki/Yume:** Ehh\~\!?  
+**Kaoru/Kofuki/Yume:** Ehh\~\!\?  
 **Kanami:** Ahh, I'm worn out-.  
 **Mai:** We've been dancing all this time, after all.  
 **Hiyori:** Maybe it's because we're using different muscles than usual, but I'm feeling a lot more tired than I expected.  
@@ -49,8 +45,8 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Mirja:** Stop that, it's unsanitary.  
 **Mai:** Haha... Thank you, Kitora-san. I can make another batch for everyone tomorrow.  
 **Mirja:** Good, I'll tell Ban Tsugumi that she won't need to make any more.  
-**Kanami:** Nn\~\! Sweet and sour... And bitter\!? Eh\!? Why's it so bitter\!?  
-**Hiyori:** What's this powder mixed in with the honey\!? Though... I feel like dancing now\!  
+**Kanami:** Nn\~\! Sweet and sour... And bitter\!\? Eh\!\? Why's it so bitter\!\?  
+**Hiyori:** What's this powder mixed in with the honey\!\? Though... I feel like dancing now\!  
 **Mai:** ...I think I won't eat any after all.  
 **Mirja:** ...That may be for the best.  
 **Yomi:** Tsubakuro-san, you are moving your hands incorrectly. Mashiko-san, your body has stopped moving. Shichinosato-san, please do not try to fall asleep.  
@@ -68,12 +64,12 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Yume:** I'm glad we got to leave practice, but these are all weaklings, so it's still boring\!  
 **Yume:** ...By the way, Onee-san. Where are we?  
 **Kofuki:** Beats me? All I cared about was chasing down the aradama-chan, so I wasn't paying attention.  
-**Yume:** Ehh-\!? You're no help at all.  
+**Yume:** Ehh-\!\? You're no help at all.  
 **Kofuki:** Playing with aradama-chan was bound to be a million times more fun than that lameass dance practice.  
 **Maki:** ...Found you\! Don't go running off on your own\!  
 **Suzuka:** Is this a theater? Was there a theater this close nearby?  
 **Giraffe:** I understand.  
-**Yume:** Wah-\!? A talking giraffe\!  
+**Yume:** Wah-\!\? A talking giraffe\!  
 **Kofuki:** Is that an aradama too? Should I cut it up to be sure?  
 **Tsugumi:** Please wait, Shichinosato-san. I've never seen an aradama with such a close resemblance to a giraffe before.  
 **Tsugumi:** We should attempt to gather information on it through communication first. You can cut it up when we're done.  
@@ -97,18 +93,18 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Maki:** Grh, they just keep coming... Move in to help\!  
 **??? (Karen):** YAAAAAAAHH\!\!  
 **Aradama:** Gyaa...  
-**??? (Mahiru):** Wh-What's going on here\!?  
+**??? (Mahiru):** Wh-What's going on here\!\?  
 **??? (Hikari):** Think about that later. HAA\!\!  
 **Aradama:** GYAAA\!  
-**Kanami:** Ehhh\!?  
-**Hiyori:** They're killing aradama without okatana\!?  
-**Yui:** And they're so cute to boot\!?  
+**Kanami:** Ehhh\!\?  
+**Hiyori:** They're killing aradama without okatana\!\?  
+**Yui:** And they're so cute to boot\!\?  
 **Mirja:** (As it seems, these are not ordinary aradama here... No, that's not what matters most now.)  
 **Mirja:** This is no time for you to fool around, Yamashiro Yui\! Move to support those girls\!  
 **Kofuki:** I dunno who you are, but hands off my aradama-chan\!\!  
 **??? (Karen):** Thanks for the help\! Those monster looking things came out of nowhere, and we didn't know what to do\!  
 **Kanami:** We were just doing our job. We're toji, after all.  
-**Kanami:** And anyway, how'd you beat the aradama\!? That's not an okatana, right\!?  
+**Kanami:** And anyway, how'd you beat the aradama\!\? That's not an okatana, right\!\?  
 **??? (Karen):** Otakara? [treasure]  
 **??? (Nana):** Not treasure, Karen-chan. She said an "okatana".  
 **??? (Juuna):** An okatana... Some type of sword? Like the ones you have, right?  
@@ -128,8 +124,8 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Suzuka:** But the name Seisho Music Academy doesn't ring any bells.  
 **Maki:** Maybe it's not all that prestigious?   
 **??? (Maya):** I'm not about to let that comment pass.  
-**Karen:** There's no Starlight-\!?  
-**Kanami:** What do you mean aradama don't exist\!?  
+**Karen:** There's no Starlight-\!\?  
+**Kanami:** What do you mean aradama don't exist\!\?  
 **Claudine:** So, if I'm understanding this correctly, these girls came from another world?  
 **Kaoruko:** Could something out of a fairytale like that happen?  
 **Futaba:** You fought them yourself, didn't you, Kaoruko? Those, aradama, you called them?  
@@ -154,7 +150,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 
 ## 3: A Shared Resemblance
 **Tsugumi:** Shichinosato-san, there's aradama on our 9 o'clock. Did you notice them?  
-**Kofuki:** The hell, what is this place, aradama-chan heaven\!? Bring it on\! Just try and keep up\!  
+**Kofuki:** The hell, what is this place, aradama-chan heaven\!\? Bring it on\! Just try and keep up\!  
 **Tsugumi:** Don't mind me; go all out.  
 **Kaoru:** Look at them go-. At this point, can't we just leave everything to those two?  
 **Nene:** Nene\!  
@@ -208,7 +204,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Claudine:** Oh, right, about getting opinions on your performance. Since you have the chance, why not ask all of us?  
 **Suzuka:** Of course, we will--  
 **Tsugumi:** Shichinosato-san, here comes another wave. We may need to break out the flag for this one. [Referring to a flag Japanese fishermen will hoist after catching a huge haul]  
-**Kofuki:** Was that supposed to be a joke\!?  
+**Kofuki:** Was that supposed to be a joke\!\?  
 **Kofuki:** And besides, they're all mine\! Nobody's taking them from me\!\!  
 **Maki:** Suzuka\! Yomi\! Yume\! We're moving in too\!  
 **Yomi:** Understood.  
@@ -245,17 +241,17 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Mai:** ...I wonder if that could help us improve our dance performance?  
 **Karen:** Dance performance?  
 **Maki:** I'll explain that.  
-**Karen:** The toji are dressing up as mikos for a dance\!?  
+**Karen:** The toji are dressing up as mikos for a dance\!\?  
 **Junna:** You're all so athletic, so it should be a real show seeing you all moving together.  
 **Nana:** Yeah, yeah. I wish I could be there to see it.  
 **Karen:** Put on the show for us here\!  
 **Maki:** If we want your opinions, the best way would be to practice in front of you.  
-**Yume:** Ehh\!? We're doing it now\!?  
+**Yume:** Ehh\!\? We're doing it now\!\?  
 **Maki:** Tendou Maya. It might still be far from complete, but will you watch our performance?  
 **Maya:** That's an important responsibility. Because it's incomplete, that's all the more reason for you to need our opinions.  
 **Hikari:** What do you mean?  
 **Claudine:** They can't seem to get their closing act to come together.  
-**Karen:** Why do you know that, Clau-chan\!?  
+**Karen:** Why do you know that, Clau-chan\!\?  
 **Claudine:** I heard it from them earlier. They said they wanted advice on how to improve.  
 **Hikari:** ...Why didn't you tell us?  
 **Claudine:** We were going to, but then the aradama arrived. Anyway, let's move things along. Start your performance.  
@@ -287,10 +283,10 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Kaoru:** Can't we just imagine taking a break, since it's done?  
 **Hiyori:** You two... Are you not going to take this seriously?  
 **Aradama:** GGGGAAAAAOOOOOO\!  
-**Hiyori:** Tch, aradama\!?  
+**Hiyori:** Tch, aradama\!\?  
 **Suzuka:** Oh my, and a rather large one at that.  
-**Claudine:** C'est pire\! ...Could it not have given us a little more time here\!?  
-**Karen:** Why are you two acting so calm when there's that giant monster aradama\!?  
+**Claudine:** C'est pire\! ...Could it not have given us a little more time here\!\?  
+**Karen:** Why are you two acting so calm when there's that giant monster aradama\!\?  
 **Maya:** Its size has nothing to do with this. They can at last see their performance taking shape.  
 **Maya:** Once this aradama is defeated, their dance can be completed.  
 **Maki:** Right, so let's go\!  
@@ -324,7 +320,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Mai:** I had the same dream too\!  
 **Kaoru:** Was it a dream?  
 **Nene:** Ne-?  
-**Yui:** Don't tell me... Those theater cuties were all a figment of my imagination\!?  
+**Yui:** Don't tell me... Those theater cuties were all a figment of my imagination\!\?  
 **Suzuka:** No, I don't believe it was a dream.  
 **Yume:** Ah\! Suzuka-onee-san\! Is that picture the one Banana-onee-san sent you?  
 **Suzuka:** That's right. I still have it, right here. Look.  
@@ -353,7 +349,7 @@ On the day the dance performance would be shown to the public.
 **Karen:** Yume-chan, Yomi-chan. We were just talking about how, isn't it weird how some things are different between our worlds?  
 **Mahiru:** Ah\! It's Suzudaru Cat\! So you have it in your world after all; thank goodness\~.  
 **Yomi:** What do you mean, Suzudaru Cat?  
-**Mahiru:** Eh\!? You're holding it right there\~.  
+**Mahiru:** Eh\!\? You're holding it right there\~.  
 **Yume:** Huhh. So this thing's called Suzudaru Cat?  
 **Yume:** It dropped off of an aradama just now.  
 **Mai:** An aradama?  
@@ -468,14 +464,14 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 
 ## [Stage Girl - Kanami: End]: It Is All for the Sake of Starlight\!
 **Hikari:** ...There-\!  
-**Kanami:** \!? That was a little risky just now\!  
+**Kanami:** \!\? That was a little risky just now\!  
 **Kanami:** You're using the spring in your body to get even sharper with your strikes\! That was a great thrust\!  
 **Hikari:** ...You were able to dodge that just now? Toji really do have great physical performance.  
 **Kanami:** It's important to be able to avoid taking hits in battle, after all. That's a part of training too.  
 **Hikari:** Then, what will you do if I do this?  
-**Kanami:** Eh\!? You threw your weapon\!?  
+**Kanami:** Eh\!\? You threw your weapon\!\?  
 **Hikari:** Thank you. You deflected it just how I wanted you to.  
-**Kanami:** Wawah\!? ...She's flying with a wire\!?  
+**Kanami:** Wawah\!\? ...She's flying with a wire\!\?  
 **Hikari:** And now--\!\!  
 **Kanami:** Seeing that attack just now you did with the wire sent a chill up my spine-. You were right up in front of me all of a sudden.  
 **Kanami:** So you can fight like that too, huh\!  

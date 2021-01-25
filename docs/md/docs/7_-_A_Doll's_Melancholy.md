@@ -1,13 +1,9 @@
 
 7 - A Doll's Melancholy
 =======================
+https://www.youtube.com/watch?v=r2HOmDCPCwk
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/r2HOmDCPCwk" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Return (1)
 **Mihono:** We're back\! Kamakura\! It's only been a few days, but it feels like we were gone forever\!  
@@ -49,16 +45,16 @@
 **Kofuki:** What a pushover... What's the deal? I know you've got better than this\!  
 **Tsugumi:** Now now, don't get so upset. You'll be disappointed to hear this, but we ran out of the kind of aradama you like.  
 **Tsugumi:** You were away for a while, and in the meantime someone dropped by and disposed of them...  
-**Kofuki:** Huh? Who'd go and... ...\!?  
+**Kofuki:** Huh? Who'd go and... ...\!\?  
 **???:** It's me-\!  
 **Kofuki:** Tch... Of course it was.  
 **Yume:** Bleh, I didn't think you were going to block that... I spent all that time setting up a sneak attack too; how boring.  
 **Yume:** The aradama here are so weak that I needed a new way to kill some time...  
-**Kofuki:** I had a feeling it was you...  Who said you could come in here and mess with my things\!?  
+**Kofuki:** I had a feeling it was you...  Who said you could come in here and mess with my things\!\?  
 **Mihono:** Eh? Eh? What just happened? Who's this girl?  
 **Kofuki:** Tsubakuro Yume. From the director's elite guard... The last of the elite four.  
-**Mihono:** Ehh\!? This little girl...?  
-**Kiyoka:** She's in the elite guard\!?  
+**Mihono:** Ehh\!\? This little girl...?  
+**Kiyoka:** She's in the elite guard\!\?  
 
 ## 4: I Wanna Play with You so Bad\!
 **Yume:** Hmm? Hmmm-? Hmmm\~?  
@@ -68,8 +64,8 @@
 **Yume:** You figured it out? After all, this onee-san, she's Heijou's Musumi Kiyoka, right? I heard all about it, she's strong\!  
 **Yume:** She's the one who fought off Maki onee-san and Suzuka onee-san all by herself, right\!  
 **Kofuki:** Huh... So that's what you're after. Then you two have fun together.  
-**Kiyoka:** Ehhh\!?  
-**Mihono:** Wait\! Kofuki-san\!? Stop, Yume-san\! The elite guard were ordered not to attack us...  
+**Kiyoka:** Ehhh\!\?  
+**Mihono:** Wait\! Kofuki-san\!\? Stop, Yume-san\! The elite guard were ordered not to attack us...  
 **Mihono:** And besides, we haven't told anyone about...  
 **Yume:** I don't care about any of that stuff. I just wanna fight this onee-san\!  
 **Mihono:** Still, you can't just go picking fights\! Even as a member of the elite guard, there's limits to what you...  
@@ -88,21 +84,21 @@
 **Tsugumi:** If I release the aradama...\! There, the gates are opening.  
 **Aradama:** SHAAAAAAA\!  
 **Tsugumi:** Shichinosato-san\! Now's your chance\! Take your friends and get out of here\!  
-**Kofuki:** Huhh\!? What did you do that for\! You dumbass\! You coulda just gone and called for help\!  
+**Kofuki:** Huhh\!\? What did you do that for\! You dumbass\! You coulda just gone and called for help\!  
 **Tsugumi:** Oh... Oh yeah, you're right. I got a little carried away.  
 **Mihono:** Kofuki-san\! With all the aradama around, we need to get Ban-san out of here\! And we have to do something about this before anyone gets hurt\!  
 **Kofuki:** Way ahead of you. There's no way I'm gonna retreat with all these playthings in front of me\!  
 **Kofuki:** Kuku... Let the hunt begin\! I love you\! My aradama-chan\!  
-**Mihono:** Wait, that's not what... Ahhhh, come on\! Why'd it have to turn out like this\!?  
+**Mihono:** Wait, that's not what... Ahhhh, come on\! Why'd it have to turn out like this\!\?  
 
 ## 6: Who Even Matters to You? (2)
 **Kiyoka:** Asakura-san\! The aradama are mostly taken care of\! There's only a few left\!  
 **Mihono:** Thanks, Kiyoka\! Ban-san, come with me\! Hurry\!  
 **Tsugumi:** Ah, okay\! You too, Shichinosato-san\!  
-**Kofuki:** Huhh\!? I'm not done here yet\!  
+**Kofuki:** Huhh\!\? I'm not done here yet\!  
 **Tsugumi:** Just come on already\!  
 **Yume:** ...... ...... *angry yume noises*  
-**Yume:** You're really making me mad... I was just starting to enjoy myself... Why\!?  
+**Yume:** You're really making me mad... I was just starting to enjoy myself... Why\!\?  
 **Aradama:** SHAAAAAAAA\!  
 Yume. You're in my way.
 

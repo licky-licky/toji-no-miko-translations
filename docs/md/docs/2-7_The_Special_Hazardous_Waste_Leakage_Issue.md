@@ -1,13 +1,9 @@
 
 2-7 The Special Hazardous Waste Leakage Issue
 =============================================
+https://www.youtube.com/watch?v=_n2VvQhnMfM
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/_n2VvQhnMfM" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Hope (1)
 Four months have past since Tagitsuhime fled to the netherworld, casting aradama-- Special hazardous waste, across all of Kanto.
@@ -32,7 +28,7 @@ Four months have past since Tagitsuhime fled to the netherworld, casting aradama
 **Mai:** We just have to put up with it. It's the truth that we couldn't stop the noro from escaping.  
 **Mai:** ...Though I still think there's hope. Because--  
 **Academy Intercom:** Aradama have been identified in the area of this academy. Toji, make preparations for emergency sortie. I repeat, aradama have been identified--  
-**Mai:** Aradama\!? What should we do, I think it's best if I go out to help...?  
+**Mai:** Aradama\!\? What should we do, I think it's best if I go out to help...?  
 **Mirja:** Excuse us. I'm Kitora Mirja, from Ayanokouji Martial Arts School's high school division.  
 **Ellen:** Maimai\! We're here to pick you up\!  
 **Kofuki:** You've got 4 seconds to get ready\! There's aradama-chan that need a beating\!  
@@ -62,7 +58,7 @@ Four months have past since Tagitsuhime fled to the netherworld, casting aradama
 **Ellen:** Whoops, that was rude of me.  
 **Kofuki:** I couldn't care less what they think, but it pisses me off they're getting in the way of smashing up aradama-chan.  
 **Academy Intercom:** Aradama have been identified in the area of this academy. Toji, make preparations for emergency sortie. I repeat, aradama have been identified--  
-**Mai:** Again\!?  
+**Mai:** Again\!\?  
 **Kofuki:** Heheh, a chance to blow off some stress\! Hang tight, aradama-chan\! I'll be right there\!  
 
 ## 4: The Voice of the People (2)
@@ -175,16 +171,16 @@ At that time, the three who had been reported to be in Kamakura; Etou Kanami, Ju
 **Kanami:** Thank goodness we were training before bed\! Otherwise we wouldn't have been able to make it out here so fast\!  
 **Kanami:** But still, it really seems like the number of aradama are growing. I hope the others deployed elsewhere are doing okay.  
 **Sayaka:** ...I heard some news about Mihono before. They said where Mihono is has the hardest conditions.  
-**Kanami:** Really\!? Is Mihono-chan going be alright...?  
+**Kanami:** Really\!\? Is Mihono-chan going be alright...?  
 
 ## 11: Reassignment Order (1)
 **Kanami:** I wonder how Mihono-chan's doing...  
 **Sayaka:** There aren't enough people. There's too much to do, so it can't be helped.  
 **Kanami:** I know, but I'm still worried. If it's that much harder than we have it here, then...  
 **Mihono:** --Ah\! Kanami and Itomi-san\!  
-**Kanami:** Huh-\!? Mihono-chan\!?  
+**Kanami:** Huh-\!\? Mihono-chan\!\?  
 **Mihono:** I haven't seen you in so long\~\! How've you been?  
-**Kanami:** Eh? Eh? What\!? Why are you here\!?  
+**Kanami:** Eh? Eh? What\!\? Why are you here\!\?  
 **Kanami:** I kept calling you, but you never answered your phone... I was really worried about you\!  
 **Mihono:** Ehehe\~, sorry, sorry. I was way out in the mountains and didn't get any signal.  
 **Kanami:** So that's all it was. Well, I'm glad I get to see your smiling face again\!  
@@ -205,14 +201,14 @@ At that time, the three who had been reported to be in Kamakura; Etou Kanami, Ju
 **Kanami:** There's so much I wanted to talk to you about, but I guess we should save it for tomorrow...  
 **Mihono:** Yeah... We can talk tomorrow...  
 **Kanami:** And it's been a while, so I wanted to have a practice match with you, but...  
-**Mihono:** Are you for real, Kanami...\!? We've been doing missions all day; how can you keep going...\!?  
+**Mihono:** Are you for real, Kanami...\!\? We've been doing missions all day; how can you keep going...\!\?  
 The next morning.
 
   
 **Sayaka:** Ah-, Kanami.  
 **Kanami:** Morning, Hiyori-chan, Sayaka-chan\! Let's do our best again today\!  
 **Hiyori:** Kanami. I have this letter from Mihono to give to you.  
-**Kanami:** Huh-\!? From Mihono-chan?  
+**Kanami:** Huh-\!\? From Mihono-chan?  
 **Hiyori:** Last night, it seems like she suddenly got an order of reassignment. Read the letter if you want to hear the rest.  
 **Kanami:** O-Oh...  
 **Letter (Mihono):** Dear Kanami. I'm sorry I have to leave so soon. I thought if I called you I might wake you up, so I left this letter with Juujou-san who I happened to run into last night.  
@@ -221,11 +217,11 @@ The next morning.
 **Hiyori:** I told her this last night, but this letter kind of reads like she's going to going off to die.  
 **Kanami:** Hey, Hiyori-chan\! Don't say things like that\!  
 **Sayaka:** This is my first time seeing a letter from a dead person.  
-**Kanami:** She's not dead\!? It's okay, Mihono-chan\! I get what you're trying to say, okay\!  
+**Kanami:** She's not dead\!\? It's okay, Mihono-chan\! I get what you're trying to say, okay\!  
 **Hiyori:** The way you're shouting up at the heavens like that is only making it seem more like she died.  
-**Kanami:** Hiyori-chan\!? Why are you being so rude\!?  
+**Kanami:** Hiyori-chan\!\? Why are you being so rude\!\?  
 **Hiyori:** ...Actually, last night, Mihono told me to try to cheer you up.  
-**Kanami:** That was you trying to cheer me up\!? Mihono-chan, you couldn't have picked a worse person for the job\!  
+**Kanami:** That was you trying to cheer me up\!\? Mihono-chan, you couldn't have picked a worse person for the job\!  
 **Hiyori:** ...I can't help but agree. I'm not suited for this sort of thing.  
 **Kanami:** ......Mihono-chan. We'll definitely have that match someday. Until then, we just have to both keep trying our best... Right?  
 > :ToCPrevNext

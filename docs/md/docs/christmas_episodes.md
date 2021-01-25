@@ -22,7 +22,7 @@ https://streamable.com/an75qe
 **Minato:** Is it?  
 **Yukari:** Honestly...  
 **Yukari:** Kagari, if we work with my schedule, couldn't we fit an hour in?  
-**Kagari:** Yukari-sama\!?  
+**Kagari:** Yukari-sama\!\?  
 **Minato:** Awesome\!  
 **Minato:** Alright, I'll go invite everybody then\! Thanks, Yukari\!  
 **Kagari:** These are the only times she works quickly... Will this really be alright?  
@@ -109,7 +109,7 @@ https://streamable.com/oapotx
 **Maki:** Kohagura? Actually...  
 **Ellen:** I see, so you're worried over what to get for Yomiyomi's birthday cake.  
 **Ellen:** In that case, there's a shop I can recommend to you\!  
-**Maki:** Really\!?  
+**Maki:** Really\!\?  
 **Ellen:** Yes\! It's been my favorite lately\!  
 **Maki:** That sounds reliable.  
 **Ellen:** Though, I'll give you a bit of advice. I'm sure that, whatever cake you get for her, Yomiyomi will be happy.  
@@ -149,7 +149,7 @@ https://streamable.com/4jhac8
 **Chie:** Alright then.  
 **Chie:** Everyone, can I have a moment? For the cooking for the party, does anyone have any requests?  
 **Tsugumi:** Cooking, hm. Should I help with that?  
-**Kofuki:** Hell no\! Are you trying to ruin everybody's Christmas\!?  
+**Kofuki:** Hell no\! Are you trying to ruin everybody's Christmas\!\?  
 **Tsugumi:** That's a shame.  
 **Kofuki:** Anyway, what about that? That chicken\! That tasted so good.  
 **Kiyoka:** That chicken... I'm pretty sure Hono-chan bought it, right?  
@@ -185,7 +185,7 @@ On Christmas Day.
 **Kofuki:** What kinda aradama do they want to see on Christmas?  
 **Mihono:** Like, Kaoru-san's Nene-chan\! There's gotta be people out there who'd want a Christmas version Nenegurumi\!  
 **Mihono:** I mean, I'd want one\!  
-**Mihono:** But, if Nene-chan attacked me, I couldn't hurt him... What should I do, Fukki\!?  
+**Mihono:** But, if Nene-chan attacked me, I couldn't hurt him... What should I do, Fukki\!\?  
 **Kofuki:** How am I supposed to know\!  
 **Kofuki:** Anyway, the next one's coming\! Quit messing around\!  
 **Mihono:** Alright\!  
@@ -239,7 +239,7 @@ https://streamable.com/1b7b8n
 
 ## [Xmas' 20 - Sanae: End]: I Don't Feel Like I Can Lose
 **Aradama:** OOOOOOOOOOOOOOOO\!\!  
-**Man:** UWAHHHHHHH\!?  
+**Man:** UWAHHHHHHH\!\?  
 **Sanae:** HAAAAAAAAAAAAAAAAA\!\!  
 **Man:** Th-Thank you\!  
 **Sanae:** Are you hurt anywhere?  
@@ -266,14 +266,14 @@ https://streamable.com/1b7b8n
 **Hiyori:** Anyway, I'll see you later.  
 **Sanae:** Okay\!  
 **Aradama:** GYAOOOOOOOOOOOOOOOOOOO\!\!  
-**Sanae:** An aradama\!?  
+**Sanae:** An aradama\!\?  
 **Sanae:** Though... I wonder why. I don't feel like I could lose right now\!  
 https://youtu.be/6vDEoQfMR6o
 
   
 
 ## [Xmas' 20 - Suu: Start]: That's Not It\!
-**Suu:** Eh\!? You're going to be coming here for Christmas?  
+**Suu:** Eh\!\? You're going to be coming here for Christmas?  
 **Hokuto:** I am.  
 **Suu:** That's great\! Where should we go hang out?  
 **Hokuto:** ...You get it, right? I'm going there on a mission, not to hang out.  
@@ -298,17 +298,17 @@ On Christmas Day.
 **Suu:** I haven't\!  
 **Suu:** It's just, I might have been going easy on it a little...  
 **Hokuto:** Well that explains it. Maybe I'll have to come up with a more intense routine for you.  
-**Suu:** More than this\!?  
+**Suu:** More than this\!\?  
 **Hokuto:** If you don't want that, then do it properly.  
 **Suu:** I got it...  
-**Both:** \!?  
+**Both:** \!\?  
 **Suu:** There's aradama, Hokuto-san\!  
 **Hokuto:** Right... We're going, Suu\!  
 **Suu:** Sure\!  
 
 ## [Xmas' 20 - Suu: End]: Aren't You Glad You Worked Hard?
 **Aradama:** FSHUUUUUUUUUUUUUUUUU\!  
-**Suu:** Geh, they're spider types\!?  
+**Suu:** Geh, they're spider types\!\?  
 **Hokuto:** Is there something wrong with spider types?  
 **Suu:** It's not something wrong with them, but... Don't they give you the creeps?  
 **Hokuto:** Give me the creeps? They're just aradama, aren't they?  

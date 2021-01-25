@@ -3,27 +3,15 @@ Chain Story Archives Part 2.5
 =============================
 
 ## [Due to this event being released across 3 months, there are 3 separate videos]
+https://www.youtube.com/watch?v=dRw4QiWULI0
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/dRw4QiWULI0" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
+https://www.youtube.com/watch?v=NhIKOCOdky8
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/NhIKOCOdky8" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
+https://www.youtube.com/watch?v=-fV4ehWn5Gw
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/-fV4ehWn5Gw" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The Investigation Team, Dissolved
 Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special hazardous waste across the entirety of Kanto.
@@ -40,7 +28,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Mihono:** There weren't this many aradama before, and the STT didn't spend this much time busy with missions.  
 **Mihono:** Everyone from the investigation team never even gets to see each other anymore...  
 **Ema:** About the investigation team, its activities are going to be suspended.  
-**Mihono:** There's not going to be an investigation team anymore\!?  
+**Mihono:** There's not going to be an investigation team anymore\!\?  
 **Ema:** It shouldn't go away just yet.  
 **Ema:** But, at least until the special hazardous waste problem is settled, you all won't be taking any action as part of the investigation team.  
 **Mihono:** ...Then, when you said we'd talk about what I'll be doing from now on, do you mean you're putting me in some other unit?  
@@ -62,10 +50,10 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Ema:** You'll be part of one of Minoseki's units, Asakura-san. Though, the offer to transfer to the MPD will always be available, so if you ever change your mind, come right here and tell me.  
 **Mihono:** Okay\!  
 **Mihono:** HAAAAAAAAAAAA\!\!  
-**Nagae Futaba:** Wha, Mihono\!?  
+**Nagae Futaba:** Wha, Mihono\!\?  
 **Mihono:** We have to focus, Futaba\! Let's take care of the aradama first\! We can talk later\!  
 **Futaba:** R-Right\!  
-**Futaba:** (I just went along with her, but... Is it me, or did Mihono get a heck of a lot stronger\!?)  
+**Futaba:** (I just went along with her, but... Is it me, or did Mihono get a heck of a lot stronger\!\?)  
 **Futaba:** (I remember Mihono being a lot more... Did something happen to her when she was with the investigation team?)  
 **Fukuda Sawano:** ...  
 **Sawano:** (...It's only natural Nagae-san would be surprised. Compared to how she was during the tournament qualifiers... Asakura-san is fighting like a completely different person.)  
@@ -85,17 +73,17 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Futaba:** (You'll see, I'll be right there fighting alongside you again soon\!)  
 **Mihono:** Pant... Pant...  
 **Toji A:** KYAAAAA\!\!  
-**Mihono:** -\!? Are you okay\!?  
+**Mihono:** -\!\? Are you okay\!\?  
 **Sawano:** Don't lose your focus\! Help is already on the way\!  
 **Mihono:** R-Right\!  
 **Sawano:** Those who can't apply utsushi, help move the injured away from here\! Nagae-san, keep them safe\!  
 **Futaba:** On it\!  
 **Mihono:** Sawano-san and Futaba can take care of things there\! I have to... Defend this place no matter what\!  
 **Aradama:** GYUUUUOOOO\!\!  
-**Man:** Whoa-\!? S-Somebody help meee\!\!  
-**Mihono:** -\!? --Jin'i\!\!  
-**Mihono:** Are you alright\!?  
-**Man:** Why the hell would I be alright\!? Do something about that monster already\!  
+**Man:** Whoa-\!\? S-Somebody help meee\!\!  
+**Mihono:** -\!\? --Jin'i\!\!  
+**Mihono:** Are you alright\!\?  
+**Man:** Why the hell would I be alright\!\? Do something about that monster already\!  
 **Mihono:** O-Okay\!  
 **Mihono:** HAAAAAAAAA\!\!  
 **Mihono:** Now's your chance, please get away to safety\!  
@@ -110,14 +98,14 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Futaba:** ? You look kinda down; did something happen?  
 **Mihono:** ...Nah, it's nothing\!  
 **Mihono:** I think I'm just a little worn out after how rough things got back there. Let's get back to school quick\!  
-**Futaba:** Anyway, is it me, or did you seriously get way stronger, Mihono? What kind of training did you do? Did you hide away in the mountains or something\!?  
+**Futaba:** Anyway, is it me, or did you seriously get way stronger, Mihono? What kind of training did you do? Did you hide away in the mountains or something\!\?  
 **Mihono:** It wasn't like that-.  
 
 ## 2: Outbreak of a Large Scale Aradama Disaster
 **Announcement:** A large scale aradama disaster has occurred. The toji on loan from the Five Traditions should prepare to sortie at once.  
 **Announcement:** I repeat--  
 **Hana:** We only just got transferred here, and we've already got a hard job to do.  
-**Yui:** How bad do you think it's going to be? Hopefully it'll be like, "They made it sound so much worse\!", but...  
+**Yui:** How bad do you think it's going to be? Hopefully it'll be like, "They made it sound so much worse\!\", but...  
 **Hana:** I feel the same, Yui. That's all we can hope for.  
 **Hana:** Looks like they sent the info to our phones.  
 **Hana:** ...\!  
@@ -125,7 +113,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Hana:** We're responsible for a shopping mall?  
 **Yui:** A shopping mall; that's pretty big, isn't it...  
 **Hana:** At the bare minimum... There could be several thousand shoppers there now.  
-**Yui:** Several thousand\!? How is our unit supposed to take care of all those people on our own\!?  
+**Yui:** Several thousand\!\? How is our unit supposed to take care of all those people on our own\!\?  
 **Hana:** Let's calm down.  
 **Hana:** ...I think the MPD will have figured the same thing. I wouldn't be surprised if they're calling the Five Traditions for backup right now.  
 **Hana:** More importantly... Every moment we spend here, the number of victims is getting bigger.  
@@ -145,13 +133,13 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Ema:** Then let's see... I'll need an hour at the least, before they can arrive there...  
 **Mihono:** (An hour... By the time an hour passes, how many people will get hurt...)  
 **Mihono:** President Hashima, please let me go there\!  
-**Ema:** Asakura-san\!?  
+**Ema:** Asakura-san\!\?  
 **Ema:** ...I don't have many, but I'll send out the toji who are ready at once. Prevent any casualties as best you can until our units arrive.  
 **Ema:** Are there any areas that are most threatened? ...Yes... Alright... Understood.  
 **Ema:** Asakura-san, you heard what we were discussing, didn't you?  
 **Mihono:** I did\! Where should I go?  
 **Ema:** I want you to go straight to the shopping mall. You're to join forces with Suzumoto-san and Yamashiro-san there.  
-**Mihono:** Suzumoto-san and Yamashiro-san\!?  
+**Mihono:** Suzumoto-san and Yamashiro-san\!\?  
 **Mihono:** (Suzumoto-san and Yamashiro-san are already helping at the mall...)  
 **Mihono:** (Come to think of it... Why did those two agree to transfer to the MPD anyway?)  
 **Ema:** Do you understand? Rather than suppressing aradama, saving lives is your top priority. Think only about keeping casualties to a minimum.  
@@ -193,7 +181,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Toji A:** Roger\!  
 **Citizen A:** My friend is still inside there\! You have to hurry and rescue them\!  
 **Toji B:** You don't have to worry. They're working right now to rescue everyone they can...  
-**Citizen B:** Give it a rest\! Instead of making excuses, why don't you get in there and save them\! That's what you get paid for, isn't it\!?  
+**Citizen B:** Give it a rest\! Instead of making excuses, why don't you get in there and save them\! That's what you get paid for, isn't it\!\?  
 **Mihono:** ...This is awful.  
 **Mihono:** (Ordinary people... And toji too. There's so many of them getting hurt...)  
 **Citizen C:** I saw all about it on TV\! It's because of their negligence that the aradama came spreading everywhere\!\!  
@@ -211,7 +199,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Hana:** ...  
 **Mihono:** Suzumoto-san? Are you feeling tired?  
 **Hana:** I am, but... I'm glad you're here, Asakura-san.  
-**Mihono:** Ehh\!? I haven't done anything yet...?  
+**Mihono:** Ehh\!\? I haven't done anything yet...?  
 **Hana:** Having someone as straightforward and positive as you around makes me feel like I can keep going.  
 **Hana:** The situation is awful, but it's reassuring having you here. So much so that I wish you'd gone to the MPD.  
 **Mihono:** That's...  
@@ -229,13 +217,9 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **???:** KYAAAAAAAAAAAAA\!\!  
 **Hana:** ...\! That scream came from...  
 **Mihono:** Let's go, Suzumoto-san\!  
+https://www.youtube.com/watch?v=NhIKOCOdky8
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/NhIKOCOdky8" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 4: An Atmosphere of Unrest
 **Akira:** Seriously? People won't stop calling today... Tch, and it just had to be these assholes.  
@@ -249,14 +233,14 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **???:** Suppress the aradama, retrieve their noro, and... Keep an eye on the girl. You can do that, can't you?  
 **Akira:** ...  
 **Akira:** Yeah, sure, I got it\! While I'm suppressing the aradama, I'll get you some noro\!  
-**Akira:** That good enough for you\!?  
+**Akira:** That good enough for you\!\?  
 **???:** We have high expectations.  
 **Akira:** FUCK\!  
 **Akira:** ...Sigh.  
 **Akira:** Ahh, feels a little better letting it out like that\! Damnit, this is starting to get on my nerves.  
 **Toji A:** Defend this position, no matter what\!  
 **Tojis:** Right\!  
-**Mihono:** There's this many aradama\!?  
+**Mihono:** There's this many aradama\!\?  
 **Hana:** It's like this everywhere inside. We keep killing them and killing them... And more aradama appear.  
 **Hana:** That's why we left our unit at a key location and went to secure an escape route.  
 **Mihono:** ...  
@@ -268,7 +252,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Mihono:** There she is\!  
 **Hana:** HAAAAAA\!\!  
 **Woman:** ...  
-**Mihono:** Are you okay\!?  
+**Mihono:** Are you okay\!\?  
 **Hana:** Don't move her\!  
 **Hana:** ...There's no injury on her head, and she doesn't seem badly hurt... Alright, she only lost consciousness is all.  
 **Hana:** It should be okay if we wake her up.  
@@ -333,7 +317,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Mihono:** Ahaha, I'm totally okay with it\! I'll call you Yui too then.  
 **Yui:** Thanks, Mihono-chan\! I feel like I could fight for another five hours now.  
 **Hana:** Five hours? You're keeping it realistic, huh.  
-**Man B:** What are you standing around gossiping for\!? If you've got more toji, then start getting us out of here\!  
+**Man B:** What are you standing around gossiping for\!\? If you've got more toji, then start getting us out of here\!  
 **Mihono:** -\!  
 **Mihono:** (They're like this here too...)  
 **Man A:** Don't talk to them like that\! These girls are risking their lives fighting for us\!  
@@ -346,7 +330,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Yui:** Ugh, sorry. I'll do that.  
 **Hana:** Oh, right.  
 **Hana:** Do you mind if I ask why you decided to transfer, Yui?  
-**Yui:** Where's this coming from? Could it be, you're just so interested in me you can't help it\!?  
+**Yui:** Where's this coming from? Could it be, you're just so interested in me you can't help it\!\?  
 **Hana:** Asakura-san asked me about it before. Now seemed like a good time, so I figured I'd ask you too.  
 **Mihono:** Thanks, Suzumoto-san.  
 **Yui:** Does that mean you're joining us, Mihono-chan?  
@@ -359,7 +343,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Mihono:** Yeah. I can tell you and Yui both put a lot of thought into why you transferred.  
 **Mihono:** And I...  
 **Mihono:** (All I thought about was whether I'd stay with everyone. I should really... Think about it harder now.)  
-**Mihono:** What was that sound\!?  
+**Mihono:** What was that sound\!\?  
 **Hana:** It sounded like glass breaking, but... It's sort of unsettling not knowing what happened.  
 **Mihono:** I'll go check it out then\! Suzumoto-san and Yui-san, you stay here\!  
 **???:** ORA\!  
@@ -369,7 +353,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **???:** C'mon, I don't have time for you small fry. Quit swarming me, damnit.  
 **Mihono:** (She's backup? She's wearing a Minoseki uniform, but... I've never seen her before.)  
 **???:** Finally...  
-**Mihono:** (\!? She's collecting the noro? Why is she doing that now, like she's hiding it...)  
+**Mihono:** (\!\? She's collecting the noro? Why is she doing that now, like she's hiding it...)  
 **Mihono:** That's enough\!  
 **???:** Huh?  
 **Mihono:** I'm Asakura Mihono, second year at Minoseki Academy's middle school division\! What are you doing out here?  
@@ -393,7 +377,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Mihono:** (Whatever her reason, I'd better stop her\!)  
 **???:** It's not in me to waste breath arguing.  
 **???:** Let's go.  
-**Mihono:** -\!?  
+**Mihono:** -\!\?  
 **Mihono:** (That was so fast... And she hits hard too\!)  
 **???:** HAAA\!\!  
 **Mihono:** Grh\!  
@@ -410,7 +394,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Yui:** Mihono-chan\!  
 **???:** Huh?  
 **Yui:** GET AWAY FROM MIHONO-CHAAAAAAN\!  
-**???:** Thought you'd get me by surprise\!? Too bad; I'm used to that\!\!  
+**???:** Thought you'd get me by surprise\!\? Too bad; I'm used to that\!\!  
 **Yui:** Gh...  
 **???:** What was with her?  
 **Hana:** ...What do you think you're doing, Inago-san?  
@@ -428,7 +412,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Hana:** Anyway, that's Inago Akira-san.  
 **Akira:** I'm Inago Akira. Good to meet you.  
 **Akira:** Sorry about before; I just took you out on reflex.  
-**Yui:** No, don't worry about it\! More importantly... Can I call you Boss\!?  
+**Yui:** No, don't worry about it\! More importantly... Can I call you Boss\!\?  
 **Akira:** Sure, call me whatever.  
 **Yui:** Will do\!  
 **Akira:** And, I didn't mean for things to get out of hand before, Mihono. I lost my cool and wasn't thinking straight.  
@@ -532,11 +516,11 @@ https://youtu.be/-fV4ehWn5Gw
 **Akira:** I don't know if it's exactly the same, but you're wanting to change yourself, right?  
 **Mihono:** I guess I want to change?  
 **Akira:** Yeah. That's mostly how it is for them. Wanting to get tougher.  
-**Mihono:** -\!? I think you might be right\!  
+**Mihono:** -\!\? I think you might be right\!  
 **Akira:** In that case, you've got to challenge yourself. Do whatever's toughest, cause that's what's best for you.  
 **Hana:** (...Inago-san, she seems like the type who's good at looking after others. Calling her boss wasn't too far off the mark.)  
 **Mihono:** Whatever's toughest... Maybe I will transfer to the police.  
-**Yui:** You mean it\!?  
+**Yui:** You mean it\!\?  
 **Yui:** Between Hana-san and Mihono-chan, I'd have a pretty girl whichever way I look\!  
 **Akira:** Dumbass\! Don't drop your guard\!   
 **Yui:** Eh?  
@@ -544,7 +528,7 @@ https://youtu.be/-fV4ehWn5Gw
 **Yui:** Gah\!  
 **Akira:** Mihono, Hana, get your utsushi up\!  
 **Mihono:** On it\!  
-**Hana:** Kh...\!? I can't...\!  
+**Hana:** Kh...\!\? I can't...\!  
 **Aradama:** GAAAAAAAAAA\!\!  
 **Hana:** Ggh-\!  
 **Akira:** Tch, you're both at your limit then... Oi\! If you're still breathing, then say something\!  
@@ -586,7 +570,7 @@ https://youtu.be/-fV4ehWn5Gw
 **Mihono:** Yeah, I'm just fine, but...  
 **Mai:** But?  
 **Hana:** They seriously did a number on the both of us.  
-**Mai:** Suzumoto-san, and Yamashiro-san too\!? Are you two okay...?  
+**Mai:** Suzumoto-san, and Yamashiro-san too\!\? Are you two okay...?  
 **Hana:** Doesn't feel like I'm doing that great.  
 	[ambulance siren]
 
@@ -601,12 +585,12 @@ https://youtu.be/-fV4ehWn5Gw
 **Futaba:** You just keep saying that\!  
 **Mihono:** Excuse me.  
 **Ema:** Asakura-san? Thank you, for your efforts the other day. What did you need?  
-**Mihono:** Err... About what you said, about transferring to a unit under the MPD's command, can I still do that\!?  
+**Mihono:** Err... About what you said, about transferring to a unit under the MPD's command, can I still do that\!\?  
 **Ema:** Of course, that would be fine, though... Did something happen?  
 **Mihono:** Yeah. I talked to Yui and Suzumoto-san, and Akira-san gave me advice... I made up my mind.  
 **Ema:** It sounds like you got the encouragement you needed.  
 **Ema:** I understand. In that case, starting today, you'll be transferred to the Metropolitan Police Department.  
-**Mihono:** Starting today\!?  
+**Mihono:** Starting today\!\?  
 **Ema:** Yes. Ever since you asked to be sent to the mall, I've been expecting this to come.  
 **Ema:** The preparations were taken care of.  
 **Mihono:** Uwah... Is it really that easy to tell what I'm going to do?  

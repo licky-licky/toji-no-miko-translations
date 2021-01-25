@@ -12,7 +12,7 @@ https://streamable.com/po6vi2
 **Mihono:** But the harder we work on missions, that just means we spend more time in makeup classes. I'm not really okay with that...\!  
 **Kanami:** They could at least give us a little bit of a break\!  
 **Mai:** I think, even now, they might still be taking into account the rate of missions you're sent on for your makeup classes. Especially since you two often get assigned to suppress aradama.  
-**Kanami:** Even still\!?  
+**Kanami:** Even still\!\?  
 **Mihono:** That's too much\~...  
 **Mai:** Maybe you're right. But, if you score well on your tests, I think there's a chance you'd have less makeup classes?  
 **Mai:** If you two both try your best, I think you can get even better grades.  
@@ -122,16 +122,16 @@ https://streamable.com/kftrtt
 ## [Hostess - Kiyoka: End]: Hopefully it Goes Well
 **Kiyoka:** Umm, this meal was for the room to the left of the one before--  
 **Mihono:** H-Help me, Kiyokaaaaaaaaa\!\!  
-**Kiyoka:** ...Hyau\!? What's the matter, Hono-chan\!?  
+**Kiyoka:** ...Hyau\!\? What's the matter, Hono-chan\!\?  
 **Mihono:** The food I was making turned into an aradama\!  
-**Mihono:** What do I do\!?  
-**Kiyoka:** Ehh\!? Why did it do that\!? First... W-W-W-We have to calm down...\!?  
+**Mihono:** What do I do\!\?  
+**Kiyoka:** Ehh\!\? Why did it do that\!\? First... W-W-W-We have to calm down...\!\?  
 **Kiyoka:** ...Right\! We use our okatana at times like these\!  
 **Mihono:** Oh yeah, our okatana\!  
 **Mihono:** This'll do it... in a jiffy\!  
 **Kiyoka:** Wait, Hono-chan\! You're holding a fire extinguisher\!\!  
 **Mihono:** SHHUU---\!\!  
-**Kiyoka:** Ah, everything's gone all white\!?  
+**Kiyoka:** Ah, everything's gone all white\!\?  
 **Mihono:** SHHUU---\!\!  
 **Kiyoka:** I can't see the aradama\! Stop it, Hono-chan\!\!  
 **Kiyoka:** S-Stop doing that-\!  
@@ -203,14 +203,14 @@ https://streamable.com/8e41cz
 **Yume:** I don't like them all that much, but, if the guests like it, it's fine.  
 **Yomi:** That would be best, wouldn't it.  
 **Maki:** You look like you're working hard for the ryokan, Yume.  
-**Yume:** Maki-onee-san, Suzuka-onee-san\!? Why're you here\!?  
+**Yume:** Maki-onee-san, Suzuka-onee-san\!\? Why're you here\!\?  
 **Suzuka:** A certain someone was worried to death over you, so we came to see you in the end.  
 **Maki:** Suzuka... You promised you wouldn't say anything.  
 **Suzuka:** Oh, did I?  
 **Yume:** You're treating me like a kid again-. You didn't have to worry about me or anything. See, look. I'm doing my job juuust fine.  
 **Maki:** Yeah, I can tell. Those all look tasty.  
 **Suzuka:** I'll be looking forward to enjoying what you've picked for dinner.  
-**Yume:** You're having these for dinner\!?  
+**Yume:** You're having these for dinner\!\?  
 **Suzuka:** We are. We made a reservation just now.  
 **Suzuka:** I asked for all four of us, you and Yomi-san included, to sit for dinner together. So stick to your work until then.  
 **Yume:** Okay\! Then, I'm going to get going\!  

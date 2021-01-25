@@ -20,11 +20,11 @@
 **Mihono:** I don't... want Kiyomitsu to keep going berserk like that...  
 **Mihono:** ...Please tell me. About, why Kashuu Kiyomitsu is rampaging out of control... And, what I need to do to get a handle on it\!  
 **Makoto:** To start, I suppose I should speak of why I can tell you that in the first place... That is because the Hitakamis and the Asakuras are related by blood.  
-**Mihono:** By blood... Then, we're relatives\!?  
+**Mihono:** By blood... Then, we're relatives\!\?  
 **Makoto:** The Asakura family originates from the Atago family. What was once a branch of and aid to the Hitakami family.  
 **Mihono:** So like, my grandma was someone from the Atago family, and she married into the Asakura family?  
 **Makoto:** No... Your grandmother was of the Asakura family. It was five hundred years ago that the Atago and Hitakami were together.  
-**Mihono:** Five hundred years\!?  
+**Mihono:** Five hundred years\!\?  
 **Mihono:** Huh, but... I feel like I learned in makeup lessons that the Origami family only took over toji business for the country about four hundred years ago...  
 **Makoto:** The title "toji" came into use four hundred years ago. Yet, there were okatana miko even before that.  
 **Akira:** They only took charge four hundred years ago... So basically, that means okatana miko were going around unregulated before.  
@@ -40,7 +40,7 @@
 **Akira:** If they felt like it, they could take them out anytime... The people at the top'd only be scared of people like that. Even if the Atagos didn't have any plans on rebelling.  
 **Makoto:** ...That was the case.  
 **Makoto:** They took the head of the Hitakami family as hostage, so that the Atago family could not resist, and wiped out the bloodline.  
-**Mihono:** Wiped out\!? B-But, I'm still here\!  
+**Mihono:** Wiped out\!\? B-But, I'm still here\!  
 **Makoto:** One daughter was able to escape in secret. And she was given Kashuu Kiyomitsu.  
 **Makoto:** Having escaped, the girl abandoned the name Atago and took on the name Asakura, to conceal her background.  
 **Mihono:** And I'm... one of her descendants?  
@@ -51,14 +51,14 @@
 **Mihono:** Then, this is...  
 **Makoto:** ...Asakura-san. The phenomenon affecting you is not Kashuu Kiyomitsu rampaging.  
 **Makoto:** That is the power of the great aradama the Atago family defeated five hundred years ago... Kanayamahime's power.  
-**Mihono:** \!?  
+**Mihono:** \!\?  
 **Makoto:** In order to suppress Kanayamahime, the miko of the Asakura family chose a method of sealing it within her own body.  
 **Makoto:** Even now, after five hundred years, the firstborn daughters of the Atago... of the Asakura family have inherited Kanayamahime, generation after generation, sealed within themselves.  
 **Mihono:** There's a great aradama... inside me...?  
 **Makoto:** One day, you may find yourself on the same path as Origami Yukari once took...  
 **Mihono:** B-But, there's no great aradama taking control of me or anything...\!  
 **Makoto:** It would happen in time. Neither Origami Yukari nor Juujou Hiyori were able to control it.  
-**Mihono:** But, the Asakuras have always been inheriting Kanayamahime, haven't they\!?  
+**Mihono:** But, the Asakuras have always been inheriting Kanayamahime, haven't they\!\?  
 **Makoto:** That is because Kanayamahime had been rendered inactive.  
 **Makoto:** Though I'm unsure of the reason why... When it was passed on to you, Kanayamahime awakened.  
 **Mihono:** Then... I'm going to...  
@@ -99,7 +99,7 @@
 **Makoto:** Tamayori allows an aradama to temporarily fuse with the flesh of a toji. And, even with someone as compatible for it as yourself, the possibility of failure isn't quite zero.  
 **Mihono:** ...And what happens if it fails?  
 **Makoto:** ...The aradama becomes unable to be separated from the flesh.  
-**Mihono:** Eh...\!?  
+**Mihono:** Eh...\!\?  
 **???:** GRRRRRR...\!   
 **Mihono:** Does that mean... That thing was from that experiment...?  
 **Makoto:** It seems that you saw, Mihono-san...  
@@ -131,7 +131,7 @@
 **Akira/Yuuki:** ...  
 **Makoto:** It would have been best if you cooperated with us of your own volition.  
 **Makoto:** However, we are in a position where we cannot afford to turn back. Even if it requires force, we will have your cooperation.  
-**Mihono:** Wha\!?  
+**Mihono:** Wha\!\?  
 **Makoto:** Do not let her escape.  
 **Makoto:** ...Inago. Toribane. Restrain Asakura Mihono.  
 **Akira:** So it'd come to this... Sorry, Mihono.  
@@ -157,7 +157,7 @@
 **Kofuki:** That's not gonna fly\! Pick one of them\!  
 **Yui:** Err, uhhh... I-In that case, what about if we come back again with Mihono-chan, then she tries on both...?  
 **Kofuki:** You've got a point. It'd be best if Mihocchi tried 'em on.  
-**Yui:** Right\!?  
+**Yui:** Right\!\?  
 **Yui:** And, Mihono-chan's been looking down lately, so, when she gets back, let's throw a big pajama party\!  
 **Kofuki:** Then, whoever's outfit Mihocchi doesn't pick, that person's buying the snacks.  
 **Kofuki:** And you're picking one out too\!  
@@ -279,7 +279,7 @@
 **Hitakami Toji A:** Kh... At least, I can do this...  
 **Kofuki:** Urgh, that's loud as hell\!\!  
 **Mirja:** They've activated the alarm...  
-**Yui:** Wh-Wh-Wh-What do we do\!? If we stay here, people are going to come running, won't they\!?  
+**Yui:** Wh-Wh-Wh-What do we do\!\? If we stay here, people are going to come running, won't they\!\?  
 **Mirja:** Either way, there's no returning from this point. Have you made up your minds on this?  
 **Chie:** Made up my mind... To fight Mokusa and Makoto, in order to bring back Mihono-chan...  
 **Kofuki:** It's a little late to be asking; we already beat down two of 'em. It's all the same no matter how many more we take out.  
@@ -390,7 +390,7 @@
 
 ## 8: Flight Through the Mountains (1)
 **Mihono:** ......  
-**Hitakami Toji I:** Where did Asakura Mihono get to\!?  
+**Hitakami Toji I:** Where did Asakura Mihono get to\!\?  
 **Hitakami Toji J:** We have to find her\! Don't let her escape the grounds\!  
 **Mihono:** ......Phew.  
 **Mihono:** I'm glad I managed to get out of the mansion, but there's no end to the toji coming after me...  
@@ -399,7 +399,7 @@
 **Mihono:** I mean, I came here without telling Chii-nee or Mirja-san anything...  
 **Mihono:** I wonder what they're all doing right now...  
 **Hitakami Toji I:** I've found Asakura Mihono\!\!  
-**Mihono:** AH-\!??  
+**Mihono:** AH-\!\??  
 
 ## 9: Flight Through the Mountains (2)
 **Mihono:** [pant, pant...] I managed to beat them somehow, but, without using Kiyomitsu's power, any more than this could be tough...  
@@ -409,7 +409,7 @@
 **Mirja:** You may not have intended it, but that was a clear disregard for orders.  
 **Mihono:** Maybe I let it get to my head... I guess I got all mixed up, thinking Kanayamahime's power made me strong...  
 **Butterfly Shaped Aradama:** ......  
-**Mihono:** Aradama\!?  
+**Mihono:** Aradama\!\?  
 **Butterfly Shaped Aradama:** ......  
 **Mihono:** They're not attacking...  
 **Mihono:** ...Wait? Aren't these...?  
@@ -419,7 +419,7 @@
 **Mihono:** Where is this, anyway? I can't even tell which way I came from anymore...  
 **Mihono:** No, it's not like me to give up\! ...Where there's a will, there's a way\!  
 **Akira:** Nah, you're coming back to our place.  
-**Mihono:** -\!?  
+**Mihono:** -\!\?  
 **Yuuki:** Please come with us, Mihono-san. We need you.  
 **Mihono:** Akira-san... Yuuki...  
 **Other:** The Mightiest Backup  

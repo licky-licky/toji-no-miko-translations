@@ -71,7 +71,7 @@ https://youtu.be/2M6zbLwwmAo
 **Tsugumi:** What was this urban legend about?  
 **Ruiko:** I heard that, even though aradama look like scary monsters, there's an aradama that's small and cute too...\!  
 **Ruiko:** Though, the toji who told me about it hadn't actually seen it herself.  
-**Ruiko:** But still, don't you just want to get to the bottom of this\!? Is it some kind of mutant? Was it made by some mad scientist's experiment ...My imagination's running wild here\!  
+**Ruiko:** But still, don't you just want to get to the bottom of this\!\? Is it some kind of mutant? Was it made by some mad scientist's experiment ...My imagination's running wild here\!  
 **Kazari:** That's a bad habit of yours, Saten-san.  
 **Tsugumi:** Hmm hmm. You're right, that is fascinating. I'd like to know the truth behind it-.  
 **Mai:** Umm, isn't that...  
@@ -81,7 +81,7 @@ https://youtu.be/2M6zbLwwmAo
 **Ruiko:** In that case, I'll get to the bottom of this one for sure\! It's not like I've got anything better to do anyway\!  
 **Tsugumi:** I'll look forward to it then. Ah, but please, don't go doing anything dangerous.  
 **Ruiko:** I got it-. Uiharu, starting tomorrow, we've got an important mission to hunt down the truth of an urban legend\!  
-**Kazari:** Ehh-- I'm a part of this too-\!?  
+**Kazari:** Ehh-- I'm a part of this too-\!\?  
 **Kanami:** When we have the time, we'll join you\! You'd be in trouble if you actually ran into an aradama.  
 **Ruiko:** Thanks so much\! Whenever you're free, just come on board\!  
 
@@ -106,15 +106,15 @@ https://youtu.be/2M6zbLwwmAo
 **Mii:** This has turned into a fairly bustling group, hasn't it.  
 **Mirja:** Then, what should we do next? It might be a good idea to split into two parties.  
 **Kazari:** We looked into that big discount store just now, but you don't seem have any cans of strawberry oden or strawberry monjayaki in this world...  
-**Kanami:** We have a few differences, like this side has aradama and your side has special powers, but things are basically the same... So I thought, "Maybe they'll have it\!" But, no luck...  
-**Ruiko:** I thought it'd be good to split up for a bit, but Uiharu, that's what you were looking for\!?  
+**Kanami:** We have a few differences, like this side has aradama and your side has special powers, but things are basically the same... So I thought, "Maybe they'll have it\!\" But, no luck...  
+**Ruiko:** I thought it'd be good to split up for a bit, but Uiharu, that's what you were looking for\!\?  
 **Kanami:** We were just a little morbidly curious. I wanted to know what it'd taste like.  
 **Sanae:** Yeah. Uiharu-san said we just had to try it. I thought it might be tasty...  
 **Yume:** Mmm, I like strawberry daifuku and stuff a lot, but oden is going too far...  
 **Kazari:** It has a highly refined flavor, you know? You can't judge it from appearances alone.  
 **Ruiko:** No way, it's pretty much what you'd expect\!  
 **Misaki:** Might if I say somethingg?  
-**Ruiko:** Don't tell me, Shokuhou-san's a fan of strawberry oden too\!?  
+**Ruiko:** Don't tell me, Shokuhou-san's a fan of strawberry oden too\!\?  
 **Misaki:** What are you talking about? I mean about the aradama we're searching for, of coursee.  
 **Ruiko:** Did you come across something important?  
 **Misaki:** If there were a cute aradama out there, wouldn't it be possible lots of people might not even recognize it as an aradamaa?  
@@ -192,7 +192,7 @@ The next day--
 **Kaoru:** It's Nene.  
 **Mirja:** Cases of aradama such as Nene are exceptionally rare, so I'd say none outside of Mashiko Kaoru's acquaintances would believe it. In actuality, Nene has in part become a rumor.  
 **Ruiko:** This guy sure is nothing at all like the aradama we've seen so far. Let me pet him.  
-**Ruiko:** --Eh, he jumped\!?  
+**Ruiko:** --Eh, he jumped\!\?  
 **Mii:** KYA. Th-That took me by surprise. It's a good thing I caught him at least.  
 **Nene:** Ne\~\!  
 **Kuroko:** This is... He seems to be somehow attached to you, Konori-senpai.  
@@ -206,7 +206,7 @@ The next day--
 **Mai:** Ahaha...  
 **Ruiko:** Ah-. Does that mean, Nene-chan's...  
 **Misaki:** Basicallyy, does that mean he's more attached to girls with bigger bust power? How unfortunate for youu, Misaka-san.  
-**Mikoto:** ...\!?\!?  
+**Mikoto:** ...\!\?\!\?  
 **Kuroko:** Now, now. Onee-sama, you still have me as your partner in skinship. Please love and caress me to your heart's desire.  
 **Kazari:** Ahaha... It might cause other problems, but it'd be nice if the other aradama could all be as friendly as Nene-chan here.  
 **Ruiko:** Yeah. I think it'd be best if they got along like Mashiko-san and Nene-chan here.  
@@ -223,7 +223,7 @@ https://youtu.be/Qn8sW115TSU
   
 
 ## [Railgun - Kofuki: Start]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!
-**Ruiko:** Shichinosato-san\! Is it really true that Renpu Girls' Academy is researching human aradamas behind closed doors\!?  
+**Ruiko:** Shichinosato-san\! Is it really true that Renpu Girls' Academy is researching human aradamas behind closed doors\!\?  
 **Kofuki:** The hell are you talking about?  
 **Ruiko:** It's a rumor I've been hearing from all the toji\!  
 **Ruiko:** Since I like learning about urban legends, I thought you toji might have some, so I asked a bunch of people\!  
@@ -238,9 +238,9 @@ https://youtu.be/Qn8sW115TSU
 **Ruiko:** You say that, but, if it really was real, wouldn't you be interested, Uiharu?  
 **Kazari:** In that case... I think I would, a little...  
 **Kofuki:** Then, wanna go see the research labs? I was just about to head over there actually.  
-**Ruiko:** Can we\!?  
+**Ruiko:** Can we\!\?  
 **Kofuki:** Sure, do whatever you want. Though, whatever happens when you get there, it's not my problem.  
-**Ruiko:** W-Whatever happens...? Then, are there really human aradama\!?  
+**Ruiko:** W-Whatever happens...? Then, are there really human aradama\!\?  
 **Kazari:** S-Saten-san, maybe we should just give up on this...  
 **Ruiko:** It sounds interesting\! Let's go, Uiharu\!  
 **Kazari:** Of course it came to this...  
@@ -249,7 +249,7 @@ https://youtu.be/Qn8sW115TSU
 **Ruiko:** ...Maybe the toilet?  
 **Kazari:** Do you think?  
 **???:** Excuse me.  
-**Ruiko/Kazari:** HYAAAAAAAA\!?  
+**Ruiko/Kazari:** HYAAAAAAAA\!\?  
 **Ruiko:** I'm sorry, it's not like we wandered in here on our own\! Shichinosato-san just led us here is all\!  
 **Kazari:** This is why I told you to stop, didn't I\!  
 **Tsugumi:** Really now... This was mean of you, Shichinosato-san.  
@@ -259,11 +259,11 @@ https://youtu.be/Qn8sW115TSU
 **Ruiko:** I-I thought you'd be mad at us...  
 
 ## [Railgun - Kofuki: End]: Take it Easy With Gathering Rumors
-**Ruiko:** When you suddenly popped out at us, I was thinking, "We're gonna get turned into human aradama experiments\!"  
+**Ruiko:** When you suddenly popped out at us, I was thinking, "We're gonna get turned into human aradama experiments\!\"  
 **Tsugumi:** Human aradama... Ahh, it's about that rumor, isn't it.  
-**Ruiko:** You know about it\!?  
+**Ruiko:** You know about it\!\?  
 **Kazari:** Saten-san, let's stop asking them weird questions.  
-**Saten:** But, we finally met someone who knows about it\!? Aren't you curious, Uiharu?  
+**Saten:** But, we finally met someone who knows about it\!\? Aren't you curious, Uiharu?  
 **Kazari:** Well, I am a little bit curious...  
 **Tsugumi:** That rumor is completely made up. We don't carry out experiments fusing humans with aradama or the like here.  
 **Ruiko:** So that's all-.  
@@ -278,12 +278,12 @@ https://youtu.be/Qn8sW115TSU
 **Ruiko:** Hey, it looks like she just finished beating the aradama too, so let's go\!  
 **Tsugumi:** Ah, please wait a moment\!  
 **Tsugumi:** Uiharu-san, please stop Saten-san\! The current turn hasn't finished yet\!  
-**Kazari:** Ehh\!? S-Saten-san, hang on\!  
+**Kazari:** Ehh\!\? S-Saten-san, hang on\!  
 **Ruiko:** Huh?  
 **Aradama:** SHAAAAAAAAAAAAAAA\!\!  
 **Kofuki:** Hey, what'd you come running in here for\!\!  
 **Ruiko:** I-I thought you were finished already\!  
-**Kazari:** Are you okay, Saten-san\!?  
+**Kazari:** Are you okay, Saten-san\!\?  
 **Kofuki:** You two aren't supposed to be in here\! Whatever\! I'll take care of these guys fast, so just hide in the back\!  
 **Ruiko/Kazari:** O-Okay\!  
 **Ruiko:** Th-Thank god we're safe...  

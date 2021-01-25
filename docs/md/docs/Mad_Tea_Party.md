@@ -33,7 +33,7 @@ After the escape room game was concluded...
 **Ellen:** It was so good I couldn't believe it, so I went and got the chef's phone number\!  
 **Mai:** Hotel cakes...  
 **Mai:** I was thinking I could bake some cookies, but... I suppose it would be better if we let your favorite chef handle things?  
-**Ellen:** What are you saying\!? Everyone would love to eat your cookies, Maimai\!  
+**Ellen:** What are you saying\!\? Everyone would love to eat your cookies, Maimai\!  
 **Ellen:** In fact, I don't think it'll work if we can't get your cookies at the party\!  
 **Chie:** In that case, Ellen-san will take care of the cakes, and Yanase-san will take care of the cookies.  
 **Chie:** We should all make some quick decisions on what we're bringing, so none of us bring the same thing.  
@@ -55,7 +55,7 @@ The day of the tea party.
 **Sayaka:** ...Mm\!  
 **Kaoru:** Oi oi, do we really have to work a time like this...?  
 **Aradama:** GGGIIII...  
-**Mai:** Why would there be aradama here\!? Wait... It's running away\!  
+**Mai:** Why would there be aradama here\!\? Wait... It's running away\!  
 **Kaoru:** Hey... Did it look like that aradama was holding something to you?  
 **Sayaka:** ...Ah. The cups we just set out... They disappeared.  
 **Ellen:** I don't believe it... The teapot is gone too\! The aradama must have run off with it...  
@@ -69,7 +69,7 @@ The day of the tea party.
 
 ## [stomach growls]
 **Sayaka:** ...Mai?  
-**Mai:** Th-That wasn't me, Sayaka-chan\!?  
+**Mai:** Th-That wasn't me, Sayaka-chan\!\?  
 **Kaoru:** That was me.  
 **Kaoru:** After the aradama and the workout, I'm so peckish I'm about to grow a beak...  
 **Sayaka:** Grow a beak? What do you mean?  
@@ -103,8 +103,8 @@ The day of the tea party.
 **Tsugumi:** Yes. There were some preparations I had to make.  
 **Kofuki:** Preparations? Hey, these sandwiches look pretty good\! I'm taking one\!  
 **Sayaka:** Ah, those are...  
-**Kofuki:** BFWOAGH\!?  
-**Kiyoka:** Hello... Wait, why is Kofuki-san on the floor\!?  
+**Kofuki:** BFWOAGH\!\?  
+**Kiyoka:** Hello... Wait, why is Kofuki-san on the floor\!\?  
 **Suzuka:** Well now, what's all the commotion about? Did something happen?  
 **Yume:** We brought omusubi-\!  
 **Ellen:** Come find a seat, Hanahana, Yumecchi\!  

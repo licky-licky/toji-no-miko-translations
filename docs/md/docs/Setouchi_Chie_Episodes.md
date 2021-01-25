@@ -1,13 +1,9 @@
 
 Setouchi Chie Episodes
 ======================
+https://www.youtube.com/watch?v=KsqE0-j_osU
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/KsqE0-j_osU" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/UrOq6F25WZg
 
   
@@ -94,7 +90,7 @@ In the research lab of Osafune Girls' Academy...
 **Kiyoka:** Y-Yes. I hope so. So, about what you were saying before... Do you think Mihono-san still remembers that ribbon?  
 **Chie:** I'm not sure? It wouldn't surprise me if she forgot.  
 **Mihono:** Eh? What's up? You're talking about Chii-nee's ribbon? Sure I remember\!  
-**Chie:** \!?  
+**Chie:** \!\?  
 **Mihono:** Huh? Well of course I would; it's really important to me. I tied it to my bed back at the dorms, like a protection charm.  
 **Mihono:** We suddenly got pulled into this investigation team though, so I didn't have a chance to bring it with me.  
 **Mihono:** Wait, you mean you didn't see it when you were in my room, Chii-nee?  
@@ -112,7 +108,7 @@ In the research lab of Osafune Girls' Academy...
 **Kiyoka:** Being the captain keeps her busy. Um, here, you're up first, Hono-chan.  
 **Mihono:** I'm on it\!  
 **Mihono:** Everyone's such good singers\~. Miyako-san knows so many western songs, Kiyoka did all those trendy songs, and Fukki... Well, you just kept singing the same one over and over again. Four whole times.  
-**Kofuki:** It's the only one I know\! You got a problem with that\!?  
+**Kofuki:** It's the only one I know\! You got a problem with that\!\?  
 **Kiyoka:** That only leaves Chie-san. From the start, all she's been doing is picking out songs for Hono-chan. Does she not plan on singing?  
 **Mihono:** Ah... You're right... I didn't get to choose a single song\! Everyone else did it, so you sing too, Chii-nee\!  
 **Chie:** Eh? Well, I'm... You know?  
@@ -120,11 +116,11 @@ In the research lab of Osafune Girls' Academy...
 **Chie:** Really? Well, if you're all asking...  
 **Mihono:** Come to think of it, I've got no clue what kind of music Chii-nee is into...  
 **Miyako:** Well, you'll find out soon enough. A pro like her's about to put us all to shame.  
-**Kiyoka:** A pro\!? Is she going to sing a really adult love song or something?  
+**Kiyoka:** A pro\!\? Is she going to sing a really adult love song or something?  
 **Mihono:** Or maybe she'll sing jazz\!  
 **Kiyoka:** Or something unexpected, like death metal... Ah... Chie-san took out her smart phone.  
 **Kiyoka:** She must already have a karaoke app. She seems really used to this.  
-**Kiyoka:** ...\!? This prelude\!  
+**Kiyoka:** ...\!\? This prelude\!  
 **Chie:** THE WOOOMAN\~\~ BY THE WAVES\~\~  
 **Kiyoka/Mihono:** Classical enka\~\!  
 
@@ -132,16 +128,16 @@ In the research lab of Osafune Girls' Academy...
 **Mihono:** Take this\! Kamui\!  
 **Aradama:** GYAAAAAAA\!  
 **Chie:** Th-Thank you, Mihono-chan. You saved me...  
-**Kiyoka:** Setouchi-san\! Are you okay\!?  
+**Kiyoka:** Setouchi-san\! Are you okay\!\?  
 **Chie:** I'm fine... I hadn't even noticed one sneaking up behind us... Thank you so much, you two.  
 **Mihono:** You're the one who's always saving us, Chii-nee. But today we got to pay you back, right, Kiyoka\!  
 **Kiyoka:** Ah, yes. I, um... I was useful too, wasn't I?  
 **Chie:** Mmhm, you're so strong, Kiyoka-chan. But I feel so safe with Mihono-chan watching over me. It's like you don't need my support anymore.  
-**Mihono:** Really\!? We can take care of ourselves now\! It's official\!  
+**Mihono:** Really\!\? We can take care of ourselves now\! It's official\!  
 **Kiyoka:** Th-That's troubling though... At the very least, if I could still stay in the back...  
 **Chie:** Okay, okay, you two have outgrown your onee-san\~. Now let's clean things up here. Mihono-chan, you were scratched, so take care of that.  
 **Mihono:** Fukki-\! Give me a bandage\! A bandage\!  
-**Kofuki:** Huh\!? Use one of your own\!  
+**Kofuki:** Huh\!\? Use one of your own\!  
 **Kiyoka:** Sorry, I used up the last of ours...  
 **Kofuki:** Tch, then take whatever...  
 **Mihono:** Thanks\!  
@@ -176,7 +172,7 @@ https://youtu.be/UrOq6F25WZg
 **Kofuki:** I said your ass is fat too, Chichie.  
 **Kofuki:** Is that what they call childbearing hips? What'd you eat to get it that fat, Shirie? 	[Much like chichi means tits, shiri means ass]  
 **Chie:** Kofuki-chan\!\!  
-**Kofuki:** What're you getting mad for\!? I was just making a simple observation\!\!  
+**Kofuki:** What're you getting mad for\!\? I was just making a simple observation\!\!  
 **Chie:** This is one of those things you should keep to yourself\!  
 **Chie:** I can't believe you. Can we please have a good time here without you saying things like that?  
 **Kofuki:** I'm having plenty of a good time though.  
@@ -210,12 +206,12 @@ https://youtu.be/UrOq6F25WZg
 **Chie:** That's more like you. They'll make fitting last words.  
 **Kofuki:** O-Oi, what's that supposed to mean, Chichie? My last...  
 **Chie:** Kofuki-chan? I hope you're prepared for this.  
-**Kofuki:** Wha-, hang on\! It's just a cute little prank, right\!?  
+**Kofuki:** Wha-, hang on\! It's just a cute little prank, right\!\?  
 **Kofuki:** Besides, it's not like you aren't wearing anything under the pareo, so you don't have to freak out even if it comes off\!  
 **Chie:** ...Sohayanotsuruki.  
-**Kofuki:** Hey, you, wait, okatana are off limits, okay\!? Where'd you even pull that from\!?  
+**Kofuki:** Hey, you, wait, okatana are off limits, okay\!\? Where'd you even pull that from\!\?  
 **Chie:** A toji must always keep their okatana in arms reach, isn't that right?  
-**Kofuki:** So where were you keeping it\!?  
+**Kofuki:** So where were you keeping it\!\?  
 **Kofuki:** Oi... C-Cut it out\!  
 **Kofuki:** GYAA----\!\!  
 **Chie:** Really now, isn't it time you learned there are some lines even friends don't cross? It's important to know right from wrong, Kofuki-chan.  
@@ -239,7 +235,7 @@ https://youtu.be/ECgV1cc_IOw
 **Chie:** ...Phew. Good work, everyone.  
 **Kiyoka:** No, please be on your guard\! There's a reading on the spectrum finder\!  
 **Aradama:** KUEEEEEEEE\!  
-**Chie:** Kyah\!?  
+**Chie:** Kyah\!\?  
 **Kofuki:** I'm taking that aradama-chan\!  
 **Mirja:** ...Musumi Kiyoka, are there any more readings on your spectrum finder?  
 **Kiyoka:** ...They're all gone. That was honest to goodness the last of them this time.  
@@ -254,7 +250,7 @@ https://youtu.be/ECgV1cc_IOw
 **Kofuki:** Guess even Chichie can get all depressed like that.  
 **Kiyoka:** It's worrying... Hono-chan, have you ever seen Chie-san like that before?  
 **Mihono:** Kind of. Way back when, Chii-nee used to cry really easy, and she'd get called crybaby Chii-chan.  
-**Kiyoka/Kofuki:** Crybaby Chii-chan\!?  
+**Kiyoka/Kofuki:** Crybaby Chii-chan\!\?  
 **Chie:** Just now, I heard the word "crybaby"... Mihono-chan?  
 **Mihono:** H-Huh? Was that something I wasn't supposed to tell anyone?  
 **Kofuki:** Yo\! Crybaby Chii-chan\!  
@@ -350,7 +346,7 @@ https://youtu.be/UMDuFWf-sOc
 **Chie:** No, it's only just in the courtyard there. There were some pretty flowers in bloom, so I wanted to stop by.  
 **Kazari:** Hmm. I'm a little curious in seeing what kind of flowers they have now.  
 **Ruiko:** ......  
-**Ruiko:** I was wondering what you needed our help with, but we're making a wreath of flowers for some reason\!?  
+**Ruiko:** I was wondering what you needed our help with, but we're making a wreath of flowers for some reason\!\?  
 **Kazari:** Don't fool around, Saten-san. Let's make this properly.  
 **Ruiko:** You say that, but-. It's pretty hard working with flowers.  
 **Kazari:** You're great with sewing, so if you just do it carefully, you should be fine.  
@@ -456,7 +452,7 @@ https://youtu.be/-FnEpWyIfT4
 **Chie:** (That gives me some relief, but... it makes me a little lonely too.)  
 **Kiyoka:** What is it you'll be doing for a practical exercise in a medical course?  
 **Chie:** It looks like we'll be acting as nurses.  
-**Yui:** Are you serious\!?  
+**Yui:** Are you serious\!\?  
 **Yui:** Ah, I wanna see. I wanna see it so bad. Chie-san as a nurse; she'd be a real angel in white\!  
 **Kofuki:** Huh? Like Chichie could ever cut it as an angel.  
 **Chie:** ...  
@@ -475,7 +471,7 @@ https://youtu.be/-FnEpWyIfT4
 **Chie:** Yui-chan?  
 **Yui:** Yes, Chie-san\!  
 **Chie:** On your knees.  
-**Yui:** Why me too\!?  
+**Yui:** Why me too\!\?  
 **Chie:** Honestly now.  
 **Chie:** Mirja, I'm sure it won't be easy on you, but do your best looking after them.  
 **Mirja:** ...I know, I will.  

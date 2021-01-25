@@ -58,12 +58,12 @@ After the Tagitsuhime incident, the members of the elite guard began working as 
 **Yomi:** We found that, while the noodles and other ingredients are important, it seems the most crucial part of yakisoba is the sauce. So, we were looking into finding the ultimate sauce.  
 **Suzuka:** It seems that popular sellers are employing various techniques, like adding fruits and vegetables to their products, or blending various sauces together...  
 **Maki:** During our research, we came across one major fact. It looks like a legendary yakisoba shop with the ultimate sauce is out somewhere in Kansai.  
-**Yume:** Then, if we get that sauce, we can make the ultimate yakisoba\!? We should go there right now\!  
+**Yume:** Then, if we get that sauce, we can make the ultimate yakisoba\!\? We should go there right now\!  
 **Maki:** Well, we'd love to, but... There don't seem to be any clear details on which shop it is.  
 **Yomi:** There's a limit to what you can find online or in magazines, so our only option would be to visit the area and ask around. However...  
 **Suzuka:** With our usual stream of missions, traveling to Kansai simply to find a sauce would be difficult.  
 **Akane:** Oh, I see you're all here. This works nicely. I have orders for the four of you to go on an expedition together. Could you please all leave for the Kansai region at once.  
-**Maki:** At once? And, all of us\!?  
+**Maki:** At once? And, all of us\!\?  
 **Yume:** Akane-sama, is this really okay? This means, while we do our mission, we can look for the ultimate sauce too, right\!  
 **Akane:** I'm not sure what you're talking about, but, so long as you see your mission through, I won't mind if you spend the remaining time however you like. Please have a safe trip.  
 **Suzuka/Yume/Yomi/Maki:** Yes ma'am\!  
@@ -97,10 +97,10 @@ After the Tagitsuhime incident, the members of the elite guard began working as 
 **Suzuka:** There's no harm in it. So long as you don't stray away from me, it's nothing more than a lovely little bracelet.  
 **Yume:** Boo-.  
 **Maki:** Haha. Yume is the Monkey King, and Suzuka is Tripitaka; you're right, it fits perfectly\!  
-**Maki:** ...Ah-\! Wait, then does that make me Pigsy or Sandy\!?  
+**Maki:** ...Ah-\! Wait, then does that make me Pigsy or Sandy\!\?  
 **Maki:** A pig or a kappa... Neither of them sounds great... Pig, kappa. Pig...  
 **Suzuka:** Oh, in the time we've spent here, an aradama appeared\! Come along, Pigsy, this is no time for your grumbling. We're going\!  
-**Maki:** I-I'm Pigsy\!? The pig monster, Pigsy...  
+**Maki:** I-I'm Pigsy\!\? The pig monster, Pigsy...  
 **Yume:** I think I lucked out getting to be the Monkey King\! Ahaha, let's go, Pigsy-onee-san\!  
 **Maki:** Pigsy... Me, of all people...  
 **Yomi:** Which would mean, I'm Sandy... Is that right...  
@@ -120,7 +120,7 @@ After the Tagitsuhime incident, the members of the elite guard began working as 
 **Suzuka:** Hm? Yomi-san, I don't see Maki-san anywhere. Was she with you?  
 **Yomi:** Shidou-san is on the bench over there...  
 **Maki:** Urp, sorry. I should have known better...  
-**Yume:** Maki-onee-san, what happened\!? Your belly's bulging out\!  
+**Yume:** Maki-onee-san, what happened\!\? Your belly's bulging out\!  
 **Yomi:** As we asked around the various shops, she ate the takoyaki, yakisoba, okonomiyaki; whatever they reccomended her...  
 **Maki:** Yeah, I couldn't refuse, and then...  
 **Yume:** I know they call this the town where you eat till you drop, but you didn't have to really do it\! You seriously are Pigsy, Maki-onee-san\!  
@@ -158,7 +158,7 @@ After the Tagitsuhime incident, the members of the elite guard began working as 
 **Suzuka:** No, we only did what was expected of us as toji. What matters most is that the shop and everyone were unharmed.  
 **Shopkeeper:** Sorry about before. Here, as thanks for what you've done today, would you want to take this?  
 **Maki:** This is the ultimate sauce\!  
-**Yume:** Can we? Really\!? Nice-\! We actually got the sauce\!  
+**Yume:** Can we? Really\!\? Nice-\! We actually got the sauce\!  
 **Maki:** At last, we've defeated the Ox King and gotten our hands on the scriptures...  
 **Yomi:** We seem to have eliminated all the aradama in this region, so our expedition assignment is finished as well. Let's hurry back to the Origami estate.  
 **Suzuka:** Yomi-san, I cooked the noodles and other ingredients.  

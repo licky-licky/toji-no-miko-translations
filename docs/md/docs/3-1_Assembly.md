@@ -1,13 +1,9 @@
 
 3-1 Assembly
 ============
+https://www.youtube.com/watch?v=ntmIHzjnP8U
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/ntmIHzjnP8U" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Back with Your Leader
 **Mihono:** Ehehehe.  
@@ -40,7 +36,7 @@
 **Suzuka:** Akane-sama...? Did you need us for something?  
 **Akane:** I didn't want to distract you from the operation by mentioning this earlier, but there's something I should tell you two.  
 **Akane:** In actuality, along with Ichikishimahime on this ship, my sister, Origami Yukari, is here as well.  
-**Maki:** Yukari-sama is here\!?  
+**Maki:** Yukari-sama is here\!\?  
 
 ## 2: Mother
 **Hiyori:** So the Origami Yukari who was supposed to be recovering in a hospital was hiding in an armed submarine.  
@@ -69,7 +65,7 @@
 **Akane:** It isn't, actually. I was curious and looked into her myself.  
 **Akane:** This girl's mother was Asakura Hikari. She was one of the toji who joined in the fight during the disaster.  
 **Yukari:** Looking closer, I can see the resemblance.  
-**Mihono:** Eh\!? You knew my mom?  
+**Mihono:** Eh\!\? You knew my mom?  
 **Yukari:** Yes... She was a very impressive toji.  
 **Mihono:** Impressive?  
 **Mihono:** (Huhh... That's weird? They told me, even though she was chosen by Kashuu Kiyomitsu, she was so useless you wouldn't believe it though...)  
@@ -83,7 +79,7 @@
 ## 3: What a Toji Should Do (1)
 **Mihono:** Nnn\~, I can't get her out of my head.  
 **Yui:** What's that, there's someone you're interested in? If it's me, you know you're always welcome\!  
-**Kiyoka:** Eh- Hono-chan's interested in someone\!? Who is it? Do I know them\!?  
+**Kiyoka:** Eh- Hono-chan's interested in someone\!\? Who is it? Do I know them\!\?  
 **Mihono:** I didn't say anything like that\! How'd you get that confused?  
 **Kiyoka:** Oh, that's not it...?  
 **Kofuki:** Come on, you know someone as straightforward as Mihocchi could never be thinking about romance.  
@@ -94,7 +90,7 @@
 **Mirja:** It's true it seemed significant, but don't tell me you've been stuck on that all this time? It's been three days since we spoke to her.  
 **Mihono:** But it's bugging me\!　Aggh\~, it's driving me nuts. Maybe I should just go ask her\!  
 **Mirja:** I'm afraid that won't be possible. To avoid the possibility of an attack from Tagitsuhime, the submarine has already left the coast.  
-**Mihono:** Don't tell me that\~\! What am I supposed to do about how messed up I'm feeling then\!?  
+**Mihono:** Don't tell me that\~\! What am I supposed to do about how messed up I'm feeling then\!\?  
 **Hana:** Why not try distracting yourself with your duties? There's always aradama to be dealt with.  
 **Kiyoka:** Our duties... But what exactly will we be doing from now on?  
 **Kiyoka:** We lost Namu Yakushi Kagemitsu, but Yukari Sama is in good health, and Tsubakuro-san was saved... What's going to happen with our investigation team?  
@@ -119,7 +115,7 @@
 **Kiyoka:** I understand.  
 **Kofuki:** That's so stupid. Were you really worried about that? We're toji, so we cut up aradama. That's all you have to care about.  
 **Kiyoka:** Not everybody's as simple as you, Kofuki-san.  
-**Kofuki:** You... Did you just call me simple\!? You sure started talking big for someone who used to be too shy to say anything.  
+**Kofuki:** You... Did you just call me simple\!\? You sure started talking big for someone who used to be too shy to say anything.  
 **Kofuki:** And you too... How long're you gonna be all moody for, Chichie? Don't you think you're overthinking things too?  
 **Chie:** ...Maybe you're right.  
 **Kofuki:** Come on... It's getting old.  
@@ -232,10 +228,10 @@
 **Akane:** Thank you very much. Also, at the present time, I would like to officially add both Yamashiro Yui and Suzumoto Hana to this investigation team.  
 **Mihono:** Huh? You two weren't officially with us before?  
 **Hana:** Technically we've still only been considered temporary reinforcements.  
-**Yui:** Wait, seriously\!?  
+**Yui:** Wait, seriously\!\?  
 **Hana:** Why are you acting surprised? They must have told you this before.  
 **Yui:** Ahh\~, I remember something like that, but when I heard I'd get to join with the famous investigation team loaded with cuties, I was so happy about it, I think I ended up forgetting everything else. Teehee\!  
-**Hana:** Don't give me "Teehee\!" Remember? When the raid on the Origami estate happened, you forgot to tell everyone else about me\!  
+**Hana:** Don't give me "Teehee\!\" Remember? When the raid on the Origami estate happened, you forgot to tell everyone else about me\!  
 **Hana:** Thanks to that, Kofuki-san nearly chopped my head off\!  
 **Yui:** .........Did I do that? Teehee\!  
 **Hana:** I can't believe you... Back then, when I read the mission report, it said Yamashiro Yui was a hardworking girl who enthusiastically did her duty, you know.  
@@ -246,16 +242,16 @@
 **Akane:** One last thing. With everything being reorganized, your investigation team has been officially designated [YOUR TEAM NAME HERE]. I expect good results from you girls.  
 **Akane:** That's all, you're dismissed.  
 **Other:** Yui's Excuse  
-**Hana:** Really, I can't believe you... You think you can get out of letting Kofuki-san nearly cut my head off with just "Teehee\!"?  
+**Hana:** Really, I can't believe you... You think you can get out of letting Kofuki-san nearly cut my head off with just "Teehee\!\"?  
 **Yui:** You don't have to blame me for it\~. I didn't even know that I was supposed to tell them about you on that mission.  
-**Hana:** You didn't know\!?  
+**Hana:** You didn't know\!\?  
 **Yui:** I mean, back when Aoto Youji-san told me everything, all he said was "there's another person who'll be helping you out" right at the end.  
 **Yui:** So all I was thinking is there's somebody else to look out for.  
 **Yui:** Since he didn't make a big deal out of it, I figured everybody else already knew.  
 **Hana:** Ahh... Since it's that guy, I can believe it...  
 **Yui:** See? And it happened so long ago, so just forget about it, forget about it. Now I have to go talk to Mirja-san, it's almost time. This is an important mission too.  
 **Yui:** Nnn\~, I get to have Mirja-san all to myself on this mission. Could I get any luckier-\!  
-**Hana:** Hey, wait... You're forgetting me again. It's the three of us going together, remember\!?  
+**Hana:** Hey, wait... You're forgetting me again. It's the three of us going together, remember\!\?  
 **Yui:** Ah, really? Teehee\!  
 **Hana:** Stop saying "Teehee"\! You're impossible...  
 > :ToCPrevNext

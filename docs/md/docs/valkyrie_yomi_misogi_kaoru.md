@@ -29,7 +29,7 @@ https://youtu.be/ZYwru7GiMV0
 **Akira:** ......  
 **Akira:** What're you talking about?  
 **Yomi:** You may not know about it, Akira, but valkyries were something that was part of Norse mythology--  
-**Akira:** It's not like I don't know what valkyries are...\! I'm asking, why're they making you dress up like that...\!?  
+**Akira:** It's not like I don't know what valkyries are...\! I'm asking, why're they making you dress up like that...\!\?  
 **Yomi:** That's what I'd like to know.  
 **Akira:** Yeah, I guess... The bureau does say to do some ridiculous stuff sometimes, huh.  
 **Akira:** ...Well, do what you can. Whatever you're buying here'll be my treat.  
@@ -44,7 +44,7 @@ https://youtu.be/ZYwru7GiMV0
 **Akira:** Cool; let me just put my bike away. Wait here a minute.  
 **Akira:** So, how'd that photo shoot turn out anyway?  
 **Yomi:** Like this.  
-**Akira:** Whoa-\!? The hell... You're looking way too cool in this.  
+**Akira:** Whoa-\!\? The hell... You're looking way too cool in this.  
 **Akira:** That sharp look on your face is great. It came out really damn nice.  
 **Yomi:** I didn't expect you to praise it so much.  
 **Akira:** Why not? Of course I would if it turned out this good.  
@@ -116,14 +116,14 @@ https://youtu.be/A4RipDwmT9Y
 ## [Misogi - Kaoru: End]: Together With Nene
 **Ellen:** Kaoru\! Behind you\!  
 **Aradama:** KSHAAAAAA\!  
-**Kaoru:** \!?  
+**Kaoru:** \!\?  
 **Nene:** NENE--\!\!  
 **Aradama:** GGGII...\!  
 **Nene:** Ne\! Nenene-- NEEEE-......  
-**Chie:** Nene-chan\!?  
+**Chie:** Nene-chan\!\?  
 **Kaoru:** Damnit...\!\!  
 **Kaoru:** Outta my way\! KIEEEEEEEEEEEEE\!\!  
-**Kaoru:** Is Nene okay\!?  
+**Kaoru:** Is Nene okay\!\?  
 **Nene:** ......  
 **Ellen:** You can relax, Kaoru. He's only passed out.  
 **Kaoru:** Oh...  

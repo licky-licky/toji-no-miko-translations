@@ -28,10 +28,10 @@ Night, at Kashima Shrine. Etou Kanami has finally reached her destination. Howev
 **Kanami:** Hiyori-chan\!  
 
 ## 2: Uncontrollable (2)
-**Kanami:** Are you okay, Hiyori-chan\!?  
+**Kanami:** Are you okay, Hiyori-chan\!\?  
 **Hiyori:** Rrgh...\! Urghhh...  
 **Hiyori:** GYAAAAAAGH---\!\!  
-**Mihono:** She's gone\!?  
+**Mihono:** She's gone\!\?  
 **Kanami:** Hiyori-chan\!  
 **Yukari:** Don't give chase\! Etou, Asakura. The two of you will go back and report this to Sana. And prepare for Tagitsuhime's next attack.  
 **Kanami:** But, Hiyori-chan's...  
@@ -149,14 +149,14 @@ Meanwhile, with the investigation team, the members of [YOUR NAME HERE] were--
 **Yukari:** Listen, Juujou Hiyori. You have inherited the power of the Hiiragi family from Kagari. It is the very same power that we, the Origami family, have.  
 **Hiyori:** ...What are you talking about?  
 **Yukari:** The Origamis suppress the aradama. Your family, the Hiiragis, are the ones who exorcise them. The relationship between us could be considered two sides of the same coin.  
-**Hiyori:** What...\!?  
+**Hiyori:** What...\!\?  
 **Yukari:** Even among toji, we are the families closest to special aradama. It was this power that allowed you to fuse with Ichikishimahime.  
-**Hiyori:** ...Then, why\!? If we're the same, why was it only a Hiiragi... Why did my mother have to give her life, instead of an Origami, to suppress an aradama\!?  
-**Hiyori:** How can I accept something that unreasonable\!?  
+**Hiyori:** ...Then, why\!\? If we're the same, why was it only a Hiiragi... Why did my mother have to give her life, instead of an Origami, to suppress an aradama\!\?  
+**Hiyori:** How can I accept something that unreasonable\!\?  
 **Hiyori:** And still... Damn it...\! Because of Ichikishimahime, I know\!  
 **Hiyori:** You truly wanted to free my mother from that unreasonable duty\! To save our mothers, you offered yourself to Tagitsuhime--  
-**Hiyori:** But then what\!?  
-**Hiyori:** If nobody's to blame, what do I do\!? With this anger in me... With my mother's regret...  
+**Hiyori:** But then what\!\?  
+**Hiyori:** If nobody's to blame, what do I do\!\? With this anger in me... With my mother's regret...  
 **Yukari:** Destroy Tagitsuhime. After she is defeated, absorb her into yourself and become an evil god.  
 **Hiyori:** Become... an evil god...?  
 **Yukari:** Do that, and I will bring an end to everything.  
@@ -198,7 +198,7 @@ Meanwhile, with the investigation team, the members of [YOUR NAME HERE] were--
 **Kanami:** .........That's weird? I feel all full of energy now\!  
 **Kanami:** ...Alright-\! I'm gonna bring Hiyori-chan back, no matter what\!  
 **Sana:** I see you're all here.  
-**Kanami:** What about Hiyori-chan\!? Have you found where she is?  
+**Kanami:** What about Hiyori-chan\!\? Have you found where she is?  
 **Sana:** I still haven't gotten anything back from the search team. You'll all be forming a unit yourselves and taking up the search. Yanase will be in charge.  
 **Mai:** Yes ma'am.  
 **Ellen:** With the way Hiyoyon is now, our spectrum finders or even Nene could track her down.  
@@ -280,7 +280,7 @@ Meanwhile, with the investigation team, the members of [YOUR NAME HERE] were--
 **Yukari:** The blade of Kogarasumaru is fatal.  
 **Tagitsuhime:** Yukari, damn you... I ignored you for the husk you are, but now you are an eyesore... Die\!  
 **Yukari:** Heh......  
-**Tagitsuhime:** You could still use utsushi\!?  
+**Tagitsuhime:** You could still use utsushi\!\?  
 **Hiyori:** HAAAAAAA-\!\!  
 **Tagitsuhime:** Ghah...  
 **Kanami:** Hiyori-chan\!  
@@ -380,7 +380,7 @@ At that time, with the investigation team--
 **Kanami:** (Wait...? Was it Hiyori-chan who told me that?)  
 **Hiyori:** Don't go thinking this is unfair.  
 **Kanami:** ...I won't. Using that is just one of your talents. It's just a different tactic than mine.  
-**Hiyori:** ...That's impossible\!?  
+**Hiyori:** ...That's impossible\!\?  
 **Hiyori:** Against Kanami putting all her strength into her sword, I lose in every instance...  
 **Yukari:** From seeing it with the dragon's eye, I finally understand. Etou's sword accurately reads the three powers of heaven, earth, and man, and instantly forms a fight in response.  
 **Yukari:** That part of her began blooming that night in Kamakura, and now, it's showing its full potential.  
@@ -403,7 +403,7 @@ At that time, with the investigation team--
 **Kanami:** [sobbing]  
 **Hiyori:** Grgh\!\! Ah... GUAGH...\!\!  
 **Hiyori:** AAGGGHHHH\!\!\!  
-**Mai:** Tagitsuhime\!? Why...?  
+**Mai:** Tagitsuhime\!\? Why...?  
 **Tagitsuhime:** You weren't the only one scheming something... Yukari\!  
 **Hiyori:** Gagh...\!  
 **Tagitsuhime:** Now, become one with me.  
@@ -415,7 +415,7 @@ At that time, with the investigation team--
 **Kofuki:** When they said they found Hiyori, this was the way we were supposed to head, right?  
 **Mirja:** I have GPS confirmation of it. She's in this direction, without a doubt. It shouldn't be much further either.  
 **Kiyoka:** The spectrum finder is showing a big reaction too\!  
-**Chie:** Hya-\!? Wh-What was that...? Was that a lightning strike, right nearby...?  
+**Chie:** Hya-\!\? Wh-What was that...? Was that a lightning strike, right nearby...?  
 **Kiyoka:** That lightning strike... It's in the same direction the spectrum finder is showing\!  
 **Mihono:** That lightning... I know what that is\! That's Juujou-san...\! Just like back then\!  
 **Mihono:** Let's hurry, guys\! We're almost there\!  

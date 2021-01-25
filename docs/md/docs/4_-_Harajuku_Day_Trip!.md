@@ -1,13 +1,9 @@
 
 4 - Harajuku Day Trip!
 ======================
+https://www.youtube.com/watch?v=UJ3A-S-B_s8
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/UJ3A-S-B_s8" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Why Not Take This Chance to Enjoy Ourselves?
 **Kiyoka:** Wow\! So this is Harajuku\! Everyone's so fashionable\! Look at all the shops\! And it smells so nice here, Mirja-senpai\!  
@@ -19,7 +15,7 @@
 **Mirja:** ... ........ ............  
 **Mirja:** No, that's a good idea, Harajuku. If I recall, that's where the sword shop Aoto-kan is located.  
 **Mirja:** Our mission isn't exactly time sensitive either. As Musumi Kiyoka-san has suggested, Harajuku may be a good place to pick up information.  
-**Everyone:** Ehh-\!?  
+**Everyone:** Ehh-\!\?  
 **Mihono:** Well, since we're already here, we might as well enjoy it, right?  
 **Chie:** I guess, but...  
 **Mihono:** Is there something you're worried about, Chii-nee?  
@@ -39,16 +35,16 @@
 **Kiyoka:** Um, can I look at that western fashion shop? I love their brand\! And that shop over there, they sell the cutest boots\!  
 **Chie:** What do you think, Mirja-san?  
 **Mirja:** ...I see no reason not to. Then, I'll accompany Musumi Kiyoka-san.  
-**Kiyoka:** Really\!? Let's go\! You're so tall, Mirja-san; I bet you'd look good in anything. I'm so jealous.  
+**Kiyoka:** Really\!\? Let's go\! You're so tall, Mirja-san; I bet you'd look good in anything. I'm so jealous.  
 **Chie:** Everyone's just ordinary girls in the end, hm. Maybe Kiyoka-san has that effect on everyone?  
 **Chie:** ......  
 **Chie:** I'd better catch up with Mihono-chan\~.  
 **Chie:** I'm here, Mihono-chan. I thought I ought to line up with you at least... What's wrong?  
 **Mihono:** Chii-nee... Look. In the shop...  
-**Chie:** At what... Eh\!? Isn't that Etou Kanami-san and Juujou Hiyori-san? What do you want to do? Should we talk to them?  
+**Chie:** At what... Eh\!\? Isn't that Etou Kanami-san and Juujou Hiyori-san? What do you want to do? Should we talk to them?  
 **Mihono:** I want to, but I shouldn't. If we did, Mirja-san and the others might find out about them.  
-**Chie:** That'd be bad for them, wouldn't it. Then we should... Wait\!? Mihono-chan\! The spectrum finder is going off\!  
-**Mihono:** It found aradama nearby\!? Show it to me...\! It's coming from... Over by... It looks like Yoyogi Park\! Hurry\! We have to get everyone together and go\!  
+**Chie:** That'd be bad for them, wouldn't it. Then we should... Wait\!\? Mihono-chan\! The spectrum finder is going off\!  
+**Mihono:** It found aradama nearby\!\? Show it to me...\! It's coming from... Over by... It looks like Yoyogi Park\! Hurry\! We have to get everyone together and go\!  
 
 ## 3: Team-Up? (1)
 **Local Broadcast:** [This is an emergency broadcast... Currently, aradama have been reported on Takeshita street. Do not approach the area until the riot squad arrives. Police officers, please follow the toji's instructions and help evacuate the area immediately.]  
@@ -60,7 +56,7 @@
 **Mirja:** (What should be done here...?)  
 **Mirja:** (I could have Asakura Mihono chase after her... However, I doubt she would be capable of bringing Shichinosato Kofuki back. As far as tactics go this is a terrible choice, but, if only for a minute...)  
 **Mirja:** Setouchi Chie-san\! I'm leaving this to you\! Hold this position until I bring back Shichonosato Kofuki\!  
-**Chie:** Eh\!?  
+**Chie:** Eh\!\?  
 **Kiyoka:** Um\! W-What... What should I be doing...  
 **Kiyoka:** ...Kyaa\!  
 **Chie:** Kiyoka-chan\!  
@@ -71,14 +67,14 @@
 **Kiyoka:** Ah, I-I'm sorry\! I just... Kyaa\!  
 **Mihono:** Ahh\! Don't run away, Musumi-san\! That's dangerous...\!  
 **Mihono:** (...I suspected it, but... Can Musumi-san really not fight?)  
-**Mihono:** (Even though she's a toji\!?)  
+**Mihono:** (Even though she's a toji\!\?)  
 **Chie:** (I have my hands full just protecting Kiyoka-chan\! Mihono-chan can't last much longer...)  
 **Chie:** (Just one more\! If just one more person were here\! Then we could at least hold out until Kitora-san returns\!)  
 **???:** Allow me to help\!  
-**Chie:** \!?  
+**Chie:** \!\?  
 **Mai:** Osafune toji\! I'll be under your command, so instruct me as you see fit\!  
-**Mihono:** Huh? Yanase-san\! Why are you here\!?  
-**Mai:** Asakura-san\!? I'm here to find Kanami-chan\! But I can explain later\!  
+**Mihono:** Huh? Yanase-san\! Why are you here\!\?  
+**Mai:** Asakura-san\!\? I'm here to find Kanami-chan\! But I can explain later\!  
 **Mihono:** G-Got it\!  
 
 ## 5: Newly Arrived Ally, Ma<i> (1)
@@ -125,7 +121,7 @@
 **Mirja:** I'm sorry for making you hold this spot on your own. As of now, Kitora Mirja and Shichinosato Kofuki will be joining the battle.  
 **Chie:** Understood, I'm ready for your orders.  
 **Mirja:** I'll take charge then.  
-**Kofuki:** Tch... Oi\! Why are we wasting time talking\! I only came back cause you promised I'd get the biggest aradama here\! Are we gonna get to it or what\!?  
+**Kofuki:** Tch... Oi\! Why are we wasting time talking\! I only came back cause you promised I'd get the biggest aradama here\! Are we gonna get to it or what\!\?  
 **Mai:** Excuse me\!  
 **Mirja:** You are...?  
 **Mai:** I'm Yanase Mai, from Minoseki. Please let me assist you.  
@@ -168,7 +164,7 @@
 **Kiyoka:** Sigh... You don't get it.  
 **Mihono:** Eh?  
 **Kiyoka:** Mihono-san, you don't get it\! Picking out the right parts is as important as picking out clothes for a date\! For girls like us, it's a vital part of our outfit\!  
-**Mihono:** Eh... O-Okay. ...Wait, d-d-date\!? Musumi-san, have you been on dates before\!?  
+**Mihono:** Eh... O-Okay. ...Wait, d-d-date\!\? Musumi-san, have you been on dates before\!\?  
 **Mihono:** S-So mature\!  
 **Kiyoka:** I-I haven't.  
 **Kiyoka:** I just mean that, I've read about it... And daydreamed about it...  

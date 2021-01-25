@@ -1,13 +1,9 @@
 
 5 - To Izu
 ==========
+https://www.youtube.com/watch?v=PZ5-nA_Gx1o
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/PZ5-nA_Gx1o" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The Okatana Called Namu Yakushi Kagemitsu
 **Mirja:** ...Thank you very much, Aoto Youji-san. Not only for letting us stay the night tonight, but also inspecting our okatana free of charge.  
@@ -55,8 +51,8 @@
 *train screeches to a halt*
 
   
-**Chie:** What was that\!?  
-**Mirja:** An emergency stop\!? My spectrum finder... It's picking up aradama\!?  
+**Chie:** What was that\!\?  
+**Mirja:** An emergency stop\!\? My spectrum finder... It's picking up aradama\!\?  
 **Mirja:** (This is too much to be a coincidence.　The day before yesterday in Harajuku, and now this... Twice in such a short span of time... And, if what Asakura Mihono says is true, not long before that in Kamakura as well.)  
 **Mirja:** (Either way, for the same team to engage aradama two or three times in such a short period is nearly unbelievable... There must be a reason behind it...)  
 **Chie:** Kitora-san?  
@@ -64,7 +60,7 @@
 ....Meanwhile, in a different train car.
 
   
-**Ellen:** Oh\! What happened\!\!\!? It can't be aradama, can it?  
+**Ellen:** Oh\! What happened\!\!\!\? It can't be aradama, can it?  
 **Kaoru:** That's what it looks like.  
 **Kaoru:** Let's go, Nene. Time for us to shine.  
 **Nene:** Ne-\!  
@@ -78,7 +74,7 @@
 **Mihono:** M-Mihomiho...?  
 **Kaoru:** Like I can remember every... Oi, Nene, get back here. Why're you bugging her?  
 **Ellen:** Kaoru\! Don't yank him by the tail\! I feel so bad for him.  
-**Mihono:** Eh? What was that, an aradama\!?  
+**Mihono:** Eh? What was that, an aradama\!\?  
 **Kaoru:** Stupid Nene... That's why I said not to come out. This little guy's Nene. He's an aradama, but he's basically my family's guardian spirit.  
 *muffled nene noises*
 
@@ -201,8 +197,8 @@ Not long after, the endless black liquid began taking shape, in a form of an ara
 **Maki:** And, Kitora Mirja. You come with me. I'll go over the finer details of the operation with you.  
 **Mirja:** ...Understood\!  
 **Kiyoka:** ... ...... I... I don't like these people.  
-**Mihono:** Why do we have to take orders from that jerk\!?  
-**Mihono:** I get that she's talented, but why does she have to be so mean about it\!? And she didn't even apologize for almost hurting us\! And on top of that, she's a liar.  
+**Mihono:** Why do we have to take orders from that jerk\!\?  
+**Mihono:** I get that she's talented, but why does she have to be so mean about it\!\? And she didn't even apologize for almost hurting us\! And on top of that, she's a liar.  
 **Chie:** Right. When she attacked us, she said they had orders to kill. But Konohana said just now that their orders are to capture them...  
 **Kiyoka:** Um... Etou Kanami-san... She's one of your friends, isn't she, Mihono-san?  
 **Mihono:** Yeah. Or maybe not friends, but rivals? Or maybe I'm the only one who thinks that. When it comes to strength, she's way way better than me.  

@@ -13,8 +13,8 @@ At that time, on the north side of Choshi--
 **Mirja:** The imperial guards who scattered in their search for Ichikishimahime appear to be gathering towards Kashima.  
 **Mirja:** It's better that we reduce the enemy's numbers while they're spread apart. Though, conversely, fighting the imperial guard each time we see them is delaying our arrival...  
 **Mihono:** --Ah\! More guards showed up\!  
-**Imperial Guard A:** Are you the investigation team\!? The villains opposing Tagitsuhime-sama...\!\!  
-**Imperial Guard B:** --Wait? Isn't that... That famous prodigy, Musumi Kiyoka\!?  
+**Imperial Guard A:** Are you the investigation team\!\? The villains opposing Tagitsuhime-sama...\!\!  
+**Imperial Guard B:** --Wait? Isn't that... That famous prodigy, Musumi Kiyoka\!\?  
 **Kiyoka:** -\!\!  
 **Imperial Guard C:** You know her?  
 **Imperial Guard B:** I sure do. She's the daughter of a family with a prestigious dojo, and they wouldn't stop talking about how this prodigal swordfighting girl had a bright future as a toji.  
@@ -27,18 +27,18 @@ At that time, on the north side of Choshi--
 **Mihono:** Ugh... I-I didn't know. That was a close one...  
 **Kofuki:** Anyway, there should be even more guards meeting at where Yukari-sama is right now. We don't have time for this.  
 **Kofuki:** Me and Kiyoka are more than enough to handle them. You three keep on going.  
-**Mihono:** Eh-\!? But...  
+**Mihono:** Eh-\!\? But...  
 **Mirja:** (...Shichinosato Kofuki may have some plan in mind.)  
 **Mirja:** (It's possible that she has noticed Musumi Kiyoka's hesitation as well...)  
 **Mirja:** ...Asakura Mihono. We will leave the guards here to Shichinosato Kofuki and Musumi Kiyoka.  
-**Mihono:** You're agreeing with her, Mirja-san\!?  
+**Mihono:** You're agreeing with her, Mirja-san\!\?  
 **Mirja:** Our objective is to rescue Origami Yukari-sama. All our efforts will be for nothing if we confuse our priorities and arrive too late to make a difference.  
 **Mihono:** I-I get it.  
 **Chie:** Then, we'll be going on ahead, Kofuki-chan, Kiyoka-chan. Be sure to catch up quick, okay?  
 **Kofuki:** Just look at them; we'll be back before you know it.  
 **Imperial Guard A:** Hey, hold it right there\! We're not letting you--  
 **Kofuki:** You trash are staying right here with us\!  
-**Imperial Guard B:** Did you just call us trash...\!?  
+**Imperial Guard B:** Did you just call us trash...\!\?  
 **Kofuki:** Compared to Kiyoka here, you're all bottom of the barrel\! If you don't like the sound of that, then why don't you come find out just how much of a "waste of a toji" she is\!  
 **Kofuki:** Come on, Kiyoka\! Let's show 'em what someone who used to be useless can do\!  
 **Kiyoka:** ...Okay\!\!  
@@ -88,11 +88,11 @@ At the same time, in the rural area on the north side of Choshi--
 **Mirja:** We need to make the most of their consideration and proceed to join with Origami Yukari-sama as quickly as--  
 **Yui:** Ah, it's the girls from the investigation team\!\! I founnnd you\!\!  
 **Yui:** --Wait, hang on? Where's Kofuki-san and Kiyoka-chan? Did you all split up?  
-**Mihono:** It's Yui and Hana\!?  
+**Mihono:** It's Yui and Hana\!\?  
 **Hana:** Because of your team, too many of the imperial guard have been incapacitated. We won't let you go any further.  
 **Mihono:** Grr... We don't have time for this... We have to get to Yukari-sama fast\!\!  
 **Mirja:** ...Asakura Mihono. Setouchi Chie and myself will handle them while you go on ahead.  
-**Mihono:** Huh-\!? That's crazy\!\!  
+**Mihono:** Huh-\!\? That's crazy\!\!  
 **Mihono:** Last time we fought Yui and Hana, it was hard enough with all five of us--  
 **Mirja:** There won't be a problem. As I predict it, the two of us are capable of dealing with the imperial guard here.  
 **Hana:** You sure are taking us lightly now...  
@@ -193,11 +193,11 @@ At that time, on the north side of Choshi, near the Kashima coastline--
 **Mihono:** (I want to learn as much as I can for when the others catch up...)  
 **Imperial Guard A:** --What's happening with Origami Yukari and Ichikishimahime?  
 **Imperial Guard B:** They said they've been cornered in the industrial district up ahead. We've been ordered to surround the area and let no one else through.  
-**Mihono:** (Yukari-sama's been cornered\!? I have to find a way to help her...\!\!)  
+**Mihono:** (Yukari-sama's been cornered\!\? I have to find a way to help her...\!\!)  
 **Mihono:** (But it'd be tough for me to do anything with all these people...)  
 **Mihono:** (But I don't think I can make it through here without them seeing me either...)  
 **Mihono:** (--Arghh\!\! I don't have time to think\!\! I just have to force my way through\!\!)  
-**Imperial Guard A:** Who's there\!? ...You're Asakura Mihono, aren't you\!\!  
+**Imperial Guard A:** Who's there\!\? ...You're Asakura Mihono, aren't you\!\!  
 
 ## 11: Mihono Flying Solo (2)
 **Imperial Guard A:** D-Damnit...  
@@ -205,8 +205,8 @@ At that time, on the north side of Choshi, near the Kashima coastline--
 **Mihono:** I did it...\! I beat them by myself cause I caught them by surprise...\!  
 **Mihono:** Now I can make it to Yukari-sama--  
 **Imperial Guard C:** Hey, you\! What are you doing here\! That uniform, it's Minoseki's-- You're not one of us then\!  
-**Mihono:** Uwah\!? They had backup\!?  
-**Imperial Guard D:** Did you do that to them\!? Any opposition to Tagitsuhime-sama is unforgivable\!  
+**Mihono:** Uwah\!\? They had backup\!\?  
+**Imperial Guard D:** Did you do that to them\!\? Any opposition to Tagitsuhime-sama is unforgivable\!  
 **Mihono:** Uh... Do I have to fight them too now...?  
 **Mihono:** But I want to get to Yukari-sama already...\!\!  
 
@@ -243,7 +243,7 @@ At that time, in Kashima's south end, the part of town by the industrial distric
 **Imperial Guard B:** This toji, she's so strong...\! How many guards has she beaten already...?  
 **Imperial Guard C:** I wish we could surround her and take her all at once, but since she came into this tight alley, we can't help but fight her one at a time...\!\!  
 **Imperial Guard B:** Does that mean, she calculated all of this and ran here on purpose...?  
-**Imperial Guard B:** I thought we had her trapped, but we were just playing into her hand...\!?  
+**Imperial Guard B:** I thought we had her trapped, but we were just playing into her hand...\!\?  
 **Mihono:** Hehe\~h\! Of course I did\! Everything went just like I planned\!  
 **Mihono:** (I was actually just chased into a dead end, but I didn't think it would be this easy to fight here\!)  
 **Mihono:** (And now they're having some weird misunderstanding, so this might be my chance to go on the attack\!)  

@@ -1,13 +1,9 @@
 
 Translations for Toji no Miko: KInT and more
 ============================================
+https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xHJb-ZBPdnsuwvXS0pL-Wj
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xHJb-ZBPdnsuwvXS0pL-Wj" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 Someone kindly subbed recordings of all translations relating to the game here. I highly recommend watching these over reading the raw text. You can also navigate from below. Each section for the game translations has an individual playlist at the top, and I try to include links to the respective videos in every pastebin.
 
   
@@ -32,7 +28,7 @@ Ryukyu Kenpu Roku
 https://drive.google.com/drive/folders/1Qf9VrwnQAjP5yh7XZKUv3EtqEMYPkpW1
 
   
-**"On a certain day, in August 2017, Asahina Hokuto, third year middle school student of the Heijou Institute, and Inami Suu, first year middle school student of Renpu Girls' School, land at Naha Airport. They are here to participate in an operational test of the newly developed Storm Armor, produced through the collaborative efforts of both the Sword Administration Bureau and United States military. On that same day, another toji arrives in Okinawa:** Tsubakuro Yume, sixth year elementary school student of Ayanokouji Martial Arts School. The girls have no knowledge of and share no connection with each other. For now. This is a record of the hidden conflict these girls encounter, caught in a scheme involving the Storm Armor, as Hokuto, Suu, and Yume, as well as the elite guard and Mokusa, cross swords. This story, taking place one year before the events of the anime, is Toji no Miko's first novelization\!"  
+**"On a certain day, in August 2017, Asahina Hokuto, third year middle school student of the Heijou Institute, and Inami Suu, first year middle school student of Renpu Girls' School, land at Naha Airport. They are here to participate in an operational test of the newly developed Storm Armor, produced through the collaborative efforts of both the Sword Administration Bureau and United States military. On that same day, another toji arrives in Okinawa:** Tsubakuro Yume, sixth year elementary school student of Ayanokouji Martial Arts School. The girls have no knowledge of and share no connection with each other. For now. This is a record of the hidden conflict these girls encounter, caught in a scheme involving the Storm Armor, as Hokuto, Suu, and Yume, as well as the elite guard and Mokusa, cross swords. This story, taking place one year before the events of the anime, is Toji no Miko's first novelization\!\"  
 ------ DRAMA CD ------
 
   
@@ -107,13 +103,9 @@ https://mega.nz/file/nqwn1Bwa#pCH63OZ9pHlQCAIo68txJXTyZzOeea37dBGUZGJrNtM
   
 
 ## [---MAIN STORY---]
+https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wy5MTXXVR4yMTynzFWOeIM
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wy5MTXXVR4yMTynzFWOeIM" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 **Now for the real reason you're here, translations for the the saga of the coolest toji, "Toji no Miko:** Kizamishi Issen no Tomoshibi."   
 The main story is fully voiced, though events and character episodes typically aren't. Ideally, you watched the anime beforehand, and while the game covers a similar timeline up to a point, it's worth reading all the way through for the new perspectives and changed events.
 
@@ -391,13 +383,9 @@ https://pastebin.com/wWncyRed
 ## 7 - Awakening
 
 ## [---TOJI EPISODES---]
+https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xiXaTtuCbIE6_HVzweFFCu
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xiXaTtuCbIE6_HVzweFFCu" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 Includes voiced birthday lines that you won't find here.
 
   
@@ -511,13 +499,9 @@ https://pastebin.com/G0U9Ncxe
   
 
 ## [---EVENTS---]
+https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wWrZaFZoSz3smnYfuckvBL
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wWrZaFZoSz3smnYfuckvBL" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 Includes voiced holiday lines that you won't find here.
 
   
@@ -733,7 +717,7 @@ https://pastebin.com/zdqzgVHn
 https://pastebin.com/ciNkSwZQ
 
   
-- Yui Finally Got Arrested\!? The Case of the Disappearing Wedding Rings
+- Yui Finally Got Arrested\!\? The Case of the Disappearing Wedding Rings
 
   
 https://pastebin.com/4U43cDPK

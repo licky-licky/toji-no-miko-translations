@@ -12,7 +12,7 @@ https://youtu.be/ECgV1cc_IOw
 **Chie:** ...Phew. Good work, everyone.  
 **Kiyoka:** No, please be on your guard\! There's a reading on the spectrum finder\!  
 **Aradama:** KUEEEEEEEE\!  
-**Chie:** Kyah\!?  
+**Chie:** Kyah\!\?  
 **Kofuki:** I'm taking that aradama-chan\!  
 **Mirja:** ...Musumi Kiyoka, are there any more readings on your spectrum finder?  
 **Kiyoka:** ...They're all gone. That was honest to goodness the last of them this time.  
@@ -27,7 +27,7 @@ https://youtu.be/ECgV1cc_IOw
 **Kofuki:** Guess even Chichie can get all depressed like that.  
 **Kiyoka:** It's worrying... Hono-chan, have you ever seen Chie-san like that before?  
 **Mihono:** Kind of. Way back when, Chii-nee used to cry really easy, and she'd get called crybaby Chii-chan.  
-**Kiyoka/Kofuki:** Crybaby Chii-chan\!?  
+**Kiyoka/Kofuki:** Crybaby Chii-chan\!\?  
 **Chie:** Just now, I heard the word "crybaby"... Mihono-chan?  
 **Mihono:** H-Huh? Was that something I wasn't supposed to tell anyone?  
 **Kofuki:** Yo\! Crybaby Chii-chan\!  

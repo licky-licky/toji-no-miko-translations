@@ -47,7 +47,7 @@ https://youtu.be/KoaydPNazBE
 **Yume:** It feels like something crazy's coming our way. I'm getting excited\!  
 **Hiyori:** Even in a virtual environment, if enemies appear, all we need to do is destroy them\! Let's go\!  
 
-## 2: Discovered a Bug Well Beyond Expectations\!?
+## 2: Discovered a Bug Well Beyond Expectations\!\?
 **Yume:** Ahaha, what's with this, it's crazy\! Isn't this weird-\! Can I really beat them up too?  
 **Mirja:** Regardless of their appearance, they came to attack us, so we should eliminate them as enemies. HAAAAAH\!  
 **Hiyori:** TAAAA-\!  
@@ -55,7 +55,7 @@ https://youtu.be/KoaydPNazBE
 **Yomi:** Given how unexpected it is, it's highly likely this is a bug. There may be many of them, but we'll need to defeat them quickly and report it back to the research lab.  
 **Yomi:** HAAAAAH\!  
 **Maki:** Phew. Looks like we've finally cleared them all out. Good work everyone, handling one battle after another.  
-**Hiyori:** It's good we took care of things, but... What's with those ridiculous enemies that came in at the end? Whose idea of a joke was that\!?  
+**Hiyori:** It's good we took care of things, but... What's with those ridiculous enemies that came in at the end? Whose idea of a joke was that\!\?  
 **Maki:** I didn't expect to face anything that bizarre in here either. Let's report this back straight away.  
 **Mirja:** Then, as we practiced before, everyone please enter the command to return to the real world.  
 **Yume:** We're back-\! Ahh, that was a lot of fun.  
@@ -66,7 +66,7 @@ https://youtu.be/KoaydPNazBE
 **Hiyori:** A huge group of Kofukis came out of nowhere and attacked us.  
 **Kofuki:** Huhh?  
 **Tsugumi:** Ah-- Don't tell me, because of what Shichinosato-san did with the keyboard earlier...  
-**Kofuki:** Huh\!? As if that could've...  
+**Kofuki:** Huh\!\? As if that could've...  
 **Tsugumi:** At any rate, it's certainly an unexpected bug. Please tell me about it in greater detail.  
 **Yume:** A whooole bunch of enemies who looked just like onee-san here came after us-\!  
 **Yomi:** This is just an estimation from what I saw, but there were at least around 500 of them.  
@@ -82,14 +82,14 @@ https://youtu.be/KoaydPNazBE
 **Mirja:** Ah-\! Could it be, she was unable to exit from VR? Ban Tsugumi, can you detect any errors in the system?  
 **Tsugumi:** Hmm, what could this be... There seems to be a malicious program mixed in with the ones we made...  
 **Yomi:** Does that mean... This was someone's act of tampering?  
-**Yume:** No way... Then, somebody trapped Maki-onee-san inside the VR world\!?  
+**Yume:** No way... Then, somebody trapped Maki-onee-san inside the VR world\!\?  
 **Kofuki:** Th-That wasn't me\! Quit acting like I'm a suspect for all this weird stuff already\!  
 **Tsugumi:** You have nothing to worry about. This complex program isn't something you could have made by accident. Though, this is going to require a more detailed analysis.  
 **Mirja:** Whether it's a simple malfunction, or an act of sabotage, we'll need to recover more bugs to make absolutely sure.  
 **Tsugumi:** That's right. To rescue the stranded Shidou-san as well, it would be a great help if you would return to the VR world at once...  
 **Hiyori:** You don't have to beat around the bush in an emergency, Tsugumi\! Let's go back into the VR world\!  
 
-## 3: Even More Bugs\!?
+## 3: Even More Bugs\!\?
 **Maki:** HAAAAAH\! YAAAH---\!  
 **Mirja:** There's Shidou Maki, fighting on her own.  
 **Yume:** Maki-onee-san\! Heeey\! We came to get you-.  
@@ -131,7 +131,7 @@ https://youtu.be/KoaydPNazBE
 **Yomi:** I don't. This is our mission.  
 **Yume:** I'll do all I can to save Maki-onee-san\! So I'm going\!  
 
-## 4: Who's Behind All This\!?
+## 4: Who's Behind All This\!\?
 **Maki:** Still more... [pant... pant...] TAAAAAAAHH\!  
 **Hiyori:** [pant... pant...]  Alright, I can see the end of them. This'll finish it-\! YAAAAAHH\!  
 **Yomi:** Shidou-san, Juujou-san. Sorry to keep you waiting.  
@@ -148,7 +148,7 @@ https://youtu.be/KoaydPNazBE
 **Yomi:** The debugger team has now returned. Sigh, as expected, Shidou-san and Juujou-san still aren't moving.  
 **Tsugumi:** Good work. While you all were fighting, we split our efforts with Dr. Friedman to fix the bugs, and no new people were stranded, but...  
 **Tsugumi:** The bug preventing those two from returning seems to still be operating somewhere...  
-**Yume:** Why are those two the only ones who can't come back\!? They're already all beat up and could get beaten any time now\! Do something about it-\!  
+**Yume:** Why are those two the only ones who can't come back\!\? They're already all beat up and could get beaten any time now\! Do something about it-\!  
 **Friedman:** Really, who could have thrown such a nasty wrench in our works... Though I suppose we don't have time for me to complain now. We'll work as fast as we can to correct the bugs for the time being...  
 **Mirja:** Is there anything more we can do to be of help?  
 **Kofuki:** What if you helped out like I am?  
@@ -188,10 +188,10 @@ https://youtu.be/KoaydPNazBE
 **Kofuki:** ORYAA----\!  
 **Kofuki:** Out of my way, those're my aradama-chan\~\!  
 **Kofuki:** I love you, aradama-chan\!  
-**Hiyori:** Wh-What\!? The 777 Kofukis are still showing up\!?  
+**Hiyori:** Wh-What\!\? The 777 Kofukis are still showing up\!\?  
 **Maki:** Damn, to have more enemies to handle now... ...Nn? Wait, hold on, they're acting strange.  
 **Kofuki:** Alllright, all 777 of me\! Go out like that and slaughter up some aradama-chan\!  
-**Hiyori:** The 777 Kofukis are actually following the original's orders and destroying the aradama\!?  
+**Hiyori:** The 777 Kofukis are actually following the original's orders and destroying the aradama\!\?  
 **Yomi:** It seems they've managed to defeat all of the aradama. Good work, Shichinosato-san.  
 **Kofuki:** You don't have to thank me. I got to have crazy fun doing this.  
 **Hiyori:** Still, why did the bugged enemy Kofukis start fighting on our side?  
@@ -210,9 +210,9 @@ https://youtu.be/KoaydPNazBE
 **Hiyori:** Really? I'm glad we could be of some help then.  
 **Maki:** So, the fact that we couldn't return from VR wasn't because we made any mistakes after all...  
 **Tsugumi:** I hate to break this to you, but that's not exactly true. We determined the bug the rival company had created was only set to trigger after someone improperly entered the commands...  
-**Maki/Hiyori:** Huh\!?  
+**Maki/Hiyori:** Huh\!\?  
 **Mirja:** In other words, the great number of bugs were created when Shidou Maki and Juujou Hiyori made mistakes with their devices, which ultimately led to the culprit being arrested.  
-**Maki:** What\!? So my mistake caused this after all...  
+**Maki:** What\!\? So my mistake caused this after all...  
 **Yume:** Well, it's fine. They got to catch the bad guy because of you.  
 **Yomi:** That's right, this case was resolved as a result of Shidou-san and Juujou-san's mechanical ineptitude.  
 **Hiyori:** Kh... Even though they're thanking us, it's a complicated feeling...  
@@ -267,7 +267,7 @@ https://youtu.be/AuF8ZqOvA9Y
 **Maki:** Heeey, Yume\! Where did you go? Say something back. Yume-\!  
 **Maki:** Hm, that sound. The battle stage must be starting. If I follow the enemies, maybe I'll join up with Yume. I'll focus on the battle for now.  
 **Maki:** If I remember right, the command to bring out the laser gun was... Okay, I got it. Now I just point it at the enemies on the opposite building...  
-**Maki:** Kh, why can't I pull the trigger\!? The command to pull the trigger was...  
+**Maki:** Kh, why can't I pull the trigger\!\? The command to pull the trigger was...  
 **Maki:** Ah-- While I was working with it, the enemies got right in front of me\! Damn, how should I...  
 **Maki:** Ah--\! That's right, I still have that, don't I\! It might be tasteless of me to use my okatana in the game, but...  
 **Maki:** Here I come\! SERYAAAAAAAAAAAAA\!  
@@ -286,8 +286,8 @@ https://youtu.be/AuF8ZqOvA9Y
 **Tsugumi:** That's good to hear. Now then, as all challengers have finished their runs, the results of the battle stage will now be revealed.  
 **Yume:** Maki-onee-san beat them all straight away, so there's no way she didn't take first place\!  
 **Maki:** That's right, I got serious hoping for that. Let's see the rankings.  
-**Maki:** What\!? We came in last place\!?  
-**Yume:** Eh-\!? But why? We should've been first in beating the most enemies and beating them fastest. Why are we last-?  
+**Maki:** What\!\? We came in last place\!\?  
+**Yume:** Eh-\!\? But why? We should've been first in beating the most enemies and beating them fastest. Why are we last-?  
 **Tsugumi:** At first, I was just as perplexed as to why you two didn't earn any points in the battle...  
 **Mirja:** When investigating the cause, we came to the conclusion that there was a problem with how you defeated the enemies.  
 **Tsugumi:** Did you use something besides the laser gun to defeat them?  
@@ -332,24 +332,24 @@ https://youtu.be/Q19Fa9VDWgg
 **Yume:** Don't worry, it's easy peasy\!  Here I gooo-\! Juuump\!  
 **Maki:** Ahh-- Yume\!  
 **Yume:** See, look\! I jumped to this roof just fine-\! You come too, Maki-onee-san-.  
-**Maki:** Whoa\! What's with the strength of this wind\!? It'll be tough reaching there through this.  
+**Maki:** Whoa\! What's with the strength of this wind\!\? It'll be tough reaching there through this.  
 **Maki:** I'll go after it dies down. Oiii, Yume, just to be sure, find somewhere safe to get out of the wind.  
 **Yume:** I'll be fine-. See, if I go all the way into the corner of the roof, I can get a really pretty view of the city at night down bel...  
 **Yume:** Wah----\!  
 **Maki:** Yume\!  
-**Yume:** No way\! I'm falling\!?  
-**Yume:** Uhh, when this happens, what was I supposed to do? What do I do, Maki-onee-san\!? I'm gonna fall all the way down\!  
+**Yume:** No way\! I'm falling\!\?  
+**Yume:** Uhh, when this happens, what was I supposed to do? What do I do, Maki-onee-san\!\? I'm gonna fall all the way down\!  
 
 ## [VRS Equipment - Yume: End]: Seriousness Pays Off
-**Maki:** Yume\! Are you okay\!? Yume-\!\!  
+**Maki:** Yume\! Are you okay\!\? Yume-\!\!  
 **Yume:** Wahhh, what should I do\! I'm falling all the way down---\!  
 **Yume:** Maki-onee-chan, save me-\!  
 **Maki:** Yume\! Are you okay? Grab onto my hand\!   
 **Yume:** Maki-onee-san\!  
 **Maki:** Alright, I've got you. I'll take us down slowly, so don't leave my arms.  
-**Yume:** Okay, thanks... Wait, what\! Maki-onee-san, you're flying\!? How? How-?  
+**Yume:** Okay, thanks... Wait, what\! Maki-onee-san, you're flying\!\? How? How-?  
 **Maki:** In this game world, there's a command to fly through the air.  
-**Yume:** Ehhh\!? Nobody told me that-\!  
+**Yume:** Ehhh\!\? Nobody told me that-\!  
 **Maki:** It was written in the instruction manual. You should have read it.  
 **Yume:** Boo-. Instead of reading that big book, it seemed like it'd be faster learning by trying it yourself-.  
 **Maki:** Sure, even if you memorize the manual, if you can't handle the controls when the time comes, there wasn't much point.  
@@ -367,7 +367,7 @@ https://youtu.be/Q19Fa9VDWgg
 **Maki:** Oi, Yume\! If you walk on the edge of the building, you're going to fall like before\!  
 **Yume:** I'm fine, I'm fine\! Cause I can fly now\! See, look\!  
 **Yume:** Wawawa, I'm falling-\!  
-**Maki:** Yume\! Did you lose your footing again\!?  
+**Maki:** Yume\! Did you lose your footing again\!\?  
 **Yume:** Just kidding\! I'm fine; I remember how to fly, okay.  
 **Maki:** Hey, Yume\! Don't tease me like that...  
 **Yume:** Still, it's really amazing that you can do this here too\! I'm glad I came here with someone who'd read the whole manual\!  

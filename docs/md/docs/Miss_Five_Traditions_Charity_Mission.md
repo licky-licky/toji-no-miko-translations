@@ -11,7 +11,7 @@ https://youtu.be/ZYwru7GiMV0
 **Announcement:** The "Miss Five Traditions"--  
 **Announcement:** Who you have chosen is--  
 **Announcement:** Tsubakuro Yume-san\!  
-**Yume:** Me\!?  
+**Yume:** Me\!\?  
 **Maki:** Congratulations, Yume. It's a little frustrating to hear, but I'm glad it was you who won.  
 **Suzuka:** Yes. I feel the same way.  
 **Suzuka:** To choose Yume, the judges must have a discerning eye.  
@@ -34,7 +34,7 @@ https://youtu.be/ZYwru7GiMV0
 **Mihono:** But, with you and Yui here from the investigation team, and Kanami and them too... It's bound to be fun\!  
 **Yui:** Mmhmm\!  
 **Yui:** Ah, Yukari-sama\! I want to be in charge of photography\!  
-**Yui:** Would it be alright for me to take candid shots of the Miss Five Traditions candidates\!?  
+**Yui:** Would it be alright for me to take candid shots of the Miss Five Traditions candidates\!\?  
 **Yukari:** Of course; I'll approve of it.  
 **Yui:** Yesss\!  
 **Kaoru:** If it gets me away from suppression missions, I'm down for anything.  
@@ -90,13 +90,13 @@ https://youtu.be/ZYwru7GiMV0
 **Yui:** Alright, I got a nice shot\!  
 **Mihono:** (I can hear everybody all energetic like that, and yet...)  
 **Yomi:** ...  
-**Mihono:** (Why did I end up next to Satsuki-san\!?)  
-**Mihono:** (I mean, that's fine and all\! The problem is... How am I supposed to get Satsuki-san to lighten up and talk about something\!?)  
+**Mihono:** (Why did I end up next to Satsuki-san\!\?)  
+**Mihono:** (I mean, that's fine and all\! The problem is... How am I supposed to get Satsuki-san to lighten up and talk about something\!\?)  
 **Yomi:** ......  
 **Mihono:** (I can't just keep quiet; I've gotta try something... Where there's a will, there's a way\!)  
 **Mihono:** I-It's cool that the two of us got chosen for Miss Five Traditions, wasn't it. I totally thought I wasn't going to get picked.  
 **Yomi:** Yes.  
-**Mihono:** (Yes\!? What's she even mean by "Yes"\!?)  
+**Mihono:** (Yes\!\? What's she even mean by "Yes"\!\?)  
 **Mihono:** ("Yes it's cool that we got chosen?" Or, "Yes I didn't think I would get chosen either?")  
 **Yomi:** ...  
 **Mihono:** (I can't tell anything from looking at her face...)  
@@ -106,7 +106,7 @@ https://youtu.be/ZYwru7GiMV0
 **Mihono:** (I-I'm already out of topics... No, I've still gotta keep the conversation going\!)  
 **Mihono:** N-Nice, weather, huh...  
 **Yomi:** Yes.  
-**Mihono:** (......Another "Yes"\!? Help me, Kanami\!\! Let my thoughts reach you\!)  
+**Mihono:** (......Another "Yes"\!\? Help me, Kanami\!\! Let my thoughts reach you\!)  
 **Kanami:** ...?  
 **Mihono:** (Kanami\!)  
 **Kanami:** You look like you're having fun with Satsuki-san, Mihono-chan.  
@@ -116,7 +116,7 @@ https://youtu.be/ZYwru7GiMV0
 **Yume:** Yomi-onee-san likes omusubi.  
 **Yume:** Right?  
 **Yomi:** Omusubi are delicious.  
-**Mihono:** ...\!?  
+**Mihono:** ...\!\?  
 **Mihono:** That's amazing, Tsubakuro-san\! You got Satsuki-san to say something besides "Yes"\!  
 **Yomi:** ? I can say things besides yes.  
 **Mihono:** Thanks, Tsubakuro-san\! I think I might be able to get along with Satsuki-san now\!  
@@ -130,7 +130,7 @@ https://youtu.be/ZYwru7GiMV0
 
 ## 3: I Don't Really Like Hospitals
 **Mihono/Kanami:** Everybody-\! Hi-\!  
-**Kid 1:** Wow\! There's toji\! Why? Why're toji here\!?  
+**Kid 1:** Wow\! There's toji\! Why? Why're toji here\!\?  
 **Hiyori:** We came here to visit you.  
 **Kid 2:** We saw you dancing and fighting on TV\! It was really cool\!  
 **Kaoru:** It doesn't feel too bad, getting a welcome like this. Guess we can do them a favor and show off a little.  
@@ -176,7 +176,7 @@ https://youtu.be/ZYwru7GiMV0
 **Yume:** I'm not telling.  
 **Yume:** Anyway, why'd you even come out looking for me? Don't tell me... You were using me as an excuse to skip out?  
 **Yume:** Maybe I'll tell on both of you.  
-**Kanami:** Why are you only putting that on us\!?  
+**Kanami:** Why are you only putting that on us\!\?  
 **Yomi:** We aren't skipping out.  
 **Yomi:** The children in the hospital said that they wanted to see you.  
 **Yume:** Why me?  
@@ -295,7 +295,7 @@ Elsewhere--
 **Kid 1:** Hey, hey, who beat the most aradama?  
 **Kanami:** Hmm, who knows? Though, Yume-chan's the one who beat the strongest aradama.  
 **Kid 2:** That's amazing, Yume-onee-san\!  
-**Kid 3:** Seriously\!? Tell me all about it\!  
+**Kid 3:** Seriously\!\? Tell me all about it\!  
 **Yume:** You want to hear more? But, that aradama really wasn't all that strong.  
 **Yume:** It was a piece of cake for me.  
 **Kid 3:** Ohh-\! That's so cool\!  
@@ -310,7 +310,7 @@ Elsewhere--
 **Kaoru:** You did good too, Nene. You made sure to keep them safe, right?  
 **Nene:** Nene\!  
 **Kid 1:** Ehh, did he though?  
-**Nene:** Ne\!?  
+**Nene:** Ne\!\?  
 **Kaoru:** Oi oi, what were you doing-?  
 **Nene:** Nene\! Nenene\!  
 **Hiyori:** He's doing all he can to explain himself.  
@@ -365,7 +365,7 @@ https://youtu.be/ZYwru7GiMV0
 **Akira:** ......  
 **Akira:** What're you talking about?  
 **Yomi:** You may not know about it, Akira, but valkyries were something that was part of Norse mythology--  
-**Akira:** It's not like I don't know what valkyries are...\! I'm asking, why're they making you dress up like that...\!?  
+**Akira:** It's not like I don't know what valkyries are...\! I'm asking, why're they making you dress up like that...\!\?  
 **Yomi:** That's what I'd like to know.  
 **Akira:** Yeah, I guess... The bureau does say to do some ridiculous stuff sometimes, huh.  
 **Akira:** ...Well, do what you can. Whatever you're buying here'll be my treat.  
@@ -380,7 +380,7 @@ https://youtu.be/ZYwru7GiMV0
 **Akira:** Cool; let me just put my bike away. Wait here a minute.  
 **Akira:** So, how'd that photo shoot turn out anyway?  
 **Yomi:** Like this.  
-**Akira:** Whoa-\!? The hell... You're looking way too cool in this.  
+**Akira:** Whoa-\!\? The hell... You're looking way too cool in this.  
 **Akira:** That sharp look on your face is great. It came out really damn nice.  
 **Yomi:** I didn't expect you to praise it so much.  
 **Akira:** Why not? Of course I would if it turned out this good.  

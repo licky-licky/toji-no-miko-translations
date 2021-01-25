@@ -19,16 +19,16 @@ https://youtu.be/U6oZ1x4iqDM
 **Yui:** I'll help out too-.  
 **Kofuki:** I'll take some milk-.  
 **Tsugumi:** Ah, if you mean the milk you bought before, Shichinosato-san, there's none left.  
-**Kofuki:** Huh\!? Where'd it go\!  
+**Kofuki:** Huh\!\? Where'd it go\!  
 **Tsugumi:** It was nearly the expiration date, so I drank it.  
-**Kofuki:** There was still some time left, wasn't there\!? And hey, if you drank it, then buy me a new one\!  
+**Kofuki:** There was still some time left, wasn't there\!\? And hey, if you drank it, then buy me a new one\!  
 **Mirja:** That's enough talking about milk. It's time we discussed the issue at hand.  
 **Mirja:** Asakura Mihono. Can you tell us about what happened with Hitakami Makoto?  
 **Mihono:** ......  
 **Mihono:** I can.  
 **Mihono:** Umm, after all the things they said, my head's honestly a mess right now...  
 **Mihono:** But, if Hitakami-san's telling the truth, then... there's a great aradama inside me.  
-**Everyone:** \!?  
+**Everyone:** \!\?  
 **Kiyoka:** ...Do you mean that, Hono-chan?  
 **Mihono:** When Kashuu Kiyomitsu's power was rampaging... That was really all the powers of this great aradama called Kanayamahime.  
 **Kiyoka:** ...  
@@ -74,9 +74,9 @@ https://youtu.be/U6oZ1x4iqDM
 ## 2: Phone Call
 **Mihono:** ......  
 **Mirja:** ......\! This one is the old maid, isn't it\!  
-**Mihono:** Ahh\!?  
+**Mihono:** Ahh\!\?  
 **Mirja:** That finishes it.  
-**Mihono:** Uwaahhh\!? I lost again-\!\!  
+**Mihono:** Uwaahhh\!\? I lost again-\!\!  
 **Kofuki:** You suck at this, Mihocchi... And hey, we ran out of drinks.  
 **Chie:** Now's a good time, so let's take a break.  
 **Yui:** Ah, then, I'm going to step outside for a minute-.  
@@ -104,8 +104,8 @@ https://youtu.be/U6oZ1x4iqDM
 **Yui:** Please give me an answer.  
 **Hana:** ......Of course I will.  
 **Yui:** There's a great aradama, Kanayamahime, sealed inside of Mihono-chan's body.  
-**Hana:** \!? An evil god... like with Yukari-sama and Hiyori-san...\!?  
-**Hana:** What about Mihono\!? Is she alright\!?  
+**Hana:** \!\? An evil god... like with Yukari-sama and Hiyori-san...\!\?  
+**Hana:** What about Mihono\!\? Is she alright\!\?  
 **Yui:** For now, she's still doing okay. But...  
 **Yui:** ...Come back to us, Hana-san. We can help Mihono-chan together\!  
 **Hana:** I...  
@@ -128,7 +128,7 @@ https://youtu.be/U6oZ1x4iqDM
 **Mirja:** There are too many unknowns right now that I don't know where to begin solving it.  
 **Mirja:** Let's ask for support from those around us while continuing to search through the records.  
 **Mirja:** And, while this may be coming too late, we need to keep close watch for any changes in Asakura Mihono...  
-**Chie:** How is that any different from what we were already doing\!? That's what made Mihono-chan go to Makoto for help\!  
+**Chie:** How is that any different from what we were already doing\!\? That's what made Mihono-chan go to Makoto for help\!  
 **Chie:** ...Ah. I'm sorry, for raising my voice.  
 **Mirja:** ...You don't need to apologize. I feel the same as you.  
 **Mirja:** However, we are also responsible for what happened with the Hitakamis, by allowing Asakura Mihono to move freely. We can't allow ourselves to make the same mistake again.  
@@ -198,14 +198,14 @@ https://youtu.be/U6oZ1x4iqDM
 **Mihono:** You're Kanayamahime, aren't you?  
 **Mihono:** Why are you doing this to me?  
 **Mihono:** Give me an answer\!\!  
-**Mihono:** -\!?  
+**Mihono:** -\!\?  
 **Mihono:** You're attacking me? Now that I know what you are, you don't care what happens anymore?  
-**Mihono:** KYAH\!?  
+**Mihono:** KYAH\!\?  
 **Mihono:** Uuu... This is just... too much...  
-**Mihono:** ...\!?  
+**Mihono:** ...\!\?  
 **Mihono:** Urgh... The power, feels like it's going to burst out of me...  
 **Mihono:** I can't...\! I can't lose control, not here...\!  
-**Kanami:** Mihono-chan\!? Are you okay in there, Mihono-chan\!?  
+**Kanami:** Mihono-chan\!\? Are you okay in there, Mihono-chan\!\?  
 **Mihono:** Kanami?  
 **Kanami:** You're still conscious, aren't you?  
 **Mihono:** Yeah...  
@@ -223,7 +223,7 @@ https://youtu.be/U6oZ1x4iqDM
 **Hiyori:** I hoped we'd have come over here for nothing, but...  
 **Mihono:** ...  
 **Hiyori:** We've heard about how Kashuu Kiyomitsu's power is rampaging.  
-**Mihono:** Huh\!?  
+**Mihono:** Huh\!\?  
 **Hiyori:** I got a call from Kiyoka. She said you were in trouble. Asking if I knew anything that could help.  
 **Kanami:** And Kaoru told me, if I knew anything, I should go tell it to you.  
 **Kanami:** Mai-chan too, she said Sayaka-chan asked her about it.  
@@ -297,13 +297,13 @@ https://youtu.be/U6oZ1x4iqDM
 **Chie:** That's...  
 **Akane:** I'll tell them.  
 **Akane:** Asakura-san's power stems from the great aradama, Kanayamahime. As it goes, the great aradama Kanayamahime has been passed down for generations through the eldest daughters of the Asakura family.  
-**Maki:** A great aradama\!?  
+**Maki:** A great aradama\!\?  
 **Yume:** You mean, like Tagitsuhime?  
 **Yukari:** That's correct.  
 **Chie:** ...  
 **Maki:** I propose having Asakura Mihono give up her okatana.  
 **Maki:** We can't allow the Hitakami faction to have her either, so she'll need guards... We can do that.  
-**Chie:** Wait\! You're saying you'll make Mihono-chan quit being a toji\!?  
+**Chie:** Wait\! You're saying you'll make Mihono-chan quit being a toji\!\?  
 **Maki:** That's right. It's only a temporary measure, but, if this is as dangerous as with Tagitsuhime, it's something we'd better do.  
 **Chie:** That's going too far\!  
 **Chie:** We already took into account the risk of her losing control and had her pulled off of any missions\!  
@@ -378,7 +378,7 @@ https://youtu.be/U6oZ1x4iqDM
 **Makoto:** I can't, faint here...  
 **Makoto:** Need to take Miyako-san...  
 **Makoto:** ............  
-**Chie:** Miyako\! Makoto\! Where are you\!?  
+**Chie:** Miyako\! Makoto\! Where are you\!\?  
 Chie --\!\!
 
   
@@ -430,7 +430,7 @@ Chie --\!\!
 **Akira:** You're the head here\!  
 **Akira:** If the head gives out, we're done for.  
 **Akira:** Not to doubt the people giving us this tech, but don't take any chances\!  
-**Akira:** That's how we've done things, right\!?  
+**Akira:** That's how we've done things, right\!\?  
 **Makoto:** Then, you'll be the one to... Is that it?  
 **Akira:** See, you do get it. That's what makes sense.  
 **Yuuki:** That's no fair, Akira-nee-sama.  
@@ -508,7 +508,7 @@ Chie --\!\!
 **Akira:** ...What's the other thing on your mind?  
 **Makoto:** Kanayamahime... looks to be awakening faster than I'd assumed.  
 **Akira:** --\!  
-**Akira:** Is that it\!? The reason you're pushing forward with the final experiments right now\!  
+**Akira:** Is that it\!\? The reason you're pushing forward with the final experiments right now\!  
 **Makoto:** It is; one of the main reasons.  
 **Makoto:** Should that time come, tamayori toji will be the ace up our sleeve.  
 **Akira:** So it's the power to kill Mihono.  

@@ -1,13 +1,9 @@
 
 Welcome to the Halloween Party!
 ===============================
+https://www.youtube.com/watch?v=GUIkSASCHRk
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/GUIkSASCHRk" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 Covers both Halloween events.
 
   
@@ -158,7 +154,7 @@ Covers both Halloween events.
 **Chie:** You really are good at this though, I mean it. It's beautiful the way you can go so fast, yet they all come out the same size.  
 **Mai:** Thank you very much. I use a kitchen knife every day, so I'm used to it...  
 **Mai:** Ow-\!  
-**Chie:** Eh, Yanase-san, what's wrong\!? Are you okay?  
+**Chie:** Eh, Yanase-san, what's wrong\!\? Are you okay?  
 **Mai:** Sorry, I was just a little clumsy.  
 **Chie:** Did you cut yourself?  
 **Mai:** I'm fine. Sorry, I didn't mean to scare you like that.  
@@ -283,12 +279,12 @@ Several hours before Yume and Yomi encountered Kanami and the others, they were-
 **Yomi:** I'm sorry you came all the way out here, but it's taken care of, so you're free to go.  
 **Sayaka:** Okay. Kanami, Mihono... Let's go.  
 **Yomi:** Tsubakuro-san, we should leave as well. If I remember right, there's still one pudding left for a snack.  
-**Yume:** Really\!? Then we should go home fast. Pudding\~, pudding\~. Huh? What are those Minoseki onee-sans crowded around? I wonder what they're doing.  
+**Yume:** Really\!\? Then we should go home fast. Pudding\~, pudding\~. Huh? What are those Minoseki onee-sans crowded around? I wonder what they're doing.  
 **Yume:** Onee-san, what're you doing?  
 **Yomi:** (Ahh, she made contact...)  
 **Yume:** Eh\! A Halloween costume? That sounds like fun\!  
 **Mihono:** Yeah, we're going to throw a really fun party for sure. Oh yeah\! Do you guys from the elite guard want to come too?  
-**Yume:** Can we\!?  
+**Yume:** Can we\!\?  
 **Yomi:** Thank you for the invitation. However, it may disappoint you, but as members of the elite guard, we need to be ready at any moment in case Yukari-sama gives us an order...  
 **Yume:** I'll call Yukari-sama and ask\!  
 **Yume:** Hello? Yukari-sama? I can go to a Halloween party, can't I?  

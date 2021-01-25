@@ -16,13 +16,13 @@ https://streamable.com/guvtv
 **Mirja:** That's how it is.  
 **Yui:** Hyaa\~\! I'm so excited\~\!\!  
 **Mirja:** Yamashiro Yui, I propose we take measures to avoid splitting up any further. Put out your hand.  
-**Yui:** Y-You don't mean...\!?  
+**Yui:** Y-You don't mean...\!\?  
 **Mirja:** We'll hold hands.  
 **Yui:** Ahh, give me a second, give me a second pleaseee\! I'll take my glove off right now\!  
 **Yui:** Wh-What do I do about my hand sweating... Ahh, Mirja-san's hand, it's so rough... Wait, you're wearing a glove\!  
 **Mirja:** Will you please wear a glove as well? Your hand will get frostbite.  
 **Mirja:** After you put your glove back on, we'll get in line to visit the shrine.  
-**Yui:** Wha-- You mean that line that looks like it'll for sure take an hour to get through\!? You know that lovers always break up because of long waits in lines, don't you\!?  
+**Yui:** Wha-- You mean that line that looks like it'll for sure take an hour to get through\!\? You know that lovers always break up because of long waits in lines, don't you\!\?  
 **Mirja:** We came here to make our first shrine visit, so of course I do. And also, where did you learn that statistic?  
 **Yui:** From my own research\!  
 **Yui:** And so, for the sake of our future together, we should go draw our fortunes first\!  
@@ -30,18 +30,18 @@ https://streamable.com/guvtv
 **Mirja:** Is the short performance over now? If so, let's draw our fortune slips.	[The term Mirja uses, koshibai, literally small play, refers to plays that were too small to be performed in theaters and were traditionally held at shrines.]  
 **Mirja:** Hm, mine reads "great fortune". That's how it is then.  
 **Yui:** You got a great fortune, Mirja-san? Since I'm a fortune drawing pro, I'll do it too\!  
-**Yui:** There-\! ...Wait, "great misfortune"\!?  
-**Yui:** Wh-Wh-Wh-What do we do about this, Mirja-san\!?  
+**Yui:** There-\! ...Wait, "great misfortune"\!\?  
+**Yui:** Wh-Wh-Wh-What do we do about this, Mirja-san\!\?  
 **Mirja:** Calm down, Yamashiro Yui. At this shrine, they have an offering box where you can deposit misfortune and great misfortune slips.  
 **Mirja:** After doing that, your great misfortune is meant to turn into great strength.  
 **Yui:** I'll go put my great misfortune in the box right away\!  
 **Mirja:** If you run, you'll trip and fall.  
-**Yui:** Don't worry\! A toji wouldn't trip-- WAGH-\!?  
+**Yui:** Don't worry\! A toji wouldn't trip-- WAGH-\!\?  
 **Mirja:** Just as I was telling you... Yamashiro Yui, is your leg alright?  
-**Yui:** Mirja-san is stroking my leg...\! Is this my great strength already taking effect\!?  
+**Yui:** Mirja-san is stroking my leg...\! Is this my great strength already taking effect\!\?  
 **Mirja:** What are you even saying?  
 **Mirja:** ...Achoo. It's getting slightly colder, isn't it. After you've deposited your great misfortune slip, let's go warm ourselves up some.  
-**Yui:** Eh-\!? You're going to warm me up... Where are you planning on taking me\!?  
+**Yui:** Eh-\!\? You're going to warm me up... Where are you planning on taking me\!\?  
 https://streamable.com/apso0
 
   
@@ -76,7 +76,7 @@ https://streamable.com/apso0
 **Mirja:** Ahh, you have a point. Thinking on it, rather than a wish, it might be more of a promise I plan to impose on myself.   
 **Yui:** I like that about you too\!  
 **Mirja:** I have high expectations that the investigation team will be able to become an even better team.  
-**Yui:** She just kept going\!?  
+**Yui:** She just kept going\!\?  
 **Mirja:** I hope that this will be another good year.  
 https://streamable.com/9r9dv
 

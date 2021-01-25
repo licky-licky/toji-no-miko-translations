@@ -1,13 +1,9 @@
 
 2-10 The Three Goddesses
 ========================
+https://www.youtube.com/watch?v=B0bKHugwrXA
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/B0bKHugwrXA" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Identity
 **Suzuka:** --That's not her. As far as I can tell from the footage, the strange hooded person who attacked those toji wasn't Maki-san.  
@@ -19,23 +15,23 @@
 **Akane:** ...She may have an okatana, but that doesn't mean she has to be a toji.  
 **Suzuka:** ? What do you mean?  
 **Akane:** The strange hooded girl who has been attacking toji is none other than Tagitsuhime.  
-**Suzuka:** What--\!? Tagitsuhime was driven back to the netherworld though...\!?  
+**Suzuka:** What--\!\? Tagitsuhime was driven back to the netherworld though...\!\?  
 After encountering the classified hooded toji, Mihono and the other members of the former investigation team completed their reassignment to Renpu Girls' School.
 
   
 At which point, they were made aware of that toji's identity--
 
   
-**Mihono:** You mean, that toji was Tagitsuhime\!?  
+**Mihono:** You mean, that toji was Tagitsuhime\!\?  
 **Mirja:** If the hooded toji we faced was actually Tagitsuhime, how would that be possible?  
 **Kanami:** Hiyori-chan and I don't know much more than what Akane-sama explained to us, but...  
 **Hiyori:** ...After our attack on her, the great aradama within Origami Yukari seems to have split into three. Tagitsuhime, Takirihime, and Ichikishimahime.  
 **Hiyori:** Right now, the three of them don't appear like normal aradama, but are instead going around looking like people. Each with their own free will.  
 **Hiyori:** And Tagitsuhime has been collecting noro from wherever she can.  
-**Kiyoka:** The great aradama split into three, and they're all acting on their own...\!? Can it really do that...\!\!  
+**Kiyoka:** The great aradama split into three, and they're all acting on their own...\!\? Can it really do that...\!\!  
 **Chie:** What about the other two, Takirihime and Ichikishimahime. Do you know where they are or what they're up to?  
 **Hiyori:** Takirihime and Ichikishimahime are both separately kept under government protection. I should mention, Kanami and I met Takirihime the other day.  
-**Mihono:** You and Kanami did\!?  
+**Mihono:** You and Kanami did\!\?  
 **Kofuki:** Mannn, I wanna meet her too. I'd love to smash up another human shaped aradama, like Suruga.  
 **Yui:** If they're toji, then that means they're girls, right? If the great aradama's a girl...  
 **Hana:** Is that really all you picked up on, Yui? Here, take this 100 yen and go buy some ice cream. I'll call you back when the serious conversation is over.  
@@ -56,7 +52,7 @@ At which point, they were made aware of that toji's identity--
 **Hana:** The situation is starting to sound awfully complicated. What are we supposed to be doing about this, anyway?  
 **Hiyori:** Don't panic. There's still more to explain.  
 **Kanami:** Actually, not too long ago, Hiyori-chan and I fought Tagitsuhime. I mean, the Tagitsuhime who came after they split into three.  
-**Mihono:** Ehh-\!? When did that happen\!?  
+**Mihono:** Ehh-\!\? When did that happen\!\?  
 
 ## 3: Maki's Request
 **Kanami:** We just happened to be at the Ministry of Defense, when Tagitsuhime attacked the place.  
@@ -68,7 +64,7 @@ At which point, they were made aware of that toji's identity--
 **Kanami:** I can't really explain it, but, when I talked to Takirihime, she seemed different from the Tagitsuhime we all fought before. I think, maybe she isn't our enemy right now.  
 **Yui:** An aradama that isn't our enemy... So like Nene, who's always with Kaoru-san?  
 **Kanami:** And also, when the two of us fought Tagitsuhime, she was so strong that neither of us could do anything to her.  
-**Mihono:** Even with you and Juujou-san together\!?  
+**Mihono:** Even with you and Juujou-san together\!\?  
 **Kofuki:** That's the best... I wanna try fighting her too...\!\!  
 **Kanami:** But then Shidou-san came to back us up. With her help, we were able to get a bit of an advantage, but then Tagitsuhime suddenly disappeared in the middle of the fight.  
 **Hiyori:** ...After the battle, Shidou Maki spoke to us. Saying she had two objectives right now.  
@@ -81,27 +77,27 @@ At which point, they were made aware of that toji's identity--
 **Kiyoka:** There's a way to bring back Tsubakuro-san after she died? Are you serious...?  
 **Mirja:** I don't believe it. How would you even begin to...  
 **Suzuka:** We'll take over the explanation from here.  
-**Hana:** -\!? Konohana Suzuka-san, Shidou Maki-san...\!\!  
+**Hana:** -\!\? Konohana Suzuka-san, Shidou Maki-san...\!\!  
 **Maki:** To combat powerful aradama, we in the elite guard injected noro into our bodies.  
 **Maki:** To make that power our own, we accepted, used the noro.  
 **Maki:** ...And still, Yume lost her life.  
 **Suzuka:** Yume's passing wasn't something we could take so easily... We couldn't help but search for anything we could do...  
 **Suzuka:** At the end of it all, there was one possibility we found.  
 **Suzuka:** With your help, Yume may still be able to be sa--  
-**Chie:** Why should we help you\!?  
-**Mihono:** Ch-Chii-nee\!? What's gotten into you\!?  
+**Chie:** Why should we help you\!\?  
+**Mihono:** Ch-Chii-nee\!\? What's gotten into you\!\?  
 **Chie:** That girl, Tsubakuro-san, was responsible for the destruction of Mokusa. Saving someone like that... I want nothing to do with it.  
 **Maki:** ...We didn't know the truth back then.  
 **Chie:** That doesn't mean I'm going to forgive you\!  
 **Yui:** H-Hey, calm down, Chie-san. Why don't we at least hear Suzuka-san out all the way to the end?  
 **Chie:** ......I know. I know, that this is just my own selfish feelings. Please, keep going.  
 **Akane:** Then, why don't I be the one to explain to you all?  
-**Kanami:** --Eh-\!? Akane-sama\!?  
+**Kanami:** --Eh-\!\? Akane-sama\!\?  
 
 ## 5: Namu Yakushi Kagemitsu
 **Akane:** There's a possibility that Tsubakuro-san, who accepted strength from aradama, could still be living on in the netherworld.  
 **Akane:** And, using the utsushi of Namu Yakushi Kagemitsu that Setouchi-san possesses, there's a chance we could call Tsubakuro-san from the netherworld back to our own.  
-**Chie:** The utsushi of Namu Yakushi Kagemitsu...\!?  
+**Chie:** The utsushi of Namu Yakushi Kagemitsu...\!\?  
 **Akane:** Sixty years ago, the real Namu Yakushi Kagemitsu was used to defeat the great aradama-- To make things easier, we'll call it "Kai".  
 **Akane:** Tethered to this Kai, in the depths of the netherworld, should be the real Namu Yakushi Kagemitsu.  
 **Akane:** What you have... No, what remains in the present world, is the utsushi of Kagemitsu. So long as it remains here, that must mean the original continues to exist in the netherworld.  

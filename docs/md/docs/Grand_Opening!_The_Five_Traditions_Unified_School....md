@@ -1,13 +1,9 @@
 
 Grand Opening! The Five Traditions Unified School...
 ====================================================
+https://www.youtube.com/watch?v=qJrWO8osSrg
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/qJrWO8osSrg" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The Unified School Festival Executive Committee
 **Yume:** Whoa, this classroom's full of people\!  
@@ -16,7 +12,7 @@ Grand Opening! The Five Traditions Unified School...
 **Maki:** Members of the executive committee, thank you all for gathering today to discuss the Five Traditions Unified School Festival. I'm Shidou Maki, filling the role of committee chairman.  
 **Suzuka:** I, Konohana Suzuka, am assistant executive committee chairman. Everyone, let's work together to create a wonderful festival.  
 **Students:** Yes\!  
-**Kiyoka:** (What do I do... I wasn't thinking, so I thought "Joining the school festival's executive committee sounds exciting\!", but now...)  
+**Kiyoka:** (What do I do... I wasn't thinking, so I thought "Joining the school festival's executive committee sounds exciting\!\", but now...)  
 **Kiyoka:** (This feels like it could be a much more serious job...)  
 **Maki:** To begin with, we need to settle on which activities the school festival will be performing. Does anyone have any ideas they'd like to propose?  
 **Students:** ......  
@@ -143,7 +139,7 @@ At that time, outside the school festival grounds--
 **Kiyoka:** Eh-, what happened...?  
 **Maki:** I'll explain the details after you arrive. Come quickly.  
 **Kiyoka:** She hung up... What sort of emergency do they need me for?  
-**Kiyoka:** Ah... Does that mean aradama appeared in the festival\!?  
+**Kiyoka:** Ah... Does that mean aradama appeared in the festival\!\?  
 **Kiyoka:** I have to get back there\!  
 **Kiyoka:** Pant... Pant... Musumi Kiyoka, is here.  
 **Maki:** Good, you're here already. Something unexpected came up.  

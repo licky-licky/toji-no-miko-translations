@@ -1,13 +1,9 @@
 
 Toji Notes: -The Heroes of Twenty Years Ago-
 ============================================
+https://www.youtube.com/watch?v=eWPpXSEiGbY
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/eWPpXSEiGbY" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The "Toji Notes" of 20 Years Ago
 **Kaoru:** Sigh, why're we the ones who've gotta sort the books in the library?  
@@ -47,7 +43,7 @@ Toji Notes: -The Heroes of Twenty Years Ago-
 **Kanami:** Whenever we'd go to hot springs together, she'd always say "This takes me back" and smile like she was remembering something.  
 **Kanami:** When I asked her why, all she would say was, "Instead of hearing it from me, you should find the Toji Notes someday."  
 **Kanami:** Ah, I found my mom's notes\! I wonder if she wrote about the hot springs in here...  
-**Mihono:** Ehhh-\!? What's an aradama doing in the library\!?  
+**Mihono:** Ehhh-\!\? What's an aradama doing in the library\!\?  
 **Aradama:** Keeeeeeee\!  
 **Kanami:** Hm...? It's just staring at my mom's notes...  
 **Ellen:** Maybe it's interested in what your mama wrote down too?  
@@ -56,7 +52,7 @@ Toji Notes: -The Heroes of Twenty Years Ago-
 **Kaoru:** This isn't really the time to be screwing around.  
 **Aradama:** Keeeeee\!  
 **Mai:** Oh, it ran off with the notes...  
-**Kanami:** EHHH---\!? I didn't even get to read them yet-\!\!  
+**Kanami:** EHHH---\!\? I didn't even get to read them yet-\!\!  
 **Ellen:** Even worse\! There's a lot of pages missing\! I think it ran off with a bunch of toji's notes\!  
 **Kaoru:** If that ha... If the president finds out, we're screwed...  
 **Mai:** It's a one of a kind handwritten notebook. We have to get it back in one piece.  
@@ -64,7 +60,7 @@ Toji Notes: -The Heroes of Twenty Years Ago-
 
 ## 2: The Origami Yukari of 20 Years Ago
 **Ellen:** We finally got a volume of the notes back. They're from 20 years ago, but the toji's name was... Wow\!  
-**Kaoru:** The handwriting's so neat it's actually hard to read... Renpu Senior High School, 2nd year, Origami Yukari... Hang on a sec\! It can't be the Origami Yukari, can it\!?  
+**Kaoru:** The handwriting's so neat it's actually hard to read... Renpu Senior High School, 2nd year, Origami Yukari... Hang on a sec\! It can't be the Origami Yukari, can it\!\?  
 **Kanami:** The head of the Origami family, back when she was our age\! I wonder what she was like then. Let's all read some of it together\!  
 **Yukari:** Aren't you feeling tired, Kagari? You've been up night after night training lately. There's no need to push yourself so hard.  
 **Kagari:** I'm doing fine. It's simply a part of my duties; living with you as your constant attendant.  
@@ -116,11 +112,11 @@ After school that day.
 **Yukari:** Help you? With what?  
 **Minato:** When I saw her eating mamekan back then, I realized, if we made Kagari's favorite foods, she'd probably be super happy.  
 **Yukari:** I see. I can help with that then. Kagari's favorite foods... How about kenchin soba?  
-**Minato:** Kenchin soba\!? Kagari sure has some refined tastes.  
+**Minato:** Kenchin soba\!\? Kagari sure has some refined tastes.  
 **Minato:** But, we should at least be able to make that\! Let's try it right after school tomorrow.  
 **Minato:** Okay, let's get right to it\!  
 **Yukari:** Of course. All the ingredients have been provided by the Origami household.  
-**Minato:** Radish, carrot, burdock... Nn? Buckwheat flour\!? Hang on, Yukari\! Don't tell me you plan on starting at pounding noodles from scratch?  
+**Minato:** Radish, carrot, burdock... Nn? Buckwheat flour\!\? Hang on, Yukari\! Don't tell me you plan on starting at pounding noodles from scratch?  
 **Yukari:** Naturally. We said we would be making it by hand. I'll pound the soba, so please take care of the kenchin soup.  
 **Minato:** Okay, I'm on it. Let's make kenchin soba so good Kagari won't know what hit her-\!  
 **Minato:** Yukari, once this finishes simmering, I'm all done here.  
@@ -161,7 +157,7 @@ After school that day.
 **Yukari:** I knew you'd react like this. But, breaks are necessary to reliably perform your day to day tasks.  
 **Kagari:** If that's what you'd order me to do, of course I'll carry it out... But, with how sudden this is, I'm not sure how I should spend my time off...  
 **Minato:** I figured you'd say that, so I already made a reservation for us. Two days and one night at a hot springs inn\! We're leaving tomorrow: you, me, and Ema.  
-**Kagari:** Minato-senpai\!? What are you saying, barging in here out of nowhere... You made reservations without me? You're always like this; always so pushy.  
+**Kagari:** Minato-senpai\!\? What are you saying, barging in here out of nowhere... You made reservations without me? You're always like this; always so pushy.  
 **Yukari:** What's the harm in it? I'll feel better if you're with Minato and Ema. Take your time in the warm waters and come back feeling refreshed.  
 **Kagari:** Kh... If those are your orders, Yukari-sama...  
 The next morning...
@@ -188,7 +184,7 @@ The next morning...
 **Kagari:** (Ah, that's right\! I have another option.)  
 **Kagari:** Then, I'll begin my impersonation... Of Yukina, following Yukari-sama every morning on the way to school.  
 **Kagari:** Yukari-onee-samaaa\~\! Ahhn, please wait for meee\~, Onee-samaaa\~\!  
-**Minato:** Uwah\! You went with Yukina\!? And you sound just like her too\! Ahahaha\! Way to go, Kagari\!  
+**Minato:** Uwah\! You went with Yukina\!\? And you sound just like her too\! Ahahaha\! Way to go, Kagari\!  
 **Minato:** Man, I didn't think you'd be so good at this.  
 **Kagari:** I've seen it so many mornings that I'm sick of it, after all.  
 **Train Announcer:** Last stop\~, this is the last stop\~.  
@@ -199,7 +195,7 @@ The next morning...
 **Kanami:** Wait, Kagari-san's notes only cover up to the train arriving at the station\! Where's the rest?  
 **Ellen:** There's no sign that the aradama tore any more pages out, so I don't think there's any more to the story.  
 **Mai:** That's right. And each volume has a set number of pages, so I think this might just be the end of it?  
-**Kanami:** Then, that would mean, what my mom was remembering was the impression Kagari-san did\!?  
+**Kanami:** Then, that would mean, what my mom was remembering was the impression Kagari-san did\!\?  
 **Mihono:** It must have been really funny if she was still thinking back to it as an adult. I wish I could've seen it too-\!  
 **Ellen:** That solves the mystery of Kanamin's mama, but it makes you want to see what comes next at the hot springs, doesn't it\!  
 **Kanami:** I know-\! Looking at notes from the other toji, there's nothing about it.  
@@ -226,10 +222,10 @@ The next morning...
 **Sana:** Well, that's how it is. So use what's there as a reference and each of you work on preparing your own notes.  
 **Kaoru:** Wait, hold up\! Nobody ever said we were going to have to write anything\! Sigh, this annoying work just keeps piling up...  
 **Ellen:** Kaoru, that's not all the work we have to do. We were chosen to make up the editorial committee for everyone's notes. That's why we got this job sorting the books.  
-**Mihono:** We were\!?  
+**Mihono:** We were\!\?  
 **Kanami:** Being the editorial committee means we get to read all the notes before anyone else, right? That sounds like fun\~.  
 **Mai:** That's a big responsibility. Let's work hard at it, okay?  
 **Kaoru:** Sorting books... Writing notes... Editorial committee... Ahh... I'm feeling lightheaded...  
-**Mihono:** Wah, the stack of books fell down-\! Kaoru-san, are you okay\!?  
+**Mihono:** Wah, the stack of books fell down-\! Kaoru-san, are you okay\!\?  
 **Kaoru:** Haha... That's even more work to do... Hahaha... Even more... More work...  
 > :ToCPrevNext

@@ -1,13 +1,9 @@
 
 Complete Your Day Off Mission!
 ==============================
+https://www.youtube.com/watch?v=fZFiQs-1TKo
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/fZFiQs-1TKo" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 Covers both fall events.
 
   
@@ -226,7 +222,7 @@ On the day everyone had off--
 **Mai:** Ah, y-you're right... I didn't think of it, from that perspective.  
 **Mai:** Th-Then why don't we look in that general store over there? They sell some cute and a little strange mascot accessories. It's a popular place.  
 **Yui:** Wow, look at this\! This doll's so uglycute\~\! (dasakawa)  
-**Yomi:** Aradama\!?  
+**Yomi:** Aradama\!\?  
 **Yui:** N-No\! That's not what I said-\! Not aradama, da-sa-ka-wa\!  
 **Yomi:** Forgive me. To me, it sounded like you said something else.  
 **Mai:** I guess that's proof that your mind is always ready for action. That's the elite guard for you...  

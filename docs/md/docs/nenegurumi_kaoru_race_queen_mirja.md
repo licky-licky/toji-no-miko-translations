@@ -12,13 +12,13 @@ https://streamable.com/1pyro9
 **Sana:** We've decided to start selling Nenegurumis.  
 **Kaoru:** Huhh? What the heck's a "Nenegurumi"?  
 **Sana:** A Nene nuigurumi, so, Nenegurumi.		[Nuigurumi are just stuffed toys/dolls, and I'm not punning around with the name]  
-**Kaoru:** Just leaving it at that\!?  
+**Kaoru:** Just leaving it at that\!\?  
 **Kaoru:** ...So, what do need me for with these Nenegurumis? You want to use Nene as a model?  
 **Sana:** No, we already went ahead and made them. Here's one.  
-**Kaoru:** Whoa\!?  
+**Kaoru:** Whoa\!\?  
 **Kaoru:** ...I-It's not the real Nene... right? I-I thought it was for a sec... It seriously looks just like him.  
 **Sana:** Kaoru, go and sell this.  
-**Kaoru:** Huhh\!? Why do I have to do it\!\!  
+**Kaoru:** Huhh\!\? Why do I have to do it\!\!  
 **Sana:** It's not forever; just for a limited time. You know the shopping mall? We rented a store there.  
 **Kaoru:** Saying that doesn't make it any better...  
 **Sana:** I called in somebody else to help too. So anyway, I'm counting on you, Kaoru.  
@@ -29,11 +29,11 @@ https://streamable.com/1pyro9
 **Minaki:** ...So, what am I meant to be doing anyway?  
 **Kaoru:** Did that hag seriously leave all the explaining to me too...?  
 **Kaoru:** Nenegurumis... We're selling Nenegurumis. This thing.  
-**Minaki:** That was just a doll\!? No way; I thought it was the real one...  
+**Minaki:** That was just a doll\!\? No way; I thought it was the real one...  
 **Kaoru:** She said to sell these, but that's asking the impossible, right?  
 **Minaki:** Won't these sell a whole lot? It's cute\!  
 **Kaoru:** If you want it, you have it.  
-**Minaki:** Really\!?  
+**Minaki:** Really\!\?  
 **Kaoru:** I've got the real one anyway-.  
 **Minaki:** Thanks a lot, Kaorucchi\! Let's sell a bunch\!  
 **Kaoru:** ...If we have to.  
@@ -45,7 +45,7 @@ https://streamable.com/psmsg9
 The Nenegurumi Shop, 3 hours before opening.
 
   
-**Minaki:** Uwah-\!? The Nenegurumis fell over-\!\! Y-You okay, Kaorucchi\!?  
+**Minaki:** Uwah-\!\? The Nenegurumis fell over-\!\! Y-You okay, Kaorucchi\!\?  
 **Kaoru:** Fine, but... For how big this store is, we've got way too few people\!  
 **Kaoru:** Give us more to work with-\!  
 **Minaki:** It's no use saying that now-.  
@@ -53,7 +53,7 @@ The Nenegurumi Shop, 3 hours before opening.
 **Kaoru:** Minaki...  
 **Minaki:** Kaorucchi\!  
 **Kaoru:** ...If there's more coming to help, couldn't we call them now?  
-**Minaki:** I thought I got you feeling motivated\!?  
+**Minaki:** I thought I got you feeling motivated\!\?  
 **Kaoru:** Nah, nah, there's no way I'd be. Though, I'll try in my own way.  
 **Minaki:** Kaorucchi...  
 **Minaki:** (...Huh? Isn't she moving a little livelier than before...?)  
@@ -73,7 +73,7 @@ The Nenegurumi Shop, 1 hour before opening.
 **Minaki:** ...Kaorucchi?  
 **Kaoru:** ...[snooze].  
 **Minaki:** Kaorucchi, you look like the Nenegurumi's hugging you. So heartwarming.  
-**Minaki:** ...Hey, wake up, Kaorucchi\!  I can't finish the displays by myself\!?  
+**Minaki:** ...Hey, wake up, Kaorucchi\!  I can't finish the displays by myself\!\?  
 **Kaoru:** Mmmnnm...  
 **Minaki:** ...Kh. I'd feel real bad waking her up, but... I've gotta harden my heart\!  
 **???:** Wait just a moment (dess)\!\!  
@@ -105,7 +105,7 @@ https://streamable.com/nprbpr
 **Mirja:** Morishita Kihiro and Haji Keiko. You three make a rare group.  
 **Kihiro:** You might be right there\!  
 **Kihiro:** Though, despite myself coming from the equipment department and Miss Haji from the engineering preparatory department, we've long since deepened our friendship\!  
-**Keiko:** Eh\!?  
+**Keiko:** Eh\!\?  
 **Kihiro:** But you're right that we have little in common with Miss Yamashiro here\! ...What seems to be the matter, Miss Haji?  
 **Keiko:** I-It's... nothing.  
 **Keiko:** (Deepened... our friendship...?)  
@@ -143,11 +143,11 @@ https://streamable.com/nprbpr
 **Mirja:** Firstly, as I'm in charge of reaching out to visitors...  
 **Kihiro:** Ahh, we lied about that.  
 **Mirja:** Huh?  
-**Yui:** Hey\!? It's too soon to spill the beans\!\!  
+**Yui:** Hey\!\? It's too soon to spill the beans\!\!  
 **Mirja:** ...Too soon to spill the beans. And what do you mean by that, Yamashiro Yui?  
 **Yui:** Well, uh, we didn't lie so much, Mirja-san. Loosely speaking, we do want you attracting visitors...  
 **Mirja:** Haji Keiko?  
-**Keiko:** M-Me\!?  
+**Keiko:** M-Me\!\?  
 **Kihiro:** Please don't glare at Miss Haji like that, Miss Kitora. She was saying we should give a proper explanation until the bitter end.  
 **Mirja:** ...Right, I think I have an idea of what's going on. Yamashiro Yui is behind this, isn't she?  
 **Yui:** Teheh.  

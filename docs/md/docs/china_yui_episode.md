@@ -5,7 +5,7 @@ https://youtu.be/Wuef7y1z6Q4
 
   
 
-## [China - Yui: Start]: The Chinatown Date I've Longed For\!?
+## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  
 **Mihono:** I'm all for it\~\! There's still a lot more shops I haven't been to yet. Do you two wanna come with me?  
 **Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~.  
@@ -17,14 +17,14 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** No, not once this whole time have I ever felt anything like that...  
 **Yui:** Then, what's that uneasy look on your face for?  
 **Tsugumi:** Sorry, it might be senseless of me to ask, but... I was just wondering, what is the definition of a "date" to begin with?  
-**Yui:** Tsugumi-san, you're such a serious going girl. When it comes to things like this, it's all about "Don't think; feel\!"  
+**Yui:** Tsugumi-san, you're such a serious going girl. When it comes to things like this, it's all about "Don't think; feel\!\"  
 **Tsugumi:** Go with your feelings without thinking... Is that it. Then, coming up with feelings regarding dating... How exactly do you do that?  
 **Yui:** That's easy\! Right now, I'll swap between taking you and Mihono-chan on a Chinatown date with me, to give you the dating experience\!  
 **Mihono:** The dating experience?  
 **Yui:** Yeah\! I've spent a lot of time mentally rehearsing for the ultimate heart-pounding Chinatown date, so I'll show you a good time for sure\!  
 **Tsugumi:** If you're that sure then, Yamashiro-san... It might not be so bad to get an experience of the real thing.  
 **Yui:** That's the spirit\! So then, to start us off... I think I'll take out Mihono-chan\!  
-**Mihono:** Ehh-- Starting with me\!? If you just tell me we're going on a date like that, I don't have time to get my heart ready...  
+**Mihono:** Ehh-- Starting with me\!\? If you just tell me we're going on a date like that, I don't have time to get my heart ready...  
 **Yui:** Don't you worry about that, Honey. I'll escort you around just right. Why don't we find somewhere to get some delicious sweets first?  
 **Yui:** This place sells the apricot seed soft serve that's the talk of Chinatown\! I don't have much pocket money on me today, so let's share one between us. Here, open wide.  
 **Mihono:** Ahhn. [chew chew]... It's yummy-\!\!  
@@ -43,7 +43,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Yui:** Uuu\~, when you put it like that, I'm losing confidence. Could I have a little time to think this over?  
 **Yui:** Get ahold of yourself, Yui. Remember the strongest Chinatown fantasy date plan you fantasized about over and over day after day. Chinatown... Chinatown... When I think of an ideal date in Chinatown, it's gotta be...  
 
-## [China - Yui: End]: A Practice Run\!? Yui's Fantasy Chinatown Date\!
+## [China - Yui: End]: A Practice Run\!\? Yui's Fantasy Chinatown Date\!
 **Yui:** Chinatown date... Chinatown date... When I think of situations for the Chinatown date I've been dreaming of, there's...  
 **Yui:** That'll do\~\!\!\!\!\!  
 **Mihono:** You look like a lightbulb went off in your head, Yui.  
@@ -75,7 +75,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Yui:** Hold your horses-\! The main event starts right here\!  
 **Yui:** While the two of us are having a good time on our date, a group of burly thugs shows up and surrounds us, then tells you this:  
 **Yui:** "Hey, pretty little thing, want to come have a good time with us..."  
-**Yui:** That's when the thugs try to take you away by force. But then, I shout, "Get your hands off my girlfriend-\!" and give the guys a high kick while I'm still in my China dress\!  
+**Yui:** That's when the thugs try to take you away by force. But then, I shout, "Get your hands off my girlfriend-\!\" and give the guys a high kick while I'm still in my China dress\!  
 **Yui:** To protect the girl I love, I start pumping out stylish moves, taking down the punks one after another. And, completely captivated by me, my girlfriend says:  
 **Yui:** "Thank you\! I owe you my life. To make it up to you... You. Can. Have. Me..."  
 **Yui:** Kyaa-\! Y'know, you're a lot bolder than I thought... But, what kind of woman turns down a woman's advances\! Now's not the time to hold ourselves back\! And then, the two of us spend our sweet time together... Eheheheh...  
@@ -87,6 +87,6 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** If we were to leave her like this, it would weigh on our conscience, wouldn't it. We have to come up with something to support her...  
 **Mihono:** Yui, I think everybody has their own different kind of date they dream about, but I got to have a lot of fun today because you were with us\! So thanks.  
 **Tsugumi:** That's right. And, I was able to mostly understand what the definition of a date is too...  
-**Yui:** You mean it\!? I'm so glad\~\! I should be the one thanking you two\! Getting to go on a three girl date through Chinatown made me the happiest girl in the world\!  
+**Yui:** You mean it\!\? I'm so glad\~\! I should be the one thanking you two\! Getting to go on a three girl date through Chinatown made me the happiest girl in the world\!  
 **Tsugumi:** A three girl date...? Can you really call an outing with three people a date? Sigh... I'm understanding the definition less and less.  
 > :ToCPrevNext

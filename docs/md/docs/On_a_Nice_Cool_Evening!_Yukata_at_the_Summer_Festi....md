@@ -66,7 +66,7 @@ https://youtu.be/PLFKMPY_XHU
 **Yume:** Ah, you can scoop for goldfish there\! Can I try that?  
 **Yukari:** Fine, go on.  
 **Yume:** You better watch, okay\~? I'm gonna catch a whole bunch of them\!  
-**Yume:** Geez, why can't I catch a single goldfish\~\!?  
+**Yume:** Geez, why can't I catch a single goldfish\~\!\?  
 **Yomi:** If you shout so loudly, you'll alert the goldfish.  
 **Yume:** But they keep swimming away as soon as I try\! Hey hey, onee-sans, show me how to do it-.  
 **Suzuka:** Do your best to show her how it's done, Maki-san, Yomi-san. I will cheer you on.  
@@ -74,14 +74,14 @@ https://youtu.be/PLFKMPY_XHU
 **Yomi:** Understood. I will give it a try.  
 **Maki:** Kh... So Yomi's taking this seriously. Mister, give me a scoop too. If I'm going to do this, I don't want to lose.  
 **Yomi:** ...Then, prepare yourself.  
-**Yume:** Yomi-onee-san... How'd you get so good at scooping goldfish\!? The old guy running the stall looked like he was gonna cry halfway through.  
+**Yume:** Yomi-onee-san... How'd you get so good at scooping goldfish\!\? The old guy running the stall looked like he was gonna cry halfway through.  
 **Yukari:** Indeed... That's quite the haul. I was surprised as well.  
 **Yomi:** I may have overdone it. So I made sure to return some of them.  
 **Maki:** Why... couldn't I catch a single one...?  
 **Suzuka:** Everyone has their strengths and weaknesses. You excel at so many other things, Maki-san.  
 **Yukari:** Suzuka...  
 **Yomi:** You seemed to want these goldfish, Tsubakuro-san, but are you going to look after them?  
-**Yume:** Can I\!?  
+**Yume:** Can I\!\?  
 **Yomi:** Though, festival goldfish live very short lives. Will you keep them regardless?  
 **Yume:** Hmmm. Even if that's true, since you caught them for me, I'll let them live for a really long time\!  
 **Yukari:** It seems the fireworks have begun.  
@@ -111,9 +111,9 @@ https://youtu.be/jdKVXQRmnJ0
 **Yomi:** You look very good in yours as well, Tsubakuro-san.  
 **Yume:** Don't I-? When I saw it, I thought, President Souraku knows her stuff\! My yukata's so cute\!  
 **Maki:** Yume.  
-**Yume:** Eh... Wah\!?  
+**Yume:** Eh... Wah\!\?  
 **Maki:** The crowd's thick. If you don't look where you're going, you'll bump into someone.  
-**Yume:** Actually, what's with this huge line\!?  
+**Yume:** Actually, what's with this huge line\!\?  
 **Suzuka:** Business is booming. What could it be for?  
 **Stall Managing Toji:** Ah, the elite guard, with Yukari-sama...\! This line is for our yakisoba.  
 **Yukari:** ...\!  
@@ -121,7 +121,7 @@ https://youtu.be/jdKVXQRmnJ0
 **Yukari:** I see.  
 **Yukari:** ......  
 **Yomi:** Yukari-sama... If you'd like some, I could stand in line for you?  
-**Stall Managing Toji:** Yukari-sama herself... Wants to try our yakisoba\!?  
+**Stall Managing Toji:** Yukari-sama herself... Wants to try our yakisoba\!\?  
 **Stall Managing Toji:** I-I'll bring you some straight away...\!  
 **Yukari:** ...No, stop. The two of you needn't concern yourselves with me.  
 **Yukari:** With all these people in line, I shouldn't be the only one to receive special treatment.  
@@ -150,7 +150,7 @@ https://youtu.be/jdKVXQRmnJ0
 **Yume:** I'll get a whole lot, so I'll give you some too, Suzuka-onee-san\!  
 **Suzuka:** Good. I'll look forward to it.  
 **Yomi:** Allow me to offer some advice before you attempt it. It's a common misconception, but it's actually harder for the scoop to be broken if you let it fully soak in the water.  
-**Yume:** Wait, really\!?  
+**Yume:** Wait, really\!\?  
 **Yomi:** If only a part of it is wet, it will break more easily. Also, I suggest not aiming for larger ones and many at once.  
 **Yume:** Thanks for the tips, Yomi-onee-san.  
 **Yomi:** You did it, Tsubakuro-san.  
@@ -171,7 +171,7 @@ https://youtu.be/jdKVXQRmnJ0
 **Yomi:** Understood. I'll go buy it, so please wait here for a moment.  
 **Yume:** I'll just go with you\!  
 **Yomi:** That reminds me, earlier, I saw an Ichigo Daifuku Neko mask in one of the stalls.  
-**Yume:** Wait, you did\!?  
+**Yume:** Wait, you did\!\?  
 **Yomi:** Should we go buy that first?  
 **Yume:** ...Isn't wearing masks sort of for kids-? I do like Ichigo Daifuku Neko though.  
 **Yomi:** Do you think so? I think it would be cute if you wore it, Tsubakuro-san.  

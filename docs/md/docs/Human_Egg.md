@@ -69,17 +69,17 @@ https://youtu.be/xkR1G_BHzCI
 **Mihono:** We safely took care of the aradama, so let's get right back to the game\!  
 **Kanami:** Hmmm, who should I vote for-? It's hard to pick, since it's the very first one... Did you decide already, Hiyori-chan?  
 **Hiyori:** Sure. I decided a while ago.  
-**Kanami:** Ehh\!? On who\!?  
+**Kanami:** Ehh\!\? On who\!\?  
 **Hiyori:** ...You'll know soon.  
 **Ellen:** Is everyone ready to go? Then, vote in the app for the person you think is a Human, and push the button.  
 **Mai:** Sayaka-chan, did you figure out how to vote?  
 **Sayaka:** I'm okay. I pushed the button now.  
 **App Announcer:** Voting has been recorded. I will now announce the results of the voting.  
 **Kanami:** Ah, here it comes\! Alright, who's going to be the first egg to crack\~?  
-**Kanami:** ...Wait, huhhh\!?  
+**Kanami:** ...Wait, huhhh\!\?  
 **Voting Results:** Hiyori, Mirja, Ellen, Mai, Mihono, Sayaka --> Kanami. Kanami --> Ellen.  
 **App Announcer:** As a result of the voting, it has been decided that Kanami-san will be cracked today.  
-**Kanami:** J-J-Just like that\~\!? But, but, why me\~\!?  
+**Kanami:** J-J-Just like that\~\!\? But, but, why me\~\!\?  
 **Hiyori:** If someone had opposed Humpty Dumpty, then Sayaka and I would have our innocence disproven. But you were the one saying you wished someone would oppose us. So of course this happened.  
 **Ellen:** I felt the same. It looked like Kanamin was a Human signalling to her ally to come out and oppose them.  
 **Mirja:** In the first place, I cannot imagine Itomi Sayaka, who had only just learned the rules, would pretend to be Humpty Dumpty right away.  
@@ -242,7 +242,7 @@ https://youtu.be/xkR1G_BHzCI
 **Mai:** Mmhm. Sayaka-chan completely got the better of me.  
 **Mirja:** ...By the way, which of you was the Rabbit? Was it Musumi Kiyoka, or Kohagura Ellen?  
 **Kiyoka:** Right. That was me, Mirja-san.  
-**Mihono:** Ehh\!? It was you, Kiyoka\!? I thought for sure it was either Ellen-san, since she's used to the game, or Mirja-san, since she's so good with strategies...  
+**Mihono:** Ehh\!\? It was you, Kiyoka\!\? I thought for sure it was either Ellen-san, since she's used to the game, or Mirja-san, since she's so good with strategies...  
 **Mihono:** Wait? But, on the second day, didn't you ask for the Rabbit to "please protect Itomi-san tonight"?  
 **Kiyoka:** Fufu, that was my strategy to make it seem like the Rabbit would still be alive, Hono-chan.  
 **Mirja:** Then, that would mean, the question I remembered doubting was also...?  

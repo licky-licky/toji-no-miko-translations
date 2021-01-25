@@ -25,16 +25,16 @@ https://youtu.be/7bidAVkhEuQ
 **Mihono:** Geez, you've gotta dream a little, Juujou-san.  
 **Kiyoka:** She's right\!  
 **Kiyoka:** Hono-chan has a weird affect on things sometimes\! We might actually find it\!  
-**Kiyoka:** Yeah, yeah... Wait, Kiyoka\!?  
+**Kiyoka:** Yeah, yeah... Wait, Kiyoka\!\?  
 **Hiyori:** ...Good grief.  
 **Hiyori:** There's no way you'd stumble across it that easy. Anyway, we should get moving. We have to get a map of the island first.  
 **Kanami:** Getting a map of the island; you're pretty into this too, Hiyori-chan\!  
-**Hiyori:** Wha--\!? I am not\!?  
+**Hiyori:** Wha--\!\? I am not\!\?  
 **Hiyori:** I was just thinking we'd need a map to end this mission as smoothly as possible is all\!  
 **Kiyoka:** Right\! We'll end it as smoothly as possible, then search for treasure\!  
 **Mihono:** Okaaay\! Let's go get that map-\!  
 **Kanami/Kiyoka:** Yeah-\!  
-**Hiyori:** Are you even listening to me\!?  
+**Hiyori:** Are you even listening to me\!\?  
 **Mihono:** Where do you think we could get a map at?  
 **Kiyoka:** We could look online, but I'd want to have a physical map.  
 **Hiyori:** If we check the island's information center, they should have one, right?  
@@ -50,7 +50,7 @@ https://youtu.be/7bidAVkhEuQ
 **Information Center Staff:** No, you didn't give a bad impression at all. Please just wait here a moment.  
 **Kiyoka:** They went off into the back... I wonder what they're doing?  
 **Hiyori:** Maybe they're checking with the Sword Administration Bureau to see if we're actually toji, after what Mihono said.  
-**Mihono:** Because of me\!?  
+**Mihono:** Because of me\!\?  
 **Information Center Staff:** Sorry to keep you waiting. You can have this map.  
 **Hiyori:** This map... it's hand-drawn?  
 **Information Center Staff:** Yes. I was told that, if toji arrive here, I should give them this map.  
@@ -102,7 +102,7 @@ https://youtu.be/7bidAVkhEuQ
 **Hiyori:** Ah.  
 **Mihono:** What's up, Juujou-san?  
 **Hiyori:** My spade hit something.  
-**Kiyoka:** Really\!?  
+**Kiyoka:** Really\!\?  
 **Kanami:** Let me see, Hiyori-chan\!  
 **Hiyori:** Don't all of you come over here at once\!  
 **Hiyori:** There's a box and a map, it looks like. The box... is locked and won't open.  
@@ -145,7 +145,7 @@ https://youtu.be/7bidAVkhEuQ
 **Kanami:** Is it?  
 **Mihono:** Well, we fight too.  
 **Kiyoka:** Exactly\! That's what I mean, Hono-chan\!  
-**Mihono:** Uwah\!? Wh-What do you mean\!?  
+**Mihono:** Uwah\!\? Wh-What do you mean\!\?  
 **Kiyoka:** Basically, the pirates in the legend; what if they were aradama?  
 **Hiyori:** Hmm. That's an interesting way of thinking about it. I think it's possible enough.  
 **Hiyori:** You're right that, when you rethink it as a toji fighting to protect the island from aradama, it lines up.  
@@ -181,7 +181,7 @@ https://youtu.be/7bidAVkhEuQ
 **Mihono:** Eh? Eh? It's no fair that you're the only ones who get it\!  
 **Mihono:** Right, Kiyoka\!  
 **Kiyoka:** I think you're just terrible at picking up on things, Hono-chan...  
-**Mihono:** Wait, so I'm the only one who doesn't get it\!?  
+**Mihono:** Wait, so I'm the only one who doesn't get it\!\?  
 **Hiyori:** I'm opening the box.  
 **Hiyori:** This is... Well, it isn't a map. There's something written on it.  
 **Hiyori:** ..."A match at the Pirates' Cove at sundown".  
@@ -251,11 +251,11 @@ https://youtu.be/7bidAVkhEuQ
 
 ## 5: Our Own Time Capsule
 **Kanami:** It's a time capsule left by our mothers.  
-**Mihono:** Ehhh\!?  
-**Mihono:** Why would a time capsule from your mothers be buried here\!?  
+**Mihono:** Ehhh\!\?  
+**Mihono:** Why would a time capsule from your mothers be buried here\!\?  
 **Hiyori:** Like they said at the shrine, the toji who came here suppressing aradama twenty years ago must have been Minato-san and my mom.  
 **Hiyori:** Though, a time capsule... I didn't think my mom would do something like that.  
-**Kanami:** I'm just guessing, but maybe my mother's the one who suggested it? I can see her saying, "It'll be fun\!"  
+**Kanami:** I'm just guessing, but maybe my mother's the one who suggested it? I can see her saying, "It'll be fun\!\"  
 **Hiyori:** So Minato-san pushed my mom into doing it.  
 **Kanami:** That sort of reminds me of you, Hiyori-chan.  
 **Hiyori:** How so?  
@@ -284,7 +284,7 @@ https://youtu.be/7bidAVkhEuQ
 **Kanami:** Our mothers saw this exact same view...  
 **Hiyori:** ...We won't find a better treasure than this.  
 **Kiyoka:** Juujou-san, that sounded a little corny...  
-**Hiyori:** What\!?  
+**Hiyori:** What\!\?  
 **Kanami:** Ahahaha\!  
 **Mihono:** I know\! I came up with a good idea\! We should bury a time capsule of our own too\!  
 **Mihono:** And then, we can get somebody to dig it up twenty years from now\!  

@@ -64,7 +64,7 @@ https://youtu.be/kbhGuet_kEw
 **Mirja:** (If I force the issue this much, she should avoid going rampant again for the time being.)  
 **Mirja:** (If Asakura Mihono were to repeatedly lose control, her position will certainly worsen.)  
 **Mirja:** (Though... There is now even more work to be done. I'll need to immediately find information on Hitakami Makoto, Inago Akira, and Toribane Yuuki...)  
-**Mihono:** Aradama\!?  
+**Mihono:** Aradama\!\?  
 **Chie:** ...It's fine for you to wait on standby today, Mihono-chan.  
 **Mihono:** No, I can fight even without using that power, and I'll feel better getting some exercise than sitting around worrying\!  
 **Mirja:** Very well then.  
@@ -117,7 +117,7 @@ At that time--
 **Maki:** ...Yes ma'am.  
 **Yukari:** What happened with Asakura Mihono?  
 **Kaoru:** Me and Sayaka managed to stop her. But, it was pretty close.  
-**Yume:** Even with you and Sayaka-chan, she came pretty close to beating you\!?  
+**Yume:** Even with you and Sayaka-chan, she came pretty close to beating you\!\?  
 **Sayaka:** Mm. Mihono was strong.  
 **Yume:** She went on a rampage, hm... Yukari-sama\! I want to try fighting that onee-san when she's rampaging\!  
 **Yukari:** You can't.  
@@ -224,15 +224,15 @@ At that time--
 **Kofuki:** Mihocchi?  
 **Mihono:** U-Urgh...  
 **Aradama:** GYAAAAAAAAAA\!  
-**Kofuki:** You got a stomachache\!?  
+**Kofuki:** You got a stomachache\!\?  
 **Kofuki:** Alright, then just sit tight\!\!  
 **Mihono:** Fukki, don't move\!\!  
-**Kofuki:** \!?  
+**Kofuki:** \!\?  
 **Mihono:** ...You can't, come over here...\! AAAAAAGGGHHHHHHHHHH\!\!  
 **Aradama:** -\!\!  
-**Kofuki:** Wha\!? Mihocchi just swung her okatana, and...\!  
+**Kofuki:** Wha\!\? Mihocchi just swung her okatana, and...\!  
 **Tsugumi:** That was quite the empowered strike... It looked to be a high level of hachimanriki.  
-**Kofuki:** Who gives a shit about levels and whatever right now\!? Oi, Mihocchi\! What do you want me to do\!?  
+**Kofuki:** Who gives a shit about levels and whatever right now\!\? Oi, Mihocchi\! What do you want me to do\!\?  
 **Mihono:** It's okay... It's okay... Letting some power out, I think it's calming down...  
 **Mihono:** [pant, pant...]  
 **Kofuki:** ...Did she get it under control?  
@@ -277,7 +277,7 @@ At that time--
 **Akira:** Nn? Ahh, now that you mention it, you're right.  
 **Akira:** Well, nothing wrong with taking the train from time to time. Yuuki, Mihono, you want an orange?  
 **Yuuki:** I'll have one.  
-**Mihono:** Ah, okay... It's cold\!?  
+**Mihono:** Ah, okay... It's cold\!\?  
 **Yuuki:** They're refridgerated oranges. ...Mm, it's cold and sweet.  
 **Mihono:** Haha, that's for sure.  
 **Mihono:** ...Can I ask you something, Akira-san?  
@@ -374,7 +374,7 @@ At that time--
 **Makoto:** Your resolve.  
 **Makoto:** After our conversation has finished, you will know the truth of Kashuu Kiyomitsu.  
 **Makoto:** However... Once you know that, you will be unable to return to your former life.  
-**Mihono:** -\!?  
+**Mihono:** -\!\?  
 **Makoto:** To have the truth made clear... Do you have the resolve to step over to our side?  
 **Mihono:** ......  
 **Mihono:** You say resolve, but, I'm not sure. All I know is... I don't want to be afraid of Kiyomitsu.  
@@ -385,20 +385,20 @@ At that time--
 **Makoto:** Please come with me.  
 **Makoto:** This place should do well.  
 **Makoto:** I am now going to wield my okatana with the intent of killing you. Please fight back earnestly.  
-**Mihono:** Eh? Killing me... What...\!?  
-**Mihono:** ...\!?  
+**Mihono:** Eh? Killing me... What...\!\?  
+**Mihono:** ...\!\?  
 **Makoto:** If you do not fight, you will die.  
 
 ## 9: Hitakami Makoto (2)
 **Makoto:** HAA-\!\!  
 **Mihono:** Gh\!\!  
-**Mihono:** (She's strong\! There's a toji this strong here\!?)  
+**Mihono:** (She's strong\! There's a toji this strong here\!\?)  
 **Mihono:** If you're this strong, why weren't you in the tournament? You, and Akira-san too... You would have definitely placed high\!  
 **Makoto:** Our power isn't for fighting in tournaments. It's for protecting the people. Is that not the truth, Asakura Mihono-san?  
 **Mihono:** (I just thought it was natural to join in the tournament and win there...)  
-**Mihono:** (But, Hitakami-san is... Ughh\!?)  
+**Mihono:** (But, Hitakami-san is... Ughh\!\?)  
 **Mihono:** ...\! Kashuu Kiyomitsu's......\! Get away from me...\!  
-**Akira:** Makocchan\! Did Mihono lose control\!?  
+**Akira:** Makocchan\! Did Mihono lose control\!\?  
 **Yuuki:** Were you unhurt, Makoto-nee-sama\!  
 **Makoto:** I'm entirely fine. I must have made you worry, Akira-chan, Yuuki-chan.  
 **Makoto:** Though, it was worth taking the risk.  

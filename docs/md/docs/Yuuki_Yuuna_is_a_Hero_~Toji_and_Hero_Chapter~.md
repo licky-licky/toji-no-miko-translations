@@ -1,13 +1,9 @@
 
 Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 =============================================
+https://www.youtube.com/watch?v=1KqFtVj6R6g
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/1KqFtVj6R6g" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Into a Sea of Trees
 **Mihono:** Haaaah-\!  
@@ -16,9 +12,9 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **Kofuki:** You say that like it's a bad thing\! I couldn't be happier about it, all these aradama-chan to slice up\!  
 **Kofuki:** Check it out\! They just keep coming\!  
 **Mirja:** Shichinosato Kofuki, don't push ahead\! If you break formation, their attacks will become concentrated on Musumi Kiyoka\!  
-**Kiyoka:** Eh\!? Kyaaa\!  
+**Kiyoka:** Eh\!\? Kyaaa\!  
 **Mirja:** (Not good, Musumi Kiyoka's utsushi was broken...\! If she's attacked any further...\!)  
-**Chie:** Kiyoka-chan\! Are you hurt\!?  
+**Chie:** Kiyoka-chan\! Are you hurt\!\?  
 **Kiyoka:** Th-Thank you\~... I'm not hurt, but I don't think I can use utsushi anymore...  
 **Mirja:** (...I can't continue to overlook Shichinosato Kofuki's reckless behavior in combat...)  
 **Mihono:** W-We finally beat 'em all...\! Ahh\~...  
@@ -33,19 +29,19 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **Mihono:** Th-The mood's really taking a turn for the worse...  
 **Chie:** Settle down, you two. Getting in a fight here isn't going to accomplish anything.  
 **Chie:** Sigh... All this fighting against aradama might have worn us down and put us on edge. We should take a break every now and then; why not have a peaceful stroll through the woods here--  
-**Mihono:** Eh...\!?  
-**Mihono:** Wh... What happened\!? Where, where are we\!? Is this thing... A plant?  
+**Mihono:** Eh...\!\?  
+**Mihono:** Wh... What happened\!\? Where, where are we\!\? Is this thing... A plant?  
 **Chie:** It seems like these giant roots and vines wrap all across the ground...? I've never seen anything like it.  
 **Chie:** I've heard of a sea of trees, but I don't think it's supposed to look like this...  
 **Kiyoka:** --\!\! A-Aradama\!  
 **Kofuki:** There's still some left, hahaha\! Who cares where this is, so long as there's aradama to hunt\!  
 **Mirja:** Stop, first we should confirm our situation--  
 **Kofuki:** If we sit around trying to figure that out now, we'll be the ones getting killed\!  
-**Kanami:** Hey, Mai-chan\!? Where is this\!?  
+**Kanami:** Hey, Mai-chan\!\? Where is this\!\?  
 **Mai:** I don't know... I think even in the densest of jungles you wouldn't find plants like this growing...  
 **Sayaka:** Before we think about anything, we should defeat the aradama.  
 **???:** Hero PUUUUUUNCH\!\!  
-**???:** Onee-chan, what are these black things\~\!? A new kind of Vertex\!?  
+**???:** Onee-chan, what are these black things\~\!\? A new kind of Vertex\!\?  
 **???:** I've never heard of anything like them... They don't look like Stardust or Vertex...?  
 **???:** Mmm\~... These are something different from Vertex.  
 **???:** It doesn't seem like they're affecting Mankai either. It's abnormal.  
@@ -57,7 +53,7 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **Mirja:** Fortunately, there's no sign of people here\! If we retreat, no one should be hurt\!  
 **Kofuki:** Retreat? Hell no. Do you even remember what you said before? How following your orders was gonna let me bag more aradama\! You think running away'll make that happen?  
 **Kofuki:** I got it, how about this. Your way vs my way, we'll have a little competition to see who can kill the most aradama.  
-**Mirja:** Competition? Do you realize what kind of situation we're in\!?  
+**Mirja:** Competition? Do you realize what kind of situation we're in\!\?  
 **Kofuki:** I'll beat aradama how I want. And you can do your own thing. If you actually get more aradama than me, I'll do whatever you say\!  
 **Mirja:** Wait\! Stay in formation\!  
 **Mihono:** Pant, pant... Th-This is looking pretty tough... I'm losing focus after fighting back to back...  
@@ -67,15 +63,15 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **Mirja:** (Our coordination is in shambles... If only I could keep them in order...)  
 **Chie:** No matter how many we defeat, there's still more\! There's no end to them...\!  
 **Kiyoka:** Another bunch of aradama are headed this way\!  
-**Mihono:** When did we get surrounded\!?  
+**Mihono:** When did we get surrounded\!\?  
 **Chie:** Ugh...\!  
 **Mihono:** Chii-nee\!\!  
 **Chie:** I'm fine... Your onee-chan will take care of you.  
 **Mirja:** (There's a limit to what Setouchi Chie and I can accomplish. At this rate, we'll be overrun...\!)  
-**Mirja:** ...\!? Was that a gunshot...?  
+**Mirja:** ...\!\? Was that a gunshot...?  
 **???:** Allied forces sighted\! Providing backup\!  
 **???:** I'll hold it down, so the rest is up to you, onee-chan\!  
-**Mirja:** (The aradama is wrapped in wires... Stopping its movement\!?)  
+**Mirja:** (The aradama is wrapped in wires... Stopping its movement\!\?)  
 **???:** Leave it to me-\! I'll show you my girl power\! Teryaaaa\!  
 **???:** I chopped its legs off at least\! Even these black things shouldn't be able to move after that\!  
 **???:** Onee-chan, your girl power is just physics, isn't it...  
@@ -95,12 +91,12 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **???:** You there-\! We're here to help\~\~\!  
 **Kanami:** Eh?  
 **???:** Hero\! PUUUUUUNCH\!\!  
-**Kanami:** Sh-She punched... An aradama\!? Wh... What's she thinking?  
+**Kanami:** Sh-She punched... An aradama\!\? Wh... What's she thinking?  
 **Sayaka:** But that punch, it affected the aradama...  
 **???:** Yuuna, don't turn your back on your opponent after just one hit\! Watch and learn the way a full fledged Hero fights\! Haah-\! Teyaa-\!\!  
 **Mai:** That girl over there, is she using okatana...? Is she a toji?  
 **Kanami:** Ah, watch out\! There's another aradama behind you\!  
-**???:** --\!?  
+**???:** --\!\?  
 **???:** You too, Nibosshi\~. You can't be so careless\~.  
 **???:** I... I was showing them my back on purpose, to lure them in. But, uh, thanks, Sonoko.  
 **???:** You're very welcome\~. I'm glad you're safe, Nibosshi.  
@@ -109,12 +105,12 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **???:** Um, everyone\! We'll help you out, so let's finish them off\!  
 **Kanami:** Okay\! Thanks\!  
 **Mai:** Phew... I think we managed to take care of all the aradama.  
-**Kanami:** Hey, you\! How do you jump around all crazy like that? Is that outfit some kind of new Storm Armor or something\!?  
-**Kanami:** Are you a toji who uses martial arts, like in Taisha-Ryu\!? Ah, but you don't have an okatana, do you...  
+**Kanami:** Hey, you\! How do you jump around all crazy like that? Is that outfit some kind of new Storm Armor or something\!\?  
+**Kanami:** Are you a toji who uses martial arts, like in Taisha-Ryu\!\? Ah, but you don't have an okatana, do you...  
 **???:** Storm Armor...? Toji?  
-**Kanami:** Ah, what's the names of those okatana you have\!? What school of fighting did you learn? From what I saw before, it looked like you were using some changquan from Chinese martial arts to close the distance for your swordfighting, right\!  
+**Kanami:** Ah, what's the names of those okatana you have\!\? What school of fighting did you learn? From what I saw before, it looked like you were using some changquan from Chinese martial arts to close the distance for your swordfighting, right\!  
 **???:** Uh, as for my school, I...  
-**Kanami:** Is your spear some kind of okatana too\!? The tip is a weird shape, isn't it\! It looks like you fight differently than with a normal spear, don't you...\!  
+**Kanami:** Is your spear some kind of okatana too\!\? The tip is a weird shape, isn't it\! It looks like you fight differently than with a normal spear, don't you...\!  
 **???:** Wow\~, you're awfully friendly\~.  
 **Mai:** Kanami-chan, stop\! You're overwhelming them.  
 **Kanami:** Ah, I'm so sorry\! I just...  
@@ -136,7 +132,7 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **Sonoko:** So you do know. Then, an unknown power and unknown enemies... It's as if... Eureka\! I've got an idea\!  
 **Yuuna:** What's up? Did you figure something out, Sono-chan?  
 **Sonoko:** I think this is... The union of two parallel worlds\~\!  
-**Kanami/Yuuna:** Parallel worlds\!?  
+**Kanami/Yuuna:** Parallel worlds\!\?  
 **Sonoko:** Let's see, making things clearer for the toji people\~... First off, this is a special place called the Jukai\~.  
 **Sonoko:** In the Jukai is where we Heroes fight the Vertex, but I think you toji and those aradama were pulled in from a parallel world.  
 **Karin:** I'm not really sure I believe that, but... At times like these your first instincts are usually pretty on point...  
@@ -173,7 +169,7 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **Yuuna:** When we transform into Heroes, we get this awesome power\! We can jump like whoosh, and beat big monsters with a punch, like wham\!  
 **Kanami:** I couldn't believe it when I saw you punch that aradama. What style of martial arts is that?  
 **Yuuna:** Uhhh\~, it's the Hero Punch\!  
-**Kanami:** There's a hero style martial arts\!?  
+**Kanami:** There's a hero style martial arts\!\?  
 **Yuuna:** Umm, my dad taught me self defense, but I don't really know about actual fighting styles.  
 **Mai:** I wonder how we're meant to get back to our world. We can't stay here for too long...  
 **Sonoko:** Since Shinju-sama's goal is retrieving the divinity from aradama, once it's satisfied, I'm sure it will return you and the aradama back to your own world\~.  
@@ -217,7 +213,7 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **Mihono:** I'm a second year middle schooler at Minoseki Academy--  
 **Mirja:** (I'm not entirely convinced we can trust them yet... But from what Etou Kanami-san had to say, we may be able to join forces for the time being.)  
 **Mirja:** (If that's the case, there's no need to maintain this level of needless hostility...)  
-**Kanami:** --\!? Another bunch of aradama are here\!  
+**Kanami:** --\!\? Another bunch of aradama are here\!  
 **Karin:** Doesn't seem like we have much free time to spend getting to know each other\! Let's get rid of them first\!  
 **Kofuki:** This place might actually be heaven, to keep running into hordes of aradama-chan like this\! Hahaha\!  
 **Mirja:** Shichinosato Kofuki\! She's going off on her own again--  
@@ -350,7 +346,7 @@ Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 **Kofuki:** H-Hey, it doesn't work like that\!  
 **Kanami:** Huh? The Jukai, it's...  
 **Sonoko:** Ah, it seems like you've defeated enough aradama, so Shinju-sama is satisfied enough to let you toji people return home\~.  
-**Kanami:** Eh\!? Just like that\!? I wanted to hang around with Yuuna-chan and Tougou-san longer at least\!  
+**Kanami:** Eh\!\? Just like that\!\? I wanted to hang around with Yuuna-chan and Tougou-san longer at least\!  
 **Kanami:** And I wanted to have a practice fight with Karin-chan and Fuu-san, and I wanted to get to know Sonoko-chan and Itsuki-chan a little better...  
 **Sonoko:** I'm sad to hear it too... But the gods don't give preference to people's circumstances.  
 **Yuuna:** Still, I'm glad. This means Kanami-chan and the rest get to go back to their home world now.  

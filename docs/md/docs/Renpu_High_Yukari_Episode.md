@@ -35,7 +35,7 @@ After school that day.
 **Yukari:** Minato, you came out here to skip practice again...  
 **Minato:** Sorry about that, Yukari. I'll try extra hard in practice starting tomorrow, so give everyone my regards\~\!  
 **Yukari:** Wait. If you won't be coming to practice, I'll do self-training at my household too, so let's leave together.  
-**Minato:** Eh-- You will\!?  
+**Minato:** Eh-- You will\!\?  
 **Kagari:** What's going on, Yukari-sama? You're skipping practice along with Minato-senpai?  
 **Yukari:** There's no real reason for it. I just thought it would be nice for us to walk home together for once. Come on, Kagari, Minato. Let's go.  
 **Kagari:** There's something strange about Yukari-sama today, isn't there?  

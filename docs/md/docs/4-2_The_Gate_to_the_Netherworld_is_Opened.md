@@ -1,24 +1,20 @@
 
 4-2 The Gate to the Netherworld is Opened
 =========================================
+https://www.youtube.com/watch?v=vTPBxanrVa4
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/vTPBxanrVa4" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The Aradama of the Netherworld (1)
 **Mihono:** --Ah\! There they are\! It's Kanami\!  
 **Kiyoka:** We finally found them... But, what matters is, where's Juujou-san...?  
-**Chie:** -\!? That's--  
-**Chie:** Tagitsuhime\!?  
+**Chie:** -\!\? That's--  
+**Chie:** Tagitsuhime\!\?  
 **Tagitsu:** ...At last. At last, the gate to the netherworld can be opened.  
-**Kaoru:** -\!? Oi, look up\! Something crazy's happening to the sky\!  
+**Kaoru:** -\!\? Oi, look up\! Something crazy's happening to the sky\!  
 **Mai:** The sky is splitting open...  
 **Sayaka:** That's... the gate to the netherworld...?  
-**Ellen:** Wh-What do we do about that\!?  
+**Ellen:** Wh-What do we do about that\!\?  
 **Kanami:** ...Tagitsuhime\!\! Give Hiyori-chan back\!\!  
 **Tagitsu:** --Hmph. Having achieved my goal, I need nothing more from you.  
 **Yukari:** Grh... She teleported using the leyline...\!\!  
@@ -27,7 +23,7 @@
 **Maki:** I don't know either, but it doesn't look like it could be anything good.  
 **Yume:** Hey, hey. Are you seeing this black stuff like snow that's falling down?  
 **Suzuka:** Black snow...? What is it--  
-**Maki:** -\!? This isn't snow\! ...It's aradama\!\!  
+**Maki:** -\!\? This isn't snow\! ...It's aradama\!\!  
 **Aradama:** SHAAAAAAAAA\!  
 **Yume:** The snow on the ground is bunching up and turning into aradama\! What the heck\!  
 **Maki:** Here they come\! Suzuka\! Yume\! Be ready\!  
@@ -54,7 +50,7 @@
 **Tagitsu:** I said to leave. There is nothing more for you to do.  
 **Yukina:** Wh-What are you saying...? I have been nothing but loyal to you--  
 **Yui:** ......  
-**Yukina:** Wha...\! Y-You brats, who do you think you're pointing those okatana at\!?  
+**Yukina:** Wha...\! Y-You brats, who do you think you're pointing those okatana at\!\?  
 **Hana:** President Takatsu, didn't you hear her? Tagitsuhime-sama told you to leave.  
 **Hana:** You don't have to worry. We, the imperial guard, will make sure Tagitsuhime-sama is protected from now on.  
 **Tagitsuhime:** ...Hmph.  
@@ -83,7 +79,7 @@
 **Kofuki:** Huhh? You making fun of me?  
 **Mirja:** No, I mean it as a compliment. Being able to keep your feelings focused at a time like this is a valuable skill.  
 **Yui:** Ahh-\! It's the girls from the investigation team-\! Hooray\!  
-**Mihono:** Yui...\!?  
+**Mihono:** Yui...\!\?  
 
 ## 5: Unexpected Assault (1)
 **Yui:** Has everyone in the investigation team been doing okay-?  
@@ -106,18 +102,18 @@
 **Hana:** Gh...\!\! The investigation team is definitely tough...\!\!  
 **Yui:** This is bad, Hana-san. I'm all out of the strengthening drugs... Maybe we should pull back for now--  
 **???:** GGAAAAAAAAOO\!\!  
-**Kiyoka:** Kyaa-\!\! Wh-What was that, that horrible roaring sound\!?  
+**Kiyoka:** Kyaa-\!\! Wh-What was that, that horrible roaring sound\!\?  
 **Kofuki:** --Oi\! Look over there\! Behind the imperial guards\! That aradama that just appeared is so huge it's unreal\!  
 **Great Aradama:** GUGAAAAA\!\!  
-**Chie:** This is bad...\!\! That's... a great aradama\!?  
-**Kiyoka:** Wh-What should we do\!? Thankfully, the people living here have finished evacuating, but...  
+**Chie:** This is bad...\!\! That's... a great aradama\!\?  
+**Kiyoka:** Wh-What should we do\!\? Thankfully, the people living here have finished evacuating, but...  
 **Mirja:** Right now, it's in our best interests to avoid fighting that aradama\! We're retreating for now\! We'll revise our strategy\!  
-**Kiyoka:** Kyaa\!\! That great aradama, it's heading this way scarily fast\!?  
+**Kiyoka:** Kyaa\!\! That great aradama, it's heading this way scarily fast\!\?  
 **Imperial Guard A:** Wh-What do we do...  
 **Imperial Guard B:** Nobody said something like that would show up... Tagitsuhime-sama...  
 **Great Aradama:** --GGGOOOOOOUUU\!\!  
 **Yui:** Ngghh...\!\! It hits so hard...\!\!  
-**Mihono:** Yui\!?  
+**Mihono:** Yui\!\?  
 **Hana:** Grh-\!\! ...There's nothing we can do\! Imperial guard, retreat\! We're leaving, Yui\!  
 **Yui:** But, if I can beat this thing, then all that noro...\!  
 **Great Aradama:** GGGAAAAAA\!\!  
@@ -128,8 +124,8 @@
 **Kiyoka:** --NOOOOOO\!\!  
 
 ## 7: Awakening (1)
-**Chie:** Yui-chan\!? This can't be happening\!? Say something\!\!  
-**Kofuki:** Yui\!\! Get up already\!\! You want to get run over\!?  
+**Chie:** Yui-chan\!\? This can't be happening\!\? Say something\!\!  
+**Kofuki:** Yui\!\! Get up already\!\! You want to get run over\!\?  
 **Kiyoka:** It's no use\!\! She's completely lost consciousness\!\!  
 **Mihono:** We have to-- We have to save Yui, fast\!\!  
 **Great Aradama:** GGGAAAAOOO\!\!  
@@ -150,15 +146,15 @@
 **Mirja:** I can hardly believe my eyes. She brought down that great aradama...\!\!  
 **Kiyoka:** Yui-chan-- I think she's just unconscious\! Please call a rescue team, quickly\!  
 **Kofuki:** I don't really get it, but it looks like we're saved...  
-**Kofuki:** --\!? Mihocchi\! Watch out\!  
-**Mihono:** Wagh\!? What now-\!?  
+**Kofuki:** --\!\? Mihocchi\! Watch out\!  
+**Mihono:** Wagh\!\? What now-\!\?  
 **Mirja:** ...Tagitsuhime\!\!  
 **Tagitsuhime:** I see... I had thought I sensed a strange presence... Was it you toji then?  
-**Chie:** Why is she here\!?  
+**Chie:** Why is she here\!\?  
 **Mihono:** I-I don't know, but this is our best chance\! We have to make her give back Juujou-san\!  
-**Chie:** Mihono-chan\!?  
+**Chie:** Mihono-chan\!\?  
 **Mihono:** Don't worry, Chii-nee\! Right now, I feel like I could take on anything\! HAAAAAA-\!\!  
-**Mihono:** --Huh? She dodged it\!?  
+**Mihono:** --Huh? She dodged it\!\?  
 **Tagitsuhime:** ...Heh.  
 **Mihono:** Urgh\!\!  
 **Tagitsuhime:** It seems my concern for that strangeness was misplaced. None of you are a threat to me after all.  
@@ -201,7 +197,7 @@ Elsewhere, at that time--
 **Mirja:** Yes, I have it on hand. Our conversation was cut off, so I never had the chance to ask you, what is in this ampoule?  
 **Yuzuki:** .........To put it simply, you could think of it as... a cure for the imperial guard's strengthening drugs.  
 **Yuzuki:** If you apply that to Yamashiro Yui, it should be capable of dispelling the brainwashing effect Tagitsuhime has on her.  
-**Kiyoka:** Will it really\!?  
+**Kiyoka:** Will it really\!\?  
 **Yuzuki:** However, it comes with its own risk. And a grave risk at that. The truth is, that ampoule belonged to the elite guard...  
 **Yuzuki:** It's the strengthening drug once used by Shidou and Konohana.  
 
@@ -225,10 +221,10 @@ Elsewhere, at that time--
 **Mihono:** Yeah, okay. I think--  
 **Yui:** ......Wait\!  
 **Mihono:** Ah, Yui...  
-**Mirja:** --Yamashiro Yui\! What are you doing\!?  
+**Mirja:** --Yamashiro Yui\! What are you doing\!\?  
 **Yui:** --UAAAAGGHH\!\! RGHHGH\!\!  
 **Yui:** AGH... AHHH... GGH, MY B-BODY... AGHH, IT'S BURNING...\!\!  
-**Mirja:** Why would you be so reckless...\!? That's the strengthening drug for the elite guard, you know\!\!  
+**Mirja:** Why would you be so reckless...\!\? That's the strengthening drug for the elite guard, you know\!\!  
 **Yui:** ...I, I heard, everything... you said...\!\!  
 **Yui:** But, there's something... I have to do\!  
 **Yui:** With me, like that, Miku would never... be happy\!\!  

@@ -7,7 +7,7 @@ https://youtu.be/Q1oMmLbcCeg
 
 ## 1: The Hero Club's Udon Trip
 **TV Reporter:** Now then, for today's feature... Here\! It's Japan's big three udon\!  
-**Fuu:** Big three udon...\!?  
+**Fuu:** Big three udon...\!\?  
 **Fuu:** There's no time to waste\!\!  
 **Fuu:** I want to go eat the big three udon\!  
 **Fuu:** For that cause, since Konohana-san was busy with work, I had Satsuki-san come in her place\!  
@@ -23,7 +23,7 @@ https://youtu.be/Q1oMmLbcCeg
 **Fuu:** That's our udon alright\! So then, let's start by having some Sanuki udon\!  
 **Yomi:** I've procured enough udon for all of you from a local shop famous for their Sanuki udon. Here you are.  
 **Heroes:** Let's give it a try-\!  
-**Fuu:** [slurrrp]...\!? It's...  
+**Fuu:** [slurrrp]...\!\? It's...  
 **Karin:** It's good, but... Something's different, isn't it?  
 **Sonoko:** I think it doesn't have enough body to it\~?  
 **Yomi:** I think the udon here is plenty delicious, though it may have lost some flavor compared to what you might find in its place of origin.  
@@ -50,7 +50,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Sonoko:** I do I do\~.  
 **Ellen:** Oh\! Is it alright for me to have some botamochi too?  
 **Ellen:** [chew chew]... Mmm, it's delicious\!  
-**Tougou:** That golden colored hair, those blue eyes, and... That well pronounced English\! Are you perhaps a "westerner"\!?  
+**Tougou:** That golden colored hair, those blue eyes, and... That well pronounced English\! Are you perhaps a "westerner"\!\?  
 **Ellen:** My mama is American. I'm Kohagura Ellen, a first year at Osafune Girls' Academy\!  
 **Ellen:** I wanted to spend some time with you Heroes, so I'm tagging along on the udon tour\! Let's have some fun today\!  
 **Tougou:** An American wants to try udon...?  
@@ -72,7 +72,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Yuuna:** If the store closes before noon, then I'm really looking forward to it\!  
 **Sonoko:** Come on, let's go, Gunma\!  
 **Hiyori:** From the map she gave me, it should be just ahead... Nn? That's weird; it's closed.  
-**Itsuki:** There's a sign up. "As we can't restock, the store is temporarily closed"... Ehh\!?  
+**Itsuki:** There's a sign up. "As we can't restock, the store is temporarily closed"... Ehh\!\?  
 **Ellen:** You say there's... an aradama infestation at the local spring?  
 **Mizusawa Udon Seller:** That's right...  
 **Hiyori:** Without being able to get your usual springwater, you can't open shop then, can you...  
@@ -91,7 +91,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Yuuna:** Alriiight\! Let's go stop those aradama\! We're going to have that Mizusawa udon for sure-\!  
 **Heroes:** Yeah-\!  
 **Ellen:** You Heroes sure do love udon, don't you. Is there some special reason for that?  
-**Ellen:** Don't tell me, is udon the source of your hero power\!?  
+**Ellen:** Don't tell me, is udon the source of your hero power\!\?  
 **Fuu:** That's not completely off the mark, in the sense that we grew up eating udon...  
 **Fuu:** The source of our hero power... That would be udon and the girl power hidden deep in our hearts\!  
 **Tougou:** It's Fuu-senpai's pet theory that udon will raise your girl power.  
@@ -149,9 +149,9 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Tougou:** Fufu, something like that wouldn't happen twice in a row.  
 **Yomi:** Hello. We have a reservation, under Satsuki.  
 **Inaniwa Udon Restaurant Clerk:** You must be Miss Satsuki then. I apologize, but... Speaking honestly, it seems aradama have appeared along our transport route, and we've been unable to restock...  
-**Karin:** Ehhh\!? This again\!?  
+**Karin:** Ehhh\!\? This again\!\?  
 **Fuu:** Geez, this is all your fault, Karin. You had to go and put up that weird flag.  
-**Karin:** What do you mean, flag\!?  
+**Karin:** What do you mean, flag\!\?  
 **Itsuki:** Still... Why are all these udon related places being affected by aradama?  
 **Fuu:** The aradama just don't understand the deliciousness of udon... That's why they're making trouble for anyone selling it\!  
 **Sonoko:** The enemies that come out in our world, the vertex, I've heard they'll completely ignore a bowl of udon too\~.  
@@ -166,13 +166,13 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Itsuki:** We're on a straight trip, so it was bound to happen.  
 **Hiyori:** Come to think of it, I haven't seen Satsuki Yomi for a while.  
 **Ellen:** Oh, really? Where could she have gone off to?  
-**Yomi:** Did she get lost\!? That's dangerous; we have to go look for her\!  
+**Yomi:** Did she get lost\!\? That's dangerous; we have to go look for her\!  
 **Hiyori:** Satsuki Yomi is a member of the elite guard. I don't think we need to worry about her at all...  
 **Fuu:** My girl power is calling out to me...  
 **Karin:** That's just your stomach growling.  
 **Yuuna:** But, aren't you feeling hungry by now?  
 **Yomi:** In that case, have some omusubi.  
-**Hiyori:** Satsuki Yomi\!?  
+**Hiyori:** Satsuki Yomi\!\?  
 **Ellen:** Where did you go?  
 **Yomi:** I thought you would all be hungry on this lengthy mission, so while suppressing the aradama, I stopped to procure us food. I bought them somewhere I regularly get omusubi from.  
 **Sonoko:** These are\! Such nice omusubi\! The rice is glistening\~\!  
@@ -193,8 +193,8 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Itsuki:** I don't think that's right, Onee-chan...  
 **Karin:** Each of the big three udon tasted good, didn't they.  
 **Yomi:** About that... Sanuki and Inaniwa are considered staples of the big three, but there are actually many candidates for the third position.  
-**Fuu:** Eh\!?  
-**Yuuna:** If there's that many candidates, that means there's that many kinds of tasty udon\!? Nnn, I want to try them\!  
+**Fuu:** Eh\!\?  
+**Yuuna:** If there's that many candidates, that means there's that many kinds of tasty udon\!\? Nnn, I want to try them\!  
 **Itsuki:** But, after today, we're all full...  
 **Fuu:** Okay-, after we get back to Kamakura, we can look up other big three udon candidates and start preparing for our next udon tour\!  
 **Heroes:** Yeah-\!  
@@ -212,7 +212,7 @@ https://youtu.be/Vm_3KVXqxvE
 **Hiyori:** As always... You act the same towards everyone when swordfighting is involved. Well, that's how you are.  
 **Kanami:** I mean, she can dual wield, can't she? Yukari-sama and Shichinosato-san can do it too, but it's not something you get to see all that often, is it?  
 **Sonoko:** Nibosshi, you get along with her without fighting, okay-? Also, here's 500 yen for snacks.  
-**Karin:** Am I going on a field trip\!? What if they think us Heroes can't take things seriously\!  
+**Karin:** Am I going on a field trip\!\? What if they think us Heroes can't take things seriously\!  
 **Sonoko:** For your snacks-- Don't you think it would be best to re-energize with some sugar when you get a break? And also, Niboshi don't count as snacks, so don't worry about that\~.  
 **Karin:** Of course they don't. Niboshi form a complete diet.  
 **Hiyori:** (...Niboshi? Niboshi, huh.)  
@@ -253,8 +253,8 @@ https://youtu.be/Vm_3KVXqxvE
 **Karin:** Alright. We should rehydrate now, while we have the opportunity.  
 **Hiyori:** Good idea. [gulp gulp]...  
 **Karin:** I'll take some supplements too...  
-**Hiyori:** \!?  
-**Hiyori:** (Just how many does she have\!?)  
+**Hiyori:** \!\?  
+**Hiyori:** (Just how many does she have\!\?)  
 **Hiyori:** ...Hey, why are you taking so many supplements?  
 **Karin:** It's a part of keeping my body in healthy condition, of course. If I were getting sick often, I wouldn't be able to function as a Hero.  
 **Hiyori:** You have a point, but can't you get the nutrition you need from proper meals?  
@@ -328,8 +328,8 @@ https://youtu.be/H9uezyeVchU
 **Itsuki:** Come on, Onee-chan. You're letting it go to your head.  
 **Kiyoka:** Fuu-san\!  
 **Fuu:** Ah, sorry for getting caught up in the moment.  
-**Kiyoka:** I... I want to learn to be as feminine as you are, Fuu-san\! Could I ask you to give me special training to raise my girl power...\!?  
-**Itsuki:** Ehh...\!? Um, Kiyoka-san... I think it would be best if you didn't go there. About Oee-chan's... girl power...  
+**Kiyoka:** I... I want to learn to be as feminine as you are, Fuu-san\! Could I ask you to give me special training to raise my girl power...\!\?  
+**Itsuki:** Ehh...\!\? Um, Kiyoka-san... I think it would be best if you didn't go there. About Oee-chan's... girl power...  
 **Fuu:** I hear your request loud and clear. I don't know how long it will take, but I'll do all I can to help boost your girl power, Kiyoka\!  
 **Kiyoka:** Ah, thank you very much... Fuu-san\!  
 **Fuu:** The road to improving your girl power is steep and perilous. We'll start your training straight away, Kiyoka\!  
@@ -340,18 +340,18 @@ https://youtu.be/H9uezyeVchU
 **Tougou:** Hey, Itsuki-chan? We just ate a little while ago, so why are Fuu-senpai and Kiyoka-chan sitting in front of bowls of udon?  
 **Itsuki:** That's because...  
 **Fuu:** There's lots of things that can boost your girl power, like practicing cooking and stuff, but the most effective method is udon\!  
-**Kiyoka:** Udon\!?  
+**Kiyoka:** Udon\!\?  
 **Fuu:** That's right. Udon is packed with all the ingredients you need for girl power\! And-, with enough girl power, you can do anything-\!  
 **Kiyoka:** I-I got it\!  
 **Kiyoka:** (I don't exactly understand... why eating udon is meant to make you more feminine. But I just have to have faith in Fuu-san for now.)  
 **Fuu:** Now, eat up the udon that's loved by all across the nation, and raise up your girl power\!  
-**Kiyoka:** Udon is loved on that kind of level in the world you came from\!?  
+**Kiyoka:** Udon is loved on that kind of level in the world you came from\!\?  
 **Fuu:** Sure; udon is at the very tip top of gourmet food. Come on, while it's still hot\!  
 **Kiyoka:** I-I'll give it a try...\!  
 **Fuu:** [chew chew]... Even in this world, udon's still the best\! ...It's filling me up\!  
 **Kiyoka:** Yes... It's very tasty, isn't it\!  
 **Fuu:** I think I'll just keep going on into seconds...?  
-**Kiyoka:** [chew chew]... A-Already\!? I-I have to... try harder too-\!  
+**Kiyoka:** [chew chew]... A-Already\!\? I-I have to... try harder too-\!  
 **Tougou:** Ahh... You can't do that, Kiyoka-chan. If you try to have as many helpings as Fuu-senpai...  
 **Fuu:** Thank you for coming along to the Inubouzaki Fuu-style Girl Power Boosting Special Training.  
 **Kiyoka:** I'm sorry, but... Fuu-san? We ate udon and then exercised together, but I don't feel like I've gotten any more girl power yet...  
@@ -374,7 +374,7 @@ https://youtu.be/H9uezyeVchU
 **Fuu:** You can't deny you're the one who defeated all those aradama today, can you?  
 **Kiyoka:** Somehow, I just felt a little less hesitant today with my swordsmanship.  
 **Fuu:** Fu fu fu, don't you get it? That's the proof of your girl power.  
-**Kiyoka:** It is\!?  
+**Kiyoka:** It is\!\?  
 **Fuu:** Yep. Now that your girl power's gone up, I'm sure you won't lose to any aradama. Be confident in yourself, Kiyoka.  
 **Fuu:** A girl full of confidence is the strongest there is.  
 **Kiyoka:** Now that you mention it, attractive girls always seem to have a lot of confidence, don't they.  

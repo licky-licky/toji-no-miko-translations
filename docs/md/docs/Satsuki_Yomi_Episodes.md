@@ -1,27 +1,15 @@
 
 Satsuki Yomi Episodes
 =====================
+https://www.youtube.com/watch?v=igT7W2V1B5M
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/igT7W2V1B5M" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
+https://www.youtube.com/watch?v=JQrHdhn4Raw
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/JQrHdhn4Raw" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
+https://www.youtube.com/watch?v=SNBCw7znJRI
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/SNBCw7znJRI" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/jdKVXQRmnJ0
 
   
@@ -91,7 +79,7 @@ https://youtu.be/x09jCgS9Qss
 **Maki:** Oi, Yume. If you have nothing better to do, then go to bed.  
 **Yume:** Now you're being mean\~\! I was just waiting to see if you needed help with anything\!  
 **Maki:** Or because you're too excited after fighting and now you can't sleep. That's the problem with ki-...  
-**Yume:** Ah\~\! And now you're treating me like a kid again\! Right\!? Suzuka onee-san\! Maki onee-san was about to say kids, wasn't she\!  
+**Yume:** Ah\~\! And now you're treating me like a kid again\! Right\!\? Suzuka onee-san\! Maki onee-san was about to say kids, wasn't she\!  
 **Yomi:** Excuse me...  
 **Suzuka:** A-Ara, Yomi\! Did you bring us tea?  
 **Yomi:** Yes. To clear your tension after sortieing, I prepared a chamomile blend tonight.  
@@ -121,7 +109,7 @@ https://youtu.be/x09jCgS9Qss
 *Yomi comes by and Yume jumps out*
 
   
-**Yume:** "ANY CRYBABIES 'ROUND HERE-\!\!"  
+**Yume:** "ANY CRYBABIES 'ROUND HERE-\!\!\"  
 **Yomi:** -\!\! ............  
 **Yume:** ...Gotcha\~\! Yomi onee-san, were you scared? You were scared, weren't you?  
 **Yomi:** ............  
@@ -130,13 +118,13 @@ https://youtu.be/x09jCgS9Qss
 **Maki:** What's wrong, Yume? What are you and Yomi up to?  
 **Yume:** Eh, uh, nothing. Well, umm...  
 **Yume:** I just heard somewhere that Yomi onee-san was scared of the Namahage, so uh, I was just wondering how scared she'd be, and...  
-**Maki:** Yomi's unconscious\!? Oi, Yomi\! Yomi\! Wake up\! Pull yourself together\! Yume\! What did you do\!?  
+**Maki:** Yomi's unconscious\!\? Oi, Yomi\! Yomi\! Wake up\! Pull yourself together\! Yume\! What did you do\!\?  
 **Maki:** DAMNIT, YUME\!\! YOU'VE REALLY DONE IT THIS TIME\!\!  
 **Yume:** Shorry\!  
 **Yomi:** Hya\!\! N-Namahage\!\! The Namahage's scolding Tsubakuro-san...\!  
 **Yomi:** U-Unn... ............  
 **Yume:** Ah... She passed out again. So you're the real Namahage here, Maki onee-san.  
-**Maki:** I-I wasn't that bad... Yomi\! Yomi\! I don't look that scary, do I...\!?  
+**Maki:** I-I wasn't that bad... Yomi\! Yomi\! I don't look that scary, do I...\!\?  
 
 ## 4: I Do Love Rice, After All
 **Yomi:** (munch munch... munch munch much...)  
@@ -160,7 +148,7 @@ https://youtu.be/x09jCgS9Qss
 **Yume:** O-Okay...  
 **Yomi:** Tsubakuro-san, would you like some omusubi as well? I'll share half of them with you. They're made from the delicious rice of Akita, where I was born.  
 **Yume:** Eh... I-I'm good for now. I'm not that hungry. Ahaha, I'll see you later-\!  
-**Yume:** (I think she had something like 20 of them there\!? Who could eat even 10 onigiri with just salt-\!? No way\! I couldn't even eat 10 onigiri period\!)  
+**Yume:** (I think she had something like 20 of them there\!\? Who could eat even 10 onigiri with just salt-\!\? No way\! I couldn't even eat 10 onigiri period\!)  
 *Yume runs off*
 
   
@@ -188,13 +176,9 @@ https://youtu.be/x09jCgS9Qss
 **Sayaka:** ...You don't have to ask me. That's my mission.  
 **Sayaka:** If that's all, then goodbye, Satsuki Yomi... Senpai.  
 **Yomi:** President Takatsu...  
+https://www.youtube.com/watch?v=JQrHdhn4Raw
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/JQrHdhn4Raw" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## [Bride Yomi: Start]: Undercover Investigation (Yomi's Case)
 **Yomi:** There was another person who had their ring stolen by aradama?  
@@ -209,7 +193,7 @@ https://youtu.be/x09jCgS9Qss
 **Yume:** A wedding dress\~\! I can't wait\~\!  
 **Yomi:** So this is the reason you proposed an undercover search.  
 **Yomi:** Very well. Then, please leave the aradama to me.  
-**Yume:** Why\!?  
+**Yume:** Why\!\?  
 **Yomi:** It's possible the aradama may not appear if you are holding an okatana.  
 **Yomi:** The decoy should focus entirely on luring out the aradama. The guard will take care of the rest.  
 **Yume:** I don't want to wear a wedding dress then\! You wear it, Yomi-onee-san\!  
@@ -248,7 +232,7 @@ https://youtu.be/x09jCgS9Qss
 **Yomi:** Ch-Cheese?  
 **Yume:** Hmm, you still aren't smiling right.  
 **Aradama:** GUOOOOOOO\!\!  
-**Yomi:** Ah\!? Tsubakuro-san\! The aradama\!  
+**Yomi:** Ah\!\? Tsubakuro-san\! The aradama\!  
 **Yume:** Oh, you're right. HAAAA\!\!  
 **Yume:** Huh, that was nothing.  
 **Yomi:** ...Tsubakuro-san, you weren't supposed to defeat it. Now we can't identify where the stolen ring was taken.  
@@ -257,18 +241,14 @@ https://youtu.be/x09jCgS9Qss
 **Yukari:** You did well on your assignment. ...Yomi?  
 **Yomi:** Yes?  
 **Yukari:** That wedding dress suited you.  
-**Yomi:** H-How did you... Tsubakuro-san\!?  
+**Yomi:** H-How did you... Tsubakuro-san\!\?  
 **Yume:** Ah, yep. I showed it around to everyone.  
 **Yomi:** B-By everyone, you mean...  
 **Yume:** Maki-onee-san, and Suzuka-onee-san\~.  
 **Yomi:** I should have firmly refused...  
+https://www.youtube.com/watch?v=SNBCw7znJRI
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/SNBCw7znJRI" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## [Ceremonial Dress - Misogi: Start]: Yomi's Weak Point
 **Tsugumi:** Are you ready to start?  
@@ -286,12 +266,12 @@ https://youtu.be/x09jCgS9Qss
 **Yomi:** Right.  
 **Tsugumi:** In that case, I'll send out the next one.  
 **Bull Type Aradama:** ......  
-**Yomi:** ...\!? A bull type...  
+**Yomi:** ...\!\? A bull type...  
 **Bull Type Aradama:** ROAAAAAAAAR\!  
 **Yomi:** Hya...  
 **Tsugumi:** Satsuki-san?  
 **Yomi:** Ah......  
-**Tsugumi:** Satsuki-san\!? What's wrong, Satsuki-san\!\!  
+**Tsugumi:** Satsuki-san\!\? What's wrong, Satsuki-san\!\!  
 **Bull Type Aradama:** GAAAAAAAAAA\!\!  
 **Yomi:** AAAAUGH\!\!  
 **Yomi:** ...Where am I? I remember, I was in the laboratory...  
@@ -328,7 +308,7 @@ https://youtu.be/x09jCgS9Qss
 **Yomi:** Yes, I felt that I would die there. However... Moments later, a platoon of toji from Renpu arrived, and I was safely rescued.  
 **Yume:** Right in the nick of time\! Do you know any of the girls who saved you?  
 **Yomi:** ...I only learned this later on, but the one directing that platoon was President Takatsu.  
-**Yume:** Really\!?  
+**Yume:** Really\!\?  
 **Yomi:** Yes. I want to repay her for that someday.  
 **Yume:** Repay her? Like how? By beating more aradama?  
 **Yomi:** ...Something like that.  
@@ -362,12 +342,12 @@ https://youtu.be/x09jCgS9Qss
 **Yume:** Way to go, Yomi-onee-san\! You dodged its attack\!  
 **Yomi:** ...It seems I'm growing used to my fear.  
 **Yume:** Think you can beat it?  
-**Yomi:** I'll try, but...\!?  
+**Yomi:** I'll try, but...\!\?  
 **Bull Type Aradama:** GUUUOOOOO\!\!  
 **Yomi:** (...I'm scared. My body won't stop shaking... This fear won't be erased so easily after all...)  
 **Yomi:** (Though... I did manage to stop its attack.)  
 **Bull Type Aradama:** OOUUUUUUU\!\!  
-**Yume:** Yomi-onee-san\!?  
+**Yume:** Yomi-onee-san\!\?  
 **Yomi:** (If I lose focus, I could be crushed... However, as I am now, I can stop these attacks...)  
 **Yomi:** [Inhale... Exhale...]  
 **Yomi:** ...HAA\!  
@@ -384,9 +364,9 @@ https://youtu.be/jdKVXQRmnJ0
 **Yomi:** You look very good in yours as well, Tsubakuro-san.  
 **Yume:** Don't I-? When I saw it, I thought, President Souraku knows her stuff\! My yukata's so cute\!  
 **Maki:** Yume.  
-**Yume:** Eh... Wah\!?  
+**Yume:** Eh... Wah\!\?  
 **Maki:** The crowd's thick. If you don't look where you're going, you'll bump into someone.  
-**Yume:** Actually, what's with this huge line\!?  
+**Yume:** Actually, what's with this huge line\!\?  
 **Suzuka:** Business is booming. What could it be for?  
 **Stall Managing Toji:** Ah, the elite guard, with Yukari-sama...\! This line is for our yakisoba.  
 **Yukari:** ...\!  
@@ -394,7 +374,7 @@ https://youtu.be/jdKVXQRmnJ0
 **Yukari:** I see.  
 **Yukari:** ......  
 **Yomi:** Yukari-sama... If you'd like some, I could stand in line for you?  
-**Stall Managing Toji:** Yukari-sama herself... Wants to try our yakisoba\!?  
+**Stall Managing Toji:** Yukari-sama herself... Wants to try our yakisoba\!\?  
 **Stall Managing Toji:** I-I'll bring you some straight away...\!  
 **Yukari:** ...No, stop. The two of you needn't concern yourselves with me.  
 **Yukari:** With all these people in line, I shouldn't be the only one to receive special treatment.  
@@ -423,7 +403,7 @@ https://youtu.be/jdKVXQRmnJ0
 **Yume:** I'll get a whole lot, so I'll give you some too, Suzuka-onee-san\!  
 **Suzuka:** Good. I'll look forward to it.  
 **Yomi:** Allow me to offer some advice before you attempt it. It's a common misconception, but it's actually harder for the scoop to be broken if you let it fully soak in the water.  
-**Yume:** Wait, really\!?  
+**Yume:** Wait, really\!\?  
 **Yomi:** If only a part of it is wet, it will break more easily. Also, I suggest not aiming for larger ones and many at once.  
 **Yume:** Thanks for the tips, Yomi-onee-san.  
 **Yomi:** You did it, Tsubakuro-san.  
@@ -444,7 +424,7 @@ https://youtu.be/jdKVXQRmnJ0
 **Yomi:** Understood. I'll go buy it, so please wait here for a moment.  
 **Yume:** I'll just go with you\!  
 **Yomi:** That reminds me, earlier, I saw an Ichigo Daifuku Neko mask in one of the stalls.  
-**Yume:** Wait, you did\!?  
+**Yume:** Wait, you did\!\?  
 **Yomi:** Should we go buy that first?  
 **Yume:** ...Isn't wearing masks sort of for kids-? I do like Ichigo Daifuku Neko though.  
 **Yomi:** Do you think so? I think it would be cute if you wore it, Tsubakuro-san.  
@@ -480,7 +460,7 @@ https://youtu.be/ZYwru7GiMV0
 **Akira:** ......  
 **Akira:** What're you talking about?  
 **Yomi:** You may not know about it, Akira, but valkyries were something that was part of Norse mythology--  
-**Akira:** It's not like I don't know what valkyries are...\! I'm asking, why're they making you dress up like that...\!?  
+**Akira:** It's not like I don't know what valkyries are...\! I'm asking, why're they making you dress up like that...\!\?  
 **Yomi:** That's what I'd like to know.  
 **Akira:** Yeah, I guess... The bureau does say to do some ridiculous stuff sometimes, huh.  
 **Akira:** ...Well, do what you can. Whatever you're buying here'll be my treat.  
@@ -495,7 +475,7 @@ https://youtu.be/ZYwru7GiMV0
 **Akira:** Cool; let me just put my bike away. Wait here a minute.  
 **Akira:** So, how'd that photo shoot turn out anyway?  
 **Yomi:** Like this.  
-**Akira:** Whoa-\!? The hell... You're looking way too cool in this.  
+**Akira:** Whoa-\!\? The hell... You're looking way too cool in this.  
 **Akira:** That sharp look on your face is great. It came out really damn nice.  
 **Yomi:** I didn't expect you to praise it so much.  
 **Akira:** Why not? Of course I would if it turned out this good.  
@@ -683,7 +663,7 @@ https://youtu.be/53qQY9kGizE
 **Yomi:** What's wrong?  
 **Akira:** Your hair... So what I heard's true after all...  
 **Yomi:** Word reached you quickly then.  
-**Akira:** Who gives a shit about that\! Are you... Are you seriously okay with this\!?  
+**Akira:** Who gives a shit about that\! Are you... Are you seriously okay with this\!\?  
 **Yomi:** I am.  
 **Akira:** --\!  
 **Akira:** ...You're so goddamn stupid. You're gonna make auntie cry, y'know?  
@@ -696,7 +676,7 @@ https://youtu.be/53qQY9kGizE
 **Yomi:** Is that so.  
 **Akira:** ...At least talk to me about these things.  
 **Yomi:** Even if I did, there would be no point to it.  
-**Akira:** Even if there's no point, you can still talk\! We're buddies, aren't we\!?  
+**Akira:** Even if there's no point, you can still talk\! We're buddies, aren't we\!\?  
 **Yomi:** ...  
 **Akira:** Say something, damnit\!  
 **Yomi:** I figured you would be angry with me.  
@@ -729,7 +709,7 @@ https://youtu.be/53qQY9kGizE
 **Yukina:** Then, begin the experiment\!  
 **Yomi:** HAAAAAHH\!\!  
 **Aradama:** OOOOOOO\!  
-**Yomi:** Kgh\!?  
+**Yomi:** Kgh\!\?  
 **Yukina:** What do you think you're doing\! You shouldn't be struggling against an aradama this weak\!  
 **Yomi:** Yes ma'am\!  
 **Yomi:** YAAAAAAAAAAAAA\!  
@@ -766,7 +746,7 @@ https://youtu.be/x09jCgS9Qss
 **Aradama:** OOOOOOOOOOOOOOOOO\!\!  
 **Yomi:** So they were here after all.  
 **Nanoha:** I'll support you, Yomi-san\! Bind\!   
-**Aradama:** GAAAAAAAA\!?  
+**Aradama:** GAAAAAAAA\!\?  
 **Yomi:** --\!  
 **Yomi:** Thank you for the assistance, Takamachi-san.  
 **Nanoha:** I'm just glad that I managed to help you out.  
@@ -777,7 +757,7 @@ https://youtu.be/x09jCgS9Qss
 **Yomi:** --\!\!  
 **Aradama:** GYAAAAAA...  
 **Yomi:** Phew...  
-**Nanoha:** Are you okay, Yomi-san\!?  
+**Nanoha:** Are you okay, Yomi-san\!\?  
 **Yomi:** I have utsushi. This isn't enough to be a problem.  
 **Nanoha:** ...Is it... always like this?  
 **Yomi:** What do you mean?  
@@ -815,7 +795,7 @@ https://youtu.be/x09jCgS9Qss
 **Yomi:** It's fine.  
 **Yomi:** I...  
 **Aradama:** OOOOOOOOOOOOOOOOOOOOOOOOOOOO\!\!  
-**Nanoha:** \!?  
+**Nanoha:** \!\?  
 **Yomi:** Watch out\!  
 **Yomi:** Grgh...\!  
 **Nanoha:** Yomi-san\!  

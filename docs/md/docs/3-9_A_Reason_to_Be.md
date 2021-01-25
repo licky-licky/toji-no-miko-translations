@@ -26,7 +26,7 @@ At that time, in Kashima's industrial district. Origami Yukari and Ichikishimahi
 **Yukari:** So they have.  
 **Imperial Guard C:** Origami Yukari\! You can give up now\!  
 **Yukari:** --Heh.  
-**Imperial Guard C:** Do you find this funny\!?  
+**Imperial Guard C:** Do you find this funny\!\?  
 **Yukari:** No... We just seem to have reinforcements of our own.  
 **Imperial Guard C:** Huh...?  
 **Imperial Guard C:** --Ahh\!\!  
@@ -59,7 +59,7 @@ While that was happening, in Kashima's industrial district, the three former eli
 **Maki:** ...No, there is someone. More than likely, she's the one leading the imperial guard right now--  
 **Suzuka:** Yes, just her.  
 **Maki:** I guess we now know why they're stalling us.  
-**Yume:** Those aradama... They're Yomi-onee-san's\!?  
+**Yume:** Those aradama... They're Yomi-onee-san's\!\?  
 **Maki:** That's right. But she doesn't seem to be here to greet us.  
 **Suzuka:** In that case, we can drag out Yomi-san after we finish with these.  
 
@@ -100,7 +100,7 @@ At that time, in Kashima's industrial district, Etou Kanami and the girls of Ich
 **Kanami:** ...Ayumu-chan?  
 **Ayumu:** I've been waiting so long for this\! For the day I could fight you\!  
 **Kanami:** Ayumu-chan...\!  
-**Hiyori:** Kanami\! Aren't you coming\!?  
+**Hiyori:** Kanami\! Aren't you coming\!\?  
 **Kanami:** --Sorry, Hiyori-chan\! Go ahead without me\!  
 **Hiyori:** ............Fine then.  
 **Ayumu:** Come on, let's fight, Etou-san\! A serious clash of our skills\!  
@@ -134,9 +134,9 @@ At that time, in Kashima's industrial district, Etou Kanami and the girls of Ich
 **Kanami:** (Because of the noro, she's not acting rationally...)  
 **Kanami:** ...Is this the strength you wanted, Ayumu-chan?  
 **Ayumu:** Yes\! The strength I got so I could fight you, Etou-san\!  
-**Ayumu:** I'm strong now, aren't I\!?  
+**Ayumu:** I'm strong now, aren't I\!\?  
 **Kanami:** ...Okay. Then I can't fight with you, Ayumu-chan.  
-**Ayumu:** ......\!? Why not\!?  
+**Ayumu:** ......\!\? Why not\!\?  
 **Kanami:** ...When we first met, when I found out how much you liked swordfighting too, I was really happy.  
 **Kanami:** I thought we could have fun getting stronger together.  
 **Ayumu:** Fun...? I don't understand what you're saying\!  
@@ -155,7 +155,7 @@ At that time, in Kashima's industrial district, Etou Kanami and the girls of Ich
 **Yomi:** ...I have no more of my life to give if I hope to defeat you.  
 **Yume:** You're serious about this, Yomi-onee-san.  
 **Yomi:** I am. Please come at me with the intent to kill. I will do the same.  
-**Suzuka:** --\!? You'd let the noro eat away at your body just to be strengthened by an aradama...\!?  
+**Suzuka:** --\!\? You'd let the noro eat away at your body just to be strengthened by an aradama...\!\?  
 **Maki:** Stop it, Yomi\! You can still come back from this\!  
 **Yomi:** What about you, Shidou-san? Will you be fine repressing the aradama in you?  
 **Maki:** I will\! Because I have people I can rely on more than aradama now\!  
@@ -198,7 +198,7 @@ At that time, in Kashima's industrial district, Etou Kanami and the girls of Ich
 **Yukari:** Fufu... So that's why. After twenty years, I understand at last.  
 **Mihono:** Huh? Uhhh, what are you...  
 **Yukari:** Asakura Mihono\!\! Get back\!\!  
-**Mihono:** Huh-\!?  
+**Mihono:** Huh-\!\?  
 **Tagitsu:** --Have you been well? I've longed to see you, Ichikishimahime.  
 **Mihono:** Tagitsuhime... And the imperial guard with her...\!\!  
 **Tagitsu:** Ichikishimahime, become mine. In doing so, I shall grant you meaning.  
@@ -220,7 +220,7 @@ At that time, in Kashima's industrial district, Etou Kanami and the girls of Ich
 **Yukari:** Good... That's it.  
 **Yukari:** Asakura Mihono, you run as well.  
 **Mihono:** --I won't.  
-**Yukari:** What...\!?  
+**Yukari:** What...\!\?  
 **Mihono:** Yukari-sama\!\! I'll stay with you... I'll fight\!\!  
 
 ## 15: Sword of the Thunder God (1)
@@ -228,8 +228,8 @@ At that time, only a short distance away from Kashima Shrine--
 
   
 **Ichikishima:** Juujou-- Hiyori.  
-**Hiyori:** --Huh\!?  
-**Hiyori:** You... You're Ichikishimahime\!? Why are you here, alone...  
+**Hiyori:** --Huh\!\?  
+**Hiyori:** You... You're Ichikishimahime\!\? Why are you here, alone...  
 **Ichikishima:** I want you to lend me your power.  
 **Ichikishima:** --No, I want to entrust my power to you.  
 **Hiyori:** Grh\!\!　Don't be ridiculous\!\! You're just another part of Tagitsuhime\!\!  
@@ -248,15 +248,15 @@ At that time, only a short distance away from Kashima Shrine--
 **Tagitsuhime:** Just a woman outliving her time. Even so, you were once my... No, nothing more than a broken vessel now.  
 **Yukari:** Ngh...\!\!  
 **Tagitsuhime:** Now then, it's time you died.  
-**Tagitsuhime:** ...\!?  
-**Yukari:** Takemikazuchi...? --It can't be\!?  
+**Tagitsuhime:** ...\!\?  
+**Yukari:** Takemikazuchi...? --It can't be\!\?  
 **Yukari:** Kogarasumaru... Juujou Hiyori...  
-**Mihono:** Juujou-san\!? Wait, that's Juujou-san\!?  
+**Mihono:** Juujou-san\!\? Wait, that's Juujou-san\!\?  
 **Tagitsuhime:** So you've found yourself a new vessel, Ichikishimahime...  
 **Tagitsuhime:** Then, I will draw back.  
 **Mihono:** Tagitsuhime... You scared her off, Juujou-san\!  
 **Hiyori:** --Don't come near me\!\!  
-**Mihono:** -\!? Wh-Why\!?  
+**Mihono:** -\!\? Wh-Why\!\?  
 **Hiyori:** Urgh... AGHHHHH\!\!  
 **Yukari:** This isn't good\!\! Juujou Hiyori doesn't have control over the aradama's power\!\!  
 **Hiyori:** Ugh... Ghrh... AAAGGHHH\!\!  
@@ -266,17 +266,17 @@ At that time, only a short distance away from Kashima Shrine--
 **Mihono:** Juujou-san... Does it hurt...?  
 **Yukari:** ...After using her power, she seems to have calmed down some. Though...  
 **Kanami:** --Hiyori-chaaaan\!\! Yukari-sama\!\!  
-**Mihono:** Kanami\!?  
+**Mihono:** Kanami\!\?  
 **Kanami:** Ah\! Mihono-chan, you're here too\!  
 **Kanami:** What's going on? What happened here? Ichikishimahime, where is she?  
-**Kanami:** --\!?  
-**Kanami:** H-Hiyori-chan...\!?  
+**Kanami:** --\!\?  
+**Kanami:** H-Hiyori-chan...\!\?  
 **Yukari:** ...The person before you is both Juujou Hiyori and Ichikishimahime.  
-**Kanami:** Huh\!?  
+**Kanami:** Huh\!\?  
 **Yukari:** Juujou Hiyori has absorbed the great aradama. The same as I once did.  
 **Hiyori:** AHHHHHHHHHHHHHHHHH\!\!  
 **Other:** The Source of the Lightning?  
-**Chie:** ...Did anyone else see that\!?  
+**Chie:** ...Did anyone else see that\!\?  
 **Mirja:** Yes... In the direction of Kashima Shrine... That was... Clearly not a natural phenomenon.  
 **Kofuki:** No way, with that bigass lightning strike. Must have had something to do with an aradama. And a big shot too.  
 **Mirja:** Then... Tagitsuhime? Still, why would such a massive lightning strike occur...  

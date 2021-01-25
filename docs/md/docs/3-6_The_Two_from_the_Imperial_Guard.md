@@ -30,13 +30,13 @@ https://youtu.be/5mRivqJnwWw
 **Mirja:** However, if Tagitsuhime is strengthened by the noro gathered by the imperial guard, a disaster similar to the one of 20 years ago could occur.  
 **Mirja:** To prevent that from happening, doesn't it seem clear we have no choice but to fight the imperial guard?  
 **Kiyoka:** ...I know. I know we have to, but--  
-**Mihono:** \!? Guys, over there\! The imperial guard are here\!\!  
+**Mihono:** \!\? Guys, over there\! The imperial guard are here\!\!  
 **Imperial Guard:** You all are the investigation team, aren't you? Give us that noro, without any resistance.  
 
 ## 3: Mirja's Concern (1)
 **Chie:** The imperial guard again...\!  
 **Imperial Guard A:** They've been talking about your investigation team. About how many times you've gotten in the way of our noro retreival.  
-**Imperial Guard B:** How utterly foolish\! Why can't you just understand the wonder of Tagitsuhime-sama\!?  
+**Imperial Guard B:** How utterly foolish\! Why can't you just understand the wonder of Tagitsuhime-sama\!\?  
 **Mihono:** I can't understand what doesn't make sense in the first place\! We're not giving you this noro\!  
 **Kiyoka:** ...People from the imperial guard. We're the ones who defeated the aradama this time. Can't you just give up on this noro...?  
 **Mirja:** Musumi Kiyoka, it's pointless. These are not people you can reason with.  
@@ -125,7 +125,7 @@ https://youtu.be/5mRivqJnwWw
 **Mihono:** Why don't we get something to eat before we wash off--  
 **Chie:** Everyone\! This is big\!  
 **Mirja:** Asakura Mihono, turn the television on right now\!  
-**Mihono:** Wh-What\!? Is Tagitsuhime doing another interview\!?  
+**Mihono:** Wh-What\!\? Is Tagitsuhime doing another interview\!\?  
 **Mirja:** Tagitsuhime hasn't appeared, but this is critical nonetheless\!  
 **Other:** State of Emergency  
 **Akane:** I heard what's going on\! Please let me know their status in full detail\!  

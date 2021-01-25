@@ -20,15 +20,15 @@ https://streamable.com/w12v21
 **Kaoru:** ...I've never traveled that cozy before in my life. First class is insane. I can't go back to the overnight bus after that...  
 **Nene:** Nee.  
 **Ellen:** I asked a friend and they set it up for us\!  
-**Nene:** Nenene\!?  
+**Nene:** Nenene\!\?  
 **Kaoru:** ...I never can tell what's up with your connections. So, what're we in Hokkaido for anyway?  
 **Ellen:** To make the world a better place-\!  
 **Kaoru:** .........Huh?  
-**Kaoru:** We're on vacation and there's still aradama-\!?  
+**Kaoru:** We're on vacation and there's still aradama-\!\?  
 **Ellen:** Kaoru-\! One's going your way\!  
 **Kaoru:** "One's going your way\~" Come on\! I only came with cause you said we were going on a trip to Hokkai... do\!\!  
 **Ellen:** And we are here in Hokkai... do\!  
-**Ellen:** Phew, that was the last of them now. Nene? Could you strike a pose there... like, "I beat the aradama\!"  
+**Ellen:** Phew, that was the last of them now. Nene? Could you strike a pose there... like, "I beat the aradama\!\"  
 **Nene:** Ne-\!  
 **Ellen:** That's perfect-\! You're looking cool, Nene\!  
 **Kaoru:** ...Is that a sketchbook? What're you doing now?  
@@ -105,8 +105,8 @@ https://streamable.com/nehhrm
 **Hiyori:** Huh?  
 **Hiyori:** ...B-By the way, just how much did it cost...?  
 **Ellen:** [whisper whisper whisper]...  
-**Hiyori:** Seriously\!?  
-**Kanami:** Uwah\!? Eh? How much was it\!?  
+**Hiyori:** Seriously\!\?  
+**Kanami:** Uwah\!\? Eh? How much was it\!\?  
 **Hiyori:** ...You're better off not knowing, Kanami. I'm picking something else, Ellen.  
 **Kaoru:** Was it really that much...?  
 **Kaoru:** I'm getting scared to actually pick one of these...  
@@ -146,7 +146,7 @@ https://streamable.com/nehhrm
 **Hiyori:** Nn? They have an ice cream stand? It's the middle of winter; there's some strange people out there...  
 **Hiyori:** That's--\!\!  
 **Kanami:** I'm back-... Wait, Hiyori-chan, why'd you get ice cream? And it's chocolate mint too...  
-**Hiyori:** Th-They were selling it, so what's wrong with that\!?  
+**Hiyori:** Th-They were selling it, so what's wrong with that\!\?  
 **Kanami:** Well, there's nothing wrong with it... Anyway, let's eat\!  
 **Kanami:** Mmm, it's hot and tasty\!  
 **Hiyori:** This chocolate mint is cool and tasty too.  
@@ -174,7 +174,7 @@ https://streamable.com/apxfpg
 **Kiyoka:** ...You don't have to come back, Yui-chan.  
 **Yui:** And so, I set out on my journey to search for cosplay\!  
 **Yui:** Just wait, Kiyoka-chan\! I'll make sure to find the very best cosplay for you\!  
-**Yui:** Hmh\!? My hot girl-dar is picking something up\! That's...  
+**Yui:** Hmh\!\? My hot girl-dar is picking something up\! That's...  
 **Aoto Hina:** ...  
 **Yui:** Heyyy\! Hina-saaan\! Where are you going-\!  
 **Hina:** Ah, Yui-chan\! Rare to see you around here.  
@@ -183,8 +183,8 @@ https://streamable.com/apxfpg
 **Hina:** ...Ah, i-is that why. I'm making a delivery to an important customer, so I don't think I'll be much help with that...  
 **Yui:** That's... a cool looking sword you have there. Ah, but, there's no edge to it... Is it a fake?  
 **Hina:** Yep; it's a prop for a movie they're shooting.  
-**Yui:** A MOVIE\!?  
-**Yui:** It all sorta just clicked for me\! Is it okay if I go along with you for that\!?  
+**Yui:** A MOVIE\!\?  
+**Yui:** It all sorta just clicked for me\! Is it okay if I go along with you for that\!\?  
 **Hina:** Probably, but... I'm going to check with them just to be sure, so give me a sec.  
 **Yui:** Okay\!  
 **Yui:** This is it--------\!\! Please give me these costumes\!\!  
@@ -211,7 +211,7 @@ https://streamable.com/apxfpg
 **Akira:** I put it on, 'cause you were saying I had to... Does this actually look any good on me?  
 **Yui:** You two look fantastic\! This is it, right here\! This is what I wanted to see\!  
 **Yui:** Ahh, it's too much, seriously too much... I'm about to get a nosebleed...  
-**Hina:** UWAH-\!? Not about to; there's blood pouring out\!? Here, c'mon and lie down here, before it gets on your costume\!  
+**Hina:** UWAH-\!\? Not about to; there's blood pouring out\!\? Here, c'mon and lie down here, before it gets on your costume\!  
 **Yui:** Th-Thank you very mush...  
 **Yui:** Ah, Hina-san's thighs... I could die happy laying on these...  
 **Hina:** Quit being silly; let's get your nosebleed to stop. Filming's going to start soon.  

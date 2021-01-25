@@ -11,7 +11,7 @@ https://youtu.be/eWywEJpKhaA
 **Minato:** Ehh-, then what about if I invite Yukari too? That way you'd have to come along with us. When should we go? Hey-, when do you have some free time?  
 **Kagari:** (Sigh, she always forces things to go her way... Honestly, why does she feel the need to involve herself in others' business like this?)  
 **Yukari:** Minato, I hate to tell you this, but we won't have any time to enjoy ourselves. Starting tomorrow, at Yuzuki-senpai's proposal, we of Renpu Senior High School's Unit One will be undergoing a training camp.  
-**Kagari:** A training camp\!?  
+**Kagari:** A training camp\!\?  
 The next day.
 
   
@@ -25,20 +25,20 @@ The next day.
 **Yukina:** Wouldn't it\~? Fufu, tonight I'll be sleeping in this, holding hands with Yukari-onee-sama\~. I can't wait\~\!  
 **Yukina:** Hiiragi-san, just so you know, the futon next to Yukari-onee-sama belongs to me\! I'm not letting you have it no matter what.  
 **Kagari:** Sigh... Sorry to spoil your fun, but Yukari-sama has said she will be sleeping in her own private room.  
-**Yukina:** What did you say\!? Don't tell me, you're the one who put Yukari-onee-sama up to this...  
+**Yukina:** What did you say\!\? Don't tell me, you're the one who put Yukari-onee-sama up to this...  
 **Kagari:** Yukari-sama decided upon it herself. And, I'll tell you just so you know, we aren't holding this training camp so you can amuse yourself.  
 **Yukina:** I don't need you to tell me that. Anyway, don't you think there are others you should be lecturing instead of me?  
 **Kagari:** Others I should be lecturing...?  
 **Sana:** Wow-, Minato-senpai. Look at all the snacks you're bringing\! You think you could share some of that with me-?  
 **Minato:** Hmm, then, how about we make a trade? You let me borrow that game you're bringing and it's a deal.  
-**Sana:** Eh-\!? But I just bought this game\! I was only bringing it 'cause I thought I'd be able to 100% it during the camp-\!  
+**Sana:** Eh-\!\? But I just bought this game\! I was only bringing it 'cause I thought I'd be able to 100% it during the camp-\!  
 **Kagari:** (Sigh... None of them are taking this seriously at all.)  
 **Kagari:** (This training camp is an important step in preparing our unit to be strong enough should a great disaster happen... Do they not understand our purpose here?)  
 **Kagari:** (No, they must understand it. It's just that, when the time comes, the weight of their duties isn't as heavy as the one I must do. That's why they can be so carefree...)  
 **Minato:** Yukari, Yuzuki-senpai, here we go-\! TAAAAAAA-\!  
 **Kagari:** (I wasn't sure how things would turn out at first, but I should have expected this from Minato-senpai. The moment we began to practice, she became so serious it was like looking at a different person.)  
 **Kagari:** (Yukari-sama and Yuzuki-senpai too, with the way they can predict each other's movements, the upperclassman team is impressively coordinated. On the other hand...)  
-**Yukina:** Hey, Hiiragi-san\! Sana\! Why are you getting out ahead of me\!?  
+**Yukina:** Hey, Hiiragi-san\! Sana\! Why are you getting out ahead of me\!\?  
 **Kagari:** You're the one who's moving too slowly. If this were actual combat, that opening would absolutely come under attack.  
 **Sana:** Yeah, when it comes down to it, I'm not gonna hold back anything either.  
 **Yukina:** Hmph, trying to fight while working with you two is so stupid I'd rather not even try anymore.  
@@ -48,7 +48,7 @@ The next day.
 **Yuzuki:** I can think of a number of methods, but what do you think we should do for them to improve, Yukari?  
 **Yukari:** If you ask me, it would be best if we found a way to bring them closer using this camp environment during the brief time we have here...  
 **Minato:** In that case, what if we put the underclassman team in charge of tonight's dinner? If they finish a common goal together, won't it deepen their friendship\! You three feel the same, right?  
-**Sana:** Dinner duty\!? Minato-senpai, isn't it more like you just thought it'd be a pain in the butt doing it yourself?  
+**Sana:** Dinner duty\!\? Minato-senpai, isn't it more like you just thought it'd be a pain in the butt doing it yourself?  
 **Kagari:** The three of us, in charge of dinner? There's a limit to how inefficient you can make this. Since we went to the lengths of coming here, I believe we should spend our time doing more proper training exercises.  
 **Yukina:** I don't want to be with these two either. I thought I would finally get to spend 24 hours together with Yukari-onee-sama...  
 **Yukari:** Yukina, Sana, Kagari, this is an order from your captain. In order to improve your teamwork, you are to carry out this training at once.  
@@ -78,12 +78,12 @@ The next day.
 **Sana:** Oh yeah. Then, let me try cutting some stuff too.  
 **Sana:** Wah-, that's crazy\! Vegetables and fish both feel totally different when you cut them. Cooking's actually pretty fun when you give it a shot, huh, Kagari-senpai.  
 **Kagari:** Yes, I know... Wait, hold on, Sana, that fish you're cutting, that's the one I bought for the nimono I was making.  
-**Sana:** Eh-\!? You should tell me that sooner-. I already chopped it down to bite size pieces.  
+**Sana:** Eh-\!\? You should tell me that sooner-. I already chopped it down to bite size pieces.  
 **Kagari:** There's no use getting upset over what's already done. I'll have to come up with a new dinner menu... Using the ingredients I have left, I can... Eh?  
 **Kagari:** Sagami-san, right now, what you're cutting, that's the daikon radish I bought to use for making grated radish, isn't it?  
 **Yukina:** Oh, it was? My hands were free, so I thought I'd cut it. You should be thanking me then.  
 **Kagari:** But, when it's cut into such small bits, I can't make grated radish from it...  
-**Yukina:** So what\!? If you're going to complain, then you should have put your name on it from the start.  
+**Yukina:** So what\!\? If you're going to complain, then you should have put your name on it from the start.  
 **Kagari:** ...  
 **Sana:** Kagari-senpai, I just went and cut up the stuff that was around here, but what can I make with this?  
 **Kagari:** Sana, normally you decide on a menu before you begin cutting anything. Asking me to think of what you can cook in this situation is...  
@@ -122,7 +122,7 @@ The next day.
 **Yukari:** Kagari, I'll be getting the broth together, so come help me.  
 **Yukina:** Yukari-onee-samaa, if you need help, I'll do it for youu\~.  
 **Kagari:** I don't feel quite right leaving you in charge of the flavor. I know the way they make it in the Origami househould, so I'll help with this.  
-**Yukina:** What's with you\!? I just want to cook with Onee-sama too, okay\!  
+**Yukina:** What's with you\!\? I just want to cook with Onee-sama too, okay\!  
 **Minato:** Yukina, if you're free, come help me out. We'll chop up the leftover veggies together.  
 **Yukina:** Why do I have to be with Minato-senpai...  
 **Yukari:** Yukina, right now, what we need to do is cooperate to finish making dinner. Please go lend Minato a hand.  

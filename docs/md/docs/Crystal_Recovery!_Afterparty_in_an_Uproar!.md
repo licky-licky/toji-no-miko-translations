@@ -25,8 +25,8 @@ https://youtu.be/LHITNyK2J3c?t=1383
 **Yume:** Were you thinking that I'd stop helping with security and force my way into the raffle competition?  
 **Suzuka:** Was I wrong in thinking it a possibility?  
 **Suzuka:** I had made arrangements with the girls organizing the entertainment to deal with such an incident, if the need arose, but I'm thankful it didn't.  
-**Yume:** You did\!?  
-**Yume:** Does that mean, if I'd forced my way in, I'd have gotten to fight that Chidori-onee-san\!?  
+**Yume:** You did\!\?  
+**Yume:** Does that mean, if I'd forced my way in, I'd have gotten to fight that Chidori-onee-san\!\?  
 **Yume:** Well I should have done it then-\!  
 **Yomi:** Though, the raffle competition was only able to be safely carried out because you were suppressing any aradama, Tsubakuro-san.  
 **Suzuka:** I'm proud of you, Yume.  
@@ -43,7 +43,7 @@ https://youtu.be/LHITNyK2J3c?t=1383
 **Hiyori:** Large amounts of aradama have broken into the campus\!  
 **Suzuka:** Calm down\! Has it affected the party?  
 **Hiyori:** There's no problem there. But, the aradama seem to be taking any kind of jewelry they find.  
-**Suzuka:** Could it be... The crystal jewelry adorned on the tiaras\!?  
+**Suzuka:** Could it be... The crystal jewelry adorned on the tiaras\!\?  
 **Yomi:** Tiaras? Why would that...  
 **Yume:** Who cares about why\!  
 **Yume:** I'm all full now, so I could use some exercise.  
@@ -68,7 +68,7 @@ https://youtu.be/LHITNyK2J3c?t=1383
 **Suzuka:** Here you are, Yume.  
 **Yume:** Ahaha\! How do I look, Yomi-onee-san?  
 **Yomi:** Tsubakuro-san, if you move around too much, it will slip... It is slipping off.  
-**Yume:** Eh, it is\!?  
+**Yume:** Eh, it is\!\?  
 **Yomi:** Please stay still for a moment. I will put it back in place.  
 **Yomi:** ...That should do it.  
 **Yume:** Thanks, Yomi-onee-san\!  
@@ -82,7 +82,7 @@ https://youtu.be/LHITNyK2J3c?t=1383
 **Suzuka:** Gladly... Fufu, just as Yume said, it's a natural fit on you, Yomi-san.  
 **Yomi:** ...Thank you very much.  
 **Suzuka:** Sorry to keep you waiting, Juujou-san, Musumi-san.  
-**Hiyori:** Why me too\!?  
+**Hiyori:** Why me too\!\?  
 **Kiyoka:** Thank you so much\!  
 **Suzuka:** Despite you both being from the same Heijou, your reactions are quite different, aren't they?  
 **Hiyori:** Of course; we're two different people\! Since you gave it to me, doesn't that mean I can do whatever I want with it now?  

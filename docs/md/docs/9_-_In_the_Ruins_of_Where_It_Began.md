@@ -1,13 +1,9 @@
 
 9 - In the Ruins of Where It Began
 ==================================
+https://www.youtube.com/watch?v=ZS4fBP1eNq0
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/ZS4fBP1eNq0" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Waiting Alone, the One Known as Suruga (1)
 **Mihono:** ...\! Guys, there's something there\!  
@@ -15,7 +11,7 @@
 **Chie:** Who are you?  
 **Mirja:** That body... Too warped to call a human, but I've never heard of an aradama speaking?  
 **Kofuki:** Hmmm\~? Heh, not bad... My school too.  
-**Mirja:** What do you mean, Shichinosato Kofuki...\!? No, hang on. Are those... Akabane swords\!?  
+**Mirja:** What do you mean, Shichinosato Kofuki...\!\? No, hang on. Are those... Akabane swords\!\?  
 **Chie:** Yes. There's no mistaking that rusted okatana she's holding. Not only that, but the pile she's sitting on. They're all Akabane swords.  
 **Mirja:** There must be hundreds in there. Where did they all come from...  
 **Mirja:** No, in the first place, we came here to meet someone who could answer the mystery behind the Akabane swords. So, would that person be you?  
@@ -28,16 +24,16 @@
 **Mihono:** Then... You were here? From here? Scattering all these swords?  
 **???:** Right.  
 **Mihono:** I don't get it...\!  
-**Mihono:** I thought you said we were coming here to find someone who could help us stop the Akabane swords\!?  
-**Mihono:** But instead we find the culprit holding them, the one causing all these problems\!?  
-**Mihono:** So, what? Mirja-san\! Chii-nee\! What's going on\!? Give me an explanation\!  
+**Mihono:** I thought you said we were coming here to find someone who could help us stop the Akabane swords\!\?  
+**Mihono:** But instead we find the culprit holding them, the one causing all these problems\!\?  
+**Mihono:** So, what? Mirja-san\! Chii-nee\! What's going on\!\? Give me an explanation\!  
 **Mirja:** ......  
 **???:** Why will you not speak. Then I will explain it for you. Simply, like this.  
 **???:** You simply strike the ground as such. In this way, the noro is drawn out. And...  
 **Aradama:** SHAA-\!  
 **Aradama:** KIKI....K-Ki-KIKIKIGIGIGIGI....  
 **???:** You see?  
-**Mihono:** What the...\!?  
+**Mihono:** What the...\!\?  
 **Kiyoka:** ...Asakura-san\!\! Where she stabbed the ground, there's noro gathering...  
 **Mihono:** And it becomes aradama... What... So you've just been breeding aradama?  
 **???:** Go, aradama, take revenge\! They must be removed\! Those who would oppose my revenge, let them be overrun\!  
@@ -61,7 +57,7 @@
 **Suruga:** Girl, if they toyed with you as they did with me, come here. You may join me together in revenge\! You need no longer do their bidding\!  
 **Kofuki:** ...... .......... ...............  
 **Kiyoka:** Shichinosato-san...?  
-**Chie:** Kofuki-chan...\!?  
+**Chie:** Kofuki-chan...\!\?  
 **Kofuki:** Heh, no way.  
 **Kofuki:** I couldn't care less about enemies or allies or revenge or whatever.　So long as there's aradama I get to rip, tear, and cut to pieces, I don't need anything else.  
 **Kofuki:** So anyway, let me take you apart. Cause you reek of the kinda aradama-chan I love\!  
@@ -69,20 +65,20 @@
 
 ## 4: What Humans Achieved (2)
 **Suruga:** Is this it? Is this all toji of the Five Traditions can manage?  
-**Mihono:** What's with that armor? Is that her skin\!? No matter how much we cut at it, it just keeps growing back\!  
-**Chie:** Renpu went all out... No, is this what was born of the results of the Origami family's aradama research\!?  
-**Mihono:** Chii-nee... People keep saying guinea pig and research results and whatever, but what... What are you talking about\!?  
+**Mihono:** What's with that armor? Is that her skin\!\? No matter how much we cut at it, it just keeps growing back\!  
+**Chie:** Renpu went all out... No, is this what was born of the results of the Origami family's aradama research\!\?  
+**Mihono:** Chii-nee... People keep saying guinea pig and research results and whatever, but what... What are you talking about\!\?  
 **Chie:** Just what you think. The Origami family took the aradama toji have defeated... Took their noro, and repeated various experiments with it.  
 **Chie:** Fusing noro with animals, to be used as controllable biological weapons. Injecting noro into toji, to draw out its power.  
 **Chie:** In their experiments, they tried everything they could... No, even now they're still trying it. We at Osafune have been looking for a long time for concrete proof of it.  
-**Mihono:** But, that's insane... ...Wait\!? Does that mean, the aradama Satsuki Yomi-san was using were...\!?  
+**Mihono:** But, that's insane... ...Wait\!\? Does that mean, the aradama Satsuki Yomi-san was using were...\!\?  
 **Chie:** Yes, without a doubt. The results of their research gone unchecked.  
 **Kofuki:** Heh, that's what I was saying. Satsuki Yomi shoots herself up with those drugs they squeeze out, and that's how she controls the aradama.  
 **Mihono:** ...This can't be real... I mean, we've all been fighting for the sake of justice... You can't tell me...  
-**Mihono:** So what\!? Is she too... Is she one of the aradama the Origami family made\!?  
+**Mihono:** So what\!\? Is she too... Is she one of the aradama the Origami family made\!\?  
 
 ## 5: The Sweetness Called Revenge (1)
-**Mihono:** That makes her another victim of the Origami family and Renpu's aradama research, doesn't it...\!?  
+**Mihono:** That makes her another victim of the Origami family and Renpu's aradama research, doesn't it...\!\?  
 **Suruga:** Kuku.... Kukuku...\! Victim, you said... You would actually call me a victim?  
 **Suruga:** Aahh, you are right that I was born here, through what they called research. And, through what they called experiments, they would mutilate me...  
 **Suruga:** Though... After failing to get the results they wanted, I found myself alone here.  
@@ -99,11 +95,11 @@
 **Suruga:** I see. Though, after all, you were always dogs of the Origami family. I never intended... On letting the likes of you survive\!  
 
 ## 6: The Sweetness Called Revenge (2)
-**Kofuki:** Tch\! How can you be this tough\!? It's like you've got steel for bones\! ...Shit, the blade, got stuck\!  
+**Kofuki:** Tch\! How can you be this tough\!\? It's like you've got steel for bones\! ...Shit, the blade, got stuck\!  
 **Suruga:** What's the matter, girl. You were their guinea pig too. Do you not despise them? If you aid me in my revenge, I will allow you alone to live.  
 **Kofuki:** Hah\! You're so damn dumb. Killing aradama is all I live for\!  
 **Kofuki:** As long as I keep killing aradama they don't care, and as long as I get to keep killing aradama I don't care\! Everything else can fuck right off\!  
-**Kofuki:** Revenge\!? That's just what you chose to do\!  
+**Kofuki:** Revenge\!\? That's just what you chose to do\!  
 **Suruga:** ...I see. You choose to die with your friends.  
 **Kofuki:** Ha? Moron-\! Like I care about them\!  
 **Kofuki:** All that matters is me and my prey\!  
@@ -114,14 +110,14 @@
 **Kofuki:** GAH... NGAHH\!  
 **Suruga:** ...So frail.  
 **Chie:** Kofuki-chan\!  
-**Chie:** (Kofuki-chan's utsushi was down for just a moment then\!? No\!)  
+**Chie:** (Kofuki-chan's utsushi was down for just a moment then\!\? No\!)  
 **Kofuki:** Gah... Gh... Nngh... Ah, gh...  
 **Chie:** Kofuki-chan\! Hang on, you're injured...\!  
 **Kofuki:** Fuck off, Chichie... I said not to get between me and her... Just leave me alone\!  
 *slap*
 
   
-**Mihono:** (She got slapped\!? Chii-nee just slapped her\!?)  
+**Mihono:** (She got slapped\!\? Chii-nee just slapped her\!\?)  
 **Kiyoka:** (That sounded so strong I felt it from here\!)  
 **Kofuki:** Nnuh.....?  
 **Chie:** There's no way I'm going to leave you alone\!  
@@ -139,7 +135,7 @@
 **Kiyoka:** KYAA\!  
 **Chie:** ....Ngh\! We can't get through\!  
 **Suruga:** Grrrrrrrraahhh\!  
-**Mirja:** Pant... Pant... Even with five of us, this is as best we can hold on\!?  
+**Mirja:** Pant... Pant... Even with five of us, this is as best we can hold on\!\?  
 **Mirja:** We need a way to turn this around... I have no choice. This was my last resort.  
 **Mirja:** Investigation team\! Clear away from Suruga for a moment\!  
 **Kiyoka:** Eh? Mirja-san took off her glasses...  
@@ -147,7 +143,7 @@
 *Suruga is hit with a flurry of slashes*
 
   
-**Suruga:** Gaaahhhh\!? What... Have you done\!?  
+**Suruga:** Gaaahhhh\!\? What... Have you done\!\?  
 **Mirja:** "Kantougan". Information is gathered from any opponent I cut, and in my sight is calculated all their weaknesses.  
 **Mirja:** And my sight is telling me...  
 **Mirja:** In your upper right arm, Fujiwara Kaneshige. In your right forearm, Bizen Osafune Yoshimitsu. In your right thigh, Aoe Shigetsugu. In your right lower leg, Udaku Nimune. Aside from those, there are 7 more... And in your spine, Namu Yakushi Kagemitsu... A replica.  
@@ -159,7 +155,7 @@
 ## 8- Mirja's Sight (2)
 **Suruga:**　Kkh... Gh... Gh... Gh... GGGGHHHHAAAAAA\!  
 **Chie:** She can't keep her human shape together? Our attacks are working\!  
-**Chie:** ...Wait\!? Rather than falling apart, the remains of all the aradama in here are being drawn towards her\!?  
+**Chie:** ...Wait\!\? Rather than falling apart, the remains of all the aradama in here are being drawn towards her\!\?  
 **Suruga:** AHHHHHHGGGHHHHH\!  
 *Suruga turns into a giant aradama dragon*
 
@@ -191,7 +187,7 @@
 **Chie/Kofuki/Kiyoka:** Understood\!  
 **Mihono:** Mirja-san\! What should I do\!  
 **Mirja:** Wait for my signal\! Until then, gather your strength\!  
-**Mihono:** Eh... For what\!?  
+**Mihono:** Eh... For what\!\?  
 **Mirja:** As noro gathers, it will become an "individual" and eventually take on a monstrous form. If you cut through this body, it will no longer be able to maintain that state and revert to its original one.  
 **Mirja:** However, things are different for a large aradama. The ordinary method is no longer effective with so much noro. As such...  
 **Mirja:** We will use our okatana to gradually wear away at Suruga's body. With nowhere left to go, the noro will gather closer towards a core in the center... Asakura Mihono, that's what you will aim for\!  
@@ -204,12 +200,12 @@
 **Mihono:** Okay\!  
 **Kofuki:** Whoa... Was she always that strong...?  
 **Chie:** Is this Mihono-chan's... Power as a toji?  
-**Chie:** Mihono-chan... You're incredible\! ...Ah\!?  
+**Chie:** Mihono-chan... You're incredible\! ...Ah\!\?  
 **Chie:** ...An attack slipped through\! From behind her\!  
-**Mihono:** ...\!?  
+**Mihono:** ...\!\?  
 **Mihono:** (I can't block it right\!)  
-**Chie:** Mihono-chan's okatana flew out of her hands\!?  
-**Mirja:** Gh\! She made it so close... Is this it\!?  
+**Chie:** Mihono-chan's okatana flew out of her hands\!\?  
+**Mirja:** Gh\! She made it so close... Is this it\!\?  
 **Kiyoka:** I won't let you stop her...\!  
 **Kiyoka:** HONO-CHAN\! CATCH\!  
 **Mihono:** Thanks, Kiyoka... I got it\! Let's go, Kiyomitsu... Let's finish this\!  
@@ -218,7 +214,7 @@
 **Mihono:** ......  
 **Mihono:** Phew...  
 **Suruga:** ...You were... Asakura Mihono...?  
-**Mihono:** Suruga\! You can still talk...\!?  
+**Mihono:** Suruga\! You can still talk...\!\?  
 **Suruga:** Aah... I was mistaken... Truly, the one like me... Was you...?  
 **Mihono:** ...What? What are you talking about? Like you?  
 **Suruga:** Aahh, right. Your body, andmine...  
@@ -255,18 +251,18 @@
 **Mirja:** ...Setouchi Chie-san?  
 **Chie:** I don't trust President Souraku yet either. I can't trust them with the Akabane swords. And... To tell the truth, I can't trust you either, Kitora Mirja.  
 **Chie:** ..."Namu Yakushi Rurikou Nyorai Kagemitsu".  
-**Mirja:** \!?  
+**Mirja:** \!\?  
 **Chie:** That's the name of the okatana you're here to recover, isn't it? Am I wrong?  
 **Chie:** I know you've been looking for it. So... When President Souraku gets her hands on it, what is she going to do?  
 **Mihono:** Chii-nee\! Mirja-san\! Let's get going alre...  
-**Mihono:** Eh... Huh? Wait. What are you two doing...? Why are both of you readying your okatana\!?  
+**Mihono:** Eh... Huh? Wait. What are you two doing...? Why are both of you readying your okatana\!\?  
 **Chie:** I need you to tell me everything here, Kitora Mirja. What President Souraku... What Ayanokouji Martial Arts School is planning.  
 **Mirja:** I see... Then, Setouchi Chie-san. I have questions as well. What are you?  
 **Mirja:** Osafune gave us this lead intending to expose Suruga and the corruption of those in charge, didn't they. And you hid their true intentions when you led us here.  
 **Mirja:** In the first place, it was Osafune's Maniwa Sana who proposed the creation of this investigation team. So I have to ask, what is Osafune fighting against?  
 **Chie:** ......  
 **Mirja:** ......  
-**Mihono:** W-Wait\! What's this all about\!?  
+**Mihono:** W-Wait\! What's this all about\!\?  
 **Chie:** She... Mirja-san was ordered by Ayanokouji's President Souraku to retrieve that okatana, "Namu Yakushi Kagemitsu".  
 **Chie:** And she kept it a secret from us all this time.  
 **Mihono:** Uhh... Chii-nee...? Is she not supposed to do that? I don't really get it, but if she wants it, why not let her take it?  
@@ -274,14 +270,14 @@
 **Chie:** When it comes down to it, I want you to explain. But you have two choices here: either you convince all of us to let you take it, or you take it from me by force.  
 **Kiyoka:** Um, you two, could you please calm down and maybe talk this over? Ah\! Shichinosato-san, help us stop them\!  
 **Kofuki:** Huh? Just let 'em do what they want. This's getting interesting.  
-**Kiyoka:** Ehh\!? S-Shichinosato-san... U-Um\! Fighting amongst teammates is bad, you two\! W-Why did it come to this...\!?  
+**Kiyoka:** Ehh\!\? S-Shichinosato-san... U-Um\! Fighting amongst teammates is bad, you two\! W-Why did it come to this...\!\?  
 **Chie:** I wonder that myself, Kiyoka-chan. I wish this could have gone more smoothly. But this is something I'm not able to let her get away with.  
 **Mirja:** I understand... The two of us both have reasons we can't afford to back down from. I had hoped it wouldn't come to this, but...　It seems this will only be settled through our okatana.  
 *The two of them draw their swords*
 
   
 **Mihono:** Chii-nee\! Mirja-san\! Cut it out\! Actually, just get over it\!  
-**Mihono:** We're only here to fight the aradama\! Why are you two fighting each other\!? Seriously\! I don't get it\!  
+**Mihono:** We're only here to fight the aradama\! Why are you two fighting each other\!\? Seriously\! I don't get it\!  
 *Mihono draws her sword*
 
   
@@ -342,7 +338,7 @@
 **Kiyoka:** It is not\!  
 **Kiyoka:** I... I love Hono-chan, and Chie-san, and Mirja-san. Of course, I love you too, Shichinosato-san\!  
 **Mihono:** Hear that, Fukki-\! Isn't it great that we don't have to break up\~?  
-**Kofuki:** Huhh\!? Who do you think you're calling Fukki\!? Don't act like we're close...\!  
+**Kofuki:** Huhh\!\? Who do you think you're calling Fukki\!\? Don't act like we're close...\!  
 **Mihono:** Huh\~\~? You're the one who told me to call you Fukki, remember, Fukki\~\~?  
 **Kofuki:** Nngh...\!  
 **Chie:** Okay, okay, break it up, you two.  

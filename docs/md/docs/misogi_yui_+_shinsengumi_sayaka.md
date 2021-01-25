@@ -16,7 +16,7 @@ https://youtu.be/pR7T3znqc5E
 **Tsugumi:** Hmm, I can just never tell how you'll respond to anything.  
 **Tsugumi:** There's many types of people among the investigation team that I'm unused to dealing with, but... Yamashiro-san, you're the most extreme of them all.  
 **Tsugumi:** Socializing is hardly my strong suit, but there's no one I've ever had as much trouble understanding as you.  
-**Yui:** That sounds like an incredible appraisal of me, doesn't it\!?  
+**Yui:** That sounds like an incredible appraisal of me, doesn't it\!\?  
 **Yui:** If that's how you feel, then please go ahead and learn more about me\! Read me like an open book; I'll answer any question you ask\!  
 **Tsugumi:** Ah... Then, I have one question. I realize it's a little late to ask, but, why are you helping with my research?  
 **Yui:** Putting it bluntly, I'm doing it for the money.  
@@ -29,7 +29,7 @@ https://youtu.be/pR7T3znqc5E
 **Yui:** Ahaha, I shouldn't have told you all that. Please just forget it.  
 **Tsugumi:** No, it's good that I was able to see a new side of you.  
 **Tsugumi:** And also, Yamashiro-san. The experiments you're assisting us with... Their results might one day be linked to a cure for your little sister.  
-**Yui:** Will they really\!?  
+**Yui:** Will they really\!\?  
 **Tsugumi:** Speaking confidentially... Research is progressing on whether or not noro can be used to cure diseases.  
 **Tsugumi:** In fact, there have been rumors of a successful test case...  
 **Yui:** This research can... But, how does it work?  
@@ -49,7 +49,7 @@ https://youtu.be/pR7T3znqc5E
 **Suzuka:** ...This isn't my home, I'll have you know. Was there something you needed?  
 **Yui:** Actually, there's something I wanted to talk to you about...  
 **Suzuka:** If it's a love confession, I'll refrain from hearing it.  
-**Yui:** You mean, somebody leaked my private information about how I love Suzuka-san\!?  
+**Yui:** You mean, somebody leaked my private information about how I love Suzuka-san\!\?  
 **Suzuka:** Well now, was that actually true?  
 **Yui:** Ahh, so you were just kidding with me. Here I was getting rejected before I even asked you out.  
 **Suzuka:** Don't you think it's your conduct that causes you to be treated this way? So? What was it you really came to see me about?  
@@ -57,14 +57,14 @@ https://youtu.be/pR7T3znqc5E
 **Suzuka:** It seems this is a rather serious conversation. ...Come with me.  
 **Suzuka:** You won't have to worry about us being overheard in here.  
 **Yui:** Thank you very much\! To tell the truth... I heard there were experiments in treating people's illnesses with noro, and I wanted to ask you if, maybe you knew anything about it... Or something.  
-**Suzuka:** --\!? Where did you hear about... No. More importantly, why do you want to know?  
+**Suzuka:** --\!\? Where did you hear about... No. More importantly, why do you want to know?  
 **Yui:** Actually... Umm, this is kind of hard for me to say, but...  
 **Suzuka:** ...It's about your sister, isn't it.  
 **Yui:** You know about her?  
 **Suzuka:** It's only natural we would gather that much information. You haven't spoken to anyone else about this... Have you?  
 **Yui:** N-No\! As soon as I heard about it, I came right here...  
 **Suzuka:** In that case, forget all about it.  
-**Yui:** ...\! B-But, they're researching it, aren't they\!?  
+**Yui:** ...\! B-But, they're researching it, aren't they\!\?  
 **Suzuka:** When you have no way of knowing how long it will take before that research can be used for practical purposes, there's no point in placing your hopes on it, is there?  
 **Suzuka:** Your sister is desperately fighting to overcome her illness with modern medical care, and should be gradually getting better.  
 **Yui:** ...  
@@ -75,7 +75,7 @@ https://youtu.be/pR7T3znqc5E
 **Mirja:** Yamashiro Yui\!  
 **Yui:** Eh?  
 **Aradama:** KEEHHHHHH\!  
-**Yui:** Uwah\!?  
+**Yui:** Uwah\!\?  
 **Mirja:** HAAAAAH\!\!  
 **Yui:** Th-Thanks for that...  
 **Mirja:** ...You aren't acting like your usual self, Yamashiro Yui.  
@@ -89,7 +89,7 @@ https://youtu.be/pR7T3znqc5E
 **Yui:** Umm... I think they said, it was still at the stage of fundamental research?  
 **Mirja:** Then, that well informed person was right in what they said. You can't be certain of when a medical treatment still in the stage of fundamental research will be made available.  
 **Mirja:** This is only in regards to new forms of medicine, but... I've heard new medicines can take over a decade of research before they are made for general use.  
-**Yui:** It can take that long\!?  
+**Yui:** It can take that long\!\?  
 **Yui:** (If that's true, then... Going the slow and steady way might actually be faster...)  
 **Yui:** (I can't be getting all torn up over it now; I've got to keep going at it the best I can, for Miku's sake\!  
 **Yui:** Thanks a lot, Mirja-san\! I'm past it now\!  
@@ -104,7 +104,7 @@ https://youtu.be/UdyV4xZkk2E
 **Kofuki:** Hey, why're we stopping by this place anyway?  
 **Sayaka:** ...I've been here before.  
 **Mirja:** That's correct. They said they were experiencing trouble, and made a polite appeal, or rather, a request to us.  
-**Kofuki:** Ooh, there's more aradama-chan here\!? Well aren't we lucky\!   
+**Kofuki:** Ooh, there's more aradama-chan here\!\? Well aren't we lucky\!   
 **Mirja:** No, it isn't that kind of trouble. They requested a stuntman for their film.  
 **Kofuki:** Huh?  
 **Sayaka:** ...Stuntman?  
@@ -150,7 +150,7 @@ https://youtu.be/UdyV4xZkk2E
 **Ronin B:** Run away, run away... Everybody split up\!  
 **Sayaka:** (When that person runs, chase him.)  
 **Sayaka:** (Come around right in front of him, and point the tip of my sword toward him... Then done.)  
-**Ronin B:** Eee\!?  
+**Ronin B:** Eee\!\?  
 **Kofuki:** She's actually not doing that bad.  
 **Mirja:** It should be no difficulty at all for her to jump about and wield an imitation sword like that.  
 **Film Director:** CUUUUUUUT\!  

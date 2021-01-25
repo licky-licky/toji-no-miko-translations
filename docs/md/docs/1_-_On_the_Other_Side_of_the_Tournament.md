@@ -1,13 +1,9 @@
 
 1 - On the Other Side of the Tournament
 =======================================
+https://www.youtube.com/watch?v=w4kDCMaPwbs
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/w4kDCMaPwbs" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: What It Means to Carry an Okatana (1)
 The next day... The day of the tournament.
@@ -25,9 +21,9 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Kofuki:** Hah? What do ya think you're lookin' at?  
 **Friend B:** (...sneak sneak)  
 **Friend B:** Mihono, I'm leaving this to you\!  
-**Mihono:** (Eh\!?)  
+**Mihono:** (Eh\!\?)  
 **Mihono:** Ah, umm, sorry, about my friend. Those uniforms, you're from Renpu, aren't you? Since you're carrying okatana, does that make you their representatives?  
-**Kofuki:** Nope. This girl here's the representative. I'm just her escort...... Huh\!?  
+**Kofuki:** Nope. This girl here's the representative. I'm just her escort...... Huh\!\?  
 *sounds of crashing and running*
 
   
@@ -37,7 +33,7 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 ## [I'll call the police...]
 
 ## [Get out of here first, you idiot\!]
-**Kofuki:** Tch\! What's going on here\!? Kamakura's right in the Origami family's lap... Hell, their house is right over there\! Those are some dumbass aradama\!  
+**Kofuki:** Tch\! What's going on here\!\? Kamakura's right in the Origami family's lap... Hell, their house is right over there\! Those are some dumbass aradama\!  
 **Sayaka:** ...You can badmouth them after. We have to stop them.  
 **Kofuki:** You don't have to tell me\! So long as I get to kill some aradama, I'll be there\!  
 **Friend B:** Let's go, Mihono\! We have to evacuate...  
@@ -52,7 +48,7 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Mihono:** Eh? Name? I must not have said it before. I'm a 2nd year at Minoseki... Asakura Mihono\!  
 **Kofuki:** My name's Shichinosato Kofuki, 3rd year in Renpu's middle school. Over there's Itomi Sayaka, same group, 1st year\!  
 **Sayaka:** ...I'm going on ahead.  
-**Mihono:** O-Okay... She's gone\!?  
+**Mihono:** O-Okay... She's gone\!\?  
 **Kofuki:** ...Yeah, well, she's speedy like that. And that just means we get all the aradama still here to ourselves\! ...So first, let me make one thing clear.  
 **Kofuki:** If you take any of my aradama, my fun, any of the one's I'm claiming... You're gonna pay for it.  
 **Mihono:** Huh? What? Are you joking, or is this some kind of game to you...  
@@ -69,12 +65,12 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Kofuki:** Ahh, c'mon, Sayaka\! You gotta use your words\! Listen up, Minoseki toji. What Sayaka's trying to say is, we've seen this pattern before.  
 **Kofuki:** There's been a lot of these lately. You think it's a bunch of small fry, but then bigger ones start taking their place and suddenly you're surrounded.  
 **Kofuki:** ...Well, I can take on all the aradama-chan they can throw at me, so it's no big deal\!  
-**Mihono:** Hey\! Wait up, you two\! What's up with them, no one's coordinating at all\!?  
-**Mihono:** (Ngh\! My focus is slipping too... What do I do... The situation's getting worse and worse... Ahhh, damnit\! It's always like this\! Is this all I can manage\!?)  
+**Mihono:** Hey\! Wait up, you two\! What's up with them, no one's coordinating at all\!\?  
+**Mihono:** (Ngh\! My focus is slipping too... What do I do... The situation's getting worse and worse... Ahhh, damnit\! It's always like this\! Is this all I can manage\!\?)  
 **Mihono:** Pant... Pant...  
-**Mihono:** (All I can do is try to force through their numbers...\! ...\! Ah, behind me\!? I can't block in time\!)  
+**Mihono:** (All I can do is try to force through their numbers...\! ...\! Ah, behind me\!\? I can't block in time\!)  
 **???:** That was dangerous, huh? We made it in the nick of time\!  
-**Mihono:** (\! ....Who\!?)  
+**Mihono:** (\! ....Who\!\?)  
 **Mihono:** (That uniform's the same as Chii-nee... Toji from Osafune Girls' Academy?)  
 **Ellen:** Kohagura Ellen and Mashiko Kaoru are here to assist\!  
 **Ellen:** We're in a big big hurry to the tournament, but this is more important now\!  
@@ -97,10 +93,10 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Sayaka:** ......  
 **Kofuki:** Go on already\! If you don't show up for your match, the president's gonna be crazy pissed\!  
 **Sayaka:** ......  
-**Mihono:** Ehh\!? Is it really okay for her to go\!? I mean, I know she's in the tournament, but...  
+**Mihono:** Ehh\!\? Is it really okay for her to go\!\? I mean, I know she's in the tournament, but...  
 **Kofuki:** Eh? Isn't it great? With Sayaka gone, that's even more aradama I get to kill\!  
 **Kofuki:** And that means I really get to go wild\!  
-**Mihono:** Eh\!? Shichinosato-san\!? She already ran off...  
+**Mihono:** Eh\!\? Shichinosato-san\!\? She already ran off...  
 **Kaoru:** What's her deal. Is she alright in the head?  
 **Ellen:** Japan is a big place. There's all kinds of toji here.  
 **Ellen:** ...Anyway, let's leave the aradama to her for now. We need to help evacuate anyone still in the area.  
@@ -136,7 +132,7 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Riot Policeman:** You see... Even though we circled the area, it seems several aradama managed to slip through.  
 **Kofuki:** Huh? And you want someone to hunt them down? You want me to hunt them down? I get to hunt them down?  
 **Riot Policeman:** Yes. I realize this may be a lot to ask of you, however...  
-**Kofuki:** Say what\!?  
+**Kofuki:** Say what\!\?  
 **Riot Policeman:** I-I'm very sorry-  
 **Kofuki:** No way\! You shoulda said that sooner\! So, c'mon, where'd they go? I'll tear 'em apart\! C'mon\! Tell me\!  
 **Mihono:** Uh, I'll be going after her\!  
@@ -147,12 +143,12 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Kofuki:** ...Heh, was that all they had?  
 **Riot Policeman:** Thank you very much, you two\! With your help, we were able to safely protect the citizens.  
 **Riot Policeman:** I realize this was an urgent request, especially right before the tournament, and for that I'm very sorry.  
-**Mihono:** Ah\! The tournament\! It's going to start any minute now\! Shichinosato-san, we've gotta get goi... She already left\!?  
+**Mihono:** Ah\! The tournament\! It's going to start any minute now\! Shichinosato-san, we've gotta get goi... She already left\!\?  
 **Riot Policeman:** She left without saying a word just a moment ago...  
-**Mihono:** When was that-\!?  
+**Mihono:** When was that-\!\?  
 
 ## 9: Onward\! To the Tournament Venue\!
-**Mihono:** Pant, pant, I finally made it\! The tournament, it seems like I made it in time...\!?  
+**Mihono:** Pant, pant, I finally made it\! The tournament, it seems like I made it in time...\!\?  
 **Mihono:** ...Now, what's the mood like in the assembly hall?  
 **Mihono:** Amazing, this stillness... This sense of anticipation\! Ahh, man\! I can't get enough of it\! You can feel it; this is a fight to decide the greatest toji\!  
 **Mihono:** That's right... Every year, the Origami family, who are responsible for unifying and organizing the toji, host this tournament. Which means it's a true test of skill for all who hold an okatana.  
@@ -168,7 +164,7 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Friend A:** You idiots\! Stop shouting\! Mihono, they just finished saying the pledge and the first round is about to start\! Look, it's Kanami versus Ayaonokouji's representative\!  
 **Friend A:** ...This is it, the final round. I wasn't sure if Kanami would make it this far...  
 **Friend B:** Yeah, yeah\! It's too bad about Mai, but her opponent was Kanami after all. If only they'd faced off in the finals instead of the semi-finals\!  
-**Mihono:** It's a real shame\~. But, you know...... Huh? In the stands over there... Is that? Chii-nee\!? She said she was going back to Osafune yesterday...  
+**Mihono:** It's a real shame\~. But, you know...... Huh? In the stands over there... Is that? Chii-nee\!\? She said she was going back to Osafune yesterday...  
 **Mihono:** (Ahh-\! That's why she said we'd meet again soon-\!)  
 **Chie:** Fufu, I think Mihono-chan spotted me. I was hoping I could surprise her again afterwards, so that's too bad.  
 **Chie:** (That girl in the finals... Etou Kanami-san... At a glance she just barely won every one of her matches, but if Mihono says she's strong then I can believe it...)  
@@ -231,15 +227,15 @@ In an instant, the world was turned on its head-
 Juujou Hiyori vanished from the arena. In a split second, before even a thought could pass, it became clear what she had done.
 
   
-**Hiyori:** (She deflected it\!?)  
+**Hiyori:** (She deflected it\!\?)  
 **Yukari:** Third stage jin'i without preparation. Is this your "single sword"?  
 **Hiyori:** Absurd...\!  
-**Hiyori:** (She was completely defenseless\! And yet, where did Origami Yukari pull those two okatana from\!?)  
+**Hiyori:** (She was completely defenseless\! And yet, where did Origami Yukari pull those two okatana from\!\?)  
 **Yukari:** Have you come to erase your mother's regrets? Fufu... But taking Origami Yukari's head won't be so easy.  
 **Hiyori:** Tch...\!  
 **Maki:** That's as far as you go, traitor\! HAA\!  
 **Hiyori:** (No\! ...She's got me\!)  
 **Maki:** Minoseki's... Etou Kanami\! How dare you interfere\!  
-**Hiyori:** What, are\!? No, why did you save me\!?  
+**Hiyori:** What, are\!\? No, why did you save me\!\?  
 **Kanami:** Just come with me\! Hurry\!  
 > :ToCPrevNext

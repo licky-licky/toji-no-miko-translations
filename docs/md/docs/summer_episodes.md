@@ -28,7 +28,7 @@ https://streamable.com/n46xcn
 **Ellen:** Hey, Chie-, don't tell her that-.  
 **Ellen:** You quit looking at me too, Kaoru. Your meat's getting cold.  
 **Kaoru:** Then, I'll dig in. --Ohm\!  
-**Kaoru:** Sho good...\!? I've gotta give Mihono my thanks.  
+**Kaoru:** Sho good...\!\? I've gotta give Mihono my thanks.  
 **Ellen:** That's the meat we all fought to get back from the aradama. So go ahead and savor it.  
 **Kaoru:** You've been working hard too, huh. [chew chew]...  
 **Kaoru:** I wish this kind of R&R would get turned into one of my duties too.  
@@ -76,8 +76,8 @@ https://streamable.com/8my7qs
 **Ellen:** Want to take a nap with me? They say "a sleeping child is a growing child".  
 **Kaoru:** Don't you think you've already grown enough?  
 **Ellen:** Actually, I'm still in the middle of my growing phase.  
-**Nene:** Ne-\!?  
-**Kaoru:** You're gonna get even bigger\!?  
+**Nene:** Ne-\!\?  
+**Kaoru:** You're gonna get even bigger\!\?  
 **Kaoru:** So this's what they call a dangerously stratified society...  
 **Kaoru:** But, back to what you were saying. An afternoon nap doesn't sound too bad. I wish I had the spare time to take one every day.  
 **Ellen:** Agreed. Kaoru, don't go pushing yourself too hard, alright-?  
@@ -142,7 +142,7 @@ The day of the barbecue--
 **Mirja:** Urgh... So your next strategy is to starve me out. I'll stop spreading the word of the barbecue boss...  
 **Mihono:** What should I do now\~. Ah, skewers might be good\!  
 **Kiyoka:** Hono-chan\! Hold on a minute\!  
-**Mihono:** Wawah\!? Kiyoka\!? Wh-What's up?  
+**Mihono:** Wawah\!\? Kiyoka\!\? Wh-What's up?  
 **Kiyoka:** Hono-chan, your meat was so tasty that we were forgetting something important\!  
 **Mihono:** ...?  
 **Kiyoka:** Wasn't our plan to eat what Chie-san and the others were eating, to learn the trick to getting bigger?  
@@ -174,7 +174,7 @@ https://streamable.com/sk4o2p
   
 
 ## [Summer Uniform - Hiyori: Start]: Getting Out of the Rain
-**Kanami:** Uwah-\!? It's pouring rain, Hiyori-chan\! I should've brought my umbrella...  
+**Kanami:** Uwah-\!\? It's pouring rain, Hiyori-chan\! I should've brought my umbrella...  
 **Hiyori:** You know, this wouldn't be a problem if you came prepared.  
 **Hiyori:** What do you want to do? My umbrella's a little small, but do you want to try it?  
 **Kanami:** We're sharing an umbrella then?  
@@ -194,7 +194,7 @@ https://streamable.com/sk4o2p
 **Hiyori:** I didn't notice at the time, but... Your reaction back then showed you knew.  
 **Hiyori:** Was it with Sayaka?  
 **Kanami:** So you get curious about this kind of thing too, Hiyori-chan?  
-**Hiyori:** Urgh... What's wrong with getting curious\!? It's not like I wouldn't be interested...  
+**Hiyori:** Urgh... What's wrong with getting curious\!\? It's not like I wouldn't be interested...  
 **Kanami:** Ahaha, sorry.  
 **Kanami:** Anyway, it wasn't a date. We just made plans to go have a picnic that day.  
 **Hiyori:** It was with you?  
@@ -204,7 +204,7 @@ https://streamable.com/sk4o2p
 **Hiyori:** Still, that clears up the whole mystery.  
 **Kanami:** I wouldn't call it enough to be a mystery... Oh, Hiyori-chan, the rain must've stopped at some point.  
 **Hiyori:** Nn? Ahh, you're right. Okay, let's go.  
-**Kanami:** Sure... Ah\!? Look at that\!\!  
+**Kanami:** Sure... Ah\!\? Look at that\!\!  
 https://streamable.com/zxsaxd
 
   
@@ -216,13 +216,13 @@ https://streamable.com/zxsaxd
 **Kanami:** I'm gonna take a picture and show it to everyone\!  
 **Hiyori:** Though you know... As soon as the rain stopped, you can feel the temperature going up.  
 **Kanami:** Summer's just about here. Ah, Mai-chan and Setouchi-san messaged me back\!  
-**Hiyori:** That fast\!? ...What'd they say?  
+**Hiyori:** That fast\!\? ...What'd they say?  
 **Kanami:** They wished we could see it together.  
 **Kanami:** And also, how long will we take shopping.  
 **Hiyori:** Tell them we were taking cover from the rain, so it'll be a while longer.  
 **Kanami:** Okay\! ...I sent it.  
-**Kanami:** Ahh\!?  
-**Hiyori:** What now\!?  
+**Kanami:** Ahh\!\?  
+**Hiyori:** What now\!\?  
 **Kanami:** They said they're cooking something new for picnics, and they want us to taste test it when we get back\!  
 **Hiyori:** Those two are cooking up something new, huh... I can't wait to try it.  
 **Kanami:** Eating outside would make it a whole extra level tastier, wouldn't it.  
@@ -270,7 +270,7 @@ https://streamable.com/t222j3
 **Mihono:** Ghost stories?  
 **Mihono:** I'm fine with that, but... There's not really any ghost stories I know off the top of my head.  
 **Kaoru:** Don't worry about it. I've got the best ghost story to tell.  
-**Mihono:** Huh, you do\!? What's it about?  
+**Mihono:** Huh, you do\!\? What's it about?  
 **Kaoru:** (Kukuku, Mihono. You won't be making that face for long\!)  
 **Kaoru:** Actually, this one's about where we're walking right now.  
 **Mihono:** Okay.  
@@ -289,7 +289,7 @@ https://streamable.com/hfbgc9
 **Kaoru:** See, look over there. There's a Jizo statue, right?		[Jizo is a deity that is a savior of souls and also a protector of travelers. Statues are often found in graveyards, but also along roadsides.]  
 **Kaoru:** That's a leftover from when this place was a graveyard.  
 **Mihono:** It's true... Then, this place really is...  
-**Mihono:** Eep\!?  
+**Mihono:** Eep\!\?  
 **Kaoru:** (Though, I'm making all of it up.)  
 **Kaoru:** There's a lot of paved roads up this mountain, see? Those are trails they made way back to let people pay a visits to the graveyard here.  
 **Mihono:** Th-That makes sense...  
@@ -299,7 +299,7 @@ https://streamable.com/hfbgc9
 **Mihono:** ...[gulp].  
 **Kaoru:** ...Which means, some might've been left buried. Just under your feet right now, there could be a dead body.  
 **Mihono/Ellen:** GYAAAAAAAAAAAAAAAAAAAA\!\!  
-**Kaoru:** Uwah\!? What're you doing here, Ellen\!\!  
+**Kaoru:** Uwah\!\? What're you doing here, Ellen\!\!  
 **Ellen:** I made a mistake\! I was planning on scaring you two, but I ended up screaming by accident\!  
 **Ellen:** Anyway, Kaoru\! Because of you, I can't stay here anymore\!  
 **Ellen:** So, let me go with you\!  

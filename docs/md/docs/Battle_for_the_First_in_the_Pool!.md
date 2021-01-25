@@ -1,13 +1,9 @@
 
 Battle for the First in the Pool!
 =================================
+https://www.youtube.com/watch?v=x-0wkl69rCc
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/x-0wkl69rCc" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1:　The Secret School Event: "First in the Pool"
 **Ellen:** Kaoru\! The school pool is finally opening up tomorrow\!  
@@ -43,25 +39,25 @@ Battle for the First in the Pool!
 During lunch break--
 
   
-**Mihono:** Hey, guys\! Did you know about "First in the Pool"\!?  
+**Mihono:** Hey, guys\! Did you know about "First in the Pool"\!\?  
 **Mihono:** The day before the pool opens, the first person to go swimming after school gets crowned the first in the pool\!  
 **Mihono:** So who wants to sneak into the pool with me?  
 **Mai:** Mihono-chan, you shouldn't be breaking into the pool like that.  
 **Kiyoka:** That's right. If the teachers found out, they'd be really mad at you. And won't we have plenty of swimming lessons after the pool opens tomorrow?  
-**Mihono:** You're not wrong, but this is supposed to be a tradition passed down by toji for generations, you know\!?  
+**Mihono:** You're not wrong, but this is supposed to be a tradition passed down by toji for generations, you know\!\?  
 **Sayaka:** I have training after school.  
 **Kofuki:** I'm not interested if there's no aradama-chan involved, so I'll pass.  
 **Mihono:** Ughhh... Is nobody gonna come with me...  
 **Kanami:** Ahaha... You're hopeless, Mihono-chan. I'd feel bad if you had to go alone, so I'll join you.  
-**Kanami:** Wait, really\!? Thanks, Kanami\!  
+**Kanami:** Wait, really\!\? Thanks, Kanami\!  
 **Kofuki:** That reminds me, I heard something about this first in the pool thing. There's meant to be some kind of secret organization stopping toji from getting in the pool.  
-**Mihono:** Ehh\!? There is\!?  
+**Mihono:** Ehh\!\? There is\!\?  
 **Kofuki:** Yep. They pick up members from active toji, and they call themselves the Pool Police.  
-**Mihono:** They'd really get police for something this specific...\!?  
+**Mihono:** They'd really get police for something this specific...\!\?  
 **Kofuki:** It's just a nickname. You really think they'd send actual police for this?  
 **Kanami:** Now it's getting interesting\! So whoever can win in a fight against them wins the right to be first in the pool, right\!  
 **Kanami:** We can't waste any time\! Mihono-chan\! To prepare to fight the Pool Police, we should start practicing together right now\!  
-**Mihono:** Huh\!? Right now\!?  
+**Mihono:** Huh\!\? Right now\!\?  
 **Kanami:** Okay\! We'll spend the rest of our lunch break warming up-\!  
 **Koike Saaya:** Okay, okay. So Mihono-chan's trying to be "First in the Pool". Sounds like the Pool Police are in for a rough time again this year.  
 **Saaya:** Now then. I should leave the suspects for now and report this to the others straight away.  

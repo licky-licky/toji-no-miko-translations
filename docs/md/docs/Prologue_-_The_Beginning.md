@@ -1,13 +1,9 @@
 
 Prologue - The Beginning
 ========================
+https://www.youtube.com/watch?v=5L0bjHNHPI4
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/5L0bjHNHPI4" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Memories of the Battle yet to Come (1)
 **???:** How about this, dear. What do you think of the name "Mihono"? Written with the kanji for a beautiful flame.  
@@ -17,7 +13,7 @@ Prologue - The Beginning
 **Asakura Mihono:** ...I will\!  
 **Mihono:** So this is... Kiyomitsu. Huh? This okatana, the tip... It's gone? ...Did it break off maybe?  
 **Mihono:** .......  
-**Mihono:** ...I like it\! Yeah\! It's really cute\! It has this feeling, like it's "THE my okatana\!"  
+**Mihono:** ...I like it\! Yeah\! It's really cute\! It has this feeling, like it's "THE my okatana\!\"  
 **Mihono:** Let's do our best together, Kiyomitsu\! We'll beat up tons of aradama\! We'll fight for everyone\!  
 **Yoshizumi:** (...Is it fate, I wonder. For that okatana to choose you...)  
 **Yoshizumi:** (....I'm sorry, Mihono. For you to lose your parents when you were so young... For one as young as you to have to swing that thing around...)  
@@ -39,7 +35,7 @@ Prologue - The Beginning
 **Yukari:** Mm...\!  
 **Yukari:** Ready utsushi\! Prepare yourselves\! We are now going to suppress ***\! Know that this is a battle to secure a tomorrow for humanity\!  
 **Yukari:** Draw your swords\!  
-**Mihono:** Did we do it\!? It's over\! Where there's a will, there's a way, you know\!  
+**Mihono:** Did we do it\!\? It's over\! Where there's a will, there's a way, you know\!  
 **Mihono:** With our investigation team around, we could take on any aradama\! We're unstoppable\!  
 **Chie:** Oh, Mihono-chan... There's no "investigation team" anymore, remember?  
 **Kiyoka:** That's right.　We have a real unit name now.  
@@ -61,11 +57,11 @@ Prologue - The Beginning
 **Yukari:** ........\!  
 **Yukari:** Here it comes\! All toji, at the ready\! Give everything you have to suppress ***\!  
 **Yukari:** Good work, everyone.  
-**Mihono:** Ah, uh... This time\! This time for sure, it's over right\!?  
+**Mihono:** Ah, uh... This time\! This time for sure, it's over right\!\?  
 **Yukari:** That's right. With this, *** can no longer threaten our world...  
 **Yukari:** We... ...ven ...f...  
 **Mihono:** (Huh? Everyone's voices...)  
-**Mihono:** (Yukari-sama? Yukari-sama...\! Everyone...\!?)  
+**Mihono:** (Yukari-sama? Yukari-sama...\! Everyone...\!\?)  
 ..........................
 
   
@@ -84,14 +80,14 @@ Prologue - The Beginning
 **Mihono:** Nn...  
 **Mihono:** ...Huh? Is this... The dorms? ...My room?  
 **Chie:** Good morning, Mihono-chan.  
-**Mihono:** Morning, Chii-nee... Nn? Huh...... Chii-nee\!?  
+**Mihono:** Morning, Chii-nee... Nn? Huh...... Chii-nee\!\?  
 **Chie:** Mihono-chan? Why are you spacing out like that? Mmm, you're making your onee-san worried.  
 **Mihono:** Ahh... I get the feeling I've heard that before.  
 **Mihono:** ...That dream.  
 **Chie:** Dream?  
 **Mihono:** ...Yeah, a dream. I was fighting with a bunch of toji I've never met. You were there, and Yukari-sama was there... I think...  
 **Mihono:** Wait... Did that really happen?  
-**Mihono:** .......Wait, huhhh\!? Is that really you, Chii-nee\!? Eh? Eh? Why are you here? I mean, this is my room?  
+**Mihono:** .......Wait, huhhh\!\? Is that really you, Chii-nee\!\? Eh? Eh? Why are you here? I mean, this is my room?  
 **Chie:** ...Starting from there, huh?  
 **Chie:** Yes, without a doubt, this is Minoseki's middle school dorms, home to Asakura Mihono.  
 **Chie:** As for me, well, I was traveling home. You know my dad lives around here, so... I stop by sometimes.  
@@ -170,7 +166,7 @@ Prologue - The Beginning
 **Kanami:** Got it\! I'll do my best\! And when I get back, let's have another match\! Fighting you in the semi-finals... It was really exciting\!  
 **Kanami:** You were something else... You suddenly started coming at me in ways like no one school I've ever seen\! Where'd you learn to fight like that...\!  
 **Kanami:** If you hadn't started losing focus, I really would have been in trouble.  
-**Mihono:** ......Nn\!? S-Stop, you're making me blush...\! Okay, fine\! We'll have a rematch; that's a promise\!  
+**Mihono:** ......Nn\!\? S-Stop, you're making me blush...\! Okay, fine\! We'll have a rematch; that's a promise\!  
 **Kanami:** Yeah\! I promise\!  
 **Mai:** Kanami-chan, it's time to leave. The shinkansen is here.  
 **Kanami:** Okay\!  
@@ -178,6 +174,6 @@ Prologue - The Beginning
 **Mihono:** That's right. Etou Kanami-chan and Yanase Mai-chan. Both of them are way stronger than me, seriously.  
 **Mihono:** I've got to get stronger too\! And, like I thought, it seems like I've got to work on my concentration...  
 **Chie:** Mm, do your best. Now... I'm going to be leaving too. The westbound shinkansen just arrived.  
-**Mihono:** Eh\!? Chii-nee, you're leaving already?  
+**Mihono:** Eh\!\? Chii-nee, you're leaving already?  
 **Chie:** You have to prepare to go to Kamakura, don't you? Don't worry, we'll see each other again soon enough.  
 > :ToCPrevNext

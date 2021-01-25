@@ -1,20 +1,12 @@
 
 Juujou Hiyori Episodes
 ======================
+https://www.youtube.com/watch?v=vnuK0uJcDIQ
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/vnuK0uJcDIQ" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
+https://www.youtube.com/watch?v=LkYpstF7b2U
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/LkYpstF7b2U" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/Wlln5tvZrb0
 
   
@@ -47,9 +39,9 @@ https://youtu.be/61uP0-QaIpA
 **Kanami:** I know, right?  
 **Hiyori:** ...By the way, Kanami. Why are you aiming your phone at me?  
 **Kanami:** Welll, you just looked so cute eating ice cream that I wanted to take a video of it.  
-**Hiyori:** --Huh\!?  
+**Hiyori:** --Huh\!\?  
 **Kanami:** When you smile like that, it looks like your face is melting. And now, that smile's all mine\~.  
-**Hiyori:** ---\!? Stop messing around\!\! Delete that right now\!\!  
+**Hiyori:** ---\!\? Stop messing around\!\! Delete that right now\!\!  
 **Kanami:** Ehehe, no way\~. I bet if I uploaded it to a video site, I'd get tons of likes too\!  
 **Hiyori:** Don't do that\!\!  
 **Kanami:** For the title, how about... "Black Haired Beauty Caught on Hidden Camera Eating Ice Cream"?  
@@ -68,7 +60,7 @@ https://youtu.be/61uP0-QaIpA
 **Kiyoka:** (S-So what does she think of it... I love that book so much, but... Ahh, if only I had a little more confidence...)  
 **Kiyoka:** (? Huh...?)  
 **Hiyori:** ......sniffle...  
-**Kiyoka:** (S-She's crying...\! Juujou-senpai is crying...\!?)  
+**Kiyoka:** (S-She's crying...\! Juujou-senpai is crying...\!\?)  
 **Hiyori:** \! Who's there?  
 **Kiyoka:** Hya\! S-S-S-S-Sorry\! I didn't mean to spy on you...\!  
 **Kiyoka:** I just came to get back the book I left behind...\!  
@@ -115,7 +107,7 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** But to say they suppressed it was a lie. Origami Yukari, who they called a hero...  
 **Hiyori:** Is nothing more than the great aradama they claimed to have destroyed.  
 **Hiyori:** The disaster that threatened the world. That despicable being. An utter stain on humanity. That's what she is.  
-**Kanami:** Huh...\!?  
+**Kanami:** Huh...\!\?  
 **Hiyori:** My mother was one of the toji there at Enoshima. She should have had the power to destroy it, but she failed.  
 **Hiyori:** Now that aradama lives on, pretending to be Origami Yukari.  
 **Hiyori:** My mother's power as a toji faded, and I watched her waste away over the years. And, last year, as I stayed by her side, she passed on.  
@@ -137,18 +129,18 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** But I'd never thought of there being some kind of value related to chest size before. Is it really that bad mine are this small...?  
 **Hiyori:** In the first place, Kaoru herself is older than me, but she doesn't seem any better...  
 **Hiyori:** Considering that, I don't think my flatness is too strange...  
-**Hiyori:** ...... .........\!?  
+**Hiyori:** ...... .........\!\?  
 **Hiyori:** Ellen must be some kind of special case... The difference in size is too disturbing...  
 **Hiyori:** ...That's actually somewhat relieving. There's no way she can be considered the standard.  
 **Hiyori:** No... Wait, that reminds me...  
 **Hiyori:** I hadn't considered her until now, but Mai and Ellen together make a convincing argument...  
 **Hiyori:** And Mai is even younger than I am...  
-**Hiyori:** Is that it? Does this mean my chest should have been at least that size by now...\!?  
-**Hiyori:** And... What rule defines how large they are to begin with...\!?  
+**Hiyori:** Is that it? Does this mean my chest should have been at least that size by now...\!\?  
+**Hiyori:** And... What rule defines how large they are to begin with...\!\?  
 **Hiyori:** What do Kaoru and I lack...  
 **Hiyori:** What do Ellen and Mai have...  
 **Hiyori:** ......Cheerfulness...? Kindness...?  
-**Hiyori:** Is their size a symbol representing the depths of a person's generosity...\!?  
+**Hiyori:** Is their size a symbol representing the depths of a person's generosity...\!\?  
 **Hiyori:** ......  
 **Hiyori:** \! Kanami\! That's right, I still have Kanami\!  
 **Hiyori:** She's fairly cheery and considerate. Much more than Kaoru and I at least; more on Mai and Ellen's level\!  
@@ -171,7 +163,7 @@ https://youtu.be/61uP0-QaIpA
 **Kanami:** No, it's just, your notes look so pretty, Hiyori-chan. I already knew about Mai-chan, but I didn't think you were so good at studying too...  
 **Kanami:** You're both such strong toji, so don't you think it's unfair you get good grades too?  
 **Hiyori:** Shut up. I bet you only think about swordfighting in the middle of lectures. You should pay more attention.  
-**Kanami:** Wait, how'd you know? Did you peek in one day\!?  
+**Kanami:** Wait, how'd you know? Did you peek in one day\!\?  
 **Hiyori:** Sigh... We're getting sidetracked, so just forget it.  
 **Hiyori:** In the time we've wasted now, you could have finished at least one page. Work on catching up.  
 **Kanami:** Fiiine...  
@@ -184,7 +176,7 @@ https://youtu.be/61uP0-QaIpA
 **Kanami:** ......  
 **Kanami:** ......\! ......\~\!  
 **Hiyori:** (She's finally quieted down. I started doubting her ability to concentrate, but it looks like she's resigned to take this seriously...)  
-**Hiyori:** Hey, what are you doodling in your textbook for\!?  
+**Hiyori:** Hey, what are you doodling in your textbook for\!\?  
 **Kanami:** Because, I feel like I could come up with a better method than the one they're teaching in here.  
 **Kanami:** See, look\~ With the stance they're teaching, you lose awareness around here\~ But... How about this\!  
 **Hiyori:** The tactics in there have been tested countless times through history. You won't just come up with something better like that...  
@@ -192,36 +184,32 @@ https://youtu.be/61uP0-QaIpA
 
   
 **Hiyori:** Hm? Actually... This might work too...  
-**Kanami:** Right\!?  
+**Kanami:** Right\!\?  
 **Hiyori:** ...No, it wouldn't. See, in this situation, your opponent could then...  
 **Kanami:** Whoops, you're right... Ah, what about...  
 **Hiyori:** Rather than that, you could...  
 **Hiyori:** ......Ah\!  
 **Hiyori:** Hey\! Now you're getting me distracted too\!\!  
 **Kanami:** Calm down, Hiyori-chan. Even if you slack off here, you'll still get good grades.	  
-**Hiyori:** What's with that condescending attitude\!? In the first place, you're the one who asked me to help you study for your test\!  
+**Hiyori:** What's with that condescending attitude\!\? In the first place, you're the one who asked me to help you study for your test\!  
 **Mai (who was here the whole time):** Fufu... You're actually pretty good at taking care of people, aren't you, Hiyori-chan?  
 *Hiyori leans over to Mai*
 
   
-**Hiyori:** Hey, Mai\! Isn't she your responsibility\!? Don't laugh like it's my problem; help me out with her\!  
+**Hiyori:** Hey, Mai\! Isn't she your responsibility\!\? Don't laugh like it's my problem; help me out with her\!  
 **Mai:** Hmmm, I don't know about that? Lately, it feels more and more like you're the one on Kanami-chan duty...  
 **Mai:** And I'm busy with my own studying too. Take good care of Kanami-chan for me, Hiyori-chan\~.  
 **Hiyori:** M-Mai...? That smile of yours looks strangely forced... Are you mad about something...?  
 **Mai:** I'm not mad. Maybe just a little jealous.  
-**Hiyori:** Huh...\!?  
+**Hiyori:** Huh...\!\?  
 *Kanami jumps up*
 
   
 **Kanami:** Hey, Hiyori-chan\! I just thought of a really good idea\! Can we do a practice round to test it out?  
 **Hiyori:** You just get back to work\!  
+https://www.youtube.com/watch?v=LkYpstF7b2U
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/LkYpstF7b2U" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## [Stage Girl: Start]: We'll Starlight\!
 **Hiyori:** HAAA\!  
@@ -232,12 +220,12 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** You say that, but it's awkward with you watching me so closely...  
 **Karen:** Ah, that makes sense\! Then I'll just say what I'm thinking\!  
 **Karen:** Your swordsmanship is so pretty, Hiyori-chan\!  
-**Hiyori:** Wh-What\!?  
+**Hiyori:** Wh-What\!\?  
 **Karen:** Your movements never waver, and the way you swing your sword, it feels so dignified\!  
 **Karen:** How did you learn to swing your sword so pretty?  
 **Hiyori:** How? All I can say is, I was dedicated to my training...  
 **Karen:** Then it really is all about practice, huh. I was hoping you'd say there's some trick to it.  
-**Karen:** Are there any, Hiyori-chan\!?  
+**Karen:** Are there any, Hiyori-chan\!\?  
 **Hiyori:** Uh... Y-Your face is too close...  
 **Hiyori:** Kh... In that case, why don't I let you experience it firsthand?  
 **Karen:** Firsthand?  
@@ -260,7 +248,7 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** A staircase...? The stage really does build up on its own.  
 **Karen:** I'm not really sure how it works though\! YAAAAAA\!\!  
 **Hiyori:** Hmph\! Don't think you'll find an opening that easy\!  
-**Karen:** Whoa, you avoided that so easy\!? Ahh, guess that won't work either.  
+**Karen:** Whoa, you avoided that so easy\!\? Ahh, guess that won't work either.  
 **Hiyori:** Still... What's going on with this place? This strange stage we're on.  
 **Karen:** What kind of stage do you want it to be, Hiyori-chan? If you think about it, I think it'll change.  
 **Hiyori:** For me? It's okay for me to change it too?  
@@ -268,22 +256,22 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** Hmm...  
 **Karen:** ...Now's my chance\! You're wide open\!  
 **Hiyori:** No I was not\! ...Still, I might as well try this out now.  
-**Karen:** Chocolate mint\!?  
+**Karen:** Chocolate mint\!\?  
 **Hiyori:** I don't believe it... It actually appeared.  
 **Karen:** You like chocolate mint, Hiyori-chan? That's good for when you have to brush your teeth, huh\!  
 **Hiyori:** I don't need it for that\!  
-**Karen:** Wah\!? Wawawa\!\!  
-**Hiyori:** Stop dodging\! Didn't you want to experience my swordsmanship\!?  
-**Karen:** Easy for you to say, but... Wawa\!? I-I've gotta strike back... YAH\!  
+**Karen:** Wah\!\? Wawawa\!\!  
+**Hiyori:** Stop dodging\! Didn't you want to experience my swordsmanship\!\?  
+**Karen:** Easy for you to say, but... Wawa\!\? I-I've gotta strike back... YAH\!  
 **Hiyori:** Too slow\!  
-**Karen:** Uwah\!?  
+**Karen:** Uwah\!\?  
 **Karen:** I seriously can't hit you at all\!  
 **Hiyori:** Why do you look happy about that?  
 **Karen:** Cause I get to see your pretty swordfighting up close\! I'm learning a whole lot\!  
 **Hiyori:** It's about time you showed what you're learning then.  
 **Karen:** You're right... How about this\!  
 **Karen:** HAAAAAAAAAA\!\!  
-**Hiyori:** -\!? That movement, that's from when I...\!  
+**Hiyori:** -\!\? That movement, that's from when I...\!  
 **Karen:** Nice\! I made you block me with your okatana\!  
 **Hiyori:** Right, that attack wasn't too bad just now.  
 **Karen:** Stage girls are evolving every day\!  Let's do some more, Hiyori-chan\!  
@@ -339,7 +327,7 @@ https://youtu.be/Wlln5tvZrb0
 **Hiyori:** (Here they come...\!)  
 **???:** No you don't-\! YAAAA\!  
 **Aradama:** GAAA,aaaa...  
-**Kanami:** Are you okay, Hiyori-chan\!?  
+**Kanami:** Are you okay, Hiyori-chan\!\?  
 **Hiyori:** K-Kanami...?  
 **Mai:** And she's not the only one who came to help.  
 **Hiyori:** Mai, and the rest of you too...?  
@@ -374,7 +362,7 @@ https://youtu.be/Vm_3KVXqxvE
 **Hiyori:** As always... You act the same towards everyone when swordfighting is involved. Well, that's how you are.  
 **Kanami:** I mean, she can dual wield, can't she? Yukari-sama and Shichinosato-san can do it too, but it's not something you get to see all that often, is it?  
 **Sonoko:** Nibosshi, you get along with her without fighting, okay-? Also, here's 500 yen for snacks.  
-**Karin:** Am I going on a field trip\!? What if they think us Heroes can't take things seriously\!  
+**Karin:** Am I going on a field trip\!\? What if they think us Heroes can't take things seriously\!  
 **Sonoko:** For your snacks-- Don't you think it would be best to re-energize with some sugar when you get a break? And also, Niboshi don't count as snacks, so don't worry about that\~.  
 **Karin:** Of course they don't. Niboshi form a complete diet.  
 **Hiyori:** (...Niboshi? Niboshi, huh.)  
@@ -415,8 +403,8 @@ https://youtu.be/Vm_3KVXqxvE
 **Karin:** Alright. We should rehydrate now, while we have the opportunity.  
 **Hiyori:** Good idea. [gulp gulp]...  
 **Karin:** I'll take some supplements too...  
-**Hiyori:** \!?  
-**Hiyori:** (Just how many does she have\!?)  
+**Hiyori:** \!\?  
+**Hiyori:** (Just how many does she have\!\?)  
 **Hiyori:** ...Hey, why are you taking so many supplements?  
 **Karin:** It's a part of keeping my body in healthy condition, of course. If I were getting sick often, I wouldn't be able to function as a Hero.  
 **Hiyori:** You have a point, but can't you get the nutrition you need from proper meals?  
@@ -533,9 +521,9 @@ https://youtu.be/61uP0-QaIpA
 
 ## [Pirate - Hiyori: Start]: Inami and Shichinosato and...
 **Aradama:** KSHAAAAAA...\!\!  
-**Suu:** ...I-It's here\!?  
+**Suu:** ...I-It's here\!\?  
 **Hiyori:** (There's no way she'll beat it hunched over in fear like that--)  
-**Suu:** Uwah\!? Uwahh\!?  
+**Suu:** Uwah\!\? Uwahh\!\?  
 **Hiyori:** HAAH...\!  
 **Aradama:** GUOOooo...  
 **Hiyori:** Honestly... What are you even doing? Calm down and hold your okatana properly. Are you trying to get yourself hurt?  
@@ -563,7 +551,7 @@ https://youtu.be/61uP0-QaIpA
 **Suu:** But, what should we do? Juujou-san, Shichinosato-san...  
 **Kofuki:** I don't really have a choice, so I'll do this with you; at least till we get to the X on the map.  
 **Hiyori:** Are we fine with not going after the other team's maps?  
-**Kofuki:** Mihocchi was all, "Let's plunder-\!" but if the map you steal's no good, there's no point.  
+**Kofuki:** Mihocchi was all, "Let's plunder-\!\" but if the map you steal's no good, there's no point.  
 **Suu:** ...I think that's fine\! It's important to clear the game fast too\!  
 **Hiyori:** There is a time limit; they were saying it goes until the cannons fire 3 times.  
 **Suu:** It should be just about thirty minutes.  
@@ -574,11 +562,11 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** Suu's... not the most reliable.  
 **Kofuki:** ......  
 **Kofuki:** Tch... Guess if I've gotta.  
-**Suu:** Ehh... As long as there aren't any aradama, I'm not like that\! ...I won't lose the map, okay\!?  
+**Suu:** Ehh... As long as there aren't any aradama, I'm not like that\! ...I won't lose the map, okay\!\?  
 
 ## [Pirate - Hiyori: End]: This Might Not Be So Bad Every Now and Then... Huh
 **Suu:** I didn't think the cave drawing on the map would take us to a big stalactite cave facility, and they even had a boat for us. This has to be it--  
-**Suu:** --HYAUU\!?  
+**Suu:** --HYAUU\!\?  
 **Kofuki:** Don't shout like that outta nowhere... You made me jump.  
 **Suu:** But some water dripped on me\! They made this way too real in some weird places...  
 **Hiyori:** Anyway, you were just saying you thought this was it; why's that?  
@@ -591,9 +579,9 @@ https://youtu.be/61uP0-QaIpA
 **Kofuki:** This must be it. Hey you, go and get the thing.  
 **Suu:** Roger that-. Inami Suu is setting off-.  
 **Aradama:** GYUUU...\!  
-**Suu:** GYAAH\!? Something came out\!?  
-**Suu:** ...A-A-A-Aradamaaa\!?  
-**Kofuki:** ...What\!? After it\!  
+**Suu:** GYAAH\!\? Something came out\!\?  
+**Suu:** ...A-A-A-Aradamaaa\!\?  
+**Kofuki:** ...What\!\? After it\!  
 **Aradama:** ......  
 **Kofuki:** You're running around all over the place, but this is it\!  
 **Hiyori:** It was so small it hardly showed up on the spectrum finder, so it's a good thing we found it.  
@@ -614,6 +602,6 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** And you... You just want to hunt aradama yourself, am I wrong?  
 **Suu:** That's right, tell her some more\!  
 **Kofuki:** Oh\! Mihocchi and Kiyoka are headed over. Go shove this pendant in their faces, Hunchback.  
-**Suu:** Hunchback\!? Could you please not call me weird names... It's rude\!  
+**Suu:** Hunchback\!\? Could you please not call me weird names... It's rude\!  
 **Hiyori:** Good grief...  
 > :ToCPrevNext

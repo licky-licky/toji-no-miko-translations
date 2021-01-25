@@ -1,13 +1,9 @@
 
 Konohana Suzuka Episodes
 ========================
+https://www.youtube.com/watch?v=w2NeeHf2gB0
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/w2NeeHf2gB0" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/MB7eNdGUsHU
 
   
@@ -27,7 +23,7 @@ https://youtu.be/t74NJwnCerI
 **Suzuka:** For the sake of the Konohana family, and more precisely, for my own sake.  
 **Mai:** You've always had your act together. Compared to you, I--  
 **Woman:** Kyaaaaa--\!\! L-Look outside; an aradama\!\!  
-**Suzuka:** What was that\!?  
+**Suzuka:** What was that\!\?  
 **Mai:** What's it doing out here...?  
 **Suzuka:** We can think about that later. First, we need to destroy that aradama. Will you help me?  
 **Mai:** Yes, of course\!  
@@ -61,7 +57,7 @@ https://youtu.be/t74NJwnCerI
 **Maki:** If you aren't one, then what even is an ojou-sama?  
 **Maki:** I've heard rumors that, in middle school, you rode in a different luxury car to school every day.  
 **Suzuka:** ...? What's so strange about that?  
-**Maki:** So it's true\!? Why would you change cars every day? And luxury cars too\!  
+**Maki:** So it's true\!\? Why would you change cars every day? And luxury cars too\!  
 **Suzuka:** I'm sorry? You're the one saying strange things now. You change clothing every day, don't you? Why would cars be any different?  
 **Maki:** Of course it's different\!\! Don't compare cars costing tens of millions of yen to clothes...\!  
 **Suzuka:** But outfits costing several tens of millions of yen aren't all that uncommon, are they?  
@@ -69,7 +65,7 @@ https://youtu.be/t74NJwnCerI
 **Suzuka:** That's a misunderstanding. Even I've never flown in a helicopter to school.  
 **Maki:** It figures, that one's just idle gossip...  
 **Suzuka:** Yes, a helicopter wouldn't have made it in time. I rode a Harrier instead.  
-**Maki:** Isn't that a fighter jet\!? I knew it; you're an ojou-sama among ojou-samas.  
+**Maki:** Isn't that a fighter jet\!\? I knew it; you're an ojou-sama among ojou-samas.  
 **Suzuka:** But I think I'm fairly ordinary, though?  
 **Maki:** Do I even want to know your definition of ordinary...?  
 **Maki:** Still, I'm surprised you not only go to convenience stores, but supermarkets too. Or do you have someone get these for you?  
@@ -95,7 +91,7 @@ https://youtu.be/t74NJwnCerI
 **Suzuka:** With an overambitious plan, someone must have put you up to it, didn't they?  
 **Suzuka:** Prepare yourself. I'll have you tell me everything.  
 **Man:** ....Ghkhg\!\!  
-**Suzuka:** Wha\!? What are you doing\!?  
+**Suzuka:** Wha\!\? What are you doing\!\?  
 **Man:** .........  
 **Suzuka:** He's dead... It seems he prepared a suicide capsule in the back of his teeth.  
 **Suzuka:** This is inexcusable. To have lost such a valuable witness right from under me... Yukari-sama, I'll accept any punishment you give.  
@@ -108,7 +104,7 @@ https://youtu.be/t74NJwnCerI
 ## 4: The Time we Spent Together
 **Maki:** What's the matter; your attacks are getting softer. Tired already?  
 **Suzuka:** Funny, coming from you. Your footwork is already slipping, Maki-san.  
-**Maki:** Now you've said it. How about this\!?  
+**Maki:** Now you've said it. How about this\!\?  
 **Suzuka:** Kuh...\! How much longer can you go on\!  
 **Suzuka:** Hah--\!\!  
 **Maki:** Oh, that was a good strike. For practice, you're sure coming at me with a lot of passion. Reminds me of when we first met\!  
@@ -128,7 +124,7 @@ https://youtu.be/t74NJwnCerI
 **Suzuka:** Isn't that the case for you, Maki-san? You've done nothing but win against me lately. You have to be taking me lightly by now.  
 **Maki:** Suzuka, to me you're a close friend I know I can rely on. But at the same time, I see you as my rival.  
 **Maki:** Every day I'm trying desperately not to be outdone by you. You never give me a spare moment to take you lightly.  
-**Suzuka:** ...\!? You're always going on like that... Then, today's the day I overtake you\!  
+**Suzuka:** ...\!\? You're always going on like that... Then, today's the day I overtake you\!  
 **Maki:** Not going to happen. Even in practice, you're the one person I never want to lose to\!  
 **Suzuka:** That's what I wanted to say\! Regardless of anyone else, I have no intention of giving you an easy victory\!  
 **Suzuka:** Yah---\!\!  
@@ -152,7 +148,7 @@ https://youtu.be/t74NJwnCerI
 **Suzuka:** Ara, Maki-san, you didn't have to come all this way to deliver them.  
 **Maki:** It's a part of the job; don't worry about it. I skimmed over it earlier. Our next mission seems fairly challenging.  
 **Suzuka:** Ara, are you losing your nerve? Don't worry, I'll cover your share of the work if you need me.  
-**Maki:** Who said anything like that\!? I only wanted to warn you it looks difficult\! It won't be a problem for me\!  
+**Maki:** Who said anything like that\!\? I only wanted to warn you it looks difficult\! It won't be a problem for me\!  
 **Suzuka:** Is that so? In any case, you can always depend on me being there to support you.  
 **Maki:** That's what I should be saying...  
 **Wakako:** ...I'm really not fit to be the one standing at Suzuka-sama's side, am I. She looks so much more splendid together with Maki-sama...  
@@ -168,7 +164,7 @@ https://youtu.be/t74NJwnCerI
 **Suzuka:** No, we have a ring equipped with a transmitter, so we only need the aradama to steal it.  
 **Maki:** I see, that makes sense.  
 **Maki:** So you'll be the bride, the aradama will steal the ring, we track where it goes, and this will all be solved.  
-**Suzuka:** Eh\!?  
+**Suzuka:** Eh\!\?  
 **Maki:** Did I get something wrong?  
 **Suzuka:** N-No... Only, I'll be the bride? The members from the previous mission have all been gathered...  
 **Maki:** Of course, if there's a chance you'll be in danger, I'll be right there to protect you. But wouldn't it be best if we were the ones doing the dangerous work?  
@@ -320,7 +316,7 @@ https://youtu.be/gTpQZtWj_rg
 **Suzuka:** It's about the birthday present we bought for Yomi-san the other day.  
 **Maki:** Oh yeah. We picked out a great present thanks to you. I'm looking forward to surprising her with it. But, what about it?  
 **Suzuka:** You see, I had hidden it in the back of the record room so that Yomi-san wouldn't find it until the 24th...  
-**Maki:** Don't tell me she found it\!?  
+**Maki:** Don't tell me she found it\!\?  
 **Suzuka:** No, I was able to retrieve it just in time, but Yomi-san' intuition is sharp. I'm not quite sure how to keep it a secret until the day of.  
 **Maki:** I get it. You're right, that's an important discussion to have.  
 **Suzuka:** To begin with, anywhere we can enter, Yomi-san freely enters as well...  

@@ -54,11 +54,11 @@ https://youtu.be/w5SUJ2yqPuo
 **Suu:** Why do I have to do training before the practice though... You'll make me die from exhaustion.  
 **Hokuto:** You won't have to worry. I took into account your stamina and muscle mass while making this regimen.  
 **Suu:** Hokuto-san, you'd go that far... for me.  
-**Suu:** But that doesn't mean I have to do it... Right\!?  
+**Suu:** But that doesn't mean I have to do it... Right\!\?  
 **Hokuto:** ...I went along with you to your event, so join me in training for a while. Just a little while is fine.  
 **Suu:** Ahh-... I don't want to go to training or to practice.  
 **Hokuto:** An aradama signal...?  
-**People on the Streets:** A-ARADAMAAAA\!?  
+**People on the Streets:** A-ARADAMAAAA\!\?  
 **Hokuto:** ...\!  
 **Aradama:** ...GRRUUU\!  
 **Hokuto:** We're going... Suu.  
@@ -73,7 +73,7 @@ https://youtu.be/w5SUJ2yqPuo
 **Hokuto:** Once backup arrives, this will be easier... Just hold out a little longer. You can still use utsushi, can't you?  
 **Suu:** You said that a while ago\~\~...  
 **Aradama:** ...GUGGGGI\!  
-**Suu:** Awawawa... There's a really big one coming our way-\!?  
+**Suu:** Awawawa... There's a really big one coming our way-\!\?  
 **Sanae:** We're here to support you\!  
 **Suu:** \!\!  
 **Suu:** Th-Thank you so much, thank you so much...\!  
@@ -89,7 +89,7 @@ https://youtu.be/w5SUJ2yqPuo
 **Suu:** If some strong girls are here, then we should leave it to them and evacuate\!  
 **Hokuto:** I don't think that's going to happen. Don't lose heart now.  
 **Aradama:** GRRRUUU...\!  
-**Suu:** Why do they just keep coming one after the other...\!?  
+**Suu:** Why do they just keep coming one after the other...\!\?  
 **Hokuto:** We can't afford to leave everything to just those two.  
 **Hokuto:** YAAAAA-\!  
 **Aradama:** ...uuuu\!\!  
@@ -99,7 +99,7 @@ https://youtu.be/w5SUJ2yqPuo
 **Suu:** I'd appreciate it if you wouldn't count me as part of that-\!  
 **Sanae:** Err, but that's...  
 **Hokuto:** The four of us will fight.  
-**Suu:** Hey\!?  
+**Suu:** Hey\!\?  
 **Sanae:** Then, Asahina-san and Juujou-san will respond to aradama as they appear.  
 **Sanae:** And, I'll go with the girl from Renpu, um...  
 **Suu:** It's... Inami. But, just to be clear, I'm not any good at fighting\!  
@@ -135,7 +135,7 @@ https://youtu.be/w5SUJ2yqPuo
 **Hokuto:** Ahh, that's why. I don't push myself as hard as I used to though.  
 **Suu:** No no no, you still train more than enough, Hokuto-san\! I feel like, if I didn't ask you to come out with me, you'd be stuck training again.  
 **Hokuto:** What makes you think that...  
-**Suu:** Cause, every time we get together, you're always trying to get me to practice with you, aren't you\!?  
+**Suu:** Cause, every time we get together, you're always trying to get me to practice with you, aren't you\!\?  
 **Hokuto:** That's because you show a lot of promise, Suu. If you train properly, I know you'll become much stronger.  
 **Suu:** ...But, it's not like I want to be stronger.  
 **Hokuto:** Wouldn't that be a waste of your talents? You were chosen to be a part of this joint-practice as well, weren't you?  
@@ -209,7 +209,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Suu:** (I don't want to get involved with Tsubakuro-san... No, I don't want anything to do with anyone from the elite guard\!)  
 **Suu:** (Back then... When we met in Okinawa, they were way too scary...\!)  
 **Maki:** Well if it isn't Asahina Hokuto and Inami Suu.  
-**Suu:** HYAAU\!?  
+**Suu:** HYAAU\!\?  
 **Maki:** ? What's wrong with her?  
 **Hokuto:** Don't worry about her, Shidou-san. Anyway, what did you need?  
 **Maki:** Nothing, just thought I'd say hi to you two. I'm sure this training will be helpful for you. I hope you'll make good use of it.  
@@ -251,7 +251,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Hokuto:** That won't do. If you won't participate seriously, this training will lose its meaning.  
 **Hokuto:** And on top of that... If we aren't able to coordinate during our missions, you might be injured beyond recovery.  
 **Kofuki:** ...Like I'm supposed to care.  
-**Suu:** Uhh, umm... Why don't we all take some deep breaths and calm down first\!?  
+**Suu:** Uhh, umm... Why don't we all take some deep breaths and calm down first\!\?  
 **Kiyoka:** ...Asahina-san is right, Kofuki-san. If you ended up getting hurt, I'd be upset.  
 **Kofuki:** ...Tch.  
 **Kofuki:** Fine, I get it. Let's just figure this out already.  
@@ -265,7 +265,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Hokuto:** Kh... She's quick\!  
 **Kiyoka:** I'll be right--  
 **Sanae:** I'm not letting you go, Musumi-san\!  
-**Kiyoka:** Eh, when did you...\!?  
+**Kiyoka:** Eh, when did you...\!\?  
 **Sanae:** Now's our chance\!  
 **Tsugumi:** Understood.  
 **Kofuki:** You're actually taking this seriously... Really?  
@@ -273,14 +273,14 @@ Before the start of the Renpu Heijou Joint-Training.
 **Tsugumi:** It would be a problem if they didn't think I was serious and our research funding was reduced-.  
 **Tsugumi:** Though, you're not my opponent now anyway, Shichinosato-san.  
 **Hokuto:** ...Suu, stand firm\!  
-**Suu:** Thinking about it, they have to be coming after me, right--\!?  
+**Suu:** Thinking about it, they have to be coming after me, right--\!\?  
 **Tsugumi:** Sorry about this. Anyway.  
-**Suu:** NOOOOOO\!?  
+**Suu:** NOOOOOO\!\?  
 **Suu:** Even with utsushi, it still hurts... Uuu...  
 **Kiyoka:** I know what you mean... It sure hurts, doesn't it. When you're being slashed, you can't help but flinch against it.  
 **Suu:** Ahh, I'm so glad someone here understands\! Thank you, Musumi-san\!  
 **Suu:** I can't be useful at all, so I... I'm thinking of withdrawing from this. I feel like that's the best way for me to contribute\!  
-**Kiyoka:** Eh... P-Please, hold on a minute\!? We'll be in trouble without you, Inami-san\!  
+**Kiyoka:** Eh... P-Please, hold on a minute\!\? We'll be in trouble without you, Inami-san\!  
 **Kiyoka:** And also, this is just a maybe, but... If Kofuki-san and Asahina-san can't coordinate, then this group won't...  
 **Suu:** ...Right.  
 **Hokuto:** ......  
@@ -296,7 +296,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Suu:** ...It's nothing.  
 **Yume:** I think I might've seen you before. Did we meet somewhere, Onee-san?  
 **Suu:** Ehh-... Ahh-... Umm-... Uhh-...  
-**Suu:** (What should I do, what should I do... Maybe it'd be fine if I said honestly, we met last year in Okinawa? But, but, if I pretend like she's got the wrong person, maybe she'll lose interest and go away\!?)  
+**Suu:** (What should I do, what should I do... Maybe it'd be fine if I said honestly, we met last year in Okinawa? But, but, if I pretend like she's got the wrong person, maybe she'll lose interest and go away\!\?)  
 **Yume:** I can't tell what you mean when you just say "Uhh-...", Onee-san.  
 **Suu:** Th-There's no way we could have met anywhere before, Tsubakuro-sama...  
 **Yume:** Why're you calling me Tsubakuro-sama even though I'm younger? Wait, this feels familiar for some reason...  
@@ -358,7 +358,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Hokuto:** It seems like now's not the time for our match.  
 **Kofuki:** Sounds like a whole load of aradama-chan are out there. Good thing I joined in on this training.  
 **Hokuto:** We'll be up against aradama, so I'll be depending on you readily.  
-**Suu:** Ahhh, why did this have to happen-\!?  
+**Suu:** Ahhh, why did this have to happen-\!\?  
 
 ## 7: Everyone's... Pretty Motivated, Aren't They?
 **Yomi:** From here, you will be organized into units formed by two or three groups from the earlier practice... and undertake this mission in Harajuku.  
@@ -366,7 +366,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Hiyori:** ...The silver lining is this happened while we were here training. With all these people, we can take care of it quick.  
 **Sayaka:** Mm... I want to show what we've learned from training.  
 **Suu:** Ahhh... Even though the training was hard, I thought we wouldn't be in any danger at least...  
-**Suu:** Ah--\!?  
+**Suu:** Ah--\!\?  
 **Suu:** With all these amazing people here, do they really need me? They don't need me, do they\!  
 **Hokuto:** That won't do. This is your mission too, so you need to handle it properly.  
 **Suu:** But I think I'm definitely not needed here... Sigh... It's scary; I don't want to fight any aradama.  
@@ -409,18 +409,18 @@ Before the start of the Renpu Heijou Joint-Training.
 **Kiyoka:** Ah, she ran off. Please come baaaack\!  
 **Kofuki:** Just gimme a minute.  
 **Aradama:** ...GUGGGI\!  
-**Suu:** ...Waaahh\!? They came this way\!?  
+**Suu:** ...Waaahh\!\? They came this way\!\?  
 **Suu:** I feel like I'm in danger; I'm running away\!  
-**Kiyoka:** Not you too, Inami-san\!? There's still aradama that way\!  
+**Kiyoka:** Not you too, Inami-san\!\? There's still aradama that way\!  
 **Aradama:** ......  
 **Kofuki:** This's it for you--  
 **Suu:** Save me... pleaseeeeee...\!  
-**Kofuki:** Huh\!? Hey... You're getting in the way of the good part\!  
+**Kofuki:** Huh\!\? Hey... You're getting in the way of the good part\!  
 **Suu:** Buttt...  
 **Kofuki:** Well, I'll give you credit for bringing me more aradama-chan at least\!  
 **Aradama:** ...GGGII\!  
-**Suu:** Eeeeeek\!?  
-**Kiyoka:** ...Inami-san\!? Whatever you do, keep your utsushi up\!  
+**Suu:** Eeeeeek\!\?  
+**Kiyoka:** ...Inami-san\!\? Whatever you do, keep your utsushi up\!  
 Elsewhere, Hokuto and the others were--
 
   
@@ -432,7 +432,7 @@ Elsewhere, Hokuto and the others were--
 **Hokuto:** (Itomi Sayaka, Juujou Hiyori... They really are strong.)  
 **Hokuto:** (It's not that I think I'll get the chance to become that strong just by completing missions with them, but, a toji's strength... There might be no limit to it.)  
 **Hokuto:** (Though... Why are there this many talented individuals in one group to begin with?)  
-**Screaming Voice:** EEEEEEKK\!?  
+**Screaming Voice:** EEEEEEKK\!\?  
 **Screaming Voice:** SOMEBODY HELP MEEEEEEEEEE...\!  
 **Hiyori:** Just now; that's...\!  
 **Hokuto:** ...It's Suu. Let's hurry.  
@@ -444,19 +444,19 @@ Elsewhere, Hokuto and the others were--
 **Sayaka:** I saw you reapply utsushi just now. You can still fight.  
 **Suu:** I've been in a huge pinch this whole time\!  
 **Hokuto:** She can still fight. Suu can use utsushi even more than this.  
-**Suu:** Why are you telling them that\!?  
+**Suu:** Why are you telling them that\!\?  
 **Sayaka:** That's amazing...  
 **Kofuki:** In that case, you can keep on being aradama bait for me\!  
-**Suu:** Ehhhhh\!?  
+**Suu:** Ehhhhh\!\?  
 **Aradama:** ......  
 **Tsugumi:** Certain data does indicate that aradama also tend to attack weaker seeming targets. Though it's still in need of verification.  
-**Suu:** Don't just decide that on your own...\!\! I'm not an aradama charmer, okay\!?  
+**Suu:** Don't just decide that on your own...\!\! I'm not an aradama charmer, okay\!\?  
 **Sayaka:** You don't need to worry. We'll protect you, Suu.  
 **Suu:** Th-Thank you very much\!  
 **Suu:** But still, I want you to save me right now\! Get me out of this situation...\!  
 
 ## 9: If Possible... I'd Like a Break From Missions for a While 
-**Suu:** Eep\!?  
+**Suu:** Eep\!\?  
 **Tsugumi:** Are you doing alright-?  
 **Suu:** I just got a little spooked by the sound of okatana hitting an aradama...  
 **Suu:** Even though I realize everyone's getting rid of the aradama.  
@@ -498,7 +498,7 @@ Elsewhere, Hokuto and the others were--
 **Hokuto:** Though, since you weren't hurt in the end, it turned out fine.  
 **Suu:** No way; this time was bad enough that I want a special vacation or something. My heart took more than enough damage\!  
 **Maki:** What's this? I'd heard Inami was about to drop from exhaustion, but you look lively enough to me.  
-**Suu:** Shidou-san\!? D-Did you need something from us?  
+**Suu:** Shidou-san\!\? D-Did you need something from us?  
 **Maki:** Nothing in particular. Just checking in on the toji who took part in the mission.  
 **Hokuto:** You elite guard must have had your hands full too. Though, there's something on my mind. Mind if I ask you?  
 **Maki:** Go right ahead.  
@@ -511,7 +511,7 @@ Elsewhere, Hokuto and the others were--
 **Maki:** Knowing you two, I suggested you. And, it doesn't look like I was wrong.  
 **Suu:** Sigh... Just because I can use utsushi a little more than usual, I wish you wouldn't forget how weak I am...  
 **Sayaka:** I... I want to see how many times you can apply utsushi.  
-**Suu:** I-Itomi-sama\!? How long have you been here for\!?  
+**Suu:** I-Itomi-sama\!\? How long have you been here for\!\?  
 **Sayaka:** Not long. I saw you from the front entrance.  
 **Sayaka:** But, why are you using "sama"? I'm... not that important.  
 **Suu:** Itomi-sama... You're way too strong, aren't you... So that's why\!  

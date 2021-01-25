@@ -1,13 +1,9 @@
 
 Let's All BBQ in the Great Outdoors!
 ====================================
+https://www.youtube.com/watch?v=Jpu5TIzQvho
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/Jpu5TIzQvho" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The BBQ Boss Is Here to Help
 **Mihono:** We're at the campsiiite\~\! Barbecue, barbecue\~\!  
@@ -44,7 +40,7 @@ Let's All BBQ in the Great Outdoors!
 **Nao:** It's nice and warm out, so an afternoon nap might be nice too\~.  
 **Ellen:** Now that would be refreshing. If Kaoru could hear you, she'd be jealous, fufu.  
 **Kiyoka:** (Mmmm, "A sleeping child is a growing child"... What if that saying is true?)  
-**Scream:** UWAAAA...\!? A-ARADAMAAA\!  
+**Scream:** UWAAAA...\!\? A-ARADAMAAA\!  
 **Mihono:** \! Guys, let's go\!  
 **Nao:** Are you hurt\~? Is anyone injured?  
 **Barbecue Goer:** It's nothing serious... But, the food for the barbecue...  
@@ -58,7 +54,7 @@ Let's All BBQ in the Great Outdoors!
 **Mihono:** Wha...  
 **Ellen:** What? What's wrong?  
 **Mihono:** ...It's gone\! My meat\!\! My meat's not here\!\!  
-**Mihono:** IT'S GOOOONE\!?  
+**Mihono:** IT'S GOOOONE\!\?  
 
 ## 2: Search for the Stolen Meat
 **Mihono:** Pant... Pant... Where's the aradama? Where's my meat?  
@@ -71,14 +67,14 @@ Let's All BBQ in the Great Outdoors!
 **Mihono:** Okay... Ahh, I'm feeling hungry now... If this was going to happen, we should've done the barbecue as soon as we got here-.  
 **Mihono:** Aradama must be meat eaters after all\! When I was in Chinatown, they showed up at the meat bun shop too\!  
 **Ellen:** Have you ever actually seen them eating though? From my Papa and Grandpa's research, aradama shouldn't eat meat or other foods.  
-**Mihono:** Ehh-\!? So wait, they took it even though they aren't gonna eat it\!? They're just being mean\!  
+**Mihono:** Ehh-\!\? So wait, they took it even though they aren't gonna eat it\!\? They're just being mean\!  
 **Chie:** That's the part that makes you upset, hmm...  
 **Nao:** If I had my favorite food stolen out from under me right as I was looking forward to it, I think I'd be just as upset as Asakura-san\~.  
 **Nao:** Especially the mandarin oranges I have sent to me straight from the farm every winter. I'd hate to lose those.  
 **Mirja:** Oh, do you mean the ones we take when we stop by your room from time to time?  
 **Nao:** The ones I put out for you are just from the supermarket. Besides those, I always get just a few shipments of first rate mandarins\~. But you're not getting any\~.  
 **Mirja:** I'll look forward to this year's winter then. And spread the word to Mizushina Kinuka.  
-**Nao:** Hey, Mirja\!?  
+**Nao:** Hey, Mirja\!\?  
 **Kiyoka:** You two get along so well. I hardly ever see Mirja-san teasing with someone like this\!  
 **Nao:** Well, we are senpai and kouhai from the same school, and we've been hanging out together for a long time too\~.  
 **Kiyoka:** I think it's nice to have that kind of relationship.  
@@ -88,7 +84,7 @@ Let's All BBQ in the Great Outdoors!
 **Mihono:** And no matter what, I'm not giving up on my meat\!\!  
 **Kiyoka:** It's no good if we don't get your meat, Hono-chan. It looked so delicious, and this was the perfect chance to make some observations during the barbecue. We can't afford to lose it\!  
 **Mihono:** Let's go, Kiyoka\! We'll beat the aradama and barbecue\! We're coming to get you, my meaaaaat\!  
-**Kiyoka:** Eh? Kyaaaaa\!? Hono-chan... You don't have to drag meee...\!  
+**Kiyoka:** Eh? Kyaaaaa\!\? Hono-chan... You don't have to drag meee...\!  
 **Ellen:** They'll make us look bad at this rate. We have to help make sure everyone can have a fun barbecue too\!  
 **Chie:** I don't know why Mihono-chan is acting so unreasonably. I have to keep a close eye on her, as her onee-san. Mm\!  
 **Mirja:** We should follow as well, Uraga Nao.  
@@ -143,7 +139,7 @@ Let's All BBQ in the Great Outdoors!
 **Mihono:** That's because... When I eat the meat, there's this weird feeling around my chest...  
 **Kiyoka:** Me too...\! That's what it feels like...  
 **Chie:** Oh goodness, do you have heartburn? Is it because you've been eating nothing but meat, I wonder?  
-**Mihono:** Th-This is that heartburn stuff\!? I think this is the first time I've had it...  
+**Mihono:** Th-This is that heartburn stuff\!\? I think this is the first time I've had it...  
 **Mihono:** And now I can't even eat my meat I worked so hard for\~, I don't believe this...  
 **Kiyoka:** Ah-\! Look, Hono-chan...\!  
 **Kiyoka:** Chie-san, Ellen-san, and them... They're eating all kinds of food besides the meat\!  
@@ -169,15 +165,15 @@ Let's All BBQ in the Great Outdoors!
 **Mihono:** You're having some too, right Kiyoka?  
 **Kiyoka:** Right...\! Thank you, Hono-chan\! Let's give it a try\!  
 **Mihono/Kiyoka:** Ahm...\!  
-**Mihono:** Mmmggh.....\!?  
+**Mihono:** Mmmggh.....\!\?  
 **Kiyoka:** ......  
-**Mihono:** Why... Why...\!? Even though it's so good\! What's with this\!? It's like my chest is saying no to the meat\!  
+**Mihono:** Why... Why...\!\? Even though it's so good\! What's with this\!\? It's like my chest is saying no to the meat\!  
 **Kiyoka:** ...Hono-chan...\! I'm feeling it... too...\!  
 **Mihono:** We can eat everything else okay, but... Uuu... My meat...  
 **Kiyoka:** And Chie-san and the others are still eating the meat without a care in the world... Why is it only us...  
 **Kiyoka:** Don't tell me... If your breasts grow big enough, you can eat without getting heartburn?  
-**Kiyoka:** No wait, don't they say that you have to eat a lot of meat to grow bigger\!?  
+**Kiyoka:** No wait, don't they say that you have to eat a lot of meat to grow bigger\!\?  
 **Kiyoka:** Then that means... If we can't eat because of heartburn, then we won't...\!  
 **Mihono:** All I wanted to do was eat the yummy meat...\!  
-**Mihono/Kiyoka:** ...WHY DID THIS HAVE TO HAPPEN\~\~\!?  
+**Mihono/Kiyoka:** ...WHY DID THIS HAVE TO HAPPEN\~\~\!\?  
 > :ToCPrevNext

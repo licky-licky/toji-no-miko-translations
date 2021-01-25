@@ -18,7 +18,7 @@ Joint Raid Event #10
 **Mihono:** (Wh-What should I say... We want to keep it a secret until the last minute, cause it's her welcoming party and all, so there's no way I can let her help them set it up\!)  
 **Mihono:** It's like, uh... We don't have a mission?  
 **Mirja:** No, just now, we've received an urgent mission request.  
-**Mihono:** Eh\!?  
+**Mihono:** Eh\!\?  
 **Kofuki:** Now we're talking; quit wasting time.  
 **Mirja:** We'll go now to suppress the aradama\! --Investigation team, move out\!  
 **Hirona:** ......  
@@ -32,14 +32,14 @@ Joint Raid Event #10
 **Mihono:** You always come out and say that stuff, Fukki\! It's rude\! Don't let it get to you, Nitta-san--  
 **Aradama:** GGGGIIIiii\!  
 **Hirona:** ......  
-**Mihono:** ...\!? --WATCH OUT\!  
+**Mihono:** ...\!\? --WATCH OUT\!  
 **Hirona:** ...\!  
 **Aradama:** GGGGIIIiii\!  
 
 ## 2: The Investigation Team's New Asset
 **Mihono:** I'm not letting you hurt her--\! HAAAAAAAHH\!\!  
 **Hirona:** ......\!  
-**Mihono:** Are you okay\!? Hirona\!  
+**Mihono:** Are you okay\!\? Hirona\!  
 **Mirja:** Nitta Hirona, can you continue fighting on this mission?  
 **Hirona:** Yes... That's not an issue. It seems I had some... unusual nervousness, but I can do it.  
 **Aradama:** GGGGIIIiii\!  
@@ -62,7 +62,7 @@ Joint Raid Event #10
 **Mihono:** No way; you were all like... Whoosh woosh woosh\! And it was so cool how you moved your sword, Hirona\!  
 **Mihono:** Ah. I just started calling you Hirona; are you okay with that? We're in the same grade, so you should just call me Mihono too\!  
 **Hirona:** Go ahead... Then... I'll call you Asakura-san.  
-**Mihono:** Don't you mean Mihono\!? Well, you can say whatever's easier for you-.  
+**Mihono:** Don't you mean Mihono\!\? Well, you can say whatever's easier for you-.  
 **Chie:** I was a little worried at first, but it looks like things should be fine.  
 **Mirja:** I know. I'm glad to see it. The team can operate even more safely now.  
 **Kofuki:** This sucks... I'm gonna get even less aradama-chan to pick from now.  

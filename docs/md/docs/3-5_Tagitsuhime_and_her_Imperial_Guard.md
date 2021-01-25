@@ -1,13 +1,9 @@
 
 3-5 Tagitsuhime and her Imperial Guard
 ======================================
+https://www.youtube.com/watch?v=ROfvxL3eJ_E
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/ROfvxL3eJ_E" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Televised Audience (1)
 --One week after Tagitsuhime attacked the Ministry of Defense and absorbed Takirihime; the "Raid on Ichigaya's Ministry of Defense Building" incident.
@@ -31,10 +27,10 @@
 **Kofuki:** In the middle of a fight, you can forget all your worries. Aradama-chan's really the best\!  
 **Kiyoka:** I think for most people, fighting aradama is plenty to worry about though...  
 **Mirja:** --Everyone, this is important. Please turn the television on immediately.  
-**Mihono:** Wh-What happened, Mirja-san\!? Weren't you going to go give our mission repor--  
+**Mihono:** Wh-What happened, Mirja-san\!\? Weren't you going to go give our mission repor--  
 **Mirja:** I'll explain later. Setouchi Chie, the television.  
 **Chie:** O-Okay.  
-**Chie:** -\!? Th-That's...\!\!  
+**Chie:** -\!\? Th-That's...\!\!  
 **TV (Tagitsu):** --My name is Tagitsuhime. I am what you humans would call an aradama.  
 
 ## 3: Takatsu Yukina's Demand
@@ -51,7 +47,7 @@
 **TV (Yukina):** And then... Ichikishimahime came into being. Ichikishimahime is another version of Tagitsuhime, born from her misgivings towards humanity.  
 **TV (Yukina):** Ichikishima, who had separated from Tagitsuhime, attempted to escape from Kamakura, resulting in a great amount of noro to be spread across the Kanto area.  
 **TV (Yukina):** Even so, even amomgst the confusion, we would like to save Tagitsuhime, together with the imperial guard formed from Ayanokouji toji under President Souraku's supervision.  
-**Mirja:** --How can she say that-\!?  
+**Mirja:** --How can she say that-\!\?  
 **TV (Yukina):** Ichikishimahime, who was prevented from escaping, is still under the control of the Administration Bureau.  
 **TV (Yukina):** Ichikishimahime seeks revenge against humanity. Nothing more. If her power were ever unleashed, it could bring about an even greater disaster.  
 **TV (Yukina):** Even when dealing with such a dangerous entity, Origami Yukari still refuses to relinquish her.  
@@ -59,7 +55,7 @@
 **TV (Yukina):** To that end, we, the Sword Administration Bureau Reformation Faction, will establish a base of operations here in Tokyo\!  
 **TV (Yukina):** In addition, we have a demand to make. Origami Yukari, as well as the Sword Administration Bureau, deliver Ichikishimahime to us immediately\!  
 **TV (Yukina):** If you continue to put the people in danger, we will respond to you with force\!\!  
-**Mihono:** ...What's she talking about...\!? Renpu's President Takatsu and Ayanokouji's President Souraku went and teamed up with Tagitsuhime...\!?  
+**Mihono:** ...What's she talking about...\!\? Renpu's President Takatsu and Ayanokouji's President Souraku went and teamed up with Tagitsuhime...\!\?  
 **Kofuki:** There's really no other way around it. The Five Traditions just got split in two.  
 **Mirja:** ...Taking that into consideration, we may come into conflict with the imperial guard-- with Yamashiro Yui and Suzumoto Hana, again at some point...  
 **Kiyoka:** B-But... We're all toji, we shouldn't be fighting...  
@@ -68,7 +64,7 @@
 **Suzuka:** You were finally discharged from the hospital, only to immediately be hospitalized again. Yume, you shouldn't force yourself.  
 **Maki:** Suzuka, don't be too hard on Yume. If she hadn't raced over there, who knows how much worse things could have been.  
 **Yume:** Exactly, Suzuka-onee-san. You could praise me a little-- Urgh\! Cough cough, cough\!\!  
-**Suzuka:** Yume-\!? Are you alright\!?  
+**Suzuka:** Yume-\!\? Are you alright\!\?  
 **Yume:** Pant... Pant... I-I'm fine... It's not that serious...  
 **Yume:** I'm the secret weapon, so I can be ready to fight soon...\!\!  
 **Suzuka:** Yume...  
@@ -135,14 +131,14 @@
 **Kiyoka:** You're going to stay here in Renpu, aren't you, Mirja-san?  
 **Mirja:** I plan on it. There are still things I need to take care of here.  
 **Academy Intercom:** Aradama have been identified in the area of this academy. Toji, make preparations for emergency sortie. I repeat, aradama have been identified--  
-**Mihono:** Aradama again\!? We only just got back\!  
+**Mihono:** Aradama again\!\? We only just got back\!  
 **Kofuki:** But that's good news\! Let's get over there already\!  
 **Kofuki:** Okay, now where are the aradama-chan hiding-?  
 **Kiyoka:** --Hang on. Something's not right about this.  
-**Chie:** There's imperial guards here...\!? And...\!  
+**Chie:** There's imperial guards here...\!\? And...\!  
 **Yui:** Ah-\! You're all here-\! What's all this about? Did you come just to see me?  
 **Hana:** Of course they didn't. The investigation team is here to defeat the aradama we just took care of.  
-**Mihono:** Yui and Hana\!?  
+**Mihono:** Yui and Hana\!\?  
 **Hana:** You're too slow though. The aradama was successfully suppressed, and we've finished collecting its noro.  
 **Mirja:** And when you bring that noro back, what do you plan on doing with it?  
 **Mirja:** Your home base should only be a hotel in Tokyo. You have no means of storing it, correct? It's hard to imagine you have the means of enshrining it either...  
@@ -163,7 +159,7 @@
 **Kofuki:** What the hell-\! We beat you fair and square\!  
 **Mirja:** Shichinosato Kofuki, control yourself. We no longer have the strength to use utsushi. To pursue this any further would be dangerous.  
 **Chie:** Our enemy is Tagitsuhime, not the imperial guard. I don't like it either, but we should let them take the noro.  
-**Mihono:** --Yui\! Hana\! Are you two really helping Tagitsuhime now\!?  
+**Mihono:** --Yui\! Hana\! Are you two really helping Tagitsuhime now\!\?  
 **Hana:** I told you last time, Mihono. Tagitsuhime-sama is a goddess descended to earth. I would give everything for her.  
 **Kiyoka:** And there's no way we could... Get you to change your mind?  
 **Hana:** None at all.  

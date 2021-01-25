@@ -1,20 +1,12 @@
 
 Origami Yukari Episodes
 =======================
+https://www.youtube.com/watch?v=fEvFCJ506mU
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/fEvFCJ506mU" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
+https://www.youtube.com/watch?v=bqqcokWQfeE
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/bqqcokWQfeE" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/Z23ZqgN4an4
 
   
@@ -29,7 +21,7 @@ Several hours before the tournament began--
 **Bodyguard Toji:** Find it\! It has to be around here somewhere\! Tch, to think we let an aradama all the way in here...\!  
 **Nene:** Ne-...\!  
 **Bodyguard Toji:** Th-There it is\! So that's where you were hiding\!  
-**Nene:** N-Nenene-\!?  
+**Nene:** N-Nenene-\!\?  
 **Yukari:** ...They're awfully noisy out there...  
 **Nene:** Ne...  
 **Yukari:** You're the one from the Mashiko family...  
@@ -223,7 +215,7 @@ Several hours before the tournament began--
 **Yukari:** (Thinking back on it, despite all our differences in temperament and fighting style, it was impressive how well we were able to match each other's movements...)  
 **Yukari:** (Has it really been twenty years...? Kagari and Minato are gone, and time has taken its toll on the others. Yet, I still...)  
 **Maki:** Gh... Gah...\!  
-**Suzuka:** Maki-san\!?  
+**Suzuka:** Maki-san\!\?  
 **Maki:** Kh... I-I can still...\!  
 **Yukari:** ...That's enough. Sheath your okatana. Training is over.  
 **Yume:** Pant, pant, pant... I-I'm, still, ready to fight, though...?  
@@ -268,7 +260,7 @@ After school that day.
 **Yukari:** Minato, you came out here to skip practice again...  
 **Minato:** Sorry about that, Yukari. I'll try extra hard in practice starting tomorrow, so give everyone my regards\~\!  
 **Yukari:** Wait. If you won't be coming to practice, I'll do self-training at my household too, so let's leave together.  
-**Minato:** Eh-- You will\!?  
+**Minato:** Eh-- You will\!\?  
 **Kagari:** What's going on, Yukari-sama? You're skipping practice along with Minato-senpai?  
 **Yukari:** There's no real reason for it. I just thought it would be nice for us to walk home together for once. Come on, Kagari, Minato. Let's go.  
 **Kagari:** There's something strange about Yukari-sama today, isn't there?  

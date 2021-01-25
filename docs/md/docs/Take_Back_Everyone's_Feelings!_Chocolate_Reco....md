@@ -13,7 +13,7 @@ https://youtu.be/jvBrqZOGzFY?t=460
 **Hiyori:** Hm? I know I left the box around here.  
 **Hiyori:** Wait... Was it my bag?  
 **Hiyori:** ...Where did it go?  
-**Hiyori:** What if... I dropped it somewhere\!?  
+**Hiyori:** What if... I dropped it somewhere\!\?  
 **Hiyori:** This isn't good... I left a message in it. I stayed up late worrying over what to write, and I get the feeling... I might have said too much...  
 **Hiyori:** No, I can't have written anything that serious... But, if anyone saw it...  
 **Kaoru:** Ooh. I never thought you'd write something like that.  
@@ -21,14 +21,14 @@ https://youtu.be/jvBrqZOGzFY?t=460
 **Hiyori:** Kh... I have to find it right now-\!  
 **Hiyori:** It wasn't turned into the lost and found...  
 **Kanami:** Oh, Hiyori-chan\! Did you hear? The chocolate...  
-**Hiyori:** \!? ...K-Kanami.  
+**Hiyori:** \!\? ...K-Kanami.  
 **Kanami:** What's wrong? Why'd you jump like that?  
 **Hiyori:** N-No reason... More importantly, what was that about chocolate?  
 **Kanami:** Right, there's been a ton of cases of aradama stealing chocolate\!  
 **Hiyori:** Huh?  
 **Kanami:** It's just like it sounds; aradama are stealing chocolate.  
 **Kanami:** Not too long ago they were going after factories and stores that had chocolate... I wonder why?  
-**Hiyori:** (Then the culprit... Was an aradama-\!?)  
+**Hiyori:** (Then the culprit... Was an aradama-\!\?)  
 **Kanami:** They took the chocolates Mai-chan gave to Sayaka-chan too.  
 **Sayaka:** Mm. I was eating them bit by bit. There were still a lot left.  
 **Kanami:** I ate all mine right away, so I don't have anything to worry about. But it must have been a shock when they vanished like that.  

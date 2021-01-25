@@ -1,13 +1,9 @@
 
 Pair vs Pair! The New Year's Karuta Competiti...
 ================================================
+https://www.youtube.com/watch?v=RRORlbc45gA
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/RRORlbc45gA" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Shoot for Victory\! New Year's Karuta Competition
 **Hiyori:** It feels a lot more empty than usual around here.   
@@ -35,7 +31,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Hiyori:** And, since Mai and Sayaka both left, I figured there's no one besides me you would be able to pair up with...  
 **Kanami:** Well, so long as you made up your mind, let's go fill out our entry right now\!  
 **Hiyori:** Hey, Kanami\! Don't leave me behind like that.  
-**Hiyori:** The competition was cancelled\!? Why would they do that?  
+**Hiyori:** The competition was cancelled\!\? Why would they do that?  
 **Organizer:** It hasn't been decided yet, but... Some of the prized cards that were going to be used in the finals were taken by aradama.  
 **Organizer:** It's tradition to use those cards in the competition, so the decision was made that it has to be cancelled if they can't be recovered before the end of the year...  
 **Kanami:** I can't believe this...  
@@ -145,7 +141,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Kanami:** And I'm glad to hear it\! So first off, let's have a strategy meeting\!  
 **Kanami:** Hiyori-chaaan, it's all set\! Let's get right to it.  
 **Hiyori:** Wait, hang on. Why did we come out here to the cafeteria? And why is all this osechi laid out?  
-**Kanami:** Before Mai-chan went home, she made all this for us. And you know what they say, "You can't fight on an empty stomach\!"  
+**Kanami:** Before Mai-chan went home, she made all this for us. And you know what they say, "You can't fight on an empty stomach\!\"  
 **Hiyori:** You aren't wrong, but, normally you eat osechi after the new year begins...  
 **Kanami:** Chew chew chew... Ahh, these simmered black soybeans are so good\~\! And these candied chestnuts with sweet potatoes too.  
 **Hiyori:** Mmg, you're just going to eat all this good looking food right before my eyes... Nnng...  
@@ -158,7 +154,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Kanami:** Whoa, it's already 11pm\! We got so caught up eating that we didn't make any progress on our strategy meeting, and now there's only an hour left in the year.  
 **Hiyori:** We were supposed to come up with a surefire plan before the end of the year, so we can start training as soon as the new year starts...  
 **Kanami:** I know\! I've got a good idea. We can just pray for it. Let's do our first shrine visit at the shrine near here\!  
-**Hiyori:** Our strategy for a surefire victory is prayer... Are you serious about this\!?  
+**Hiyori:** Our strategy for a surefire victory is prayer... Are you serious about this\!\?  
 **Kanami:** But isn't it your first shrine visit when that kind of thing is most effective?  
 **Hiyori:** Now that you mention it... Alright, we should leave now to help us walk off everything we just ate.  
 **Kanami:** Good thing there weren't that many people at the shrine\~.  
@@ -209,7 +205,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Yume:** Ah, and the countdown's about to start\!  
 **Yume:** Yukari-sama, Maki-onee-san, we have to get ready... Nn? Maki-onee-san?  
 **Maki:** Zzzzz...  
-**Yume:** Hey, Maki-onee-san\! What're you sleeping for\!? Get up-\!  
+**Yume:** Hey, Maki-onee-san\! What're you sleeping for\!\? Get up-\!  
 **Maki:** Zzzzz...  
 **Yume:** Geez, you shouldn't have gotten all worked up during practice. Wake up already, Maki-onee-san\!  
 **Yukari:** Yume, give her this chance to rest.  
@@ -267,7 +263,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Yui:** Me and Mirja-san are gonna work hard in the deciding match for 3rd, so you'd better not lose in the finals either, Kanami-chan, Hiyori-chan\!  
 **Kanami:** Thanks\! Let's all do our best till the end.  
 **Local Intercom:** Regarding the Kitora, Yamashiro pair that is set to play in the 3rd rank deciding match, after some consultation between the referee and committee of organizers, we have decided to invalidate all their victories up until this point.  
-**Yui:** Ehh-\!? What's that for\!?  
+**Yui:** Ehh-\!\? What's that for\!\?  
 **Mirja:** What's the meaning of this? Referee, I demand a reasonable explanation.  
 **Referee:** Actually... We've received complaints from every student who you've played against so far.  
 **Mirja:** Complaints? I can't imagine what about. Would you tell us the nature of their complaints?  
@@ -319,10 +315,10 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Kanami:** E-Ehh, but... Is it really okay if we win like that?  
 **Yukari:** It's as Shidou told you. To make full use of your capabilities on the battlefield, you must work out a thorough strategy. That's the natural order in the world of competition.  
 **Hiyori:** But I didn't plan on doing that...  
-**Kanami:** So wait, that means, we're the winners... That means we'll be the strongest toji\!?  
+**Kanami:** So wait, that means, we're the winners... That means we'll be the strongest toji\!\?  
 **Yukari:** There's a fair amount of evidence behind that old legend. It would be good of you to continue disciplining yourselves with that intent in mind.  
 **Yukari:** Now then, to the two of you champions, I will grant you a special prize on behalf of the Origami family.  
-**Kanami:** A prize\!?  
+**Kanami:** A prize\!\?  
 **Hiyori:** Wait, we don't need anything like that. The legend was enough for us.  
 **Yukari:** You shouldn't act so reserved. Go ahead and open this box.  
 **Kanami:** Wow-, it's full of gorgeous furisode\! [Furisode are formal long-sleeved kimono]  
@@ -338,7 +334,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Kanami:** Ah, oh yeah\! Since we all have furisode now, why don't we all put them on and go do our first shrine visit together?  
 **Hiyori:** Though for us it's our second... No, third visit... Still, that's not a bad idea.  
 **Yume:** It'll be fun\! Maki-onee-san, let's go\!  
-**Yui:** Uhyaa-\! Those girls' hands were one thing, but now I get to feast my eyes on everyone in furisode too\!? This year's shaping up to be my happiest one yet\!  
+**Yui:** Uhyaa-\! Those girls' hands were one thing, but now I get to feast my eyes on everyone in furisode too\!\? This year's shaping up to be my happiest one yet\!  
 **Mirja:** Leaving aside this pervert for a moment, having my first shrine visit in traditional Japanese dress is a tempting offer.  
 **Maki:** Looks like this year is already starting busy. Though it's not a bad thing.  
 > :ToCPrevNext

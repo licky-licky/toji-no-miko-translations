@@ -90,7 +90,7 @@ https://streamable.com/gdfgyo
 
   
 
-## [Summer Uniform 20 - Kanami: Start]: In Danger of Failing\!?
+## [Summer Uniform 20 - Kanami: Start]: In Danger of Failing\!\?
 **Kanami:** Help me, Hiyori-chan\! At this rate, I'm gonna fail\!  
 **Hiyori:** ......Sigh.  
 **Hiyori:** That's not going to be possible. Go find someone else.  

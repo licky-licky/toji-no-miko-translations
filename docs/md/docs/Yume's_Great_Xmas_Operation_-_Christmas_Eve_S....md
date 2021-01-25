@@ -28,7 +28,7 @@ https://youtu.be/hi6PTJCbCKs
 **Mai:** Of course I will. Since we're going through with this, I want to make it as grand a party as I can\!  
 **Yume:** Hooray-\!  
 **Mai:** Since we've decided on that, I'd like to have more friends helping us with the rest. I'll try asking around.  
-**Mihono:** A Christmas Eve party\!? That sounds fun\! Sure, I'll help\!  
+**Mihono:** A Christmas Eve party\!\? That sounds fun\! Sure, I'll help\!  
 **Hiyori:** You might be right. It's not a bad idea bringing everyone together at the end of the year to celebrate. I'll lend a hand too.  
 **Kaoru:** It sounds like too much work, but Ellen gets annoying bugging me to come help. I'll just get it over with and join you.  
 **Mai:** Thank you, all of you\! I'm going to go ask around some more, so I'll meet you in the cooking classroom later.  
@@ -43,7 +43,7 @@ https://youtu.be/hi6PTJCbCKs
 **Yume:** I-It's nothing. Thanks for bringing everyone here, Onee-san. Let's throw a good party.  
 **Mai:** Sure\!  
 **Announcement:** Aradama have appeared in the surrounding city, toji are to intercept at once. I repeat--  
-**Yume:** Aradama\!? Geez-, could they have picked a worse time to show up-?  
+**Yume:** Aradama\!\? Geez-, could they have picked a worse time to show up-?  
 **Mai:** This sure is some bad timing. But still, if we want to make sure everyone can enjoy the party, we should finish our duties first.  
 **Yume:** Yeah, I'm not letting them stop us no matter what\! I'll take them all out in a second\!  
 
@@ -57,7 +57,7 @@ https://youtu.be/hi6PTJCbCKs
 **Mai:** That's true. This will definitely help liven up the party.  
 **Mai:** (Fufu, a choir singing carols? It's so Christmas-y that I can't wait to hear it\! We'll have to get Santa and reindeer themed outfits ready for people too.)  
 **Mai:** Kitora-san, can I ask you to take care of costumes?  
-**Yume:** Costumes\!? You're going to get stuff like that for the party too?  
+**Yume:** Costumes\!\? You're going to get stuff like that for the party too?  
 **Mirja:** Since we're putting on this party, I'd like to do all we can to make it extravagant. I'll go ahead and work on providing the costumes then.  
 **Mai:** Now it's just the two of us again, Tsubakuro-san. In the meantime, how about we continue working on preparing the cake and feast?  
 **Yume:** Sure-\!  
@@ -77,11 +77,11 @@ https://youtu.be/hi6PTJCbCKs
 **Mai:** (Tsubakuro-san said she wanted to keep the fact that she's making a cake a secret from the elite guard... I know\! I'll distract her by asking her to take care of something else.)  
 **Mai:** Satsuki-san, could you help with getting the feast ready at the kitchen counter over there? We're doing the cooking for a Christmas Eve celebration party.  
 **Yomi:** I see, so that's what you were preparing for. I understand. If you need celebratory food, red bean rice is a must have.  
-**Yume:** I'm baaack\~\! Wait, huh? Why is Yomi-onee-san doing the cooking\!?  
+**Yume:** I'm baaack\~\! Wait, huh? Why is Yomi-onee-san doing the cooking\!\?  
 **Mai:** Eh? Tsubakuro-san, what's wrong? Why do you look so panicked?  
-**Yume:** What about you, Onee-san\!? Why are you acting so calm about this\! I mean, the party on the 24th is for...  
+**Yume:** What about you, Onee-san\!\? Why are you acting so calm about this\! I mean, the party on the 24th is for...  
 **Announcement:** Aradama have appeared, aradama have appeared. Toji are to intercept at once. I repeat--  
-**Yume:** And why do aradama have to show up now\!? Geez-, we have to get things ready as fast as we can\!  
+**Yume:** And why do aradama have to show up now\!\? Geez-, we have to get things ready as fast as we can\!  
 **Mai:** There's nothing we can do about them appearing this often. Let's all combine our efforts to deal with them again.  
 **Yume:** Boo-. If I have to then-. Let's go right away then.  
 **Yomi:** Please wait a moment. There isn't much time left before the 24th, so Tsubakuro-san, please stay here and continue working on the party preparations.  
@@ -89,7 +89,7 @@ https://youtu.be/hi6PTJCbCKs
 **Yomi:** Let's leave, Yanase-san.  
 **Mai:** Right\!  
 **Yume:** It's Yomi-onee-san's own birthday party, but, asking me to please work on the preparations, she must be super excited for it\! Was she always like that?  
-**Yume:** But, more importantly, the surprise got out\! Onee-san couldn't keep her mouth shut\~\! What should I do now-\!?  
+**Yume:** But, more importantly, the surprise got out\! Onee-san couldn't keep her mouth shut\~\! What should I do now-\!\?  
 
 ## 3: The Outcome of the Surprise...
 On the day of the party.
@@ -105,11 +105,11 @@ On the day of the party.
 **Yume:** Sigh... It might not be a surprise anymore, but I've gotta at least make a sign that goes on top of the cake...  
 **Yume:** Uhh, I'll take this big cookie, and write on top with a chocolate pen, "Happy Birthday, Yomi-onee-san." There...  
 **Mai:** Tsubakuro-san, I've finished decorating the cake, so will you come check how it turned out? I tried making it look a little fancy, but what do you think?  
-**Yume:** Ehhh\!? This is just a Christmas cake\!  
+**Yume:** Ehhh\!\? This is just a Christmas cake\!  
 **Mai:** Eh? Yes... It is a Christmas cake. ...Wait? Tsubakuro-san, what did you write on that cookie...  
-**Mai:** Wait, don't tell me, is today Satsuki-san's birthday\!?  
-**Yume:** Ehh-\!? You helped me out without even knowing that? Didn't I tell you at the start, we're doing a celebration party on the 24th...  
-**Yume:** Ahhh\! Wait, Onee-san, did you think we were doing a party celebrating Christmas Eve\!?  
+**Mai:** Wait, don't tell me, is today Satsuki-san's birthday\!\?  
+**Yume:** Ehh-\!\? You helped me out without even knowing that? Didn't I tell you at the start, we're doing a celebration party on the 24th...  
+**Yume:** Ahhh\! Wait, Onee-san, did you think we were doing a party celebrating Christmas Eve\!\?  
 **Mai:** I-I did. You mentioned the 24th, so I was sure you meant Christmas Eve...  
 **Mai:** I see now. So that's why it sometimes felt like we were talking about two different things. I'm sorry, I gave myself the wrong idea, and even had Satsuki-san herself help with it.  
 **Yume:** No, it's not your fault then. I'm sorry too, for getting upset with you.  
@@ -122,11 +122,11 @@ On the day of the party.
 **Mirja:** Now, everyone, the Christmas cake you've all been waiting for is ready to be presented\! This cake was made with the combined efforts of Tsubakuro Yume and Yanase Mai.  
 **Yume:** Tadah\! Look, look\! Me and Onee-san made this cake together\!  
 **Mai:** I only helped with it a little, so first, we'd like for the elite guard to have a taste of the cake Tsubakuro-san made herself.  
-**Maki:** Yume made a cake by herself\!? I can't believe it.  
+**Maki:** Yume made a cake by herself\!\? I can't believe it.  
 **Suzuka:** So this was the big surprise she was excited about. It's very well made.  
 **Yomi:** Yes, I never would have thought Tsubakuro-san could make such a fine cake. I'm surprised.  
 **Yume:** Ehehe, you're surprised? But you know, the best part is what's next?  
-**Maki:** A blackout\!?  
+**Maki:** A blackout\!\?  
 **Yomi:** An aradama might be responsible. I'll get my okatana at once...  
 **Yume:** You don't have to do any of that-. Onee-sans, are you ready? One, two-\!  
 **Tsugumi/Mihono/Kofuki:** Happy birthday to you\~. Happy birthday to you\~. Happy birthday, dear...  
@@ -163,7 +163,7 @@ https://youtu.be/XL33MXyxw44?t=6708
 **Hiyori:** Kanami... Guess I might as well do it now. I was going to leave this by your pillow tomorrow morning, but... Here. This is for you.  
 **Kanami:** A cute box with a ribbon on it... Hiyori-chan, what is this?  
 **Hiyori:** Y... Your Christmas present. I had to give something back for all the help you're always giving me.  
-**Kanami:** Eh-- A Christmas present from Hiyori-chan\!? For me? Can I have it? I can really have it?  
+**Kanami:** Eh-- A Christmas present from Hiyori-chan\!\? For me? Can I have it? I can really have it?  
 **Hiyori:** I said it's for you, so just take it already. It might not seem like anything special either...  
 **Kanami:** No way; I'll be happy no matter what I get from you, Hiyori-chan.  
 **Kanami:** And, besides...  
@@ -252,7 +252,7 @@ https://youtu.be/evNvCiMwU_E
 **Mihono:** Whoa-\! They're cute\! I'd be happy getting to sing wearing something this nice\!  
 **Tsugumi:** From the careful stitching to the elaborate decorations, these are fantastic costumes. Will you really lend something this finely crafted to us free of charge?  
 **Mirja:** They won't be free, of course. The condition was that we repay them with labor.  
-**Kofuki:** We've gotta work for it\!? Nobody said anything about that-\!  
+**Kofuki:** We've gotta work for it\!\? Nobody said anything about that-\!  
 **Tsugumi:** Kitora-san, what will we need to do as payment?  
 **Mihono:** Don't tell me, after the party's over, we'll have to wash dishes here forever...  
 **Cafe Owner:** Relax, I wouldn't ask for something so severe. What I'd like for you to do is perform your carols here at our shop. How does that sound?  
@@ -271,7 +271,7 @@ https://youtu.be/evNvCiMwU_E
 **Kofuki:** With the two of you going all into falsetto, we weren't getting anywhere near enough volume\!  
 **Tsugumi:** That's true; because we're singing in a different register than usual, we may need to train our throats more.  
 **Tsugumi:** Ah\! I've just thought of something good\! Let's move our practice to tomorrow. I'll prepare a special medicine for us by then.  
-**Mihono:** A-A special medicine\!?  
+**Mihono:** A-A special medicine\!\?  
 **Kofuki:** I've got a real bad feeling about where this is going...  
 
 ## [Xmas' 19 - Tsugumi: End]: Harmony Resounding Through the Holy Night
@@ -286,12 +286,12 @@ The next day.
 **Tsugumi:** I see. I was fairly proud of how these turned out too...  
 **Yui:** [sniff sniff]... Something sweet is in the air... And so I followed my nose, and it led me to a meetup of my sweet honeys\! My intuition's super on the mark\~\!  
 **Tsugumi:** Yamashiro-san. You came at the perfect time. Would you like to have a snack?  
-**Yui:** Can I\!?  Ah\! Are these sweets you made yourself, Tsugumi-san\!?  
+**Yui:** Can I\!\?  Ah\! Are these sweets you made yourself, Tsugumi-san\!\?  
 **Tsugumi:** Yes. I tried creating special-made lozenges that were gentle on the throat, but the others said they didn't need them...  
 **Yui:** In that case, I'll eat them up\! Om nom nom...  
-**Yui:** Wahh-\! What's with this\!? It's sweet and bitter and sour and burns and it's salty\!  
+**Yui:** Wahh-\! What's with this\!\? It's sweet and bitter and sour and burns and it's salty\!  
 **Yui:** The outside is crunchy, but it melts on the inside, and afterwards there's this wave of a fluffy and crackling sensation\!  
-**Kofuki:** What's any of that mean\!? I can't even picture the taste\!  
+**Kofuki:** What's any of that mean\!\? I can't even picture the taste\!  
 **Mihono:** Yui, your face turned bright red; are you okay?  
 **Yui:** Uwah----\! I can feel power gushing up in me, and I feel like shouting at the top of my lungs\~\!  
 **Tsugumi:** Hmhm, the effects are already showing in such a short timeframe. It seems I can call this highly successful.  

@@ -25,7 +25,7 @@ https://youtu.be/xDnIu7talhw
 **Akane:** Which is why I want all of you going to rescue them. Kanami-san, Hiyori-san, Maki-san, and Suzuka-san have already left for Choshi.  
 **Mirja:** I understand the situation. However, Choshi is quite far from here. Even in a speeding car it could still take over three hours...  
 **Akane:** I know, which is why I've prepared a helicopter for you.  
-**Kofuki:** For real\!? Now things are getting exciting\!  
+**Kofuki:** For real\!\? Now things are getting exciting\!  
 
 ## 2: The Strength of Yukari (1)
 **Yukina:** --Princess, you'll be glad to hear this. We've found where Ichikishimahime landed after disappearing from the submarine.  
@@ -123,7 +123,7 @@ https://youtu.be/xDnIu7talhw
 **Kofuki:** ...Get a load of these idiots. Just sharing important info where anybody can hear.  
 **Kiyoka:** Kofuki-san, don't badmouth them...  
 **Kofuki:** So since they knew where Yukari-sama's going, now all we have to do is beat 'em up and go north.  
-**Kiyoka:** Eh-\!? We're going to fight them now\!?  
+**Kiyoka:** Eh-\!\? We're going to fight them now\!\?  
 **Kofuki:** Duh, of course we are.  
 **Mihono:** Yeah, I agree with Fukki. Their goal is to catch Ichikishimahime, so sooner or later we're going to have to fight them anyway.  
 **Mihono:** And it'll be easier if we attack them now, before they can group up with the other guards.  

@@ -1,13 +1,9 @@
 
 Assemble! Toji Cheer Squad
 ==========================
+https://www.youtube.com/watch?v=QIMDd46nF8M
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/QIMDd46nF8M" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Special Mission Announcement
 **Maki:** Are you sure about this, Yukari-sama...? Is there any need for a unit like this...  
@@ -74,7 +70,7 @@ And so their practicing continued... After several days passed...
 **Sayaka:** Stiffness...?  
 **Maki:** According to my cheerleading textbook, showing emotion through your expression is essential... You need to work on that from now on.  
 **Sayaka:** ...  
-**Yui:** Who wants to get in the bath with me\!? The bath\! We should all take a bath, you know\! Have to take one right away\!  
+**Yui:** Who wants to get in the bath with me\!\? The bath\! We should all take a bath, you know\! Have to take one right away\!  
 **Miki:** Why are you still so worked up...?  
 **Sayaka:** ...  
 **Mai:** What's wrong, Sayaka-chan? You look down.  
@@ -90,7 +86,7 @@ The next day--
 **Sayaka:** Shidou Maki. Please teach me some pointers.  
 **Mai:** Sayaka-chan is worried... She wants to hear some advice from you.  
 **Maki:** ...Sorry. I don't know anything about cheerleading myself, so I can't teach you anything that's not in the textbook...  
-**Miki:** Eh-\! Is that true\!?  
+**Miki:** Eh-\! Is that true\!\?  
 **Yui:** That won't do\~. If you want to teach someone, you have to be able to do it yourself\!  
 **Yui:** Ahh, seeing Shidou-san dancing around cheerleading... I'd pay to see that\! In fact, I need to see it, pant, pant...\!  
 **Maki:** No, I'm not going to be one of the cheer toji; I'm just your coach and judge... There's no need for a coach to master the sport.  
@@ -100,7 +96,7 @@ The next day--
 **Maki:** Yes. What's going on, Suzuka.  
 **Suzuka:** Yukari-sama asked me to pass along a message to you just now.  
 **Suzuka:** "I forgot to mention this, but you're also assigned to participate as a member of the cheer toji." ...Is the message she left me.  
-**Maki:** What... Did you say...\!?  
+**Maki:** What... Did you say...\!\?  
 **Yui:** Hooray-\! Now Shidou-san has no choice but to be a cheerleader with us\!  
 **Maki:** Kh...\!  
 **Sayaka:** ...Shidou Maki wasn't a cheerleading expert... Who else knows how...?  
@@ -135,11 +131,11 @@ And so, after several days--
 **Ellen:** But when you were with Maimai, you were making such a happy face. So Maimai is actually the reason you're doing better\!  
 **Ellen:** If you want to thank anyone, you should be thanking her.  
 **Sayaka:** I see... Mai, thank you.  
-**Mai:** Eh\!? I-I didn't do anything though.  
+**Mai:** Eh\!\? I-I didn't do anything though.  
 **Ellen:** Ahaha, looks like Maimai's the perfect medicine for Saaya after all\!  
 **Ellen:** When you two were cheering just now, you were so coordinated you looked like sisters\!  
 **Sayaka:** If Mai were my sister... That wouldn't be bad.  
-**Mai:** S-Sayaka-chan\!?  
+**Mai:** S-Sayaka-chan\!\?  
 **Maki:** Today marks the end of the training camp. Finally, Yukari-sama herself will be judging all of you. If she approves, you will be officially admitted into the Toji Cheer Squad.  
 **Yukari:** This is an official mission you have been assigned as toji. Show me your fullest potential, the same as you would if you were suppressing aradama.  
 **Ellen:** Are you going to be cheering too, Makimaki?  
@@ -187,7 +183,7 @@ And so, after several days--
 **Suzuka:** Stop right there\!  
 **Ellen:** Oh, Hanahana, are you our backup?  
 **Suzuka:** I'm only here to deliver these clothes. The finishing touches took longer than expected, but here you are: the official uniforms of the Special Ritual Riot Squad Distinguished Publicity Unit.  
-**Maki:** What... Are these...\!?  
+**Maki:** What... Are these...\!\?  
 **Ellen:** WOW\! Real cheerleader uniforms\!  
 **Sayaka:** Mm...  
 **Mai:** This is what cheerleaders have to wear, is it...  

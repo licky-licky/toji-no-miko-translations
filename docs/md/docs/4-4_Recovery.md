@@ -1,13 +1,9 @@
 
 4-4 Recovery
 ============
+https://www.youtube.com/watch?v=5hC-X99ET-4
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/5hC-X99ET-4" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Traces of Yomi (1)
 **Suzuka:** --We can see it now; the Tokyo Station building. Yomi-san, wherever you are, please be safe...  
@@ -17,7 +13,7 @@
 **Suzuka:** After all that's happened, you're still acting like that...?  
 **Yume:** There's no way we're letting you do this on your own, Maki-onee-san...\!  
 **Yume:** The elite guard are all going to get Yomi-onee-san together\!  
-**Maki:** Kh... More aradama\!?  
+**Maki:** Kh... More aradama\!\?  
 **Aradama:** SHAAAAAAAAAA\!  
 **Yume:** Aghh, come on\! You're in our way\! We're in a hurry here, so go away\!  
 
@@ -38,7 +34,7 @@ At that time, with Etou Kanami and Origami Yukari, who had gone ahead to Tagitsu
 **Kanami:** Tagitsuhime\!  
 **Tagitsu:** --Why have you come?  
 **Kanami:** For you to give it back, Kogarasumaru--  
-**Kanami:** ...Nn\!? What's wrong, Chidori\!?  
+**Kanami:** ...Nn\!\? What's wrong, Chidori\!\?  
 **Yukari:** ......\! ...So that's how it is. She's alive, Etou Kanami.  
 **Yukari:** Juujou Hiyori is still alive\! Inside of her-- Inside Tagitsuhime\!  
 **Yukari:** That resonance is the will and knowledge of Kogarasumaru\!  
@@ -63,11 +59,11 @@ At that time, with Etou Kanami and Origami Yukari, who had gone ahead to Tagitsu
 
 ## 5: Yomi and Yukina (1)
 **Aradama:** GUAAAAAAA\!\!  
-**Yukina:** Get away from me-\! Get away get away get away-\! You damned aradama\! Just who do you think I am-\!?  
+**Yukina:** Get away from me-\! Get away get away get away-\! You damned aradama\! Just who do you think I am-\!\?  
 **Aradama:** SHAAAAAAAA\!  
 **Yukina:** KYAAAAA\!\! ...No... Stay back... Why... isn't anyone here...\!  
-**Yukina:** After everything I did for you\! After all the love I gave you\! After all that, why\!?  
-**Yukina:** Princess\!\! Yukari-sama\!\! Why did you leave me-\!?  
+**Yukina:** After everything I did for you\! After all the love I gave you\! After all that, why\!\?  
+**Yukina:** Princess\!\! Yukari-sama\!\! Why did you leave me-\!\?  
 **Yukina:** Don't cast me aside\!\! Don't leave me on my own...\!\!  
 **Aradama:** GRRRRAAAAA\!\!  
 **Yukina:** ...? Wh-What was....?  
@@ -100,7 +96,7 @@ At that time, with Etou Kanami and Origami Yukari, who had gone ahead to Tagitsu
 **Yukina:** HYAA\!\! Get away\!\! Don't come any closer\!\!  
 **Yomi:** .........I have... now... returned... President Takatsu.  
 **Yukina:** --\!\! ...Yomi... You...  
-**Yukina:** You came back for me...\!? Not the princess, or Yukari-sama, but for me...\!\!  
+**Yukina:** You came back for me...\!\? Not the princess, or Yukari-sama, but for me...\!\!  
 **Yomi:** ......  
 **Aradama:** GUUAAAAA\!\!  
 **Yukina:** ......\!  
@@ -112,7 +108,7 @@ At that time, with Etou Kanami and Origami Yukari, who had gone ahead to Tagitsu
 **Chie:** We should have expected it, since the gate to the netherworld is getting closer, but even this is more than I could have imagined...  
 **Chie:** At this pace, we won't make it to Yukari-sama and the others...\!  
 **Mirja:** --\! Imperial guard, straight ahead\! Brace yourselves\!  
-**Chie:** Kh... Here to slow us down again...\!?  
+**Chie:** Kh... Here to slow us down again...\!\?  
 **Kiyoka:** Everyone\! I'll stay behind and draw the guards away\!  
 **Kofuki:** Oi oi, are you gonna be able to manage that? I thought you were scared of fighting other toji?  
 **Kiyoka:** I can't be like that in a situation like this\! We all have to work together if we want to make sure Hono-chan gets there in time\!  
@@ -127,7 +123,7 @@ At that time, with Etou Kanami and Origami Yukari, who had gone ahead to Tagitsu
 **Kiyoka:** ...Kofuki-san. Thank you, for staying behind with me.  
 **Kofuki:** Forget about it\! But as payback, that limited offer pudding you left in the fridge is mine\!  
 **Kiyoka:** Ah... About that pudding, I forgot to write my name on it, so Hono-chan ate it...  
-**Kofuki:** WHA---\!? Again-\!? Why does she think anything without a name on it is okay for her to eat\!?  
+**Kofuki:** WHA---\!\? Again-\!\? Why does she think anything without a name on it is okay for her to eat\!\?  
 **Kofuki:** ...Kiyoka, something important came up that I've gotta deal with. Let's wipe the floor with these guards already.  
 **Kiyoka:** ...Alright\!  
 
@@ -156,13 +152,13 @@ At that time, with Etou Kanami and Origami Yukari, who had gone ahead to Tagitsu
 **Hiyori:** Kanami\!  
 **Tagitsu:** Oh... Urgh... --GAHH\!\!  
 **Hiyori:** HAAAAAAAAA\!\!  
-**Kanami:** --Hiyori-chan\!?  
+**Kanami:** --Hiyori-chan\!\?  
 **Hiyori:** Your voice really carries.  
 **Kanami:** Hiyori-chan...  
 **Tagitsu:** So the little chicks have grown into a pair of lovebirds. Certainly an auspicious moment--  
 **Tagitsu:** But it ends here\!  
 **Yukari:** You won't have the chance\!\!  
-**Kanami:** -\!? UWAAAAAH\!? The floor's... Falling apart\!\! We're gonna fall\!\!  
+**Kanami:** -\!\? UWAAAAAH\!\? The floor's... Falling apart\!\! We're gonna fall\!\!  
 **Tagitsu:** Yukari...\!  
 
 ## 11: For You to be Here (1)

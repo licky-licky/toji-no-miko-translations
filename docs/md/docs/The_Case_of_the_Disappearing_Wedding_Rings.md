@@ -1,19 +1,15 @@
 
 The Case of the Disappearing Wedding Rings
 ==========================================
+https://www.youtube.com/watch?v=0vVIGDtRVLE
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/0vVIGDtRVLE" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Track the Mystery of the Stolen Wedding Rings\!
 **Yui:** Ah, that tone; it's the bells from the wedding chapel\! Someone's getting married again today\~. It's June Bride season, after all.  
 **Yui:** My mission's taken care of, so I think I'll make a quick little detour and check out the cute new bride in her dress-\!  
 **Aradama:** Keeeeee...  
-**Yui:** Ehh, what's an aradama doing here\!?  
+**Yui:** Ehh, what's an aradama doing here\!\?  
 **Aradama:** Keeeee...  
 **Yui:** Wha-, it's headed for the wedding chapel\! Stop-\!  
 **Yui:** Getting married is the big moment every cute girl dreams of\! I won't let you get anywhere near the ceremony\! Take thiiis\!  
@@ -22,11 +18,11 @@ The Case of the Disappearing Wedding Rings
 **Yui:** Someone dropped a ring... And there's a huge diamond in it too. It must be expensive. This has gotta be an engagement ring. But, that's weird. It wasn't here before.  
 **Yui:** Ah-, what if it came out of the aradama I just exorcised...  
 **Police:** You there, don't move, this is the police\!  
-**Yui:** The police\!? Wh-What are you grabbing my arm for\!? Let go of me, please-\!  
+**Yui:** The police\!\? Wh-What are you grabbing my arm for\!\? Let go of me, please-\!  
 **Chapel Staff:** Yes, officer, that's the girl\! She's been here every day lately, acting suspicious outside the building, and, whenever the staff make eye contact with her, she runs off\!  
-**Yui:** S-Suspicious\!?  
+**Yui:** S-Suspicious\!\?  
 **Police:** Do you mind coming with us down to the station? There's some things we'd like to ask you as a potential suspect.  
-**Yui:** E-Ehhhh\~\!? Why me\!? You've got the wrong girl\~\!  
+**Yui:** E-Ehhhh\~\!\? Why me\!\? You've got the wrong girl\~\!  
 **Kiyoka:** Something awful happened\! It's Yui-chan, she...  
 **Tsugumi:** What's the matter, Musumi-san? You're all out of breath. What did Yamashiro-san do now?  
 **Kiyoka:** I heard that, Yui-chan got taken away by the police.  
@@ -48,14 +44,14 @@ The Case of the Disappearing Wedding Rings
 **Kiyoka:** Hmmm, it doesn't seem like any rings have gotten lost around here.  
 **Ellen:** There isn't anyone suspicious around either.  
 **Aradama:** KEEEEEEEE\!  
-**Kiyoka:** KYAAA----\!\! Why is there an aradama here\!?  
+**Kiyoka:** KYAAA----\!\! Why is there an aradama here\!\?  
 **Tsugumi:** Please calm down, Musumi-san. This is a perfect opportunity to test the qualities of this new aradama which has appeared in the wedding chapel. Leave it to me.  
 **Tsugumi:** TAAAAAAA\!  
 **Aradama:** KEEEEEEE...  
 **Tsugumi:** Hm? Something came out from inside the defeated aradama.  
-**Kiyoka:** Ehhh\!? Isn't that... That's a wedding ring\!?  
-**Ellen:** Since it popped out when you exorcised that aradama... That means, the culprit behind the stolen rings were aradama all along\!?  
-**Kiyoka:** Aradama were stealing the rings\!? I've never heard of anything like that though. Tsugumi-san, do you know about this?  
+**Kiyoka:** Ehhh\!\? Isn't that... That's a wedding ring\!\?  
+**Ellen:** Since it popped out when you exorcised that aradama... That means, the culprit behind the stolen rings were aradama all along\!\?  
+**Kiyoka:** Aradama were stealing the rings\!\? I've never heard of anything like that though. Tsugumi-san, do you know about this?  
 **Tsugumi:** This is the first case I've seen, so I'm just as surprised as you are. But, since we all witnessed it, there can be no doubt. Yamashiro-san must be innocent.  
 **Kiyoka:** Thank goodness\~. Still, I won't forgive them for stealing those rings from the brides\!  
 **Ellen:** That's the spirit. For the brides, and to prove Yuiyui's innocence, we need to suppress every last aradama here\!  
@@ -71,7 +67,7 @@ The Case of the Disappearing Wedding Rings
 **Yomi:** Tsubakuro-san, Shidou-san and Konohana-san are not going there to enjoy themselves.  
 **Yume:** I know that-. They're going to catch whoever's stealing rings from the brides, right? But, why do the elite guards have to catch a thief anyway?  
 **Yomi:** Because the one responsible for the stolen rings is an aradama.  
-**Yume:** Ehh\~, there's an aradama ring thief\!?  
+**Yume:** Ehh\~, there's an aradama ring thief\!\?  
 **Maki:** Strictly speaking, it's still an unconfirmed report. Yamashiro Yui, who was present at the scene, gave her testimony that the ring came out of an aradama the moment it was exorcised.  
 **Suzuka:** It didn't seem as if she was lying... Though, as there were no other witnesses at the time, Yamashiro-san was placed under arrest.  
 **Suzuka:** Maki-san and I are going to the wedding chapel, on behalf of a request from the police, in order to determine the truth of the situation. Now, Maki-san, are you ready to go?  
@@ -89,7 +85,7 @@ The Case of the Disappearing Wedding Rings
 **Ellen:** Hanahana, Yomiyomi, you have to take our testimony to the police and set Yuiyui free\!  
 **Suzuka:** I truly wish I could do that, however...  
 **Yomi:** Unfortunately, the police will not be convinced by eyewitness reports from friends of the suspect. That's what we were dispatched here for.  
-**Ellen:** Then, that means, unless an aradama shows up right in front of you, you won't set Yuiyui free\!?  
+**Ellen:** Then, that means, unless an aradama shows up right in front of you, you won't set Yuiyui free\!\?  
 **Kiyoka:** Please\~. We don't know when another aradama could be here... And if you two aren't there to see it, who knows what will happen to Yui-chan?  
 **Suzuka:** We will be monitoring the area to the best of our abilities. Sadly, we have no way of knowing when an aradama may appear...  
 **Kiyoka:** Isn't there any other way we can help Yui-chan? I just know she's not the kind of girl who would ever steal a ring\!  
@@ -99,11 +95,11 @@ The Case of the Disappearing Wedding Rings
 **Suzuka:** From your passionate assertions, I'm well aware that Yamashiro-san is a dangerous person, but not the type who would purposefully steal a ring.  
 **Yomi:** However, it is impossible for us to declare Yamashiro-san innocent unless we catch the culprit in the act.  
 **Aradama:** KEEEEEEE\!  
-**Kiyoka:** Ahhh-\!? It's here\! The aradama is here\!\!  
+**Kiyoka:** Ahhh-\!\? It's here\! The aradama is here\!\!  
 **Ellen:** It's pretty rare to feel this glad to see an aradama.  
 **Tsugumi:** Konohana-san, Satsuki-san, we will show you all the evidence you need now. Please watch closely.  
 
-## 3: A Touching Reunion\!?
+## 3: A Touching Reunion\!\?
 **Kiyoka:** Konohana-san\! Satsuki-san\! You saw what happened now, didn't you? When the wedding ring came shooting out of the aradama\!  
 **Suzuka:** Yes, I certainly witnessed it.  
 **Tsugumi:** Aradama that collect wedding rings. Having seen it a second time, the data becomes all that more credible. As soon as I get back to the lab with this, I can...  
@@ -121,7 +117,7 @@ The Case of the Disappearing Wedding Rings
 **Kiyoka:** Yui-chan... Somehow, it seems like you're doing just fine.  
 **Tsugumi:** More than fine, is it my imagination, or is she enjoying being here?  
 **Ellen:** Ah-\! Don't tell me, they put you through such horrible torture that your mind went crazy?  
-**Yui:** Ahaha, it's nothing like that\~. Sure, when I was caught by the police, I was thinking, "What do I do\!? My life's over\~\!"  
+**Yui:** Ahaha, it's nothing like that\~. Sure, when I was caught by the police, I was thinking, "What do I do\!\? My life's over\~\!\"  
 **Yui:** But then in the police car, this cute police lady was snuggled up right next to me. Then I got to go into a private room and talk to this sexy detective lady all alone; it was actually a lot more fun than I was expecting.  
 **Tsugumi:** A reaction that defies all expectations... That's Yamashiro-san for you.  
 **Kiyoka:** I can't believe you-\! I was so worried, to the point I couldn't even eat, you know?  
@@ -132,15 +128,15 @@ The Case of the Disappearing Wedding Rings
 **Kiyoka:** I was worried sick about you-\! You're terrible, Yui-chan\! I don't care what happens to you anymore\!  
 **Yui:** Wait, wait\! Don't go, Kiyoka-chan\! I mean, they gave me as many katsudons as I asked for, okay? Anyone would eat as much as they can if you give them a free all you can eat buffet, right?  
 **Tsugumi:** Yamashiro-san, I don't think you're aware of this, but the katsudon you ate in the interview room wasn't the detective treating you to a meal.  
-**Yui:** Eh-\!? She wasn't\!?  
+**Yui:** Eh-\!\? She wasn't\!\?  
 **Ellen:** I've heard that, when you're released, they give you a bill for for everything all at once.  
-**Yui:** No way... Why wouldn't they tell me something like that from the beginning-\!?  
+**Yui:** No way... Why wouldn't they tell me something like that from the beginning-\!\?  
 **Yui:** If they won't give me all the katsudon I can eat, then I've got no reason to be sitting around here\! Please help me leave this place\~\!  
 **Tsugumi:** I'm not so sure anymore, if the only reason you want to leave is because you won't get free katsudon...  
 **Yui:** Come on, of course I have more reasons than that. If somebody doesn't stop those ring stealing aradama, then there'll be no end to the brides getting their hearts broken. I've gotta do what I can to help\!  
 **Kiyoka:** Yui-chan... That's right, we have to get you out of here and do all we can to suppress the aradama\!  
 **Ellen:** Hanahana and Yomiyomi from the elite guard are working to prove the culprit behind this is an aradama. We just have to be a little patient.  
-**Yui:** Ehh-\!? Konohana-san and Yomi-san are going out of their way for me\!?  
+**Yui:** Ehh-\!\? Konohana-san and Yomi-san are going out of their way for me\!\?  
 **Yui:** What should I do\~. I think my heart skipped a beat\! I found yet another reason to be happy I got arrested\!  
 **Kiyoka:** Sigh... Nothing can keep Yui-chan down, can it...  
 **Tsugumi:** She's a real testament to humanity's ability to thrive under any circumstances.  
@@ -196,7 +192,7 @@ The Case of the Disappearing Wedding Rings
 **Yui:** Come onnn\~\!  
 **Ellen:** And on that note, everything's taken care of\! Or, I wish it were that easy, but...  
 **Tsugumi:** We have a bit of bad news for you all. News has just come in that there are still some rings which haven't been recovered from the aradama.  
-**Yui:** Ehh-\!? That wasn't all of them\!?  
+**Yui:** Ehh-\!\? That wasn't all of them\!\?  
 **Kiyoka:** We finished our biggest goal by getting Yui released, but thinking about the poor brides, there's no way we can stop here.  
 **Suzuka:** We've come this far together, so the two of us will continue to offer our assistance.  
 **Yui:** Great\! In that case, let's all head back to the wedding chapel\!  
@@ -230,7 +226,7 @@ The Case of the Disappearing Wedding Rings
 **Tsugumi:** Rice symbolizes prosperity and bearing many descendants, so it came to be seen as being showered with good fortune.  
 **Yomi:** I see. It's true that, from one grain you can produce hundreds or thousands more, so rice is the most suitable symbol to use with wishing for prosperity and fertility.  
 **Yomi:** On top of that, there is a legend that seven gods reside within a single grain of rice. They are strongly believed to be the Seven Gods of Fortune, so it could be said that rice is a necessity at any celebration...  
-**Ellen:** Y-Yomiyomi\!?  
+**Ellen:** Y-Yomiyomi\!\?  
 **Yomi:** And also, along with gold, silver, and jewels, the treasure ship the Seven Gods of Fortune ride on carries bags of rice to represent an abundant harvest. Stacks of rice are considered a good luck charm that bring peace to a family and financial success...  
 **Kiyoka:** I didn't think Satsuki-san could talk this much...  
 **Aradama:** KEEEEEEE\!  
@@ -273,15 +269,15 @@ The Case of the Disappearing Wedding Rings
 **Tsugumi:** I'd like a long sleeved dress with little skin exposed, if possible... Hm? Speaking of which, I haven't seen Yamashiro-san for some time now.  
 **Kiyoka:** I can still feel her eyes watching though... Ah-, over there\! That suspicious figure on the rooftop across the way\!  
 **Tsugumi:** Even from this far, I can recognize that silhouette. That would be Yamashiro-san, with a telescopic camera readied.  
-**Suzuka:** A telescopic camera\!?  Was she planning to secretly photograph us from long range\!?  
+**Suzuka:** A telescopic camera\!\?  Was she planning to secretly photograph us from long range\!\?  
 **Ellen:** This is an emergency, everyone\! Please stop changing for no...  
 **Kiyoka:** Hang on a minute\! It looks like Yui-chan is being apprehended by security officers...  
-**Ellen:** Right after we helped her get out, she's getting arrested again\!?  
+**Ellen:** Right after we helped her get out, she's getting arrested again\!\?  
 **Tsugumi:** Unbelievable... There's just no keeping up with Yamashiro-san, is there.  
-**Yui:** E-EHHHH\~\!? Wait, please let go of me-\! Agh-, I almost had it too\~\!  
+**Yui:** E-EHHHH\~\!\? Wait, please let go of me-\! Agh-, I almost had it too\~\!  
 
 ## [Bride Kiyoka: Start]: Undercover Investigation (Kiyoka's Case)
-**Yui:** Ehhh\!? Aradama showed up at the wedding chapel again\!?  
+**Yui:** Ehhh\!\? Aradama showed up at the wedding chapel again\!\?  
 **Kiyoka:** Mm, it sounds like it.  
 **Kiyoka:** Apparently another ring was stolen, so maybe it's the same aradama from before?  
 **Yui:** Stealing a ring from a bride-to-be at the happiest moment of her life; Yamashiro Yui, ally to women around the world, won't let this stand\!  
@@ -303,17 +299,17 @@ The Case of the Disappearing Wedding Rings
 **Yui:** Huh, do you not want to wear it? You like wedding dresses, don't you, Kiyoka-chan?  
 **Kiyoka:** I-I do.  
 **Yui:** I'm just teasing you. I know what you're thinking. You're worried I'm going to do something weird, right?  
-**Kiyoka:** You realized\!?  
+**Kiyoka:** You realized\!\?  
 **Yui:** Of course, it's me we're talking about.  
 **Kiyoka:** Then... You won't come in while I'm changing?  
 **Yui:** I- won't- come- in-?  
-**Kiyoka:** Why did that sound so phony\!?  
+**Kiyoka:** Why did that sound so phony\!\?  
 **Yui:** Sorry, sorry, I'm just kidding, Kiyoka-chan. I would never force my way in on you while you're changing.  
 **Yui:** We're in a wedding chapel after all, so I'll swear to God to keep my word.  
 **Kiyoka:** Still...  
 **Chapel Staff:** Excuse me, you can lock the waiting room door, so...  
 **Kiyoka:** Okay\! I'll dress up as the decoy\!  
-**Yui:** That's how little you trust me\!?  
+**Yui:** That's how little you trust me\!\?  
 **Yui:** Fu, fufufu... As if I'd try. Peeping on you while you were changing was never what I was after, Kiyoka-chan...  
 **Yui:** It's my chance to see you in a wedding dress, so I have to make sure you get changed first\! Excuse me, Mr. Staffmember\! Could I please borrow a camera\!  
 **Chapel Staff:** A... Camera?  
@@ -326,21 +322,21 @@ The Case of the Disappearing Wedding Rings
 **Kiyoka:** There wasn't any sign of her trying to unlock the door, so she wasn't lying.  
 **Kiyoka:** Sigh, I should have trusted her more... I was rude to Yui-chan, wasn't I...  
 **Yui:** Oh, welcome back, Kiyoka-chan\! You look so good in that wedding dress\! We should get married right away\! Marry me right now\!  
-**Kiyoka:** Thank you... Hey, why do you have that camera\!? You didn't have it before, did you\!?  
+**Kiyoka:** Thank you... Hey, why do you have that camera\!\? You didn't have it before, did you\!\?  
 **Yui:** That's the expression I'm looking for\!  
 **Kiyoka:** Answer the question\!  
 **Yui:** Why...? The staff here lent it to me.  
-**Kiyoka:** Why would they do that\!?  
+**Kiyoka:** Why would they do that\!\?  
 **Yui:** All I had to do was say I wanted to record pictures of the aradama, and they handed it right over.  
 **Kiyoka:** Of course they would, if you put it like that...  
 **Yui:** Pretty quick thinking on my part, huh?  
 **Kiyoka:** It's devious...  
-**Kiyoka:** KYAA-\!?  
+**Kiyoka:** KYAA-\!\?  
 **Yui:** Got that expression too\! It's so good-, you're so cute, Chan-kiyo\!  
 **Kiyoka:** Chan-kiyo...  
 **Yui:** But, no matter what, a girl's smile is always best\! Go on, smile for me\!  
 **Yui:** And if you'd try flaunting your chest while you're at it, I'd be even happier\!  
-**Kiyoka:** Well I'm sorry you can't see my chest unless I flaunt it, okay\!?  
+**Kiyoka:** Well I'm sorry you can't see my chest unless I flaunt it, okay\!\?  
 **Yui:** All breasts, big and small, are beautiful, Kiyoka-chan\!  
 **Kiyoka:** That's not making me feel any better-\!  
 **Yui:** Hmmm, I thought you'd be acting more embarrassed... Whoopsie.  
@@ -350,8 +346,8 @@ The Case of the Disappearing Wedding Rings
 **Yui:** Isn't it? So just leave it to me, your cameraman.  
 **Kiyoka:** Yui-chan... Why are you down there on the floor?  
 **Yui:** Well I have to take some low angle shots of you, don't I? Don't worry, I'll be sure your panties don't show up in the pictures\!  
-**Kiyoka:** Panties...\!?  
-**Kiyoka:** Did you just take a picture of them\!?  
+**Kiyoka:** Panties...\!\?  
+**Kiyoka:** Did you just take a picture of them\!\?  
 **Yui:** Relax, the only record of your panties is safe in my memories.  
 **Kiyoka:** I don't want that either----\!\!  
 
@@ -364,7 +360,7 @@ The Case of the Disappearing Wedding Rings
 **Suzuka:** No, we have a ring equipped with a transmitter, so we only need the aradama to steal it.  
 **Maki:** I see, that makes sense.  
 **Maki:** So you'll be the bride, the aradama will steal the ring, we track where it goes, and this will all be solved.  
-**Suzuka:** Eh\!?  
+**Suzuka:** Eh\!\?  
 **Maki:** Did I get something wrong?  
 **Suzuka:** N-No... Only, I'll be the bride? The members from the previous mission have all been gathered...  
 **Maki:** Of course, if there's a chance you'll be in danger, I'll be right there to protect you. But wouldn't it be best if we were the ones doing the dangerous work?  
@@ -442,7 +438,7 @@ The Case of the Disappearing Wedding Rings
 **Yume:** A wedding dress\~\! I can't wait\~\!  
 **Yomi:** So this is the reason you proposed an undercover search.  
 **Yomi:** Very well. Then, please leave the aradama to me.  
-**Yume:** Why\!?  
+**Yume:** Why\!\?  
 **Yomi:** It's possible the aradama may not appear if you are holding an okatana.  
 **Yomi:** The decoy should focus entirely on luring out the aradama. The guard will take care of the rest.  
 **Yume:** I don't want to wear a wedding dress then\! You wear it, Yomi-onee-san\!  
@@ -481,7 +477,7 @@ The Case of the Disappearing Wedding Rings
 **Yomi:** Ch-Cheese?  
 **Yume:** Hmm, you still aren't smiling right.  
 **Aradama:** GUOOOOOOO\!\!  
-**Yomi:** Ah\!? Tsubakuro-san\! The aradama\!  
+**Yomi:** Ah\!\? Tsubakuro-san\! The aradama\!  
 **Yume:** Oh, you're right. HAAAA\!\!  
 **Yume:** Huh, that was nothing.  
 **Yomi:** ...Tsubakuro-san, you weren't supposed to defeat it. Now we can't identify where the stolen ring was taken.  
@@ -490,7 +486,7 @@ The Case of the Disappearing Wedding Rings
 **Yukari:** You did well on your assignment. ...Yomi?  
 **Yomi:** Yes?  
 **Yukari:** That wedding dress suited you.  
-**Yomi:** H-How did you... Tsubakuro-san\!?  
+**Yomi:** H-How did you... Tsubakuro-san\!\?  
 **Yume:** Ah, yep. I showed it around to everyone.  
 **Yomi:** B-By everyone, you mean...  
 **Yume:** Maki-onee-san, and Suzuka-onee-san\~.  

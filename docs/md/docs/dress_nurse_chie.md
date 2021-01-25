@@ -89,7 +89,7 @@ https://streamable.com/0lf1lv
 **Chie:** (That gives me some relief, but... it makes me a little lonely too.)  
 **Kiyoka:** What is it you'll be doing for a practical exercise in a medical course?  
 **Chie:** It looks like we'll be acting as nurses.  
-**Yui:** Are you serious\!?  
+**Yui:** Are you serious\!\?  
 **Yui:** Ah, I wanna see. I wanna see it so bad. Chie-san as a nurse; she'd be a real angel in white\!  
 **Kofuki:** Huh? Like Chichie could ever cut it as an angel.  
 **Chie:** ...  
@@ -108,7 +108,7 @@ https://streamable.com/0lf1lv
 **Chie:** Yui-chan?  
 **Yui:** Yes, Chie-san\!  
 **Chie:** On your knees.  
-**Yui:** Why me too\!?  
+**Yui:** Why me too\!\?  
 **Chie:** Honestly now.  
 **Chie:** Mirja, I'm sure it won't be easy on you, but do your best looking after them.  
 **Mirja:** ...I know, I will.  

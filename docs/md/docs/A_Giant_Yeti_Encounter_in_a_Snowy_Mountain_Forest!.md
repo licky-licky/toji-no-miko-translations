@@ -25,7 +25,7 @@ https://youtu.be/ngwn7UUtU4A
 **Kiyoka:** I'm cold, but... I'll take care of myself...  
 **Yui:** Ehh, don't be shy\! Come on\! Kiyoka-chan\!  
 **Mirja:** At any rate, it seems the only ones among us able to move normally are myself and Yamashiro Yui. Yamashiro Yui, we'll have to manage this together.  
-**Yui:** Okaaay\! Ah, I'll try super hard on this mission, so when we're done, can we all stop by the hot spring\!?  
+**Yui:** Okaaay\! Ah, I'll try super hard on this mission, so when we're done, can we all stop by the hot spring\!\?  
 **Mirja:** If I were to hypothetically agree to that, how much would "super hard" be?  
 **Yui:** I'll go at it 5 times harder than I usually do\!  
 **Mirja:** ...In that case, I'll consider it.  
@@ -44,7 +44,7 @@ https://youtu.be/ngwn7UUtU4A
 **Kofuki:** I don't wanna\!  
 **Yui:** Ehh, why not? A hot spring'll get your heart and body feeling all warm and fluffy\! It'll pull you out of that bad mood in a second\~.  
 **Tsugumi:** You're wrong, Yamashiro-san. What Shichinosato-san is sulking about is that she didn't get to play enough.  
-**Kofuki:** "Didn't get to play enough", what am I, a little kid\!?  
+**Kofuki:** "Didn't get to play enough", what am I, a little kid\!\?  
 **Mihono:** AH-\!  
 **Chie:** What is it, Mihono-chan?  
 **Mihono:** J-Just now...  
@@ -62,7 +62,7 @@ https://youtu.be/ngwn7UUtU4A
 **Tsugumi:** It must have been a fair distance away, so I doubt she was able to tell its sex. The weather has improved, so why don't we go looking for this yeti?  
 **Kofuki:** Count me out. I'm not walking around through all this snow looking for something that's not even an aradama-chan.  
 **Tsugumi:** Shichinosato-san, we have to capture this yeti. If it turns out to be some new kind of aradama that doesn't register on our spectrum finders... That could be a very useful sample.  
-**Kofuki:** A new kind of aradama-chan\!? You shouldn't said that sooner\! We've got plenty of time before the train back comes, right? Let's go hunting\!  
+**Kofuki:** A new kind of aradama-chan\!\? You shouldn't said that sooner\! We've got plenty of time before the train back comes, right? Let's go hunting\!  
 **Kiyoka:** Suddenly Kofuki-san's more excited than anyone...  
 **Mirja:** It's true that's a possibility. The blizzard has ended and it's become warmer, so why don't we search the area?  
 **Mihono:** I'm all for it\!  
@@ -85,7 +85,7 @@ https://youtu.be/ngwn7UUtU4A
 **Tsugumi:** Now we can't see them due to the blizzard.  
 **Mirja:** This is a problem. Now we have no way of knowing the way back, do we?  
 **Kiyoka:** Then, does that mean...  
-**Mihono:** We're stranded up here\!?  
+**Mihono:** We're stranded up here\!\?  
 
 ## 3: Stranded?
 **Tsugumi:** The blizzard's grown even stronger than before, hasn't it? At this rate we might actually be stranded up here.  
@@ -102,16 +102,16 @@ https://youtu.be/ngwn7UUtU4A
 **Tsugumi:** That reminds me. I made emergency rations just in case something like this happened. Would you all like some?  
 **Kiyoka:** Eh... You made them, Tsugumi-san...?  
 **Mihono:** Which means...  
-**Yui:** Tsugumi-san's home cooking\!? Nothing would make me happier up on this mountain than eating a girl's home cooking\~\! Don't mind if I do\~\! Chew chew...  
-**Kofuki:** Oi, oi, do you have any idea what she put in those things\!? Is it safe for her to dig in like that\!?  
-**Yui:** BWHA... Wh-What is this? I've never tasted anything like it? What's in it, anyway\!?  
+**Yui:** Tsugumi-san's home cooking\!\? Nothing would make me happier up on this mountain than eating a girl's home cooking\~\! Don't mind if I do\~\! Chew chew...  
+**Kofuki:** Oi, oi, do you have any idea what she put in those things\!\? Is it safe for her to dig in like that\!\?  
+**Yui:** BWHA... Wh-What is this? I've never tasted anything like it? What's in it, anyway\!\?  
 **Tsugumi:** A balanced assortment of meat and fish proteins, blended with various fruits, vegetables, and supplements, all processed for long term storage.  
 **Tsugumi:** As its purpose was to aid in survival in snowy mountain conditions, I paid no attention to the taste. Is there a problem with it?  
 **Yui:** I mean, it does taste like it'd be pretty nutritious, but my mouth is still all tingling and numb and mushy...  
 **Kofuki:** What kinda flavor is that\! No matter what, there's nooo way I'm eating that crappy food of yours\!  
 **Tsugumi:** Is the taste that bad? Chew chew... I think this is an acceptable level for food though...  
 **Yui:** Huh? I started feeling all funny. Like I'm getting all warmed up and energized\!  
-**Mihono:** Really\!?  
+**Mihono:** Really\!\?  
 **Yui:** Yeah\! I'm feeling way more lively now, like I'm bursting with strength-\!  
 **Chie:** Could those rations actually be effective?  
 **Kiyoka:** In that case, it might better if we tried to ignore the taste and ate them anyway.  
@@ -129,7 +129,7 @@ https://youtu.be/ngwn7UUtU4A
 **Kiyoka:** If we went along with that, there wouldn't be any romance to it though...  
 **Kofuki:** You're supposed to do that in a shack or something, not out in the middle of the mountain\!  
 **Yui:** The circumstances are so great that we can't even find one of those\! We have to do this, to save all your lives... Pant pant... Come on\! I'll start with Tsugumi-san-\!  
-**Tsugumi:** Wh-Why are you starting with me\!?  
+**Tsugumi:** Wh-Why are you starting with me\!\?  
 **Yui:** As the new member, don't you think this is the fastest way to deepen our friendship?  
 **Yui:** There's no time to waste; please take your clothes off\! Or are you the type who likes having them taken off? Pant pant pant...  
 
@@ -137,7 +137,7 @@ https://youtu.be/ngwn7UUtU4A
 **Yui:** Come on, Tsugumi-san\! If you won't take those clothes off, I'll get them off for you\~\!  
 **Tsugumi:** Th-That's going a little too far...\!  
 **Mihono:** AHH-\! Yeti-\!  
-**Kofuki:** For real\!? Where?  
+**Kofuki:** For real\!\? Where?  
 **Mihono:** There\! Look, over behind that tree\!  
 **Chie:** It's hard to see through the blizzard... But I saw something white moving around just now\!  
 **Kiyoka:** I think I see glowing eyes too... Eh... What should we do? It keeps coming closer to us...  
@@ -169,7 +169,7 @@ https://youtu.be/ngwn7UUtU4A
 **Mirja:** I learned when I was searching for our route that this area of the mountain is actually directly behind a ski resort. It seems to be a popular location for snowboarding.  
 **Kiyoka:** Snowboarding\! That sounds fun.  
 **Tsugumi:** In that case, why don't we try some snowboarding before heading home\! Allow me to observe just how much stamina you all have left after being stranded in a blizzard.  
-**Kofuki:** Huh\!? Why should we wear ourselves out for you\!?  
+**Kofuki:** Huh\!\? Why should we wear ourselves out for you\!\?  
 **Tsugumi:** This is valuable data\!  
 **Kofuki:** ...Sigh. Well, since it sounds like I don't get a say in it, I'll tag along.  
 **Mihono:** Awesome-\! Let's all go snowboarding before we leave\!  
@@ -182,7 +182,7 @@ https://youtu.be/ngwn7UUtU4A
 **Tsugumi:** You say that, but you're a little excited for this, aren't you.  
 **Kofuki:** Wha... As if\!  
 **Maki:** You all seem to have carried out your mission successfully. Good work.  
-**Kofuki:** Huh\!? What's Maki-senpai doing here?  
+**Kofuki:** Huh\!\? What's Maki-senpai doing here?  
 **Maki:** Good to see you too... After reviewing your combat data, Yukari-sama decided to institute training for toji on further missions in snowy conditions.  
 **Maki:** And so, bringing some available toji up here, we rented this ski resort as a space for snowy combat training exercises.  
 **Yume:** Thaaaat's how it is\! It's training where a whole bunch of toji go around fighting each other in the snow\~\!  

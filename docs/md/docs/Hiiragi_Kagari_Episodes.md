@@ -31,7 +31,7 @@ https://youtu.be/1TSJLghLiqQ
 **Minato:** Yeah, I was going to. Cause the way you're eating makes it look so good.  
 **Kagari:** ...That's because mamekan is delicious.  
 **Minato:** You looked real cute while you were eating.  
-**Kagari:** Wha-\!? P-Please stop harassing me, Minato-senpai\!  
+**Kagari:** Wha-\!\? P-Please stop harassing me, Minato-senpai\!  
 **Minato:** Ehh, but you really did look cute. Right, Yukari?  
 **Kagari:** Absolutely not\! I wasn't cute, was I, Yukari-sama\!  
 **Yukari:** I thought you were cute.  
@@ -143,7 +143,7 @@ https://youtu.be/1TSJLghLiqQ
 **Kagari:** ......  
 **Kagari:** To be honest, I don't think I dislike her... That much.  
 **Minato:** You here, Kagari?  
-**Kagari:** M-Minato-senpai\!?  
+**Kagari:** M-Minato-senpai\!\?  
 **Yukari:** At least knock before you come in, Minato. It's bad manners.  
 **Minato:** Ahaha, my bad, sorry.  
 **Kagari:** D-Did you...  
@@ -153,9 +153,9 @@ https://youtu.be/1TSJLghLiqQ
 **Kagari:** ...Oh.  
 **Yukari:** We weren't. Right, Kagari?  
 **Yukari:** Right. We were only talking about how irritating you are, Minato-senpai.  
-**Minato:** No wait, that's definitely talking bad about me\!?  
+**Minato:** No wait, that's definitely talking bad about me\!\?  
 **Yukari:** Pfft, ahahaha\!  
-**Minato:** I don't get what's so funny about that\!?  
+**Minato:** I don't get what's so funny about that\!\?  
 **Kagari:** Neither do I, Yukari-sama\!  
 **Yukari:** I'm just relieved, since you two seem to be getting along.  
 
@@ -211,7 +211,7 @@ Roughly one week after Kagari began attending Renpu Middle School...
 **Kagari:** She is, though...  
 **Minato:** I got my hands on a tasty cake, so I thought we could eat it together. Want to join us, Kagari?  
 **Kagari:** A cake...? Yukari-sama's body is under a lot of stress right now. With her cold, she has to remain in bed...  
-**Minato:** Ehh-\!? Yukari actually got sick\!? I guess it's like they say, even the devil gets heatstroke, ahaha.  
+**Minato:** Ehh-\!\? Yukari actually got sick\!\? I guess it's like they say, even the devil gets heatstroke, ahaha.  
 **Kagari:** "Ahaha"...? Minato-senpai... Your good friend is in there sick right now. Do you not care at all?  
 **Minato:** Of course I care. But, whether I laugh or get upset, it's not going to make her cold go away, is it?  
 **Kagari:** You aren't wrong, but...  
@@ -260,7 +260,7 @@ Roughly one week after Kagari began attending Renpu Middle School...
 **Minato:** Hey hey, don't worry about the details. What's important is we get this water back to Yukari right away\!  
 **Kagari:** I can't believe her... Wait for me, Minato-senpai.  
 **Yukari:** You two got springwater from the mountain out back? Thank you for going out of your way for me. Gulp, gulp...  
-**Kagari:** The mountain out back? That's what Yukari-sama said, wasn't it, Minato-senpai? But you said we had to cross way on the other side of the mountain... Why did you lie about that\!?  
+**Kagari:** The mountain out back? That's what Yukari-sama said, wasn't it, Minato-senpai? But you said we had to cross way on the other side of the mountain... Why did you lie about that\!\?  
 **Minato:** Sorry, sorry. It's just, even though you weren't assigned to do anything, you wouldn't leave or eat anything, so I was worried...  
 **Kagari:** That doesn't make it okay for you to lie to me like that\!  
 **Kagari:** Ah...  

@@ -1,13 +1,9 @@
 
 Musumi Kiyoka Episodes
 ======================
+https://www.youtube.com/watch?v=wlXPwLDgDeY
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/wlXPwLDgDeY" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/6_yDBybZI3Y
 
   
@@ -64,14 +60,14 @@ https://youtu.be/F1HUf5KE_sc
 **Kiyoka:** ...O-Okay, I'll try it.  
 **Mihono:** We'll use wooden swords in a three round match. It's not first to two wins, just three whole rounds.  
 **Mihono:** ...Here I come\!  
-**Mihono:** Eh...? What was that... I couldn't get through\!?  
+**Mihono:** Eh...? What was that... I couldn't get through\!\?  
 **Mihono:** ......  
 **Mihono:** ...Then, round two, let's start.  
 **Mihono:** Twice in a row... Alright\! This is where it counts\!  
 **Kiyoka:** Y-Yes.  
 **Mihono:** I'm going to seriously come at you now\!  
 **Mihono:** ...I couldn't win a single round in the end.  
-**Mihono:** ...What the heck\! I don't believe it\!? Kiyoka, you're crazy strong\!  
+**Mihono:** ...What the heck\! I don't believe it\!\? Kiyoka, you're crazy strong\!  
 **Mihono:** Honestly, in that last fight, I felt like I put everything into my swings, but it was like hitting a wall. I couldn't break your guard.  
 **Mihono:** Ahhh, I feel so weak\! This sucks...  
 **Kiyoka:** Um... I-I just... Sor-  
@@ -94,7 +90,7 @@ https://youtu.be/F1HUf5KE_sc
 
 ## 3: Teruhiro and Kagemitsu
 **???:** Hey, hey, you there, from Heijou\!  
-**Kiyoka:** Ah, uh, yes\!?  
+**Kiyoka:** Ah, uh, yes\!\?  
 **Kiyoka:** W-Who might you be...?  
 **Koike Saaya:** Whoops, sorry. It's rare to see someone else from Heijou around here, so I just had to call out to you. I'm Koike Saaya, a third year high schooler at Heijou.  
 **Saaya:** Ever since last September I've been interning here; getting on the job training at the prefectural police station. Ah, it's just deskwork though.  
@@ -159,7 +155,7 @@ https://youtu.be/F1HUf5KE_sc
 **???:** Well, I'm in similar circumstances. So we're equally qualified, aren't we?  
 **Kiyoka:** I-I can't back down here...\!  
 **???:** Then what should we do... For starters, could you stop looking at the floor? C'mon, lift your chin up.  
-**Kiyoka:** Um... Ah... Kamo... Chinami-senpai\!?  
+**Kiyoka:** Um... Ah... Kamo... Chinami-senpai\!\?  
 **Chinami:** That's me.  
 **Chinami:** So, would you be willing to give me that book? A friend of mine has been dying to get it... Or is it no use?  
 **Kiyoka:** Eh, no... This is... It's a misunderstanding... I'm just so nervous I can't let go...  
@@ -183,7 +179,7 @@ https://youtu.be/F1HUf5KE_sc
 **Mihono:** It almost sounds like... You got picked up by someone handsome.  
 **Kiyoka:** I guess she's my handsome onee-san?  
 **Chie:** I've heard of her, Kamo Chinami-san. She does amateur modeling. You're surprisingly well connected, Kiyoka-chan...  
-**Mihono:** Is this her femininity in action\!?  
+**Mihono:** Is this her femininity in action\!\?  
 
 ## 5: Thesis\! What is Femininity\!
 **Mihono:** Grrrrrr.... Grr.  
@@ -193,9 +189,9 @@ https://youtu.be/F1HUf5KE_sc
 **Mihono:** There\! There it is\! That bashfulness\!  
 **Mihono:** It must be nice, Kiyoka\~ Having that much femininity... Meanwhile, I've got none of that...  
 **Kiyoka:** There it is\!\!  
-**Mihono:** Eh\!? W-What is...?  
-**Kiyoka:** Just now, you said "femininity", didn't you, Hono-chan\!? What does "femininity" mean to you\!?  
-**Mihono:** What's up with you\!? It's not like you to be so aggressive, Kiyoka... That scared me.  
+**Mihono:** Eh\!\? W-What is...?  
+**Kiyoka:** Just now, you said "femininity", didn't you, Hono-chan\!\? What does "femininity" mean to you\!\?  
+**Mihono:** What's up with you\!\? It's not like you to be so aggressive, Kiyoka... That scared me.  
 **Kiyoka:** Ah... I'm sorry. I'll explain. The other day, Yanase Mai-san and I were baking cookies together, and we got into a discussion about what femininity means.  
 **Mihono:** S-So that's why...? Well, femininity means "cute and girly things", doesn't it? You've got a lot of it, Kiyoka. You're cute and make me want to protect you.  
 **Kiyoka:** Really, you think I'm cute...? But that's not important right now\! Hono-chan, that way of thinking is wrong\!  
@@ -218,7 +214,7 @@ https://youtu.be/6_yDBybZI3Y
   
 
 ## [Bride '19: Start]: Undercover Investigation (Kiyoka's Case)
-**Yui:** Ehhh\!? Aradama showed up at the wedding chapel again\!?  
+**Yui:** Ehhh\!\? Aradama showed up at the wedding chapel again\!\?  
 **Kiyoka:** Mm, it sounds like it.  
 **Kiyoka:** Apparently another ring was stolen, so maybe it's the same aradama from before?  
 **Yui:** Stealing a ring from a bride-to-be at the happiest moment of her life; Yamashiro Yui, ally to women around the world, won't let this stand\!  
@@ -240,17 +236,17 @@ https://youtu.be/6_yDBybZI3Y
 **Yui:** Huh, do you not want to wear it? You like wedding dresses, don't you, Kiyoka-chan?  
 **Kiyoka:** I-I do.  
 **Yui:** I'm just teasing you. I know what you're thinking. You're worried I'm going to do something weird, right?  
-**Kiyoka:** You realized\!?  
+**Kiyoka:** You realized\!\?  
 **Yui:** Of course, it's me we're talking about.  
 **Kiyoka:** Then... You won't come in while I'm changing?  
 **Yui:** I- won't- come- in-?  
-**Kiyoka:** Why did that sound so phony\!?  
+**Kiyoka:** Why did that sound so phony\!\?  
 **Yui:** Sorry, sorry, I'm just kidding, Kiyoka-chan. I would never force my way in on you while you're changing.  
 **Yui:** We're in a wedding chapel after all, so I'll swear to God to keep my word.  
 **Kiyoka:** Still...  
 **Chapel Staff:** Excuse me, you can lock the waiting room door, so...  
 **Kiyoka:** Okay\! I'll dress up as the decoy\!  
-**Yui:** That's how little you trust me\!?  
+**Yui:** That's how little you trust me\!\?  
 **Yui:** Fu, fufufu... As if I'd try. Peeping on you while you were changing was never what I was after, Kiyoka-chan...  
 **Yui:** It's my chance to see you in a wedding dress, so I have to make sure you get changed first\! Excuse me, Mr. Staffmember\! Could I please borrow a camera\!  
 **Chapel Staff:** A... Camera?  
@@ -263,21 +259,21 @@ https://youtu.be/6_yDBybZI3Y
 **Kiyoka:** There wasn't any sign of her trying to unlock the door, so she wasn't lying.  
 **Kiyoka:** Sigh, I should have trusted her more... I was rude to Yui-chan, wasn't I...  
 **Yui:** Oh, welcome back, Kiyoka-chan\! You look so good in that wedding dress\! We should get married right away\!  
-**Kiyoka:** Thank you... Hey, why do you have that camera\!? You didn't have it before, did you\!?  
+**Kiyoka:** Thank you... Hey, why do you have that camera\!\? You didn't have it before, did you\!\?  
 **Yui:** That's the expression I'm looking for\!  
 **Kiyoka:** Answer the question\!  
 **Yui:** Why...? The staff here lent it to me.  
-**Kiyoka:** Why would they do that\!?  
+**Kiyoka:** Why would they do that\!\?  
 **Yui:** All I had to do was say I wanted to record pictures of the aradama, and they handed it right over.  
 **Kiyoka:** Of course they would, if you put it like that...  
 **Yui:** Pretty quick thinking on my part, huh?  
 **Kiyoka:** It's devious...  
-**Kiyoka:** KYAA-\!?  
+**Kiyoka:** KYAA-\!\?  
 **Yui:** Got that expression too\! It's so good-, you're so cute, Chan-kiyo\!  
 **Kiyoka:** Chan-kiyo...  
 **Yui:** But, no matter what, a girl's smile is always best\! Go on, smile for me\!  
 **Yui:** And if you'd try flaunting your chest while you're at it, I'd be even happier\!  
-**Kiyoka:** Well I'm sorry you can't see my chest unless I flaunt it, okay\!?  
+**Kiyoka:** Well I'm sorry you can't see my chest unless I flaunt it, okay\!\?  
 **Yui:** All breasts, big and small, are beautiful, Kiyoka-chan\!  
 **Kiyoka:** That's not making me feel any better-\!  
 **Yui:** Hmmm, I thought you'd be acting more embarrassed... Whoopsie.  
@@ -287,8 +283,8 @@ https://youtu.be/6_yDBybZI3Y
 **Yui:** Isn't it? So just leave it to me, your cameraman.  
 **Kiyoka:** Yui-chan... Why are you down there on the floor?  
 **Yui:** Well I have to take some low angle shots of you, don't I? Don't worry, I'll be sure your panties don't show up in the pictures\!  
-**Kiyoka:** Panties...\!?  
-**Kiyoka:** Did you just take a picture of them\!?  
+**Kiyoka:** Panties...\!\?  
+**Kiyoka:** Did you just take a picture of them\!\?  
 **Yui:** Relax, the only record of your panties is safe in my memories.  
 **Kiyoka:** I don't want that either----\!\!  
 https://youtu.be/H9uezyeVchU
@@ -327,8 +323,8 @@ https://youtu.be/H9uezyeVchU
 **Itsuki:** Come on, Onee-chan. You're letting it go to your head.  
 **Kiyoka:** Fuu-san\!  
 **Fuu:** Ah, sorry for getting caught up in the moment.  
-**Kiyoka:** I... I want to learn to be as feminine as you are, Fuu-san\! Could I ask you to give me special training to raise my girl power...\!?  
-**Itsuki:** Ehh...\!? Um, Kiyoka-san... I think it would be best if you didn't go there. About Oee-chan's... girl power...  
+**Kiyoka:** I... I want to learn to be as feminine as you are, Fuu-san\! Could I ask you to give me special training to raise my girl power...\!\?  
+**Itsuki:** Ehh...\!\? Um, Kiyoka-san... I think it would be best if you didn't go there. About Oee-chan's... girl power...  
 **Fuu:** I hear your request loud and clear. I don't know how long it will take, but I'll do all I can to help boost your girl power, Kiyoka\!  
 **Kiyoka:** Ah, thank you very much... Fuu-san\!  
 **Fuu:** The road to improving your girl power is steep and perilous. We'll start your training straight away, Kiyoka\!  
@@ -339,18 +335,18 @@ https://youtu.be/H9uezyeVchU
 **Tougou:** Hey, Itsuki-chan? We just ate a little while ago, so why are Fuu-senpai and Kiyoka-chan sitting in front of bowls of udon?  
 **Itsuki:** That's because...  
 **Fuu:** There's lots of things that can boost your girl power, like practicing cooking and stuff, but the most effective method is udon\!  
-**Kiyoka:** Udon\!?  
+**Kiyoka:** Udon\!\?  
 **Fuu:** That's right. Udon is packed with all the ingredients you need for girl power\! And-, with enough girl power, you can do anything-\!  
 **Kiyoka:** I-I got it\!  
 **Kiyoka:** (I don't exactly understand... why eating udon is meant to make you more feminine. But I just have to have faith in Fuu-san for now.)  
 **Fuu:** Now, eat up the udon that's loved by all across the nation, and raise up your girl power\!  
-**Kiyoka:** Udon is loved on that kind of level in the world you came from\!?  
+**Kiyoka:** Udon is loved on that kind of level in the world you came from\!\?  
 **Fuu:** Sure; udon is at the very tip top of gourmet food. Come on, while it's still hot\!  
 **Kiyoka:** I-I'll give it a try...\!  
 **Fuu:** [chew chew]... Even in this world, udon's still the best\! ...It's filling me up\!  
 **Kiyoka:** Yes... It's very tasty, isn't it\!  
 **Fuu:** I think I'll just keep going on into seconds...?  
-**Kiyoka:** [chew chew]... A-Already\!? I-I have to... try harder too-\!  
+**Kiyoka:** [chew chew]... A-Already\!\? I-I have to... try harder too-\!  
 **Tougou:** Ahh... You can't do that, Kiyoka-chan. If you try to have as many helpings as Fuu-senpai...  
 **Fuu:** Thank you for coming along to the Inubouzaki Fuu-style Girl Power Boosting Special Training.  
 **Kiyoka:** I'm sorry, but... Fuu-san? We ate udon and then exercised together, but I don't feel like I've gotten any more girl power yet...  
@@ -373,7 +369,7 @@ https://youtu.be/H9uezyeVchU
 **Fuu:** You can't deny you're the one who defeated all those aradama today, can you?  
 **Kiyoka:** Somehow, I just felt a little less hesitant today with my swordsmanship.  
 **Fuu:** Fu fu fu, don't you get it? That's the proof of your girl power.  
-**Kiyoka:** It is\!?  
+**Kiyoka:** It is\!\?  
 **Fuu:** Yep. Now that your girl power's gone up, I'm sure you won't lose to any aradama. Be confident in yourself, Kiyoka.  
 **Fuu:** A girl full of confidence is the strongest there is.  
 **Kiyoka:** Now that you mention it, attractive girls always seem to have a lot of confidence, don't they.  
@@ -433,16 +429,16 @@ https://youtu.be/F1HUf5KE_sc
 ## [Hostess - Kiyoka: End]: Hopefully it Goes Well
 **Kiyoka:** Umm, this meal was for the room to the left of the one before--  
 **Mihono:** H-Help me, Kiyokaaaaaaaaa\!\!  
-**Kiyoka:** ...Hyau\!? What's the matter, Hono-chan\!?  
+**Kiyoka:** ...Hyau\!\? What's the matter, Hono-chan\!\?  
 **Mihono:** The food I was making turned into an aradama\!  
-**Mihono:** What do I do\!?  
-**Kiyoka:** Ehh\!? Why did it do that\!? First... W-W-W-We have to calm down...\!?  
+**Mihono:** What do I do\!\?  
+**Kiyoka:** Ehh\!\? Why did it do that\!\? First... W-W-W-We have to calm down...\!\?  
 **Kiyoka:** ...Right\! We use our okatana at times like these\!  
 **Mihono:** Oh yeah, our okatana\!  
 **Mihono:** This'll do it... in a jiffy\!  
 **Kiyoka:** Wait, Hono-chan\! You're holding a fire extinguisher\!\!  
 **Mihono:** SHHUU---\!\!  
-**Kiyoka:** Ah, everything's gone all white\!?  
+**Kiyoka:** Ah, everything's gone all white\!\?  
 **Mihono:** SHHUU---\!\!  
 **Kiyoka:** I can't see the aradama\! Stop it, Hono-chan\!\!  
 **Kiyoka:** S-Stop doing that-\!  

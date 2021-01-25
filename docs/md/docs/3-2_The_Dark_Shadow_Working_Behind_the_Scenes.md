@@ -1,13 +1,9 @@
 
 3-2 The Dark Shadow Working Behind the Scenes
 =============================================
+https://www.youtube.com/watch?v=L5g6KSmsL_o
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/L5g6KSmsL_o" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Unease (1)
 **Mihono:** Hey, Chii-nee. Do you know where Yui is?  
@@ -66,13 +62,13 @@ During an aradama suppression mission.
 **Unit Leader:** Here they come, draw your swords\!  
 **Aradama:** SHAAAAAAAAAAA\!  
 **Ayumu:** KYAAAAAA\!\!  
-**Unit Leader:** Uchizato-\!?  
+**Unit Leader:** Uchizato-\!\?  
 **Ayumu:** Even though I got an okatana... My utsushi is gone just like that...  
 **Ayumu:** Pant... Pant... I can't do anything... Against something this strong...  
 **Ayumu:** It's no use, it's going to... It's going to get me... I'm scared...  
 **Unit Leader:** All toji, provide cover for Uchizato\! Move iーー  
 **Aradama:** GYAAUUUUN\!  
-**Ayumu:** Wh-What was that\!?  
+**Ayumu:** Wh-What was that\!\?  
 **Kanami:** Sayaka-chan, let's do this\!  
 **Sayaka:** Right.  
 
@@ -115,7 +111,7 @@ During an aradama suppression mission.
 **Yuzuki:** It's good to see you're so motivated. On top of which, you do have high compatibility with noro.  
 **Yui:** High compatibility with noro? What are you talking about?  
 **Yuzuki:** One of the conditions of joining the imperial guard is to accept injections of noro into your body.  
-**Yui:** But... Injecting noro into yourself... That's dangerous, isn't it\!?  
+**Yui:** But... Injecting noro into yourself... That's dangerous, isn't it\!\?  
 **Yuzuki:** That's right... You're aware of the circumstances involving Tsubakuro Yume, aren't you? No, you should know the others in the elite guard as well. Of course you'd feel apprehensive.  
 **Yuzuki:** However, the strengthening drugs you'll be administered are the latest formula. Compared to the previous formula, the risks are far lower.  
 **Yui:** Lower? That means there's still a risk, doesn't it?  
@@ -135,7 +131,7 @@ At Ayanokouji Martial Arts School, several hours after President Souraku Yuzuki'
 
   
 **Mirja:** The president has been behaving strangely, so I did some investigating of my own. But I never thought she'd go as far as forming a guard to protect Tagitsuhime.  
-**Yui:** Eh, Tagitsuhime\!? I never heard anything like that\!  
+**Yui:** Eh, Tagitsuhime\!\? I never heard anything like that\!  
 **Mirja:** Of course, it was beyond all my expectations as well. I returned to see why she recalled everyone so urgently, but... I never imagined it would end up like this.  
 **Mirja:** I trust the two of you have no interest in joining her guard either?  
 **Yui:** No way, no way\! I told her no right away. There's no way I'm letting them put noro in me\!  
@@ -161,7 +157,7 @@ Several more hours later, with Kitora Mirja--
 **Yomi:** Your wishes don't matter here. You'll become a pawn for her.  
 **Mirja:** I'll say it again. I refuse.  
 **Yomi:** If I wound you badly enough here, even if you dislike it, you'll accept the noro to save your own life. The same as the other toji did.  
-**Mirja:** You... You attacked other toji like that\!?  
+**Mirja:** You... You attacked other toji like that\!\?  
 **Yomi:** Is there a problem?  
 **Mirja:** How could you...\!  
 **Yomi:** There's no need to speak any longer.  
@@ -209,7 +205,7 @@ Several more hours later, with Kitora Mirja--
 **Sana:** Hmm? Someone's feeling cocky. If you've got that kind of energy to spare, I was worried for nothing. Time for your next mission.  
 **Kofuki:** Oh\! Sounds good\! So long as I get to mess with more aradama-chan, then keep it coming\!  
 **Sana:** Huh, unlike a certain other chihuahua you seem plenty motivated. Though, sorry to get your hopes up, but this one isn't about aradama suppression.  
-**Kofuki:** What, then what's the point\!? Where am I supposed to unload all this motivation\!?  
+**Kofuki:** What, then what's the point\!\? Where am I supposed to unload all this motivation\!\?  
 **Chie:** What is this mission about then?  
 **Sana:** You're being sent to the Ministry of Defense, to safeguard Takirihime. With the situation as it is, it wouldn't be unusual if Tagitsuhime attacked any day now. We can never have enough people over there.  
 **Sana:** If Takirihime ends up merging with Tagitsuhime, we'd be lucky to get off as easy as we did with the disaster twenty years ago.  
@@ -223,11 +219,11 @@ Several more hours later, with Kitora Mirja--
 **Mihono:** I think I get it.  
 **Sana:** Akane-sama already headed over there wtih Etou and Juujou. You four will follow after them.  
 **Mirja:** I've made it... Back...  
-**Mihono:** M-Mirja-san\!? Wait... She's bleeding everywhere... We have to get her some first aid quick\!  
+**Mihono:** M-Mirja-san\!\? Wait... She's bleeding everywhere... We have to get her some first aid quick\!  
 **Kiyoka:** These wounds are terrible... Were you fighting an aradama...?  
 **Kofuki:** No, that's not it. An aradama didn't do this. Look, this is a cut from a sword.  
-**Mihono:** A sword... Huh? How did... What happened\!?  
-**Mihono:** If Mirja-san's injured this badly... Then who did it? You mean... Tagitsuhime\!?  
+**Mihono:** A sword... Huh? How did... What happened\!\?  
+**Mihono:** If Mirja-san's injured this badly... Then who did it? You mean... Tagitsuhime\!\?  
 **Chie:** Calm down, Mihono-chan. What matters most is that we take care of Mirja-san right now.  
 **Mirja:** It isn't as bad, as it looks. I can receive medical treatment later. Before that, I have to make my report right away.  
 **Sana:** ...Then you can tell us while you're getting treated.  

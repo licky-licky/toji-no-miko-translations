@@ -21,14 +21,14 @@ https://youtu.be/aXSlrxYA9cg
 **Suu:** Ah, I'm fine. Just thinking about something...  
 **Akira:** Nn? And you're...  
 **Suu:** I'm just your average a little bit weaker than most toji you could find anywhere; don't mind me\!  
-**Mihono:** Uwah\!? What're you shouting for all of a sudden, Inami-san?  
+**Mihono:** Uwah\!\? What're you shouting for all of a sudden, Inami-san?  
 **Akira:** Inami, huh. What's your first name?  
 **Suu:** It's Suu... But, um, you don't have to go out of your way to remember it or anything...  
 **Akira:** You don't have to be such a downer; we're on the same team together\! Glad to have ya, Suu.  
 **Suu:** (She remembered my nameeeeeeeeeeeeee\!\!)  
 **Suu:** Um... Mihono-san... About Inago-san, is she... a delinquent?  
 **Mihono:** No way\! There's some people who call her Boss, but Akira-san just likes dressing like that.  
-**Suu:** Boss\!?  
+**Suu:** Boss\!\?  
 **Akira:** Nn? You gonna call me that too? It's got a good ring to it, "Boss." Bring it on.  
 **Suu:** It fits you way too well so I'll have to pass\!  
 **Akira:** Oh, huh.  
@@ -77,7 +77,7 @@ Several days later.
 **Suu:** We'll help you out with that\!  
 **Sanae:** Inami-san, Inago-san, Asakura-san? Weren't you out training...?  
 **Suu:** We heard people saying you two had been looking for us, so we hurried over\!  
-**Suu:** We weren't at all thinking anything like, yay, a break from how harsh Inago-san is or anything\!?  
+**Suu:** We weren't at all thinking anything like, yay, a break from how harsh Inago-san is or anything\!\?  
 **Akira:** Geez, look at the nerve she's got.  
 **Mihono:** Ahaha, sorry, Kiyoka. We weren't doing anything besides training... You had to do everything else for us, didn't you.  
 **Akira:** Nah, I'm the one to blame here.  
@@ -107,7 +107,7 @@ On a day off.
 **Mihono:** So anyway, we're here to buy presents for the present exchange-\!  
 **Kiyoka/Suu:** [clap clap clap]\~\!  
 **Mihono:** I'm glad Akira-san and Iwakura-san both said they're excited to do it. Did you two already decide on what you're buying?  
-**Suu:** I actually have two things in mind... Garden or Hell Angel Marvelous-chan; which one do you think I should try and make more fans of\!?  
+**Suu:** I actually have two things in mind... Garden or Hell Angel Marvelous-chan; which one do you think I should try and make more fans of\!\?  
 **Mihono:** Wh-Which one... What are you gonna do if they go to Akira-san?  
 **Suu:** If Inago-san got those...  
 **Suu:** ......  
@@ -131,7 +131,7 @@ On a day off.
 **Suu:** Th-That was close...  
 **Sanae:** Did you run into trouble?  
 **Akira:** Nah, nothing like that happened today, so it's all good. It's cause I had Mihono and Suu with me.  
-**Mihono:** Eh\!?  
+**Mihono:** Eh\!\?  
 **Mihono:** (All that stuff happened, and she doesn't call that trouble...?)  
 **Suu:** (I'm never going to wake Inago-san up, no way\!)  
 **Sanae:** ...So anyway, let's split into two teams like we planned and start our guard duty\!  
@@ -152,13 +152,13 @@ On a day off.
 **Kiyoka:** With all these important people here, it's bound to happen.  
 **Mihono:** Is it okay for us to not be doing anything about it?  
 **Kiyoka:** The security officers will deal with anyone suspicious. Our job is just to take care of if aradama appear.  
-**Suu:** Ehh\!? Then, that training we did, and our special training... There wasn't any point to Inago-san hazing us, was there\!?  
+**Suu:** Ehh\!\? Then, that training we did, and our special training... There wasn't any point to Inago-san hazing us, was there\!\?  
 **Kiyoka:** That's not true\! If we have to go fight an aradama, that special training will be worth it\!  
 **Operator:** An appearance of aradama has been confirmed in the area of the academy. Will Iwakura team please head to suppress it at once.  
 **Mihono:** There's aradama\!  
 **Sanae:** Musumi-san, Asakura-san, Inami-san. The place where the aradama appeared is closer to you three\! I need you to suppress it\!  
 **All Three:** Right\!  
-**Mihono:** Uwah--\!? There's so many cars here\!\!  
+**Mihono:** Uwah--\!\? There's so many cars here\!\!  
 **Suu:** It'll be tough making it down this road.  
 **Kiyoka:** It's alright\! I made sure to look things up for times like this\!  
 **Kiyoka:** Hono-chan, Inami-san\! Over here\!  
@@ -204,7 +204,7 @@ On a day off.
 **Mihono:** Ughh, it's cold\! What'd you need to bring me out here for, Kiyoka?  
 **Kiyoka:** ...Here's a present for you, Hono-chan. They're new gloves. I'd be glad if you used them.  
 **Mihono:** Thanks, Kiyoka\! You know... I got a present for you too\!  
-**Kiyoka:** Eh\!? This is... a bookmark?  
+**Kiyoka:** Eh\!\? This is... a bookmark?  
 **Mihono:** I know you like books, so. Though, I was worried this one was a little too cheap.  
 **Kiyoka:** I don't think it's cheap at all. I'm very happy with it... Thank you, Hono-chan\!  
 **Kiyoka:** This turned out to be a really nice Christmas\!  

@@ -51,7 +51,7 @@ https://streamable.com/bdo8of
 **Kiyoka:** There are\! In fact, there's a rumor going around the Five Traditions about people's doppelganger's showing up\!\!  
 **Sayaka:** ...There's people who look exactly the same showing up?  
 **Kanami:** Sounds like it\!  
-**Kanami:** I heard, sometime before Halloween, people were saying "I ran into myself\!" and stuff like that.  
+**Kanami:** I heard, sometime before Halloween, people were saying "I ran into myself\!\" and stuff like that.  
 **Kiyoka:** At first it felt like, since Halloween was coming up, they must spreading around as some kind of prank.  
 **Kiyoka:** But, even after Halloween, it didn't go away, and there's more and more people saying they saw their doppleganger\!  
 **Sayaka:** ...Did you two see your dopplegangers?  
@@ -135,7 +135,7 @@ https://streamable.com/bdo8of
 **Sayaka:** Mihono\! Chie\! Yui\!  
 **Sayaka:** We'll save you... right away\!  
 **??? (Fate):** I won't let you\!\!  
-**Sayaka:** \!? Where'd she come from...\!?  
+**Sayaka:** \!\? Where'd she come from...\!\?  
 **Kanami:** Watch out\! Sayaka-chan\!  
 **??? (Fate):** --\!  
 **Kanami:** Are you okay?  
@@ -144,9 +144,9 @@ https://streamable.com/bdo8of
 **Yomi:** A sword made of light...? That doesn't look like an okatana...  
 **??? (Hayate):** Who'd have thought backup would get here so quick. Nanoha-chan\!  
 **??? (Nanoha):** Got it\! Divine... Shooter\!  
-**Suu:** She's shooting something\!?  
+**Suu:** She's shooting something\!\?  
 **Yomi:** All members, intercept fire.  
-**Kiyoka:** Intercept... Wait, can we even cut that with okatana\!?  
+**Kiyoka:** Intercept... Wait, can we even cut that with okatana\!\?  
 **Kanami:** We'll just have to find out\!  
 **Kanami:** Chidori can even cut through lightning, so... Even if I don't really get what this stuff is, it should be able to cut it too\!  
 **Kanami:** HAAAAAAAAAAAAAAAAAA\!\!  
@@ -200,11 +200,11 @@ https://streamable.com/bdo8of
 **Kiyoka:** That okatana... That's not Kashuu Kiyomitsu.  
 **Yomi:** This is an Akabane sword.  
 **Mihono?:** --\!  
-**Kiyoka:** KYAA\!?  
+**Kiyoka:** KYAA\!\?  
 **Kiyoka:** This person... They're not Hono-chan\! It's an aradama\!  
 **Mimic Aradama:** ...  
 **Sayaka:** Watch out\!  
-**Suu:** EEP\!?  
+**Suu:** EEP\!\?  
 **Suu:** (Even though it looked like Mihono-san... She didn't even hesitate to chop it down\!)  
 **Mimic Aradama:** ...  
 **Yomi:** ...Setouchi-san and Yamashiro-san are aradama as well.  
@@ -308,12 +308,12 @@ https://streamable.com/bdo8of
 **Yomi:** Lastly...  
 **Hayate:** Me, Sayaka-san, and Suu-san are going after this Tsubakuro-san person, right\!  
 **Yomi:** Yes, please do.  
-**Suu:** Wait, hang on a minute\! Why do I have to fight Tsubakuro-sama\!?  
+**Suu:** Wait, hang on a minute\! Why do I have to fight Tsubakuro-sama\!\?  
 **Yomi:** I'd have Itomi-san handle Tsubakuro-san. Inami-san, please give Itomi-san your support.  
 **Sayaka:** ...Mm, I'll beat Tsubakuro Yume.  
 **Suu:** There's no way I can do this\!  
 **Yomi:** You should be fine.  
-**Suu:** What gives you that idea\!?  
+**Suu:** What gives you that idea\!\?  
 **Hayate:** Hey now. Let's just give it our best shot, Suu-san.  
 **Suu:** Hayate-chan... Actually, it's hard to tell which of us is older here...  
 **Hayate:** You think so? Doesn't seem that way to me.  
@@ -342,13 +342,13 @@ https://streamable.com/bdo8of
 **Nanoha:** I'll stop the aradama from moving with Bind\! That's your chance\!  
 **Kanami:** Leave it to me\!  
 **Nanoha:** Here goes... Bind\!  
-**Tsugumi:** Gh, my body won't move\!? What is this...\!  
+**Tsugumi:** Gh, my body won't move\!\? What is this...\!  
 **Nanoha:** Now\!  
 **Kanami:** HAAAAAAAAAAAAAAA\!\!  
 **Tsugumi:** Kh, for this to...  
 **NAnoha:** We did it, Kanami-san\! Now for the rest of the aradama...  
 **Kanami:** I already beat them.  
-**Nanoha:** Already\!?  
+**Nanoha:** Already\!\?  
 **Kanami:** I did have you backing me up.  
 **Nanoha:** I didn't know you were that powerful, Kanami-san...  
 **Kanami:** Thanks for the compliment\! But, so long as I have your help, I'm as strong as a hundred people\!  
@@ -356,14 +356,14 @@ https://streamable.com/bdo8of
 **Nanoha:** We probably should have asked before we beat her.  
 **Kanami:** ...Ah.  
 **Fate:** YAAAAAAAAHH\!\!  
-**Mirja Mimic:** What is that speed\!?  
+**Mirja Mimic:** What is that speed\!\?  
 **Fate:** Kiyoka-san\!  
 **Kiyoka:** Right\!  
 **Kiyoka:** HAAAAAAAAAAAAAAA\!\!  
 **Mirja Mimic:** Krh, Musumi Kiyokaaa\!\!  
 **Kiyoka:** ...Don't call my name\!  
 **Kiyoka:** The real Mirja-san... is much more impressive than you\!  
-**Mirja:** Ggh...\!?  
+**Mirja:** Ggh...\!\?  
 **Yomi:** It's over.  
 **Yomi:** Why did you withdraw an Akabane sword?  
 **Mirja Mimic:** I was only following orders\! I have nothing more to say\!  
@@ -394,7 +394,7 @@ https://streamable.com/bdo8of
 **Fate:** (This is Fate. ...Nanoha, Hayate, can you hear me?)  
 **Hayate:** (Hayate here\! ...Sorry, Fate-chan\! In the middle of a fight right now\!)  
 **Yume Mimic:** Aha\!  
-**Yume Mimic:** Sayaka-chan's tough alright\! But... can you handle this\!?  
+**Yume Mimic:** Sayaka-chan's tough alright\! But... can you handle this\!\?  
 **Sayaka:** Kh...  
 **Yume Mimic:** Ahahaha\! That's not the best you've got, right, Sayaka-chan\! Do it better than that\!  
 **Hayate:** Sayaka-san\!\!  
@@ -403,16 +403,16 @@ https://streamable.com/bdo8of
 **Hayate:** (Suu-san is...)  
 **Suu:** YAAAAAAAAAAAAAAHHH\!  
 **Mimic Aradama:** GUOOOOO\!  
-**Suuu:** It's not down yet\!?  
+**Suuu:** It's not down yet\!\?  
 **Mimic Aradama:** OOOOOOOOO\!\!  
 **Hayate:** I'll back you up, Suu-san\!  
 **Suu:** Thanks, Hayate-chan\!  
 **Suu:** HAHH\!\!  
 **Suu:** [pant pant]...  
 **Hokuto Mimic:** ...  
-**Suu:** --\!? There's an aradama mimicking Hokuto-san\!?  
+**Suu:** --\!\? There's an aradama mimicking Hokuto-san\!\?  
 **Hokuto Mimic:** ...\!  
-**Suu:** Aaah\!?  
+**Suu:** Aaah\!\?  
 **Hokuto Mimic:** ...\!  
 **Suu:** Gh\!  
 **Suu:** (My utsushi... This is the sixth time...)  
@@ -446,7 +446,7 @@ https://streamable.com/bdo8of
 **Suu:** Please make it quick, while I still have utsushi up\!  
 **Hayate:** Got it. Yagami Hayate\! Hitting you with a big one\!  
 **Hayate:** GOOOOOOOOOOOOOOOOOOOOOOOO\!\!  
-**Yume Mimic:** Uwah\!? What was that\!?  
+**Yume Mimic:** Uwah\!\? What was that\!\?  
 **Sayaka:** Suu\! Hayate\!  
 **Hayate:** I'm just fine. Suu-san is...  
 **Suu:** ...I'm okay\!  
@@ -476,7 +476,7 @@ https://streamable.com/bdo8of
 **Yomi:** It's possible, but we have no other leads.   
 **Sayaka:** Understood.  
 **Suu:** About that... I'm going to have to quit here.  
-**Kanami:** Suu-chan\!?  
+**Kanami:** Suu-chan\!\?  
 **Suu:** I only have one or two uses of utsushi left. If I went along like this, all I'd be doing is holding you back...  
 **Suu:** So anyway, I'm leaving the rest to you, Hayate-chan.  
 **Hayate:** Okay\! You can count on me, Suu-san\!  
@@ -497,7 +497,7 @@ https://streamable.com/bdo8of
 ## 6: Our Magic
 **Kanami:** This should be the place they were going, but...  
 **???:** ...So there are shrewd ones among toji.  
-**Kiyoka:** Eh\!? What's Suruga doing here\!?  
+**Kiyoka:** Eh\!\? What's Suruga doing here\!\?  
 **Suruga?:** Hoh. You've met with one who looks the same as myself? Yet, that one and I are different beings.  
 **Sayaka:** What were you doing with the Akabane swords?  
 **Suruga?:** What? Merely to take your place.  
@@ -513,7 +513,7 @@ https://streamable.com/bdo8of
 **Fate:** If you replacing the toji means countless people have to be your victims, then we'll put a stop to it.  
 **Nanoha:** That's what our magic is for\!  
 **Suruga?:** End your barking, girl. What can one who is not a toji do?  
-**Kanami:**　More mimic aradama\!? Get back, Nanoha-chan, Fate-chan, Hayate-chan\!  
+**Kanami:**　More mimic aradama\!\? Get back, Nanoha-chan, Fate-chan, Hayate-chan\!  
 **Nanoha:** There's no need\! Even if normal magic won't work on them, it's not like we can't still fight\!  
 **Fate:** We found a way to fight\!  
 **Hayate:** Showing for the first time here\! Special anti-aradama magic\!  
@@ -556,19 +556,19 @@ https://streamable.com/bdo8of
 **Nanoha:** Raising Heart\!  
 **Raising Heart:** All right.  
 **Nanoha:** Mana Convergence\! Soul... BREAKER\!\!  
-**Suruga?:** Whah\!?  
+**Suruga?:** Whah\!\?  
 **Suruga?:** What is that power...\! Kh...\!  
 **Suruga?:** Even guarding against it, I was pushed this far... Though, that wasn't enough to destroy me.  
 **Kanami:** YAAH\!\!  
-**Suruga?:** Kgh\!?  
+**Suruga?:** Kgh\!\?  
 **Kanami:** I'm not giving you enough time to call more mimic aradama\!  
-**Suruga?:** A toji caught up with me...\!?  
+**Suruga?:** A toji caught up with me...\!\?  
 **Kanami:** The time Nanoha-chan bought for me\! I'm not letting it go to waste\!   
 **Kanami:** HAAAAAAAAAAAAAAA\!\!  
 **Suruga:** Gh...  
 **Kanami:** ...Did that do it?  
 **Suruga?:** I enjoyed this, toji...  
-**Kiyoka:** Etou-san\! The mimic aradama went away, but... What about Suruga\!?  
+**Kiyoka:** Etou-san\! The mimic aradama went away, but... What about Suruga\!\?  
 **Kanami:** Yeah, looks like I exorcised her.  
 **Kanami:** And that was all because of you, Nanoha-chan. Thanks.  
 **Nanoha:** I'm just glad we could defeat them before they could cause any major damage\!  
@@ -641,13 +641,13 @@ https://streamable.com/bdo8of
 **Yume:** You already ate half of yours, Yomi-onee-san. So if that onee-san's not gonna have hers, I'll take it-.  
 **Akira:** Huh? What're you talking about...  
 **Yume:** You're the only one who doesn't look like she's gonna eat, so it's fine, right?  
-**Akira:** Hahh\!?  
+**Akira:** Hahh\!\?  
 **Yume:** [om nom]... Mm, so good\!  
 **Akira:** A-Ahh......  
 **Akira:** ...You're gonna pay for that.  
 **Akira:** I'm not letting this one go.  
 **Akira:** I'm gonna teach you a lesson, Tsubakuro Yume\!  
-**Yume:** Ehh\!?  
+**Yume:** Ehh\!\?  
 **Yomi:** (...Because Akira loves cakes.)  
 
 ## 2: Playing Tag
@@ -695,7 +695,7 @@ https://streamable.com/bdo8of
 **Tsugumi:** I suppose our job is just at the start then-.  
 **Nanoha:** At the start?  
 **Tsugumi:** [whisper whisper whisper]  
-**Nanoha:** Ehhh\!?  
+**Nanoha:** Ehhh\!\?  
 **Hayate:** That team looks like they're having fun. Let's give it our best shot too\!  
 **Akira:** I'm uh, sorry this turned into a whole thing. This all wouldn'tve happened if I'd just eaten the cake straight away.  
 **Sanae:** Maybe that's true, but Tsubakuro-san is also at fault for taking it from you.  
@@ -706,7 +706,7 @@ https://streamable.com/bdo8of
 **Yomi:** Is everyone ready? Then... Please begin.  
 **Tsugumi:** Takamachi-san, if you would.  
 **Nanoha:** Is this really okay... Uhh, I'm sorry for this\! Bind\!  
-**Akira:** The hell is this\!? I can't move\!\!  
+**Akira:** The hell is this\!\? I can't move\!\!  
 **Yume:** Ahaha\! That's so cool\!  
 **Tsugumi:** Now then, we'll be going on ahead-.  
 **Nanoha:**　Bind will come undone soon\! Sorry\!  
@@ -739,14 +739,14 @@ https://streamable.com/bdo8of
 **Nanoha:** Try your best, Yume-san.  
 **Yume:** Aha\!  
 **Yume:** Okay then... Let's go, Fate-chan\!  
-**Fate:** --\!?  
+**Fate:** --\!\?  
 **Fate:** Sayaka-chan was fast, but... You're quick too, Yume-san\!  
 **Yume:** You fought with Sayaka-chan?  
 **Fate:** With Sayaka-san and Kanami-san.  
 **Yume:** Huh\!  
 **Fate:** They were both very strong.  
 **Yume:** Then, I've gotta let you know that I'm even stronger\!  
-**Fate:** --\!?  
+**Fate:** --\!\?  
 **Nanoha:**  Yume-chan, she's incredible... For the first time, someone's matching Fate-chan's speed...  
 **Tsugumi:** Tsubakuro-san is a special case, after all.  
 **Tsugumi:** Though... If Harlaown-san is evenly matched with Tsubakuro-san, she must be someone special as well.  
@@ -764,14 +764,14 @@ https://streamable.com/bdo8of
 **Akira:** Oi oi, you got this much free time on your hands\!  
 **Tsugumi:** That's not exactly it...  
 **Akira:** Let's go, Tsugumi\! ORAA\!  
-**Tsugumi:** ...\!?  
+**Tsugumi:** ...\!\?  
 **Nanoha:** Watch out\!  
 **Hayate:**　Not gonna let you, Nanoha-chan\!  
-**Nanoha:** Hayate-chan\!?  
+**Nanoha:** Hayate-chan\!\?  
 **Hayate:** I'll be your opponent here\!  
 **Akira:** Alright\! You keep Nanoha company, Hayate\!  
 **Akira:** Sanae\!  
-**Tsugumi:** So it came down to this... It'll be very hard fighting the both of you though...\!?  
+**Tsugumi:** So it came down to this... It'll be very hard fighting the both of you though...\!\?  
 **Akira:** Try and see how long you can last\!  
 **Tsugumi:** ...I'll try and last\!\!  
 **Sanae:** HAAAAAAAAAA\!\!  

@@ -82,7 +82,7 @@ https://youtu.be/x09jCgS9Qss
 **Aradama:** OOOOOOOOOOOOOOOOO\!\!  
 **Yomi:** So they were here after all.  
 **Nanoha:** I'll support you, Yomi-san\! Bind\!   
-**Aradama:** GAAAAAAAA\!?  
+**Aradama:** GAAAAAAAA\!\?  
 **Yomi:** --\!  
 **Yomi:** Thank you for the assistance, Takamachi-san.  
 **Nanoha:** I'm just glad that I managed to help you out.  
@@ -93,7 +93,7 @@ https://youtu.be/x09jCgS9Qss
 **Yomi:** --\!\!  
 **Aradama:** GYAAAAAA...  
 **Yomi:** Phew...  
-**Nanoha:** Are you okay, Yomi-san\!?  
+**Nanoha:** Are you okay, Yomi-san\!\?  
 **Yomi:** I have utsushi. This isn't enough to be a problem.  
 **Nanoha:** ...Is it... always like this?  
 **Yomi:** What do you mean?  
@@ -131,7 +131,7 @@ https://youtu.be/x09jCgS9Qss
 **Yomi:** It's fine.  
 **Yomi:** I...  
 **Aradama:** OOOOOOOOOOOOOOOOOOOOOOOOOOOO\!\!  
-**Nanoha:** \!?  
+**Nanoha:** \!\?  
 **Yomi:** Watch out\!  
 **Yomi:** Grgh...\!  
 **Nanoha:** Yomi-san\!  
@@ -197,7 +197,7 @@ https://youtu.be/imReN1M24ss
 **Nanoha:** ...Huh?  
 **Nanoha:** (Tsugumi-san, she's a little...)  
 **Tsugumi:** Were you thinking that's strange?  
-**Nanoha:** How could you tell\!?  
+**Nanoha:** How could you tell\!\?  
 **Tsugumi:** You're an honest person, Takamachi-san. Though, I get that a lot.  
 **Tsugumi:** Leaving that aside, magic sure is incredible, isn't it? If I heard right, not everyone on the Earth you're from can use magic, can they?  
 **Nanoha:** A while ago, I had a sort of encounter... I found magic, and Yuuno-kun, and Fate-chan...  
@@ -209,7 +209,7 @@ https://youtu.be/imReN1M24ss
 **Tsugumi:** Oh, just speaking to myself.  
 **Tsugumi:** By the way, how do you defeat aradama with magic?  
 **Nanoha:** Ah, right. That's because...  
-**Nanoha:** What was that\!?  
+**Nanoha:** What was that\!\?  
 **Tsugumi:** I don't think that's the kind of sound that comes from fighting aradama... Did they run into trouble?  
 **Tsugumi:** Though, considering those two, it doesn't seem likely...  
 **Nanoha:** Let's go see\!\!  
@@ -263,7 +263,7 @@ https://youtu.be/0OSG6EeTdH8
 **Tsugumi:** Tsubakuro-san is a toji too. Please have faith in her.  
 **Fate:** ...Okay.  
 
-## [Mahou Shoujo - Yume: End]: It's Not Like That\!?
+## [Mahou Shoujo - Yume: End]: It's Not Like That\!\?
 **Aradama:** GUOOOOOOOOOOOOOO\!\!  
 **Yume:** YAAH\!  
 **Aradama:** Oooo...  
@@ -280,7 +280,7 @@ https://youtu.be/0OSG6EeTdH8
 **Yume:** Wait, I know\!  
 **Fate:** Yume-san?  
 **Yume:** Since we have the chance, let's have some fun while we do this... Fate-chan\!  
-**Fate:** --\!?  
+**Fate:** --\!\?  
 **Yume:** Aha\! Fighting with you really is fun, Fate-chan\!  
 **Fate:** We're in the middle of a mission right now\!  
 **Yume:** Yeah\! So, while we do the mission, let's fight, Fate-chan\!  
@@ -297,10 +297,10 @@ https://youtu.be/0OSG6EeTdH8
 **Fate:** Will that be alright?  
 **Yume:** ...Aha\! It's fine with me\!  
 **Tsugumi:** Okay, that's enough-.  
-**Yume:** Ehhh\!? What're you and Nanoha-chan doing here, Onee-san?  
+**Yume:** Ehhh\!\? What're you and Nanoha-chan doing here, Onee-san?  
 **Tsugumi:** We heard something troubling going on, so we hurried over.  
 **Nanoha:** Fate-chan, if you're going to fight with Yume-san, I think you should do it after the mission's over...  
-**Fate:** Y-You've got it all wrong, Nanoha\! I was making sure to do the mission\!?  
+**Fate:** Y-You've got it all wrong, Nanoha\! I was making sure to do the mission\!\?  
 **Yume:** Geez, and it was just getting fun too. Let's pick up from here when we get back, Fate-chan.  
 **Nanoha:** Fate-chan can get pretty intense when it comes to combat training...  
 **Fate:** I told you, it's not like that\!\!  

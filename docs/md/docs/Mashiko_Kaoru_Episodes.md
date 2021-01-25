@@ -1,13 +1,9 @@
 
 Mashiko Kaoru Episodes
 ======================
+https://www.youtube.com/watch?v=RqEd_v9cVH4
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/RqEd_v9cVH4" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/qSMb2Ua4TwY
 
   
@@ -34,7 +30,7 @@ https://youtu.be/SB5mF34N1ZY
 **Classmate:** See, she always has that weird aradama with her too. Who knows when it might try attacking us...  
 **Kaoru:** Nene would never hurt anybody\!  
 **Kaoru:** And I'm the one who doesn't want to work with toji like you\! You only think of yourselves\!  
-**Teacher:** M-Mashiko-san\! Where are you going\!?  
+**Teacher:** M-Mashiko-san\! Where are you going\!\?  
 **Kaoru:** ......  
 **Nene:** Ne...  
 **Kaoru:** Forget about them, Nene. They're all wrong. Even though they don't know anything about you, they...  
@@ -42,7 +38,7 @@ https://youtu.be/SB5mF34N1ZY
 **Kaoru:** ...But I can't stop myself from getting mad about it.  
 **Nene:** \! Ne-\!  
 **Kaoru:** Nn? What's wrong?  
-**Kaoru:** ...\! An aradama\!?  
+**Kaoru:** ...\! An aradama\!\?  
 **Aradama:** GRUUUU...\!\!  
 **Nene:** Ne\~\~\~\~\~\!\!  
 **Kaoru:** ...It's almost like two cats having a turf war.  
@@ -72,7 +68,7 @@ https://youtu.be/SB5mF34N1ZY
 **Kozue:** There are plans for another unit to join up with you in just a few days. I'm sorry, but, in the meantime, could you...  
 **Kaoru:** Nah, I can handle this myself. There's been lots of reports of sighting the aradama, but it hasn't actually caused any damage yet.  
 **Kaoru:** In fact, having more toji in the area might provoke it. It's probably best to keep this small scale.  
-**Kozue:** ...\!?  
+**Kozue:** ...\!\?  
 **Kozue:** I see... You might be right.  
 **Kozue:** It's just, with only you stationed there, you could be on assignment for quite some time...  
 **Kaoru:** I'm prepared for that. You don't have to worry about me. I'll just keep up a steady search.  
@@ -109,21 +105,21 @@ https://youtu.be/SB5mF34N1ZY
 **Nene:** (dodge)  
 **Mihono:** H-Huh? He keeps running off... Is Nene afraid of strangers?  
 **Ellen:** No, actually, the thing about Nene... He loves big busts most of all\~.  
-**Kiyoka:** Ehh\!? S-So that means, we...  
+**Kiyoka:** Ehh\!\? S-So that means, we...  
 **Mihono:** Th-That's rude\! All of a sudden you're not so cute anymore\!  
 **Kaoru:** Nene can see the future when it comes to chest sizes too. Hate to break it to you.  
 **Mihono:** Ughh... So, someone like Chii-nee's more Nene's type...?  
 **Nene:** Ne\~\!  
-**Mirja:** Wha\!? M-Me too\!?  
+**Mirja:** Wha\!\? M-Me too\!\?  
 **Mihono:** Huh, now that I look closer... Mirja-san's got it going on too...  
 **Mirja:** P-Please don't make strange observations like that...\!  
 **Nene:** Ne\~\! Ne\~\!  
 **Kofuki:** Yo, aradama-chan. How's it going. Come play with me too.  
-**Nene:** Ne-Ne-\!?   
+**Nene:** Ne-Ne-\!\?   
 *Nene hides behind Mihono*
 
   
-**Mihono:** H-Hey, Kofuki-san\!? Put your okatana away\!  
+**Mihono:** H-Hey, Kofuki-san\!\? Put your okatana away\!  
 **Kofuki:** What for? That's an aradama, you know?  
 **Mihono:** Yeah, but, uhh... Look how cute he is\! And see, you're scaring him\!  
 **Kofuki:** Huh? What are you talking about? Every single aradama-chan's cute\!  
@@ -157,7 +153,7 @@ https://youtu.be/SB5mF34N1ZY
 **Akane:** That's why I wanna take it head on\! Kaoru-senpai\! I've been waiting for this fight\!  
 **Akane:** Senpai's full strength... Don't hold anything back\! Give it all you got\!\!  
 **Akane:** Come on and show me---\!\!\!  
-**Kaoru:** A-Are you for real\!?  
+**Kaoru:** A-Are you for real\!\?  
 **Akane:** We'll do it fair and square\! Blocking every hit\! Feeling the results of all each other's training\!  
 **Kaoru:** (This is the worst... She's a total meat for brains. The natural enemy to my big instant defeat operation...\!)  
 **Kaoru:** (If we keep exchanging hits like this, I'm going to start feeling it too...)  
@@ -210,7 +206,7 @@ https://youtu.be/SB5mF34N1ZY
 **Ellen:** Hey-\! Kaoru\~\!  
 **Kaoru:** Oh, what's up-? You finished already-?  
 **Ellen:** The aradama's headed your way\! Give it a big finishing blow for me-\!  
-**Kaoru:** H-Huh\!?  
+**Kaoru:** H-Huh\!\?  
 **Ellen:** Go, Kaoru\~\!  
 https://youtu.be/qSMb2Ua4TwY
 
@@ -241,7 +237,7 @@ https://youtu.be/qSMb2Ua4TwY
 **Mihono:** Ghost stories?  
 **Mihono:** I'm fine with that, but... There's not really any ghost stories I know off the top of my head.  
 **Kaoru:** Don't worry about it. I've got the best ghost story to tell.  
-**Mihono:** Huh, you do\!? What's it about?  
+**Mihono:** Huh, you do\!\? What's it about?  
 **Kaoru:** (Kukuku, Mihono. You won't be making that face for long\!)  
 **Kaoru:** Actually, this one's about where we're walking right now.  
 **Mihono:** Okay.  
@@ -257,7 +253,7 @@ https://youtu.be/qSMb2Ua4TwY
 **Kaoru:** See, look over there. There's a Jizo statue, right?		[Jizo is a deity that is a savior of souls and also a protector of travelers. Statues are often found in graveyards, but also along roadsides.]  
 **Kaoru:** That's a leftover from when this place was a graveyard.  
 **Mihono:** It's true... Then, this place really is...  
-**Mihono:** Eep\!?  
+**Mihono:** Eep\!\?  
 **Kaoru:** (Though, I'm making all of it up.)  
 **Kaoru:** There's a lot of paved roads up this mountain, see? Those are trails they made way back to let people pay a visits to the graveyard here.  
 **Mihono:** Th-That makes sense...  
@@ -267,7 +263,7 @@ https://youtu.be/qSMb2Ua4TwY
 **Mihono:** ...[gulp].  
 **Kaoru:** ...Which means, some might've been left buried. Just under your feet right now, there could be a dead body.  
 **Mihono/Ellen:** GYAAAAAAAAAAAAAAAAAAAA\!\!  
-**Kaoru:** Uwah\!? What're you doing here, Ellen\!\!  
+**Kaoru:** Uwah\!\? What're you doing here, Ellen\!\!  
 **Ellen:** I made a mistake\! I was planning on scaring you two, but I ended up screaming by accident\!  
 **Ellen:** Anyway, Kaoru\! Because of you, I can't stay here anymore\!  
 **Ellen:** So, let me go with you\!  
@@ -337,14 +333,14 @@ https://youtu.be/A4RipDwmT9Y
 ## [Misogi - Kaoru: End]: Together With Nene
 **Ellen:** Kaoru\! Behind you\!  
 **Aradama:** KSHAAAAAA\!  
-**Kaoru:** \!?  
+**Kaoru:** \!\?  
 **Nene:** NENE--\!\!  
 **Aradama:** GGGII...\!  
 **Nene:** Ne\! Nenene-- NEEEE-......  
-**Chie:** Nene-chan\!?  
+**Chie:** Nene-chan\!\?  
 **Kaoru:** Damnit...\!\!  
 **Kaoru:** Outta my way\! KIEEEEEEEEEEEEE\!\!  
-**Kaoru:** Is Nene okay\!?  
+**Kaoru:** Is Nene okay\!\?  
 **Nene:** ......  
 **Ellen:** You can relax, Kaoru. He's only passed out.  
 **Kaoru:** Oh...  
@@ -431,24 +427,24 @@ https://youtu.be/U_8Z9M9PWSk
 **Ellen:** Since we're having a pajama party, we have to do a pillow fight and talk about love interests\!  
 **Kaoru:** Huh?  
 **Kiyoka:** I'm not sure if that's right, but I'm interested in talking about love too\!  
-**Kiyoka:** When you become a high schooler, do you really start getting into that kind of thing\!?  
+**Kiyoka:** When you become a high schooler, do you really start getting into that kind of thing\!\?  
 **Kaoru:** Nah, not really.  
 **Ellen:** We're too busy with missions, after all.  
 **Kiyoka:** That's disappointing...  
 **Ellen:** Now then, all that's left is a pillow fight\!  
 **Kaoru:** Count me out-. I'm going to bed already, so don't wake me up-.  
 **Ellen:** You're not doing that-\! Hiyah\!  
-**Kaoru:** Whoa\!? ...Don't hit me in the back of the head\!  
+**Kaoru:** Whoa\!\? ...Don't hit me in the back of the head\!  
 **Ellen:** I'm laser accurate\!  
 **Kaoru:** Damnit, Ellen... Help me out with her, Kiyoka\!  
 **Kiyoka:** E-Err... Here\!  
 **Ellen:** Hesitate like that and you'll never hit me\!  
 **Kaoru:** You're open\!  
-**Kaoru:** Owfh\!?  
+**Kaoru:** Owfh\!\?  
 **Ellen:** You're getting serious now, huh Kaoru\! Hyah\!  
 **Kaoru:** I can catch something like that easy\! Hahh\!  
 **Ellen:** I caught it too\!  
-**Kiyoka:** I know we already started throwing them, but... is it really alright for us to have a pillow fight in a hotel like... Afwh\!?  
+**Kiyoka:** I know we already started throwing them, but... is it really alright for us to have a pillow fight in a hotel like... Afwh\!\?  
 **Kaoru:** Hahaha\! Never let your guard down, Kiyoka.  
 **Kiyoka:** Why do you look like you're having the most fun with this, Kaoru-san\!  
 https://youtu.be/SB5mF34N1ZY
@@ -462,13 +458,13 @@ https://youtu.be/SB5mF34N1ZY
 **Sana:** We've decided to start selling Nenegurumis.  
 **Kaoru:** Huhh? What the heck's a "Nenegurumi"?  
 **Sana:** A Nene nuigurumi, so, Nenegurumi.		[Nuigurumi are just stuffed toys/dolls, and I'm not punning around with the name]  
-**Kaoru:** Just leaving it at that\!?  
+**Kaoru:** Just leaving it at that\!\?  
 **Kaoru:** ...So, what do need me for with these Nenegurumis? You want to use Nene as a model?  
 **Sana:** No, we already went ahead and made them. Here's one.  
-**Kaoru:** Whoa\!?  
+**Kaoru:** Whoa\!\?  
 **Kaoru:** ...I-It's not the real Nene... right? I-I thought it was for a sec... It seriously looks just like him.  
 **Sana:** Kaoru, go and sell this.  
-**Kaoru:** Huhh\!? Why do I have to do it\!\!  
+**Kaoru:** Huhh\!\? Why do I have to do it\!\!  
 **Sana:** It's not forever; just for a limited time. You know the shopping mall? We rented a store there.  
 **Kaoru:** Saying that doesn't make it any better...  
 **Sana:** I called in somebody else to help too. So anyway, I'm counting on you, Kaoru.  
@@ -479,11 +475,11 @@ https://youtu.be/SB5mF34N1ZY
 **Minaki:** ...So, what am I meant to be doing anyway?  
 **Kaoru:** Did that hag seriously leave all the explaining to me too...?  
 **Kaoru:** Nenegurumis... We're selling Nenegurumis. This thing.  
-**Minaki:** That was just a doll\!? No way; I thought it was the real one...  
+**Minaki:** That was just a doll\!\? No way; I thought it was the real one...  
 **Kaoru:** She said to sell these, but that's asking the impossible, right?  
 **Minaki:** Won't these sell a whole lot? It's cute\!  
 **Kaoru:** If you want it, you have it.  
-**Minaki:** Really\!?  
+**Minaki:** Really\!\?  
 **Kaoru:** I've got the real one anyway-.  
 **Minaki:** Thanks a lot, Kaorucchi\! Let's sell a bunch\!  
 **Kaoru:** ...If we have to.  
@@ -492,7 +488,7 @@ https://youtu.be/SB5mF34N1ZY
 The Nenegurumi Shop, 3 hours before opening.
 
   
-**Minaki:** Uwah-\!? The Nenegurumis fell over-\!\! Y-You okay, Kaorucchi\!?  
+**Minaki:** Uwah-\!\? The Nenegurumis fell over-\!\! Y-You okay, Kaorucchi\!\?  
 **Kaoru:** Fine, but... For how big this store is, we've got way too few people\!  
 **Kaoru:** Give us more to work with-\!  
 **Minaki:** It's no use saying that now-.  
@@ -500,7 +496,7 @@ The Nenegurumi Shop, 3 hours before opening.
 **Kaoru:** Minaki...  
 **Minaki:** Kaorucchi\!  
 **Kaoru:** ...If there's more coming to help, couldn't we call them now?  
-**Minaki:** I thought I got you feeling motivated\!?  
+**Minaki:** I thought I got you feeling motivated\!\?  
 **Kaoru:** Nah, nah, there's no way I'd be. Though, I'll try in my own way.  
 **Minaki:** Kaorucchi...  
 **Minaki:** (...Huh? Isn't she moving a little livelier than before...?)  
@@ -520,7 +516,7 @@ The Nenegurumi Shop, 1 hour before opening.
 **Minaki:** ...Kaorucchi?  
 **Kaoru:** ...[snooze].  
 **Minaki:** Kaorucchi, you look like the Nenegurumi's hugging you. So heartwarming.  
-**Minaki:** ...Hey, wake up, Kaorucchi\!  I can't finish the displays by myself\!?  
+**Minaki:** ...Hey, wake up, Kaorucchi\!  I can't finish the displays by myself\!\?  
 **Kaoru:** Mmmnnm...  
 **Minaki:** ...Kh. I'd feel real bad waking her up, but... I've gotta harden my heart\!  
 **???:** Wait just a moment (dess)\!\!  

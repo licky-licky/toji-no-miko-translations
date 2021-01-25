@@ -1,13 +1,9 @@
 
 Elite Guard Memoirs: Hakone Arc
 ===============================
+https://www.youtube.com/watch?v=PKD_08Mmfmo
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/PKD_08Mmfmo" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Let's Go to the Hot Springs
 **Yume:** Ahhh, I'm so bored-. Hey, can't we all go to some hot springs together?  
@@ -38,17 +34,17 @@ Elite Guard Memoirs: Hakone Arc
 **Maki:** Do whatever you want. Let's go, there's aradama to cut down\! --Haah\!  
 **Suzuka:** As I've come to expect, you handle your sword well, Maki-san.  
 **Suzuka:** ---\! There's one coming around behind you\! I'll dispose of it\! Haaaah\!\!  
-**Maki:** -\!? Suzuka, you're too close\!\! Give me more room to fight\!\!  
+**Maki:** -\!\? Suzuka, you're too close\!\! Give me more room to fight\!\!  
 **Maki:** I almost hit you when I swung at that aradama\!  
-**Suzuka:** What's with your attitude\!? I moved in to save you, you know\!  
+**Suzuka:** What's with your attitude\!\? I moved in to save you, you know\!  
 **Maki:** I didn't need your help\! Worry about yourself instead of me\!  
 **Suzuka:** ...\!\! Is that so\!\! Then the next time you're in a pinch, Maki-san, I'll look the other way\!\!  
 **Maki:** Good\! That works for me\!  
 **Suzuka:** Honestly, what is with you...\! ...Forget it. I'll return to the rear of the unit, like usual--  
-**Suzuka:** ...Eh-\!?  
+**Suzuka:** ...Eh-\!\?  
 
 ## 3: Army of Aradama
-**Suzuka:** We've been completely surrounded by aradama\! Just where did they all come from...\!?  
+**Suzuka:** We've been completely surrounded by aradama\! Just where did they all come from...\!\?  
 **Suzuka:** They can't have been lying in wait for us, can they...?  
 **Maki:** It's just a coincidence. Aradama setting up an ambush is unheard of.  
 **Suzuka:** ...You're right, I'm overthinking it. Aradama don't have the intelligence for it, after all.  
@@ -59,25 +55,25 @@ Elite Guard Memoirs: Hakone Arc
 Approximately six hours after Maki and Suzuka were separated from the rest of the unit.
 
   
-**Commander A:** What's going on out there\!? The amount of aradama hasn't decreased in the slightest\!  
-**Commander B:** Are Shidou-san and Konohana-san still unaccounted for\!?  
+**Commander A:** What's going on out there\!\? The amount of aradama hasn't decreased in the slightest\!  
+**Commander B:** Are Shidou-san and Konohana-san still unaccounted for\!\?  
 **Commander C:** I don't care how big the operation was supposed to be, how can you lose track of two of our top toji like that...\!\!  
 **Commander D:** This shouldn't be possible...\!\! There's no record of anything like this happening...\!\!  
 **Commander E:** The toji on site are asking for instructions\! Can anyone deal with them--  
-**Commander B:** What do you want us to say\!? Tell them to act at their own discretion\!  
-**Watanuki Kazumi:** --I've heard that Maki-sama and Suzuka-sama were separated from their unit, but how did this happen\!?  
+**Commander B:** What do you want us to say\!\? Tell them to act at their own discretion\!  
+**Watanuki Kazumi:** --I've heard that Maki-sama and Suzuka-sama were separated from their unit, but how did this happen\!\?  
 **Commander F:** Those two were fighting in the vanguard, when a sudden swarm of aradama overwhelmed them.  
 **Commander F:** Their current whereabouts are unknown. The numbers of aradama in the area are too great to conduct a search.  
-**Naeba Wakako:** For both captains to have been isolated by a swarm of aradama, isn't this a complete disaster...\!?  
+**Naeba Wakako:** For both captains to have been isolated by a swarm of aradama, isn't this a complete disaster...\!\?  
 **Kazumi:** It's been six hours already since they began fighting. We need to re-establish contact immediately to get them out of this war of attrition.  
 **Kazumi:** Have the toji on site form a rescue party, and search from where those two--  
 **Commander F:** On top of the immense numbers of aradama in the area, none of the other toji have experience commanding a unit. They have their hands full just keeping themselves safe.  
 **Commander F:** Given their circumstances, they don't have the toji to spare separating into a rescue party.  
-**Kazumi:** You can't be serious... Then you plan on leaving Maki-sama out there to die...\!?  
+**Kazumi:** You can't be serious... Then you plan on leaving Maki-sama out there to die...\!\?  
 **Commander F:** I-I didn't say that... It's just, we have no other options to work with.  
 **Wakako:** So you're praying for a miracle that the aradama are dealt with before it's too late...?  
 **???:** Don't waste your breath on prayer. Miracles are something we must make for ourselves.  
-**Wakako:** -\!? Y-Yukari-sama-\!\!  
+**Wakako:** -\!\? Y-Yukari-sama-\!\!  
 
 ## 4: At the End of a Fight for Your Life
 **Maki:** Pant... Pant... Shit... No matter how many we cut down... There's more...  
@@ -90,15 +86,15 @@ Approximately six hours after Maki and Suzuka were separated from the rest of th
 **Suzuka:** ...The same as you, I'd imagine...\!  
 **Maki:** Got it... Suzuka, there's something I have to say.  
 **Maki:** When you saved me back then... I shouldn't have been so harsh with you. Sorry.  
-**Suzuka:** -\!? ...No, I was acting childish as well...  
+**Suzuka:** -\!\? ...No, I was acting childish as well...  
 **Suzuka:** ...Alright. Gather what strength you have left. This is our last dance\!  
 **Maki:** Good...... Then, let's make this count\!\! URAAAAAAAHHH-\!\!  
 **Suzuka:** YAAAAAAAHHH-\!\!  
 **Yume:** YOU TWO\! I'M HERE TO SAVE YOU\!  
-**Suzuka:** ...Ehh? (Am I hallucinating from the fatigue...\!?)  
+**Suzuka:** ...Ehh? (Am I hallucinating from the fatigue...\!\?)  
 **Yomi:** Sorry we kept you waiting. You're safe now. There's a team of guards close behind us.  
 **Yume:** The hero always shows up at the last minute, you know\! They're not always a girl though\!  
-**Maki:** ...Yomi and Yume\!? What're you doing here...\!?  
+**Maki:** ...Yomi and Yume\!\? What're you doing here...\!\?  
 **Yomi:** We came to rescue you two, on Yukari-sama's orders.  
 **Yume:** That's how it is\! --Still, you two got beat up pretty bad, huh\!  
 **Yume:** You've got a long way to go if all it took was some aradama for you to end up like this, Onee-san\~.  
@@ -111,14 +107,14 @@ Several hours before Yomi and Yume met up with Maki and Suzuka.
 
   
 **Commader A:** The aradama are gathering their numbers\! Find some way to keep them in check\!  
-**Commander B:** How long before the situation returns to normal\!? I need enough time for a bathroom break\!  
+**Commander B:** How long before the situation returns to normal\!\? I need enough time for a bathroom break\!  
 **Commander C:** Quit complaining; you're bringing down morale\! You're not the only one having a rough time here, you know\!  
 **Commander D:** That's right\! The toji on the scene are really suffering out there\!  
 **Yukari:** Everyone in Operations Headquarters, may I have your attention?  
-**Commander B:** -\!? Y-Yukari-sama...\!? Why is Yukari-sama here...\!\!  
+**Commander B:** -\!\? Y-Yukari-sama...\!\? Why is Yukari-sama here...\!\!  
 **Commander A:** Silence, everyone\! Yukari-sama's speaking\!  
 **Yukari:** --In regards to Maki and Suzuka, I've already formed a rescue party. I will be taking command from here.  
-**Commander C:** Yukari-sama formed a rescue team...\!? More importantly, she's taking control of Operations HQ herself...\!\!  
+**Commander C:** Yukari-sama formed a rescue team...\!\? More importantly, she's taking control of Operations HQ herself...\!\!  
 **Yukari:** Is there a seat for me to borrow?  
 **Commander C:** T-Take mine...\!\!  
 **Commander D:** Just being in the same room with Yukari-sama; what an honor...\!\!  
@@ -137,7 +133,7 @@ Several hours before Yomi and Yume met up with Maki and Suzuka.
 **Yume:** Ahahahaha-\! Keep it coming, aradama-\! Take this-\!  
 **Yume:** --Mmm-? This one's pretty tough\! Still no match for me though\!  
 **Yomi:** --Kh\! As the reports mentioned, there's an incredible number of aradama here...\!  
-**Yume:** Wah-\!? That one snuck up behind me\! You pervy aradama\!  
+**Yume:** Wah-\!\? That one snuck up behind me\! You pervy aradama\!  
 **Yume:** Hey, stop-\! You're not getting away\!  
 **Yomi:** Please wait, Tsubakuro-san. We aren't headed in that direction...  
 **Yukari:** Yume, don't act on your own. Stay by Yomi's side.  
@@ -192,7 +188,7 @@ Several hours before Yomi and Yume met up with Maki and Suzuka.
 **Yume:** Hmph...\! Hmmmph\~\!\!  
 **Suzuka:** ...Yume?　What are you groaning about?  
 **Yume:** Your boobs are all too big, Onee-sans\!  
-**Suzuka:** -\!? Wh-Where did that come from\!?  
+**Suzuka:** -\!\? Wh-Where did that come from\!\?  
 **Yume:** Suzuka onee-san and Yomi onee-san both are like grown up ladies\!  
 **Yume:** But even Maki onee-san, who acts like a boy, is way bigger than I thought... I wanna get that big too already...  
 **Maki:** Hahaha... You know, even when you grow up, they might stay small.  

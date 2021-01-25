@@ -30,7 +30,7 @@ https://youtu.be/imReN1M24ss
 **Mihono:** U-Uhh...?　  
 **Kanami:** Is it some kind of drug for your aradama research...?  
 **Tsugumi:** No, these are my meals for the week.  
-**Kanami/Mihono:** EHHHH-\!?  
+**Kanami/Mihono:** EHHHH-\!\?  
 **Tsugumi:** When there's time, I do eat solid foods, but during busy hours in the lab, this can provide me with all the nutrition of a full meal.  
 **Kanami:** Mihono-chan, does that look tasty to you...?  
 **Mihono:** I-I don't know...  
@@ -117,13 +117,13 @@ https://youtu.be/imReN1M24ss
 **Tsugumi:** With that decided, all that's needed is for us to clear out the remaining aradama.  
 **Sumi:** Thank you very much, Ban-senpai\! It was so easy maneuvering with your help\!  
 **Tsugumi:** My primary role is acting as an operator, after all. Besides, you're also as impressive as the rumors suggested, Nagasaki-san.  
-**Sumi:** Rumors...? Huh-\!? Don't tell me, rumors about my height have spread as far as you, senpai\!?  
+**Sumi:** Rumors...? Huh-\!\? Don't tell me, rumors about my height have spread as far as you, senpai\!\?  
 **Minaki:** Ahahaha\! You sure are cute, Sumicchi\! Even though you're so tall\!  
 **Sumi:** Uuu, I got called tall again...  
 **Tsugumi:** You may be lacking in confidence though, Nagasaki-san.  
 **Sumi:** It's not something to be confident about though... It's no good, being this tall...  
 **Tsugumi:** There are some occupations that seek out taller people. For example, modeling.  
-**Sumi:** Modeling\!?  
+**Sumi:** Modeling\!\?  
 **Tsugumi:** Yes. Whether or not you plan on becoming a future model, I happen to be looking for a model of my own... Would you be interested?  
 **Sumi:** Me, a model, me... I-I'll try my best\!  
 **Minaki:** Sumicchi's going to be a model? That sounds like a fun time\! Tsugumi-senpai\! I wanna give it a shot too\!  
@@ -148,7 +148,7 @@ https://youtu.be/imReN1M24ss
 **Mirja:** As far as I am aware, the only other person capable of doing that is Setouchi Chie. However, I cannot copy her results.  
 **Mirja:** That being the case, is there any technique you can teach me that would prevent Shichinosato Kofuki from causing problems?  
 **Tsugumi:** A technique to stop her causing problems?  
-**Tsugumi:** I don't really do anything like that. She and I just share a common interest... To sound like Shichinosato-san, "I hella love aradama-chan too\!"  
+**Tsugumi:** I don't really do anything like that. She and I just share a common interest... To sound like Shichinosato-san, "I hella love aradama-chan too\!\"  
 **Mirja:** I-Is that so...  
 **Tsugumi:** Just so there isn't any confusion, my interest isn't in combat with aradama like Shichinosato-san's, but with the very existence of aradama themselves.  
 **Tsugumi:** To me, combat with aradama is only if it's absolutely necessary.  
@@ -258,7 +258,7 @@ Our current relationship? If I had to say, I don't think it's going too badly.
 **Tsugumi:** Well, I suppose there's no other option.  
 **Kofuki:** Damnit... You can't just tell me to get ready in 40 seconds\! Gimme more time than that.  
 **Tsugumi:** Mm... And just when I went out of my way to share information on an aradama appearance with you. Well, if I had left without saying anything, you might have sensed it on your own.  
-**Kofuki:** What am I, an aradama radar\!?  
+**Kofuki:** What am I, an aradama radar\!\?  
 **Kofuki:** But I guess you did get this playground ready for me, so I do owe you one.  
 **Tsugumi:** Good, I'm counting on you.  
 **Aradama:** GGGIIIIII...\!  
@@ -305,7 +305,7 @@ https://youtu.be/evNvCiMwU_E
 **Mihono:** Whoa-\! They're cute\! I'd be happy getting to sing wearing something this nice\!  
 **Tsugumi:** From the careful stitching to the elaborate decorations, these are fantastic costumes. Will you really lend something this finely crafted to us free of charge?  
 **Mirja:** They won't be free, of course. The condition was that we repay them with labor.  
-**Kofuki:** We've gotta work for it\!? Nobody said anything about that-\!  
+**Kofuki:** We've gotta work for it\!\? Nobody said anything about that-\!  
 **Tsugumi:** Kitora-san, what will we need to do as payment?  
 **Mihono:** Don't tell me, after the party's over, we'll have to wash dishes here forever...  
 **Cafe Owner:** Relax, I wouldn't ask for something so severe. What I'd like for you to do is perform your carols here at our shop. How does that sound?  
@@ -324,7 +324,7 @@ https://youtu.be/evNvCiMwU_E
 **Kofuki:** With the two of you going all into falsetto, we weren't getting anywhere near enough volume\!  
 **Tsugumi:** That's true; because we're singing in a different register than usual, we may need to train our throats more.  
 **Tsugumi:** Ah\! I've just thought of something good\! Let's move our practice to tomorrow. I'll prepare a special medicine for us by then.  
-**Mihono:** A-A special medicine\!?  
+**Mihono:** A-A special medicine\!\?  
 **Kofuki:** I've got a real bad feeling about where this is going...  
 
 ## [Xmas' 19 - Tsugumi: End]: Harmony Resounding Through the Holy Night
@@ -339,12 +339,12 @@ The next day.
 **Tsugumi:** I see. I was fairly proud of how these turned out too...  
 **Yui:** [sniff sniff]... Something sweet is in the air... And so I followed my nose, and it led me to a meetup of my sweet honeys\! My intuition's super on the mark\~\!  
 **Tsugumi:** Yamashiro-san. You came at the perfect time. Would you like to have a snack?  
-**Yui:** Can I\!?  Ah\! Are these sweets you made yourself, Tsugumi-san\!?  
+**Yui:** Can I\!\?  Ah\! Are these sweets you made yourself, Tsugumi-san\!\?  
 **Tsugumi:** Yes. I tried creating special-made lozenges that were gentle on the throat, but the others said they didn't need them...  
 **Yui:** In that case, I'll eat them up\! Om nom nom...  
-**Yui:** Wahh-\! What's with this\!? It's sweet and bitter and sour and burns and it's salty\!  
+**Yui:** Wahh-\! What's with this\!\? It's sweet and bitter and sour and burns and it's salty\!  
 **Yui:** The outside is crunchy, but it melts on the inside, and afterwards there's this wave of a fluffy and crackling sensation\!  
-**Kofuki:** What's any of that mean\!? I can't even picture the taste\!  
+**Kofuki:** What's any of that mean\!\? I can't even picture the taste\!  
 **Mihono:** Yui, your face turned bright red; are you okay?  
 **Yui:** Uwah----\! I can feel power gushing up in me, and I feel like shouting at the top of my lungs\~\!  
 **Tsugumi:** Hmhm, the effects are already showing in such a short timeframe. It seems I can call this highly successful.  
@@ -390,7 +390,7 @@ https://youtu.be/hYaqFwGk9SI
 **Tsugumi:** The fact that I've been ignoring a possibility up until now, is all.  
 **Tsugumi:** I realized something. Haven't there been an awful lot of cases of aradama stealing things recently?  
 **Tsugumi:** And, from a possibility in that... I've formed a hypothesis\!  
-**Kofuki:** Ooh, some new way to run into tons of aradama-chan\!?  
+**Kofuki:** Ooh, some new way to run into tons of aradama-chan\!\?  
 **Tsugumi:** Which is, is it possible that, when a subset of aradama steal objects from humans, they're wanting human attention?  
 **Tsugumi:** Even when aradama steal objects, I don't believe they use them in any way.  
 **Tsugumi:** What do you think, Shichinosato-san? About my "attention seeking aradama" theory\!  
@@ -490,7 +490,7 @@ https://youtu.be/hYaqFwGk9SI
 **Suu:** I don't have to do any more missions, or training, or the utsushi increasing program this week\! Hopefully every day gets to be like this\!  
 **Tsugumi:** ......  
 **Tsugumi:** Inami-san.  
-**Suu:** GYAAAAAAAA\!?  
+**Suu:** GYAAAAAAAA\!\?  
 **Suu:** ...Wait, Ban-san?  
 **Tsugumi:** I overheard you speaking to yourself... Are you available tomorrow?  
 **Suu:** Y-Yeah... I guess.  
@@ -499,7 +499,7 @@ https://youtu.be/hYaqFwGk9SI
 **Tsugumi:** I'm glad to hear it. Ah, by the way, the others joining us will be Shichinosato-san, Itomi-san, and Satsuki-san.  
 **Suu:** Huh?  
 **Tsugumi:** Then, I'll see you tomorrow.  
-**Suu:** You didn't tell me they'd be there though\!?  
+**Suu:** You didn't tell me they'd be there though\!\?  
 **Tsugumi:** I spread the word for now, but... How many will actually be there?  
 **Tsugumi:** I'll have to wait and see tomorrow.  
 
@@ -520,7 +520,7 @@ The day of the pool cleaning.
 **Tsugumi:** Right. Then, I'll brush off the grime at the bottom.  
 **Kanami:** Hey, they've already gotten started\!  
 **Yui:** Ah, Boss's spraying water around\! Lucky\! I want to try it too\! I'll get Kiyoka-chan all wet\!  
-**Kiyoka:** Why me\!?  
+**Kiyoka:** Why me\!\?  
 **Mihono:** I'll help you out, Akira-san\!  
 **Akira:** Sure, bring it on\! Let's get this started\!  
 **Mai:** I guess we'll take care of the mopping?  
@@ -529,7 +529,7 @@ The day of the pool cleaning.
 **Ellen:** Don't be like that\! This looks fun, Kaoru\!  
 **Ellen:** Inagooon\! We're helping you toooo\!  
 **Suu:** S-Sorry I'm late... Ah\! Kanami-san\!  
-**Kanami:** Oh, Suu-chan\! Did you already see this week's Marvelous-chan\!?  
+**Kanami:** Oh, Suu-chan\! Did you already see this week's Marvelous-chan\!\?  
 **Suu:** Of course I did\!  
 **Akira:** Look at them all pouring in. Just how many people'd you invite?  
 **Tsugumi:** I only asked three people to come...  
@@ -585,7 +585,7 @@ https://youtu.be/imReN1M24ss
 **Nanoha:** ...Huh?  
 **Nanoha:** (Tsugumi-san, she's a little...)  
 **Tsugumi:** Were you thinking that's strange?  
-**Nanoha:** How could you tell\!?  
+**Nanoha:** How could you tell\!\?  
 **Tsugumi:** You're an honest person, Takamachi-san. Though, I get that a lot.  
 **Tsugumi:** Leaving that aside, magic sure is incredible, isn't it? If I heard right, not everyone on the Earth you're from can use magic, can they?  
 **Nanoha:** A while ago, I had a sort of encounter... I found magic, and Yuuno-kun, and Fate-chan...  
@@ -597,7 +597,7 @@ https://youtu.be/imReN1M24ss
 **Tsugumi:** Oh, just speaking to myself.  
 **Tsugumi:** By the way, how do you defeat aradama with magic?  
 **Nanoha:** Ah, right. That's because...  
-**Nanoha:** What was that\!?  
+**Nanoha:** What was that\!\?  
 **Tsugumi:** I don't think that's the kind of sound that comes from fighting aradama... Did they run into trouble?  
 **Tsugumi:** Though, considering those two, it doesn't seem likely...  
 **Nanoha:** Let's go see\!\!  

@@ -5,7 +5,7 @@ https://youtu.be/ME_raf6jJ3o
 
   
 
-## 1: We Won't Go Up a Year\!?
+## 1: We Won't Go Up a Year\!\?
 **Yukari:** Go now with Asakura, into the boundary between this world and the netherworld, and destroy Tagitsuhime's true body, Hirukomitama.  
 **Yume:** Destroy Hirukomitama?  
 **Yume:** I don't really get it, but is that some kind of super strong enemy that only I can handle?  
@@ -39,7 +39,7 @@ May 2019.
 **Mihono:** That's not gonna be easy, Mai... For Kanami either... Just look at her.  
 **Kanami:** ......  
 **Mihono:** She studied so hard she died on the inside.  
-**Mai:** Kanami-chan\!?  
+**Mai:** Kanami-chan\!\?  
 **Kanami:** ...I-I'm fine, Mai-chan... It's just, after nothing but makeup lessons every day, and covering so much subject material...  
 **Mihono:** Kanami was totally absent for the third semester of her second year, after all.  
 **Kanami:** Yeah, if I didn't have Mai-chan, I wonder how things would turn out for me now...  
@@ -72,7 +72,7 @@ May 2019.
 **Mihono:** HAAAAAAAA\!\!  
 **Mihono:** ...Phew.  
 **Mirja:** That aradama now appears to have been the last of them. You've done well, Asakura Mihono.  
-**Kofuki:** Seriously\!? That was nowhere near enough-\!  
+**Kofuki:** Seriously\!\? That was nowhere near enough-\!  
 **Kofuki:** And Mihocchi got practically all of them\! Why can't you be more considerate to me, Mihocchi-\!  
 **Mihono:** Eh? Did I really beat that many?  
 **Kofuki:** You did\! Damnit, you took all my share.  
@@ -81,7 +81,7 @@ May 2019.
 **Mihono:** I said I was sorry\~\!  
 **Kiyoka:** Your makeup lessons must be difficult, right?  
 **Mihono:** Yeah... But, if I don't do them, they say I can't move up a year...  
-**Yui:** Things are going so well on the investigation team side of things too, Mihono-chan. The heavens are too cruel to grant two blessings\! You might be the ace of the investigation team, but your grades are in the red... Could this be gap moe\!?  
+**Yui:** Things are going so well on the investigation team side of things too, Mihono-chan. The heavens are too cruel to grant two blessings\! You might be the ace of the investigation team, but your grades are in the red... Could this be gap moe\!\?  
 **Chie:** I'm sorry, Mihono-chan. Under normal circumstances, I'd have liked to watch over and help you study, but...  
 **Mihono:** You don't have to treat it so seriously\! So long as I do my makeup lessons right, I should be fine\!  
 **Mihono:** And besides, you're busy with college, aren't you, Chii-nee?  
@@ -96,7 +96,7 @@ May 2019.
 **Mirja:** However, we've only just begun down that line of research, so we have nothing noteworthy to report yet.  
 **Mihono:** ...Oh, okay then.  
 **Chie:** ...Mihono-chan? Is there something on your mind?  
-**Mihono:** Eh\!? Nothing really... Why're you asking all of a sudden, Chii-nee?  
+**Mihono:** Eh\!\? Nothing really... Why're you asking all of a sudden, Chii-nee?  
 **Chie:** I just had a feeling, like you're acting a little different than usual...  
 **Mihono:** No way; I'm the same as I always am\!  
 **Mihono:** (It's this same dream today...)  
@@ -122,7 +122,7 @@ May 2019.
 **Kofuki:** Do you need me for this?  
 **Kofuki:** Cause, if you don't, I'd rather go with the Special Raid Unit, y'know? I'd get to play with aradama-chan over with them.  
 **Tsugumi:** I see, then, please go join them, Shichinosato-san.  
-**Kofuki:** For real\!? Never hurts to ask, huh\!  
+**Kofuki:** For real\!\? Never hurts to ask, huh\!  
 **Tsugumi:** The report stated that large numbers of aradama had appeared in the area of the Akabane sword... But, I'm sure the other members will be able to deal with it.  
 **Kofuki:** Say that first\!  
 **Kofuki:** Oi, what're you guys waiting for\! Let's go already\!  
@@ -217,7 +217,7 @@ May 2019.
 
 ## 5: Mihono Changing (2)
 **Kiyoka:** KYAA\!  
-**Yui:** Are you okay, Kiyoka-chan\!?  
+**Yui:** Are you okay, Kiyoka-chan\!\?  
 **Kiyoka:** I am... But, I can't use utsushi anymore...  
 **Kofuki:** ...Guess that's that. Stay behind me, Kiyoka.  
 **Kiyoka:** O-Okay.  
@@ -294,7 +294,7 @@ May 2019.
 **Mihono:** (Ahh... It's this again.)  
 **Mihono:** (Who is that anyway... Why are they going to the fire...?)  
 **Asakura Mihono?:** ......  
-**Mihono:** (Eh, it's me\!?)  
+**Mihono:** (Eh, it's me\!\?)  
 **Mihono:** Gh, agh\! It burns...\!  
 **Mihono:** U-Ugh... Aghh\!  
 **Mihono:** (The fire... It's coming into my body... I can feel it burning everywhere from the inside too...\!)  
@@ -309,10 +309,10 @@ May 2019.
 **Mihono:** It'd be nice if I didn't see that dream this time though...  
 **Mihono:** ...Huh? The glass cracked?  
 **Mihono:** Ah...\!  
-**Mihono:** This is... just like when I'm using Kiyomitsu's power...\!? But, why...? I don't even have my okatana with me...\!  
+**Mihono:** This is... just like when I'm using Kiyomitsu's power...\!\? But, why...? I don't even have my okatana with me...\!  
 **Mihono:** Calm down... Get it under control\!\!  
 **Mihono:** [Pant pant pant]...\!  
-**Mihono:** What's happening to me...? Why did Kiyomitsu's power come bursting out on its own\!?  
+**Mihono:** What's happening to me...? Why did Kiyomitsu's power come bursting out on its own\!\?  
 
 ## 8: The Reason I Can't Sleep (1)
 **Mihono:** ...  
@@ -435,7 +435,7 @@ May 2019.
 **Yuuki:** Should you really be saying that, when you make an odd combo with Ellen-san?  
 **Sayaka:** Kaoru, are you close to them?  
 **Kaoru:** ...Eh, it should be fine to let you know. These two are toji from Mokusa.  
-**Mihono:** Akira-san, you're from Mokusa\!?  
+**Mihono:** Akira-san, you're from Mokusa\!\?  
 **Akira:** Yep. I get told a lot I don't seem like it, but I've been with Mokusa for a real long time.  
 **Mihono:** I had no idea... Why did you and Yuuki join Mokusa, Akira-san?  
 **Akira:** A childhood friend of mine invited us. If I get the chance, I'll introduce you to her.  
@@ -451,7 +451,7 @@ May 2019.
 **Sayaka:** -\!\!  
 **Kaoru:** (These two are just too reliable. Should be completely painless. As for Mihono...)  
 **Aradama:** UGOOOOOOOOOOOOOO\!  
-**Mihono:** Ngh\!? I can take this much\!  
+**Mihono:** Ngh\!\? I can take this much\!  
 **Aradama:** GUOOOOOOOO\!\!  
 **Mihono:** YAAAAA\!  
 **Kaoru:** (She's struggling a bit? Feels like her concentration is falling off.)  
@@ -483,7 +483,7 @@ May 2019.
 **Sayaka:** Kaoru?  
 **Kaoru:** Don't ask me. I've never heard of anything like that.  
 **Akira:** I've... heard a story of something like that happening before.  
-**Mihono:** You have\!?  
+**Mihono:** You have\!\?  
 **Akira:** Yeah... Sounds exactly like something my buddy told me. Though, she'd only heard that story from her mom too...  
 **Mihono:** Akira-san, who's this buddy of yours? Is she...  
 **Akira:** Slow down, Mihono. Their name's Hitakami Makoto. She's that childhood friend I was just telling you about.  
@@ -506,7 +506,7 @@ May 2019.
 **Kaoru:** Wait, she's pointing her okatana this way...  
 **Sayaka:** Kaoru, it's dangerous\!  
 **Mihono:** ......\!  
-**Sayaka:** Urgh\!? I blocked it, but... it's forceful. My hands are tingling...  
+**Sayaka:** Urgh\!\? I blocked it, but... it's forceful. My hands are tingling...  
 **Sayaka:** Kaoru, what happened to Mihono?  
 **Kaoru:** Akira\!  
 **Akira:** ...Must've gone rampant. Yuuki, we're stopping Mihono\!  
@@ -527,7 +527,7 @@ May 2019.
 **Sayaka:** Kaoru, it's getting desperate.  
 **Kaoru:** Just a little\! Akira\!  
 **Akira:** What?  
-**Kaoru:** I don't want your help, but you can give me some advice\! What should we be doing\!?  
+**Kaoru:** I don't want your help, but you can give me some advice\! What should we be doing\!\?  
 **Akira:** Get rid of her utsushi\! After that, she'll be back to normal\!  
 **Kaoru:** I'm trusting you on this\! If you're lying... You're gonna pay\!  
 **Akira:** Trust me, it'll work. I wouldn't lie when my cute kouhai there's in a pinch.  
@@ -550,26 +550,26 @@ May 2019.
 **Kaoru:** Sayaka\!  
 **Sayaka:** Mm\!  
 **Mihono:** ......  
-**Yuuki:** Nee-sama, she defended against it\!? Even though they managed to create an opening...\!  
+**Yuuki:** Nee-sama, she defended against it\!\? Even though they managed to create an opening...\!  
 **Akira:** Nah, that was just another feint. She's really after...  
 **Kaoru:** Your back's wide open, Mihono\!  
 **Mihono:** UAAGH\!\!  
-**Kaoru:** We got her utsushi off\! She'll go back to normal now, right\!?  
+**Kaoru:** We got her utsushi off\! She'll go back to normal now, right\!\?  
 **Mihono:** ......  
-**Kaoru:** Hey, the hell\!? It didn't take\!? Sayaka, cut her again\!  
+**Kaoru:** Hey, the hell\!\? It didn't take\!\? Sayaka, cut her again\!  
 **Sayaka:** ...Mihono. She's not using utsushi.  
 **Kaoru:** ...Huh?  
 **Mihono:** U-Ugh...  
 **Mihono:** Huh? What was I...  
 **Sayaka:** Mihono, are you back to normal?  
-**Mihono:** Itomi-san? ...Wait, Itomi-san, why's your okatana up like you're about to swing\!?  
+**Mihono:** Itomi-san? ...Wait, Itomi-san, why's your okatana up like you're about to swing\!\?  
 **Sayaka:** I was just... about to slash you.  
 **Kaoru:** You can put it down now-. ...Sigh, that's finally over I guess.  
 **Mihono:** Uhh...? Did I do something?  
 **Kaoru:** You went on a full on rampage. Kashuu Kiyomitsu's power overwhelmed you and you passed out.  
 **Mihono:** I passed out...?  
 **Sayaka:** Mihono, you were strong. If Kaoru hadn't sacrificed herself, we wouldn't have won.  
-**Mihono:** Kaoru-san sacrificed herself\!?  
+**Mihono:** Kaoru-san sacrificed herself\!\?  
 **Kaoru:** Don't turn me into a sacrifice. You just cut through me once.  
 **Mihono:** ...Then, I hurt Kaoru-san...  
 **Mihono:** I'm so sorry, Kaoru-san... Because of me...  
@@ -585,10 +585,10 @@ May 2019.
 **Other:** The Time Left  
 **Kaoru:** Akira.  
 **Akira:** ......Is this about Mihono?  
-**Kaoru:** What the hell else\!? What was all that\!? I haven't heard anything about this\!\!  
+**Kaoru:** What the hell else\!\? What was all that\!\? I haven't heard anything about this\!\!  
 **Akira:** ...Can't tell you.  
-**Kaoru:** Are you shitting me\!? Mihono's a close friend of ours\!\!  
-**Kaoru:** And to you especially... What happened to her being your kouhai\!?  
+**Kaoru:** Are you shitting me\!\? Mihono's a close friend of ours\!\!  
+**Kaoru:** And to you especially... What happened to her being your kouhai\!\?  
 **Akira:** ...Even so, I can't tell you. I've got a reason I can't say anything.  
 **Akira:** But...  
 **Kaoru:** What.  

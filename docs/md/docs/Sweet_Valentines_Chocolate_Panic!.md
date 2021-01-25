@@ -1,13 +1,9 @@
 
 Sweet Valentines Chocolate Panic!
 =================================
+https://www.youtube.com/watch?v=jvBrqZOGzFY
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/jvBrqZOGzFY" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Chocolate Panic Prologue
 **Mirja:** Tsubakuro Yume, the target has been led your way\! Dispose of it\!  
@@ -33,7 +29,7 @@ Sweet Valentines Chocolate Panic!
 **Mirja:** (Konohana Suzuka shows quite the soft side toward Tsubakuro Yume, doesn't she.)  
 **Suzuka:** Welcome. An advance order? In that case, please fill this out.  
 **Suzuka:** Very good, we have your order for a chocolate cake.  
-**Yume:** So wait, why are we just working here normally again\!?  
+**Yume:** So wait, why are we just working here normally again\!\?  
 **Mirja:** With such frequent appearances of aradama, we would waste too much time arriving otherwise.  
 **Suzuka:** And serving customers is unexpectedly entertaining, isn't it?  
 **Mirja:** It's certainly a more worthwhile use of our time than idly waiting for aradama to appear.  

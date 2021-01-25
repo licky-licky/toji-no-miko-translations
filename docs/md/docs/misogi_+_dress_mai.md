@@ -26,7 +26,7 @@ https://youtu.be/d4UPDxCWrUY
 **Mai:** (In which case... I'll go\!)  
 **Mai:** YAAAAH\!  
 **Kanami:** -\!  
-**Mai:** ...Eh\!?  
+**Mai:** ...Eh\!\?  
 **Mai:** (She dodged it... And so easily too...)  
 **Kanami:** There's hardly any wasted movements... You love swordfighting too, don't you, Yanase-san\!  
 **Kanami:** Show me more of your swordsmanship\!  
@@ -58,7 +58,7 @@ https://youtu.be/d4UPDxCWrUY
 **Mai:** (But... I don't understand it myself, why I reacted like that... I could tell right away she was only joking...)  
 **Mai:** But, Kanami-chan...  
 **Kanami:** You called?  
-**Mai:** K-Kanami-chan\!? Why are you...?  
+**Mai:** K-Kanami-chan\!\? Why are you...?  
 **Kanami:** Actually... I saw what happened before. And then, I followed you here.  
 **Kanami:** If it's alright with you, you can talk it over with me, okay?  
 **Mai:** ...Thank you, Kanami-chan.  
@@ -79,7 +79,7 @@ https://youtu.be/d4UPDxCWrUY
 **Mai:** I'm sorry\!  
 **Friend A:** No, we're the ones who should be saying sorry. We were being sort of insensitive.  
 **Friend B:** We were. But, I didn't think that you actually did like Kanami... We'll do what we can to support you two, Mai\!  
-**Mai:** Eh\!? Th-That's not it\! You misunderstand\!  
+**Mai:** Eh\!\? Th-That's not it\! You misunderstand\!  
 **Friend A:** ...It's not?  
 **Mai:** That's right. Kanami-chan, she's the first opponent I didn't think I could beat in swordfighting, so I respect her a lot.  
 **Mai:** But, when you teased me about it... I think that's why I couldn't help but get angry all of a sudden.  
@@ -119,7 +119,7 @@ https://youtu.be/aNyvrlT3j5M
 **Kaoru:** Yeah. They had a whole bunch in the size just above mine though.  
 **Nene:** NE--------\!  
 **Mai:** Kyaa\!  
-**Kaoru:** Nene stole my meat\!?  
+**Kaoru:** Nene stole my meat\!\?  
 **Nene:** Ne\!  
 **Kaoru:** Stop it, Nene\! That's my meat\!  
 
@@ -145,7 +145,7 @@ https://youtu.be/aNyvrlT3j5M
 **Nene:** Ne-\!  
 **Mai:** Kyaa\!  
 **Kaoru:** You dumbass\! Don't go jumping at Mai\!  
-**Nene:** Ne\!?  
+**Nene:** Ne\!\?  
 **Kaoru:** We're safe... That was close. You know better than that; if you'd jumped on her just after eating, you'd get her dress dirty.  
 **Nene:** Ne-...  
 **Mai:** Thank you... Kaoru-chan. Nene-chan, I'll wipe your mouth for you.  

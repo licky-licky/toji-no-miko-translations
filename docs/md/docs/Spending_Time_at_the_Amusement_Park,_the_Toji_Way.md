@@ -1,13 +1,9 @@
 
 Spending Time at the Amusement Park, the Toji Way
 =================================================
+https://www.youtube.com/watch?v=zfSUNS36VAs
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/zfSUNS36VAs" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Maki and Suzuka's Unexpected Day Off
 **Aradama:** GUOOOOOOOO\!  
@@ -84,7 +80,7 @@ Spending Time at the Amusement Park, the Toji Way
 **Hiyori:** It was all bark and no bite, that haunted house.  
 **Kanami:** Hiyori-chaaaan\~... A haunted house isn't the kind of attraction you go in to fight the ghosts\!  
 **Hiyori:** It's not?  
-**Kanami:** You're supposed to get scared when you see the ghosts, but you shouted "There you are, ghost\!" and tried to beat them. You're the one who scared me.  
+**Kanami:** You're supposed to get scared when you see the ghosts, but you shouted "There you are, ghost\!\" and tried to beat them. You're the one who scared me.  
 **Hiyori:** But, if they're going to threaten us, it's our right to fight back.  
 **Kanami:** You're the one who doesn't know how to have fun, Hiyori-chan...  
 **Kanami:** Ah, phone call.  
@@ -126,7 +122,7 @@ At that time, the two from the elite guard were--
 **Maki:** And this is the place. Ready to show me those horseriding skills you're so proud of?  
 **Suzuka:** Of course; let's get on that white horse over there. Hah-\!  
 **Kanami:** Huh?  
-**Kanami:** Over there, isn't that... Shidou-san and Konohana-san\!?  
+**Kanami:** Over there, isn't that... Shidou-san and Konohana-san\!\?  
 **Hiyori:** Wha, am I hallucinating?  
 **Mirja:** The Shidou Maki and Konohana Suzuka are...  
 **Kiyoka:** Laughing and riding the merry go round together...  
@@ -136,7 +132,7 @@ At that time, the two from the elite guard were--
 **Kiyoka:** Sorry, I just felt like we saw something we weren't supposed to be seeing...  
 **Kanami:** Well why don't we just watch them like this for a while?  
 **Suzuka:** I had a good time on the merry go round. On top of that, I now have this photo of Maki-san riding a white horse to make as my phone's background.  
-**Maki:** Wh-When did you take that picture\!? If anybody else saw me like that...  
+**Maki:** Wh-When did you take that picture\!\? If anybody else saw me like that...  
 **Suzuka:** And with this, I have Maki-san's weakness in the palm of my hand.  
 **Maki:** You wouldn't\!  
 **Suzuka:** Ufufu, I'm only joking\~.  
@@ -172,10 +168,10 @@ At that time, the two from the elite guard were--
 **Mirja:** To the park office, so I could borrow some tools.  
 **Kanami:** Tools? For what?  
 **Mirja:** For modifying the engine.  
-**Kiyoka:** Ehh\!?  
+**Kiyoka:** Ehh\!\?  
 **Mirja:** In the world of competition, it's only natural to take every available avenue towards seizing victory.  
 **Hiyori:** I get it... Not just thinking of where you start, but the machine you start in. Not bad, Mirja.  
-**Kiyoka:** Should you really be impressed by that\!?  
+**Kiyoka:** Should you really be impressed by that\!\?  
 **Kiyoka:** This is looking like an even more dangerous competition than I thought...  
 At the same time, Maki and Suzuka were walking nearby--
 
@@ -191,7 +187,7 @@ At the same time, Maki and Suzuka were walking nearby--
 **Yui:** Oh yeah, Kiyoka-chan, when the investigation team has time off, where do you go for fun?  
 **Kiyoka:** Hmm... Everyone gets different days off, so it's hard getting us all together.  
 **Kiyoka:** Ah, but not too long ago, I went with Mirja-san to an amusement park after a mission.  
-**Yui:** Mirja-san went to an amusement park\!? I'd never have guessed you're into those\!  
+**Yui:** Mirja-san went to an amusement park\!\? I'd never have guessed you're into those\!  
 **Mirja:** I'm willing to go to amusement parks. And, at the time, Etou Kanami and Juujou Hiyori offered us tickets.  
 **Yui:** Oh, really? That sounds like a good time, everyone at the amusement park.  
 **Kiyoka:** Yes\! It was\! You should come with us next time, Yui-chan\!  

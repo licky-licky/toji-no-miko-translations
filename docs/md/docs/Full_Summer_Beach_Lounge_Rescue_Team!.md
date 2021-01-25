@@ -17,7 +17,7 @@ https://youtu.be/sIQNYYemcEg
 **Kofuki:** So basically... They've got us doing random chores again\!  
 **Sayaka:** This is one of our important duties as toji.  
 **Tsugumi:** That's right, Shichinosato-san. You can't go complaining just because it's not the job you want-.  
-**Kofuki:** Just cause you're cool with doing whatever you're told... I wanna play with some aradama-chan\! Wouldn't a job like that be more fun hands down\!?  
+**Kofuki:** Just cause you're cool with doing whatever you're told... I wanna play with some aradama-chan\! Wouldn't a job like that be more fun hands down\!\?  
 **Mihono:** But hey, doesn't all of us working together at the beach lounge sound fun too? Come on, Fukki\!  
 **Mihono:** And, if an aradama does show up, it'll be easy for us to get everyone to safety if we let you handle it\!  
 **Kofuki:** Aghh, fine... I got it, okay\! We just have to get this place popular again and get it over with... Whatever.  
@@ -165,7 +165,7 @@ https://youtu.be/7xz_k03cXQA
 **Ellen:** Just like she said she would, she's sleeping so peacefully. Let's go wake her up, Saaya\!  
 **Sayaka:** Okay\!  
 **Ellen:** Kaoru-\! It's time to wake up now-\! We're all going down the water slide-\!  
-**Kaoru:** Whoa-\!? What's going on\!?  
+**Kaoru:** Whoa-\!\? What's going on\!\?  
 **Sayaka:** I'm glad. I think I'll have a lot to tell Mai about the pool.  
 https://youtu.be/UrOq6F25WZg
 
@@ -179,7 +179,7 @@ https://youtu.be/UrOq6F25WZg
 **Kofuki:** I said your ass is fat too, Chichie.  
 **Kofuki:** Is that what they call childbearing hips? What'd you eat to get it that fat, Shirie? 	[Much like chichi means tits, shiri means ass]  
 **Chie:** Kofuki-chan\!\!  
-**Kofuki:** What're you getting mad for\!? I was just making a simple observation\!\!  
+**Kofuki:** What're you getting mad for\!\? I was just making a simple observation\!\!  
 **Chie:** This is one of those things you should keep to yourself\!  
 **Chie:** I can't believe you. Can we please have a good time here without you saying things like that?  
 **Kofuki:** I'm having plenty of a good time though.  
@@ -213,12 +213,12 @@ https://youtu.be/UrOq6F25WZg
 **Chie:** That's more like you. They'll make fitting last words.  
 **Kofuki:** O-Oi, what's that supposed to mean, Chichie? My last...  
 **Chie:** Kofuki-chan? I hope you're prepared for this.  
-**Kofuki:** Wha-, hang on\! It's just a cute little prank, right\!?  
+**Kofuki:** Wha-, hang on\! It's just a cute little prank, right\!\?  
 **Kofuki:** Besides, it's not like you aren't wearing anything under the pareo, so you don't have to freak out even if it comes off\!  
 **Chie:** ...Sohayanotsuruki.  
-**Kofuki:** Hey, you, wait, okatana are off limits, okay\!? Where'd you even pull that from\!?  
+**Kofuki:** Hey, you, wait, okatana are off limits, okay\!\? Where'd you even pull that from\!\?  
 **Chie:** A toji must always keep their okatana in arms reach, isn't that right?  
-**Kofuki:** So where were you keeping it\!?  
+**Kofuki:** So where were you keeping it\!\?  
 **Kofuki:** Oi... C-Cut it out\!  
 **Kofuki:** GYAA----\!\!  
 **Chie:** Really now, isn't it time you learned there are some lines even friends don't cross? It's important to know right from wrong, Kofuki-chan.  

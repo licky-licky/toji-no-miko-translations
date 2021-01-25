@@ -3,7 +3,7 @@ Team vs Team in the White Day Wars
 ==================================
 
 ## 1: White Day Wars, Commence
-**Kanami:** Mihono-chan, did you hear\!? There's a team event starting\! They're calling it the White Day Wars\!  
+**Kanami:** Mihono-chan, did you hear\!\? There's a team event starting\! They're calling it the White Day Wars\!  
 **Kanami:** For some reason, they found aradama carrying candies and marshmallows. So they put together a competition to defeat and collect them\!  
 **Mihono:** I just found out about it myself\! They said we can form our own teams with anyone from any school, and whoever gets the most sweets wins.  
 **Mihono:** And, more importantly, the winning team gets some kind of awesome secret prize\!  
@@ -14,7 +14,7 @@ Team vs Team in the White Day Wars
 **Kofuki:** ...Mmmm... There's this weird... Grassy? Taste to the cookies. And these macarons kinda taste like medicine.  
 **Tsugumi:** Have you noticed any changes to your body yet? To tell the truth, I mixed several things into them while I was cooking.  
 **Tsugumi:** Barley grass juice, protein powder, coconut oil, chia seeds, acai pulp, along with...  
-**Kofuki:** Well no shit it tastes awful\!\! What're you gonna do if this stuff messes me up\!?  
+**Kofuki:** Well no shit it tastes awful\!\! What're you gonna do if this stuff messes me up\!\?  
 **Tsugumi:** Everything I put in there should be good for you. Though knowing you, you'll be fine, Shichinosato-san. And like they say, failure is the path to success.  
 **Kofuki:** If you thought it'd fail, then don't give it to me\!\! Use yourself if you want a test subject\!\! I'm never eating anything you cook ever again\!\!  
 **Mihono:** 'Scuse us\! Are you two busy right now? I wanted to ask you about the White Day Wars...  
@@ -49,7 +49,7 @@ Team vs Team in the White Day Wars
 **Kanami:** Ah\! They just updated the competition rankings\!  
 **Kanami:** Let's see... Looks like a lot of toji joined in\!  
 **Kanami:** First place right now is... Shichinosato-san and Ban-san's team\!  
-**Mihono:** Just two people made it to first\!? Nobody beats Fukki when it comes to getting rid of aradama, I guess.  
+**Mihono:** Just two people made it to first\!\? Nobody beats Fukki when it comes to getting rid of aradama, I guess.  
 **Kanami:** And Ellen-chan and Kaoru-chan's team are in second\!  
 **Mai:** It's a little hard to picture that from the carefree Ellen-chan and lazy Kaoru-chan.  
 **Mihono:** Ahaha, you're right.  
@@ -114,12 +114,12 @@ Team vs Team in the White Day Wars
 *Kanami and Mihono bust in and grab Saaya*
 
   
-**Saaya:** -\!? But you left\!?  
+**Saaya:** -\!\? But you left\!\?  
 **Kanami:** We made a lot of extra noise as we were leaving, then quietly came back in\!  
 **Mihono:** We heard reports the candy stored here had some weird sour taste.  
 **Mihono:** But it's not like they could go bad that fast. We thought something was up, so we stayed on guard. And that's when you came sneaking in, Saaya-san.  
-**Kanami:** Saaya-san\! Answer us\! Why are you mixing sour konbu in with the candies\!? That's really mean for a prank\!  
-**Saaya:** P-Prank\!? Sweets and sour konbu go hand in hand like perfect matrimony\! Don't you feel the same way\!?  
+**Kanami:** Saaya-san\! Answer us\! Why are you mixing sour konbu in with the candies\!\? That's really mean for a prank\!  
+**Saaya:** P-Prank\!\? Sweets and sour konbu go hand in hand like perfect matrimony\! Don't you feel the same way\!\?  
 **Mihono:** ...M-Mattremoney?  
 **Saaya:** It means marriage in French\~. When the two combine, their flavors enhance each other.  
 **Saaya:** I was only giving everyone a taste of something better\!  
@@ -128,7 +128,7 @@ Team vs Team in the White Day Wars
 **Saaya:** ...  
 **Saaya:** ... ...... .........  
 **Saaya:** ...Ah, you're right. This tastes terrible.  
-**Mihono:** You never even tried it\!?  
+**Mihono:** You never even tried it\!\?  
 **Saaya:** Well, I eat a lot of sour konbu on its own, so...  
 **Saaya:** But there are lots of people who won't eat it, so I thought if I mixed it in with the candy they'd start realizing how great it tastes...  
 **Kanami:** Basically, you just thought you were helping out...  
@@ -185,35 +185,35 @@ Team vs Team in the White Day Wars
 **Kofuki:** Which means I've got no more time to waste on this\! Wait for me, aradama-chan\! I'll be right there\!  
 **Kiyoka:** Ahh, but we're in the middle of cooking...\!  
 
-## 7: Kiyoka's Confession\!?
+## 7: Kiyoka's Confession\!\?
 **Kiyoka:** Um... Thank you for waiting. Sorry I called you out here all of a sudden.  
 **Kiyoka:** ...These chocolates, I made them. I meant to give you them on Valentines Day, but I couldn't find the courage, and now it's already White Day...  
-**Kiyoka:** I've... I've always liked you\!\! If it's okay with you, will you please go out with me\!?  
+**Kiyoka:** I've... I've always liked you\!\! If it's okay with you, will you please go out with me\!\?  
 **Kiyoka:** ...Phew, enough practice. It'd be nice if I could give someone chocolates like that someday...  
 *bushes rustling*
 
   
-**Kiyoka:** -\!? Is someone there\!?  
+**Kiyoka:** -\!\? Is someone there\!\?  
 **Kanami:** Sorry, we didn't mean to hide, but...  
 **Mihono:** Yeah, we weren't trying to hide... Pft-hahaha...  
-**Kiyoka:** You two... Did you spy on me\!?  
+**Kiyoka:** You two... Did you spy on me\!\?  
 **Kanami:** W-We weren't spying\! We didn't spy on your solo love confession practice, Musumi-san\!  
 **Mihono:** Yeah, yeah\! We didn't spy on your fantasy about calling some guy out to give chocolates you meant to hand over on Valentines\!  
 **Kiyoka:** You saw the whole thing, didn't you\!\!  
 **Mihono:** Don't worry\! We aren't gonna tell anyone\! But, I can't make any guarantees if you don't join our team, you know?  
-**Kiyoka:** You're blackmailing me\!?  
+**Kiyoka:** You're blackmailing me\!\?  
 **Mihono:** I'm just kidding. But with you on our team, we'd be able to close the distance to first place.  
 **Kiyoka:** ...Okay then. I'll join your team, Hono-chan.  
 **Kiyoka:** But only on one condition: Let me watch you and Etou-san act out your dream confession together right now\!  
-**Mihono:** Huhh\!? I can't do that\!\!  
+**Mihono:** Huhh\!\? I can't do that\!\!  
 **Kanami:** Mihono-chan\! We have to get Musumi-san to work with us\! So let's give it our best shot\!  
-**Mihono:** Why're you getting into this, Kanami\!?  
+**Mihono:** Why're you getting into this, Kanami\!\?  
 *everyone's phones ring*
 
   
 **Mihono:** Ah-\! O-Oh no-\! Looks like more aradama showed up\! Guess we need to get going, huh-\!  
 **Kiyoka:** I won't let you get out of this, Hono-chan\! If aradama showed up, then you'll just have to confess while you're fighting\!  
-**Mihono:** While we're fighting\!? How do you expect me to pull that off\!?  
+**Mihono:** While we're fighting\!\? How do you expect me to pull that off\!\?  
 
 ## 8: White Day Wars, Concluded\!
 **Kanami:** They're finally publishing the results of the White Day Wars. I'm getting goosebumps...  
@@ -232,13 +232,13 @@ Team vs Team in the White Day Wars
 **Kinuka:** Thank you for all your hard work, everyone. Despite the many sightings of aradama, we were able to deal with them without civilian casualties.  
 **Nao:** All because of how quickly you were able to dispatch and suppress aradama as they appeared. Really, thank you all.  
 **Nao:** And with that, I'll now announce the first place winner. The overall winner of the first White Day Wars is... Kohagura Ellen's Team\!  
-**Ellen:** ---\!? We did it\!\! We did it, Kaoru\!\! Our team won\!\!  
+**Ellen:** ---\!\? We did it\!\! We did it, Kaoru\!\! Our team won\!\!  
 **Kaoru:**  Who'd have guessed. Looks like it was worth getting dragged along by you.  
 **Nene :** Ne-\!\! Ne-\!\!  
 **Kinuka:** Congratulations. As a reward for their victory, all the sweets in the storeroom will be delivered to Ellen-san's team\!  
 **Ellen:** ...Eh? All the sweets? Aren't you just dumping the leftovers on us...?  
 **Nao:** I should mention, by the way, that you can't refuse this offer.  
-**Ellen:** Are you serious\!? What are we supposed do with a year's worth of candy and marshmallows\!?  
+**Ellen:** Are you serious\!\? What are we supposed do with a year's worth of candy and marshmallows\!\?  
 **Kaoru:** Tell me this is a joke... I really shouldn't have bothered with this in the first place...  
 **Tsugumi:** Our team only placed third in the end. Thank goodness we didn't win. Shichinosato-san made the right call.  
 **Kanami:** We came in second\! We were so close to first place; that's so frustrating...\!  

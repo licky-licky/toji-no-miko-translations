@@ -44,7 +44,7 @@ https://streamable.com/0sio32
 **Chie:** But... sorry... right now... I need some...  
 **Kiyoka:** Chie-san?  
 **Chie:** [pant... pant... pant...]  
-**Kiyoka:** You're burning up\!?  
+**Kiyoka:** You're burning up\!\?  
 **Kiyoka:** (She was fighting like this... Chie-san really is incredible.)  
 **Kiyoka:** ...No, that's not it. It's because I'm so weak... Chie-san had to push herself so hard for me...  
 **Chie:** Ki... yoka... chan?  
@@ -77,12 +77,12 @@ https://streamable.com/0sio32
 **Chie:** ...Could you tell I had a fever?  
 **Mirja:** I can't tell that much.  
 **Mirja:** But, you were clearly responding sluggishly. I decided something had to be wrong and focused the aradama on us.  
-**Mihono:** You had one\!? I didn't notice at all\!  
+**Mihono:** You had one\!\? I didn't notice at all\!  
 **Chie:** I'm your onee-san. I can't go making you worry about me, can I?  
 **Chie:** And, I had Kiyoka-chan making sure I was safe, so I was absolutely fine.  
 **Kiyoka:** [crying]...  
-**Chie:** Kiyoka-chan\!? Why are you crying\!?  
-**Kofuki:** Was it that scary being off alone with Chichie\!?  
+**Chie:** Kiyoka-chan\!\? Why are you crying\!\?  
+**Kofuki:** Was it that scary being off alone with Chichie\!\?  
 **Kiyoka:** That's not it... Since Chie-san wasn't feeling well, I-I had to protect her... When it was over, I felt so relieved... The tears won't...  
 **Mirja:** Musumi Kiyoka. You've done an excellent job.  
 **Mihono:** Thanks a bunch for keeping Chii-nee safe, Kiyoka\!  
@@ -137,7 +137,7 @@ The day of their first shrine visit.
 **Kaoru:** Course I did-.  
 **Kaoru:** I came up with a bunch of other stuff, like, "Bring down divine punishment on the president", or "Make it so all my traveling is in first class."  
 **Kaoru:** What'd you come up with anyway?  
-**Ellen:** "For lots of fun things to happen\!"  
+**Ellen:** "For lots of fun things to happen\!\"  
 **Mai:** That sounds like you, Ellen-chan.  
 **Hiyori:** We just get dragged along all the time though.  
 **Ellen:** Still, isn't that fun too, Hiyoyon?  
@@ -258,7 +258,7 @@ https://streamable.com/jflgvk
 **Mirja:** Morishita Kihiro and Haji Keiko. You three make a rare group.  
 **Kihiro:** You might be right there\!  
 **Kihiro:** Though, despite myself coming from the equipment department and Miss Haji from the engineering preparatory department, we've long since deepened our friendship\!  
-**Keiko:** Eh\!?  
+**Keiko:** Eh\!\?  
 **Kihiro:** But you're right that we have little in common with Miss Yamashiro here\! ...What seems to be the matter, Miss Haji?  
 **Keiko:** I-It's... nothing.  
 **Keiko:** (Deepened... our friendship...?)  
@@ -296,11 +296,11 @@ https://streamable.com/jflgvk
 **Mirja:** Firstly, as I'm in charge of reaching out to visitors...  
 **Kihiro:** Ahh, we lied about that.  
 **Mirja:** Huh?  
-**Yui:** Hey\!? It's too soon to spill the beans\!\!  
+**Yui:** Hey\!\? It's too soon to spill the beans\!\!  
 **Mirja:** ...Too soon to spill the beans. And what do you mean by that, Yamashiro Yui?  
 **Yui:** Well, uh, we didn't lie so much, Mirja-san. Loosely speaking, we do want you attracting visitors...  
 **Mirja:** Haji Keiko?  
-**Keiko:** M-Me\!?  
+**Keiko:** M-Me\!\?  
 **Kihiro:** Please don't glare at Miss Haji like that, Miss Kitora. She was saying we should give a proper explanation until the bitter end.  
 **Mirja:** ...Right, I think I have an idea of what's going on. Yamashiro Yui is behind this, isn't she?  
 **Yui:** Teheh.  

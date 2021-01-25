@@ -1,13 +1,9 @@
 
 Elite Guard Memoirs: Cherry Blossom Arc
 =======================================
+https://www.youtube.com/watch?v=1y-R-16Cves
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/1y-R-16Cves" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 Chapter 8 was voiced live on a stream, there's a link down below to it.
 
   
@@ -54,7 +50,7 @@ Chapter 8 was voiced live on a stream, there's a link down below to it.
 **Yume:** Excuse me\~\!  
 **Yume:** Oh good, Maki onee-san, Suzuka onee-san. I was looking for you.  
 **Maki:** Yume.  
-**Yume:** Hey, hey, did you get some kind of report or message or anything\!?  
+**Yume:** Hey, hey, did you get some kind of report or message or anything\!\?  
 **Maki:** A report?  
 **Yume:** Yeah, like about the aradama in southern Izu\!  
 **Maki:** Ahh, one came in. It said they couldn't confirm the existence of the aradama in the southern Izu peninsula, so the cleanup operation's been postponed.  
@@ -63,10 +59,10 @@ Chapter 8 was voiced live on a stream, there's a link down below to it.
 **Yume:** N-No way, I didn't know\! I had no idea\~\! This is the first I've heard about it, I'm surprised-\!  
 **Suzuka:** ...I see.  
 **Suzuka:** Oh...? Yume, I can smell the distinct scent of freshly cut aradama coming off of you.  
-**Yume:** Eh\!? That's a smell?  
+**Yume:** Eh\!\? That's a smell?  
 **Yume:** That's weird, I took a bath right after I got home too... Sniff, sniff... Do I smell?  
 **Suzuka:** Oh my, and there's a bit of noro stuck to your back\!  
-**Yume:** Ehh\!? Where, where? Was it from when I beat those aradama\!? Ughh, I can't see back there...\!  
+**Yume:** Ehh\!\? Where, where? Was it from when I beat those aradama\!\? Ughh, I can't see back there...\!  
 **Maki:** Yume... There's no smell or noro.  
 **Yume:** Y-You tricked me, Suzuka onee-san\!  
 **Maki:** Yume... Is there something you're hiding from us?  
@@ -80,9 +76,9 @@ Chapter 8 was voiced live on a stream, there's a link down below to it.
 ## 3: Situation Cleared\!
 **Yume:** Let's see\~, the next one was Suzuka onee-san's in northern Kanto, wasn't it. Northern Kanto, northern Kanto... Ah, here it is.  
 **Yume:** "April: Northern Kanto Aradama Investigation Plans. Investigation is to be carried out in the following four prefectures: Ibaraki, Tochigi, Gunma, Saitama..."  
-**Yume:** Huh... Was northern Kanto always this big? Wasn't it just around the top of Tokyo\!?  
+**Yume:** Huh... Was northern Kanto always this big? Wasn't it just around the top of Tokyo\!\?  
 **Yume:** Ah... Now that I look at it, the Tokyo area's pretty big too...  
-**Yume:** Hinohara Village... Village...\!? There's a village in Tokyo too, huh...  
+**Yume:** Hinohara Village... Village...\!\? There's a village in Tokyo too, huh...  
 **Yume:** I didn't think I'd be learning so much. I don't really read this stuff most of the time...  
 **Yume:** I'll have to look over them more from now on, to be more like Maki onee-san and Suzuka onee-san.  
 **Yume:** Hm\~, Ibaraki, Tochigi, Gunma, and Saitama? Well, I'll figure it out.  
@@ -165,7 +161,7 @@ Chapter 8 was voiced live on a stream, there's a link down below to it.
 **Yume:** Hmm, Yukari-sama and Yomi onee-san are both gone today, so I couldn't ask them about their plans this weekend-. I'll have to go ask tomorrow.  
 **Yume:** And while I've got free time now, I can get everything ready\! Good thinking, Yume\!  
 **Yume:** I already bought the picnic blanket, so now I need enough food for 5 people.  
-**Yume:** I'll get drinks for everyone too... Wait-\!? What if Yukari-sama wants alcohol?  
+**Yume:** I'll get drinks for everyone too... Wait-\!\? What if Yukari-sama wants alcohol?  
 **Yume:** Should I get some alcohol too? But I can't really picture her drinking it...  
 
 ## 6: The Plan Falls Apart

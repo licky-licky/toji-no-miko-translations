@@ -1,13 +1,9 @@
 
 Toji Edo Detective Story
 ========================
+https://www.youtube.com/watch?v=ykb5ayM4CRY
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/ykb5ayM4CRY" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1:　Shidou Maki's Right Hand Man
 **Watanuki Kazumi:** Continuing on, there have been reports of damage caused by aradama. For reasons unknown, the film set of a historical drama has frequently come under attack.  
@@ -49,7 +45,7 @@ Toji Edo Detective Story
 **Kazumi:** Maki-sama, I'm picking up aradama in this direction.  
 **Maki:** Everyone, prepare to fight.  
 **Maki:** Don't get careless, but if you do like you did in training, destroying aradama isn't that difficult.  
-**Novice Toji D:** Sh-Shidou-senpai...\!? Some toji are already engaging the aradama\!?  
+**Novice Toji D:** Sh-Shidou-senpai...\!\? Some toji are already engaging the aradama\!\?  
 **Maki:** That's...  
 **Sayaka:** ...Kofuki.  
 **Kofuki:** Yeah, just leave it to me\! Show me a good time, aradama-chan\!  
@@ -99,7 +95,7 @@ Toji Edo Detective Story
 **Maki:** ...Hmph\! Time to finish this.  
 **Maki:** HYAAAAAAAA-\!  
 **Novice Toji C:** Amazing... Shidou-senpai, she beat an aradama that big with one swing...  
-**Novice Toji C:** ...Eh\!?  
+**Novice Toji C:** ...Eh\!\?  
 **Kazumi:** You don't have the luxury of looking away. Focus on the aradama before you.  
 **Novice Toji C:** R-Right\! Thank you, Watanuki-senpai...\!  
 **Novice Toji A:** ...TAAAH-\!  
@@ -118,7 +114,7 @@ Toji Edo Detective Story
 **Sayaka:** Understood.  
 **Kofuki:** The hell, you think I'm some kinda dog that'll go running off chasing the first aradama-chan I see?  
 **Sayaka:** ...Won't you?  
-**Kofuki:** Sayaka... Now you're giving me attitude too\!? So long as the aradama-chan keep coming, I'm not going anywhere\!  
+**Kofuki:** Sayaka... Now you're giving me attitude too\!\? So long as the aradama-chan keep coming, I'm not going anywhere\!  
 **Mirja:** Then I'll hold you to that, Shichinosato Kofuki\!  
 **Kofuki:** --Alright, alright, here they come\!  
 **Kofuki:** Aradama-chan, I love you-\!  
@@ -179,14 +175,14 @@ Toji Edo Detective Story
 **Kofuki:** I'm not changing how I talk no matter who I'm talking to. And besides, don't you wanna see senpai in that haori too?  
 **Kazumi:** Th-That's besides the...  
 **Maki:** I don't think I'll wear it after all. I'm no actor, so it'd be a bit embarrassing.  
-**Film Director:** No, I need you to wear that haori\! And, would you do me the favor of appearing in my movie\!?  
+**Film Director:** No, I need you to wear that haori\! And, would you do me the favor of appearing in my movie\!\?  
 **Maki:** Wh... Where is this coming from...?  
 **Film Director:** Those natural movements I saw from you, swinging your sword as you fought those aradama\! That's just what I need in this movie\!  
 **Maki:** But, I'm...  
 **Film Director:** I've been stuck figuring out what do do with this action scene, but I realized, the answer was right in my face\!  
 **Film Director:** If I truly want to express the spirit of a warrior, my only choice is to borrow the talent of someone like you... I'm begging you, please\!  
 **Maki:** I get where you're coming from. Raise your head, Mr. Director.  
-**Film Director:** So you'll be in the film\!?  
+**Film Director:** So you'll be in the film\!\?  
 **Maki:** Oh, no, I can't act...  
 **Film Director:** Oh wow, you've saved me\! I'm so lucky to have you toji around. On top of destroying the aradama, you're even lending your efforts to the film\!  
 **Maki:** But, I said...  

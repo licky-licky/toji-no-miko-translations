@@ -56,24 +56,24 @@ https://youtu.be/U_8Z9M9PWSk
 **Ellen:** Since we're having a pajama party, we have to do a pillow fight and talk about love interests\!  
 **Kaoru:** Huh?  
 **Kiyoka:** I'm not sure if that's right, but I'm interested in talking about love too\!  
-**Kiyoka:** When you become a high schooler, do you really start getting into that kind of thing\!?  
+**Kiyoka:** When you become a high schooler, do you really start getting into that kind of thing\!\?  
 **Kaoru:** Nah, not really.  
 **Ellen:** We're too busy with missions, after all.  
 **Kiyoka:** That's disappointing...  
 **Ellen:** Now then, all that's left is a pillow fight\!  
 **Kaoru:** Count me out-. I'm going to bed already, so don't wake me up-.  
 **Ellen:** You're not doing that-\! Hiyah\!  
-**Kaoru:** Whoa\!? ...Don't hit me in the back of the head\!  
+**Kaoru:** Whoa\!\? ...Don't hit me in the back of the head\!  
 **Ellen:** I'm laser accurate\!  
 **Kaoru:** Damnit, Ellen... Help me out with her, Kiyoka\!  
 **Kiyoka:** E-Err... Here\!  
 **Ellen:** Hesitate like that and you'll never hit me\!  
 **Kaoru:** You're open\!  
-**Kaoru:** Owfh\!?  
+**Kaoru:** Owfh\!\?  
 **Ellen:** You're getting serious now, huh Kaoru\! Hyah\!  
 **Kaoru:** I can catch something like that easy\! Hahh\!  
 **Ellen:** I caught it too\!  
-**Kiyoka:** I know we already started throwing them, but... is it really alright for us to have a pillow fight in a hotel like... Afwh\!?  
+**Kiyoka:** I know we already started throwing them, but... is it really alright for us to have a pillow fight in a hotel like... Afwh\!\?  
 **Kaoru:** Hahaha\! Never let your guard down, Kiyoka.  
 **Kiyoka:** Why do you look like you're having the most fun with this, Kaoru-san\!  
 https://youtu.be/VNAKMkkvBJE
@@ -95,11 +95,11 @@ https://youtu.be/VNAKMkkvBJE
 **Mai:** ......  
 **Kanami:** (Here I do it like this, and then like this... Okay\!)  
 **Mihono:** (Here's where I move over here...)  
-**Nagae Futaba:** Hey\!?  
-**Mihono/Futaba:** UWAH\!?  
-**Futuba:** Why'd you run into me-\!?  
+**Nagae Futaba:** Hey\!\?  
+**Mihono/Futaba:** UWAH\!\?  
+**Futuba:** Why'd you run into me-\!\?  
 **Mihono:** S-Sorry-\!  
-**Mai:** Are you okay, Mihono-chan, Nagae-san\!?  
+**Mai:** Are you okay, Mihono-chan, Nagae-san\!\?  
 **Mihono:** I'm fine. And anyway, sorry, Mai. I screwed up again.  
 **Mai:** It's alright; we still have time. I'll stick with you, so let's practice lots, okay?  
 **Mihono:** Sure\!  
@@ -119,7 +119,7 @@ https://youtu.be/VNAKMkkvBJE
 **Mai:** --I messed up\! I won't make it like this... One more try\!  
 **Mihono:** Ughh, I messed up a bunch, Kanamiii. I made a lot of trouble for Mai too.  
 **Kanami:** But still, you've gotten a lot better, Mihono-chan.  
-**Mihono:** You think so\!?  
+**Mihono:** You think so\!\?  
 **Kanami:** Yeah\!  
 **Mihono:** Then, that's good to hear\! She's taught how to do a whole lot, so I want to make sure the main performance is a success for sure.  
 **Kanami:** Mai-chan's trying so hard for this. I'm sure she's probably practicing right now too.  
@@ -157,7 +157,7 @@ At the marching band's main performance.
 **Mihono:** That was so nerve-wracking\!  
 **Futaba:** So many people came to see us\!  
 **Sawano:** It looked like they were even broadcasting it online.  
-**Mihono:** Ehh\!?  
+**Mihono:** Ehh\!\?  
 **Kanami:** Mai-chan, everybody sent you messages.  
 **Mai:** Eh? Ah, you're right\! I got a message from Sayaka-chan saying, "That was great."  
 **Mai:** And there's ones from Ellen-chan and Kaoru-chan and everyone too... Fufu.  
@@ -214,7 +214,7 @@ https://youtu.be/KlIqfSZ3Cl8
 **Kaoru:** ...Sigh.  
 **Kaoru:** So, what're we doing about you two, Sayaka and Mai?  
 **Ellen:** We haven't overlooked a thing\! We're coming up with the greatest costume plans for all of you\!  
-**Kaoru:** You're doing it for me too\!?  
+**Kaoru:** You're doing it for me too\!\?  
 **Ellen:** Well of course I am\!  
 **Kanami:** (A valkyrie... I can't wait to see what the costume looks like\!)  
 Kanami's promotional photos... The day of shooting.

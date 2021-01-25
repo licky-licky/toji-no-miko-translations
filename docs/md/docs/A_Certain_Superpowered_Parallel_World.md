@@ -34,7 +34,7 @@ Visitors (Gallery)
 **Mikoto:** Kuroko... Couldn't you have phrased that better?  
 **Kuroko:** I have only stated the truth.  
 **Shokuhou Misaki:** Honestly... Thanks to you, Misaka-san, the static electricity is making my hair act funny. What a bother.  
-**Mikoto:** Shokuhou Misaki...\! What are you doing here\!?  
+**Mikoto:** Shokuhou Misaki...\! What are you doing here\!\?  
 **Misaki:** Hmm-, just to see the sights?  
 **Mikoto:** Whatever... If you're going to complain, then just go. I have to do the main experiment in a minute.  
 **Mii:** Are you two, "friendly enough to fight"?  
@@ -56,15 +56,15 @@ Visitors (Gallery)
 **Mikoto:** Did something bad happen?  
 **Kuroko:** Your vision still hasn't returned to normal, so you may not have noticed, but... This isn't where the experiment was taking place.  
 **Ruiko:** Eh... Then, where are we? Uiharu, can you look it up?  
-**Kazari:** Just... give me a minute. Huh, I can't get it to turn on\!?  
+**Kazari:** Just... give me a minute. Huh, I can't get it to turn on\!\?  
 **Mikoto:** Let's just ask someone around here then.  
 **Mikoto:** Excuse me--  
-**Screaming People:** UWAAHHHHH, ARADAMA\!? G-GET OUT OF HERE\!\!  
+**Screaming People:** UWAAHHHHH, ARADAMA\!\? G-GET OUT OF HERE\!\!  
 **Mikoto:** Eh... Wait...  
 **Misaki:** Maybe it would have been for the best if someone besides Misaka-san had asked them?  
 **Mikoto:** ...I didn't even do anything\!  
 **Mii:** More importantly, "aradama"? I'm curious what that means.  
-**Ruiko:** Umm... This is totally just going off my intuition here, but\! Maybe they meant that\!?  
+**Ruiko:** Umm... This is totally just going off my intuition here, but\! Maybe they meant that\!\?  
 **Aradama:** ...GUOOOOOOOHHH\!  
 **Mikoto:** Geez... And what's this, this weird thing\! Let's go, Kuroko. Help me out.  
 **Kuroko:** Of course, I'll be right with you, Onee-sama.  
@@ -74,7 +74,7 @@ Visitors (Gallery)
 **Mirja:** Sorry to interrupt your meeting.  
 **Maki:** Kitora? Did you need something?  
 **Mirja:** This information is still unverified, but we've received a report that a group of citizens are fighting with aradama.  
-**Mai:** Eh\!?  
+**Mai:** Eh\!\?  
 **Mirja:** As time was of the essence, Etou Kanami, Mashiko Kaoru, Setouchi Chie, Shichinosato Kofuki, and Iwakura Sanae have been sent to the scene.  
 **Maki:** Ordinary citizens, fighting aradama; I can hardly believe it. ...Is there something strange going on? Just to be sure, we should go too.  
 **Kanami:** Still, why would they fight and not run away?  
@@ -82,7 +82,7 @@ Visitors (Gallery)
 **Kaoru:** It's probably just some idiots wanting to test their courage. It happens every now and then.  
 **Sanae:** Whatever it is, we have to get there soon\!  
 **Chie:** I can hear an aradama roaring. It's just up ahead\!  
-**Kanami:** Whoa, why's the air all crackly\!?  
+**Kanami:** Whoa, why's the air all crackly\!\?  
 **Aradama:** GUGIII...\!  
 **Kuroko:** Onee-sama-\! It's getting up once again\!  
 **Mikoto:** Seriously... Just how stubborn can they be\! I'm going to hit it one more time\!  
@@ -158,7 +158,7 @@ Visitors (Gallery)
 **Mikoto:** (And that's cause, after they said they'd give me corporate novelty Gekota merchandise... I got too excited and wasn't listening.)  
 **Misaki:** If only Misaka-san would pay more attention to that sort of thingg.  
 **Misaki:** That side of you can be so childish; it's a real botherr.  
-**Mikoto:** Wha\!? Listen, you... I do feel a little responsible for this, but... Why'd you even have to come along in the first place\!  
+**Mikoto:** Wha\!\? Listen, you... I do feel a little responsible for this, but... Why'd you even have to come along in the first place\!  
 **Misaki:** Purely by chance. I just happened to have something to take care of at that research institute too.  
 **Mirja:** Misaka Mikoto, Shokuhou Misaki. We are getting off topic. Is there anything else you can remember?  
 **Mikoto:** Ah, come to think of it, the metal we were creating, I think they gave it the temporary name "Tamahagane"...  
@@ -275,7 +275,7 @@ And so, by cooperating with the toji, Mikoto and the others steadily gathered th
 **Kofuki:** Business is booming today, huh?  
 **Mikoto:** I'm going to shock them into slowing down, so hang o--  
 **Kofuki:** Keep it to yourself\!  
-**Mikoto:** Huh\!? What do you mean\!?  
+**Mikoto:** Huh\!\? What do you mean\!\?  
 **Kofuki:** There's no challenge in playing with aradama-chan after they've been tripped up\! You go help Chichie or something.  
 **Kofuki:** Come and show me a good time; gimme some fresh aradama-chan\!  
 **Kuroko:** Honestly, what is her problem? Refusing Onee-sama's assistance like that.  
@@ -324,7 +324,7 @@ And so, by cooperating with the toji, Mikoto and the others steadily gathered th
 **Mikoto:** Then, the reason they kept gathering together today was because...  
 **Yume:** Cause Biribiri-onee-san was calling them all there?  
 **Mikoto:** C-Come to think of it... I was firing off electricity harder than usual, because there weren't many people nearby.  
-**Mikoto:** ...Is that what caused it\!?  
+**Mikoto:** ...Is that what caused it\!\?  
 **Ellen:** Hmm hmm, I do think this is a very interesting case.  
 **Mii:** So long as we gathered lots as well, it all turned out alright, Misaka-san.  
 **Mikoto:** That's true, but... When I think of my own power causing trouble...  
@@ -352,7 +352,7 @@ The following day--
 **Mikoto:** Do you know where we're doing it? I think it'd be good to be someplace like yesterday, out in the mountains where there aren't many people around.  
 **Mai:** We do too. The plan is to have Misaka-san fire off her electricity and call the aradama to a place with little people nearby.  
 **Mii:** That would be the best strategy for avoiding casualties.  
-**Ruiko:** Wah\!? Th-That surprised me...  
+**Ruiko:** Wah\!\? Th-That surprised me...  
 **Chie:** Oh no... It looks like there's multiple appearances of aradama\! These readings, they're increasing little by little?  
 **Maki:** The site isn't far. All toji here will leave straight away. Misaka, it'd help if you came with us, just to be safe.  
 **Mikoto:** That's what I planned on from the start. Let's hurry\! --Come on, Kuroko\!  
@@ -394,17 +394,17 @@ The following day--
 **Misaki:** And, beep. With that--  
 **Misaki:** (By altering the memories of the people here juuust a little, so that they leave immediately, it should speed up the evacuations, shouldn't it?)  
 **Misaki:** Now it's up to Misaka-san to go at it like a workhorse.  
-**Kanami:** It looks like they've finished up evacuating, but with more and more aradama coming, can you really keep up with this\!?  
+**Kanami:** It looks like they've finished up evacuating, but with more and more aradama coming, can you really keep up with this\!\?  
 **Mikoto:** I'll be fine. Though... We need to do something about them.  
 **Mai:** Looking at the the spectrum finder, the aradama detected in the area... all seem to be gathering around Misaka-san.  
 **Kaoru:** At this rate, it'll turn out just like that operation we were setting up today.  
 **Mikoto:** ...Still, we'll just have to go along with it. I don't think we can try taking the them somewhere else at this point. If they're coming to me, we'll use that and finish them all off at once.  
-**Kaoru:** You're saying you can take care of this many of them\!? Seriously...? That's crazy.  
+**Kaoru:** You're saying you can take care of this many of them\!\? Seriously...? That's crazy.  
 **Mikoto:** I have a secret weapon. I'll make sure to aim it off in the sky, so it should be safe.  
 **Mikoto:** But this could be a little dangerous for all you toji, so stand back.  
 **Mikoto:** I'm going to put an end to all the mess you're causing. ...This is me at... FULL POWERRRR\!\!  
 **Mai:** A-Amazing...  
-**Yume:** But hey, doesn't it look like they're all turning into one big aradama\!?  
+**Yume:** But hey, doesn't it look like they're all turning into one big aradama\!\?  
 **Aradama Roar:** GUOOOOOOOOONN\!\!  
 **Mikoto:** Ah...  
 **Kaoru:** Ellen said the metal'd bond together, but I didn't think that meant the aradama would too...  
@@ -551,7 +551,7 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Yume:** Huh?  
 **Mai:** Kanami-chan?  
 **Mikoto:** ...A beam? What made you think that??  
-**Kanami:** I was thinking, instead of a signal coming out the end of the remote to turn things off and on, it could shoot out a beam like, "Bibibibi-\!"  
+**Kanami:** I was thinking, instead of a signal coming out the end of the remote to turn things off and on, it could shoot out a beam like, "Bibibibi-\!\"  
 **Kanami:** Kind of like, like this\!  
 **Misaki:** Fufufu, Etou-san. Now that you've learned the secret of my power, I won't be letting you off so easy\~.  
 **Misaki:** Take thiis, bibibibibibi-\!  
@@ -618,7 +618,7 @@ https://youtu.be/UMDuFWf-sOc
 **Chie:** No, it's only just in the courtyard there. There were some pretty flowers in bloom, so I wanted to stop by.  
 **Kazari:** Hmm. I'm a little curious in seeing what kind of flowers they have now.  
 **Ruiko:** ......  
-**Ruiko:** I was wondering what you needed our help with, but we're making a wreath of flowers for some reason\!?  
+**Ruiko:** I was wondering what you needed our help with, but we're making a wreath of flowers for some reason\!\?  
 **Kazari:** Don't fool around, Saten-san. Let's make this properly.  
 **Ruiko:** You say that, but-. It's pretty hard working with flowers.  
 **Kazari:** You're great with sewing, so if you just do it carefully, you should be fine.  

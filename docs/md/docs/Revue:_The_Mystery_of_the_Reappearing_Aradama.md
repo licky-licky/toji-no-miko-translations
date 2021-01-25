@@ -31,7 +31,7 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Mahiru:** The aradama are a little scary to look at, but they do bring us some cute presents.  
 **Aradama:** ......  
 **Nene:** Nene-ne\!\!  
-**Hiyori:** Aradama\!? And it's another whole swarm of them.  
+**Hiyori:** Aradama\!\? And it's another whole swarm of them.  
 **Hikari:** ...Just as we mentioned them.  
 **Karen:** We can't let them get away, Hikari-chan\!  
 **Kofuki:** Look at all the aradama-chan lining up\! C'mon, show me a good time\!  
@@ -47,7 +47,7 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Kaoru:** Maybe this is our chance to get away from the back-breaking work they put us through every day. What if everyone thinks of a world where we don't have to work?  
 **Nene:** Ne-\!  
 **Yui:** In that case, I'll imagine up a harem of cuties to fool around with\!  
-**Yui:** Wait? Looking around, I'm surrounded by pretty faces-- What if I've already reached my paradise\!? It's really here\!  
+**Yui:** Wait? Looking around, I'm surrounded by pretty faces-- What if I've already reached my paradise\!\? It's really here\!  
 **Juuna:** You're something else, to think about this situation that positively... I'm impressed more than anything.  
 **Yui:** Thank you very much\! Your glasses are lovely, you know that, Juuna-san\!  
 **Junna:** Th-Thank you. They caught your eye, huh.  
@@ -55,7 +55,7 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Kaoru:** Again with this...? Somebody teach the aradama how to slack off already.  
 **Kaoruko:** Honestly, having gone along with this so far, I wouldn't mind that myself.  
 **Mahiru:** I thought they'd give us lots of Suzudaru Cats, but... I won't know what to do if they just keep coming\~...  
-**Juuna:** Come on... Do you think now's the time for this, you three\!?  
+**Juuna:** Come on... Do you think now's the time for this, you three\!\?  
 
 ## 2:　Shaped Thoughts
 **Mahiru:** They dropped another Suzudaru Cat.  
@@ -65,11 +65,11 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Mirja:** Yes, that's correct. The items being dropped from the aradama as well... That may be an effect of the thoughts of someone from this world.  
 **Kaoruko:** In that case, the culprits are plain as day. The ones causing all this ruckus could only be--  
 **Kaoruko:** Hikari-han and Mahiru-han\!  
-**Karen:** Ehh\!?  
+**Karen:** Ehh\!\?  
 **Mahiru:** A-Accusing me like that...　Wh-What am I supposed to say\~\! You don't believe her, do you, Karen-chan? You don't think I'm the culprit, do you?  
 **Hikari:** I do like Mr. White, but... I didn't do it.  
 **Futaba:** You don't look very convincing saying that with the doll Yui gave you before tucked between your arms.  
-**Hikari:** ...Ah-\!?  
+**Hikari:** ...Ah-\!\?  
 **Kanami:** For Mahiru-chan, it's Suzudaru Cat. For Hikari-chan, it's Mr. White. If they're each created from their thoughts, then...  
 **Kanami:** Maybe the aradama themselves too... Maybe one of us is the source of them?  
 **Hiyori:** And also, creating all those aradama might take an even stronger desire than Mahiru and Hikari's...  
@@ -91,8 +91,8 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Kofuki:** Like I could sleep when there's all these aradama-chan to play with\! I'm feeling way too worked up\!  
 **Tsugumi:** Hm, it seems we don't have a choice...  
 **Tsugumi:** Shichinosato-san\! Pardon me\!\!  
-**Kofuki:** MMGFGH\!? Whaghre youpughng mymough... (What are you putting in my mouth...)  
-**Kofuki:** 0X#&$%\!\!?\!?? (IT'S FUCKING AWFUL\!\!?\!??)  
+**Kofuki:** MMGFGH\!\? Whaghre youpughng mymough... (What are you putting in my mouth...)  
+**Kofuki:** 0X#&$%\!\!\?\!\?? (IT'S FUCKING AWFUL\!\!\?\!\??)  
 **Karen:** Wait, what... What happened?  
 **Tsugumi:** Shichinosato-san's thoughts are giving creation to the aradama...  
 **Tsugumi:** With that hypothesis raised, my researcher's curiosity wanted to test it.  
@@ -161,7 +161,7 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Hiyori:** Right, there was one of those too. It's movements were just bizarre. Honestly, I never want to see one of those again...  
 **Futaba:** It'd make a great training partner for swordfighting scenes though.  
 **Tsugumi:** More than likely, that aradama is a product of Renpu's research.  
-**Hiyori:** What-\!? You mean you're the one who made that awful thing\!?  
+**Hiyori:** What-\!\? You mean you're the one who made that awful thing\!\?  
 **Tsugumi:** Hey, I'm not saying that. I've only happened to see records of experiments attempting to create that type of aradama.  
 **Hiyori:** O-Oh... In that case, sorry I lost my temper.  
 **Tsugumi:** It's alright, don't let it bother you. ...Were you frightened by it?  
@@ -170,7 +170,7 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Karen:** Wait, really?  
 **Tsugumi:** Yes, thank you for your cooperation. With the strangely accurate imitations, and the human type aradama most wouldn't be aware of...  
 **Tsugumi:** These clues lead us to one conclusion: the culprit behind the aradama's creation is...  
-**Hikari/Karen/Kanami:** Who...\!?  
+**Hikari/Karen/Kanami:** Who...\!\?  
 **Tsugumi:** None other than myself\!  
 **Kaoru:** Figures.  
 **Kaoru:** Cause you love them too, in a different sense.   
@@ -208,13 +208,9 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Kaoru:** Those two are dead asleep over there. It's making me jealous-.  
 **Kaoru:** Actually, maybe I shouldn't be... Not after they basically got knocked out cold.  
 **Nene:** Nene\~...  
+https://www.youtube.com/watch?v=LkYpstF7b2U
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/LkYpstF7b2U" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## [Stage Girl: Start]: We'll Starlight\!
 **Hiyori:** HAAA\!  
@@ -225,12 +221,12 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Hiyori:** You say that, but it's awkward with you watching me so closely...  
 **Karen:** Ah, that makes sense\! Then I'll just say what I'm thinking\!  
 **Karen:** Your swordsmanship is so pretty, Hiyori-chan\!  
-**Hiyori:** Wh-What\!?  
+**Hiyori:** Wh-What\!\?  
 **Karen:** Your movements never waver, and the way you swing your sword, it feels so dignified\!  
 **Karen:** How did you learn to swing your sword so pretty?  
 **Hiyori:** How? All I can say is, I was dedicated to my training...  
 **Karen:** Then it really is all about practice, huh. I was hoping you'd say there's some trick to it.  
-**Karen:** Are there any, Hiyori-chan\!?  
+**Karen:** Are there any, Hiyori-chan\!\?  
 **Hiyori:** Uh... Y-Your face is too close...  
 **Hiyori:** Kh... In that case, why don't I let you experience it firsthand?  
 **Karen:** Firsthand?  
@@ -253,7 +249,7 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Hiyori:** A staircase...? The stage really does build up on its own.  
 **Karen:** I'm not really sure how it works though\! YAAAAAA\!\!  
 **Hiyori:** Hmph\! Don't think you'll find an opening that easy\!  
-**Karen:** Whoa, you avoided that so easy\!? Ahh, guess that won't work either.  
+**Karen:** Whoa, you avoided that so easy\!\? Ahh, guess that won't work either.  
 **Hiyori:** Still... What's going on with this place? This strange stage we're on.  
 **Karen:** What kind of stage do you want it to be, Hiyori-chan? If you think about it, I think it'll change.  
 **Hiyori:** For me? It's okay for me to change it too?  
@@ -261,22 +257,22 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Hiyori:** Hmm...  
 **Karen:** ...Now's my chance\! You're wide open\!  
 **Hiyori:** No I was not\! ...Still, I might as well try this out now.  
-**Karen:** Chocolate mint\!?  
+**Karen:** Chocolate mint\!\?  
 **Hiyori:** I don't believe it... It actually appeared.  
 **Karen:** You like chocolate mint, Hiyori-chan? That's good for when you have to brush your teeth, huh\!  
 **Hiyori:** I don't need it for that\!  
-**Karen:** Wah\!? Wawawa\!\!  
-**Hiyori:** Stop dodging\! Didn't you want to experience my swordsmanship\!?  
-**Karen:** Easy for you to say, but... Wawa\!? I-I've gotta strike back... YAH\!  
+**Karen:** Wah\!\? Wawawa\!\!  
+**Hiyori:** Stop dodging\! Didn't you want to experience my swordsmanship\!\?  
+**Karen:** Easy for you to say, but... Wawa\!\? I-I've gotta strike back... YAH\!  
 **Hiyori:** Too slow\!  
-**Karen:** Uwah\!?  
+**Karen:** Uwah\!\?  
 **Karen:** I seriously can't hit you at all\!  
 **Hiyori:** Why do you look happy about that?  
 **Karen:** Cause I get to see your pretty swordfighting up close\! I'm learning a whole lot\!  
 **Hiyori:** It's about time you showed what you're learning then.  
 **Karen:** You're right... How about this\!  
 **Karen:** HAAAAAAAAAA\!\!  
-**Hiyori:** -\!? That movement, that's from when I...\!  
+**Hiyori:** -\!\? That movement, that's from when I...\!  
 **Karen:** Nice\! I made you block me with your okatana\!  
 **Hiyori:** Right, that attack wasn't too bad just now.  
 **Karen:** Stage girls are evolving every day\!  Let's do some more, Hiyori-chan\!  

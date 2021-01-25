@@ -15,7 +15,7 @@ https://youtu.be/gDDa4lpWeQo
 **Kagari:** Kanami-san resembles you as well, Minato-senpai.  
 **Minato:** Ehh\~, we're nothing alike. Kanami's the cute type, while I'm the sexy type.  
 **Kanami:** Are you actually the sexy type...?  
-**Minato:** What else am I then\!?  
+**Minato:** What else am I then\!\?  
 **Kagari:** The ill-mannered type.  
 **Minato:** KAGARIII\! Geez, you haven't changed at all\!  
 **Minato:** But anyway, both of us managed to have such cute daughters, huh. Isn't that great? ...Kagari.  
@@ -37,7 +37,7 @@ https://youtu.be/gDDa4lpWeQo
 **Minato:** What're you talking about? You two are going home.  
 **Kanami:** Huh? Wait, how are we supposed to go home?  
 **Minato:** How... Well, I don't know that much.  
-**Kanami:** Ehhh\~\~\~\!?  
+**Kanami:** Ehhh\~\~\~\!\?  
 **Hiyori:** I thought anyone who went to the depths of the netherworld wouldn't be able to return?  
 **Minato:** And who said that?  
 **Kagari:** There's no precedent for anyone ever returning.  
@@ -159,7 +159,7 @@ And then, several days passed. When the cherry blossoms were in full bloom--
 **Kanami:** It's already spring, isn't it...  
 **Kanami:** What do you want to do first, Hiyori-chan? You'd want to eat chocolate mint, right?  
 **Hiyori:** I wouldn't mind...\!  
-**Mihono:** K-Kanami\! Juujou-san\!?  
+**Mihono:** K-Kanami\! Juujou-san\!\?  
 **Kanami:** Eh? Mihono-chan? That means, we really did...  
 **Hiyori:** We made it back, didn't we...\!  
 **Mihono:** Welcome back\!  
@@ -194,7 +194,7 @@ One day, in May. After the tournament, yet another month has passed. The toji ar
 **Yume:** Then, when Yomi-onee-san gets back, I want us to go somewhere together again\! Like, when we all went flower viewing\!  
 **Yume:** Don't ask the impossible, Yume. You know what position Yukari-sama is in...  
 **Yukari:** No, when Yomi comes back to us, I'll work something out.  
-**Yume:** You mean it\!? Hooray-\!  
+**Yume:** You mean it\!\? Hooray-\!  
 **Yukari:** It won't be long before the four of you are together once more, as the Special Defense Team.  
 **Yukari:** ...And, from here on, Akane will face more enemies than I did. Please, do all you can to look after her.  
 **Yui:** Sure thing\! No matter who crosses us, I'll keep Akane-sama safe\!  
@@ -239,7 +239,7 @@ One day, in May. After the tournament, yet another month has passed. The toji ar
 **Sayaka:** If you make it big, I think you'll get even busier.  
 **Kaoru:** .........Aghh\~, I don't wanna work anymore-\!  
 **Tsugumi:** 1110 hours. Mashiko Kaoru expresses a clear desire to sabotage the chain of command. I posit that this is necessary to report to General Director Maniwa.  
-**Kaoru:** Hey, shut up already\! What's your deal, anyway\!? This whole time\! You've just been going on to yourself, like you can't even read the mood\! You know we can hear everything you're saying\!?  
+**Kaoru:** Hey, shut up already\! What's your deal, anyway\!\? This whole time\! You've just been going on to yourself, like you can't even read the mood\! You know we can hear everything you're saying\!\?  
 **Kofuki:** Ahh, she's an operator from the aradama research team. You should've at least seen her around before.  
 **Tsugumi:** I'm to accompany you today, so that I can gather practical combat data from Shichinosato-san. My name is Ban Tsugumi. Nice to meet you.  
 **Kaoru:** Is it really okay, letting an operator tag along to the scene of a fight? Wouldn't it be best to get her some bodyguards?  
@@ -252,7 +252,7 @@ One day, in May. After the tournament, yet another month has passed. The toji ar
 **Kofuki:** Hell yeah\! Here I come, my lovely aradama-chan\!  
 
 ## 7: Push On, Special Raid Unit\! (2)
-**Kofuki:** Give me more\! I still haven't had my fun yet\! Where's the next aradama at\!?  
+**Kofuki:** Give me more\! I still haven't had my fun yet\! Where's the next aradama at\!\?  
 **Kaoru:** She's seriously so full of energy it's unbelievable...  
 **Sayaka:** It would be good if you could learn to be a little more like Kofuki, Kaoru.  
 **Kaoru:** I'm best suited to be a boss for capable recruits like you two\! That's how the Special Raid Unit should work\! Right, Nene?  
@@ -269,7 +269,7 @@ One day, in May. After the tournament, yet another month has passed. The toji ar
 **Tsugumi:** 1308 hours. Today's record will come to an end for the time being.  
 **Tsugumi:** Now then, I will gather there recordings into a report and present everything to General Director Maniwa today. Thank you very much for having me.  
 **Kaoru:** Sure, thanks for putting in the effort. Wait, hold on... You're gonna present everything to the director... Hey\!  
-**Kaoru:** You're not seriously gonna report every single thing I said to her, are you-\!? GIVE ME A BREAAAAAAAK\!\!  
+**Kaoru:** You're not seriously gonna report every single thing I said to her, are you-\!\? GIVE ME A BREAAAAAAAK\!\!  
 
 ## 8: We Aren't at Our Limit Yet\!
 **Kanami:** Ah, Mai-chan\!  
@@ -284,7 +284,7 @@ One day, in May. After the tournament, yet another month has passed. The toji ar
 **Mai:** You're amazing in that regard yourself, Kanami-chan.  
 **Kanami:** Eh? What's so amazing about me?  
 **Mai:** All your accomplishments lately\! From the rumors, they're calling you the strongest toji right now\!  
-**Kanami:** That's the first I've heard of it\!? ...Wait? Are you sure it's not a joke?  
+**Kanami:** That's the first I've heard of it\!\? ...Wait? Are you sure it's not a joke?  
 **Mai:** It's true. They say nobody can match up against you. That you're unstoppable.  
 **Kanami:** They're exaggerating way too much\! Even compared to Master, I still have a long long way to go\!  
 **Kanami:** And besides, I even lost to Hiyori-chan at the tournament not that long ago? I've gotta keep trying way harder to keep up too\!  
@@ -344,7 +344,7 @@ One day, in May. After the tournament, yet another month has passed. The toji ar
 **Mihono:** Urgh\! That's right... Th-There's still another year of this... Of this studying hell...  
 **Mirja:** I won't permit something so shameful as for our investigation team to have a failed student. Do I make myself clear, Asakura Mihono...?  
 **Mirja:** Do. I. Make. Myself. Clear?  
-**Mihono:** AHII\!? Ahh... Y-Yess...  
+**Mihono:** AHII\!\? Ahh... Y-Yess...  
 **Mihono:** This year\! In both my studies and my missions\! I-I'll do my best\!  
 In a virtual space established on a private network, connected over a special line--
 
@@ -362,7 +362,7 @@ In a virtual space established on a private network, connected over a special li
 **Elderly Woman:** The Sword Administration Bureau too, would they only be dear and devote themselves to the grunts. The grunts have no need of the brains, do they.  
 **Young Man:** Then, as the brains, why not do as brains do and move to discuss the matter at hand...  
 **Other:** The Whole Story  
-**Kaoru:** That jackass... She actually went and told her everything\! How can somebody be that clueless\!?  
+**Kaoru:** That jackass... She actually went and told her everything\! How can somebody be that clueless\!\?  
 **Nene:** Ne-\!  
 **Sayaka:** Kaoru, you aren't supposed to talk until you're done. And also, you were the one in the wrong.  
 **Kaoru:** Grgh... Aghh-, there, it's done\! Is that fine with you\! I wrote my apology letter\!  

@@ -1,13 +1,9 @@
 
 June Bride Symphony
 ===================
+https://www.youtube.com/watch?v=gTrLpiMGjFs
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/gTrLpiMGjFs" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The Wedding Event Kicks Off\!
 **Nishi Kozue:** Test, test. Clear blue skies today, clear blue skies today. Now testing the mic, now testing the mic. Ah\~, Ah\~... Mm, okay\!  
@@ -23,13 +19,13 @@ June Bride Symphony
 **Hina:** Because of that, and with the declining birth rate, there's less little girls dreaming of becoming toji with every year.  
 **Hina:** So the bigwigs put their heads together and came up with this event as a way of turning things around.  
 **Hiyori:** What is it you want us to do exactly?  
-**Mihono:** I bet they want us to fight each other live on TV\! When everyone sees how intense it gets, they'll think "Toji are so cool\!"  
+**Mihono:** I bet they want us to fight each other live on TV\! When everyone sees how intense it gets, they'll think "Toji are so cool\!\"  
 **Kanami:** That's a pretty good idea, but if things got too intense, wouldn't it scare people away?  
 **Sayaka:** Then, what if Mai makes cookies to hand out?  
 **Kanami:** Ahaha... Mai-chan's just one person, so I don't think she could make that many.  
 **Hiyori:** So, what are we really doing?  
 **Kozue:** We're going to make you all into "brides"\!  
-**Hiyori:** B-Brides\!? What do you mean; I'm only in middle school\!  
+**Hiyori:** B-Brides\!\? What do you mean; I'm only in middle school\!  
 **Sayaka:** If Mai dressed like one, she would look pretty...  
 **Hiyori:** ...Why are you blushing?  
 **Hina:** Don't worry, when we say brides, we don't mean you'll actually be getting married\!  
@@ -38,7 +34,7 @@ June Bride Symphony
 **Kozue:** The rules are: you have 60 minutes to locate the bouquets scattered in the nearby area and return them here to the altar in this chapel. If you do that, you win\!  
 **Kozue:** And the winners get the right to dress up in a wedding dress\!  
 **Kozue:** We even have pros here who will give you a beautiful makeover\! Make no mistake, this is the chance of a lifetime\!  
-**Kanami:** Seriously\!? We really get to wear a wedding dress\!?  
+**Kanami:** Seriously\!\? We really get to wear a wedding dress\!\?  
 **Hina:** The owners of this chapel and wedding hall have gone to great lengths working with us for this PR event, so don't worry about anything on that end\!  
 **Kozue:** All you sweet young girls, do your best to hunt down those bouquets\! Then when the whole world sees how happy you look done up in those dresses, it'll improve our image too.  
 **Kozue:** And that's all there is to know about this event\! Film crews from each media outlet are already standing by. This is a big event, so let's make it a success\!  
@@ -63,9 +59,9 @@ June Bride Symphony
 **Kanami:** Right? Besides, they made this whole event for us, so it'd be a waste not to enjoy ourselves\! And I want to cross swords with all those toji\!  
 **Mihono:** Yeah, yeah\! That's more like it\!  
 **Sayaka:** Then, I'll go on ahead.  
-**Hiyori:** M-Munen Musou\!? She's that serious about getting a bouquet?  
+**Hiyori:** M-Munen Musou\!\? She's that serious about getting a bouquet?  
 **Hiyori:** If that's how you're going to be, then I won't lose.  
-**Kanami:** Third Layer Jin'i\!? Sayaka-chan and Hiyori-chan are totally getting into it\!  
+**Kanami:** Third Layer Jin'i\!\? Sayaka-chan and Hiyori-chan are totally getting into it\!  
 **Mihono:** We can't let them leave us behind either, Kanami\!  
 **Kanami:** Mm, you're right\!  
 **Yume:** Look at them go. They're getting all worked up, aren't they\!  
@@ -103,13 +99,13 @@ June Bride Symphony
 **Mihono:** I'm just looking to have fun here, so it doesn't matter if I'm not the one who gets to wear it.  
 **Mihono:** And this was fun enough already, so why don't I give my bouquet to Kanami?  
 **Kanami:** Found you, Mihono-chan\!  
-**Mihono:** Kanami\!? ..."Found me", were you looking for me?  
+**Mihono:** Kanami\!\? ..."Found me", were you looking for me?  
 **Kanami:** I found a bouquet and thought I'd give it to you. You looked like you were having so much fun, Mihono-chan, so I thought you'd be glad... Or did you not want my help?  
 **Mihono:** But, Kanami, if you gave that to me then you wouldn't get to try on a wedding dress\!  
 **Kanami:** Nnn\~, I kinda want to, but if wearing one would make you happy, then I'd be happier that way too\!  
 **Kanami:** I got to see swordfighting from a lot of different toji already, so I'm satisfied with this event\!  
 **Mihono:** Ahaha... Kanami, I am glad\! So much so that I could just marry you\!  
-**Kanami:** M-Mihono-chan\!?  
+**Kanami:** M-Mihono-chan\!\?  
 **Mihono:** But don't worry about it. Look\! I already got a bouquet of my own\!  
 **Mihono:** ...See, actually, I was planning on giving this bouquet to you.  
 **Kanami:** Ehh, you were? ...Fufufu.  
@@ -132,7 +128,7 @@ June Bride Symphony
 **Sayaka:** (I feel weak. I should have brought Mai's cookies with me.)  
 **Sayaka:** (I can't eat the bouquet, so I would rather have cookies... But, if I gave the bouquet to Mai, she might be happy. If Mai wore a wedding dress... She would look pretty for sure...)  
 **Sayaka:** (But I'm too hungry to focus... I want to eat cookies...)  
-**Hiyori:** (Did she relax her body just now? No wait, I can't let myself be tricked. Are you trying to bait me into lowering my guard\!?)  
+**Hiyori:** (Did she relax her body just now? No wait, I can't let myself be tricked. Are you trying to bait me into lowering my guard\!\?)  
 **Hiyori:** (Still, as long as we keep staring each other down, I'll keep wasting energy without having done anything. I need to find a way to end this as soon as possible\!)  
 **Kozue:** It's anyone's guess how long these mind games will go on for. But this much is clear, it's an intense battle\!  
 
@@ -152,7 +148,7 @@ June Bride Symphony
 **Yume:** Bouquet spotted-\!  
 **Kozue:** Gehh\! It's the fourth seat of the elite guard, Tsubakuro Yume-san\!  
 **Yume:** I might be fourth seat, but I'm still the strongest\!  
-**Mimi:** E-Elite guard\!? There's no way I can beat her...  
+**Mimi:** E-Elite guard\!\? There's no way I can beat her...  
 **Yume:** Hmm, so you get it already. That's right, there's nobody who can beat me, so hurry up and give me that bouquet\!  
 **Kozue:** U-Umm, is there any chance you'd be willing to overlook this...?  
 **Yume:** Ehh\~, but I finally found a bouquet?  
@@ -194,7 +190,7 @@ June Bride Symphony
 **Maki:** What are we, pandas?  
 **Suzuka:** If we're to act as pandas, then we should put on the flashiest performance we can manage. ...This is all to give us better standing in negotiating a higher budget.  
 **Maki:** In that case, you deserve this bouquet more than me. You should be the one to wear the wedding dress. I'm not cut out for it, but I'm sure it would look perfect on you, Suzuka.  
-**Suzuka:** M-Maki-san...\!? ...Fufu.  
+**Suzuka:** M-Maki-san...\!\? ...Fufu.  
 **Maki:** Hey, what're you laughing at...\! I've known from the start that I'd look no good in a dress.  
 **Suzuka:** Fufu. True. Rather than a dress, you'd look more natural in a tuxedo than anyone else, Maki-san.  
 **Suzuka:** ...Though, you worked so hard for this bouquet. Are you sure you're willing to give it to me? Wouldn't that mean losing your competition with Yume?  
@@ -235,8 +231,8 @@ June Bride Symphony
 
 ## 8: The Head of the Family has Arrived\!
 **Yukari:** What's going on here. Why has no one reached the goal?  
-**Kozue:** T-Th-The head of the familyyyy\!?  
-**Hina:** What's Yukari-sama doing here\!?  
+**Kozue:** T-Th-The head of the familyyyy\!\?  
+**Hina:** What's Yukari-sama doing here\!\?  
 **Yukari:** This event was organized for the Five Traditions... For the recognition of toji to be further spread among the people. Is it really so strange I would come to observe it?  
 **Kozue:** Y-You have a point\!  
 **Yukari:** So then, why has no one reached the goal?  

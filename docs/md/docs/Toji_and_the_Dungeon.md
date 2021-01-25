@@ -1,13 +1,9 @@
 
 Toji and the Dungeon
 ====================
+https://www.youtube.com/watch?v=DK-DkM29FI8
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/DK-DkM29FI8" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Awakening in a Dungeon
 --How am I meant to become stronger than I already am? Whenever I'm training, that's always on my mind.
@@ -38,11 +34,11 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Hiyori:** N-No use... My balance...\!  
 **Hiyori:** ..................ugh...  
 **Kaoru:** Oh, Hiyori's awake.  
-**Mihono:** Juujou-san, are you okay\!? Did you get hurt anywhere\!?  
+**Mihono:** Juujou-san, are you okay\!\? Did you get hurt anywhere\!\?  
 **Hiyori:** Ahh, I'm fine... But, where are we...?  
 **Ellen:** We're in some kind of cave system.  
 **Kiyoka:** But, it's weird... The ground under our feet collapsed, yet...  
-**Hiyori:** There's no hole in the ceiling...\!?  
+**Hiyori:** There's no hole in the ceiling...\!\?  
 **Kaoru:** That's not all that's weird. Take a look around the cave. Isn't it strangely bright in here?  
 **Hiyori:** Now that you mention it... Those crystals have some kind of glow to them. What do you think they are...?  
 **Kaoru:** We can't get through to call for rescue, and it's anyone's guess which way we should go to get out... Aghh, why does this have to happen to me.  
@@ -52,14 +48,14 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Ellen:** Then maybe that's our rescue.  
 **Hiyori:** Whoever they are, we can't ignore them. Let's go, everyone.  
 **Hiyori:** They're close\! Right up ahead\!  
-**Mihono:** I think I see them...\! Wait, huhhh\!?  
+**Mihono:** I think I see them...\! Wait, huhhh\!\?  
 **???:** Hmph...\!  
 **???:** Unleashed streak of light, bow limbs of the holy tree. You are an expert of the bow. Shoot, sniper of the fairies. Penetrate, arrow of absolute accuracy...  
 **???:** Arcs Ray\!  
 **Aradama:** GUAAAAAA...  
-**Kaoru:** W-W-W-Wh-What the hell\!?  
+**Kaoru:** W-W-W-Wh-What the hell\!\?  
 **Ellen:** There's a beautiful girl in armor, and an elf, and magic\!\!  
-**Hiyori:** Magic...\!? That's not real though...\!?  
+**Hiyori:** Magic...\!\? That's not real though...\!\?  
 **Aradama:** GUAAAAAA\!  
 **???:** Ais-san, there's more of them\!  
 **Ais:** Get back, Lefiya... I'll get rid of these monsters...  
@@ -83,7 +79,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Ais:** ...?  
 **Lefiya:** Eh? Am I wrong?  
 **Kaoru:** Ah, uhh, that's right. We're from the far east alright, you can't mistake it.  
-**Hiyori:** Oi, Kaoru...\!?  
+**Hiyori:** Oi, Kaoru...\!\?  
 **Kaoru:** Just play along for now. I've got no clue what's going on, but if we cause some misunderstanding these two could be big trouble for us, okay?  
 **Hiyori:** Well, you have a point...  
 **Lefiya:** We received a request from the guild, to investigate those monsters we were fighting just now... What brings all of you here?  
@@ -98,7 +94,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Lefiya:** That's true. Very well then, everyone. It's this way. We can exit together.  
 **Hiyori:** Ah... Thanks, and sorry to bother you.  
 **Lefiya:** It's no bother, Ais-sa--  
-**Lefiya:** --You're not Ais-sama\!? I'm so sorry, I mistook you for her\!  
+**Lefiya:** --You're not Ais-sama\!\? I'm so sorry, I mistook you for her\!  
 **Hiyori:** ...How?  
 **Lefiya:** We're going to make our report to the guild now, but what will you all do?  
 **Kaoru:** We were supposed to meet somewhere else first, so we'll stop by the guild later.  
@@ -108,7 +104,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Kaoru:** ...Are they gone?  
 **Ellen:** All clear.  
 **Kaoru:** Then there's no point holding it in anymore...  
-**Kaoru:** What the hell's going on around hereeee\!? Where the hell are we anywayyyyy\!?  
+**Kaoru:** What the hell's going on around hereeee\!\? Where the hell are we anywayyyyy\!\?  
 **Ellen:** I'm about to have a panic attack\! Actually, I'm pretty sure I've been having one this whole time\!  
 **Mihono:** Wawa, calm down, you two\! Though it's not like I can calm down either\!  
 **Kiyoka:** Elves, magic, guilds, monsters, adventurers... And the outside world looks like this... I think, maybe, we...  
@@ -125,7 +121,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Aradama:** GUAAAAAA\!  
 **???:** Hyaaaa\! I'm under attackkkk\!  
 **Mihono:** Oh no\! Those aradama are dragging that girl into the tower\!  
-**Kaoru:** Wait, isn't that were we just came from\!?  
+**Kaoru:** Wait, isn't that were we just came from\!\?  
 **Hiyori:** Let's get after them\! We have to save her before we lose sight of them\!  
 
 ## 3: Goddess Hestia
@@ -169,7 +165,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Kaoru:** Butt? It isn't one of us.  
 **Aradama:** KISHAAAAAA-\!  
 **Hestia:** Wawawa, there's another more\! Hey, let go\! Uhyaaa, I'm being kidnappedddddd\! Outsiders, h-h-help meeeee\!  
-**Mihono:** Ahh\!? She got carried into the dungeon again\!?  
+**Mihono:** Ahh\!\? She got carried into the dungeon again\!\?  
 **Kiyoka:** Besides that, she called us "outsiders" just now...  
 **Kaoru:** They just keep going straight for that goddess, don't they?  
 **Ellen:** Aradama were enshrined as gods in the past, so maybe they think she's one of their friends?  
@@ -201,11 +197,11 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Hiyori:** Your savior...? What are you saying, Hestia?  
 **Hestia:** I mean, you are, aren't you? You're here to defeat those arawhatevers, which means...  
 **Hestia:** Once the dungeon's back to normal, my darling Bell-kun will come back home\!  
-**Hestia:** If that doesn't make you my saviors, what would\!?  
+**Hestia:** If that doesn't make you my saviors, what would\!\?  
 **Kaoru:** O-Okay... No, I don't get it at all.  
 **Ellen:** But it's plain as day how happy she is about it.  
 **Hestia:** Go ahead and ask me for anything you need, foreginers\! If it'll help you get rid of those arawhatevers, I'd be happy to lend a helping hand or two\!  
-**Kiyoka:** W-Will you really\!? Then, can you teach us how to use magic\!?  
+**Kiyoka:** W-Will you really\!\? Then, can you teach us how to use magic\!\?  
 **Hiyori:** ...\!  
 **Hiyori:** (Can we actually use it too...?)  
 **Hestia:** Ah, sorry. I can't teach you how to do that so suddenly.  
@@ -218,7 +214,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Lilly:** Now then, everyone, will you follow me. Ah, I'm Liliruca Arde. You can call me Lilly.  
 **Hiyori:** Sh-She's a kid...?  
 **Lilly:** I am not a kid. I'm from a race known as the Pallum. For what it's worth, I'm 15.  
-**Mihono:** Eh-\!? She's older than me\!?  
+**Mihono:** Eh-\!\? She's older than me\!\?  
 **Kaoru:** She looks like that, but she's almost me and Ellen's age... Seriously?  
 **Ellen:** Mmm, it's a parallel world after all.  
 **Hiyori:** Um, by the way, Lilly...  
@@ -248,7 +244,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Hiyori:** Nn? What's wrong?  
 **Kaoru:** They're down, below us. It's picking something up under here. And it looks like there's loads of 'em.  
 **Lilly:** There's dozens of floors to this dungeon, so they must be deeper in.  
-**Mihono:** There's that many floors...\!?  
+**Mihono:** There's that many floors...\!\?  
 **Kaoru:** Don't worry. As far as I can tell from this thing, we shouldn't have to go that deep. Though they also don't seem to be right next to us... They couldn't make it easy.  
 **Ellen:** Are you feeling tired, Kaoru?  
 **Kaoru:** Yeah... There's open spaces here and there, but fighting in these cramped tunnels can take a lot of extra effort from me.  
@@ -299,7 +295,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Aradama:** GUAAAAAAAAAA-\!  
 **Ellen:** Shit\! They're coming from all sides\!  
 **Kaoru:** Tch, what got their attention so fast...\!  
-**Hiyori:** You don't think they were luring us in, do you...\!?  
+**Hiyori:** You don't think they were luring us in, do you...\!\?  
 **Mihono:** W-We have to fight, guys...\! We can't afford to lose here...\!  
 **Kiyoka:** Hono-chan...\! Right, I can still...\!  
 **Kaoru:** Yeah\! Let's show them what we've got\!  
@@ -316,10 +312,10 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Hiyori:** Kh...\!  
 **???:** Fusillade Fallarica\!  
 **Aradama:** GUAAAAaaaaaa...  
-**Hiyori:** Wha... That power...\!?  
+**Hiyori:** Wha... That power...\!\?  
 **???:** Ha...\!  
 **Aradama:** OOOOOooooo...  
-**Lefiya:** Everyone, are you unhurt\!?  
+**Lefiya:** Everyone, are you unhurt\!\?  
 **Hiyori:** Ah... You two...\!  
 **Ais:** Hestia-sama asked us to help you... This time, it's our turn to...  
 **Kaoru:** Ais and Lefiya, right? We owe that goddess big time.  
@@ -373,7 +369,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Aradama:** GAAAAAAAAA\!  
 **Ais:** I won't let you...  
 **Aradama:** OOOOOooooo...  
-**Hiyori:** Everyone, listen to me\! Once her magic hits, we need to all attack that aradama at once\! Will you match your timing with me\!?  
+**Hiyori:** Everyone, listen to me\! Once her magic hits, we need to all attack that aradama at once\! Will you match your timing with me\!\?  
 **Kiyoka:** Y-Yes...\!  
 **Ellen:** Roger\!  
 **Kaoru:** Can you make it, Mihono\!  

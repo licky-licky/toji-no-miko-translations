@@ -1,13 +1,9 @@
 
 6 - On the Night of the Mountain Hunt
 =====================================
+https://www.youtube.com/watch?v=YMTHQYzNwfM
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/YMTHQYzNwfM" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: It's a Toji's Duty\! (1)
 **Mirja:** It's time for the operation to begin. According to the elite guard's orders, we are to search the southwest side of the mountain.  
@@ -41,16 +37,16 @@
 **Yomi:** ...My aradama have disappeared. The ones in the... Southwest.  
 **Maki:** That's where we assigned the investigation team...  
 **Yomi:** I can't confirm that for sure... But...  
-**Maki:** They're killing Yomi's aradama now...\!?  
+**Maki:** They're killing Yomi's aradama now...\!\?  
 
 ## 3: Reunited with Kanami
 **Hiyori:** What's happening? I've never heard of aradama swarming like this.  
 **Kanami:** I don't know. But, I have this feeling like they're being guided...  
 **Hiyori:** Like they're moving with a purpose... Could someone be manipulating them? Either way, individually they don't seem very strong. But with so many of them, this could be a real problem.  
 **Kanami:** I can't even count how many are out there.  
-**???:** Who's over there\!?  
+**???:** Who's over there\!\?  
 **Mihono:** ...Kanami\!  
-**Kanami:** Mihono-chan\!?  
+**Kanami:** Mihono-chan\!\?  
 **Hiyori:** ...It's you, from the other day\! So you followed us\!  
 *Hiyori draws her sword*
 
@@ -68,7 +64,7 @@
 **Mihono:** Nah, it's just, something about you two seems different since last time we met. Did something happen, Kanami?  
 **Kanami:** Yep, a lot of stuff\! Keep this a secret, but...  
 **Kanami:** Hiyori-chan's super cute, you know? When we were in Harajuku, she went on a whole rant about chocomint ice cream, and...  
-**Hiyori:** Stup...\!? Stop\!  
+**Hiyori:** Stup...\!\? Stop\!  
 **Kanami:** Well a bunch of stuff happened. That's why, I'm...  
 **Mirja:** Asakura Mihono\! The aradama are swarming\! Over by where you are\!  
 **Mihono:** \!\!\!\!\!  
@@ -78,7 +74,7 @@
 **Mihono:** I just ran into them here... That's the truth.  
 **Mirja:** You understand, don't you? The mission we were given was to capture these two. For you to...  
 **Mihono:** I won't do it\!  
-**Kanami:** ...\!?  
+**Kanami:** ...\!\?  
 **Mihono:** The elite guard, they said they were going to kill them\! Or they did, the first time... For us to hand Kanami and Hiyori over after that...  
 **Mihono:** I'm not going to do it\! That isn't the kind of justice a toji upholds\! This is wrong\!  
 **Mirja:** Still...  
@@ -100,9 +96,9 @@
 **Hiyori:** The elite guard are using aradama... I knew it... I thought this was strange.  
 **Kanami:** Eh? But what does that mean?  
 **Kofuki:** Listen\! To\! Me\! All these aradama are hunting for you two; Satsuki Yomi's controlling them\!  
-**Kanami:** ...\!?  
+**Kanami:** ...\!\?  
 **Chie:** ......\!  
-**Mihono:** Huh\!? The elite guard's? Controlling them? How?  
+**Mihono:** Huh\!\? The elite guard's? Controlling them? How?  
 **Kiyoka:** Eh... What's going on... Here?  
 **Mirja:** Hang on a minute. Does that mean that, all this time, we've been...  
 **Kofuki:** So now you figure it out. Yep, all this time we've been smashing Satsuki Yomi's eyes and ears. Pretty funny, huh\!  
@@ -123,7 +119,7 @@
 **Mirja:** No, I don't need your thanks. Rather...  
 **???:** Hm...? Are you sure that's a good idea?  
 **???:** It's going to be hard to overlook this.  
-**Mirja:** Shidou Maki, Konohana Suzuka... The elite guard\!?  
+**Mirja:** Shidou Maki, Konohana Suzuka... The elite guard\!\?  
 **Maki:** Well isn't this funny\! What you're up to is treason, you know. So you won't mind if we pick up where I left off earlier, do you?  
 **Maki:** I'm sure you're aware you won't be getting out of it this time.  
 **Mirja:** No, this is not treason. Our investigation team is an independently operating unit; we have no obligation to follow the orders of the elite guard.  
@@ -143,7 +139,7 @@
 **Mirja:** Now, I will be your opponent. Prepare yourself, Shidou Maki.  
 **Maki:** What's that, Kitora Mirja? Looking for a revenge match after last year's tournament?  
 **Maki:** Don't be ridiculous...  
-**Maki:** How far do you think you can resist me? A weakling like you\!?  
+**Maki:** How far do you think you can resist me? A weakling like you\!\?  
 **Suzuka:** I'll happily be your opponent as well. No matter how far those two run, they can't escape Yomi's network.  
 
 ## 8: Even so, I... (1)
@@ -161,13 +157,13 @@
 **Kiyoka:** ...That's why I couldn't fight... That's why I couldn't hurt anyone, and I couldn't let myself be hurt. That's why...  
 **Kiyoka:** I'm so... Useless. I was... Abandoned by Koryuu Kagemitsu. That's why, all of this, is my fault...  
 **Mihono:** Kiyoka\! Get back\!  
-**Kiyoka:** Eh...\!?  
+**Kiyoka:** Eh...\!\?  
 **Kiyoka:** (Oh no... I got lost in thought...\!)  
 *Suzuka cuts Mihono*
 
   
 **Mihono:** Gh... No good\! That's too many hits... I can't keep utsushi up anymore...\! I'm exhausted... I can't... Focus. Dammit\!  
-**Kiyoka:** (Asakura-san... Can't keep up utsushi...\!? Then... The next hit she takes... Asakura-san will die...)  
+**Kiyoka:** (Asakura-san... Can't keep up utsushi...\!\? Then... The next hit she takes... Asakura-san will die...)  
 **Kiyoka:** (Shichinosato-san ran away to fight aradama... Setouchi-san already lost her utsushi...)  
 **Kiyoka:** (All this, just to protect someone useless like me... They'll all die... No..)  
 **Suzuka:** In the end, you're only commonplace toji... How pathetic, investigation team. So you won't disrupt us any further, I'll put an end to you here...  
@@ -193,7 +189,7 @@
   
 **Suzuka:** Yomi, at a time like this...? What is it? .........A message from headquarters... Yes... I understand.  
 **Suzuka:** Maki-san, it seems we'll have to stop here. Along with Renpu's President Takatsu, Ayanokouji's President Souraku has now demanded that we do not take aggressive action against the investigation team.  
-**Maki:** What does that mean... Why would Ayanokouji Martial Arts School go out of it's way...? Kitora Mirja... What did you do\!?  
+**Maki:** What does that mean... Why would Ayanokouji Martial Arts School go out of it's way...? Kitora Mirja... What did you do\!\?  
 **Mirja:** I'm glad our phones get signal up in these mountains. That's what saved us.  
 **Suzuka:** ...You're kidding. While we were fighting, you managed to call for help?  
 **Mirja:** Heh... A swordfight isn't always won with swords. That's all.  
@@ -238,7 +234,7 @@
 **Mihono:** You were amazing back there\! You managed to hold back the elite guard by yourself\!  
 **Kiyoka:** But... I'm really, still just useless. Even then, I was so scared... I could barely bring myself to fight.  
 **Kiyoka:** Ah... But, I'm glad... Asakura-san, you called me Kiyoka just now, didn't you?  
-**Mihono:** Eh? Ahhh\!? Sorry\! I got carried away\!  
+**Mihono:** Eh? Ahhh\!\? Sorry\! I got carried away\!  
 **Kiyoka:** And when you were fighting back there, for a moment, you called me Kiyoka too...  
 **Mihono:** Ahhhhhhh\! I'm so sorry\! I got too familiar with you, didn't I\!  
 **Kiyoka:** Fufu... You just keep apologizing. But I really am happy. It feels like, I got a little closer to you.  

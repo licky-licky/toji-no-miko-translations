@@ -1,13 +1,9 @@
 
 Kitora Mirja Episodes
 =====================
+https://www.youtube.com/watch?v=0nwUhaRIgmI
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/0nwUhaRIgmI" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/N8q9gtW9xcY
 
   
@@ -116,7 +112,7 @@ On the day of a fight against aradama---
 **Hina:** No use hiding it\! You keep up that poker face, but your eyes keep racing all over.  
 **Hina:** Like they just can't settle on any one thing in here.  
 **Mirja:** ...Asakura Mihono.  
-**Mihono:** Y-Yes\!?  
+**Mihono:** Y-Yes\!\?  
 **Mirja:** I will take care of the customers. You should head into the back with the others and help Aoto Youji-san take inventory.  
 **Mihono:** Uh, okay\!  
 **Hina:** Mihono-chan\! If my pa's slacking off, give him a good kick for me\! ...So now, Mirja-san\~.  
@@ -139,7 +135,7 @@ On the day of a fight against aradama---
 **Mirja:** It's important not only to bring out the beauty, but the highest sharpness of the blade as well. In that regard, I can't help but scowl when I come across a crack in the edge.  
 **Mirja:** ...I have to apologize. I may have been projecting too much, and for that I'm sorry. You see, in the past, I aspired to become a sword polisher as well...  
 **Mirja:** To tell you the truth, even my Jikkyuu Mitsutada was an Akabane sword I personally restored...  
-**Hina:** Whoa, really\!? That's so cool\! Let me take a look...  
+**Hina:** Whoa, really\!\? That's so cool\! Let me take a look...  
 **Matsunaga Yurina:** ...Excuse me.  
 **Matsunaga Yurina:** ...Umm.  
 **Matsunaga Yurina:** ...I'd like to buy something.  
@@ -178,7 +174,7 @@ On the day of a fight against aradama---
 **Nao:** (Chew Chew)  
 **Kinuka:** Umm, well, I'll just deploy another attacker orange... Uh? Now where'd the blocker go?  
 **Mirja:** (Chew Chew)  
-**Kinuka:** That's strange... Huh? I lost another attacker\!? Ah...\! Nao-san\! Don't eat them\!  
+**Kinuka:** That's strange... Huh? I lost another attacker\!\? Ah...\! Nao-san\! Don't eat them\!  
 **Nao:** I just can't help it (Chew Chew), when you put an orange in front of me like that (Chew Chew), it's hopeless\~ (Swallow)  
 **Mirja:** Uraga Nao (Chew Chew), don't you have any self control? No matter how much you (Chew) love them, the explanation cannot continue   
 (Chew) if you keep eating them (Chew Chew).
@@ -294,13 +290,13 @@ https://youtu.be/vrh9FfXuL1I
 **Mirja:** That's how it is.  
 **Yui:** Hyaa\~\! I'm so excited\~\!\!  
 **Mirja:** Yamashiro Yui, I propose we take measures to avoid splitting up any further. Put out your hand.  
-**Yui:** Y-You don't mean...\!?  
+**Yui:** Y-You don't mean...\!\?  
 **Mirja:** We'll hold hands.  
 **Yui:** Ahh, give me a second, give me a second pleaseee\! I'll take my glove off right now\!  
 **Yui:** Wh-What do I do about my hand sweating... Ahh, Mirja-san's hand, it's so rough... Wait, you're wearing a glove\!  
 **Mirja:** Will you please wear a glove as well? Your hand will get frostbite.  
 **Mirja:** After you put your glove back on, we'll get in line to visit the shrine.  
-**Yui:** Wha-- You mean that line that looks like it'll for sure take an hour to get through\!? You know that lovers always break up because of long waits in lines, don't you\!?  
+**Yui:** Wha-- You mean that line that looks like it'll for sure take an hour to get through\!\? You know that lovers always break up because of long waits in lines, don't you\!\?  
 **Mirja:** We came here to make our first shrine visit, so of course I do. And also, where did you learn that statistic?  
 **Yui:** From my own research\!  
 **Yui:** And so, for the sake of our future together, we should go draw our fortunes first\!  
@@ -308,18 +304,18 @@ https://youtu.be/vrh9FfXuL1I
 **Mirja:** Is the short performance over now? If so, let's draw our fortune slips.	[The term Mirja uses, koshibai, literally small play, refers to plays that were too small to be performed in theaters and were traditionally held at shrines.]  
 **Mirja:** Hm, mine reads "great fortune". That's how it is then.  
 **Yui:** You got a great fortune, Mirja-san? Since I'm a fortune drawing pro, I'll do it too\!  
-**Yui:** There-\! ...Wait, "great misfortune"\!?  
-**Yui:** Wh-Wh-Wh-What do we do about this, Mirja-san\!?  
+**Yui:** There-\! ...Wait, "great misfortune"\!\?  
+**Yui:** Wh-Wh-Wh-What do we do about this, Mirja-san\!\?  
 **Mirja:** Calm down, Yamashiro Yui. At this shrine, they have an offering box where you can deposit misfortune and great misfortune slips.  
 **Mirja:** After doing that, your great misfortune is meant to turn into great strength.  
 **Yui:** I'll go put my great misfortune in the box right away\!  
 **Mirja:** If you run, you'll trip and fall.  
-**Yui:** Don't worry\! A toji wouldn't trip-- WAGH-\!?  
+**Yui:** Don't worry\! A toji wouldn't trip-- WAGH-\!\?  
 **Mirja:** Just as I was telling you... Yamashiro Yui, is your leg alright?  
-**Yui:** Mirja-san is stroking my leg...\! Is this my great strength already taking effect\!?  
+**Yui:** Mirja-san is stroking my leg...\! Is this my great strength already taking effect\!\?  
 **Mirja:** What are you even saying?  
 **Mirja:** ...Achoo. It's getting slightly colder, isn't it. After you've deposited your great misfortune slip, let's go warm ourselves up some.  
-**Yui:** Eh-\!? You're going to warm me up... Where are you planning on taking me\!?  
+**Yui:** Eh-\!\? You're going to warm me up... Where are you planning on taking me\!\?  
 
 ## [New Year's Mirja: End]: Prayer
 **Mirja:** Sweet sake truly does warm you up, doesn't it.  
@@ -351,14 +347,14 @@ https://youtu.be/vrh9FfXuL1I
 **Mirja:** Ahh, you have a point. Thinking on it, rather than a wish, it might be more of a promise I plan to impose on myself.   
 **Yui:** I like that about you too\!  
 **Mirja:** I have high expectations that the investigation team will be able to become an even better team.  
-**Yui:** She just kept going\!?  
+**Yui:** She just kept going\!\?  
 **Mirja:** I hope that this will be another good year.  
 https://youtu.be/Y6ff2yewfcQ
 
   
 
 ## [Halloween 19 - Mirja: Start]: Kaiju Mirja?
-**Yui:** Mirja-san, are you going to be debuting on the silver screen\!?  
+**Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  
 **Mirja:** Calm yourself, Yamashiro Yui. Do you remember before, when Itomi Sayaka appeared in that film?  
 **Kofuki:** Oh yeah, that happened, didn't it. It was that time with the historical drama thing, right?  
 **Yui:** If you mean that, I remember it too\! Sayaka-chan was extra cute back then, wasn't she\!  
@@ -371,11 +367,11 @@ https://youtu.be/Y6ff2yewfcQ
 **Yui:** Anyway, I'm 100% going to go see it, Mirja-san\! I'll see it 7 million 7 hundred and 70 thousand times\!  
 **Yui:** Actually, when are they filming it\! I want to go watch\!  
 **Mirja:** On Halloween day.  
-**Yui:** Halloween day\!?  
+**Yui:** Halloween day\!\?  
 **Yui:** That's when I was supposed to go with Kanami-chan and them to their Halloween event...  
 **Yui:** Gununu... Do I go see Kanami-chan and Hiyori-chan in their costumes, or do I go see Mirja-san...  
 **Mirja:** I should mention, along with myself, Itomi Sayaka and Iwakura Sanae will also be performing.  
-**Yui:** Sayaka-chan and Sanae-san too\!? B-Both of them are hard to pass up...  
+**Yui:** Sayaka-chan and Sanae-san too\!\? B-Both of them are hard to pass up...  
 **Kofuki:** You're making a pretty funny face now, y'know?  
 **Yui:** How can I choose though\!  
 **Mirja:** No matter how much you puzzle over it, I won't bring you with me. This is work.  
@@ -423,7 +419,7 @@ On the day of filming.
 **Mirja:** You demon cat... I-I'll destroy you here\!  
 **Sanae:** You can go ahead and try, nya\!  
 **Mirja:** (Iwakura Sanae comes rushing in... I fight back with the candlestick I'm holding.)  
-**Sanae:** Unyaa\!?  
+**Sanae:** Unyaa\!\?  
 **Mirja:** It's afraid of the flames...? Then\!  
 **Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!)  
 **Sanae:** UNYAAAAAAAAAA\!\! I'LL REMEMBER THIS, NYAAAAA\!\!  
@@ -467,8 +463,8 @@ On a day off...
 **Yui:** That's because... I couldn't sleep much last night, and I didn't eat breakfast either...  
 **Mirja:** Honestly... Here, have this.  
 **Yui:** Is that ramune? Thanks......  
-**Yui:** PFHAGH\!?  
-**Yui:** What's with this\!? It's sweet and sour and bitter and solid and salty and sourly sour\!?  
+**Yui:** PFHAGH\!\?  
+**Yui:** What's with this\!\? It's sweet and sour and bitter and solid and salty and sourly sour\!\?  
 **Mirja:** It's the ramune Ban Tsugumi gave me to combat the summer heat.  
 **Yui:** Kn-Knowing that it's Tsugumi-san's... I'm not surprised it's awful...  
 **Mirja:** ...It looks like it was a little overwhelming.  
@@ -495,22 +491,22 @@ On a day off...
 **Yui:** We should've brought a fishing rod with us. If there were that many fish, we might've been able to go all out for our lunch.  
 **Mirja:** True, we potentially could have, though... As beginners, I'm not sure how many we would be able to fish out...  
 **Yui:** Well, forget about that for now; hurry up and come in the water\!  
-**Mirja:** Alright then... Mm\!?  
+**Mirja:** Alright then... Mm\!\?  
 **Yui:** What's wrong?  
 **Mirja:** Just now, a spider went drifting by.  
-**Yui:** A spider\!?  
-**Yui:** Wh-Wh-Wh-Where was it\!?  
+**Yui:** A spider\!\?  
+**Yui:** Wh-Wh-Wh-Where was it\!\?  
 **Mirja:** It's about to pass right in front of you.  
 **Yui:** Eh? ...GYAAAAAAAAAAAAAAAA\!  
 **Yui:** Mirja-san, there's a spider\! A spider\!  
 **Mirja:** It isn't a venomous spider, so you shouldn't worry. It won't harm you.  
 **Yui:** That doesn't help\! There's no maiden in the world who'd keep calm with a spider in front of their face\!  
-**Yui:** Can I hug onto you for safety\!?  
+**Yui:** Can I hug onto you for safety\!\?  
 **Mirja:** Absolutely not.  
-**Yui:** Looking around more, there sure are a lot of bugs... Eep\!?  
+**Yui:** Looking around more, there sure are a lot of bugs... Eep\!\?  
 **Mirja:** We are out in nature, so that's only natural.  
 **Mirja:** Phew, that was a good rest. Now then, to continue our stroll.  
-**Yui:** You aren't getting in after all\!?  
+**Yui:** You aren't getting in after all\!\?  
 **Yui:** You were just toying with me, Mirja-san\~\! But, you treating me like that feels pretty nice too\!  
 **Mirja:** ...What are you talking about? I'll leave you behind.  
 **Yui:** Wait for meee\~\!  
@@ -520,7 +516,7 @@ https://youtu.be/f6NzJE7uOCo
 
 ## [Mahouka - Mirja: Start]: Mirja and Mayumi
 **Mirja:** ...I see, so that's what kind of magic you have, Saegusa Mayumi.  
-**Mayumi:** That's it. At the Nine Schools Competition, I finished with a perfect bullseye. With a "bang\!"  
+**Mayumi:** That's it. At the Nine Schools Competition, I finished with a perfect bullseye. With a "bang\!\"  
 **Mirja:** Going back, what is this Nine Schools Competition?  
 **Mayumi:** Ah, that's right, you wouldn't have a Nine Schools Competition here.  
 **Mayumi:** If I say it's... a competitive magic tournament, does that make it easy to picture?  
@@ -560,9 +556,9 @@ https://youtu.be/f6NzJE7uOCo
 **Aradama:** GGGGGOOOOOUUUUU\!\!  
 **Mirja:** -\! Saegusa Mayumi\!  
 **Mayumi:** Of course.  
-**Aradama:** GUOOO\!?  
-**Aradama:** GYAAA\!?  
-**Aradama:** OOOOO\!?  
+**Aradama:** GUOOO\!\?  
+**Aradama:** GYAAA\!\?  
+**Aradama:** OOOOO\!\?  
 **Mirja:** She took care of three simultaneously..  
 **Mayumi:** Two more are coming from the front, and another three from the right hand side. I'll pin them down, so could you please finish off those three?  
 **Mirja:** I'm on it\!  
@@ -600,7 +596,7 @@ https://streamable.com/nprbpr
 **Mirja:** Morishita Kihiro and Haji Keiko. You three make a rare group.  
 **Kihiro:** You might be right there\!  
 **Kihiro:** Though, despite myself coming from the equipment department and Miss Haji from the engineering preparatory department, we've long since deepened our friendship\!  
-**Keiko:** Eh\!?  
+**Keiko:** Eh\!\?  
 **Kihiro:** But you're right that we have little in common with Miss Yamashiro here\! ...What seems to be the matter, Miss Haji?  
 **Keiko:** I-It's... nothing.  
 **Keiko:** (Deepened... our friendship...?)  
@@ -638,11 +634,11 @@ https://streamable.com/nprbpr
 **Mirja:** Firstly, as I'm in charge of reaching out to visitors...  
 **Kihiro:** Ahh, we lied about that.  
 **Mirja:** Huh?  
-**Yui:** Hey\!? It's too soon to spill the beans\!\!  
+**Yui:** Hey\!\? It's too soon to spill the beans\!\!  
 **Mirja:** ...Too soon to spill the beans. And what do you mean by that, Yamashiro Yui?  
 **Yui:** Well, uh, we didn't lie so much, Mirja-san. Loosely speaking, we do want you attracting visitors...  
 **Mirja:** Haji Keiko?  
-**Keiko:** M-Me\!?  
+**Keiko:** M-Me\!\?  
 **Kihiro:** Please don't glare at Miss Haji like that, Miss Kitora. She was saying we should give a proper explanation until the bitter end.  
 **Mirja:** ...Right, I think I have an idea of what's going on. Yamashiro Yui is behind this, isn't she?  
 **Yui:** Teheh.  

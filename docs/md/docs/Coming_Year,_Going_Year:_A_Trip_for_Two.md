@@ -16,7 +16,7 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Chie:** Slow down, Mihono-chan\! Honestly, if we missed this train, we could have just caught the next one. Why are you in such a rush?  
 **Mihono:** That's cause, I get to go on a big trip with Chii-nee, of course\! There's a whole bunch of things I want to do, so I want to follow the schedule exactly.  
 **Mihono:** Ah\! That reminds me. These are our schedules for this trip. This one's for you, Chii-nee.  
-**Chie:** You made these yourself\!? They're thick too, aren't they...  
+**Chie:** You made these yourself\!\? They're thick too, aren't they...  
 **Mihono:** Ehehe. Once I started writing down all the places I wanted to see and the things I wanted to do, it started getting really long.  
 **Chie:** Fufu. Well, thank you for going to the trouble. And also, this schedule is so detailed, isn't it? You have what we'll be doing divided down to the minutes.  
 **Mihono:** I thought we'd get through every one of my goals for the trip, so it ended up being tighter than I expected. But, when it's us two, where there's a will, there's a way\! Right?  
@@ -47,10 +47,10 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Mihono:** ...Chii-nee sure is taking a while. I wonder if she's still on the phone...  
 **Chie:** Mihono-chan, sorry I took so long\! I bought ice cream from the train. Let's have it together.  
 **Mihono:** Awesome-\! Thanks, Chii-nee\! I'll dig right in...  
-**Mihono:** Wait, huh\!? The ice cream's so frozen my spoon won't go in\!   
+**Mihono:** Wait, huh\!\? The ice cream's so frozen my spoon won't go in\!   
 **Chie:** Fufu, you're right. It's a frozen as ice. We'll have to warm it up so it gets softer.  
 **Chie:** \~\~\! So cold\!   
-**Chie:** \!? Mihono-chan? You didn't have to take a picture now...  
+**Chie:** \!\? Mihono-chan? You didn't have to take a picture now...  
 **Mihono:** But, isn't getting to see you warming up ice cream with your hands the kind of thing you'd see on a trip?  
 **Chie:** Honestly... Then, at least take it with the both of us. Just set it on a timer, and...  
 **Chie:** Oh, the ice cream's melting\! Mihono-chan, here you go.  
@@ -65,11 +65,11 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Chie:** Aradama\! For them to be here of all places.  
 **Mihono:** And our trip's barely even started\! We have to get rid of them quick, so we can make a bunch of memories like we planned on\!  
 
-## 2: It's Hard Sticking to the Schedule\!?
+## 2: It's Hard Sticking to the Schedule\!\?
 **Mihono:** Phew, we beat the aradama, so let's get our trip back on track\!  
 **Chie:** First, we need to try the limited offer mitarashi dango they sell at the station...  
-**Chie:** Oh no; they're all sold out for today\!?  
-**Mihono:** Eh-\!? But...  
+**Chie:** Oh no; they're all sold out for today\!\?  
+**Mihono:** Eh-\!\? But...  
 **Shopkeeper:** Sorry about that, we just sold out. If you'd been here five minutes sooner...  
 **Mihono:** Uuu... Just five minutes... If only those aradama weren't here...  
 **Chie:** There's nothing we can do about it. Even if we are off duty, it's still a toji's responsibility to suppress aradama.  
@@ -85,19 +85,19 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Chie:** Kiyoka-chan, Sanae-chan\! You two were on an expedition, weren't you? Did you finish that up already?  
 **Sanae:** Yes. We managed to take care of it sooner than expected, so I talked with Musumi-san about doing a little sightseeing before we went back.  
 **Kiyoka:** If you take the bus from in front of the station, you can get to a a lake with a power spot that's secretly famous.  
-**Mihono:** For real\!? That wasn't in any of the guidebooks I read, but it sounds cool\! Chii-nee, do you want to go check it out too?  
+**Mihono:** For real\!\? That wasn't in any of the guidebooks I read, but it sounds cool\! Chii-nee, do you want to go check it out too?  
 **Chie:** Sure\! Having a spur of the moment change of plans is part of the thrill of going on a trip. Let's go see\!  
 **Sanae:** If we're all going, then let's hurry over to the bus stop. The bus only comes twice per day, so we have to be careful not to miss it.  
 **Mihono:** This place is that rare, huh\! I'm getting excited; it's like we're going exploring\!  
 **Aradama:** Guooooooo...  
-**Mihono:** Eh-\!? More aradama\!? This time for sure, I won't let them ruin our trip\!  
+**Mihono:** Eh-\!\? More aradama\!\? This time for sure, I won't let them ruin our trip\!  
 **Kiyoka:** Let's all fight our best, to get to that power spot\!  
 **Chie:** Here I go\! HAA\!  
 **Sanae:** TAAAAAAH\!  
 **Kiyoka:** Pant, pant... No matter how many we defeat, more are appearing... This might be too much for the four of us...  
 **Mihono:** Uuu... We're running out of time doing this too-\!  
 **Maki:** We'll be backing you up\!  
-**Sanae:** Shidou-senpai\!?  
+**Sanae:** Shidou-senpai\!\?  
 **Mihono:** And Tsubakuro-san too\!  
 **Yume:** Kyahaha. Looks like I'll be able to beat a whole ton of them here\!  
 **Yume:** EIII---\!  
@@ -174,7 +174,7 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Chie:** Mihono-chan, come lie here on this futon for a minute.  
 **Mihono:** Eh? What's this for, Chii-nee?  
 **Chie:** You must be tired from running around since this morning, right? I'll give you a massage.  
-**Mihono:** Ehh\!? You will?  
+**Mihono:** Ehh\!\? You will?  
 **Chie:** Fufu, of course I will. It's a show of my appreciation for all the fun places you took me to. Here, lie down.  
 **Mihono:** If you say so, then...  
 **Mihono:** ...Ahh... That feels so good\~.  
@@ -193,13 +193,13 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Mihono:** [sleep mumbling]...  
 **Mihono:** Nn...?  
 **Mihono:** WAHH------\!\!  
-**Mihono:** (No way-\! I fell asleep\!?)  
+**Mihono:** (No way-\! I fell asleep\!\?)  
 **Mihono:** (What do I do now; we might not make it for the most important part of this trip--\!\!)  
 https://youtu.be/XL33MXyxw44?t=994
 
   
 
-## 5: Will We Make to the Main Event\!?
+## 5: Will We Make to the Main Event\!\?
 **Chie:** ......? Mihono-chan? What's the matter? It's still pitch dark outside...  
 **Mihono:** Chii-nee, get up\! If we don't get out there soon, the first sunrise'll happen\!  
 **Chie:** If you want to see the sunrise, we can do it from the window here, you know.  
@@ -298,8 +298,8 @@ On New Year's Eve. Partway through Mihono and Chie's trip together, they happene
 **Mihono:** Like this? Banzai-\!  
 **Kiyoka:** Yeah, that's great, Hono-chan\! Though, you still had your phone in your hand... Next, how about you stay just like that, but hold each other's hands?  
 **Mihono:** That might look good\! Come on, hold my hand, Chii-nee\! Yayyy\!  
-**Mihono:** WAH---- What do I do\!? I dropped my phone\!  
-**Chie:** Eh-\!? You mean right now, when we held hands?  
+**Mihono:** WAH---- What do I do\!\? I dropped my phone\!  
+**Chie:** Eh-\!\? You mean right now, when we held hands?  
 **Mihono:** I think so. It's not on the floor here, so don't tell me...  
 **Yume:** You were swinging your hands all around, Onee-san, so I think it might've fallen all the way off the deck.  
 **Mihono:** No way...  
@@ -325,7 +325,7 @@ On New Year's Eve. Partway through Mihono and Chie's trip together, they happene
 **Chie:** You might not have been able to notice in the panic after you dropped it. But, I'm glad to see you're back to your happy self, Mihono-chan.  
 **Sanae:** By the way, your phone has been ringing for a while, hasn't it? Who's trying to get a hold of you?  
 **Mihono:** Ahhh\! Yui sent me all these texts\!  
-**Kiyoka:** "Where's those lovey dovey shots of you two you promised?" "The sun is already setting" "Hurry up-\!" it says. Do you have to text her back?  
+**Kiyoka:** "Where's those lovey dovey shots of you two you promised?" "The sun is already setting" "Hurry up-\!\" it says. Do you have to text her back?  
 **Mihono:** That reminds me, I did promise I'd send her pictures of Chii-nee and me together.  
 **Mihono:** But, all I took were normal pictures of us having fun sightseeing, so it's probably not anything like what Yui's expecting.  
 **Kiyoka:** Fufu, in that case, I'll take one for you now. Hono-chan, hug up nice and close against Setouchi-san. Press your cheeks together too, and it'll look extra lovey dovey\!  

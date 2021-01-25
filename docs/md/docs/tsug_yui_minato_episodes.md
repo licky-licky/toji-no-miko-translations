@@ -7,10 +7,10 @@ https://streamable.com/0lxsgf
 
 ## [Bride - Tsugumi: Start]: Undercover Investigation (Tsugumi's Case)
 **Tsugumi:** Shichinosato-san, we have a mission.  
-**Kofuki:** Where's the aradama-chan at\!? I'll take care of all of 'em\!\!  
+**Kofuki:** Where's the aradama-chan at\!\? I'll take care of all of 'em\!\!  
 **Tsugumi:** Yes, I can tell you're excited.  
 **Tsugumi:** By the way, this mission will require you to wear a wedding dress.  
-**Kofuki:** Alright\! Leave it to... Huh? A wedding dress\!?  
+**Kofuki:** Alright\! Leave it to... Huh? A wedding dress\!\?  
 **Tsugumi:** This is one of those so-called undercover investigations. Shichinosato-san will act as a bride to lure out aradama.  
 **Tsugumi:** You get to have all the aradama to yourself, so this is truly the perfect assignment for you.  
 **Kofuki:** ...Not doing it.  
@@ -30,7 +30,7 @@ https://streamable.com/0lxsgf
 **Tsugumi:** Out of the question. I would have an overwhelming disadvantage in that. Let's decide this fairly.  
 **Kofuki:** Like how?  
 **Tsugumi:** In speed-eating. I have lots of pre-made food here.  
-**Kofuki:** What part of that's fair\!? You trying to kill me\!?  
+**Kofuki:** What part of that's fair\!\? You trying to kill me\!\?  
 **Tsugumi:** I'm well aware that no one besides myself has a taste for my cooking... Even if I refuse to accept it.  
 **Tsugumi:** Though, that alone shows how serious I am here.  
 **Kofuki:** You're real freaky, y'know... If you want to do this fair and square, why don't we just do rock paper scissors?  
@@ -45,11 +45,11 @@ https://streamable.com/0lxsgf
 **Chapel Staff:** You'd like a cute wedding dress...?  
 **Tsugumi:** No, please get me an ordinary one.  
 **Kofuki:** No way; this is a big opportunity, right? It'd be way better to wear something she normally wouldn't.  
-**Tsugumi:** Shichinosato-san\!?  
+**Tsugumi:** Shichinosato-san\!\?  
 **Kofuki:** You know, like, all frilly and stuff, and one that shows a lot of leg too\!  
 **Tsugumi:** Th-They wouldn't have a wedding dress like that...  
 **Chapel Staff:** Frills... Legs... Ah, right, we do have one like that.  
-**Tsugumi:** They do\!?  
+**Tsugumi:** They do\!\?  
 **Kofuki:** Cool, then get it for us\!  
 **Tsugumi:** ......  
 **Kofuki:** Ahahahahahahaha\!\!  
@@ -64,7 +64,7 @@ https://streamable.com/0lxsgf
 **Tsugumi:** And that's why, telling me you find it funny is... No, I suppose that's just how you are.  
 **Tsugumi:** Come on, let's begin the undercover investigation.  
 **Kofuki:** ...That skirt's even shorter than I thought. If you fought in that... They'd show, right?  
-**Tsugumi:** -\!?  
+**Tsugumi:** -\!\?  
 **Tsugumi:** Shichinosato-san...  
 **Kofuki:** I'm just joking; you don't have to get all mad-.  
 **Tsugumi:** Even I have things that embarrass me.  
@@ -85,12 +85,12 @@ https://streamable.com/v024ow
 **Yui:** ...  
 **Tsugumi:** ...  
 **Tsugumi:** ......Let's give it a try.  
-**Yui:** You mean it\!?  
+**Yui:** You mean it\!\?  
 **Tsugumi:** I should be able to get some interesting data out of it.  
 **Chie:** Journey to the West in VR?  
 **Tsugumi:** That's right.  
 **Tsugumi:** Though, as this is to collect data to improve the variation of future VR training, there will be no enemies.  
-**Kofuki:** Huh\!? There's not gonna be any aradama-chan\!? Then count me out\!  
+**Kofuki:** Huh\!\? There's not gonna be any aradama-chan\!\? Then count me out\!  
 **Kofuki:** I'm not into this stuff.  
 **Tsugumi:** I thought you would say that, Shichinosato-san. What will the rest of you do?  
 **Mirja:** I'll have to decline as well. I have plans after this.  
@@ -124,7 +124,7 @@ Several hours ago.
 **Yui:** Yes\!  
 **Yui:** I mean, you don't really have to take them off, but is it possible to tear up clothes when you take damage?  
 **Tsugumi:** ...  
-**Yui:** I-It's not like I'm thinking up anything indecent though\!?  
+**Yui:** I-It's not like I'm thinking up anything indecent though\!\?  
 **Yui:** It's just, it's easy to tell when you're taking damage when your clothes get ripped up, so I'm sure it'd help us focus on training more... Or something.  
 **Tsugumi:** I see; you want to see the bare skin of the toji you're training with.  
 **Yui:** Well, if I'm being honest, yeah.  
@@ -139,7 +139,7 @@ Several hours ago.
 **Yui:** I never thought this plan would go so smoothly...\!  
 **Yui:** This is what Chie-san's clothes feel like... Like grabbing onto thin air... What about the smell...\!  
 **Yui:** There's no smell\!\!  
-**Yui:** What's going on here, Tsugumi-san\!?  
+**Yui:** What's going on here, Tsugumi-san\!\?  
 **Tsugumi:** Even VR has its limits. We can't reproduce the sense of touch and smell.  
 **Yui:** The limits of science...\!  
 **Kiyoka:** ...You really were thinking up something weird.  
@@ -200,7 +200,7 @@ https://streamable.com/sn9k1d
 **Minato:** ...By the way, I've never seen your uniforms before. Where's it from?  
 **Minato:** It's not a school from around here, right?  
 **Shizuku:** It's the National Magic University Affiliated First High School.  
-**Honoka:** Sh-Shizuku\!? Was it really alright telling her?  
+**Honoka:** Sh-Shizuku\!\? Was it really alright telling her?  
 **Shizuku:** We already told Mihono and the others, so why bother now.  
 **Honoka:** Ah... You have a point.  
 **Minato:** ...Magic?  

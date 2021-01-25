@@ -5,7 +5,7 @@ https://youtu.be/2aeYuGyp6Rs
 
   
 
-## 1: Forming an Idol Unit\!?
+## 1: Forming an Idol Unit\!\?
 One day, after school, Mihono was called into the office.
 
   
@@ -14,8 +14,8 @@ One day, after school, Mihono was called into the office.
 **Maki:** That's right. You know the Five Tradtion's Unified Cultural Festival will be held soon, don't you?  
 **Mihono:** Yeah, even we're talking about it a whole bunch. Like, what it's going to be like this year.  
 **Maki:** On stage at the cultural festival, they'd like for there to be a performance with singing and dancing-- which you'll be in charge of.  
-**Mihono:** H... HUHHHHHHHHHH\~\~\!? I'll be on stage?  
-**Mihono:** Wait, and singing and dancing... Is that like an idol\!?  
+**Mihono:** H... HUHHHHHHHHHH\~\~\!\? I'll be on stage?  
+**Mihono:** Wait, and singing and dancing... Is that like an idol\!\?  
 **Maki:** It's reasonable to be shocked hearing this. But, this request comes with a legitimate purpose behind it.  
 **Maki:** For us to continue our work as toji, it's vital that we have the people's understanding on our side.  
 **Maki:** We can't be an unapproachable organization. Don't you think we need to show our friendly side sometimes, planning things like this to improve our image?  
@@ -39,7 +39,7 @@ One day, after school, Mihono was called into the office.
 **Mihono:** Heheh. That's because I want to be the center of our idol group\! That means I've gotta be the leader, right?  
 **Mirja:** Asakura Mihono has an appeal that draws people in. She would be an ideal leader for idol activities.  
 **Yui:** That's for sure-. Though, I feel like, deciding on the center is a totally different issue.  
-**Mihono:** You mean you don't think I'm good enough to be the center\!?  
+**Mihono:** You mean you don't think I'm good enough to be the center\!\?  
 **Mihono:** Uuuu, I'll have to work hard to build up your faith in me first...  
 **Chie:** For now, let's use our free time starting today to do singing and dance lessons.  
 **Tsugumi:** We still have our usual missions to take care of, so this could get busy.  
@@ -47,7 +47,7 @@ One day, after school, Mihono was called into the office.
 **Mihono:** We should?  
 **Mirja:** Yes. I can imagine a large difference in the excitement at our performance depending on how well our name is known. Which is why it's essential for us to prepare a space to announce our unit's formation.  
 **Mirja:** To that end, this may sound sudden, but we should begin planning our debut live. As soon as we settle on the details, we will make an announcement and carry it out.  
-**Kiyoka:** Ehh\!? A-Already\!?  
+**Kiyoka:** Ehh\!\? A-Already\!\?  
 **Kofuki:** Why bother doing anything we don't have to-? You're making more work for me here too.  
 **Kiyoka:** (I-I still don't feel prepared for this at all either...)  
 **Kiyoka:** (How is this going to go for us...?)  
@@ -71,7 +71,7 @@ Mihono and the others spent days doing idol activites alongside their usual arad
 **Chie:** As soon as she makes up her mind, Mihono-chan's motto is to leap before she looks. I'll have to work hard too, as her onee-san.  
 **Yui:** One, two... Ah, I did it really good just then\! I think I'm getting a lot more used to dancing-.  
 **Tsugumi:** That's true. At this pace, we could be plenty ready for the main performance--  
-**Kiyoka:** KYAA...\!?  
+**Kiyoka:** KYAA...\!\?  
 **Mihono:** Kiyoka\! Are you okay?  
 **Kiyoka:** I-I'm sorry. I can't follow the choreography right for some reason...  
 **Kofuki:** You're stiffening up too much, Kiyoka. This part's not really that hard, so just take it easy.  
@@ -111,7 +111,7 @@ To get ideas for arranging the outfits, Kiyoka and Mihono went window shopping.
 **Mihono:** It really feels girly\~, y'know? What do you think about making our outfits more like that?  
 **Kiyoka:** I do think it's cute, but... With Mirja-san wearing them too, I think it might be better for our outfits to be a little more adult.  
 **Mihono:** Hmhm, I got it. Then, how about the clothes over there?  
-**Mihono:** It has that, "grown up woman\!" feeling to it. Isn't that cool?  
+**Mihono:** It has that, "grown up woman\!\" feeling to it. Isn't that cool?  
 **Kiyoka:** You're right. Mirja-san or Chie-san would probably look great in it. I think would shine on stage too.  
 **Kiyoka:** But... This time, I feel like it might not look quite as good on the two of us.　Kind of like we're trying too hard.  
 **Mihono:** Mmm, you have a point...  
@@ -164,7 +164,7 @@ With the help of the other members, their debut live managed to be a hit.
 **Mihono:** Great work, guys-\! Thanks for giving it your all\!  
 **Mirja:** The audience was very excited as well. If we continue with this practice, I think we'll be able to put on an even better performance at the main stage.  
 **Mihono:** All we've gotta do for the cultural festival is keep on practicing, right\! ...Wait, hang on?  
-**Mihono:** I got a text on my phone... H-Huhhh\!?  
+**Mihono:** I got a text on my phone... H-Huhhh\!\?  
 **Chie:** What is it, Mihono-chan?  
 **Mihono:** Chii-nee... See, it's not just us who's going to be idols at the cultural festival...  
 **Mihono:** Kanami and the members of the elite guard have started doing it too...\!  
@@ -198,7 +198,7 @@ The next day--
 **Mihono:** (I had a lot of fun at yesterday's show, and I thought we put in a really good effort...)  
 **Mihono:** (I guess we really do still have a long ways to go...)  
 **Kanami:** Mihono-chan, you in here?  
-**Kanami:** Wait, you're having a meeting\!? Sorry...\!  
+**Kanami:** Wait, you're having a meeting\!\? Sorry...\!  
 **Mihono:** What'd you need, Kanami?  
 **Chie:** It's alright, come on in.  
 **Kanami:** Thanks. Then, I'll only take a minute.  
@@ -265,7 +265,7 @@ When the next day's lessons were starting.
 **Mihono:** Nnn, but, is there one...  
 **Mihono:** Ah-\!  
 **Mihono:** Hey, everybody\! I just thought this up, but--  
-**Mihono:** What if, when we were dancing on stage, we used some toji techniques\!?  
+**Mihono:** What if, when we were dancing on stage, we used some toji techniques\!\?  
 **Kiyoka:** Used them... Like, how exactly?  
 **Mihono:** Like, if we used jin'i to move really fast\!  
 **Mirja:** I see. A dance applying toji powers would certainly draw attention.  
@@ -284,8 +284,8 @@ When the next day's lessons were starting.
 **Mihono:** That's cause I want to be idols with you\!  
 **Mihono:** Alright, let's get back to everyone fast and try this out\!  
 **Mihono:** Ready; here we go.  
-**Mihono:** Focus your mind, and... Uwahh\!?  
-**Chie:** Are you alright, Mihono-chan\!?  
+**Mihono:** Focus your mind, and... Uwahh\!\?  
+**Chie:** Are you alright, Mihono-chan\!\?  
 **Mihono:** Yeah... I should've known, dancing this part while holding onto an okatana is tough when you're not used to it.  
 **Mihono:** But, I'll keep trying... Where there's a will, there's a way\!  
 **Mihono:** If we can match the timing of our dancing, this'll...\!  
@@ -341,7 +341,7 @@ Mihono-chan and the others headed out before the audience, and their performance
 **Kanami:** That's not true at all\! They were just as excited to see you\!  
 **Mihono:** Nah, that's not it. You could tell right away just how much practice you guys have done.  
 **Mihono:** Compared to that... We've actually been practicing for a special move.  
-**Kanami:** Special move\!?  
+**Kanami:** Special move\!\?  
 **Mihono:** Yeah, a jin'i dance\! Though... it didn't work out in the end.  
 **Mihono:** But, if you dance together with the people you're really close with and reach out to each other, you'll definitely end up in perfect sync.  
 **Mihono:** We kinda took the long way getting here, but I finally get it.  
@@ -360,7 +360,7 @@ Mihono-chan and the others headed out before the audience, and their performance
 **Ellen:** I'm sure this'll be a good surprise\~.  
 **Kiyoka:** What do you think they're up to, Hono-chan?  
 **Mihono:** Hmm\~... Maybe Kanami's team's going to keep their live show going over here?  
-**Kofuki:** That's all you can come up with\!? The poster said it's a band event\!  
+**Kofuki:** That's all you can come up with\!\? The poster said it's a band event\!  
 **Yume:** Huh-? What're you onee-sans here for?  
 **Mihono:** Eh... Y-Yume-san?  
 **Suzuka:** Well now, all of you are here as well. It's good to see you.  
@@ -372,7 +372,7 @@ Mihono-chan and the others headed out before the audience, and their performance
 **Mihono:** Wait, does that mean...  
 **Suzuka:** Yes, we've formed a band. We'll be participating in this live show here.  
 **Yume:** We wanted to test our skills-. And, of course, we aren't planning on losing either\!  
-**Mihono:** Eh... EHHHHHHHHHHHH\~\!? The elite guard formed a band\!?  
+**Mihono:** Eh... EHHHHHHHHHHHH\~\!\? The elite guard formed a band\!\?  
 **Student 1:** Hey, did you go see the elite guard's band live yesterday?  
 **Student 2:** Of course I did\! It was just incredible\!  
 **Student 3:** They were all so skilled on their instruments that my ears were melting...  
@@ -429,7 +429,7 @@ Mihono-chan and the others headed out before the audience, and their performance
 **Tsugumi:** That's right, we'll be aiming to make use of the jin'i dance, won't we. And you called Etou-san and the others here to gather fresh data.  
 **Sanae:** A jin'i dance does sound kind of fun. Don't you think Juujou-san could be able to make it work?  
 **Hiyori:** Y-You think so?  
-**Mihono:** We're not doing the jin'i dance, okay\!?  
+**Mihono:** We're not doing the jin'i dance, okay\!\?  
 **Mihono:** ...Umm, I think everybody here heard the elite guard's music performance, but it was pretty great, wasn't it?  
 **Mihono:** All of us want to make the show a success, and have everybody clapping and smiling for us, and everybody talking about us the next day at school, right\!\!  
 **Mai:** That would be great, but... How are we going to go about doing that?  
@@ -510,7 +510,7 @@ On the first day of the training camp--
 **Chie:** That's true. Between all the girls here, I think Mihono-chan and Etou-san have the best coordination.  
 **Chie:** Though, everyone else was working together much better during the fight just now...  
 **Chie:** But I think you two should be our center during the cultural festival.  
-**Mihono:** Eh\!? Y... You're fine with that?  
+**Mihono:** Eh\!\? Y... You're fine with that?  
 **Chie:** Of course I am, but you wanted to do it yourself, didn't you, Mihono-chan?  
 **Mihono:** I did, but, I thought for sure we'd do auditions or something to decide the center.  
 **Kofuki:** It's not like anybody's against going with Mihocchi. I'd actually be annoyed if it came around to me.  
@@ -655,7 +655,7 @@ And so the day of the cultural festival came--
 **Mai:** That was a wonderful performance you gave, Mihono-chan.  
 **Mihono:** Eheheh, thanks, Mai\! It felt so good being out on stage too\!  
 **Ellen:** I think we have what it takes to be idols\! Should we all debut together?  
-**Yui:** Would that get us up close and personal with real idols\!?  
+**Yui:** Would that get us up close and personal with real idols\!\?  
 **Mirja:** When that time comes, we can leave Yamashiro Yui out of it.  
 **Yui:** You're so mean\~.  
 **Kiyoka:** Fufu.  
@@ -670,14 +670,14 @@ And so the day of the cultural festival came--
 **Kanami:** Shidou-san\! What brings you here?  
 **Maki:** We asked the visitors to vote on "which group hyped up the stage the most", and I came to share the results with you.  
 **Maki:** Congratulations, Asakura Mihono. The award goes to your group.  
-**Mihono:** E-EHHHH\~\~\!? Our group won\!?  
+**Mihono:** E-EHHHH\~\~\!\? Our group won\!\?  
 **Mihono:** We did it... We did it, Kanami\!\!  
 **Mihono:** Getting to stand on stage together was so much fun. Thanks so much for being there with me\!  
 **Kanami:** I feel the same way, Mihono-chan\!  
 **Yui:** That's crazy, that's crazy-\! I'm so glad we won\!\!  
 **Chie:** I really am glad to hear it\! This just goes to show how many smiles we put on people's faces\!  
 **Ellen:** There's no way we can't celebrate this, Chie\! Let's order an extra large cake to share\!  
-**Kaoru:** You're gonna order one now\!?  
+**Kaoru:** You're gonna order one now\!\?  
 **Mai:** Oh well, it is time to celebrate, isn't it?  
 **Kofuki:** Ugh. Well, I guess it doesn't feel too bad.  
 **Sayaka:** You're not being honest, Kofuki.  

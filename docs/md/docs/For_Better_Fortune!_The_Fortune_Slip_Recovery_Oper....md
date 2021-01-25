@@ -9,9 +9,9 @@ https://youtu.be/RRORlbc45gA?t=25m16s
 --New Year's at the Asakura Shrine. For the Asakura family, the busiest time of year has arrived.
 
   
-**Mihono:** Grandpa\! Is it just me, or are there a ton more visitors than last year\!?  
+**Mihono:** Grandpa\! Is it just me, or are there a ton more visitors than last year\!\?  
 **Asakura Yoshizumi:** I know... I'm surprised too. Who'd have guessed it'd work so well.  
-**Mihono:** Eh, you know why they're all here\!? The shrine's packed with people wanting fortune slips\!  
+**Mihono:** Eh, you know why they're all here\!\? The shrine's packed with people wanting fortune slips\!  
 **Yoshizumi:** You see, a friend of mine's a writer. He asked me if he could use our shrine as a location in his latest novel.  
 **Yoshizumi:** It went on sale not too long ago, and won some kind of big award. And now it's a hit that sold over a million copies.  
 **Yoshizumi:** In the story, the protagonist pays the Asakura Shrine a visit, and after he draws a fortune slip here, he starts turning his life around... So it's thanks to that that we're so popular this year.  
@@ -21,9 +21,9 @@ https://youtu.be/RRORlbc45gA?t=25m16s
 **Chie:** More importantly, if you don't refill the fortune slips you'll run out soon, won't you?  
 **Mihono:** You're right\! And the waiting line's still so long too... I'll go grab some real fast\!  
 **Chie:** Please do.  
-**Mihono:** Umm, I think we kept the fortune slips in the room out back... Nn? ...Ehhh\!?  
+**Mihono:** Umm, I think we kept the fortune slips in the room out back... Nn? ...Ehhh\!\?  
 **Aradama:** GYAAAAAAAAA\!  
-**Mihono:** Why'd an aradama have to show up now\!? Wait, it's getting into the bag of fortune slips\!  
+**Mihono:** Why'd an aradama have to show up now\!\? Wait, it's getting into the bag of fortune slips\!  
 **Mihono:** Just...  
 **Mihono:** Give that back-\!\!  
 **Aradama:** gyaaa...  
@@ -36,7 +36,7 @@ https://youtu.be/RRORlbc45gA?t=25m16s
 **Yui:** Ah, wait... If you're willing to do anything, then...\! If you just do one little favor for me, I might think about letting you have this blessing, you know?  
 **Yui:** So? What'll it be\~? Fu\~ Fu\~ Fu\~  
 **Mihono:** No, that's not what I meant\! That fortune slip came from here at the Asakura Shrine, and these aradama came and stole them\!  
-**Yui:** Ehh\!?  
+**Yui:** Ehh\!\?  
 **Mihono:** Please, Yui\! There might be other aradama with those fortune slips around where you are, so could you beat them and bring them back here?  
 **Mihono:** I'll head over there too\! And I'll give you a reward for helping me out\!  
 **Yui:** Hey now, Mihono-chan. We're closer than that, aren't we\~\! As soon as you asked, my answer was already OK\!  
@@ -57,7 +57,7 @@ https://youtu.be/RRORlbc45gA?t=25m16s
 **Yui:** Eh, what's that mean? Is it something we can only do in a special situation? I'm getting even more excited\~\!\!  
 **Kiyoka:** Yui-chan... I don't think she'll do what you're imagining.  
 **Yui:** Are you sure? How exactly do you know what I'm imagining anyway? What were you imagining, Kiyoka-chan?  
-**Kiyoka:** Fwaah\!?\!? I-I don't know\!\!  
+**Kiyoka:** Fwaah\!\?\!\? I-I don't know\!\!  
 **Mihono:** What are you two still standing around talking for? Chii-nee's waiting for us, so let's go-\!  
 **Yui:** Okaaay\~.  
 **Mihono:** Chii-nee, I'm really sorry I left you here for so long\!  
@@ -72,7 +72,7 @@ https://youtu.be/RRORlbc45gA?t=25m16s
 **Chie:** In that case, why don't we all play together\!  
 **Mihono:** Sounds good\! Let's do it\!  
 **Yui:** Alright-\! Let's make a competition out of it\! Winner gets Kiyoka-chan\! I'm gonna go all out\!\!  
-**Kiyoka:** Eh-? EhhhhHHHHH\!?  
+**Kiyoka:** Eh-? EhhhhHHHHH\!\?  
 
 ## 3: A Newcomer to the Investigation Team...?
 **Tsugumi:** ...  
@@ -82,7 +82,7 @@ https://youtu.be/RRORlbc45gA?t=25m16s
 **Tsugumi:** Hm? Did I look upset about something just now?  
 **Yui:** Yep, without a doubt\! If something's bothering you, you're more than welcome to ask Yamashiro Yui for any advice\!  
 **Tsugumi:** I hate to break it to you, but this is only my usual expression. People often tell me they can't read what I'm thinking.  
-**Yui:** They do...\!? I'm sorry\! You're one of those cool beauty types, after all, Tsugumi-san\! That side of you still gets my heart racing\!  
+**Yui:** They do...\!\? I'm sorry\! You're one of those cool beauty types, after all, Tsugumi-san\! That side of you still gets my heart racing\!  
 **Tsugumi:** Thank you... Still, that's right.  
 **Tsugumi:** Can I ask one favor of you?  
 **Yui:** Sure thing, lay it on me. Whatever a cutie like you wants, I'll do anything to make it happen.  
@@ -96,9 +96,9 @@ https://youtu.be/RRORlbc45gA?t=25m16s
 **Yui:** That's great\! So, what's that mean?  
 **Tsugumi:** I've grown interested in the investigation team that's changing Shichinosato-san.  
 **Yui:** So basically, you want to know more about us, who have been dealing with Kofuki-san\!  
-**Yui:** Well, I feel you\! Name anything you want from me, Tsugumi-san\!?  
+**Yui:** Well, I feel you\! Name anything you want from me, Tsugumi-san\!\?  
 **Tsugumi:** Please calm down. I won't need any more than to analyze you when fighting.  
-**Yui:** Tsugumi-san's going to conduct a private analysis of me\!? How can you expect me to calm down\!  
+**Yui:** Tsugumi-san's going to conduct a private analysis of me\!\? How can you expect me to calm down\!  
 **Yui:** In that case, let's go see Mirja-san together\!  
 **Yui:** If we tell her you want to come along with us, I'm sure she'll let us\!  
 **Tsugumi:** Will it really go over that easily?  

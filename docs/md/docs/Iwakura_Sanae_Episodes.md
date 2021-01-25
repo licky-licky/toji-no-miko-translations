@@ -53,7 +53,7 @@ https://youtu.be/B53GqQAvhT4
 **Sanae:** Okay. I'll talk to you later.  
 **Sanae:** Now, what should I do? ...I guess I'll do some training after all, then head home.  
 **Sanae:** (What should I be doing to get stronger...?　I keep practicing, but I don't feel any results.)  
-**Sanae:** Eh\!? Over there, that's... Sh-Shidou-senpai\!?  
+**Sanae:** Eh\!\? Over there, that's... Sh-Shidou-senpai\!\?  
 **Maki:** Er, are you one of this year's new students?  
 **Sanae:** ...I-I am\! First year in the middle school division, my name is Iwakura Sanae\!  
 **Sanae:** Uhh... Um, Shidou-senpai... Congratulations, on winning the overall tournament\!  
@@ -89,7 +89,7 @@ https://youtu.be/B53GqQAvhT4
 **Sanae:** (There, practicing with a sword, isn't that Juujou-san?)  
 **Sanae:** (She really is passionate about it. But, in her hand... I haven't seen that one before, but that's...)  
 **Sanae:** ...An okatana?  
-**Hiyori:** Wh-Who's there\!?  
+**Hiyori:** Wh-Who's there\!\?  
 **Sanae:** Sorry, it's me. I thought I heard something, so I came to take a look.  
 **Hiyori:** ...  
 **Sanae:** That okatana, is it yours, Juujou-san...?  
@@ -136,7 +136,7 @@ https://youtu.be/B53GqQAvhT4
 **Sanae:** Mmhm. Musumi-san, you've been talking with Juujou-san a lot lately, haven't you?  
 **Kiyoka:** I-I have... With our alliance activities...  
 **Sanae:** Alliance??  
-**Kiyoka:** Ah, I mean... How should I put it... It's like an association, for kindred spirits...\!?  
+**Kiyoka:** Ah, I mean... How should I put it... It's like an association, for kindred spirits...\!\?  
 **Sanae:** It sounds kind of fun. Could I join in?  
 **Kiyoka:** You want to be in our alliance?  
 **Kiyoka:** Hmmm... That's...  
@@ -151,7 +151,7 @@ https://youtu.be/B53GqQAvhT4
 **Sanae:** That does sound like Juujou-san... She's so introspective. Since my underclassman is working hard at it, then as a toji, I have to grow more too.  
 **Kiyoka:** ......  
 **Kiyoka:** Well... If I had to say one way or the other, it's more about developing our bodies.  
-**Sanae:** Eh... That's what you meant\!?  
+**Sanae:** Eh... That's what you meant\!\?  
 **Sanae:** S-Still... Juujou-san, with her tall figure, she does look very cool.  
 **Kiyoka:** I know what you mean... I do think she's cool...  
 **Sanae:** What other kinds of things do you do?  
@@ -160,8 +160,8 @@ https://youtu.be/B53GqQAvhT4
 **Kiyoka:** ...N-New members have to go through a strict inspection, so I can't say right now...  
 **Sanae:** Th-Then... I guess it can't be helped. By the way, is that book yours, Musumi-san?  
 **Kiyoka:** Yes, I had lent it to Juujou-san. I've been hooked on these romance novels lately--  
-**Sanae:** Eh\!?  
-**Sanae:** (...J-Juujou-san, she reads romance novels\!?)  
+**Sanae:** Eh\!\?  
+**Sanae:** (...J-Juujou-san, she reads romance novels\!\?)  
 **Sanae:** (Ah, thinking back, she was reading a book in the classroom too.)  
 **Sanae:** (Juujou-san... Silently reading a romance novel in the classroom, hmm... Maybe blushing to herself every now and then? It's surprisingly believable...)  
 **Kiyoka:** Is something wrong?  
@@ -202,7 +202,7 @@ https://youtu.be/B53GqQAvhT4
 **Sanae:** (I wanted to talk to her before the finals started. I thought a lot about it... But, I never did.)  
 **Sanae:** (I wasn't sure what I would say either. All I knew was, at this time, she didn't need me to say anything... That's the feeling I got from her.)  
 **Sanae:** (So, after this match is over, I want to go talk to her.)  
-**Sanae:** (Hopefully, I'll get to say, "Congratulations\!" and see her face light up--)  
+**Sanae:** (Hopefully, I'll get to say, "Congratulations\!\" and see her face light up--)  
 The referee signals the two who advanced to the finals to bow. The match is about to begin.
 
   
@@ -297,7 +297,7 @@ https://youtu.be/HguM1_W3fqw
 **Sanae:** It has a lot to do with it\! After all, the part I'm playing is a bakeneko, a cat demon\! See, doesn't it look sort of catlike?  
 **Hiyori:** That's what you mean?  
 **Hiyori:** I've worn a catgirl costume before too, but my hair's like this.  
-**Sanae:** You were so cute back then, Juujou-san\! You were all, "I'm a catgirl, nya-\!"  
+**Sanae:** You were so cute back then, Juujou-san\! You were all, "I'm a catgirl, nya-\!\"  
 **Hiyori:** I-I wasn't getting that into it\!  
 **Sanae:** Huh, weren't you?  
 **Hiyori:** I was not\!  
@@ -316,7 +316,7 @@ https://youtu.be/HguM1_W3fqw
 **Sanae:** I really wanted to see you in your vampire costume...  
 **Hiyori:** You don't have to be that depressed about it. You can still see it, like in pictures.  
 **Sanae:** That sounds perfect\! You have to send me pictures, okay\! I want to see shots of you and Etou-san together\!  
-**Hiyori:** Why do they have to be me with Kanami\!?  
+**Hiyori:** Why do they have to be me with Kanami\!\?  
 
 ## [Halloween 19 - Sanae: End]: On to the Filming\!
 The day of the film shoot.
@@ -334,11 +334,11 @@ The day of the film shoot.
 **Sayaka:** For reference...  
 **Mirja:** Is something the matter with that?  
 **Sayaka:** I don't know what to do, if you say you want to use me for reference... ...I don't really remember last time.  
-**Sanae:** Eh-\!? You don't remember it\!?  
+**Sanae:** Eh-\!\? You don't remember it\!\?  
 **Sayaka:** I just moved like they told me to, and then it was over before I noticed. That's why I think it'll go fine this time too.  
 **Sanae:** Sh-She's a real big shot...  
 **Staff:** It's showtime-. Iwakura-san and Kitora-san, please stand by for your scene-.  
-**Sanae:** I-It's already starting\!?  
+**Sanae:** I-It's already starting\!\?  
 **Sayaka:** You can do it, Sanae.  
 **Sanae:** Y-Yeah... I'll do what I can\!  
 **Sanae:** ...[gulp]  

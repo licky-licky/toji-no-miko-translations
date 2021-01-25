@@ -1,13 +1,9 @@
 
 Yamashiro Yui Episodes
 ======================
+https://www.youtube.com/watch?v=mbzl6rlTElY
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/mbzl6rlTElY" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/a6wLA2_IHTA
 
   
@@ -45,11 +41,11 @@ https://youtu.be/mM0jQ11E1pE
 **Yui:** Oh no, Hiyori-san\! We should go together and help out\!  
 **Yui:** And on our way there, we can talk about all kinds of things and deepen our bond with each other\!  
 **Hiyori:** ...Third layer jin'i\!  
-**Yui:** Hey\!? Hiyori-san-\!? Please don't leave me behind\!\! Is that how badly you don't want to talk to me\!?  
+**Yui:** Hey\!\? Hiyori-san-\!\? Please don't leave me behind\!\! Is that how badly you don't want to talk to me\!\?  
 **Kanami:** Phew... Looks like that's mission complete\!  
 **Yui:** Hiyori-saaaan\~, I was so lonely\~. Why did you run away and leave me all by myself on the way here\~?  
 **Hiyori:** ...Oh, you were here too?  
-**Yui:** You didn't even recognize me\!?  
+**Yui:** You didn't even recognize me\!\?  
 **Kanami:** Hey, Hiyori-chan\! Even if you're joking, you can't be that rude\!  
 **Yui:** Uuuu, not just cute, but kind on top of that. You're my angel, Kanami-chan...  
 **Kanami:** Eh-? U-Uh, thanks...  
@@ -87,7 +83,7 @@ https://youtu.be/mM0jQ11E1pE
 **Ellen:** ...That settles it\! In that case, forget about the coffee\!  
 **Ellen:** We'll go to my room instead, and we can all hang out and talk\!  
 **Ellen:** I don't have a lot to offer, but I can make you some tea and sweets\!  
-**Yui:** Ehh-\!? You don't have to go that far; I'd feel bad if you changed your plans because of me.  
+**Yui:** Ehh-\!\? You don't have to go that far; I'd feel bad if you changed your plans because of me.  
 **Ellen:** Don't worry about a thing\! I didn't know your sister was sick\!  
 **Ellen:** But I think it's incredible the way you're already helping to support your family, Yuiyui\!  
 **Ellen:** And also, I'm really glad you felt like sharing that with me\!  
@@ -114,10 +110,10 @@ https://youtu.be/mM0jQ11E1pE
 **Mirja:** To put it simply, it means calculating how much you stand to gain before deciding whether you should gamble.  
 **Yui:** Are you good at math too, Mirja-san?  
 **Mirja:** I am. I like to think all the scientific subjects are my forte.  
-**Yui:** You mean it\!? If you're good at math too, it must really have been fate that brought us together\!  
+**Yui:** You mean it\!\? If you're good at math too, it must really have been fate that brought us together\!  
 **Mihono:** I saw Mirja's test results before, and it's not just math. She gets good grades in every science subject...  
 **Yui:** That doesn't change the fact that she's good at math though\! The minor details don't matter here\!  
-**Yui:** Let's cut right to the chase, Mirja-san\! Why don't you come back to my room, and we can passionately talk about math alone together\!?  
+**Yui:** Let's cut right to the chase, Mirja-san\! Why don't you come back to my room, and we can passionately talk about math alone together\!\?  
 **Mirja:** I have the feeling I'm in danger, so I refuse.  
 **Yui:** Th-This can't be happening... I managed to ruin my big chance because of the way I'm always acting...  
 **Mihono:** Yui-chan... So you know how bad you act, huh...  
@@ -161,18 +157,18 @@ https://youtu.be/mM0jQ11E1pE
 **Yui:** Kofuki-san\! If you're hungry, I've got just the thing in my bag\!  
 **Kofuki:** Like what?  
 **Yui:** Tadah-\! It's tako wasabi\!  
-**Kiyoka:** --Ehhh\!?  
+**Kiyoka:** --Ehhh\!\?  
 **Yui:** Nn? What's wrong, Kiyoka-chan?  
 **Kiyoka:** W-Why did you have tako wasabi in your bag...?  
 **Yui:** Well of course, that's because if I ever feel like having some, I can pull it out right away\!  
 **Kiyoka:** B-But you're supposed to keep it refrigerated, aren't you...?  
 **Yui:** I keep an ice pack in there too, so it's nice and cold\! Don't worry\!  
-**Kiyoka:** You keep an ice pack in your bag\!? Just for the tako wasabi\!?  
+**Kiyoka:** You keep an ice pack in your bag\!\? Just for the tako wasabi\!\?  
 **Kofuki:** Hang on, it's already evening. If you put that in there before we started practice, isn't it all melted by now?  
 **Kiyoka:** I feel like there's bigger things to worry about than that, Kofuki-san...  
 **Yui:** It's fine\! When we went back, I swapped it out for a new one\!  
 **Kofuki:** Well, fine by me.  
-**Kiyoka:** You're okay with that...\!?  
+**Kiyoka:** You're okay with that...\!\?  
 **Kiyoka:** In the first place, why would you got that far to keep tako wasabi with you at all times...?  
 **Kiyoka:** Do you really feel like you have to eat some that often...?  
 **Kofuki:** Nn? What's weird about that? You keep gummies in your bag too, Kiyoka.  
@@ -181,9 +177,9 @@ https://youtu.be/mM0jQ11E1pE
 **Yui:** But they feel the same in your mouth, don't they?  
 **Kiyoka:** Even if they do, everything else is completely different, isn't it...?  
 **Yui:** Anyway, Kofuki-san\! Please try the tako wasabi I made\!  
-**Kiyoka:** You made it yourself\!?  
+**Kiyoka:** You made it yourself\!\?  
 **Kofuki:** Why's that surprise you? Mai gives out the cookies she makes all the time, doesn't she?  
-**Kiyoka:** She does, but making tako wasabi is on a whole different level from baking cookies...\!?  
+**Kiyoka:** She does, but making tako wasabi is on a whole different level from baking cookies...\!\?  
 **Kiyoka:** Uuu... When it comes to food, I can't get through to these two at all... Hono-chan, Chie-san, Mirja-san, help me...  
 **Kofuki:** --Ohh. This stuff's pretty good.  
 **Yui:** Isn't it\! Here, you have some too, Kiyoka-chan\!  
@@ -205,7 +201,7 @@ https://youtu.be/a6wLA2_IHTA
 **Yui:** ...Pant, pant... Not good, I can't... I can't die in a place like this...  
 **Kofuki:** What? What are you even talking about.  
 **Yui:** I've been waiting, Kofuki-san\! I just know you'd look great in a kimono...  
-**Yui:** Why aren't you wearing a kimonooo\!\!?  
+**Yui:** Why aren't you wearing a kimonooo\!\!\?  
 **Kofuki:** Cause putting one on's too annoying.  
 **Yui:** But I've been waiting so long for this... I was getting so excited I was on the brink of death...\!  
 **Mihono:** I'm done-\! Yui, Fukki-\!  
@@ -237,27 +233,27 @@ https://youtu.be/a6wLA2_IHTA
 ## [This needs a TL note. In period dramas, there's a cliched scene where the evil governor will tug the sash of a woman in a kimono, causing her to spin around as she comes undressed. You've probably seen something like it, but Yui is doing the whole act and really hamming it up.]
 **Kiyoka:** Yui-chan, why are you here....  
 **Yui:** Ｉ’ｍ　ｈｅｒｅ, 　ｔｏ　ｈｅｌｐ　ｙｏｕ，　ｇｅｔ　ｃｈａｎｇｅｄ－！  
-**Kiyoka:** Why are you talking so weird\!?  
+**Kiyoka:** Why are you talking so weird\!\?  
 **Yui:** Huff-\! Huff-\!  
 **Kiyoka:** A-Aren't you breathing a little heavy...?  
 **Yui:** That's just my excitement escaping through my mouth\!  
 **Kiyoka:** Eek... Y-You're eyes are so bloodshot too... Aren't they?  
 **Yui:** That's just my excitement spilling out of my eyes\!  
-**Kiyoka:** Either way, you're leaking\!?  
+**Kiyoka:** Either way, you're leaking\!\?  
 **Yui:** Thank you, kami-sama... No, GOD\! Thank you, God\! After all these years, today, you've made my dream come true\!  
 **Kiyoka:** Your dream? I-I don't really understand, but... A-As you can see, I'm getting dressed now, okay?  
 **Yui:** And that's why I came\!  
-**Kiyoka:** Eeh\!?  
+**Kiyoka:** Eeh\!\?  
 **Yui:** It's okay, right, Kiyoka-chan? Since you're getting changed, it's okay, right...?  
 **Kiyoka:** I-I don't know what you mean, but it's not okay\! I know whatever you're going to do, I'm not at all okay with\!  
 **Yui:** It's fine, isn't it, it's fine\!  
-**Kiyoka:** What is\!?  
+**Kiyoka:** What is\!\?  
 **Yui:** Kiyoka-chan, I, Yamashiro Yui, have a dream. A dreaaam to play governor with a cute girl...\!  
 **Kiyoka:** I didn't want to know\!  
 **Yui:** Tugging on a cute girl's obi\! Their sweet scent spreading as they spin\! And she's left in an immodest state\!  
 **Yui:** Playing governor is, GOD\! Now then... Here we go\!  
 **Kiyoka:** D-Don't... HYAAAAAAAAAA-\!\!  
-**Yui:** I'd like it if you'd shout "Ohhh myyyy\~\!" instead\!  
+**Yui:** I'd like it if you'd shout "Ohhh myyyy\~\!\" instead\!  
 **Kiyoka:** Pant, pant... Th-That's just, too much...  
 **Yui:** Ahh, the way you're lying there, trying to cover your chest... Good\!  
 **Kiyoka:** Nothing about this is good...  
@@ -275,7 +271,7 @@ https://youtu.be/WUlpqEzhjx0
 ## [Swimsuit 19: Start]: The Pool is Heaven
 **Yui:** Tsugumi-san, want to come to the pool with me next Sunday?  
 **Tsugumi:** Just the two of us, Yamashiro-san?  
-**Yui:** You're fine with it just being you and me\!? You're so adventurous, Tsugumi-san-\!\!  
+**Yui:** You're fine with it just being you and me\!\? You're so adventurous, Tsugumi-san-\!\!  
 **Tsugumi:** I am not. Besides, wouldn't it be boring going to the pool with someone like myself?  
 **Yui:** Seriously-\! I don't get it; how could a date at the pool all alone with a cute girl ever be boring?  
 **Tsugumi:** It's impossible to predict what will set you off, Yamashiro-san.  
@@ -287,10 +283,10 @@ https://youtu.be/WUlpqEzhjx0
 **Yui:** Hooray-\! Be sure to get an extra cute swimsuit ready for it, okay-\!  
 **Yui:** What kind of swimsuit did you buy, Tsugumi-san?  
 **Tsugumi:** Just an ordinary one.  
-**Yui:** Did you really get a swimsuit just for this\!? I'm so glad to hear it\!  
+**Yui:** Did you really get a swimsuit just for this\!\? I'm so glad to hear it\!  
 **Tsugumi:** There's nothing wrong with having a swimsuit handy.  
 **Tsugumi:** How much swimming do you plan on doing, Yamashiro-san?  
-**Yui:** You think we're going swimming\!?  
+**Yui:** You think we're going swimming\!\?  
 **Yui:** No wait, since we're going to the pool together, we should have fun with each other\!  
 **Tsugumi:** But, isn't the purpose of a pool facility to let you swim?  
 **Yui:** That's what school pools are for. But we're here to enjoy the pool today\!  
@@ -315,7 +311,7 @@ https://youtu.be/WUlpqEzhjx0
 **Yui:** I knew you'd understand, Mai-chan\!  
 **Tsugumi:** How exactly do you plan on making it more challenging though?  
 **Tsugumi:** Are we going to cross it while doing a handstand?  
-**Yui:** A handstand\!?  
+**Yui:** A handstand\!\?  
 **Yui:** Going upside down in swimsuits on the floating islands... Everybody's bodies wobbling around... Tsugumi-san, are you a genius...?  
 **Mai:** Hang on, wouldn't doing a handstand on it be dangerous? We have to set a good moral standard.  
 **Yui:** Ugh... If that's what your conscience as a toji says, then we'll just have to go along...  
@@ -337,11 +333,11 @@ https://youtu.be/WUlpqEzhjx0
 **Tsugumi:** ...Yamashiro-san, thank you for asking me to come with you.  
 **Yui:** Tsugumi-san smiled...  
 **Yui:** (Wait? The mood here... If I confessed to her right now, doesn't it seem like she'd accept?)  
-**Yui:** Tsugumi-san, I-- PHWAGH\!?  
+**Yui:** Tsugumi-san, I-- PHWAGH\!\?  
 **Tsugumi:** The water hoses have started up.  
-**Yui:** Did you really have to give me a cold shower nowwwwww\!?  
-**Tsugumi:** Yamashiro-san\!? You'll slip on the wet platform, moving like that...  
-**Yui/Tsugumi:** KYAAAAAAA\!?  
+**Yui:** Did you really have to give me a cold shower nowwwwww\!\?  
+**Tsugumi:** Yamashiro-san\!\? You'll slip on the wet platform, moving like that...  
+**Yui/Tsugumi:** KYAAAAAAA\!\?  
 **Tsugumi:** We failed, didn't we...  
 **Yui:** But, I still had a lot of fun. Let's go again, Tsugumi-san\!  
 https://youtu.be/f-Eb7Fydp_U
@@ -362,7 +358,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Itsuki:** Okay, I'll be in your care.  
 **Yui:** -\!\!  
 **Yui:** (Wh-What is this, this feeling...)  
-**Yui:** (This is different from what I feel with everyone in the investigation team... Could this be, my motherly instincts\!?)  
+**Yui:** (This is different from what I feel with everyone in the investigation team... Could this be, my motherly instincts\!\?)  
 **Itsuki:** Yui-san?  
 **Yui:** It's nothing at all, nothing at all.  
 **Yui:** [inhale]... [exhale]... Okay\! While we're moving around together, you can feel free to think of me as your big sister\!  
@@ -381,15 +377,15 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Itsuki:** Yui-san?  
 **Yui:** [drool]... Oops.  
 **Yui:** (Control yourself\! I've gotta make big sister moves in front of Itsuki-chan\!)  
-**Yui:** Aradama\!? Itsuki-chan, get ready for battle\!  
+**Yui:** Aradama\!\? Itsuki-chan, get ready for battle\!  
 **Itsuki:** Right\!  
 
 ## [Yuusha 2 Yui: End]: There's No Such Thing As a Little Sister Who Hates Her Big Sister
 **Yui:** YAAAAAAAAAAA\!  
 **Aradama:** GUOOOOOOOOOOOO\!  
-**Yui:** It's a real pain with this many of them\! Are you doing okay, Itsuki-chan\!?  
+**Yui:** It's a real pain with this many of them\! Are you doing okay, Itsuki-chan\!\?  
 **Itsuki:** Yes, I'm fine... Kyaa-\!  
-**Yui:** Itsuki-chan\!?  
+**Yui:** Itsuki-chan\!\?  
 **Itsuki:** I-I'm alright\! More importantly... Can ask you to handle things here for a minute?  
 **Yui:** Sure, but... Do you have some kind of plan?  
 **Itsuki:** I was thinking of setting up a trap. It might not go that well though...  
@@ -403,7 +399,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Yui:** ...Wait? Why are you holding your arm like that?  
 **Itsuki:** Th-That's because...  
 **Yui:** Something's fishy...  
-**Yui:** Show me your arm for a minute\! --Hey, you're hurt\!?  
+**Yui:** Show me your arm for a minute\! --Hey, you're hurt\!\?  
 **Itsuki:** I got hurt, but this much is nothing really...  
 **Yui:** No matter how small it is, any injury on a cute girl is life-threatening\! Let me see it\!  
 **Itsuki:** O-Okay.  
@@ -435,7 +431,7 @@ https://youtu.be/pR7T3znqc5E
 **Tsugumi:** Hmm, I can just never tell how you'll respond to anything.  
 **Tsugumi:** There's many types of people among the investigation team that I'm unused to dealing with, but... Yamashiro-san, you're the most extreme of them all.  
 **Tsugumi:** Socializing is hardly my strong suit, but there's no one I've ever had as much trouble understanding as you.  
-**Yui:** That sounds like an incredible appraisal of me, doesn't it\!?  
+**Yui:** That sounds like an incredible appraisal of me, doesn't it\!\?  
 **Yui:** If that's how you feel, then please go ahead and learn more about me\! Read me like an open book; I'll answer any question you ask\!  
 **Tsugumi:** Ah... Then, I have one question. I realize it's a little late to ask, but, why are you helping with my research?  
 **Yui:** Putting it bluntly, I'm doing it for the money.  
@@ -448,7 +444,7 @@ https://youtu.be/pR7T3znqc5E
 **Yui:** Ahaha, I shouldn't have told you all that. Please just forget it.  
 **Tsugumi:** No, it's good that I was able to see a new side of you.  
 **Tsugumi:** And also, Yamashiro-san. The experiments you're assisting us with... Their results might one day be linked to a cure for your little sister.  
-**Yui:** Will they really\!?  
+**Yui:** Will they really\!\?  
 **Tsugumi:** Speaking confidentially... Research is progressing on whether or not noro can be used to cure diseases.  
 **Tsugumi:** In fact, there have been rumors of a successful test case...  
 **Yui:** This research can... But, how does it work?  
@@ -468,7 +464,7 @@ https://youtu.be/pR7T3znqc5E
 **Suzuka:** ...This isn't my home, I'll have you know. Was there something you needed?  
 **Yui:** Actually, there's something I wanted to talk to you about...  
 **Suzuka:** If it's a love confession, I'll refrain from hearing it.  
-**Yui:** You mean, somebody leaked my private information about how I love Suzuka-san\!?  
+**Yui:** You mean, somebody leaked my private information about how I love Suzuka-san\!\?  
 **Suzuka:** Well now, was that actually true?  
 **Yui:** Ahh, so you were just kidding with me. Here I was getting rejected before I even asked you out.  
 **Suzuka:** Don't you think it's your conduct that causes you to be treated this way? So? What was it you really came to see me about?  
@@ -476,14 +472,14 @@ https://youtu.be/pR7T3znqc5E
 **Suzuka:** It seems this is a rather serious conversation. ...Come with me.  
 **Suzuka:** You won't have to worry about us being overheard in here.  
 **Yui:** Thank you very much\! To tell the truth... I heard there were experiments in treating people's illnesses with noro, and I wanted to ask you if, maybe you knew anything about it... Or something.  
-**Suzuka:** --\!? Where did you hear about... No. More importantly, why do you want to know?  
+**Suzuka:** --\!\? Where did you hear about... No. More importantly, why do you want to know?  
 **Yui:** Actually... Umm, this is kind of hard for me to say, but...  
 **Suzuka:** ...It's about your sister, isn't it.  
 **Yui:** You know about her?  
 **Suzuka:** It's only natural we would gather that much information. You haven't spoken to anyone else about this... Have you?  
 **Yui:** N-No\! As soon as I heard about it, I came right here...  
 **Suzuka:** In that case, forget all about it.  
-**Yui:** ...\! B-But, they're researching it, aren't they\!?  
+**Yui:** ...\! B-But, they're researching it, aren't they\!\?  
 **Suzuka:** When you have no way of knowing how long it will take before that research can be used for practical purposes, there's no point in placing your hopes on it, is there?  
 **Suzuka:** Your sister is desperately fighting to overcome her illness with modern medical care, and should be gradually getting better.  
 **Yui:** ...  
@@ -494,7 +490,7 @@ https://youtu.be/pR7T3znqc5E
 **Mirja:** Yamashiro Yui\!  
 **Yui:** Eh?  
 **Aradama:** KEEHHHHHH\!  
-**Yui:** Uwah\!?  
+**Yui:** Uwah\!\?  
 **Mirja:** HAAAAAH\!\!  
 **Yui:** Th-Thanks for that...  
 **Mirja:** ...You aren't acting like your usual self, Yamashiro Yui.  
@@ -508,7 +504,7 @@ https://youtu.be/pR7T3znqc5E
 **Yui:** Umm... I think they said, it was still at the stage of fundamental research?  
 **Mirja:** Then, that well informed person was right in what they said. You can't be certain of when a medical treatment still in the stage of fundamental research will be made available.  
 **Mirja:** This is only in regards to new forms of medicine, but... I've heard new medicines can take over a decade of research before they are made for general use.  
-**Yui:** It can take that long\!?  
+**Yui:** It can take that long\!\?  
 **Yui:** (If that's true, then... Going the slow and steady way might actually be faster...)  
 **Yui:** (I can't be getting all torn up over it now; I've got to keep going at it the best I can, for Miku's sake\!  
 **Yui:** Thanks a lot, Mirja-san\! I'm past it now\!  
@@ -519,7 +515,7 @@ https://youtu.be/Wuef7y1z6Q4
 
   
 
-## [China - Yui: Start]: The Chinatown Date I've Longed For\!?
+## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  
 **Mihono:** I'm all for it\~\! There's still a lot more shops I haven't been to yet. Do you two wanna come with me?  
 **Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~.  
@@ -531,14 +527,14 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** No, not once this whole time have I ever felt anything like that...  
 **Yui:** Then, what's that uneasy look on your face for?  
 **Tsugumi:** Sorry, it might be senseless of me to ask, but... I was just wondering, what is the definition of a "date" to begin with?  
-**Yui:** Tsugumi-san, you're such a serious going girl. When it comes to things like this, it's all about "Don't think; feel\!"  
+**Yui:** Tsugumi-san, you're such a serious going girl. When it comes to things like this, it's all about "Don't think; feel\!\"  
 **Tsugumi:** Go with your feelings without thinking... Is that it. Then, coming up with feelings regarding dating... How exactly do you do that?  
 **Yui:** That's easy\! Right now, I'll swap between taking you and Mihono-chan on a Chinatown date with me, to give you the dating experience\!  
 **Mihono:** The dating experience?  
 **Yui:** Yeah\! I've spent a lot of time mentally rehearsing for the ultimate heart-pounding Chinatown date, so I'll show you a good time for sure\!  
 **Tsugumi:** If you're that sure then, Yamashiro-san... It might not be so bad to get an experience of the real thing.  
 **Yui:** That's the spirit\! So then, to start us off... I think I'll take out Mihono-chan\!  
-**Mihono:** Ehh-- Starting with me\!? If you just tell me we're going on a date like that, I don't have time to get my heart ready...  
+**Mihono:** Ehh-- Starting with me\!\? If you just tell me we're going on a date like that, I don't have time to get my heart ready...  
 **Yui:** Don't you worry about that, Honey. I'll escort you around just right. Why don't we find somewhere to get some delicious sweets first?  
 **Yui:** This place sells the apricot seed soft serve that's the talk of Chinatown\! I don't have much pocket money on me today, so let's share one between us. Here, open wide.  
 **Mihono:** Ahhn. [chew chew]... It's yummy-\!\!  
@@ -557,7 +553,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Yui:** Uuu\~, when you put it like that, I'm losing confidence. Could I have a little time to think this over?  
 **Yui:** Get ahold of yourself, Yui. Remember the strongest Chinatown fantasy date plan you fantasized about over and over day after day. Chinatown... Chinatown... When I think of an ideal date in Chinatown, it's gotta be...  
 
-## [China - Yui: End]: A Practice Run\!? Yui's Fantasy Chinatown Date\!
+## [China - Yui: End]: A Practice Run\!\? Yui's Fantasy Chinatown Date\!
 **Yui:** Chinatown date... Chinatown date... When I think of situations for the Chinatown date I've been dreaming of, there's...  
 **Yui:** That'll do\~\!\!\!\!\!  
 **Mihono:** You look like a lightbulb went off in your head, Yui.  
@@ -589,7 +585,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Yui:** Hold your horses-\! The main event starts right here\!  
 **Yui:** While the two of us are having a good time on our date, a group of burly thugs shows up and surrounds us, then tells you this:  
 **Yui:** "Hey, pretty little thing, want to come have a good time with us..."  
-**Yui:** That's when the thugs try to take you away by force. But then, I shout, "Get your hands off my girlfriend-\!" and give the guys a high kick while I'm still in my China dress\!  
+**Yui:** That's when the thugs try to take you away by force. But then, I shout, "Get your hands off my girlfriend-\!\" and give the guys a high kick while I'm still in my China dress\!  
 **Yui:** To protect the girl I love, I start pumping out stylish moves, taking down the punks one after another. And, completely captivated by me, my girlfriend says:  
 **Yui:** "Thank you\! I owe you my life. To make it up to you... You. Can. Have. Me..."  
 **Yui:** Kyaa-\! Y'know, you're a lot bolder than I thought... But, what kind of woman turns down a woman's advances\! Now's not the time to hold ourselves back\! And then, the two of us spend our sweet time together... Eheheheh...  
@@ -601,7 +597,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** If we were to leave her like this, it would weigh on our conscience, wouldn't it. We have to come up with something to support her...  
 **Mihono:** Yui, I think everybody has their own different kind of date they dream about, but I got to have a lot of fun today because you were with us\! So thanks.  
 **Tsugumi:** That's right. And, I was able to mostly understand what the definition of a date is too...  
-**Yui:** You mean it\!? I'm so glad\~\! I should be the one thanking you two\! Getting to go on a three girl date through Chinatown made me the happiest girl in the world\!  
+**Yui:** You mean it\!\? I'm so glad\~\! I should be the one thanking you two\! Getting to go on a three girl date through Chinatown made me the happiest girl in the world\!  
 **Tsugumi:** A three girl date...? Can you really call an outing with three people a date? Sigh... I'm understanding the definition less and less.  
 https://youtu.be/mM0jQ11E1pE
 
@@ -613,14 +609,14 @@ https://youtu.be/mM0jQ11E1pE
 **Yui:** Great work as always, Ellen-san\! You look so cool swinging your okatana around; I can't keep my eyes off you\~.  
 **Ellen:** You're not going to make anything happen like that, Yuiyui. But thanks all the same.  
 **Yui:** Cool older girls are a treasure of their own\!  
-**Kiyoka:** Yui-chan\!? There's an aradama coming after you\!  
+**Kiyoka:** Yui-chan\!\? There's an aradama coming after you\!  
 **Yui:** Thanks\! Nice spot, Kiyoka-chan\!  
 **Yui:** --ORYAAAAAAAAAAA\!  
 **Kiyoka:** That should be all the aradama around here for now.  
 **Kiyoka:** Sigh... You made me worried because you were looking away so much.  
 **Yui:** Sorry, sorry. My eyes'll stay glued to you from now on, so forgive me, Kiyoka-chan\!  
 **Kiyoka:** You're not giving me any reason to forgive you at all.  
-**Yui:** Eh\!?  
+**Yui:** Eh\!\?  
 **Ellen:** Ahaha. The investigation team really gets along, don't they.  
 **Kiyoka:** When we first met, I never thought it would turn out like this, but we're just fine now. It's fun being with everyone.  
 **Yui:** Mmhmm. I love all the girls in the investigation team, so I always want to be with them wherever they go.  
@@ -648,12 +644,12 @@ https://youtu.be/mM0jQ11E1pE
 ## [Pirate - Yui: Start]: Captain Yui's Treasures
 **Yui:** Welcome to my band of pirates, Ellen-san, Kiyoka-chan\! We're going to find the treasure for sure\!  
 **Ellen:** Aye aye sir\! Captain Yui\! We'll have the treasure in our hands\!  
-**Kiyoka:** You're really getting into this, Ellen-san\!?  
+**Kiyoka:** You're really getting into this, Ellen-san\!\?  
 **Ellen:** You have to go all out with this kind of thing\! You should enjoy it as much as you can too, Kiyoka\!  
 **Kiyoka:** Alright\! Then... Captain Yui\! What treasure are we after this time?  
 **Yui:** The treasures that I'm after. That'd be--  
 **Yui:** The fine and dashing ladies of the pirate groups Captain Suu and Captain Boss are leading around\!  
-**Ellen:** What\!?  
+**Ellen:** What\!\?  
 **Yui:** You can all be under my command... Eheheheh.  
 **Kiyoka:** Our objective is to find treasure pendants hidden by old pirates by using our maps before the time runs out...\!  
 **Kiyoka:** If we steal the other team's maps, we'll get points, but girls don't get us anything.  
@@ -670,7 +666,7 @@ https://youtu.be/mM0jQ11E1pE
 **Yui:** Uwahh\~\~\~\~\!  
 **Yuui:** Mihono-chan, Boss, Satsuki-san; they're all looking so good...\! Ahhh\~\!  
 **Yui:** Boss's miniskirt...\! Those tempting thighs...\!  
-**Yui:** Ah\! They're boarding us\!?  
+**Yui:** Ah\! They're boarding us\!\?  
 **Kiyoka:** Honestly... Come down from the crow's nest and protect our pirate flag, Yui-chan\!  
 **Yui:** Aye aye sir\! I'll be there to protect you, Kiyoka-chan\!  
 **Ellen:** Alright, let's do all we can to protect our captain and pirate flag\!  

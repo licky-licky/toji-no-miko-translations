@@ -1,13 +1,9 @@
 
 2-11 The Netherworld
 ====================
+https://www.youtube.com/watch?v=WPuTqgR0UmU
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/WPuTqgR0UmU" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: At the Mouth of the Netherworld
 **Ichikishima:** ......  
@@ -78,7 +74,7 @@
 **Hana:** ...Chie-san. Have you still not made up your mind about saving Yume-san?  
 **Chie:** ...Honestly, I'm still opposed to it. When I think of everyone in Mokusa, I can't help but feel that way.  
 **Chie:** ...But, if this leads to defeating Tagitsuhime, what all of us in Mokusa fought to accomplish, then I won't hesitate to use Namu Yakushi Kagemitsu's utsushi.  
-**Mihono:** --\!\! Guys\!\! Over there\!\! Is that the great aradama we're here for\!?  
+**Mihono:** --\!\! Guys\!\! Over there\!\! Is that the great aradama we're here for\!\?  
 **Chie:** That's Namu Yakushi Kagemitsu embedded in its chest... There's no mistaking it...  
 **Kai:** Remove from me, this accursed blade... Ahh, how contemptible... You humans... Gghh...  
 **Mirja:** ...This is the great aradama we must defeat. And, the true Namu Yakushi Kagemitsu.  
@@ -104,7 +100,7 @@
 **Suzuka:** ...We haven't seen a trace of the others we came here with...  
 **Maki:** This isn't good. If we found the great aradama, without Namu Yakushi Kagemitsu's utsushi, we wouldn't be able to do anything...  
 **???:** Aha-\! I found you, some strong looking toji\~\!  
-**Suzuka:** ---\!? Yume\!? Is that you, Yume\!?  
+**Suzuka:** ---\!\? Yume\!\? Is that you, Yume\!\?  
 **Maki:** Yume...\! Let's go back together... We're taking you back home\!  
 **Yume:** Yume...? Back home... To where?  
 **Suzuka:** Eh...?  
@@ -150,12 +146,12 @@
 **Mirja:** Namu Yakushi Kagemitsu's utsushi is disappearing from her\!  
 **Yui:** What does that mean...? Did we save Tsubakuro-san...?  
 **Yume:** ...Huh? Where...? I'm...  
-**Maki:** Yume-\! Do you know who I am-\!?  
-**Suzuka:** Do you remember me\!?  
+**Maki:** Yume-\! Do you know who I am-\!\?  
+**Suzuka:** Do you remember me\!\?  
 **Yume:** Y-Yeahhh... I-It's hard to breathe, when you're hugging me like that...  
 **Yume:** ...Maki onee-san, Suzuka onee-san.  
 **Suzuka:** Yume\! Yume\!  
-**Maki:** Ahh... You know me, don't you, Yume\!?  
+**Maki:** Ahh... You know me, don't you, Yume\!\?  
 **Yume:** Of course... I do. Stop shouting in my ear like that. You're too loud...  
 **Yume:** ...Nn. I can't really, move around right.  
 **Maki:** In time, I promise you'll be back to normal. You just have to rest now.  

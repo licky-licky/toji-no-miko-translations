@@ -1,13 +1,9 @@
 
 Fall's Main Event! Great Leaf Viewing Operati...
 ================================================
+https://www.youtube.com/watch?v=fZFiQs-1TKo
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/fZFiQs-1TKo" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 Covers both fall events.
 
   
@@ -37,8 +33,8 @@ With autumn in full swing, toji of the STT have been called to action to suppres
 **Tsugumi:** ...Hmm? Everyone, please, look at this\!  
 **Hiyori:** What is it? That's an unsettling pattern...  
 **Mirja:** It seems to be a leaf that was stuck to the aradama defeated just now.  
-**Hiyori:** U-Uwaah\!?  
-**Tsugumi:** O-Ohh\!? Th-Th-The leaf is wriggling around\! Could this be the aradama's influence? This is a wonderfully valuable specimen\!  
+**Hiyori:** U-Uwaah\!\?  
+**Tsugumi:** O-Ohh\!\? Th-Th-The leaf is wriggling around\! Could this be the aradama's influence? This is a wonderfully valuable specimen\!  
 **Hiyori:** Uh, it's giving me the creeps... So why are you looking so happy with it?  
 **Sayaka:** What should I do? Should I kill it too?  
 **Hiyori:** Uh... You too, why don't you try settling things without using your okatana for a while.  

@@ -109,7 +109,7 @@ https://mega.nz/file/NM4zwCSI#e4j4XEndiYI-su2D4RvkAVQQEo9R8QnWAYoP7N47CGo
 
 ## [Mahouka - Mirja: Start]: Mirja and Mayumi
 **Mirja:** ...I see, so that's what kind of magic you have, Saegusa Mayumi.  
-**Mayumi:** That's it. At the Nine Schools Competition, I finished with a perfect bullseye. With a "bang\!"  
+**Mayumi:** That's it. At the Nine Schools Competition, I finished with a perfect bullseye. With a "bang\!\"  
 **Mirja:** Going back, what is this Nine Schools Competition?  
 **Mayumi:** Ah, that's right, you wouldn't have a Nine Schools Competition here.  
 **Mayumi:** If I say it's... a competitive magic tournament, does that make it easy to picture?  
@@ -152,9 +152,9 @@ https://mega.nz/file/5F5XSRBI#Qs4mPScbyWpABXm4FlDDqfKWd8HAgIzgppqgSK2W1-g
 **Aradama:** GGGGGOOOOOUUUUU\!\!  
 **Mirja:** -\! Saegusa Mayumi\!  
 **Mayumi:** Of course.  
-**Aradama:** GUOOO\!?  
-**Aradama:** GYAAA\!?  
-**Aradama:** OOOOO\!?  
+**Aradama:** GUOOO\!\?  
+**Aradama:** GYAAA\!\?  
+**Aradama:** OOOOO\!\?  
 **Mirja:** She took care of three simultaneously..  
 **Mayumi:** Two more are coming from the front, and another three from the right hand side. I'll pin them down, so could you please finish off those three?  
 **Mirja:** I'm on it\!  

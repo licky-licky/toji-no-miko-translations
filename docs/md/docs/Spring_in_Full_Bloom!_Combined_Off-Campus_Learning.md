@@ -1,13 +1,9 @@
 
 Spring in Full Bloom! Combined Off-Campus Learning
 ==================================================
+https://www.youtube.com/watch?v=RM9WwcUNfdk
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/RM9WwcUNfdk" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Off-Campus Learning\!
 **Kanami:** Finally, today we're doing off-campus learning\! I've been waiting for this-\!  
@@ -118,10 +114,10 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Ellen:** Exactly\! And then we can study Japanese foods in detail with the dango\!  
 **Chie:** That one's a little harder to justify...  
 **Ellen:** Chew chew... The dango in the Brick District are so good. You can really taste the Westernization.  
-**Mirja:** Westernized dango...\!? What does that taste like?  
+**Mirja:** Westernized dango...\!\? What does that taste like?  
 **Shiho:** Ahh\! Look\! There's horses over there\! So cute... Let's hurry up and get in a carriage\!  
 **Chie:** Everyone\! The locals said they'll do us a favor and rent out hakama to us\! Free of charge too\!  
-**Ellen:** Seriously\!? I've always wanted to try on a hakama\!\! It's our lucky day\!  
+**Ellen:** Seriously\!\? I've always wanted to try on a hakama\!\! It's our lucky day\!  
 **Ellen:** Come on, Mirja\! Let's change into hakama and eat dango in the carriage together\! It'll be like one big lesson in good old Japanese culture\!  
 **Mirja:** I-I understand. I'm coming, so, please don't tug me so strongly.  
 
@@ -141,11 +137,11 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Mayumi:** These are western style trading posts that foreigners came to live in during the Meiji period.  
 **Mihono:** Whoa-\! So these have been here since the Meiji period\! Meiji was the one that came before Showa, right?  
 **Hiyori:** ...After Meiji came Taisho. Then Showa was after that.  
-**Mihono:** Ah-, it was\!?  
+**Mihono:** Ah-, it was\!\?  
 **Jun:** You might need to do a little more studying, Asakura-chan.  
 **Mihono:** Ehehe\~.  
 **Aradama:** KIKIKIGIGIGIGI...  
-**Minaki:** -\!? Everybody\!\! Another aradama showed up\!\!  
+**Minaki:** -\!\? Everybody\!\! Another aradama showed up\!\!  
 **Jun:** An aradama right in downtown... We should deal with it before folks get hurt.  
 **Mayumi:** Onee-samas, it's about time we headed for the next destination.  
 **Jun:** It's a shame we can't see the inside while we're here. That aradama kept us busy.  
@@ -181,12 +177,12 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Ellen:** Good\! Everything's ready\! The ranch lent us a horse, so we can ride it up this track one at a time\!  
 **Miki:** Seeing a horse up close like this, it's huge...\! What an impressive animal...\!  
 **Shiho:** Hey, horsey. We're all going to take turns riding you, okay?  
-**Ellen:** Shiho's talking to the horse\! Can it understand you\!? Is that some special ability\!?  
+**Ellen:** Shiho's talking to the horse\! Can it understand you\!\? Is that some special ability\!\?  
 **Shiho:** Ahaha, nothing like that. It's just a one sided chat--  
 **Aradama:** SHAAAAAAAA\!  
-**Miki:** -\!? There's an aradama at the other end\! Look, there\!  
+**Miki:** -\!\? There's an aradama at the other end\! Look, there\!  
 **Shiho:** Not good\! It might go after the animals on the ranch\! Horsey, I need you to get me after it quick\!  
-**Chiho:** Ehh-\!? You're going after the aradama on horseback\!?  
+**Chiho:** Ehh-\!\? You're going after the aradama on horseback\!\?  
 **Shiho:** Yeah\! I'll cut it off\!  
 **Mirja:** Wait\! It's dangerous to fight an aradama alone\!  
 **Shiho:** Even so, I'm not letting it get near the animals\!\! Giddy up\!\!  
@@ -225,9 +221,9 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Mihono:** Nightlife after 5...?  
 **Kanami:** Hey, when we get to the inn, what should we do? I want to go exploring the place\!  
 **Mihono:** Exploring the inn\! That sounds cool\!  
-**Hiyori:** Are you little kids...\!?  
+**Hiyori:** Are you little kids...\!\?  
 **Mayumi:** Hang on\! It's in the schedule that, before we eat dinner, we'll take baths\!  
-**Minaki:** We're even on the schedule in the inn\!?  
+**Minaki:** We're even on the schedule in the inn\!\?  
 **Mayumi:** Of course. After eating dinner we'll play cards for 45 minutes, and then have a pillow fight until lights out at 9pm.  
 **Minaki:** Even goofing off is on the schedule\!  
 **Mayumi:** We'll wake up the next morning at 5am, then we'll have 15 minutes to ready ourselves, followed by 30 minutes of bathtime. It's important to provide some leisure time taking care of yourself in the morning, after all.  
@@ -246,7 +242,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Miki:** I want to get some photos taken wearing the hakama we borrowed as well\~.  
 **Mirja:** Exploring the nightlife isn't so commendable, but we can make an exception today.  
 **Mirja:** However, as soon as we've arrived at the inn and eaten, I want everyone in the bath and then bed, understood?  
-**Ellen:** Ehh-\!? But I wanted to have a pillow fight\! And then play cards, and do a test of courage\! I heard those are unbreakable traditions for Japanese students\!  
+**Ellen:** Ehh-\!\? But I wanted to have a pillow fight\! And then play cards, and do a test of courage\! I heard those are unbreakable traditions for Japanese students\!  
 **Miki:** A pillow fight, cards, and a test of courage\! That sounds like a lifelong memory in the making\!  
 **Mirja:** How many lifelong memories do you plan on experiencing today, Naruse Miki...?  
 **Miki:** I'll take every one I can come across\~.  
@@ -263,7 +259,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Miki:** --Ah\! Everyone\! We should all buy these Japanese umbrellas\! Then we can get our photos taken\! It would look wonderful together with our hakama\!  
 **Ellen:** ...Umbrella and hakama\! That's an awesome idea\! Let's pick out umbrellas for all of us--  
 **Aradama:** GURURUUUUUUU...\!  
-**Chie:** -\!? Where did that aradama's roar come from\!\!  
+**Chie:** -\!\? Where did that aradama's roar come from\!\!  
 **Mirja:** From outside the shop\! Everyone\! Hurry\!  
 **Miki:** Now, since we safely defeated it, let's all get changed to take a commemorative photo here\~.  
 **Mirja:** Fufufu. That's certainly a lifelong memory, isn't it.  
@@ -286,11 +282,11 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Mayumi:** Mm\! They're late, aren't they. We were supposed to meet at check-out time by the gift shop, and yet...  
 **Mihono:** They're late? That's weird... Chii-nee and Mirja-san are on that team, after all? Those two are never late for anything...  
 **Chie:** ...Oh? Is everyone from the red team picking out souvenirs?  
-**Mihono:** Huh\!? It's the white team\! Why don't you have your luggage with you\!?  
+**Mihono:** Huh\!\? It's the white team\! Why don't you have your luggage with you\!\?  
 **Miki:** Why? Well, we're getting in the baths now\~.  
-**Mayumi:** Now\!? But we were supposed to check-out at 8\!?  
+**Mayumi:** Now\!\? But we were supposed to check-out at 8\!\?  
 **Sawano:** ? Check-out is at 10 o'clock, so there's still 2 hours of free time.  
-**Mihono:** --Ehhhhh-\!? Seriously\!?  
+**Mihono:** --Ehhhhh-\!\? Seriously\!\?  
 **Mayumi:** ...Let's see. It seems I might have been mistaken about the check-out time when I was drawing up the schedule...  
 **Mirja:** Check-in last night had to be before 8pm. I assume that's where the misunderstanding came from.  
 **Mayumi:** ...It's all my fault\!\! I'm so sorry for everything\!\!  

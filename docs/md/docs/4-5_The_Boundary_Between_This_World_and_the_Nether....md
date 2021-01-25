@@ -47,13 +47,13 @@ https://youtu.be/3oHvCRvo1Oo
 **Hiyori:** You aren't about to say some nonsense like it tastes like toothpaste, are you?  
 **Yukari:** ...I'll have one then.  
 **Yukari:** Mm...? ...It's an unusual flavor, isn't it.  
-**Hiyori:** Huhh-\!? There's nothing unusual about it\!\! What's with that weirdly forced smile\!?  
+**Hiyori:** Huhh-\!\? There's nothing unusual about it\!\! What's with that weirdly forced smile\!\?  
 **Tagitsu:** What now, toji? Will you challenge me once again, or be swallowed with this world into the netherworld...  
 **Tagitsu:** Whatever the case, your time is done.  
 
 ## 2: Escape from the Building (1)
 **Yomi:** --GGAGH-\!\! Rrgh, cough, cough...  
-**Yume:** Yomi-onee-san\!?  
+**Yume:** Yomi-onee-san\!\?  
 **Maki:** Yomi, a rescue party will be here any minute\! Just bear with it a little longer\!  
 **Yomi:** ...Ev...ry...one...  
 **Maki:** Don't force yourself to talk\! You can say whatever you want later\!  
@@ -62,7 +62,7 @@ https://youtu.be/3oHvCRvo1Oo
 **Yukina:** ............  
 **Suzuka:** President Takatsu, please come with us\!  
 **Yukina:** ...............I don't, have anywhere left to go.  
-**Suzuka:** Does that mean you intend to die here\!?  
+**Suzuka:** Does that mean you intend to die here\!\?  
 **Yukina:** ............  
 **Suzuka:** Don't be ridiculous\! After putting her life on the line to save you...  
 **Suzuka:** Please do not deny Yomi-san's wishes\!\!  
@@ -78,7 +78,7 @@ https://youtu.be/3oHvCRvo1Oo
 **Yukina:** .........  
 **Yume:** Ah-- Look\! There's the rescue team's van\!  
 **Maki:** We should be able to breath easy for now. Suzuka, Yume. We'll get right back to suppressing aradama in the area.  
-**Yume:** Eh-\!? We're not going with Yomi-onee-san\!?  
+**Yume:** Eh-\!\? We're not going with Yomi-onee-san\!\?  
 **Maki:** There's nothing more we can do to help. We'll leave her to the rescue team, and do the work that we're needed to do here.  
 **Yume:** ...I got it. I'm still worried about Yomi-onee-san, but... I'll do what I can to help\!  
 **Suzuka:** President Takatsu, please advise the rescue team. You should know the condition of Yomi-san's body better than anyone.  
@@ -129,7 +129,7 @@ https://youtu.be/3oHvCRvo1Oo
 **Yukari:** All of you...  
 **Hiyori:** We don't have time. Let's go.  
 **Sana:** Ah-, hang on a sec. Have Asakura and them made contact with you?  
-**Kanami:** Mihono-chan...? Is she coming here\!?  
+**Kanami:** Mihono-chan...? Is she coming here\!\?  
 **Sana:** She is; I sent them your way as backup, but it sounds like they haven't made it yet...  
 **Sana:** Nothing we can do. Focus all your efforts on your own operation.  
 **Yuzuki:** --Etou, Kohagura, Mashiko, Itomi, Yanase, Juujou. And Yukari. You will not be given the order to retreat. Your orders are to suppress Tagitsuhime, and nothing else.  
@@ -143,8 +143,8 @@ https://youtu.be/3oHvCRvo1Oo
 **Mihono:** But, we're surrounded by aradama here... We're almost there too... Just a little farther and we'd catch up to Kanami and them--  
 **Mirja:** Asakura Mihono\! Setouchi Chie and I will handle this, while you go\!  
 **Chie:** That's right\! If we use the last of our strength, we should be able to cut open a path for Mihono-chan to get through\!  
-**Mihono:** W-We can't do that\! Just look at how many aradama there are\!?  
-**Mihono:** I don't know if all three of us could even fight through them all, and you want me to leave you two here\!?  
+**Mihono:** W-We can't do that\! Just look at how many aradama there are\!\?  
+**Mihono:** I don't know if all three of us could even fight through them all, and you want me to leave you two here\!\?  
 **Mirja:** This is an order from your captain\! Do not forget our mission\!  
 **Chie:** And this is an order from your onee-san\! You have to catch up to them, Mihono-chan\!  
 **Mihono:** ...Both of you...  
@@ -179,7 +179,7 @@ https://youtu.be/3oHvCRvo1Oo
 **Great Aradama:** GGGGAAAAAAAAA\!\!  
 **Yui:** Just what do you think you're doing to my precious Chie-san and Mirja-san--\!\!  
 **Mirja:** Yamashiro Yui...?  
-**Chie:** What are you doing here\!?  
+**Chie:** What are you doing here\!\?  
 **Yui:** What are you saying\! Whenever either of you are in a pinch, you know I'll be there at the speed of light\!  
 **Mirja:** ...It doesn't seem to be a hallucination either...  
 **Yui:** Umm\~\! There's a ton of things I want to ask about\! Like, why is it just the two of you\! And, what happened to everybody else\!  
@@ -216,12 +216,12 @@ https://youtu.be/3oHvCRvo1Oo
 **Hiyori:** --HA-\!  
 **Tagitsu:** Kh... The cornered rat tries biting back?  
 **Tagitsu:** But, that ends here.  
-**Kanami:** Where are we...\!?  
+**Kanami:** Where are we...\!\?  
 **Yukari:** The threshold between our world and the netherworld.  
 **Yukari:** The fact that we were drawn into it must mean there are only minutes before the boundary makes contact with the ground.  
 **Tagitsu:** This is true. The joining of this world and the netherworld is now an inevitability. Though, it is indeed regrettable you will be swallowed into it without this being settled.  
 **Tagitsu:** I'll allow you to enjoy the little time left till your last moment.  
-**Mai:** She raised the level of her jin'i\!?  
+**Mai:** She raised the level of her jin'i\!\?  
 **Hiyori:** You're not getting away\!\!  
 **Kanami:** Wait\!\!  
 **Kaoru:** We need to go too\!  
@@ -255,11 +255,11 @@ https://youtu.be/3oHvCRvo1Oo
 **Yui:** So, I volunteered to guard the rescue team on their way there\! And then, I met up with the three from the elite guard\! And, after that, I spotted you two getting attacked by that great aradama\!  
 **Yui:** And that about sums it up\!  
 **Yui:** See, Mirja-san\! I did juuust like you told me\! I didn't do anything too crazy, and made it back alive\! See\!  
-**Mirja:** Yamashiro Yui\! Asakura Mihono... Have you heard anything of Asakura Mihono's current location\!?  
+**Mirja:** Yamashiro Yui\! Asakura Mihono... Have you heard anything of Asakura Mihono's current location\!\?  
 **Yui:** ...Mihono-chan? ...\!\!  
 **Yui:** Ahhh... That's why, you and Chie-san... And Kofuki-san and Kiyoka-chan too\!  
 **Yui:** You all sent Mihono-chan forward to reach Kanami-chan and the others...\!  
-**Yui:** Why did all of you go and do something so reckless\!? You're the ones who told me not to do anything like that\!  
+**Yui:** Why did all of you go and do something so reckless\!\? You're the ones who told me not to do anything like that\!  
 **Suzuka:** I don't quite follow.  
 **Maki:** Right... Why would it be that important to send Asakura Mihono to meet with Yukari-sama and the rest...?  
 **Chie:** Mihono-chan's okatana, Kashuu Kiyomitsu, has the potential to fatally wound a great aradama. Which means, even Tagitsuhime would...  
@@ -279,7 +279,7 @@ The threshold of the netherworld, in the world of first level jin'i--
 **Kanami:** HAH\!\!  
 **Kaoru:** KIEEEEEEEEEEEE\!\!  
 **Tagitsu:** Hnph\!  
-**Mai:** She raised the level of her jin'i again\!?  
+**Mai:** She raised the level of her jin'i again\!\?  
 **Kaoru:** ...Sorry, this is as far as Ellen and I can go.  
 **Nene:** Ne-...  
 **Ellen:** Make sure you win, okay\!  
@@ -322,7 +322,7 @@ The threshold of the netherworld, in the world of third level jin'i--
 **Tagitsu:** You have no room to talk, toji. With those okatana in your hands, you have only slaughtered my kind--  
 **Hiyori:** That's right. All we're capable of doing is killing and exorcising you. We don't have the power to save you. That's why--  
 **Hiyori:** I'll go with you\!  
-**Kanami:** They raised their jin'i again... Hiyori-chan\!?  
+**Kanami:** They raised their jin'i again... Hiyori-chan\!\?  
 **Sayaka:** Fourth level jin'i... Kanami\!  
 **Tagitsu:** With this, we enter the fourth level of jin'i. You are finally alone, Kogarasu toji.  
 **Hiyori:** That's what I was after from the start\!  
@@ -332,17 +332,17 @@ The threshold of the netherworld, in the world of third level jin'i--
 **Tagitsu:** You've failed to strike me yet, I see.  
 **Hiyori:** Ggh...\!  
 **Tagitsu:** Then, Kogarasu toji\! Be slain here, in the momentary flow of time\!  
-**Tagitsu:** --Wha-\!?  
-**Yukari:** Surely you didn't... Forget about me, did you\!?  
+**Tagitsu:** --Wha-\!\?  
+**Yukari:** Surely you didn't... Forget about me, did you\!\?  
 
 ## 13: The Final Battleground (1)
 **Tagitsu:** Gh, grgh...  
 **Yukari:** --Let's go, Tagitsuhime\! To the depths of hell together\!  
-**Hiyori:** -\!? Yukari\!?  
+**Hiyori:** -\!\? Yukari\!\?  
 **Yukari:** This time, it's my turn\! Juujou\!  
 **Yukari:** Now that I've stabbed Tagitsuhime, you will be the one to suppress her\! That is your role, with the power of the Hiiragi you've inherited\!  
 **Tagitsu:** YUKARIIIIIIIII\!\!  
-**Yukari:** --\!?  
+**Yukari:** --\!\?  
 **Yukari:** ...Kgh\!\! We've come this far...\!\!  
 **Tagitsu:** Heh... Your strength has failed you, has it...  
 **Tagtitsu:** Yukari... You are only human, after all. The effects of twenty years of resistance won't be erased so easily. --HMPH\!  
@@ -357,7 +357,7 @@ The threshold of the netherworld, in the world of third level jin'i--
 **Mihono:** I heard this crazy noise up there earlier too. Maybe they're already fighting Tagitsuhime...  
 **Mihono:** I have to get there somehow\!\!  
 **Aradama:** SHAAAAAAAAAA-\!  
-**Mihono:** Geh\!? More aradama\!?  
+**Mihono:** Geh\!\? More aradama\!\?  
 
 ## 14: The Final Battleground (2)
 **Mihono:** Pant... Pant... This building... They made it way too complicated...  

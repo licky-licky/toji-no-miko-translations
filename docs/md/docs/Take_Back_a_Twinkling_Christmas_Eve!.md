@@ -1,19 +1,15 @@
 
 Take Back a Twinkling Christmas Eve!
 ====================================
+https://www.youtube.com/watch?v=A9JTl61Px6I
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/A9JTl61Px6I" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Take Back a Twinkling Christmas Eve\! Prologue
 --On the night of Christmas Eve, the streets, which every year were covered in twinkling lights, were looking strangely empty this year.
 
   
-**Yui:** Whyyy\!? Why are all the lights off this year\!?  
+**Yui:** Whyyy\!\? Why are all the lights off this year\!\?  
 **Old Salesman:** W-Well, you see, we tried turning them on, okay?  
 **Old Salesman:** But you know, as soon as we did, it started attracting aradama.  
 **Yui:** B-But in that case, we can get rid of them\! So please, if you have a heart, turn the lights back onnn\!  
@@ -22,7 +18,7 @@ Take Back a Twinkling Christmas Eve!
 **Yui:** ...I'll get... Them back...  
 **Old Salesman:** Eh?  
 **Yui:** I'll get back every last one of the ornaments\! And I'll get rid of all the aradama myself-\!  
-**Yui:** Then you'll turn the lights back on for me, right\!?  
+**Yui:** Then you'll turn the lights back on for me, right\!\?  
 **Old Salesman:** L-Look, I'm not the only one responsible here... Anyway, were you really looking forward to the lights that much?  
 **Yui:** Take a look at that\!  
 **High School Girl Returning from Cram School:** Aww, there's no lights up this year. This is the worst.  
@@ -30,7 +26,7 @@ Take Back a Twinkling Christmas Eve!
 **Yui:** And look over there\!  
 **OL Returning from Work 1:** Last year's lights were the prettiest thing to a lonely girl on Christmas, but it's even sadder if they're not doing them...  
 **OL Returning from Work 2:** Come on now, let's go to the bar together\~ Hey mister, pour two for us\!  
-**Yui:** Do you see\!?  
+**Yui:** Do you see\!\?  
 **Old Salesman:** ...Uh... See what??  
 **Yui:** This part of town is loaded with girls coming round to see the decorations\!\!  
 **Yui:** And they need to see those shining lights\!\! So I'm going to save Christmas\!\!\!\!  
@@ -58,7 +54,7 @@ Take Back a Twinkling Christmas Eve!
 **Youji:** Course. The blade itself is a pure blueish white, like snow crystals, and there's a rumor that, during the winter season, this okatana'll show a divine power one time if its owner asks.  
 **Mirja:** I see, that's an interesting story. If there is an okatana like that out there, I'd like to be able to see it for myself once.  
 **Youji:** You know, it's part of the rumor that, this time of year, Sekka's one of those Akabane swords they find out of aradama.  
-**Mirja:** FWHA-\!?  
+**Mirja:** FWHA-\!\?  
 **Mirja:** ...Excuse me, is that true? Does it have to be any specific aradama, in any specific place, or will any do?  
 **Youji:** Y-Yeah, I think anywhere'll do. Every couple of years you hear about someone coming across Sekka.  
 **Youji:** I've never been able to witness it myself, but... Well, even if someone does find it, it doesn't seem to stick around for them to use it very long.  
@@ -84,7 +80,7 @@ Take Back a Twinkling Christmas Eve!
 **Yui:** So get up already\!  
 **Someone's Voice:** ...shi...i\!  
 **Someone's Voice:** ...mashiro...i\!  
-**Mirja:** Yamashiro Yui\! Can you hear me\!?  
+**Mirja:** Yamashiro Yui\! Can you hear me\!\?  
 **Yui:** Mirja... San...?  
 **Mirja:** You've regained consciousness. That's good.  
 **Mirja:** Just as I was impressed with how aggressively you dealt with those aradama, you suddenly collapsed in the street. I was worried, so...  
@@ -100,7 +96,7 @@ Take Back a Twinkling Christmas Eve!
 **Mirja:** I-It's nothing. More importantly, what about the lights? The aradama in the area have been largely cleared out...  
 **Yui:** I got a lot of the ornaments back too, so I was thinking it can't take much more...  
 **Mirja:** Hm... To tell the truth, I was here suppressing aradama for another reason... Why don't we combine forces to finish the job?  
-**Yui:** Ehhh-\!? Just you and me in a tag team, Mirja-san\!?  
+**Yui:** Ehhh-\!\? Just you and me in a tag team, Mirja-san\!\?  
 **Yui:** Hnng\~\! If only I knew there was a reward like that waiting for me\! Hard work gets repaid after all\!  
 **Mirja:** ...I feel like I'm losing more than I offered, but I'll let it slide. Let's move out.  
 **Yui:** Sure thing\!  
@@ -113,7 +109,7 @@ Take Back a Twinkling Christmas Eve!
 **Yui:** Pant... Pant... Was that... All of them...?  
 **Mirja:** Pant... Yamashiro... Yui... Take a look... Around us...  
 **Female Student:** Ooohh. For real, they turned the lights on? That's perfect\!  
-**Drunken OL:** Wh-What, what\!? They're doing the lights again? Ahhahaha\! This's the best\! Being single's the best\!  
+**Drunken OL:** Wh-What, what\!\? They're doing the lights again? Ahhahaha\! This's the best\! Being single's the best\!  
 **Yui:** Mmmm\~, this is it\! This energy\! This is the real Christmas spirit\! We did it, Mirja-san\!  
 **Mirja:** Yes, seeing everyone pleased makes it all worth it.  
 **Yui:** Now that's what I call mission complete\!  
@@ -127,7 +123,7 @@ Take Back a Twinkling Christmas Eve!
 **Mirja:** I see... The power of love, wasn't it?  
 **Yui:** Ah, sorry that took a while. So what do we do now?  
 **Mirja:** Hm. More aradama could appear, so perhaps we should walk around and patrol the area, so they don't turn the lights off again.  
-**Yui:** Wait, that sounds like... Are you asking me out on a Christmas date\!?  
+**Yui:** Wait, that sounds like... Are you asking me out on a Christmas date\!\?  
 **Mirja:** I am not. Maybe we should patrol separately just to be sure.  
 **Yui:** I don't wanna, I don't wanna, I want to be with you, Mirja-san\! Let's go\!  
 **Mirja:** Hang on, who said you could wrap your arm around mine?  
@@ -161,7 +157,7 @@ Take Back a Twinkling Christmas Eve!
 **Tsugumi:** In which case, I suppose I get to handle data collection here myself. Let's see, where's my okatana... Ah.  
 **Kofuki:** Oi, you planning on keeping all the aradama-chan to yourself?  
 **Tsugumi:** Oh, did the party finish already?  
-**Kofuki:** ...Of course not\! Besides, you're the one who invited me, so why aren't you there\!?  
+**Kofuki:** ...Of course not\! Besides, you're the one who invited me, so why aren't you there\!\?  
 **Tsugumi:** ...?  
 **Kofuki:** What're you looking all confused for\! If someone invites you somewhere, you'd expect them to go too\!  
 **Tsugumi:** By any chance, were you looking forward to going to the party with me?  

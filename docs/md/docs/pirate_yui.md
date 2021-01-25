@@ -11,14 +11,14 @@ https://streamable.com/xn6i7s
 **Yui:** Great work as always, Ellen-san\! You look so cool swinging your okatana around; I can't keep my eyes off you\~.  
 **Ellen:** You're not going to make anything happen like that, Yuiyui. But thanks all the same.  
 **Yui:** Cool older girls are a treasure of their own\!  
-**Kiyoka:** Yui-chan\!? There's an aradama coming after you\!  
+**Kiyoka:** Yui-chan\!\? There's an aradama coming after you\!  
 **Yui:** Thanks\! Nice spot, Kiyoka-chan\!  
 **Yui:** --ORYAAAAAAAAAAA\!  
 **Kiyoka:** That should be all the aradama around here for now.  
 **Kiyoka:** Sigh... You made me worried because you were looking away so much.  
 **Yui:** Sorry, sorry. My eyes'll stay glued to you from now on, so forgive me, Kiyoka-chan\!  
 **Kiyoka:** You're not giving me any reason to forgive you at all.  
-**Yui:** Eh\!?  
+**Yui:** Eh\!\?  
 **Ellen:** Ahaha. The investigation team really gets along, don't they.  
 **Kiyoka:** When we first met, I never thought it would turn out like this, but we're just fine now. It's fun being with everyone.  
 **Yui:** Mmhmm. I love all the girls in the investigation team, so I always want to be with them wherever they go.  
@@ -49,12 +49,12 @@ https://streamable.com/4wmjuf
 ## [Pirate - Yui: Start]: Captain Yui's Treasures
 **Yui:** Welcome to my band of pirates, Ellen-san, Kiyoka-chan\! We're going to find the treasure for sure\!  
 **Ellen:** Aye aye sir\! Captain Yui\! We'll have the treasure in our hands\!  
-**Kiyoka:** You're really getting into this, Ellen-san\!?  
+**Kiyoka:** You're really getting into this, Ellen-san\!\?  
 **Ellen:** You have to go all out with this kind of thing\! You should enjoy it as much as you can too, Kiyoka\!  
 **Kiyoka:** Alright\! Then... Captain Yui\! What treasure are we after this time?  
 **Yui:** The treasures that I'm after. That'd be--  
 **Yui:** The fine and dashing ladies of the pirate groups Captain Suu and Captain Boss are leading around\!  
-**Ellen:** What\!?  
+**Ellen:** What\!\?  
 **Yui:** You can all be under my command... Eheheheh.  
 **Kiyoka:** Our objective is to find treasure pendants hidden by old pirates by using our maps before the time runs out...\!  
 **Kiyoka:** If we steal the other team's maps, we'll get points, but girls don't get us anything.  
@@ -71,7 +71,7 @@ https://streamable.com/4wmjuf
 **Yui:** Uwahh\~\~\~\~\!  
 **Yuui:** Mihono-chan, Boss, Satsuki-san; they're all looking so good...\! Ahhh\~\!  
 **Yui:** Boss's miniskirt...\! Those tempting thighs...\!  
-**Yui:** Ah\! They're boarding us\!?  
+**Yui:** Ah\! They're boarding us\!\?  
 **Kiyoka:** Honestly... Come down from the crow's nest and protect our pirate flag, Yui-chan\!  
 **Yui:** Aye aye sir\! I'll be there to protect you, Kiyoka-chan\!  
 **Ellen:** Alright, let's do all we can to protect our captain and pirate flag\!  

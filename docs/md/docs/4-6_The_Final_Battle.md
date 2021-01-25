@@ -11,25 +11,25 @@ https://youtu.be/2H-HzAX9R9w
 **Sayaka:** Fourth level jin'i...  
 **Ellen:** But you managed to keep up until third level jin'i, Saaya. That's amazing.  
 **Mai:** Kanami-chan, Hiyori-chan, Yukari-sama... Please be...  
-**Mihono:** --I made it\! The roof\! Where's Tagitsuhime\!?  
-**Mai:** Eh... Mihono-chan\!?  
+**Mihono:** --I made it\! The roof\! Where's Tagitsuhime\!\?  
+**Mai:** Eh... Mihono-chan\!\?  
 **Mihono:** Ah-\! Mai\! And Itomi-san, Ellen-san, and Kaoru-san\!  
-**Mihono:** Hey, what's going on now\!?  
+**Mihono:** Hey, what's going on now\!\?  
 **Sayaka:** Hiyori is fighting Tagitsuhime, in the threshold of the netherworld.  
 **Kaoru:** And probably Kanami and Origami Yukari are too.  
 **Ellen:** As they kept raising the level of their jin'i, we got left behind...  
 **Mihono:** Nnng, alright... I don't get it at all\!  
 **Mihono:** Anyway, I'm going on after them, okay\!  
-**Mihono:** Eh-\!? Hang on, Mihono-chan\!?  
+**Mihono:** Eh-\!\? Hang on, Mihono-chan\!\?  
 **Kaoru:** Hold it\! You can't get to where Tagitsuhime is now. You can't use fourth level jin'i, can you?  
 **Mihono:** Ugh... Can't I make it if I try really hard?  
 **Kaoru:** Like that's going to work here...  
 **Mihono:** B-But, I have to do something to help here... If I just do nothing, then I'm wasting the chance the rest of the investigation team gave me by sending me ahead...  
-**Ellen:** --\!? Everybody\! Yukari-sama is coming back\!  
+**Ellen:** --\!\? Everybody\! Yukari-sama is coming back\!  
 **Yukari:** ...Grgh\!  
 **Mai:** Oh no\!\! She's badly wounded\!\!  
 **Yukari:** It missed my vitals. I'm fine.  
-**Yukari:** ...\!? Asakura Mihono, you came as well...\!?  
+**Yukari:** ...\!\? Asakura Mihono, you came as well...\!\?  
 **Yukari:** .........Though, it seems you're too late.  
 
 ## 2: Kashuu Kiyomitsu's Will and Destiny
@@ -38,14 +38,14 @@ https://youtu.be/2H-HzAX9R9w
 **Yukari:** ...This isn't good. Along with the border between this world and the netherworld, Hirukomitama is... drawing much too close to the earth.  
 **Mihono:** Hiruko mitama? What's that?  
 **Yukari:** Tagitsuhime's true body, left in the netherworld.  
-**Mihono:** Ehh-\!? Then, if that falls down to the ground, won't it be really bad\!?  
+**Mihono:** Ehh-\!\? Then, if that falls down to the ground, won't it be really bad\!\?  
 **Yukari:** Yes... If Tagitsuhime manages to combine with her true body, Hirukomitama, Etou and Juujou will stand no chance. However...  
 **Yukari:** More than that, Hirukomitama making landfall is something we must avoid at all costs.  
 **Yukari:** Hirukomitama is estimated to be 600 square kilometers... Roughly the same size as the 23 wards of Tokyo.  
-**Kaoru:** The same size as the 23 wards of Tokyo\!? Are you sure someone didn't get their math wrong\!?  
+**Kaoru:** The same size as the 23 wards of Tokyo\!\? Are you sure someone didn't get their math wrong\!\?  
 **Yukari:** I wish that were the case too. ...When Hirukomitama makes landfall, it will without a doubt mean the world's destruction.  
 **Yukari:** If we don't destroy Hirukomitama soon... If we can destroy Hirukomitama, then I'll deal with Tagitsuhime...\!  
-**Mai:** -\!? Yukari-sama, you don't mean, you plan to keep fighting\!?  
+**Mai:** -\!\? Yukari-sama, you don't mean, you plan to keep fighting\!\?  
 **Ellen:** That's insane\!\! Look at all the blood coming from your stomach\!\!  
 **Sayaka:** I'll go.  
 **Kaoru:** I'm going too.  
@@ -58,7 +58,7 @@ https://youtu.be/2H-HzAX9R9w
 **Mihono:** Where there's a will, there's a way\! ...Kanami's waiting on me-\!\!  
 **Mihono:** I need the strength...\! To protect Kanami... The strength to protect everyone\!\! Right now\!\! Right here\!\!  
 **Mihono:** Please\! Kiyomitsu\!\!  
-**Yukari:** Asakura Mihono... That state you're in...\!?  
+**Yukari:** Asakura Mihono... That state you're in...\!\?  
 **Mihono:** This is the power of me and Kiyomitsu\!  
 **Mihono:** Yukari-sama\! Please, leave Hirukomitama to me... To me and Kiyomitsu\!  
 **Yukari:** The will of Kashuu Kiyomitsu. And, it's destiny too...  
@@ -70,9 +70,9 @@ https://youtu.be/2H-HzAX9R9w
 ## 3: Yume Arrives
 **Yukari:** Now, Asakura Mihono, I will briefly explain--  
 **Yume:** Here I ammm-\!\! Okay, where could Tagitsuhime be-?  
-**Yukari:** --Yume\!?  
+**Yukari:** --Yume\!\?  
 **Yume:** Ah-\! Yukari-sama-\!  
-**Yume:** --Wait, why are you hurt\!? Where's Tagitsuhime\!?  
+**Yume:** --Wait, why are you hurt\!\? Where's Tagitsuhime\!\?  
 **Yukari:** What are you doing here...  
 **Yukari:** Yume... Can you use utsushi?  
 **Yume:** Huh? Utsushi? Of course I can, but...  
@@ -109,7 +109,7 @@ https://youtu.be/2H-HzAX9R9w
 **Mihono:** We're running out of time, so let's look for it fast\!  
 **Yume:** Hey-, I'm the stronger one here, so don't tell me what to do...  
 **Aradama:** --GUUOOOOO\!  
-**Yume:** Aradama\!?  
+**Yume:** Aradama\!\?  
 **Mihono:** But we don't have time to deal with all these...\!\!  
 
 ## 5: Joint Struggle (2)
@@ -120,13 +120,13 @@ https://youtu.be/2H-HzAX9R9w
 **Yume:** I changed my mind a little. When we get back, maybe I'll want to have a match with you.  
 **Mihono:** Fine by me\! But, before we can do that, we've gotta beat Hirukomitama\! Let's look for it fast\!  
 **Yume:** ...Wait, Onee-san\! --Look over there\! There's something weird\!  
-**Mihono:** What is...\!? No wait, that's...\!\!  
+**Mihono:** What is...\!\? No wait, that's...\!\!  
 
 ## 6: Hirukomitama (1)
-**Mihono:** It disappeared\!? What was that just now\!? You saw that weird thing way over there, right\!?  
+**Mihono:** It disappeared\!\? What was that just now\!\? You saw that weird thing way over there, right\!\?  
 **Yume:** Onee-san\! Behind you\!\!  
 **Hirukomitama:** .........  
-**Yume:** What is, that thing\!?  
+**Yume:** What is, that thing\!\?  
 **Mihono:** Maybe that's part of Hirukomitama...?  
 **Yume:** I get it now\! It didn't just disappear... This place, what we're standing on, it's all Hirukomitama, so it can come out wherever it wants\!  
 **Mihono:** Hirukomitama\! We're here to destroy you\!  
@@ -138,7 +138,7 @@ https://youtu.be/2H-HzAX9R9w
 ## 7: Hirukomitama (2)
 **Mihono:** What's with this thing... I doesn't feel like I'm doing any damage to it at all\!  
 **Hirukomitama:** .........  
-**Yume:** What's wrong, Onee-san\! You gonna start crying already\!?  
+**Yume:** What's wrong, Onee-san\! You gonna start crying already\!\?  
 **Mihono:** I just felt like complaining a little\! This isn't enough for me to give up yet\!  
 **Mihono:** No matter how big its true body is, where there's a will, there's a way\!  
 **Yume:** I think it might be a while since I've had this much fun\! I'll show you\! More and more, just what makes me so great\!  
@@ -163,14 +163,14 @@ At that time, the fighting continued between Juujou Hiyori and Tagitsuhime--
 **Kanami:** --Hiyori-chaaaan\!  
 **Tagitsu:** Hm...?  
 **Kanami:** Hiyori-chan\!  
-**Hiyori:** Kanami\!? How did you manage fourth level jin'i\!?  
+**Hiyori:** Kanami\!\? How did you manage fourth level jin'i\!\?  
 **Kanami:** I tried my hardest\! I wanted to catch up to you, Hiyori-chan\!  
 **Hiyori:** You tried your hardest...?  
 **Hiyori:** Sure... That's about what I expect from you.  
 **Kanami:** Hiyori-chan\! Tagitsuhime is...\!  
 **Tagitsuhime:** --The time is now. ...Hirukomitama\!\!  
-**Hiyori:** Hirukomitama--\!? Don't tell me, she's trying to combine with her true body in the netherworld\!?  
-**Hiyori:** ...\!? Something doesn't look right.  
+**Hiyori:** Hirukomitama--\!\? Don't tell me, she's trying to combine with her true body in the netherworld\!\?  
+**Hiyori:** ...\!\? Something doesn't look right.  
 **Tagitsu:** Hmph... It seems we were unable to fully unite.  
 **Tagisuhime:** Well, no matter. Come, entertain me.  
 
@@ -214,28 +214,28 @@ At that time, the fighting continued between Juujou Hiyori and Tagitsuhime--
 **Nene:** Ne-...  
 **Ellen:** The gate to the netherworld is getting smaller...  
 **Yukari:** The gate is closing...\!  
-**Mihono:** It's closing...? What does that mean\!? Wait, wait\! What about Kanami and Juujou-san\!?  
+**Mihono:** It's closing...? What does that mean\!\? Wait, wait\! What about Kanami and Juujou-san\!\?  
 **Yukari:** I'm sorry...  
-**Mihono:** ...\!\! Was this what you planned... from the start\!?  
+**Mihono:** ...\!\! Was this what you planned... from the start\!\?  
 **Yukari:** Juujou and Etou... did their duty...  
 **Mihono:** Please just wait, Yukari-sama\!\! Kanami and Juujou-san, they can still--\!\!  
 **Yukari:** If we don't seal off the netherworld now, it would be a repeat of twenty years ago... Even if I were to devote my entire being as a toji to it\!  
-**Mihono:** But, still\! If that's the case, then why did I have to--\!?  
+**Mihono:** But, still\! If that's the case, then why did I have to--\!\?  
 **Yukari:** If you would resent me for this... That's fine\!  
 **Yukari:** Grant unto us, in all things, cleansing, purification, of wickedness, sin, and defilement...  
 **Yukari:** These wishes we most humbly entreat\!  
 **Mihono:** Kanami... Juujou-san...  
 **Yukari:** ...Asakura, I'm grateful. Had you not defeated Hirukomitama, I wouldn't have been able to seal off the netherworld.  
-**Mihono:** -\!? Th-Then... It's because of me, that Kanami and Juujou-san are...  
+**Mihono:** -\!\? Th-Then... It's because of me, that Kanami and Juujou-san are...  
 **Yukari:** That's not it\! It's because of you that the world was saved.  
 **Kaoru:** ...Goddamnit-\!\!  
 **Sayaka:** Ahh...  
 **Mai:** But...  
 **Ellen:** ...Kanamin... Hiyoyon...  
 **Chie:** --Everyone\!  
-**Mirja:** If the gate to the netherworld has been closed, does that mean Tagitsuhime has been defeated\!?  
+**Mirja:** If the gate to the netherworld has been closed, does that mean Tagitsuhime has been defeated\!\?  
 **Kofuki:** Oi, Mihocchi\! Looks like you managed to help out some after all\!  
-**Kiyoka:** -\!? Yukari-sama is badly hurt\!\!  
+**Kiyoka:** -\!\? Yukari-sama is badly hurt\!\!  
 **Suzuka:** Yukari-sama-\! I'll call a rescue team straight away\!  
 **Suzuka:** For Yukari-sama to be wounded this badly... Still, you safely managed to defeat Tagitsuhime, didn't you?  
 **Yui:** ...Uh, I don't see Kanami-chan and Hiyori-chan anywhere. Where did they go?  
@@ -250,7 +250,7 @@ At that time, the fighting continued between Juujou Hiyori and Tagitsuhime--
 **Sana:** ......The sealing has been completed\! They did it\!  
 **Yuzuki:** Good\! You did a fine job, Yukari\! Our mission is complete\!  
 **Toji A:** Asakura and Tsubakuro's vital signs have stabilized\! ......But...  
-**Yuzuki:** But, what? What is it\!?  
+**Yuzuki:** But, what? What is it\!\?  
 **Toji A:** ...Etou and Juujous vitals, they haven't returned.  
-**Yuzuki:** What does that mean... What's happened to them\!? Confirm the situation, immediately\!  
+**Yuzuki:** What does that mean... What's happened to them\!\? Confirm the situation, immediately\!  
 > :ToCPrevNext

@@ -1,13 +1,9 @@
 
 Chain Story Archives Part 2.5.2
 ===============================
+https://www.youtube.com/watch?v=NhIKOCOdky8
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/NhIKOCOdky8" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 4: An Atmosphere of Unrest
 **Akira:** Seriously? People won't stop calling today... Tch, and it just had to be these assholes.  
@@ -21,14 +17,14 @@ Chain Story Archives Part 2.5.2
 **???:** Suppress the aradama, retrieve their noro, and... Keep an eye on the girl. You can do that, can't you?  
 **Akira:** ...  
 **Akira:** Yeah, sure, I got it\! While I'm suppressing the aradama, I'll get you some noro\!  
-**Akira:** That good enough for you\!?  
+**Akira:** That good enough for you\!\?  
 **???:** We have high expectations.  
 **Akira:** FUCK\!  
 **Akira:** ...Sigh.  
 **Akira:** Ahh, feels a little better letting it out like that\! Damnit, this is starting to get on my nerves.  
 **Toji A:** Defend this position, no matter what\!  
 **Tojis:** Right\!  
-**Mihono:** There's this many aradama\!?  
+**Mihono:** There's this many aradama\!\?  
 **Hana:** It's like this everywhere inside. We keep killing them and killing them... And more aradama appear.  
 **Hana:** That's why we left our unit at a key location and went to secure an escape route.  
 **Mihono:** ...  
@@ -40,7 +36,7 @@ Chain Story Archives Part 2.5.2
 **Mihono:** There she is\!  
 **Hana:** HAAAAAA\!\!  
 **Woman:** ...  
-**Mihono:** Are you okay\!?  
+**Mihono:** Are you okay\!\?  
 **Hana:** Don't move her\!  
 **Hana:** ...There's no injury on her head, and she doesn't seem badly hurt... Alright, she only lost consciousness is all.  
 **Hana:** It should be okay if we wake her up.  
@@ -105,7 +101,7 @@ Chain Story Archives Part 2.5.2
 **Mihono:** Ahaha, I'm totally okay with it\! I'll call you Yui too then.  
 **Yui:** Thanks, Mihono-chan\! I feel like I could fight for another five hours now.  
 **Hana:** Five hours? You're keeping it realistic, huh.  
-**Man B:** What are you standing around gossiping for\!? If you've got more toji, then start getting us out of here\!  
+**Man B:** What are you standing around gossiping for\!\? If you've got more toji, then start getting us out of here\!  
 **Mihono:** -\!  
 **Mihono:** (They're like this here too...)  
 **Man A:** Don't talk to them like that\! These girls are risking their lives fighting for us\!  
@@ -118,7 +114,7 @@ Chain Story Archives Part 2.5.2
 **Yui:** Ugh, sorry. I'll do that.  
 **Hana:** Oh, right.  
 **Hana:** Do you mind if I ask why you decided to transfer, Yui?  
-**Yui:** Where's this coming from? Could it be, you're just so interested in me you can't help it\!?  
+**Yui:** Where's this coming from? Could it be, you're just so interested in me you can't help it\!\?  
 **Hana:** Asakura-san asked me about it before. Now seemed like a good time, so I figured I'd ask you too.  
 **Mihono:** Thanks, Suzumoto-san.  
 **Yui:** Does that mean you're joining us, Mihono-chan?  
@@ -131,7 +127,7 @@ Chain Story Archives Part 2.5.2
 **Mihono:** Yeah. I can tell you and Yui both put a lot of thought into why you transferred.  
 **Mihono:** And I...  
 **Mihono:** (All I thought about was whether I'd stay with everyone. I should really... Think about it harder now.)  
-**Mihono:** What was that sound\!?  
+**Mihono:** What was that sound\!\?  
 **Hana:** It sounded like glass breaking, but... It's sort of unsettling not knowing what happened.  
 **Mihono:** I'll go check it out then\! Suzumoto-san and Yui-san, you stay here\!  
 **???:** ORA\!  
@@ -141,7 +137,7 @@ Chain Story Archives Part 2.5.2
 **???:** C'mon, I don't have time for you small fry. Quit swarming me, damnit.  
 **Mihono:** (She's backup? She's wearing a Minoseki uniform, but... I've never seen her before.)  
 **???:** Finally...  
-**Mihono:** (\!? She's collecting the noro? Why is she doing that now, like she's hiding it...)  
+**Mihono:** (\!\? She's collecting the noro? Why is she doing that now, like she's hiding it...)  
 **Mihono:** That's enough\!  
 **???:** Huh?  
 **Mihono:** I'm Asakura Mihono, second year at Minoseki Academy's middle school division\! What are you doing out here?  
@@ -165,7 +161,7 @@ Chain Story Archives Part 2.5.2
 **Mihono:** (Whatever her reason, I'd better stop her\!)  
 **???:** It's not in me to waste breath arguing.  
 **???:** Let's go.  
-**Mihono:** -\!?  
+**Mihono:** -\!\?  
 **Mihono:** (That was so fast... And she hits hard too\!)  
 **???:** HAAA\!\!  
 **Mihono:** Grh\!  
@@ -182,7 +178,7 @@ Chain Story Archives Part 2.5.2
 **Yui:** Mihono-chan\!  
 **???:** Huh?  
 **Yui:** GET AWAY FROM MIHONO-CHAAAAAAN\!  
-**???:** Thought you'd get me by surprise\!? Too bad; I'm used to that\!\!  
+**???:** Thought you'd get me by surprise\!\? Too bad; I'm used to that\!\!  
 **Yui:** Gh...  
 **???:** What was with her?  
 **Hana:** ...What do you think you're doing, Inago-san?  
@@ -200,7 +196,7 @@ Chain Story Archives Part 2.5.2
 **Hana:** Anyway, that's Inago Akira-san.  
 **Akira:** I'm Inago Akira. Good to meet you.  
 **Akira:** Sorry about before; I just took you out on reflex.  
-**Yui:** No, don't worry about it\! More importantly... Can I call you Boss\!?  
+**Yui:** No, don't worry about it\! More importantly... Can I call you Boss\!\?  
 **Akira:** Sure, call me whatever.  
 **Yui:** Will do\!  
 **Akira:** And, I didn't mean for things to get out of hand before, Mihono. I lost my cool and wasn't thinking straight.  

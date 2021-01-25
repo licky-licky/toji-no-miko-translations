@@ -5,7 +5,7 @@ https://youtu.be/Q0k7SGHuyNM
 
   
 
-## 1: Joint Training Always Comes When You Least Expect\!?
+## 1: Joint Training Always Comes When You Least Expect\!\?
 **Kanami:** Why do you think they called all the toji who weren't on missions to meet here? Mai-chan, do you know?  
 **Mai:** Since they've gathered up students from all the Five Traditions, maybe it's some kind of practice drill? Ah, Shidou-san came out.  
 **Maki:** This may be sudden, but we've decided to use this period of your summer vacation to improve your command of tactics.  
@@ -56,7 +56,7 @@ https://youtu.be/Q0k7SGHuyNM
 **Kaoru:** I do, but... Practice, work, manual labor... The moment I start thinking about those, my body gets too heavy to move... Sorry, Sayaka.  
 **Kaoru:** But, I'll be cheering you on. You can do it-, Sayaka-.  
 **Sayaka:** I understand. I'll try to do it...  
-**Uraga Nao:** You're fine with that, Itomi-san\!?  
+**Uraga Nao:** You're fine with that, Itomi-san\!\?  
 **Kofuki:** Tch... Getting my ass kicked for nothing by Sayaka would be annoying too... Chichie, I'll pin her down.  
 **Chie:** Okay\! ...Hey, and my name isn't Chichie\!  
 **Nao:** Mashiko-san, you get in formation too\~... I'm begging you\~.  
@@ -85,7 +85,7 @@ https://youtu.be/Q0k7SGHuyNM
 **Hiyori:** Yeah. It's just, I don't think I'll be used to fighting with these soft foam swords. Though, they should have the same issue.  
 **Tsugumi:** The moment you're hit, you're eliminated. You need to be careful.  
 **Hiyori:** Mihono, you'll be careful, right?  
-**Mihono:** Why me\!? Um... I think I'll be fine?  
+**Mihono:** Why me\!\? Um... I think I'll be fine?  
 **Mihono:** Ahaha... I'd like to be able to go and play with Chii-nee and everyone at the pool\!  
 **Hiyori:** We have to win first to make that happen, don't we...?  
 **Sanae:** Hey now, having the right motivation is important too. Isn't it, Asakura-san?  
@@ -95,12 +95,12 @@ https://youtu.be/Q0k7SGHuyNM
 **Tsugumi:** So then, we'll go with a surprise attack?  
 **Mihono:** I want to fight Kanami fair and square, but we can do that some other time...\!  Cause I want that pool ticket\!  
 **Kanami:** Ah, I spotted Mihono-chan\! And Mai-chan and Hiyori-chan too\!  
-**Mihono:** Geh... Kanami\!?  
+**Mihono:** Geh... Kanami\!\?  
 
 ## 3: A Small Move Done Secretly
 **Kanami:** I thought I heard Mihono-chan talking, but I didn't expect them to be this close by.  
 **Mirja:** It was so blatant that I assumed they were using Asakura Mihono as a decoy, but it seems I was wrong.  
-**Mihono:** Fwhe\!?  
+**Mihono:** Fwhe\!\?  
 **Ellen:** So much for our surprise attack-. Mirja, are we okay to go?  
 **Mirja:** Yes, I sent a message to the administrators that Etou Kanami has encountered the corresponding team.  
 **Sanae:** They're messaging to start the battle...\! Yanase-san?  
@@ -118,10 +118,10 @@ https://youtu.be/Q0k7SGHuyNM
 **Ellen:** Fufu. That's a risk I'm willing to take. --HAA-\!  
 **Mirja:** Where do you think you're going? Asakura Mihono.  
 **Mihono:** Um, uhh... I thought I'd play with Yui a little...?  
-**Mihono:** --Hey, Mirja-san\!? You're going to attack without even saying anything\!?  
+**Mihono:** --Hey, Mirja-san\!\? You're going to attack without even saying anything\!\?  
 **Mai:** Mihono-chan, create some distance\!  
 **Ellen:** --You're open\!  
-**Mai:** ...\!?  
+**Mai:** ...\!\?  
 **Yui:** Ahh-, two groups of girls meeting for a heated sweaty battle\! I bet it smells great\!  
 **Kiyoka:** And, out of everyone... Why are you acting like you're just a spectator? Though, given the situation, I suppose I'm one too...  
 **Yui:** I thought I'd help you relax, Kinuka-san. I'm also at my strongest when my body gets all heated up\!  
@@ -164,7 +164,7 @@ https://youtu.be/Q0k7SGHuyNM
 **Sanae:** ...\!  
 **Sanae:** (Juujou-san... It's all on you\!)  
 **Hiyori:** I know-- And it's over, Kanami.  
-**Kanami:** \!?  
+**Kanami:** \!\?  
 **Kanami:** Ah-, she got me-. I got too focused on Iwakura-san that I couldn't react elsewhere.  
 **Hiyori:** I'm going to go back up Mai and Mihono.  
 **Sanae:** Mm, take care of the rest.  
@@ -192,7 +192,7 @@ https://youtu.be/Q0k7SGHuyNM
 **Mihono:** I know that, but... Where'd Mizushina-san go??  
 **Mai:** Mihono-chan... Look out\!  
 **Kinuka:** ...There-\!  
-**Mihono:** ...Huh\!?  
+**Mihono:** ...Huh\!\?  
 **Mirja:** Ah...\! Yamashiro Yui... Guard Mizushina Kinuka right now\!  
 **Yui:** I-I'm on it... Mirja-san\!  
 **Yui:** That was way too risky; don't scare me like that\~. Though, I love an older girl who can be a little daring\!  
@@ -278,20 +278,20 @@ https://youtu.be/eNoknnmG1eI
 **Kanami:** I'd be alright with just swimming, but... With two of us, it'd definitely turn into a competition.  
 **Mai:** And also, that wouldn't be any different from PE class.  
 **Kanami:** That's true... Then, what about something like, going against the current in the river pool? Yeah\! That could be a great full body exercise\!  
-**Mai:** Aren't you just looking to do more training, Kanami-chan\!? Didn't we come here to enjoy ourselves today?  
+**Mai:** Aren't you just looking to do more training, Kanami-chan\!\? Didn't we come here to enjoy ourselves today?  
 **Kanami:** Ah... That's just where my mind started going to... Sorry, Mai-chan\!  
 **Mai:** It's nothing to apologize over. It's very like you, Kanami-chan.  
 **Kanami:** Come up with something good for me, please\!  
 **Mai:** Fufu, I'll give it a shot\!  
 **Mai:** Let's see, something fun that's not connected to training... Ah\!  
 **Mai:** Kanami-chan, let's go down a water slide\!  
-**Kanami:** We're starting off with a water slide\!?  
+**Kanami:** We're starting off with a water slide\!\?  
 **Mai:** Yep\!  
 **Mai:** I don't think many people will be on those this time of day, so we should be able to get right to the front of the line\!  
 **Kanami:** Oh yeah\! Good thinking, Mai-chan\!  
 **Kanami:** Alright\! As soon as we get to the pool, we'll go down a water slide\!  
 
-## [Kanami: End]: A Heartpounding Water Slide\!?
+## [Kanami: End]: A Heartpounding Water Slide\!\?
 **Attendant:** Okay, the next person can come on up-. Are the two of you riding together? Or will you go separately?  
 **Kanami:** Oh, we can ride down together.  
 **Kanami:** What should we do, Mai-chan?  
@@ -307,22 +307,22 @@ https://youtu.be/eNoknnmG1eI
 **Mai:** Y-You're right... Mm, I won't be able to ride it otherwise... Mm.  
 **Mai:** ...I'm getting on then.  
 **Attendant:** Excuse me-, could the two of you get a bit closer together-?  
-**Mai:** We need to be even closer\!?  
+**Mai:** We need to be even closer\!\?  
 **Kanami:** Sure thing-. You heard them, Mai-chan\!  
-**Mai:** Ehh\!? I-Is that really okay\!?  
+**Mai:** Ehh\!\? I-Is that really okay\!\?  
 **Kanami:** Come on, wrap your arms around my stomach.  
 **Mai:** A-Alright then. In that case...  
-**Kanami:** ...\!? Ahahahaha\! Th-That tickles, Mai-chan\!  
-**Mai:** Ahh\!? Sorry, I didn't mean to, Kanami-chan\!?  
+**Kanami:** ...\!\? Ahahahaha\! Th-That tickles, Mai-chan\!  
+**Mai:** Ahh\!\? Sorry, I didn't mean to, Kanami-chan\!\?  
 **Attendant:** There are places to hold onto the boat, so you can hang onto there instead-.  
 **Mai:** Oh, there are...  
 **Kanami:** We messed it up, huh.  
 **Mai:** It's kind of embarrassing. ...Okay, I'm ready to go.  
 **Kanami:** Then, here we go\!  
-**Kanami:** Ohh\!? We're moving really fast\!\! Ah, I saw Yui-chan over that way\!  
+**Kanami:** Ohh\!\? We're moving really fast\!\! Ah, I saw Yui-chan over that way\!  
 **Mai:** Eh, where at? Oh, Tsugumi-san is with her too\!  
 **Mai:** This feels like you could use it to train your kinetic vision, huh, Kanami-chan\!  
-**Kanami:** Hey, you're starting to sound like me now\!?  
+**Kanami:** Hey, you're starting to sound like me now\!\?  
 **Kanami:** Ahh... That was so fun\!  
 **Kanami:** Let's go again, and bring Yui-chan and Tsugumi-san along\! This time, you can sit in front, Mai-chan\!  
 **Mai:** Alright\!  
@@ -333,7 +333,7 @@ https://youtu.be/WUlpqEzhjx0
 ## [Yui: Start]: The Pool is Heaven
 **Yui:** Tsugumi-san, want to come to the pool with me next Sunday?  
 **Tsugumi:** Just the two of us, Yamashiro-san?  
-**Yui:** You're fine with it just being you and me\!? You're so adventurous, Tsugumi-san-\!\!  
+**Yui:** You're fine with it just being you and me\!\? You're so adventurous, Tsugumi-san-\!\!  
 **Tsugumi:** I am not. Besides, wouldn't it be boring going to the pool with someone like myself?  
 **Yui:** Seriously-\! I don't get it; how could a date at the pool all alone with a cute girl ever be boring?  
 **Tsugumi:** It's impossible to predict what will set you off, Yamashiro-san.  
@@ -345,10 +345,10 @@ https://youtu.be/WUlpqEzhjx0
 **Yui:** Hooray-\! Be sure to get an extra cute swimsuit ready for it, okay-\!  
 **Yui:** What kind of swimsuit did you buy, Tsugumi-san?  
 **Tsugumi:** Just an ordinary one.  
-**Yui:** Did you really get a swimsuit just for this\!? I'm so glad to hear it\!  
+**Yui:** Did you really get a swimsuit just for this\!\? I'm so glad to hear it\!  
 **Tsugumi:** There's nothing wrong with having a swimsuit handy.  
 **Tsugumi:** How much swimming do you plan on doing, Yamashiro-san?  
-**Yui:** You think we're going swimming\!?  
+**Yui:** You think we're going swimming\!\?  
 **Yui:** No wait, since we're going to the pool together, we should have fun with each other\!  
 **Tsugumi:** But, isn't the purpose of a pool facility to let you swim?  
 **Yui:** That's what school pools are for. But we're here to enjoy the pool today\!  
@@ -373,7 +373,7 @@ https://youtu.be/WUlpqEzhjx0
 **Yui:** I knew you'd understand, Mai-chan\!  
 **Tsugumi:** How exactly do you plan on making it more challenging though?  
 **Tsugumi:** Are we going to cross it while doing a handstand?  
-**Yui:** A handstand\!?  
+**Yui:** A handstand\!\?  
 **Yui:** Going upside down in swimsuits on the floating islands... Everybody's bodies wobbling around... Tsugumi-san, are you a genius...?  
 **Mai:** Hang on, wouldn't doing a handstand on it be dangerous? We have to set a good moral standard.  
 **Yui:** Ugh... If that's what your conscience as a toji says, then we'll just have to go along...  
@@ -395,11 +395,11 @@ https://youtu.be/WUlpqEzhjx0
 **Tsugumi:** ...Yamashiro-san, thank you for asking me to come with you.  
 **Yui:** Tsugumi-san smiled...  
 **Yui:** (Wait? The mood here... If I confessed to her right now, doesn't it seem like she'd accept?)  
-**Yui:** Tsugumi-san, I-- PHWAGH\!?  
+**Yui:** Tsugumi-san, I-- PHWAGH\!\?  
 **Tsugumi:** The water hoses have started up.  
-**Yui:** Did you really have to give me a cold shower nowwwwww\!?  
-**Tsugumi:** Yamashiro-san\!? You'll slip on the wet platform, moving like that...  
-**Yui/Tsugumi:** KYAAAAAAA\!?  
+**Yui:** Did you really have to give me a cold shower nowwwwww\!\?  
+**Tsugumi:** Yamashiro-san\!\? You'll slip on the wet platform, moving like that...  
+**Yui/Tsugumi:** KYAAAAAAA\!\?  
 **Tsugumi:** We failed, didn't we...  
 **Yui:** But, I still had a lot of fun. Let's go again, Tsugumi-san\!  
 > :ToCPrevNext

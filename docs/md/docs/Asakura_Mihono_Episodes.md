@@ -1,13 +1,9 @@
 
 Asakura Mihono Episodes
 =======================
+https://www.youtube.com/watch?v=G49bNBzXc8k
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/G49bNBzXc8k" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/datvCWUrKKc
 
   
@@ -25,7 +21,7 @@ https://youtu.be/75s9LlmOAs4
   
 
 ## 1: Asakura Mihono's Easygoing Day
-**Mihono:** Yawwwn... Eh\!? Crap\! I'm gonna be late\!  
+**Mihono:** Yawwwn... Eh\!\? Crap\! I'm gonna be late\!  
 **Subara Rika:** Morning, Mihono-chan\~. You overslept again, didn't you? Your hair's a mess. You're usually so early on days with sparring practice though.  
 **Rika:** Even if regular classes are boring, this is why you keep getting scolded, you know? But personally, I think learning the history of toji and tamahagane, and the relationship between noro and aradama, is pretty interesting.  
 **Mihono:** Yeah, buttt...  
@@ -45,7 +41,7 @@ https://youtu.be/75s9LlmOAs4
 **Nagae Futaba:** Don't dodge\! Fight me fair and square\!  
 **Rika:** Fudaba-chan... There's nothing fair and square about sneak attacks...  
 **Mihono:** Geez, you're always all worked up. You'd be so much cuter if you'd just calm down... You're not getting any more popular like that, you know?  
-**Futaba:** Huh...\!?  
+**Futaba:** Huh...\!\?  
 **Rika:** Ufufu. You really like Mihono-chan, don't you, Futaba-chan?  
 **Futaba:** I do not\!  
 **Hattori Tetsuo:** Ah\! I figured you were the ones making all that noise\! If you aren't busy, they need you to help out\!  
@@ -62,7 +58,7 @@ https://youtu.be/75s9LlmOAs4
 **Futaba:** Ah, Senpai\! Um, ah... Err, m-my...  
 **Mihono:** Don't worry about it, Senpai. I didn't wear Kiyomitsu out too bad this time. And besides, its scheduled maintenance is pretty soon.  
 **Mihono:** But you should check out Futaba's Magoroku. She's been saying it's falling apart lately.  
-**Futaba:** Ehh\!?  
+**Futaba:** Ehh\!\?  
 **Hattori:** Really? Then come on, Nagae. I'll give it a look.  
 **Futaba:** A-Ah... Thank you so much, Hattori... Senpai...  
 **Mihono:** ...... .........  
@@ -115,7 +111,7 @@ https://youtu.be/75s9LlmOAs4
 **Mihono:** Ahaha\!  
 **Mihono:** But Chii-nee, you haven't changed a bit\! You've still got that onee-san feeling... Your boobs got bigger though.  
 **Chie:** Really? Well you've changed and you haven't, Mihono-chan. You still have that strong sense of justice, and you charge right into danger the same way. But you're taller now, and so much stronger, and you became so pretty.  
-**Mihono:** Ahh\! Geez\! What's the big idea, complimenting me like that\!? ...I'll be right back\!  
+**Mihono:** Ahh\! Geez\! What's the big idea, complimenting me like that\!\? ...I'll be right back\!  
 **Kiyoka:** Um, where are you going?  
 **Mihono:** T-The bathroom...\!  
 *Mihono runs away blushing*
@@ -128,7 +124,7 @@ https://youtu.be/75s9LlmOAs4
 
 ## 4: About the Childhood Friends (2)
 **Chie:** Well, since Mihono-chan went to the bathroom, I'll say this... Actually, that sense of justice of hers has always made her a little reckless.  
-**Chie:** Like when Etou Kanami-san and Juujou Hiyori-san attacked the head of the family... She ran after them shouting "I know there's a good reason for this\!" Honestly, as her onee-san, I wish she wouldn't act like that...  
+**Chie:** Like when Etou Kanami-san and Juujou Hiyori-san attacked the head of the family... She ran after them shouting "I know there's a good reason for this\!\" Honestly, as her onee-san, I wish she wouldn't act like that...  
 **Kofuki:** ...Like a moron?  
 **Kiyoka:** Well, I think it's nice how much she trusts her friend.  
 **Kofuki:** Huh? It's still dumb. There's no way she was getting through the elite guard and the rest of them.  
@@ -153,13 +149,13 @@ https://youtu.be/75s9LlmOAs4
 **Kofuki:** Hey.  
 **Kiyoka:** ?  
 **Kofuki:** Didn't she just enter her second year? So I'm supposed to believe... Just over a year ago, she was some kind of brat gang leader?  
-**Kiyoka/Chie:** Now that you mention it\!?  
+**Kiyoka/Chie:** Now that you mention it\!\?  
 
 ## 5: Who Do They Like?
-**Nagae Futaba:** U-Um, Hattori-senpai\! W-Would you take...\! A-A-Another look at my okatana sometime\!?  
+**Nagae Futaba:** U-Um, Hattori-senpai\! W-Would you take...\! A-A-Another look at my okatana sometime\!\?  
 **Futaba:** T-Thank you so much...\! It's a promise\!  
 **Hattori Tetsuo:** O-Okay, sure... W-Wait\! Uh, Futaba-chan, wasn't it?  
-**Hattori:** She's gone already though... Oww\! Watch it, Asakura\!?  
+**Hattori:** She's gone already though... Oww\! Watch it, Asakura\!\?  
 **Mihono:** Uwah\! It's him\!  
 **Hattori:** Come on, don't treat me like that. I'm not an aradama.  
 **Mihono:** ...Well, I'm going then.  
@@ -182,16 +178,16 @@ https://youtu.be/75s9LlmOAs4
 **Hattori:** Wh... What...? So I never had a chance then...? Ahhhhh\! Chie-saaaaan\!  
 **Mihono:** Oh, he ran off... It was just meant to be a joke... But if he was going to get shut down that easy, he didn't stand a chance anyway.  
 **Mihono:** Still, to think Hattori-senpai would be into Chii-nee... That's too weird...  
-**Futaba:** Hey, Mihono\! You were talking to my Hattori-senpai, weren't you\! Are you friends? Or... Don't tell me, you're going out\!?  
+**Futaba:** Hey, Mihono\! You were talking to my Hattori-senpai, weren't you\! Are you friends? Or... Don't tell me, you're going out\!\?  
 **Mihono:** Huh? Going out with who?  
 **Futaba:** Don't\! Play\! Dumb\! With\! Me\!  
 **Mihono:** Oh, you mean Hattori-senpai? Seems like he's into gentle, nice smelling, accepting, and big chested girls?  
 **Mihono:** Good luck, Futaba\!  
-**Futaba:** Huh\!? What do you mean, good luck\!? T-Though I'm still growing... Mm, I'm still growing... I'll... I'll figure something out...  
+**Futaba:** Huh\!\? What do you mean, good luck\!\? T-Though I'm still growing... Mm, I'm still growing... I'll... I'll figure something out...  
 **Mihono:** You'll be fine\! Hattori-senpai likes girls that praise him too, so just keep it up and he'll be all over you... Probably.  
-**Futaba:** Really...? You sure know a lot, Mihono... Wait, how do you know so much about Hattori-senpai... Wait...\!?  
-**Futaba:** Tell me\! Is he your ex\!?  
-**Mihono:** Why'd you think that\!?  
+**Futaba:** Really...? You sure know a lot, Mihono... Wait, how do you know so much about Hattori-senpai... Wait...\!\?  
+**Futaba:** Tell me\! Is he your ex\!\?  
+**Mihono:** Why'd you think that\!\?  
 https://youtu.be/datvCWUrKKc
 
   
@@ -212,7 +208,7 @@ https://youtu.be/datvCWUrKKc
 **Aradama:** GAAAAAAAAA-\!  
 **Kanami:** Eh? There's an aradama out here too? Oh no\! It's going after that girl\!  
 **Mihono:** I won't let it hurt her\! Come on, Kashuu Kiyomitsu\! DYAAAA-\!  
-**Mihono:** No way\!? It dodged\!?  
+**Mihono:** No way\!\? It dodged\!\?  
 **Aradama:** GUGAA\!  
 **Mihono:** Kyaa-\!  
 **Mihono:** Ugh... I-I can't...  
@@ -249,7 +245,7 @@ https://youtu.be/datvCWUrKKc
 **Yoshizumi:** Yes, your mother used to talk like that. That nothing was going like the way she imagined it. But whatever happened, "where there's a will, there's a way."  
 **Mihono:** Where there's a will, there's a way...?  
 **Yoshizumi:** Your mother loved to say that phrase.  
-**Mihono:** She did\!? Where there's a will, there's a way, huh... I like the sound of that, Grandpa.  
+**Mihono:** She did\!\? Where there's a will, there's a way, huh... I like the sound of that, Grandpa.  
 **Mihono:** No matter what happens... You can do it\! Don't give up\! That's how it feels\!  
 **Yoshizumi:** Then, you should try using it from now on.  
 **Mihono:** ...I will\!  
@@ -279,22 +275,22 @@ https://youtu.be/tSsi3HMt5qU
 **Chie:** Okay, okay. That's why I'm here watching you study, isn't it?  
 **Chie:** Now then, first is this Japanese question. For this one...  
 **Mihono:** .........guh.  
-**Chie:** She fell asleep in the middle of the explanation\!?  
+**Chie:** She fell asleep in the middle of the explanation\!\?  
 **Chie:** Wake up, Mihono-chan\! We have to hurry to Wonderland\!  
 **Mihono:** ...Chii-nee? Wonderland? We're done with the escape room game already...  
 **Mihono:** Eh, where is this?  
 **Chie:** Just how long do you plan on sleeping for, Mihono-chan?  
 **Chie:** We're going on a mission to suppress aradama in Wonderland, aren't we?  
-**Mihono:** An aradama suppression mission in Wonderland\!?  
+**Mihono:** An aradama suppression mission in Wonderland\!\?  
 **Mihono:** ...Are you tired, Chii-nee?  
 **Chie:** Okay, okay, whether you're feeling tired or anything else, just climb in that hole.  
 **Mihono:** That hole...?  
-**Mihono:** I have to go in here\!? I can't even see the bottom\!?  
+**Mihono:** I have to go in here\!\? I can't even see the bottom\!\?  
 **Chie:** ...What's gotten into you today? If you don't go in that hole, you can't make it to Wonderland, can you?  
 **Mihono:** You're the one who's gotten into something, Chii-nee\!  
 **Mihono:** If I fell down that hole, I'd die for sure\!  
 **Chie:** Nobody's died going down there. You'll be fine.  
-**Mihono:** And who proved that\!?  
+**Mihono:** And who proved that\!\?  
 **Chie:** Honestly now, you can't go fussing over every little thing, you know? Now then... Have a nice trip.  
 **Mihono:** ...Huh?  
 **Mihono:** GYAAAAAAAAAAAAAAAAAAAAA\!\!  
@@ -302,7 +298,7 @@ https://youtu.be/tSsi3HMt5qU
 ## [Fairytale Mihono: End]: Which Me is the Real Me?
 **Mihono:** I'M-FALL-ING-DO-WWWN--\!\!  
 **Chie:** Good morning, Mihono-chan.  
-**Mihono:** EEEEEEE\!?  
+**Mihono:** EEEEEEE\!\?  
 **Chie:** ...Screaming like that just from seeing my face; are you trying to give me a shock...?  
 **Mihono:** That's cause\! You pushed me into that hole... and I fell... Wait? Was I dreaming?  
 **Chie:** Honestly now, not being able to tell a dream from reality, it's like you're having the butterfly's dream.  
@@ -319,14 +315,14 @@ https://youtu.be/tSsi3HMt5qU
 **Chie:** Fufu, isn't this wonderful, Mihono-chan?  
 **Chie:** If you don't want to study for your exams, you won't have to anymore. You can suppress aradama forever in Wonderland.  
 **Mihono:** I don't want to do that either\!  
-**Mihono:** Anyway, how far down does this hole go\!?  
+**Mihono:** Anyway, how far down does this hole go\!\?  
 **Chie:** Until you think about what you've done wrong Mihono-chan.  
 **Mihono:** Then, I did\! I did just now\!  
 **Chie:** Did you really?  
 **Mihono:** I really thought hard about what I did wrong\!  
 **Mihono:** I don't want to be in the butterfly's dream anymore, Chii-nee\!  
-**Chie:** KYAAA\!?  
-**Mihono:** Chii-nee\!? You're the real Chii-nee, aren't you\!?  
+**Chie:** KYAAA\!\?  
+**Mihono:** Chii-nee\!\? You're the real Chii-nee, aren't you\!\?  
 **Mihono:** Owwch\! Ith not a dweam\!\! I did it, Chii-nee...\!  
 **Chie:** Are you still half asleep?  
 **Chie:** Anyway, the butterfly's dream was the correct answer to the first problem. You said you didn't know, but you really did, didn't you?  
@@ -392,8 +388,8 @@ On New Year's Eve. Partway through Mihono and Chie's trip together, they happene
 **Mihono:** Like this? Banzai-\!  
 **Kiyoka:** Yeah, that's great, Hono-chan\! Though, you still had your phone in your hand... Next, how about you stay just like that, but hold each other's hands?  
 **Mihono:** That might look good\! Come on, hold my hand, Chii-nee\! Yayyy\!  
-**Mihono:** WAH---- What do I do\!? I dropped my phone\!  
-**Chie:** Eh-\!? You mean right now, when we held hands?  
+**Mihono:** WAH---- What do I do\!\? I dropped my phone\!  
+**Chie:** Eh-\!\? You mean right now, when we held hands?  
 **Mihono:** I think so. It's not on the floor here, so don't tell me...  
 **Yume:** You were swinging your hands all around, Onee-san, so I think it might've fallen all the way off the deck.  
 **Mihono:** No way...  
@@ -419,7 +415,7 @@ On New Year's Eve. Partway through Mihono and Chie's trip together, they happene
 **Chie:** You might not have been able to notice in the panic after you dropped it. But, I'm glad to see you're back to your happy self, Mihono-chan.  
 **Sanae:** By the way, your phone has been ringing for a while, hasn't it? Who's trying to get a hold of you?  
 **Mihono:** Ahhh\! Yui sent me all these texts\!  
-**Kiyoka:** "Where's those lovey dovey shots of you two you promised?" "The sun is already setting" "Hurry up-\!" it says. Do you have to text her back?  
+**Kiyoka:** "Where's those lovey dovey shots of you two you promised?" "The sun is already setting" "Hurry up-\!\" it says. Do you have to text her back?  
 **Mihono:** That reminds me, I did promise I'd send her pictures of Chii-nee and me together.  
 **Mihono:** But, all I took were normal pictures of us having fun sightseeing, so it's probably not anything like what Yui's expecting.  
 **Kiyoka:** Fufu, in that case, I'll take one for you now. Hono-chan, hug up nice and close against Setouchi-san. Press your cheeks together too, and it'll look extra lovey dovey\!  
@@ -448,15 +444,15 @@ https://youtu.be/fhciZ41akJA
 **Chie:** Then, I'll ask Kaoru-san and Ellen-san. Tsugumi-san, can you speak to Itomi-san about it?  
 **Tsugumi:** Understood. I'll ask Itomi-san.  
 **Mihono:** Alright-, Kiyoka, Yui, Fukki-\! Let's go do karaoke now\! We've gotta build up our stock of songs\!  
-**Mihono:** Wait, that was what we talked about, so why'd it turn into a party at such a fancy place\!?  
+**Mihono:** Wait, that was what we talked about, so why'd it turn into a party at such a fancy place\!\?  
 **Kanami:** I heard the elite guard and Yukari-sama found out about it, and it sounds like Yukari-sama decided to hold a great big party to thank everyone.  
 **Mihono:** Our karaoke meetup turned into a real party\!  
 **Mihono:** Hey, Kanami\! Since Yukari-sama did this, that means she had to have gotten some yummy food for us, right\!  
 **Mihono:** Mmmm, I can't wait\!  
 **Kanami:** I know what you mean, Mihono-chan.  
 **Mai:** Kanami-chan, Mihono-chan, it seems like they have dresses ready for us over there.  
-**Mihono:** She got us dresses too\!? Let's go quick, Kanami\!  
-**Kanami:** Ah, wait up, Mihono-chan\!?  
+**Mihono:** She got us dresses too\!\? Let's go quick, Kanami\!  
+**Kanami:** Ah, wait up, Mihono-chan\!\?  
 **Mai:** You don't have to be in such a rush you two; they have enough for everyone...  
 **Mai:** They're already gone.  
 **Sayaka:** Mai?  
@@ -554,7 +550,7 @@ The day of the barbecue--
 **Mirja:** Urgh... So your next strategy is to starve me out. I'll stop spreading the word of the barbecue boss...  
 **Mihono:** What should I do now\~. Ah, skewers might be good\!  
 **Kiyoka:** Hono-chan\! Hold on a minute\!  
-**Mihono:** Wawah\!? Kiyoka\!? Wh-What's up?  
+**Mihono:** Wawah\!\? Kiyoka\!\? Wh-What's up?  
 **Kiyoka:** Hono-chan, your meat was so tasty that we were forgetting something important\!  
 **Mihono:** ...?  
 **Kiyoka:** Wasn't our plan to eat what Chie-san and the others were eating, to learn the trick to getting bigger?  
@@ -590,7 +586,7 @@ https://streamable.com/bos4qz
 
 ## [Pirate - Mihono: Start]: Our Reward's A Treasure Hunt at the Amusement Park\!
 **Aradama:** GGGIII...\!  
-**Mihono:** Ehh... There's more aradama this way\!? They're small, but, this many is...\!  
+**Mihono:** Ehh... There's more aradama this way\!\? They're small, but, this many is...\!  
 **Yomi:** Asakura-san, please focus on the aradama to the front.  
 **Mihono:** Satsuki-san\! But, will Akira-san be fine on her own?  
 **Yomi:** She should be fine. Using cover, she drew the aradama to where they were manageable.  
@@ -625,10 +621,10 @@ https://streamable.com/bos4qz
 **Mihono:** Yeah, yeah\! Besides the treasure hunt, it's going to be so fun fighting in pirate cosplay for the flags-.  
 
 ## [Pirate - Mihono: End]: The Treasure Comes After we Take Down Their Pirate Flag\!
-**Mihono:** Wawah\!?  
+**Mihono:** Wawah\!\?  
 **Mihono:** It's great and all I made it over to this ship without Kiyoka and them noticing, but... Bringing down their pirate flag is actually tough...\!  
 **Yui:** Fu fu fu\~. And what about you, Mihono-chan? You sure you didn't want to stop us from bringing down your pirate flag?  
-**Mihono:** Eh... Our ship-- Are Kiyoka and Ellen-san there already\!?  
+**Mihono:** Eh... Our ship-- Are Kiyoka and Ellen-san there already\!\?  
 **Mihono:** Wait... Nobody's there. Yuiii\~.  
 **Yui:** If you take down our flag, we have to give you the treasure map-. So I'll tell a lie if I have to.  
 **Mihono:** But, that's not enough to make me give up\!  
@@ -643,7 +639,7 @@ https://streamable.com/bos4qz
 **Mihono:** Yeah\! I'll sneak in and take down their flag\! Leave it to me\!  
 **Mihono:** I thought I'd get in all sneaky and bring your flag down though...  
 **Yui:** If that was... your sneaking, being a spy or a ninja really isn't for you, Mihono-chan.  
-**Yui:** I kept hearing "Ahh\!" and "Crap\!"   
+**Yui:** I kept hearing "Ahh\!\" and "Crap\!\"   
 **Mihono:** No way\~... I thought I was doing perfect though.  
 **Mihono:** But still, so long as I keep pulling the rope hard--  
 **Akira:** That's it\! Keep it up just like that, Mihono\!  

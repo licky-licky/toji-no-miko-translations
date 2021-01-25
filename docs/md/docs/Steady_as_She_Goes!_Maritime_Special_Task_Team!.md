@@ -1,13 +1,9 @@
 
 Steady as She Goes! Maritime Special Task Team!
 ===============================================
+https://www.youtube.com/watch?v=_Ffytb2ztkA
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/_Ffytb2ztkA" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Onward, to the Open Seas\!
 **Kanami:** I wonder what kind of mission we're on this time?  
@@ -58,7 +54,7 @@ Steady as She Goes! Maritime Special Task Team!
 **Sayaka:** All I did was talk to all the people on the island. Chie, does this mean today's mission is going well?  
 **Chie:** I think we're making good progress. Nothing worth mentioning has gone wrong so far...  
 **Hoozuki:** S-S-Setouchi-san, we need help\! Etou-san fell in the ocean\!  
-**Chie:** Eh-\!?  
+**Chie:** Eh-\!\?  
 **Hoozuki:** Mashiko-san's okatana wasn't long enough to reach down to the water from the deck either...  
 **Sayaka:** Even for Kaoru's Nenekirimaru, that's too far...  
 **Chie:** There should be a lifesaver on the deck\! Use that\!  
@@ -126,7 +122,7 @@ Steady as She Goes! Maritime Special Task Team!
 **Sayaka:** Kanami's in trouble right now. So... Kofuki, please.  
 **Kofuki:** ...Seriously...  
 **Kofuki:** Tch... Okay, I get it already. You're really not giving me a choice here.  
-**Kanami:** Eh, so you'll teach me...\!?  
+**Kanami:** Eh, so you'll teach me...\!\?  
 **Kofuki:** Don't get the wrong idea. I can't teach anybody.  
 **Kofuki:** So when we're on the next island, just stay close to me while I'm fighting. If you can pick up anything from the way I fight, go right ahead.  
 **Kanami:** Shichinosato-san... Thanks\! That's enough for me\!  

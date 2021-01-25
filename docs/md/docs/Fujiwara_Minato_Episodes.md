@@ -82,7 +82,7 @@ The next day.
 **Minato:** But it was good, right?  
 **Minato:** Have you ever had cup yakisoba since that time in middle school... When you ran away from home?  
 **Yukari:** Actually... I've been eating it often.  
-**Minato:** Seriously\!?  
+**Minato:** Seriously\!\?  
 **Yukari:** Secretly, when I could hide it.  
 **Yukari:** It's difficult to tell anyone I'm eating cup yakisoba.  
 **Minato:** No way... Then, next time we train together, we should get cup yakisoba too\!  
@@ -99,7 +99,7 @@ The next day.
 **Police Inspector:** You seem a little young...  
 **Minato:** Well, I am a toji, so that's pretty normal. I'm Fujiwara Minato, a 2nd year at Renpu Middle School.  
 **Minato:** I've been sent here on behalf of the Special Sword Administration Bureau to resolve the Shikishima Bank Siege Incident.  
-**Police Inspector:** They sent a middle schooler here to fight\!? Has the Special Sword Administration Bureau lost their minds\!?  
+**Police Inspector:** They sent a middle schooler here to fight\!\? Has the Special Sword Administration Bureau lost their minds\!\?  
 **Police Inspector:** They could have at least gotten a high school student...\!  
 **Minato:** A high schooler's just 2 years older; it's not that big a difference. And besides, the police are the ones who asked for a toji, right? That's what I heard.  
 **Police Inspector:** The man in there is armed. We can't let a kid like you go anywhere near\!  
@@ -108,11 +108,11 @@ The next day.
 **Minato:** Ah, you don't have to do anything like that.  
 **Police Inspector:** What?  
 **Minato:** I'll be finished here in a minute.  
-**Minato:** Mannn, it was pretty crazy back then... They kept saying "Go home, middle schooler\!"  
+**Minato:** Mannn, it was pretty crazy back then... They kept saying "Go home, middle schooler\!\"  
 **Kagari:** ...Sigh, of course they did. Do you understand what happened after that, Minato-senpai?  
 **Minato:** What happened? Well I got a little famous, right? It's not that big a deal, Kagari.  
-**Kagari:** Not a big deal... We're talking about the Shikishima Bank Siege Incident, you know\!?  
-**Kagari:** Do you have any idea what a thrashing the media gave the police for sending a middle school girl in there\!?  
+**Kagari:** Not a big deal... We're talking about the Shikishima Bank Siege Incident, you know\!\?  
+**Kagari:** Do you have any idea what a thrashing the media gave the police for sending a middle school girl in there\!\?  
 **Minato:** Ohh, that.  
 **Minato:** I'm the one who said I was going in, so they were really barking up the wrong tree there.  
 **Kagari:** The police were hardly clear of blame either, when it seems they were hoping the criminal would let his guard down if a child came after him.  
@@ -157,7 +157,7 @@ The next day.
 
 ## 5: Getting Along
 **Minato:** Kagari, come sleep with me\!  
-**Students:** They're sleeping together\!?  
+**Students:** They're sleeping together\!\?  
 **Kagari:** ...Minato-senpai, please refrain from saying things that others will misunderstand.  
 **Minato:** Misunderstand what? We're friends, aren't we? Remember, we went to that hot spring together.  
 **Students:** Hot spring\!\!  
@@ -172,19 +172,19 @@ The next day.
 **Kagari:** You also have some business in the training hall, Minato-senpai?  
 **Minato:** Wait? You're going to the training hall, Kagari? Me too\! I just felt like getting a little exercise, you know.  
 **Minato:** Then this is where we part ways.  
-**Minato:** Wait\!? You just said, "you also have business", didn't you\!?  
+**Minato:** Wait\!\? You just said, "you also have business", didn't you\!\?  
 **Kagari:** You must have misheard me.　  
 **Kagari:** I have work to do now, as Yukari-sama's attendant. I'll speak with you later.  
 **Minato:** Hey\!  
 **Minato:** ...Nng, she's so stubborn\! But that just gets me more fired up\!  
 **Minato:** Yukari\! I'm here to mess around\!  
 **Yukari:** ...Minato, do you think this is a playground?  
-**Kagari:** Minato-senpai, now you're even bothering Yukari-sama...\! What are you doing here\!?  
+**Kagari:** Minato-senpai, now you're even bothering Yukari-sama...\! What are you doing here\!\?  
 **Minato:** I told you, messing around. You should join me, Yukari. You're gonna work yourself to death keeping this up.  
 **Yukari:** I wouldn't say I've been working myself that hard.  
 **Kagari:** That's enough\! What are you thinking, dragging Yukari-sama into this\!  
 **Minato:** I just wanna get along with you, Kagari.  
-**Kagari:** ...\!?  
+**Kagari:** ...\!\?  
 **Yukari:** ...So she says, Kagari. Why not go along with her?  
 **Kagari:** But...  
 **Minato:** Then, how about this\! Kagari and I'll have a match, and the loser has to do whatever the winner says.  
@@ -208,7 +208,7 @@ The next day.
 **Yukari:** We must be deep in the forest now. We should turn back the way we came.  
 **Minato:** Huh? That's weird. I swear we just passed by here...  
 **Kagari:** It feels like we've been walking a great distance, but what if we've been walking in circles the whole time?  
-**Minato:** Ehh\!? Does that mean we're lost? When you're lost in the mountains, you're supposed to...  
+**Minato:** Ehh\!\? Does that mean we're lost? When you're lost in the mountains, you're supposed to...  
 **Minato:** If we walk along a stream, it should lead us to a more open area, right?  
 **Kagari:** I see, a stream... I heard the faint sound of running water just a moment ago; there should be one nearby.  
 **Yukari:** Wait. It sounds like a good idea in theory, but what if following the stream led us to a waterfall or rock face? We wouldn't be able to progress.  
@@ -218,7 +218,7 @@ The next day.
 **Yukari:** If you have the stamina for it, ascending to the mountain's summit will increase your odds of finding a path back down.  
 **Minato:** Huh. You know, even though we're the same age, it feels like there's nothing you don't know, Yukari. I have a lotta respect for that.  
 **Kagari:** The polar opposite of Minato-senpai, who was about to irresponsibly send us down a stream...  
-**Minato:** What'd you say\!?  
+**Minato:** What'd you say\!\?  
 **Aradama:** KIIIIIEE\!  
 **Yukari:** So they showed themselves...  
 **Kagari:** And there's a lot of them too. How to efficiently deal with them all...  
@@ -312,7 +312,7 @@ https://youtu.be/nqyOMfDau7o
 **Minato:** ...By the way, I've never seen your uniforms before. Where's it from?  
 **Minato:** It's not a school from around here, right?  
 **Shizuku:** It's the National Magic University Affiliated First High School.  
-**Honoka:** Sh-Shizuku\!? Was it really alright telling her?  
+**Honoka:** Sh-Shizuku\!\? Was it really alright telling her?  
 **Shizuku:** We already told Mihono and the others, so why bother now.  
 **Honoka:** Ah... You have a point.  
 **Minato:** ...Magic?  

@@ -51,20 +51,20 @@ https://youtu.be/8itDRQlCYHE
 **Hiyori:** ...What are you even doing.  
 **Hiyori:** Mai, let's test and see if there's any way we can get this door open.  
 **Mai:** Okay, Hiyori-chan. There might be something that can help left in the lockers here too--  
-**Mai:** ...EH\!?  
-**Hiyori:** What's wrong\!?  
+**Mai:** ...EH\!\?  
+**Hiyori:** What's wrong\!\?  
 **Mai:** I-In the locker, there's a person covered in blood...\!\!  
-**Akira/Kanami/Mirja:** ...A-A DEAD BODY\!?\!?  
+**Akira/Kanami/Mirja:** ...A-A DEAD BODY\!\?\!\?  
 
 ## 2: A Murder Case in a Hot and Humid Locked Room...?
-**Kanami:** Wh-Wh-What happened\!? When they fell out, it made a huge noise, and...  
+**Kanami:** Wh-Wh-What happened\!\? When they fell out, it made a huge noise, and...  
 **Hiyori:** Calm down, Kanami. First we need to check the body.  
 **Mirja:** ......  
 **Akira:** I'll... do the checking. Anybody who doesn't want to see, turn away.  
 **Mai:** Inago-san...\!  
 **Akira:** Sorry. Let me just... get a look at your face--  
 **Yui:** If it's you, Boss, you can look over every little inch of me\!  
-**Akira:** ...Wait, Yui\!? All that blood-- Are you okay\!?  
+**Akira:** ...Wait, Yui\!\? All that blood-- Are you okay\!\?  
 **Yui:** I'm just fine. This is only from a nosebleed I got.  
 **Akira:** That's a nosebleed...? Ugh, and now I've got your nosebleed on me...\!  
 **Yui:** Ehehe. Sorry about that, Boss. If you take your clothes off for me, I'll wash them and give them back to you.  
@@ -123,14 +123,14 @@ https://youtu.be/8itDRQlCYHE
 **Hiyori:** Between how hot and muggy it is in here, I can't even bring myself to say anything.  
 **Yui:** Are you doing okay, Hiyori-chan? As an apology, I'll fan you. How's that? Does it feel cooler?  
 **Hiyori:** ...A little bit. Still, why are you...  
-**Mai:** Y-Yui-chan\!? Fanning your skirt around... You shouldn't do that\!  
+**Mai:** Y-Yui-chan\!\? Fanning your skirt around... You shouldn't do that\!  
 **Yui:** But, this fans the most air, doesn't it? I don't have a real fan or any kind of sheet to use.  
 **Akira:** Yui, do it over my way too.  
 **Yui:** I'm on it\!  
 **Mirja:** With all this heat, our standards of judgment are evaporating...  
 **Kanami:** Then, I'm doing it too\! If we both fan with our skirts, I'm sure it'll--  
 **Mai:** YOU ARE NOT DOING THAT\! ABSOLUTELY NOT\!  
-**Kanami:** ...O-Okay\!?  
+**Kanami:** ...O-Okay\!\?  
 **Mai:** That goes for everyone else too\! As a toji, and as a girl... Please act with some decency\!  
 **Kanami:** We're all out of water by now... aren't we.  
 **Mirja:** We all drank it little by little, but in this heat, it wouldn't last regardless.  
@@ -139,7 +139,7 @@ https://youtu.be/8itDRQlCYHE
 **Mai:** ...I-Inago-san?  
 **Kanami:** Me too...  
 **Mirja:** What matters most is preserving our lives... Taking that option is unavoidable.  
-**Mai:** ...\!?  
+**Mai:** ...\!\?  
 **Kanami:** Mai-chan... We came here to put on our swimsuits anyway, so this really isn't all that different\!  
 **Mai:** Ehhh...  
 **Mai:** (...Is it though? I feel like it's still wrong...)  
@@ -148,7 +148,7 @@ https://youtu.be/8itDRQlCYHE
 **Sayaka:** It's open...\! Mai, Kanami, Hiyori\!  
 **Mai:** Sayaka-chan\! Ahh\~... I'm so glad to see you.  
 **Kofuki:** So hot... What is this, a sauna? Everybody still alive\~?  
-**Kofuki:** ...Wait, what're you all looking like that for\!? Well, I guess if it's this hot, what else can you do.  
+**Kofuki:** ...Wait, what're you all looking like that for\!\? Well, I guess if it's this hot, what else can you do.  
 **Kofuki:** We brought you stuff to drink. You'd better be grateful\!  
 **Mirja:** We're in your debt... Shichinosato Kofuki, Itomi Sayaka.  
 **Akira:** [gulp gulp gulp]... Ahh. Who'd have thought some ice cold water'd be this tasty. Seriously... You saved our asses.  
@@ -271,8 +271,8 @@ On a day off...
 **Yui:** That's because... I couldn't sleep much last night, and I didn't eat breakfast either...  
 **Mirja:** Honestly... Here, have this.  
 **Yui:** Is that ramune? Thanks......  
-**Yui:** PFHAGH\!?  
-**Yui:** What's with this\!? It's sweet and sour and bitter and solid and salty and sourly sour\!?  
+**Yui:** PFHAGH\!\?  
+**Yui:** What's with this\!\? It's sweet and sour and bitter and solid and salty and sourly sour\!\?  
 **Mirja:** It's the ramune Ban Tsugumi gave me to combat the summer heat.  
 **Yui:** Kn-Knowing that it's Tsugumi-san's... I'm not surprised it's awful...  
 **Mirja:** ...It looks like it was a little overwhelming.  
@@ -302,22 +302,22 @@ https://streamable.com/sig5hu
 **Yui:** We should've brought a fishing rod with us. If there were that many fish, we might've been able to go all out for our lunch.  
 **Mirja:** True, we potentially could have, though... As beginners, I'm not sure how many we would be able to fish out...  
 **Yui:** Well, forget about that for now; hurry up and come in the water\!  
-**Mirja:** Alright then... Mm\!?  
+**Mirja:** Alright then... Mm\!\?  
 **Yui:** What's wrong?  
 **Mirja:** Just now, a spider went drifting by.  
-**Yui:** A spider\!?  
-**Yui:** Wh-Wh-Wh-Where was it\!?  
+**Yui:** A spider\!\?  
+**Yui:** Wh-Wh-Wh-Where was it\!\?  
 **Mirja:** It's about to pass right in front of you.  
 **Yui:** Eh? ...GYAAAAAAAAAAAAAAAA\!  
 **Yui:** Mirja-san, there's a spider\! A spider\!  
 **Mirja:** It isn't a venomous spider, so you shouldn't worry. It won't harm you.  
 **Yui:** That doesn't help\! There's no maiden in the world who'd keep calm with a spider in front of their face\!  
-**Yui:** Can I hug onto you for safety\!?  
+**Yui:** Can I hug onto you for safety\!\?  
 **Mirja:** Absolutely not.  
-**Yui:** Looking around more, there sure are a lot of bugs... Eep\!?  
+**Yui:** Looking around more, there sure are a lot of bugs... Eep\!\?  
 **Mirja:** We are out in nature, so that's only natural.  
 **Mirja:** Phew, that was a good rest. Now then, to continue our stroll.  
-**Yui:** You aren't getting in after all\!?  
+**Yui:** You aren't getting in after all\!\?  
 **Yui:** You were just toying with me, Mirja-san\~\! But, you treating me like that feels pretty nice too\!  
 **Mirja:** ...What are you talking about? I'll leave you behind.  
 **Yui:** Wait for meee\~\!  

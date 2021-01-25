@@ -71,7 +71,7 @@ At the same time.
 **Mirja:** This is troubling... How should we respond to this... Setouchi Chie?  
 **Chie:** ...We know much too little about what we're up against, so I'd like to avoid combat as much as possible, but...  
 **???:** HAAAAAAAHHHH\!\!  
-**Yui:** UWAH\!?  
+**Yui:** UWAH\!\?  
 **Kofuki:** Oi\! It's not like we've got all the time in the world here\!  
 **Kiyoka:** Chie-san\!  
 **Chie:** We're counterattacking\! Mirja, give us combat orders\!\!  
@@ -88,7 +88,7 @@ At the same time.
 **Yui:** It's not like that... It's more like, if I don't joke about it, fighting a toji in this state is too sad...  
 **Chie:** That's for sure...  
 **???:** You're right; this is as ugly as it gets.  
-**Yui:** That voice\!?  
+**Yui:** That voice\!\?  
 **Yume:** What're you onee-sans doing here?  
 **Mirja:** The special defense team?  
 **Mirja:** You aren't here acting on Asakura Mihono's case... are you?  
@@ -132,14 +132,14 @@ At the same time.
 **Kiyoka:** You're not dreaming...\! We came to get you, Hono-chan\!  
 **Mihono:** You really did...?  
 **Mihono:** Guys...\!  
-**Kofuki:** O-Oi\!? What're you crying out of nowhere for\!\!  
+**Kofuki:** O-Oi\!\? What're you crying out of nowhere for\!\!  
 **Mihono:** Of course I'm gonna cry...\!  
 **Mihono:** Cause, I was all alone up in the mountains in Tohoku, and Hitakami-san's toji were chasing after me, and I couldn't use Kashuu Kiyomitsu's power...  
 **Yui:** You worked really hard, Mihono-chan\! Come and dive right into my chest\!  
 **Mihono:** Yui\~\!  
 **Kofuki:** The two of them've lost it. Right, Kiyoka?  
 **Kiyoka:** Hono-chan... I'm so glaaad...  
-**Kofuki:** Now you're crying too\!?  
+**Kofuki:** Now you're crying too\!\?  
 **Kiyoka:** Of course I'd be crying...  
 **Mirja:** ...Asakura Mihono. I'm glad to see you're safe.  
 **Mihono:** Mirja-san...  
@@ -256,10 +256,10 @@ At the same time.
 **Akira:** And, to cure them, we're gonna still have to improve on what we can do with tamayori.  
 **Makoto:** We cannot put it off any longer. If we could only create one successful case of a tamayori toji, we could gather enough data from it...  
 **Makoto:** Now that we can no longer hope for Asakura-san's assistance, I will use myself as a tamayori test subject.  
-**Akira:** Wha--\!?  
-**Yuuki:** Y-You'll use yourself, Makoto-nee-sama\!?  
+**Akira:** Wha--\!\?  
+**Yuuki:** Y-You'll use yourself, Makoto-nee-sama\!\?  
 **Makoto:** If you trace it back, the Atago and Hitakami come from the same bloodline. Though not nearly as much as Asakura-san, I am still suitable for tamayori.  
-**Akira:** But still, there's a good chance it's gonna fail, isn't there\!?  
+**Akira:** But still, there's a good chance it's gonna fail, isn't there\!\?  
 **Makoto:** Yes. I understand that, of course.  
 **Makoto:** But, if we continue to sit idly by, we won't be able to save those toji who were victims of the experimenting.  
 **Makoto:** There are times that risks must be taken to achieve success. And there is no greater time for that than now.  

@@ -1,13 +1,9 @@
 
 Toji Summer Vacation -Hard Struggle Arc-
 ========================================
+https://www.youtube.com/watch?v=tUWzal-cxwQ
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/tUWzal-cxwQ" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The Hard Summer Vacation to Come
 **Mihono:** Wow, it's the sea; you can see the sea from here-\! I can't wait; I haven't been to the beach in forever\!  
@@ -24,7 +20,7 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Kiyoka:** Let's get changed and get in the water, everyone\! We only get to experience this summer once, you know\!  
 **Mihono:** Ahaha\! Kiyoka's really getting into it today\! Okay, let me just get my swimsuit on--  
 **Beachgoer A:** Hey, I think that's an aradama coming from town\!  
-**Beachgoer B:** Wait, seriously\!? You think it'll come this way...?  
+**Beachgoer B:** Wait, seriously\!\? You think it'll come this way...?  
 **Beachgoer C:** Let's get out of here\! We gotta find a place to hide\!  
 **Mihono:** Aradama in the town...?  
 **Taeko:** I'll confirm this with the Special Ritual Squad\! I hate to ask you, but could you three make sure everything's okay in town?  
@@ -97,14 +93,14 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Ellen:** Heave, ho, heave, ho.  
 **Emily:** What's this...? Kohagura-san, why have you started digging a hole in the beach...?  
 **Kaoru:** Kukuku, I wonder why-?  
-**Emily:** Ah-, you don't mean to...\!? ...A-Awawawwawa...\!  
+**Emily:** Ah-, you don't mean to...\!\? ...A-Awawawwawa...\!  
 
 ## 3: Summer Vacation Belongs to Everyone
 **Aradama:** GUUOOOOOO-\!  
-**Mihono:** Uwawah\!?  
+**Mihono:** Uwawah\!\?  
 **Mirja:** Hah-\!  
 **Aradama:** GUUUUUUU...  
-**Mirja:** Are you unhurt, Asakura Mihono\!?  
+**Mirja:** Are you unhurt, Asakura Mihono\!\?  
 **Mihono:** Y-Yeah... Thanks, Mirja-san...  
 **Mirja:** (This isn't good... The aradama from this outbreak are unusually strong and numerous.)  
 **Mirja:** (Asakura Mihono must be nearing the limit of her concentration. And then, Musumi Kiyoka...)  
@@ -117,13 +113,13 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Kiyoka:** It's got me...\!  
 **Kiyoka:** (I can't... It's no use...\!)  
 **Aradama:** Gwaaaaa...\!  
-**Hiyori:** What do you think you're doing\!? Don't look away from your enemy\!  
-**Kiyoka:** Eh...? Is that you, Juujou-san...\!?  
+**Hiyori:** What do you think you're doing\!\? Don't look away from your enemy\!  
+**Kiyoka:** Eh...? Is that you, Juujou-san...\!\?  
 **Hiyori:** Yes. And not just me.  
 **Sayaka:** Hup-\! Haaah-\!  
 **Mai:** --Haa-\!  
 **Aradama:** Gyaaa... aaa...  
-**Ellen:** Are you girls from the investigation team okay-\!? Sana-sensei sent us to be your backup-\!  
+**Ellen:** Are you girls from the investigation team okay-\!\? Sana-sensei sent us to be your backup-\!  
 **Mirja:** Osafune's President Maniwa... I'm very grateful for your cooperation.  
 **Kaoru:** Ah-, save that for when we're done. Damnit, just when I had the free time to mess around at the beach...  
 **Mihono:** Wait... You too?  

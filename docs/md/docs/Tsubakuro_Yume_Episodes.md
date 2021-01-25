@@ -1,20 +1,12 @@
 
 Tsubakuro Yume Episodes
 =======================
+https://www.youtube.com/watch?v=gLaJFcXh_m8
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/gLaJFcXh_m8" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
+https://www.youtube.com/watch?v=g3DcgmFmPik
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/g3DcgmFmPik" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/Q19Fa9VDWgg
 
   
@@ -40,7 +32,7 @@ https://youtu.be/0OSG6EeTdH8
 **Yume:** Then I'll go with you. We'll have a fight to see who can beat the most aradama\!  
 **Maki:** You mean a competition to see who has the highest aradama killcount?  
 **Maki:** Sounds interesting enough, but without orders to let you come, I can't let you join my unit.  
-**Yume:** Ehh-\!? Just for a little while\! If you won't let me, I'm gonna follow you anyway, okay\!  
+**Yume:** Ehh-\!\? Just for a little while\! If you won't let me, I'm gonna follow you anyway, okay\!  
 **Maki:** Geez, a real lively kid after all... Well, since you're strong enough to make it into the elite guard, you should be able to handle yourself out there.  
 **Yume:** Yeah, yeah\! I'll be super useful, actually\! So let's compete\! C'mon, compete with me\!  
 **Maki:** ...Alright. It seems like a good chance to see what the new recruit's capable of. Okay, I'll accept your challenge\!  
@@ -53,7 +45,7 @@ https://youtu.be/0OSG6EeTdH8
 **Maki:** I'm surprised by just how strong you are at your age. With you around, the elite guard has a bright future.  
 **Yume:** So since I beat you, Maki onee-san, that makes me the first seat now, doesn't it\!  
 **Maki:** Well no, the seats just show the order everyone joined in. So no matter how strong you are, you're the fourth seat, Yume.  
-**Yume:** Huhh\!? Really\!? I tried so hard, but it's like I still lost-\! You should have made it clearer from the start\! Sheesh-\!  
+**Yume:** Huhh\!\? Really\!\? I tried so hard, but it's like I still lost-\! You should have made it clearer from the start\! Sheesh-\!  
 
 ## 2: Shopping with Yume
 **Yume:** Yaaay\! We all managed to go shopping together in Harajuku today-\!  
@@ -67,7 +59,7 @@ https://youtu.be/0OSG6EeTdH8
 **Maki:** They're just different colors. One should be enough.  
 **Yume:** Okay... But they're all so cute. I don't know which one to buy...  
 **Maki:** ...Well, if you can't make up your mind, I'll have to buy one of them.  
-**Yume:** Really\!? Thank you, Maki onee-san\!  
+**Yume:** Really\!\? Thank you, Maki onee-san\!  
 **Suzuka:** You're too soft on her, Maki-san... I suppose that leaves me no choice but to buy another one.  
 **Yume:** Hooray\! That means I can have all of them now\! I love you, onee-sans\!  
 **Suzuka:** A stuffed animal is a small price to pay to see you looking so delighted, Yume.  
@@ -86,26 +78,26 @@ https://youtu.be/0OSG6EeTdH8
 ## 3: Yume's Unreasonable Request
 **Yume:** Sigh... This is so boring... Yukari-sama's gone, and the other guards won't play with me...  
 **Yume:** Hey-, hey-, Kazumi onee-san and Wakako onee-san. Tell me a funny story.  
-**Wakako:** Eh-\!? I can't come up with anything when you ask so suddenly...\!  
+**Wakako:** Eh-\!\? I can't come up with anything when you ask so suddenly...\!  
 **Kazumi:** I'm sorry. Nothing comes to mind.  
-**Yume:** Ehh\~\!? You two're so lame\~\! Hmm, then... Tell me if you two have a crush on anyone\!  
-**Wakako:** Ehh\!? W-We don't have to tell you that...  
+**Yume:** Ehh\~\!\? You two're so lame\~\! Hmm, then... Tell me if you two have a crush on anyone\!  
+**Wakako:** Ehh\!\? W-We don't have to tell you that...  
 **Yume:** Huh, what's that? The way you reacted says you do have a crush on someone, right, Wakako onee-san?  
 **Wakako:** Ugh...\! ...N-No comment.  
 **Yume:** Hmm? Fine, be that way. Now it's your turn, Kazumi onee-san\!  
 **Kazumi:** Maki-sama is the one I long for.  
-**Wakako:** Without any hesitation\!?  
+**Wakako:** Without any hesitation\!\?  
 **Yume:** Eh-\! So Kazumi onee-san likes Maki onee-san\!  
 **Yume:** --Now back to you, Wakako onee-san. Who do you like? Is it someone I know?  
 **Yume:** If you don't say who, I'll use my position as the fourth seat of the elite guard to get you fired\~.  
-**Wakako:** Ughh...\!?  
+**Wakako:** Ughh...\!\?  
 **Wakako:** (I'd rather die than say who, but to get fired over such a reason...)  
 **Maki:** --Hey, Yume\! Stop bothering them\!  
 **Yume:** Ah, Maki onee-san\!  
 **Maki:** I can't believe you. Whenever you don't have a mission, you just go around annoying people. This causes trouble for me too, you know?  
 **Yume:** But I'm so bored\!  
 **Maki:** Really? If you're that bored, then I'll have you cleaning the office daily from now on. I was just looking for someone to take care of that.  
-**Yume:** Ehh-\!? No way\! I don't wanna have to clean the office\!  
+**Yume:** Ehh-\!\? No way\! I don't wanna have to clean the office\!  
 **Maki:** I know a few other places you can clean then. The entrance hall, the hallways, the bathrooms, and then there's...  
 **Yume:** ...I'm leaving-\!\!  
 **Maki:** She ran away, huh.  
@@ -164,13 +156,9 @@ https://youtu.be/0OSG6EeTdH8
 **Kanami:** What's so bad about it? It's not too late, you know\! We can still be friends\!  
 **Yume:** ...Hey, Onee-san. Don't forget about me, okay...  
 **Kanami:** ...I won't\! I could never forget you\!  
+https://www.youtube.com/watch?v=g3DcgmFmPik
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/g3DcgmFmPik" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 **Furisode Part 1:** Yume's First Shrine Visit of the Year  
 **Yume:** Whoa\~, there's so many people. Do we really have to wait in line here?  
 **Suzuka:** My, weren't you the one saying you wanted to make your first shrine visit of the year?  
@@ -222,13 +210,13 @@ https://youtu.be/0OSG6EeTdH8
 **Suzuka:** There's nothing I'd like more than whatever you'd buy for me.  
 **Yume:** Why are you the one thanking me? That's weird, isn't it? I mean, I'm the one who should be thankful.  
 **Maki:** No, let me say it too. Thank you for being here to visit the shrine with us, Yume.  
-**Yume:** Why are you thanking me now, Maki-onee-san\!? This is weird, right? Yomi-onee-san\!  
+**Yume:** Why are you thanking me now, Maki-onee-san\!\? This is weird, right? Yomi-onee-san\!  
 **Yomi:** ...I'm the only one who hasn't said anything. Thank you all. Shidou-san, Konohana-san, Tsubakuro-san.  
-**Yume:** Not you too, Yomi-onee-san\!?  
+**Yume:** Not you too, Yomi-onee-san\!\?  
 **Suzuka:** Fufu. You want to go flower viewing again this year as well, don't you, Yume?  
 **Yume:** Nn, I want to go, but... No sweet sake this time, okay?  
 **Maki:** ...Fireworks, maybe at the summer festival, would be nice too, wouldn't it? I'd rather see them together than alone this time.  
-**Yume:** Fireworks\!? I really wanna see that\!  
+**Yume:** Fireworks\!\? I really wanna see that\!  
 **Yomi:** Isn't there anything you want to do this year, Tsubakuro-san?  
 **Yume:** What I want to do...? Oh yeah\! Seeing the autumn leaves\!  
 **Yomi:** Understood. We can all go together.  
@@ -265,24 +253,24 @@ https://youtu.be/Q19Fa9VDWgg
 **Yume:** Don't worry, it's easy peasy\!  Here I gooo-\! Juuump\!  
 **Maki:** Ahh-- Yume\!  
 **Yume:** See, look\! I jumped to this roof just fine-\! You come too, Maki-onee-san-.  
-**Maki:** Whoa\! What's with the strength of this wind\!? It'll be tough reaching there through this.  
+**Maki:** Whoa\! What's with the strength of this wind\!\? It'll be tough reaching there through this.  
 **Maki:** I'll go after it dies down. Oiii, Yume, just to be sure, find somewhere safe to get out of the wind.  
 **Yume:** I'll be fine-. See, if I go all the way into the corner of the roof, I can get a really pretty view of the city at night down bel...  
 **Yume:** Wah----\!  
 **Maki:** Yume\!  
-**Yume:** No way\! I'm falling\!?  
-**Yume:** Uhh, when this happens, what was I supposed to do? What do I do, Maki-onee-san\!? I'm gonna fall all the way down\!  
+**Yume:** No way\! I'm falling\!\?  
+**Yume:** Uhh, when this happens, what was I supposed to do? What do I do, Maki-onee-san\!\? I'm gonna fall all the way down\!  
 
 ## [VRS Equipment - Yume: End]: Seriousness Pays Off
-**Maki:** Yume\! Are you okay\!? Yume-\!\!  
+**Maki:** Yume\! Are you okay\!\? Yume-\!\!  
 **Yume:** Wahhh, what should I do\! I'm falling all the way down---\!  
 **Yume:** Maki-onee-chan, save me-\!  
 **Maki:** Yume\! Are you okay? Grab onto my hand\!   
 **Yume:** Maki-onee-san\!  
 **Maki:** Alright, I've got you. I'll take us down slowly, so don't leave my arms.  
-**Yume:** Okay, thanks... Wait, what\! Maki-onee-san, you're flying\!? How? How-?  
+**Yume:** Okay, thanks... Wait, what\! Maki-onee-san, you're flying\!\? How? How-?  
 **Maki:** In this game world, there's a command to fly through the air.  
-**Yume:** Ehhh\!? Nobody told me that-\!  
+**Yume:** Ehhh\!\? Nobody told me that-\!  
 **Maki:** It was written in the instruction manual. You should have read it.  
 **Yume:** Boo-. Instead of reading that big book, it seemed like it'd be faster learning by trying it yourself-.  
 **Maki:** Sure, even if you memorize the manual, if you can't handle the controls when the time comes, there wasn't much point.  
@@ -300,7 +288,7 @@ https://youtu.be/Q19Fa9VDWgg
 **Maki:** Oi, Yume\! If you walk on the edge of the building, you're going to fall like before\!  
 **Yume:** I'm fine, I'm fine\! Cause I can fly now\! See, look\!  
 **Yume:** Wawawa, I'm falling-\!  
-**Maki:** Yume\! Did you lose your footing again\!?  
+**Maki:** Yume\! Did you lose your footing again\!\?  
 **Yume:** Just kidding\! I'm fine; I remember how to fly, okay.  
 **Maki:** Hey, Yume\! Don't tease me like that...  
 **Yume:** Still, it's really amazing that you can do this here too\! I'm glad I came here with someone who'd read the whole manual\!  
@@ -355,14 +343,14 @@ https://youtu.be/l-T5v0sq5no
 **Yume:** I don't like them all that much, but, if the guests like it, it's fine.  
 **Yomi:** That would be best, wouldn't it.  
 **Maki:** You look like you're working hard for the ryokan, Yume.  
-**Yume:** Maki-onee-san, Suzuka-onee-san\!? Why're you here\!?  
+**Yume:** Maki-onee-san, Suzuka-onee-san\!\? Why're you here\!\?  
 **Suzuka:** A certain someone was worried to death over you, so we came to see you in the end.  
 **Maki:** Suzuka... You promised you wouldn't say anything.  
 **Suzuka:** Oh, did I?  
 **Yume:** You're treating me like a kid again-. You didn't have to worry about me or anything. See, look. I'm doing my job juuust fine.  
 **Maki:** Yeah, I can tell. Those all look tasty.  
 **Suzuka:** I'll be looking forward to enjoying what you've picked for dinner.  
-**Yume:** You're having these for dinner\!?  
+**Yume:** You're having these for dinner\!\?  
 **Suzuka:** We are. We made a reservation just now.  
 **Suzuka:** I asked for all four of us, you and Yomi-san included, to sit for dinner together. So stick to your work until then.  
 **Yume:** Okay\! Then, I'm going to get going\!  
@@ -409,14 +397,14 @@ https://youtu.be/51zzPZJO6kY
 **Yomi:** ...gh.  
 **Yume:** H-Huh? Are you done already?  
 **Yomi:** ...The outcome was obvious.  
-**Yume:** Wait, that's what you meant\!?  
+**Yume:** Wait, that's what you meant\!\?  
 **Yomi:** This is as far as my skills with a sword go.  
 **Yume:** I can't show how strong I am with that... Aghh, geez, I'll go to the next one\! Suzuka-onee-san\!  
 **Yume:** YAAAH\!\!  
 **Suzuka:** You're good, Yume\!  
 **Yume:** You too, Suzuka-onee-san\! But... if that's all you've got, this'll be over in no time\!  
 **Suzuka:** I thought that-- You would come like that\!  
-**Yume:** Huh\!?  
+**Yume:** Huh\!\?  
 **Yume/Suzuka:** --\!\!  
 **Suzuka:** And I thought I had gotten you with that counter... So you can even react to that.  
 **Yume:** That got me by surprise\! That was a little bit close there\!  
@@ -459,14 +447,14 @@ https://youtu.be/51zzPZJO6kY
 **Yume:** Whenever I'm ready... When should I...  
 **Yume:** Go\!  
 **Yukari:** ...  
-**Yume:** You dodged that\!?  
+**Yume:** You dodged that\!\?  
 **Yume:** ...Ahah\! This time, I'll do something even more ama-- zing\!  
 **Yukari:** To make me draw my okatana...... That is impressive.  
 **Yume:** If we didn't get this far, we'd both be bored, right, Yukari-sama?  
 **Yume:** So then, I'll do even more-\!  
 **Yume:** That's what I want, Yukari-sama-\!  
 **Yukari:** ...It's about time now. Sorry, Yume.  
-**Yume:** Uwah\!?  
+**Yume:** Uwah\!\?  
 **Yukari:** That's all for today.  
 **Yume:** J-Just one more time\! If I don't beat you, they won't let me go on any sorties\!  
 **Yukari:** Where did you get that idea? The reason you go on so few sorties is because Shidou and Konohana are concerned about your body.  
@@ -486,7 +474,7 @@ https://youtu.be/QcrxhLnr7t8
 **Maki:** Excuse us, Yukari-sama.  
 **Yukari:** You're here. I have a request for you from the Sword Administration Bureau.  
 **Suzuka:** A request?  
-**Yume:** Is it aradama\!? Yukari-sama, did a really tough aradama show up\!?  
+**Yume:** Is it aradama\!\? Yukari-sama, did a really tough aradama show up\!\?  
 **Yukari:** ...That's not it. This request comes from the public relations department.  
 **Yume:** Really-? What a letdown-.  
 **Yomi:** What sort of request is it?  
@@ -497,7 +485,7 @@ https://youtu.be/QcrxhLnr7t8
 **Yume:** Then you onee-sans can go do it on your own.  
 **Maki:** Yume\! Don't act so spoiled.  
 **Yukari:** Then, Yume. After you finish this request, I'll be your opponent. It's been a while.  
-**Yume:** You mean it\!? Then, I guess I have to go.  
+**Yume:** You mean it\!\? Then, I guess I have to go.  
 **Yume:** But, you have to promise, Yukari-sama\! You can't go saying you take it back after this\!  
 **Yukari:** Good. I promise.  
 **Yomi:** Is that alright?  
@@ -511,19 +499,19 @@ https://youtu.be/QcrxhLnr7t8
 **Suzuka:** Of course; you can rely on me.  
 **Yukari:** Though, about your assignment this time... You won't be part of a ceremony.  
 **Yukari:** You will be giving a dance performance as part of the pool's Arabian event.  
-**Yume:** Eh...\!?  
+**Yume:** Eh...\!\?  
 **Yume:** Instead of listening to some boring speeches at a ceremony, we're dancing?  
 
 ## [1,001 Nights - Yume: End]: A Promise for Next Time 
 --The day of the event.
 
   
-**Maki:** We have to wear these\!?  
+**Maki:** We have to wear these\!\?  
 **Yume:** You don't like it, Maki-onee-san? They're so cute though.  
 **Maki:** Look how much stomach it shows... I can't wear something that cute\!  
 **Suzuka:** Yes... It's embarrassing for me as well.   
 **Yume:** Why don't you want to wear it that bad though?  
-**Yume:** It doesn't really feel like something you'd say, Maki-onee-san. You'd be more like, "All clothes are the same-\!"  
+**Yume:** It doesn't really feel like something you'd say, Maki-onee-san. You'd be more like, "All clothes are the same-\!\"  
 **Maki:** ...I don't think all clothes are the same.  
 **Maki:** And I'm just... a little self-conscious about my stomach.  
 **Yume:** You mean cause it'll be cold?  
@@ -541,7 +529,7 @@ https://youtu.be/QcrxhLnr7t8
 **Suzuka:** Isn't it charming to see her act her age?  
 **Maki:** ...That's true.  
 **Yume:** Geez\! Maki-onee-san, you're messing up the rhythm.  
-**Maki:** Huh\!?  
+**Maki:** Huh\!\?  
 **Yomi:** ...  
 **Yume:** Yomi-onee-san, you've gotta smile more\!  
 **Yomi:** ...Was I not smiling?  
@@ -591,7 +579,7 @@ https://youtu.be/0OSG6EeTdH8
 **Tsugumi:** Tsubakuro-san is a toji too. Please have faith in her.  
 **Fate:** ...Okay.  
 
-## [Mahou Shoujo - Yume: End]: It's Not Like That\!?
+## [Mahou Shoujo - Yume: End]: It's Not Like That\!\?
 **Aradama:** GUOOOOOOOOOOOOOO\!\!  
 **Yume:** YAAH\!  
 **Aradama:** Oooo...  
@@ -608,7 +596,7 @@ https://youtu.be/0OSG6EeTdH8
 **Yume:** Wait, I know\!  
 **Fate:** Yume-san?  
 **Yume:** Since we have the chance, let's have some fun while we do this... Fate-chan\!  
-**Fate:** --\!?  
+**Fate:** --\!\?  
 **Yume:** Aha\! Fighting with you really is fun, Fate-chan\!  
 **Fate:** We're in the middle of a mission right now\!  
 **Yume:** Yeah\! So, while we do the mission, let's fight, Fate-chan\!  
@@ -625,10 +613,10 @@ https://youtu.be/0OSG6EeTdH8
 **Fate:** Will that be alright?  
 **Yume:** ...Aha\! It's fine with me\!  
 **Tsugumi:** Okay, that's enough-.  
-**Yume:** Ehhh\!? What're you and Nanoha-chan doing here, Onee-san?  
+**Yume:** Ehhh\!\? What're you and Nanoha-chan doing here, Onee-san?  
 **Tsugumi:** We heard something troubling going on, so we hurried over.  
 **Nanoha:** Fate-chan, if you're going to fight with Yume-san, I think you should do it after the mission's over...  
-**Fate:** Y-You've got it all wrong, Nanoha\! I was making sure to do the mission\!?  
+**Fate:** Y-You've got it all wrong, Nanoha\! I was making sure to do the mission\!\?  
 **Yume:** Geez, and it was just getting fun too. Let's pick up from here when we get back, Fate-chan.  
 **Nanoha:** Fate-chan can get pretty intense when it comes to combat training...  
 **Fate:** I told you, it's not like that\!\!  

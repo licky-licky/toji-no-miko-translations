@@ -32,8 +32,8 @@ https://streamable.com/bnvyn8
 **Kanami:** Hmm, I guess I'd have to see England first? I want to go to London\!  
 **Hiyori:** London... The most I know about it comes from Sherlock Holmes.  
 **Kanami:** Ah\! Sherlock Holmes\! That's good\! When we get to London, let's do stuff like Sherlock Holmes\!  
-**Hiyori:** Wh-What\!?  
-**Hiyori:** What do you mean, stuff like Sherlock Holmes\!?  
+**Hiyori:** Wh-What\!\?  
+**Hiyori:** What do you mean, stuff like Sherlock Holmes\!\?  
 https://streamable.com/q8wc5e
 
   
@@ -43,20 +43,20 @@ https://streamable.com/q8wc5e
 **Hiyori:** Right. The jewels we're after are on the inside.  
 **Kanami:** Yeah\! But... They're bound to have Scotland Yard's finest on security, so we'd better be careful.  
 **Hiyori:** ...If you're going to warn me to be careful, try not giggling when you do it.  
-**Kanami:** But, come on, they're going to have their top class guards stationed in there\!?  
+**Kanami:** But, come on, they're going to have their top class guards stationed in there\!\?  
 **Kanami:** What kind of fighting style do you think they'll use? Isn't it exciting, Hiyori-chan\!  
 **Hiyori:** Now you're saying the polar opposite of before. Weren't we supposed to be careful?  
 **Kanami:** We'll have fun while we're being careful\!  
 **Hiyori:** There's just no helping you, is there... Let's move in\!  
 **Maki:** I heard a noise over this way\! Intruders\!  
 **Suzuka:** Hopping aboard the car we're guarding; you phantom thieves have run out of luck.  
-**Hiyori:** Wait, we're the thieves, not the detectives\!?  
+**Hiyori:** Wait, we're the thieves, not the detectives\!\?  
 **Kanami:** See, Hiyori-chan. Holmes is a master of Baritsu, right?  
 **Kanami:** So I'd want to fight him. Which means, we've gotta be phantom thieves\!  
-**Hiyori:** "Gotta be phantom thieves"? Really\!? And also, Holmes wasn't even there\!  
+**Hiyori:** "Gotta be phantom thieves"? Really\!\? And also, Holmes wasn't even there\!  
 **Kanami:** Then maybe... Instead of working together, would it be a better setup if I came to steal you, Hiyori-chan?  
-**Kanami:** "I've come to steal you away, Hiyori-chan\!" Like that.  
-**Hiyori:** Are you listening to me\!? And anyway, you're the one kidnapping me\!?  
+**Kanami:** "I've come to steal you away, Hiyori-chan\!\" Like that.  
+**Hiyori:** Are you listening to me\!\? And anyway, you're the one kidnapping me\!\?  
 **Kanami:** Would you rather steal me?  
 **Kanami:** Like, "I'm here to steal you away, Kanami."  
 **Announcement:** We have confirmed the appearance of aradama. I repeat--  
@@ -111,7 +111,7 @@ https://streamable.com/t8t9c5
 **Kanami:** Ellen-chan said she'd be dressing up like a wolf, didn't she? Yui-chan, do you know? For Kiyoka-chan and everybody.  
 **Yui:** I told Kiyoka-chan she should dress up like a witch and little red riding hood, but she wouldn't wear those costumes in the end.  
 **Hiyori:** ...You gave her something weird to wear, didn't you?  
-**Yui:** Eh-- The skirt was just a liiittle bit short is all\!?  
+**Yui:** Eh-- The skirt was just a liiittle bit short is all\!\?  
 **Kanami:** Ahaha... I'm pretty sure that's the reason.  
 **Yui:** But, I'd love to see Kiyoka-chan all dressed up in costume if I could. And Chie-san and Mihono-chan too, of course\!  
 **Kanami:** I'm sure you would, Yui-chan. We should hurry over there then.  
@@ -132,9 +132,9 @@ https://streamable.com/t8t9c5
 **Kanami:** That might be tricky.  
 **Yui:** What are you two saying? You're pairing up for a shot, so you've got to get right up on each other\!  
 **Yui:** So close you're practically hugging\!  
-**Hiyori:** Wha\!?  
+**Hiyori:** Wha\!\?  
 **Kanami:** Like this?  
-**Hiyori:** ...Ka-Kanami\!? Th-That's too close.  
+**Hiyori:** ...Ka-Kanami\!\? Th-That's too close.  
 **Yui:** Niiice going, Kanami-chan\~.  
 **Hiyori:** Doing this kind of thing is nice every now and then.  
 **Kanami:** Yeah. We should all go together for Halloween again next year\!  

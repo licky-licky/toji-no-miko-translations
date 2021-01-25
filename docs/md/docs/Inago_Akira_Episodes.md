@@ -13,7 +13,7 @@ https://youtu.be/aiA2svZtMos
 **Nene:** Ne?  
 **Toji A:** Hey... Look.  
 **Toji B:** Y-Yeah... Inago-san, she's glaring at...  
-**Akira:** ......What're you looking at\!?  
+**Akira:** ......What're you looking at\!\?  
 **Both of Them:** S-Sorry about that\!  
 **Akira:** ......Tch.  
 **Toji A:** She went away...  
@@ -21,12 +21,12 @@ https://youtu.be/aiA2svZtMos
 **Toji A:** Yeah, just to be safe.  
 **Akira:** (He's too damn cute\!)  
 **Akira:** (Ahh... I want to pet him so bad...)  
-**Akira:** (But, y'know... With how I look and all, there's no way I could rub him all over and be like "Aww, there there\!"...)  
+**Akira:** (But, y'know... With how I look and all, there's no way I could rub him all over and be like "Aww, there there\!\"...)  
 **Akira:** Sigh, not when somebody's watching...  
 **Akira:** (Nene didn't seem freaked out, so if those two weren't there, I could've pet him at least...)  
 **Akira:** ...When am I even gonna get another chance to pet Nene...  
 **Nene:** Zzz...  
-**Akira:** (Wh-What's goin' on here-\!?)  
+**Akira:** (Wh-What's goin' on here-\!\?)  
 **Akira:** I-Is he asleep...?  
 **Nene:** Nene...  
 **Akira:** I-Is anybody around to see...? D-Doesn't look like it...  
@@ -37,7 +37,7 @@ https://youtu.be/aiA2svZtMos
 **Akira:** B-Bring it on, damnit\! I'm gonna pet the hell outta you\!  
 **Kaori:** Oiiii, Nene-\!  
 **Nene:** Ne\!  
-**Akira:** -\!?  
+**Akira:** -\!\?  
 **Nene:** Nenene\!\!  
 **Kaoru:** What, you were lying around here? We're going back now.  
 **Nene:** Ne\!\!  
@@ -49,7 +49,7 @@ https://youtu.be/aiA2svZtMos
 **Old Lady:** ...Oh my, what should I do. There's too many cars going by...  
 **Akira:** -\!  
 **Akira:** Oi\! Hey you, granny\!  
-**Old Lady:** Eeek\!?  
+**Old Lady:** Eeek\!\?  
 **Old Lady:** Thank you, toji dear.  
 **Akira:** It's nothing. If some old granny's in trouble, wouldn't anybody help 'em out?  
 **Old Lady:** You're a good toji, aren't you, dearie. Tell me, why do you dress so wild?  
@@ -61,8 +61,8 @@ https://youtu.be/aiA2svZtMos
 **Police:** Hey\! You there\!  
 **Akira:** Huh?  
 **Police:** You\! I'm talking to you\! You were threatening the elderly just now, weren't you\!  
-**Akira:** Threatening-- She just gave me candy\!?  
-**Police:** You stole food from her\!?  
+**Akira:** Threatening-- She just gave me candy\!\?  
+**Police:** You stole food from her\!\?  
 **Akira:** C'mon, listen to what I'm telling you\!  
 **Akira:** Ahh... I'm beat. And I didn't even make it to school in the end\!  
 **Fukuda Sawano:** Oh... Inago-san...?  
@@ -73,8 +73,8 @@ https://youtu.be/aiA2svZtMos
 
   
 **Akira:** If I leave this early, I'll make it for sure\! I'm definitely getting to school today\!  
-**Akira:** Nn? Did I just run up on something, or what... Geh\!? I popped another tire\!?  
-**Akira:** How many times is that this month\!? I don't got the money to fix another hole-\! But, it's not like I can leave it here either... Guess I've gotta push...  
+**Akira:** Nn? Did I just run up on something, or what... Geh\!\? I popped another tire\!\?  
+**Akira:** How many times is that this month\!\? I don't got the money to fix another hole-\! But, it's not like I can leave it here either... Guess I've gotta push...  
 **Akira:** Pant, pant... M-Made it, finally...  
 **Aoto Hina:** Oh, did you pop a tire?  
 **Akira:** Huhh? Who're you supposed to be?  
@@ -164,22 +164,22 @@ https://youtu.be/aiA2svZtMos
 ## 5: Hang in There, Mihono
 **Nagae Futaba:** (For today's aradama suppression mission...)  
 **Akira:** ...  
-**Futaba:** (AHHH\!? For some reason, the girl I'm paired up with looks super scaryyyyyy\!?)  
+**Futaba:** (AHHH\!\? For some reason, the girl I'm paired up with looks super scaryyyyyy\!\?)  
 **Futaba:** Oi, you\!  
-**Futaba:** Y-Yes, what is it\!?  
+**Futaba:** Y-Yes, what is it\!\?  
 **Akira:** There's aradama\!  
-**Futaba:** Huh\!? The spectrum meter hasn't picked anything up yet...  
-**Futaba:** H-How'd you know they were here\!?  
+**Futaba:** Huh\!\? The spectrum meter hasn't picked anything up yet...  
+**Futaba:** H-How'd you know they were here\!\?  
 **Akira:** Just my intuition\!  
 **Akira:** One, two, three... Bring it on\! Be sure you keep up\!  
 **Futaba:** R-Right\!  
 **Akira:** ORAORAORAORA\!  
-**Futaba:** Ehh\!?  
-**Futaba:** (Sh-She's so strong\!? Nobody told me there was a senpai this strong here\!?)  
+**Futaba:** Ehh\!\?  
+**Futaba:** (Sh-She's so strong\!\? Nobody told me there was a senpai this strong here\!\?)  
 **Akira:** Well, that's all there is to it.  
 **Futaba:** You ended up beating them all on your own...  
 **Akira:** Hey.  
-**Futaba:** Y-Yes\!?  
+**Futaba:** Y-Yes\!\?  
 **Akira:** You're in the same class as Asakura Mihono, right?  
 **Futaba:** Mihono... What about her?  
 **Akira:** What do you think of her?  
@@ -192,8 +192,8 @@ https://youtu.be/aiA2svZtMos
 **Futaba:** Right\! ...Actually, Inago-senpai, why were you asking about Mihono?  
 **Akira:** I'm just, a little interested in her.  
 **Akira:** (We're going to need the power she's got... So that our wish can happen...)  
-**Futaba:** (EHHHHHHHHHHHHHH\!? Sh-She's interested? Interested how\!?)  
-**Futaba:** (Don't tell me... She got on this delinquent's bad side\!?)  
+**Futaba:** (EHHHHHHHHHHHHHH\!\? Sh-She's interested? Interested how\!\?)  
+**Futaba:** (Don't tell me... She got on this delinquent's bad side\!\?)  
 **Futaba:** H-Hang in there, Mihono\!  
 **Akira:** Huh?  
 
@@ -207,10 +207,10 @@ https://youtu.be/aiA2svZtMos
 **Aradama:** UUUUUUUUUUUUUUUUUU\!\!  
 **Toji:** KYAAAAAAAAAA\!\!  
 **Mihono:** You...\! HAAAAAAAAAAAAAA\!\!  
-**Mihono:** Are you okay\!?  
+**Mihono:** Are you okay\!\?  
 **Toji:** Y-Yeah... But, sorry. I can't use utsushi anymore...  
-**Mihono:** That sound; it's--\!?  
-**Akira:** You alright\!?  
+**Mihono:** That sound; it's--\!\?  
+**Akira:** You alright\!\?  
 **Mihono:** Akira-san\!\!  
 **Akira:** Oh, you're here too, Mihono? How's the situation?  
 **Mihono:** We're in big trouble\!  
@@ -229,17 +229,17 @@ https://youtu.be/aiA2svZtMos
 **Akira:** You should be thanking this then, not me.  
 **Mihono:** You mean... Your bike?  
 **Akira:** Yep. It ran its heart out racing over here... Want to get on it for a bit?  
-**Mihono:** Can I\!?  
+**Mihono:** Can I\!\?  
 
 ## [Akira Joins: End]: Soon Enough
-**Mihono:** Can I really\!? Your bike's so cool, Akira-san\!  
+**Mihono:** Can I really\!\? Your bike's so cool, Akira-san\!  
 **Akira:** Hey, you get it, don't you.  
 **Mihono:** Yeah\!  
 **Akira:** Alright, here, hop on back.  
 **Mihono:** Awesome\!  
 **Mihono:** ...Huh, so this is how it feels to be up on a bike.  
 **Akira:**　Well, yeah. When you've had enough, get off.  
-**Mihono:** Ehhh\!? You're not gonna let me ride anywhere with you\!?  
+**Mihono:** Ehhh\!\? You're not gonna let me ride anywhere with you\!\?  
 **Akira:** It's not like I don't want you to, but we can't do it like this.  
 **Mihono:** Is it because... You don't have an extra helmet?  
 **Akira:** More like, it's against the law. You can't ride with a passenger until a year after you've gotten your license.  
@@ -249,7 +249,7 @@ https://youtu.be/aiA2svZtMos
 **Mihono:** You pay attention to this stuff, huh, Akira-san.  
 **Akira:** Huh? What're you talking about; 'course I do.  
 **Akira:** Anyway, that's how it is, so it's not gonna happen today. Give it a few more months and I'll take you for a ride.  
-**Mihono:** You mean it\!? It's a promise\!  
+**Mihono:** You mean it\!\? It's a promise\!  
 **Akira:** Deal.  
 **Mihono:** Get a helmet ready for me too, okay\!  
 **Akira:** Who do you think you're talkin' to? I bought one of those back when I got my license\!  
@@ -279,7 +279,7 @@ https://youtu.be/aiA2svZtMos
 The day of the party.
 
   
-**Akira:** Why'd I have to get a suppression mission today of all days\!?  
+**Akira:** Why'd I have to get a suppression mission today of all days\!\?  
 **Fukuda Sawano:** The aradama are on the move, Inago-san\!  
 **Akira:** ORAA\!  
 **Aradama:** UOOOO...  
@@ -306,7 +306,7 @@ The day of the party.
 ## [Dress 20 - Akira: End]: Grape Juice
 **Akira:** Phew, made it.  
 **Yomi:** As late as usual.  
-**Akira:** Geh, Yomi\!?  
+**Akira:** Geh, Yomi\!\?  
 **Yomi:** Even after I made such a point of warning you, you still couldn't be here on time.  
 **Akira:** What was I supposed to do\! I mean, I went to school like normal too\!  
 **Akira:** But then I got sent on this mission all of a sudden, and up till now I was way out in the mountains suppressing aradama\!  
@@ -351,7 +351,7 @@ https://streamable.com/cq5bjh
 **Akira:** You're not gettin' away, ORAAAAAHH\!  
 **Mihono:** Nice\!  
 **Yomi:** Asakura-san. There still seem to be aradama in the area we're in charge of. Approaching from 9 o'clock; be on guard.  
-**Mihono:** 9 o'clock? Wait, which way is that\!?  
+**Mihono:** 9 o'clock? Wait, which way is that\!\?  
 **Akira:** Left from where you're facing, Mihono\!  
 **Akira:** Yomi, are those the last of 'em?  
 **Yomi:** Yes.  

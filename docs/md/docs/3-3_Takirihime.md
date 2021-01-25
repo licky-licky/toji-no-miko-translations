@@ -1,13 +1,9 @@
 
 3-3 Takirihime
 ==============
+https://www.youtube.com/watch?v=pr_VwOqpOwA
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/pr_VwOqpOwA" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Tensions Rise
 **Yukina:** They've each been adjusted thoroughly. These are now your loyal soldiers, Princess. Please use them as you see fit.  
@@ -75,9 +71,9 @@ At the same time, near the Ichigaya garrison--
 **Mirja:** It's not a problem. The painkillers have worn off is all.  
 **Kofuki:** You know, you're the one who's always saying to keep it in check. Just look at yourself.  
 **Mirja:** There is not going to be a problem. If anything, now that they've worn off, the pain will keep me alert.  
-**Kofuki:** How stubborn can you be\!?  
+**Kofuki:** How stubborn can you be\!\?  
 **Aradama:** GYAAAAUUU\!  
-**Mihono:** Aradama\!? And this many of them too...  
+**Mihono:** Aradama\!\? And this many of them too...  
 **Chie:** It would be hard getting around them all. We'll have to fight our way through.  
 **Kofuki:** Just have to blitz 'em down\!  
 
@@ -127,7 +123,7 @@ Long ago, 400 years prior. In the Mashiko's village--
 **Ellen:** Maimai, was that Sana-sensei on the phone?  
 **Hiyori:** What happened?  
 **Mai:** A large number of aradama have appeared around Ichigaya, and are indiscriminately attacking civilians\!  
-**Kaoru:** Seriously\!? What're we going to do?  
+**Kaoru:** Seriously\!\? What're we going to do?  
 **Hiyori:** What else, we can't just ignore them\!  
 **Sayaka:** But, our mission is to...  
 **Hiyori:** Protect Takirihime, I know. But...  
@@ -145,7 +141,7 @@ Just then, inside the Ministry of Defense Facility--
   
 **Nene:** Ne-, nene-\!  
 **Kanami:** Nene-chan, where are you going? Oh, this is...  
-**Kanami:** \!?  
+**Kanami:** \!\?  
 **Takirihime:** ...Will you not draw?  
 **Kanami:** .........?  
 **Takirihime:** Did you not say you wanted to fight with me?  
@@ -172,18 +168,18 @@ At the same time, on the grounds of the Ministry of Defense--
 **Kaoru:** Phew\~, is it over?  
 **Kanami:** Everyone-\!  
 **Hiyori:** You're late, Kanami\!  
-**Kanami:** Sorry\! But, what's... Eh\!? What's that sound?  
+**Kanami:** Sorry\! But, what's... Eh\!\? What's that sound?  
 **Kanami:** A helicopter? But, for some reason... Something's off...  
 **Ellen:** Something's dropping down.  
 **Sayaka:** People...?  
 **Mai:** So, this is their real attack...  
 
 ## 6: Myouga Toji (1)
-**Kaoru:** What the hell, what is it this time...\!?  
-**Mai:** These are Ayanokouji toji\!? Then, Tagitsuhime's behind this after all?  
+**Kaoru:** What the hell, what is it this time...\!\?  
+**Mai:** These are Ayanokouji toji\!\? Then, Tagitsuhime's behind this after all?  
 **Ayumu:** Ah, Etou-san\! It's the real Etou-san\!  
-**Kanami:** Huh-\!? A-Ayumu-chan\!?  
-**Kanami:** Why are... Why are you doing this, Ayumu-chan...\!?  
+**Kanami:** Huh-\!\? A-Ayumu-chan\!\?  
+**Kanami:** Why are... Why are you doing this, Ayumu-chan...\!\?  
 **Hiyori:** Are you all aware of what you're doing?  
 **Ellen:** It's no use, Hiyoyon\! These girls won't listen to a word we say\!  
 **Ayumu:** I've gotten stronger, Etou-san\! See, like this\!  
@@ -193,7 +189,7 @@ At the same time, on the grounds of the Ministry of Defense--
 **Ayumu:** So keep looking\! I can show you more and more, Etou-san\!  
 
 ## 7: Myouga Toji (2)
-**Hiyori:** What's wrong with them\!?  
+**Hiyori:** What's wrong with them\!\?  
 **Ellen:** President Souraku's gone and done the unthinkable too.  
 **Sayaka:** There's something I don't like about this...  
 **Mai:** Everyone, do something to push them back\! Just beyond here is...\!  
@@ -223,7 +219,7 @@ At the same time, Roughly 2 kilometers away from the Ministry of Defense--
 **Kofuki:** If we beat on her enough, she'll go running home. That's enough for now, right?  
 **Mirja:** True, with our objective being to guard, if Tagitsuhime were to retreat, the mission could then be considered a success.  
 **Kofuki:** See? I've been thinking this through.  
-**Mihono:** Fukki actually used her head\!?  
+**Mihono:** Fukki actually used her head\!\?  
 **Kiyoka:** She just wants to play with Tagitsuhime though...  
 **Kofuki:** Oiii. You two, meet me behind the gym later.  
 **Chie:** Ah-\!\! Everyone, look over there...\! In the direction of the Ministry of Defense...  
@@ -249,7 +245,7 @@ At the same time, Roughly 2 kilometers away from the Ministry of Defense--
 **Mihono:** Ahh, you finally made it\! You're late, you two\! But, thank goodness... You made it back okay\! You had us worried\!  
 **Kofuki:** Stop, Mihocchi\! Don't go near them\!  
 **Mihono:** What do you mean, Fukki? And why'd you pull your okatana out?  
-**Kofuki:** Come on, don't give me that\! Don't you get what happened\!?  
+**Kofuki:** Come on, don't give me that\! Don't you get what happened\!\?  
 **Kiyoka:** Then... This... This can't be happening...  
 **Chie:** ...I don't want to believe it, but this is the reality we have to face. President Souraku... This is too cruel.  
 **Mihono:** Eh... Guys, what are you saying? I-It's Yui and Hana\! They came back\!  

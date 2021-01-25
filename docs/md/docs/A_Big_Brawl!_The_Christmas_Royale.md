@@ -1,20 +1,16 @@
 
 A Big Brawl! The Christmas Royale
 =================================
+https://www.youtube.com/watch?v=7BwpPBgLndM
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/7BwpPBgLndM" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: A Black Christmas?
 **Ellen:** Everyone in school... They're looking excited, aren't they?  
 **Kaoru:** Well yeah. Exams just finished, and it'll be Christmas soon. They're all getting into it.  
 **Nene:** Ne-\!  
 **Ellen:** Awww\~...  
-**Kaoru:** What's with you? Normally you'd be all "Christmas\!" and dancing around.  
+**Kaoru:** What's with you? Normally you'd be all "Christmas\!\" and dancing around.  
 **Ellen:** Christmas is the problem\! Hear me out, Kaoru.  
 **Ellen:** This year, everyone in my family has some other important business stopping them from getting together on the 25th...  
 **Ellen:** This was my chance to be with everyone, and I was really looking forward to it.  
@@ -34,7 +30,7 @@ A Big Brawl! The Christmas Royale
 **Kaoru:** Huhh? Hang on\! I only just got back here\!  
 **Ellen:** What's wrong? Kaoru?  
 **Kaoru:** I'll be on expedition duty Christmas day... Ughh.  
-**Ellen:** But... What about getting ready for our fun Christmas together\!?  
+**Ellen:** But... What about getting ready for our fun Christmas together\!\?  
 **Kaoru:** I can help you get ready for a lonely Christmas at least... I can't believe how hard they're overworking us...  
 **???:** Ughhhh... Why is this happening to me.  
 **Ellen:** Come on, Kaoru. No matter how bad things are, don't you think you're laying it on too thick?  
@@ -61,8 +57,8 @@ A Big Brawl! The Christmas Royale
 **Passing Toji A:** The one where the winner gets a reward from the head of the family.  
 **Passing Toji B:** Nobody told me. What reward?  
 **Passing Toji A:** They're saying you can wish for anything, and the head of the family will make it happen.  
-**Passing Toji B:** Seriously\!? That's Yukari-sama for you, I guess. I'll think about it.  
-**Mihono & Ellen:** ...\!?  
+**Passing Toji B:** Seriously\!\? That's Yukari-sama for you, I guess. I'll think about it.  
+**Mihono & Ellen:** ...\!\?  
 **Ellen:** I'm going to ask for more information\! You two just wait right here-\!  
 **Mihono:** If what they were saying is true... Then there's still hope\!  
 **Kaoru:** Well, nobody wants to spend Christmas studying.  
@@ -71,7 +67,7 @@ A Big Brawl! The Christmas Royale
 **Ellen:** Getting right to it, both the Five Traditions Unified Christmas Mock Battle and Yukari-sama granting any wish are real\!  
 **Mihono:** That's crazy\!  
 **Ellen:** It's just limited to anything Yukari-sama can make happen.  
-**Mihono:** But that means Yukari-sama could cancel out my failing grades and makeup classes, right\!?  
+**Mihono:** But that means Yukari-sama could cancel out my failing grades and makeup classes, right\!\?  
 **Ellen:** That's what it means. Yukari-sama's so generous.  
 **Mihono:** Then I might be able to win back my fun filled winter break... Probably\!  
 **Ellen:** That's the spirit, MihoMiho\!  
@@ -146,7 +142,7 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Suzuka:** You shouldn't speak to them like that. This is an exercise in improving their technique. You need to face them as proper opponents  
 **Yume:** Fineee. You can take a break, you know, Suzuka onee-san.  
 **Suzuka:** Fufu, I'm afraid I can't accept that offer, but I'd welcome seeing you try your best, Yume.  
-**Mihono:** Nobody said I was gonna have to fight the elite guard for this\!?  
+**Mihono:** Nobody said I was gonna have to fight the elite guard for this\!\?  
 **Chie:** Considering the reward, I expected as much...  
 **Sayaka:** I've confirmed the victory condition... I'll secure the star now.  
 **Mai:** Hang on, Sayaka-chan. Why don't we wait and see how things play out first?  
@@ -159,9 +155,9 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Ellen:** Now then. How do we go about getting past Yumecchi and HanaHana...  
 
 ## 4: The Distant Star
-**Mock Battle Participant A:** Kyaa...\!?  
+**Mock Battle Participant A:** Kyaa...\!\?  
 **Suzuka:** You're all being far too careless.  
-**Mock Battle Participant B:** Wait... When did she-\!?  
+**Mock Battle Participant B:** Wait... When did she-\!\?  
 **Mock Battle Participant C:** How are they this strong...  
 **Suzuka:** No matter how many you bring, you won't reach the tree without a proper plan.  
 **Yume:** Aww, I thought I was gonna get to play with those onee-sans\!  
@@ -211,7 +207,7 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Yume:** Fufu\~, seeya next time, Onee-san\~\!  
 **Kaoru:** Alright, time to retreat.  
 **Nene:** Nene\!  
-**Suzuka:** ...Huh\!?  
+**Suzuka:** ...Huh\!\?  
 **Kaoru:** She launched you pretty far. You okay?  
 **Ellen:** I'm fine, thank you. I like when you get worried, Kaoru.  
 **Kaoru:** So, what do you think?  
@@ -259,7 +255,7 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Yume:** Ah\! I just thought of something good. Yukari-sama\~? If I can protect the star, I want you to grant my wish\!  
 **Maki:** That's already an important role Yukari-sama gave you. Don't start acting greedy with it.  
 **Yukari:** No, if that will keep Yume motivated, I'll allow it. If you can keep the star untouched, I'll grant your wish.  
-**Yume:** You mean it\!? Hooray-\! I wonder what I should wish for\~?  
+**Yume:** You mean it\!\? Hooray-\! I wonder what I should wish for\~?  
 **Yomi:** Wasn't that nice of her, Tsubakuro-san.  
 **Yume:** Yeah\! It's my Christmas present\~, my Christmas present\~\!  
 **Yume:** (Come to think of it, doesn't something happen around Christmas?)  

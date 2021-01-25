@@ -1,13 +1,9 @@
 
 2-8 The Mysterious Figure
 =========================
+https://www.youtube.com/watch?v=qOotF8PxLnM
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/qOotF8PxLnM" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Hiyori's Reflection (1)
 **Hiyori:** .........I'm sorry, mother. I...  
@@ -31,7 +27,7 @@ One week ago. At Hiyori's home.
 **Iroha:** That's the problem... It seems there's a toji behind it. A strange toji covered by a hood.  
 **Academy Intercom:** Aradama have been identified in the area of this academy. Toji, make preparations for emergency sortie. I repeat, aradama have been identified--  
 **Hiyori:** ...Aradama, huh.  
-**Kanami:** Hiyori-chan\! There's aradama\! Are you ready to go\!?  
+**Kanami:** Hiyori-chan\! There's aradama\! Are you ready to go\!\?  
 **Hiyori:** ...Kanami, at least knock first.  
 **Kanami:** Ah- sorry\! I was right by your room when they made the announcement, so I...  
 **Hiyori:** ...It's fine. Let's go.  
@@ -53,7 +49,7 @@ One week ago. At Hiyori's home.
 **Hiyori:** Listen up, Kanami. I am not mad about anything. I just want to settle things with you.  
 **Kanami:** You're making a really scary face, Hiyori-chan\! I knew it, you are mad\!  
 **Hiyori:** You won't mind if I use fourth layer jin'i, do you?  
-**Kanami:** The one you used to suppress Tagitsuhime\!? You're going to bury me at the bottom of the netherworld\!?  
+**Kanami:** The one you used to suppress Tagitsuhime\!\? You're going to bury me at the bottom of the netherworld\!\?  
 
 ## 3: What We Can Do (1)
 **Kanami:** It's been over four months since the leakage issue happened, right...?  
@@ -112,7 +108,7 @@ Presently, the unit of two toji and one pet led by Mashiko Kaoru consists of her
 **Chie:** Two.  
 **Kiyoka:** Three.  
 **Nene:** Ne-\!  
-**Kaoru:** Great, we're all here. --Wait, we doubled\!?  
+**Kaoru:** Great, we're all here. --Wait, we doubled\!\?  
 **Kaoru:** You two... You're the ones who came to help in the raid on the Origami house, right?  
 **Chie:** That's us. We've been deployed here as your reinforcements. I'm Setouchi Chie, a third year high schooler from Osafune Girls' Academy.  
 **Kiyoka:** And I was deployed here for the same reason, Musumi Kiyoka, a second year middle schooler from the Heijou Institute.  
@@ -127,9 +123,9 @@ Presently, the unit of two toji and one pet led by Mashiko Kaoru consists of her
 ## 6: Personnel Reinforcements (2)
 **Kaoru:** 'kay, that's all of them are taken care of.  
 **Nene:** Ne-\!  
-**Chie:** Hyah\!? This little guy jumped right into my chest...\!?  
+**Chie:** Hyah\!\? This little guy jumped right into my chest...\!\?  
 **Kaoru:** Figures Nene would like Chie's breasts the most. Well, it goes without saying she's the best on offer here.  
-**Chie:** What...\!? He's so cute, but, somehow I'm not very glad about him growing attached to me...  
+**Chie:** What...\!\? He's so cute, but, somehow I'm not very glad about him growing attached to me...  
 **Kaoru:** Having big tits is a virtue, right? You should be happier.  
 **Chie:** Well I'm not\!\!  
 **Kiyoka:** Did you know, Shichinosato-san calls her "Chichie"...  
@@ -179,14 +175,14 @@ Presently, the unit of two toji and one pet led by Mashiko Kaoru consists of her
 **Kaoru:** Lately, there's been this strange hooded toji going around attacking toji and taking the noro they collected. Not long ago, our unit was attacked and our noro stolen.  
 **Kaoru:** The reason this unit is just me and Sayaka is, when we were attacked, everyone else was too injured to stay.  
 **Kaoru:** --And we found out who the hooded toji is: the former elite guard member, Shidou Maki.  
-**Kiyoka:** Eh-\!?  
+**Kiyoka:** Eh-\!\?  
 **Sayaka:** We got there after everyone else had been beaten...  
 **Sayaka:** ...Kaoru, there. Everyone's on the ground.  
-**Kaoru:** What happened\! --Oi\! Guys\! Tell me you're still breathing\!?  
+**Kaoru:** What happened\! --Oi\! Guys\! Tell me you're still breathing\!\?  
 **Kaoru:** ...Good. Seems like they're just unconscious.  
 **Maki:** ......  
 **Sayaka:** ...Kaoru. That's Shidou Maki...  
-**Kaoru:** What-\!? Don't tell me, you did this\!?  
+**Kaoru:** What-\!\? Don't tell me, you did this\!\?  
 **Maki:** ......  
 **Kaoru:** Ah-\! Hey\! Get back here\!  
 **Sayaka:** Kaoru... I don't see the noro anywhere...  

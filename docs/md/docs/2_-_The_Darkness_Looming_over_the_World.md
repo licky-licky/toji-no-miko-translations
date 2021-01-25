@@ -1,13 +1,9 @@
 
 2 - The Darkness Looming over the World
 =======================================
+https://www.youtube.com/watch?v=495_udOh8hI
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/495_udOh8hI" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Harajuku Revisited (1)
 **Mirja:** We've reached Meiji Shrine. It won't be long now before we arrive at Aoto-kan.  
@@ -28,8 +24,8 @@
 **Mihono:** C'mon, quit worrying about it already\! You're such a downer, Chii-nee\~. Besides, everyone's got a secret or two they haven't told anybody, right?  
 **Mihono:** Like, don't tell her, but my stomach was rumbling earlier and I couldn't help myself, so I ate Fukki's pudding.  
 **Kofuki:** Ohhh\~? So you were behind that, huh?  
-**Mihono:** Geh, Fukki-\!? You heard that\!?  
-**Kofuki:** "Geh... You heard that", so that's how it is now\!?  
+**Mihono:** Geh, Fukki-\!\? You heard that\!\?  
+**Kofuki:** "Geh... You heard that", so that's how it is now\!\?  
 **Kofuki:** When I asked you about it before, you said you had no clue what happened to my pudding. Why didn't you say something? Why the hell didn't you say something\~?  
 **Mihono:** I-I tried to tell you\! But you looked like you were about to stab someone\! Your eyes were really scary, so I just...  
 **Kofuki:** Well course I did. When you steal the pudding somebody was really looking forward to, you should expect to get what's coming to you\!  
@@ -46,7 +42,7 @@
   
 **Mihono:** Yeah, just like that- Whoa, it's happening again\!\!  
 **Kiyoka:** I-It's because you had to go and bring it up, Hono-chan...  
-**Mihono:** Eh\!? This is my fault now\!?  
+**Mihono:** Eh\!\? This is my fault now\!\?  
 
 ## 2: Harajuku Revisited (2)
 **Chie:** Why does this have to keep happening when we're in such a rush...  
@@ -57,10 +53,10 @@
 **Kiyoka:** I never would have thought we'd be fighting aradama as soon as we arrived in Harajuku...  
 **Mihono:** Same here. I wish they'd do us a favor for once and leave us alone.  
 **Kofuki:** You said it.  
-**Mihono:** Huh? Am I hearing things\!? You're always pumped up whenever there's a chance to fight aradama, so why not now?  
+**Mihono:** Huh? Am I hearing things\!\? You're always pumped up whenever there's a chance to fight aradama, so why not now?  
 **Kofuki:** It's hard to get into it when Chichie won't stop looking so depressing.  
 **Chie:** .........  
-**Mihono:** Chii-nee? Chii-nee\!?  
+**Mihono:** Chii-nee? Chii-nee\!\?  
 **Chie:** ...Eh? W-What is it? Sorry, I didn't hear you.  
 **Mihono:** It's nothing, just... Are you okay?  
 **Chie:** Mmhm... Of course.  
@@ -72,7 +68,7 @@
 **Kiyoka:** Th-That's going too far...  
 **Chie:** What's your prob--  
 **Aradama:** GYAAAUUUU\!  
-**Mihono:** Ehh, there's more\!?  
+**Mihono:** Ehh, there's more\!\?  
 **Chie:** One after another... We don't have time for this\!  
 **Mirja:** Everyone, prepare for battle. Shichinosato Kofuki will attack the enemy from the front. Setouchi Chie and Musumi Kiyoka will support from the rear. Asakura Mihono and I will attack at their blind spots, until all of them are eliminated.  
 **Chie:** We need to finish this fast so I can find out what happened to the others. I'm joining the front\!  
@@ -101,8 +97,8 @@
 ## 5: What Happens Twice Will Happen Thrice (1)
 **Mirja:** Now that we've all managed to catch our breath, let's--  
 **Girl:** KYAAAAAAA\!\!  
-**Kiyoka:** Wh-What was that\!? Eh... N-No way... More aradama...\!? They're after her\!  
-**Mihono:** You're kidding, aradama again\!? They say what happens twice happens thrice, but now of all times... Come onnn\~\!  
+**Kiyoka:** Wh-What was that\!\? Eh... N-No way... More aradama...\!\? They're after her\!  
+**Mihono:** You're kidding, aradama again\!\? They say what happens twice happens thrice, but now of all times... Come onnn\~\!  
 **Kofuki:** You guys go on ahead and leave this to me.  
 **Mihono:** This is a real emergency, you know\! Don't try to look cool when you just want to play around, Fukki\!  
 **Kofuki:** That's not it\! I just wanna chop up aradama. You want to get there quick. So what's the problem here?  
@@ -137,7 +133,7 @@
 **Youji:** They say boys can change a lot if you take your eyes off them for three days, but I guess the same goes for girls too.  
 **Youji:** So, jokes aside, what brings you here today? You're welcome for help with anything besides the blades.  
 **Chie:** We don't need help with anything today; we're here about Mok--  
-**???:** Ah-\! Look at all the cuties who came in\! Would you by any chance be the investigation team\!?  
+**???:** Ah-\! Look at all the cuties who came in\! Would you by any chance be the investigation team\!\?  
 **Chie:** We are, but... Who are you?  
 **???:** I knew it\! When I saw all your uniforms were different, it was like a lightbulb went off in my head\!  
 **???:** Ahhh\~... You're all so cute though\! Just looking at you, I can't help but sigh\! I just want to give you all a big hug\!  
@@ -160,7 +156,7 @@
 **Youji:** Actually--  
 **Aradama:** GUGIGGYAAAAAAAA\!\!  
 **Kiyoka:** That roar...  
-**Mihono:** Aradama\!? I thought for sure we'd finally get a break\!?  
+**Mihono:** Aradama\!\? I thought for sure we'd finally get a break\!\?  
 **Kofuki:** What're you saying, they came all this way for us. We've gotta roll out the red carpet\!  
 **Kofuki:** You wanted to play with me that bad? I love you too\! My aradama-chan\!  
 **Yui:** This is my big chance to show off what I can do\! I'm going on ahead, everyone\!  
@@ -238,7 +234,7 @@ Shortly after the mysterious phenomenon occurred--
 **Youji:** They were there, trust me. History might've forgotten them, but they were the real heroes back then.  
 **Yui:** The descendants of those heroes became toji, huh...? If they're that great, I've probably heard their names at least?  
 **Youji:** The first one's Juujou Hiyori. And the other's a little lady by the name of Etou Kanami, apparently.  
-**Mihono:** Eh- Kanami\!? The same Kanami that attacked the head of the family\!?  
+**Mihono:** Eh- Kanami\!\? The same Kanami that attacked the head of the family\!\?  
 **Chie:** No matter how impressive they are, it won't be that easy... They aren't just up against the head of the family and her elite guard.  
 **Chie:** She'll have countless toji protecting her. Just reaching her will be almost impossible.  
 **Youji:** They've got a plan for that too. Any hour now, Akane-sama will show herself before the general public and tell them the truth. They'll all know what the head of the family is and what she's up to.  

@@ -1,13 +1,9 @@
 
 Shidou Maki Episodes
 ====================
+https://www.youtube.com/watch?v=fAqBYLUUqoI
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/fAqBYLUUqoI" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/AuF8ZqOvA9Y
 
   
@@ -23,9 +19,9 @@ https://youtu.be/-wO5Ngjj1-g
 **Subordinate A:** Shidou-san\! You're pushing too far ahead\! You're our captain, so please don't be so risky\!  
 **Maki:** It's because I'm the captain that I need to take the lead. I couldn't stand seeing any of my girls get hurt.  
 **Subordinate:** B: Shidou-san\! There's a giant aradama approaching from the northeast\!  
-**Maki:** What\!? ...This one seems difficult.  
+**Maki:** What\!\? ...This one seems difficult.  
 **Maki:** I'll manage that one by myself. The rest of you, get rid of the aradama in the surrounding area.  
-**Subordinate A:** Are you serious\!? That's too much for anyone to fight alone\!\!  
+**Subordinate A:** Are you serious\!\? That's too much for anyone to fight alone\!\!  
 **Maki:** Don't worry. Have faith in me\!　  
 **Maki:** Nice job. It's thanks to all your efforts that we were able to finish this without casualties.  
 **Subordinate A:** We only stayed safe because you took care of that dangerous aradama all by yourself, Shidou-san.  
@@ -47,7 +43,7 @@ https://youtu.be/-wO5Ngjj1-g
 **Subordinate B:** Somebody... Somebody, help me\!\!  
 **Maki:** Just hold on\! I'll stop the aradama--  
 **Subordinate C:** Shidou-san\! It's too much for you to do anything about\! I hate it too, but we need to escape\!  
-**Maki:** How can you say that\!? Those are our comrades at its feet\!\!  
+**Maki:** How can you say that\!\? Those are our comrades at its feet\!\!  
 **Maki:** As the captain, I refuse to leave any of them behind\!\!  
 **Subordinate C:** Please, get a hold of yourself\!\! With the way that aradama struck them down, it's already too late for them\!\!  
 **Subordinate C:** If you don't give the order to retreat now, the whole unit will be wiped out\!\!  
@@ -75,7 +71,7 @@ https://youtu.be/-wO5Ngjj1-g
 **Yume:** Well of course I didn't know that aradama\! I don't know any aradama\!  
 **Yume:** Besides, those girls are way too needy\~\! If the captain's gone, then everyone can just be their own captain\!  
 **Maki:** YOU COMPLETE IDIOT\!\!  
-**Yume:** Hya\!?  
+**Yume:** Hya\!\?  
 **Maki:** ...Even I've put people in danger by pushing too far ahead.  
 **Maki:** But that's no excuse not to reflect on your mistakes. Don't try to pass your responsibility onto them.  
 **Maki:** If you're going to keep putting your unit in danger, then you won't be assigned missions anymore.  
@@ -95,7 +91,7 @@ https://youtu.be/-wO5Ngjj1-g
 **Maki:** Thanks. You're so reliable, Kazumi.  
 **Maki:** ...By the way, I couldn't help but notice the bags under your eyes. Did you have to stay up late working on this?  
 **Kazumi:** Please, pay it no mind. I only went one night without sleeping.  
-**Maki:** You pulled an all-nighter\!? There's not much left to do today, so please, go back to your room and sleep.  
+**Maki:** You pulled an all-nighter\!\? There's not much left to do today, so please, go back to your room and sleep.  
 **Kazumi:** No, I wouldn't have had to stay up all night if not for my inexperience.  
 **Maki:** ...Kazumi, don't overwork yourself. It's a bad habit of yours to push yourself harder than you have to.  
 **Kazumi:** No, I can still--  
@@ -124,7 +120,7 @@ https://youtu.be/-wO5Ngjj1-g
 **Suzuka:** After all, I know you'll forgive me, Maki-san, if I get a little mischievous with you.  
 **Maki:** You shouldn't abuse someone's trust like that...  
 **Suzuka:** Fufu. Anyway, are you aware I know the password to your phone?  
-**Maki:** Eh-\!? How\!?  
+**Maki:** Eh-\!\? How\!\?  
 **Suzuka:** You always hold your phone horizontally, so watching you input it was child's play.  
 **Maki:** I-I didn't know you were watching... And hey, isn't it common courtesy not to watch someone put their password in?  
 **Maki:** I mean, I don't know your phone's password, Suzuka.  
@@ -181,7 +177,7 @@ https://youtu.be/AuF8ZqOvA9Y
 **Maki:** Heeey, Yume\! Where did you go? Say something back. Yume-\!  
 **Maki:** Hm, that sound. The battle stage must be starting. If I follow the enemies, maybe I'll join up with Yume. I'll focus on the battle for now.  
 **Maki:** If I remember right, the command to bring out the laser gun was... Okay, I got it. Now I just point it at the enemies on the opposite building...  
-**Maki:** Kh, why can't I pull the trigger\!? The command to pull the trigger was...  
+**Maki:** Kh, why can't I pull the trigger\!\? The command to pull the trigger was...  
 **Maki:** Ah-- While I was working with it, the enemies got right in front of me\! Damn, how should I...  
 **Maki:** Ah--\! That's right, I still have that, don't I\! It might be tasteless of me to use my okatana in the game, but...  
 **Maki:** Here I come\! SERYAAAAAAAAAAAAA\!  
@@ -200,8 +196,8 @@ https://youtu.be/AuF8ZqOvA9Y
 **Tsugumi:** That's good to hear. Now then, as all challengers have finished their runs, the results of the battle stage will now be revealed.  
 **Yume:** Maki-onee-san beat them all straight away, so there's no way she didn't take first place\!  
 **Maki:** That's right, I got serious hoping for that. Let's see the rankings.  
-**Maki:** What\!? We came in last place\!?  
-**Yume:** Eh-\!? But why? We should've been first in beating the most enemies and beating them fastest. Why are we last-?  
+**Maki:** What\!\? We came in last place\!\?  
+**Yume:** Eh-\!\? But why? We should've been first in beating the most enemies and beating them fastest. Why are we last-?  
 **Tsugumi:** At first, I was just as perplexed as to why you two didn't earn any points in the battle...  
 **Mirja:** When investigating the cause, we came to the conclusion that there was a problem with how you defeated the enemies.  
 **Tsugumi:** Did you use something besides the laser gun to defeat them?  
@@ -273,7 +269,7 @@ https://youtu.be/WNtGgHguxrw
 **Suzuka:** Though, don't assume I'll be beaten so easily\!  
 **Maki:** SUZUKA--------\!\!  
 **Suzuka:** Eh?  
-**Maki:** Are you okay\!?  
+**Maki:** Are you okay\!\?  
 **Suzuka:** Maki-san...?  
 **Maki:** Can you stand? Are you hurt?  
 **Suzuka:** I'm just fine. Though...  
@@ -347,7 +343,7 @@ https://youtu.be/-wO5Ngjj1-g
 **Maki:** Yoh, hoh\!  
 **Villain:** \!\!  
 **Maki:** Spotted the enemy\! Suzuka\!  
-**Suzuka:** Maki-san\!?  
+**Suzuka:** Maki-san\!\?  
 **Maki:** HAAAH\!\!  
 **Villain:** ...  
 **Suzuka:** Maki-san, you're moving around too haphazardly...  

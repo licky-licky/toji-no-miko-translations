@@ -1,13 +1,9 @@
 
 2-5 In the Moonlight
 ====================
+https://www.youtube.com/watch?v=mHGJ9WljdNU
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/mHGJ9WljdNU" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: A New Toji (1)
 **Kofuki:** Come on, there's no end to them\! How many toji have they got in here? Weren't they supposed to be short on guards?  
@@ -27,12 +23,12 @@
 **Mihono:** Right, it can't be helped\!  
 **Kofuki:** Anyway, when's this gonna be over\! Give it a rest already\!\!  
 **???:** Ah-, there you are\! So that's where you went. I've been looking all over the estate for you\!  
-**Kofuki:** Tch... Another one\!? Just sit still so I can lay your ass flat\!\!  
+**Kofuki:** Tch... Another one\!\? Just sit still so I can lay your ass flat\!\!  
 **Mihono:** Fukki, stop\! She's not using utsushi\!  
-**Kofuki:** Wait, what...\!? Shit-\!\!  
+**Kofuki:** Wait, what...\!\? Shit-\!\!  
 **???:** Whoa. I almost literally got in over my head this time. A second later and my neck would have been saying goodbye.  
-**Kofuki:** Have you gone nuts\!? Or were you thinking we'd go easy on you if you don't use utsushi?  
-**???:** Ehh\~? It's because I'm on your side\! I'm your ally\! A friend\! Didn't they tell you\!?  
+**Kofuki:** Have you gone nuts\!\? Or were you thinking we'd go easy on you if you don't use utsushi?  
+**???:** Ehh\~? It's because I'm on your side\! I'm your ally\! A friend\! Didn't they tell you\!\?  
 **???:** They didn't tell you? ...Looking at your reactions, they definitely didn't tell you. That's so rude.  
 **???:** Aoto's Youji-san and Yamashiro Yui both must have forgotten to mention it. Those two can be so hard to work with.  
 **???:** And here I was so excited to get to help out the investigation team Kitora-senpai was assigned to. I can't believe it\!  
@@ -134,13 +130,13 @@
 **Nene:** Ne.........  
 **Yume:** I have to... Go... Pant, pant... I don't have a lot... Of time left...  
 **Yume:** I have to... Keep on... Fighting...  
-**Yume:** Cough\! Cough\!  Kh... Ugh\!? I have to, hurry...  
-**Yume:** Ughh\!?  
+**Yume:** Cough\! Cough\!  Kh... Ugh\!\? I have to, hurry...  
+**Yume:** Ughh\!\?  
 **Yume:** Agh... Aghh... Cough\! Cough\!  
 **Yume:** Is this... It? I didn't even, get to do enough. I wanted to show everyone, an even better me.  
 **Yume:** I don't need anything else. Just don't forget me... That's all...  
 **Yume:** ............  
-**Maki:** Yume? Is that you over there, Yume\!?  
+**Maki:** Yume? Is that you over there, Yume\!\?  
 **Yume:** .........  
 **Maki:** ......Even after accepting noro to go on living, you still couldn't avoid this cruel fate...?  
 **Maki:** In the end, what did accepting this power give us...  
@@ -153,7 +149,7 @@
 **Mirja:** After the number of battles we've fought back to back, exhaustion is unavoidable. However, the guards are in the same situation.  
 **Mirja:** There's still a unit fighting them back, but as the aradama continue to multiply, their morale is dropping and their coordination failing.  
 **Mirja:** If this continues, the aradama will soon...  
-**Mirja:** You\! Your formation is falling apart\! Do you want the aradama to escape into the city\!? This is the time to do your duty as toji\!  
+**Mirja:** You\! Your formation is falling apart\! Do you want the aradama to escape into the city\!\? This is the time to do your duty as toji\!  
 **Toji:** Wh-What are you acting all high and mighty for, you traitor\! I don't want to hear it from you\!\! Hyaaaah-\!  
 **Toji:** See? What do you think of that\!  
 **Mirja:** Just like that. Maintain your focus and deal with the situation at hand. You can cry about it once it's all over.  
@@ -170,9 +166,9 @@
 
 ## 9: At the End of a Struggle (1)
 **Kanami:** This is... The shrine...? It feels different in here.  
-**Hiyori:** Yes. This must be... ...\!?  
+**Hiyori:** Yes. This must be... ...\!\?  
 **Yukari:** --So the two young birds have returned.  
-**Kanami & Hiyori:** \!?  
+**Kanami & Hiyori:** \!\?  
 **Hiyori:** This feeling...  
 **Hiyori:** Origami Yukari\!  
 **Kanami:** Hiyori-chan\!  
@@ -190,8 +186,8 @@ Going back in time a little--
 **Chie:** I understand how you feel. It's only natural to think that way, as an informant.  
 **Chie:** But that's all the more reason. For the sake of our mission, we can't afford to treat our lives carelessly. Right, Hana-chan?  
 **Hana:** Of course\! My mission is to--  
-**Mihono:** \!? That sound, it came from the shrine\!?  
-**Chie:** Does that mean the fight against the great aradama has already started\!?  
+**Mihono:** \!\? That sound, it came from the shrine\!\?  
+**Chie:** Does that mean the fight against the great aradama has already started\!\?  
 **Kofuki:** Oi, oi, since when did they pass us? I didn't notice a thing\!  
 **Hana:** In this mayhem, it's not unthinkable that we could miss them. Speaking of which, everyone\! There's another group of guards coming\!  
 

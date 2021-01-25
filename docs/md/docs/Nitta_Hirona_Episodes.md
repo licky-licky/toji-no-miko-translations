@@ -28,7 +28,7 @@ https://youtu.be/ZOBxjHGGX8w
 **Mimi:** You're my friend too, Hirona-onee-san, so it's all alright\!  
 **Mimi:** And anyway, you can just call me Mimi, Hirona-onee-san\!  
 **Hirona:** ......No thank youuu.  
-**Mimi:** Why not\!?  
+**Mimi:** Why not\!\?  
 **Hirona:** (...Because if I'm looking after you, my efficiency will go down.)  
 **Hirona:** (I don't want to get any less efficient... I'll alter my routine tomorrow so I won't run into Kagami-san.)  
 **Hirona:** Yawn............  
@@ -57,7 +57,7 @@ https://youtu.be/ZOBxjHGGX8w
 **Hirona:** ......  
 **Hirona:** (Calling it "innocence" sounds better, but... this girl just doesn't listen to people...)  
 **Hirona:** ...Sigh. Fine then, do what you want.  
-**Mimi:** You mean it\!?  
+**Mimi:** You mean it\!\?  
 **Hirona:** ...Trying to get rid of you was less efficient.  
 **Mimi:** Hooray\! Then, starting today, call me Mimi\!  
 **Hirona:** ......  
@@ -89,7 +89,7 @@ On a day off...
 **Mihono:** Ahh, cause of swimsuits.  
 **Yui:** But I'd still like you if your belly's a little soft, Kiyoka-chan.  
 **Kiyoka:** I don't care if you'd like it...  
-**Yui:** That's so mean\!? But I like that too\!\!  
+**Yui:** That's so mean\!\? But I like that too\!\!  
 **Hirona:** ...  
 **Mihono:** Ah, sorry, Hirona\! We sort of got off-topic, didn't we.  
 **Hirona:** ...No, it's fun just listening to you three talk.  
@@ -102,14 +102,14 @@ On a day off...
 **Kiyoka:** Oh, it's so cute. I think I like it a lot too.  
 **Yui:** You two should try it on\! I'll be waiting for you\!  
 **Hirona:** ...But you're planning on peeping, aren't youuu?  
-**Yui:** She found me out\!?  
-**Mihono:** Wait, huh\!? Hirona naturally worked her way into the conversation\!?  
+**Yui:** She found me out\!\?  
+**Mihono:** Wait, huh\!\? Hirona naturally worked her way into the conversation\!\?  
 **Hirona:** ...What do you take me for? I know the flow of your conversations, so I can join in.  
 **Hirona:** ...Actually, Asakura-san, were you thinking of looking out for meee?  
 **Mihono:** ...You noticed?  
 **Hirona:** It seemed like something you'd dooo. But changing the flow of the conversation would leave odd pauses, so isn't that less efficient?  
 **Hirona:** That's why I tried joining in now and thennn.  
-**Mihono:** Then you could've just joined in from the start\!?  
+**Mihono:** Then you could've just joined in from the start\!\?  
 **Hirona:** Sorrrry about that. Even when I wasn't talking, the conversation was still moving smoothly, sooo.  
 **Mihono:** ...Does anybody ever tell you you're strange, Hirona?  
 **Hirona:** ...How did you knowww? For some reason, I get told that sometimes.  
@@ -134,7 +134,7 @@ That evening...
 **Akira:** Hmm.  
 **Akira:** I never asked, but, did something happen between you and Yuuki?  
 **Hirona:** Something with... Yuuki-saaan?  
-**Hitakami Toji 1:** Huh\!? Nitta-san's in the same unit as us for this mission\!?  
+**Hitakami Toji 1:** Huh\!\? Nitta-san's in the same unit as us for this mission\!\?  
 **Hitakami Toji 2:** Didn't the last unit Nitta-san was part of break up after she stabbed them in the back?  
 **Hirona:** .........  
 **Hirona:** (......It's not like I turned on them because I wanted to stab them in the back.)  
@@ -154,7 +154,7 @@ That evening...
 **Hirona:** .........More of them, againnn.  
 **Hirona:** (This is as hard as you'd expect... I wonder how those two are doing...)  
 **Aradama:** OOOOOOOOO\!  
-**Hirona:** Kgh\!?  
+**Hirona:** Kgh\!\?  
 **Hirona:** [pant pant]...  
 **Hirona:** This isn't the time to worry about others, is ittt..  
 **Hirona:** (I really won't be able to keep fighting any longer... I'd like to find some way of escaping, but...)  
@@ -164,11 +164,11 @@ That evening...
 **Aradama:** GUOOOOOOOOOOOOOO\!  
 **Hirona:** ...This was a bust, wasn't it.  
 **Aradama:** GAOOOOOOOOOOO\!  
-**Hirona:** Grgh...\!?  
+**Hirona:** Grgh...\!\?  
 **Aradama:** GYAAAAAAAAAAAA\!\!  
-**Hirona:** (Is this it...\!?)  
+**Hirona:** (Is this it...\!\?)  
 **Yuuki:** HAAAAAAAAAAH\!\!  
-**Yuuki:** Are you okay\!?  
+**Yuuki:** Are you okay\!\?  
 **Hirona:** ...Yuuki-san? Why are you here...?  
 **Yuuki:** When you were the only one who didn't come back, I asked the other two what happened, and they said you were acting on your own.  
 **Yuuki:** So I came looking for you.  
@@ -181,7 +181,7 @@ That evening...
 ## 4: Determination
 **Aradama:** GYAOOOOOOOOOOO\!\!  
 **Toji A:** The aradama are attacking\!\!  
-**Toji B:** Why're there so many aradama\!? Wasn't this just a noro retrieval mission\!?  
+**Toji B:** Why're there so many aradama\!\? Wasn't this just a noro retrieval mission\!\?  
 **Toji A:** Worry about that later\! We're pushing them back\!  
 **Hirona:** .........  
 **Toji C:** Nitta-san\! Quit spacing out and draw your okatana\!  
@@ -191,7 +191,7 @@ That evening...
 **Toji A:** Here they come\!  
 **Hirona:** Gh... Urkh...  
 **Rescue Party:** There's another toji collapsed over here\!  
-**Rescue Party:** Hey, are you okay\!?  
+**Rescue Party:** Hey, are you okay\!\?  
 **Hirona:** ......My body hurts.  
 **Rescue Party:** We'll get you to a hospital right away\! Just hang in a little longer\!  
 **Hirona:** ......What about my senpais?  
@@ -277,7 +277,7 @@ That evening...
 **Yuuki:** YAAAAAAAAAAAA\!  
 **Hirona:** Nh...  
 **Hirona:** That was a good strike just now.  
-**Yuuki:** You mean it\!?  
+**Yuuki:** You mean it\!\?  
 **Hirona:** ...I wouldn't want that, would I.  
 **Yuuki:** Hirona-san?  
 **Hirona:** ...Just talking to myseeelf.  
@@ -304,9 +304,9 @@ That evening...
 **Hirona:** Well, since Akira-san is here today, I'm going to take it easy. That'll be most efficient.  
 **Akira:** Quit trying to make things easy just for yourself\!  
 **Hirona:** I'd like to save my energy for when it really matteeers.  
-**Akira:** Hahh\!? Then I'm gonna work you whether you like it or not\!  
+**Akira:** Hahh\!\? Then I'm gonna work you whether you like it or not\!  
 **Akira:** Yuuki, Hirona\! We're making this a competition to see who gets the most aradama\! Last place buys dinner\!  
-**Yuuki:** We're competing\!? Bring it on\!		[Yuuki uses Akira's catchphrase]  
+**Yuuki:** We're competing\!\? Bring it on\!		[Yuuki uses Akira's catchphrase]  
 **Hirona:** ...If Yuuki-san is fine with it, it's okay with me too.  
 **Akira:** No backing out then\!  
 **Akira:** I'm not about to let you beat me, Yuuki\! Hirona\!  
@@ -328,13 +328,13 @@ That evening...
 **Hirona:** I'll just defeat you-.  
 **Large Aradama:** AAAAAAAAAAAAAAAAAAAAAAA\!\!  
 **Hirona:** ...  
-**Large Aradama:** OOAA\!?  
+**Large Aradama:** OOAA\!\?  
 **Hirona:** ...Are you surprised I avoided that? That slow attack won't hit me.  
 **Large Aradama:** AAAAAAAAAAAAAAAAAAAAAAA\!\! AAAAAAAAAAAAAAAAAAAAAAA\!\! AAAAAAAAAAAAAAAAAAAAAAA\!\!  
 **Hirona:** HMPH-\!\!  
 **Large Aradama:** GYAAAAAAAAAAAAA...  
 **Hirona:** ...That's all there is to it. Now, I can go back.  
-**Akira:** Huhh\!? You just got a single one\!?  
+**Akira:** Huhh\!\? You just got a single one\!\?  
 **Hirona:** Yes. Though, I beat the one that seemed strongest.  
 **Yuuki:** So Hirona-san was big game hunting\!  
 **Hirona:** I worked hard efficientlyyy.  
@@ -344,8 +344,8 @@ That evening...
 **Akira:** ...Sigh. You're saying that cause you know how I am, aren't ya?  
 **Akira:** No matter how many weak aradama you beat, they're all just the same\!  
 **Hirona:** Hooray-. In that case, you'll buy dinner for Yuuki-san and meee.  
-**Akira:** Hah\!?  
-**Yuuki:** Hirona-san\!? But I'm the one who came in last\!?  
+**Akira:** Hah\!\?  
+**Yuuki:** Hirona-san\!\? But I'm the one who came in last\!\?  
 **Hirona:** The one who came up with it didn't come in first, so it's the same as coming in last.  
 **Akira:** You've got some real nerve... No other way around it\! You two eat whatever you want\! It's on me\!  
 **Hirona:** Got iiit. Fufu, let's have something tasty, Yuuki-san.  

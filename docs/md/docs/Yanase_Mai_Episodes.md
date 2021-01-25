@@ -1,13 +1,9 @@
 
 Yanase Mai Episodes
 ===================
+https://www.youtube.com/watch?v=9tyUth1V9KU
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/9tyUth1V9KU" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/d4UPDxCWrUY
 
   
@@ -37,7 +33,7 @@ https://youtu.be/Vh6dekDJVps
 **Mai:** ...R-Right.  
 **Mihono:** ...Yanase-san? What's wrong? You look upset about something.  
 **Mai:** Sorry, it's nothing\! Here, come on inside\!  
-**Mihono:** Whoa, it looks delicious. You sure I can eat this\!?  
+**Mihono:** Whoa, it looks delicious. You sure I can eat this\!\?  
 **Mai:** Of course. If you're sure you want some, go right ahead.  
 **Kanami:** No one in the world wouldn't want your cooking, Mai-chan\! Anyway, I'm digging in-\!  
 **Mihono:** Me too\! Down the hatch-\!  
@@ -54,7 +50,7 @@ https://youtu.be/Vh6dekDJVps
 **Mai:** ...A-Ahaha, thank you.  
 **Kanami:** Mai-chan? Something's bothering you, isn't it?  
 **Mai:** It's not a big deal... This was just a bit of a failure.  
-**Mihono:** Eh, how\!?  
+**Mihono:** Eh, how\!\?  
 **Mai:** To tell the truth, I was trying to copy the pudding from a shop I love.  
 **Kanami:** A shop Mai-chan loves... "Plumeria"?  
 **Kanami:** Ahh... Mmm? Now that you mention it, it tastes sort of alike, I think?  
@@ -85,7 +81,7 @@ https://youtu.be/Vh6dekDJVps
 ## 2: What is Femininity?
 **Mai:** What should I do with these? I made too many cookies. Kanami-chan would be able to eat them all, but... She isn't back yet.  
 **Kiyoka:** Thank goodness, I got this month's edition. I have to get back to my room and read the latest report-  
-**Mai:** Eh\!?  
+**Mai:** Eh\!\?  
 **Kiyoka:** Kyaa\!  
 *the two collide*
 
@@ -95,13 +91,13 @@ https://youtu.be/Vh6dekDJVps
 **Mai:** Um, you're Musumi-san, right? Are you hurt? This magazine... It's yours, isn't it? Here.  
 **Kiyoka:** Thank you so much\! And I really am sorry. You're... Yanase-san, aren't you?  
 **Mai:** Yes. From Minoseki.  
-**Kiyoka:** Ahhhh\!\! Yanase-san, when I bumped into you just now, did those...\!?  
+**Kiyoka:** Ahhhh\!\! Yanase-san, when I bumped into you just now, did those...\!\?  
 **Mai:** Oh my. The cookies... They got crushed, didn't they? But please, don't worry about it.  
 **Kiyoka:** I'm so sorry, were they a present from someone? I'll buy you replacements.  
 **Mai:** Oh, these are just something I made myself. Really, it's not worth fussing over.  
-**Kiyoka:** Eh\!? You mean those are handmade\!? They look so cute...  
+**Kiyoka:** Eh\!\? You mean those are handmade\!\? They look so cute...  
 **Mai:** They might be a little broken, but would you like to try them?  
-**Kiyoka:** Can I\!?  
+**Kiyoka:** Can I\!\?  
 **Kiyoka:** These are delicious...\! Can you share the recipe with me, Yanase-san?  
 **Mai:** Recipe? ...I don't really use them. I just go with what feels right when I'm cooking.  
 **Mai:** More importantly, Musumi-san, there's crumbs getting on your magazine...\! Here, lay this handkerchief on top of it.  
@@ -131,7 +127,7 @@ https://youtu.be/Vh6dekDJVps
 **Mai:** Musumi-san... Thank you. But, isn't this this month's issue? You can give it to me after you're through reading it.  
 **Mai:** Oh, before then... If you're interested, how about we bake cookies together next time?  
 **Mai:** It doesn't have to be cookies either. We can make all sorts of cute sweets that'll get you all worked up.  
-**Kiyoka:** Eh\!? You don't mind me joining you?  
+**Kiyoka:** Eh\!\? You don't mind me joining you?  
 **Mai:** Of course not. When it comes to making sweets, I have some experience. And, next time...  
 **Mai:** I'd like it if you shared with me some of your magazines.  
 **Kiyoka:** That sounds great\! I'll bring all kinds with me\!  
@@ -145,7 +141,7 @@ https://youtu.be/Vh6dekDJVps
 **Mihono:** Ahhh, oh yeah\! Musumi-san, are you okay?  
 **Kiyoka:** Yes... Um, sorry, I'm just... I'm not very good at fighting...  
 **Kiyoka:** Kya\! Another aradama\!  
-**Chie:** Still...\!? Yanase-san, our teammates should be returning any minute, so could you help us a little longer?  
+**Chie:** Still...\!\? Yanase-san, our teammates should be returning any minute, so could you help us a little longer?  
 **Mai:** Of course\!  
 **Chie:** Minoseki's representative... I can see why. Even against those aradama, your posture never faltered, and your swordsmanship stayed clean.  
 **Mihono:** See? I told you she's good, Chii-nee.  
@@ -253,7 +249,7 @@ https://youtu.be/d4UPDxCWrUY
 **Mai:** (In which case... I'll go\!)  
 **Mai:** YAAAAH\!  
 **Kanami:** -\!  
-**Mai:** ...Eh\!?  
+**Mai:** ...Eh\!\?  
 **Mai:** (She dodged it... And so easily too...)  
 **Kanami:** There's hardly any wasted movements... You love swordfighting too, don't you, Yanase-san\!  
 **Kanami:** Show me more of your swordsmanship\!  
@@ -285,7 +281,7 @@ https://youtu.be/d4UPDxCWrUY
 **Mai:** (But... I don't understand it myself, why I reacted like that... I could tell right away she was only joking...)  
 **Mai:** But, Kanami-chan...  
 **Kanami:** You called?  
-**Mai:** K-Kanami-chan\!? Why are you...?  
+**Mai:** K-Kanami-chan\!\? Why are you...?  
 **Kanami:** Actually... I saw what happened before. And then, I followed you here.  
 **Kanami:** If it's alright with you, you can talk it over with me, okay?  
 **Mai:** ...Thank you, Kanami-chan.  
@@ -306,7 +302,7 @@ https://youtu.be/d4UPDxCWrUY
 **Mai:** I'm sorry\!  
 **Friend A:** No, we're the ones who should be saying sorry. We were being sort of insensitive.  
 **Friend B:** We were. But, I didn't think that you actually did like Kanami... We'll do what we can to support you two, Mai\!  
-**Mai:** Eh\!? Th-That's not it\! You misunderstand\!  
+**Mai:** Eh\!\? Th-That's not it\! You misunderstand\!  
 **Friend A:** ...It's not?  
 **Mai:** That's right. Kanami-chan, she's the first opponent I didn't think I could beat in swordfighting, so I respect her a lot.  
 **Mai:** But, when you teased me about it... I think that's why I couldn't help but get angry all of a sudden.  
@@ -346,7 +342,7 @@ https://youtu.be/aNyvrlT3j5M
 **Kaoru:** Yeah. They had a whole bunch in the size just above mine though.  
 **Nene:** NE--------\!  
 **Mai:** Kyaa\!  
-**Kaoru:** Nene stole my meat\!?  
+**Kaoru:** Nene stole my meat\!\?  
 **Nene:** Ne\!  
 **Kaoru:** Stop it, Nene\! That's my meat\!  
 
@@ -372,7 +368,7 @@ https://youtu.be/aNyvrlT3j5M
 **Nene:** Ne-\!  
 **Mai:** Kyaa\!  
 **Kaoru:** You dumbass\! Don't go jumping at Mai\!  
-**Nene:** Ne\!?  
+**Nene:** Ne\!\?  
 **Kaoru:** We're safe... That was close. You know better than that; if you'd jumped on her just after eating, you'd get her dress dirty.  
 **Nene:** Ne-...  
 **Mai:** Thank you... Kaoru-chan. Nene-chan, I'll wipe your mouth for you.  
@@ -401,11 +397,11 @@ https://youtu.be/VNAKMkkvBJE
 **Mai:** ......  
 **Kanami:** (Here I do it like this, and then like this... Okay\!)  
 **Mihono:** (Here's where I move over here...)  
-**Nagae Futaba:** Hey\!?  
-**Mihono/Futaba:** UWAH\!?  
-**Futuba:** Why'd you run into me-\!?  
+**Nagae Futaba:** Hey\!\?  
+**Mihono/Futaba:** UWAH\!\?  
+**Futuba:** Why'd you run into me-\!\?  
 **Mihono:** S-Sorry-\!  
-**Mai:** Are you okay, Mihono-chan, Nagae-san\!?  
+**Mai:** Are you okay, Mihono-chan, Nagae-san\!\?  
 **Mihono:** I'm fine. And anyway, sorry, Mai. I screwed up again.  
 **Mai:** It's alright; we still have time. I'll stick with you, so let's practice lots, okay?  
 **Mihono:** Sure\!  
@@ -425,7 +421,7 @@ https://youtu.be/VNAKMkkvBJE
 **Mai:** --I messed up\! I won't make it like this... One more try\!  
 **Mihono:** Ughh, I messed up a bunch, Kanamiii. I made a lot of trouble for Mai too.  
 **Kanami:** But still, you've gotten a lot better, Mihono-chan.  
-**Mihono:** You think so\!?  
+**Mihono:** You think so\!\?  
 **Kanami:** Yeah\!  
 **Mihono:** Then, that's good to hear\! She's taught how to do a whole lot, so I want to make sure the main performance is a success for sure.  
 **Kanami:** Mai-chan's trying so hard for this. I'm sure she's probably practicing right now too.  
@@ -463,7 +459,7 @@ At the marching band's main performance.
 **Mihono:** That was so nerve-wracking\!  
 **Futaba:** So many people came to see us\!  
 **Sawano:** It looked like they were even broadcasting it online.  
-**Mihono:** Ehh\!?  
+**Mihono:** Ehh\!\?  
 **Kanami:** Mai-chan, everybody sent you messages.  
 **Mai:** Eh? Ah, you're right\! I got a message from Sayaka-chan saying, "That was great."  
 **Mai:** And there's ones from Ellen-chan and Kaoru-chan and everyone too... Fufu.  
@@ -530,8 +526,8 @@ https://youtu.be/fx9_2ljRfcY
 **Mai:** Mmhm... It's like a ride at an amusement park...\!  
 **Sayaka:** It's really... fun\!  
 **Mai:** When the water splashes you, it feels nice and cool.  
-**Sayaka:** Wahh-\!?  
-**Mai:** Are you alright, Sayaka-chan\!?  
+**Sayaka:** Wahh-\!\?  
+**Mai:** Are you alright, Sayaka-chan\!\?  
 **Sayaka:** I'm fine. The swim ring just started sinking a little.  
 **Mai:** Ah... You scared me.  
 **Mai:** Oh, the tubing attendant is there. It looks like that's the end.  

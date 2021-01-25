@@ -43,7 +43,7 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Kiyoka:** Even though Halloween is close, a real ghost would be a little...  
 **Hiyori:** That's right... Something like ghosts couldn't actually be here.  
 **Kanami:** Still, it feels like there really could be one here, in a place like this.  
-**Kiyoka:** ...\!? I was trying not to think about that...  
+**Kiyoka:** ...\!\? I was trying not to think about that...  
 **Kanami:** Whoops, sorry. Anyway, we should beat these aradama as soon as we find them.  
 **Sanae:** I think that's the best course of action too.  
 **Maki:** Let's first look for them using our spectrum finders. Contact everyone the moment you detect anything. Now, let's get to work\!  
@@ -54,28 +54,28 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Kiyoka:** Juujou-san was right with me until a minute ago, and now she's gone...  
 **Mirja:** Did she go to search someplace else? Still, to do so without informing anyone... What do you think about this, Etou Kanami?  
 **Mirja:** Etou Kanami?  
-**Kiyoka:** ...Eh, Etou-san's gone too\!?  
+**Kiyoka:** ...Eh, Etou-san's gone too\!\?  
 **Kiyoka:** What if it isn't an aradama after all, but there's something else here...  
 **Mirja:** Don't allow your nerves to get the better of you, Musumi Kiy--  
 **Kiyoka:** B-But... We've been walking in circles this whole time...\! And now Juujou-san and Etou-san disappeared--  
-**Kiyoka:** ...KYAAAAAAA\! I'M FALLIIIING\!?  
+**Kiyoka:** ...KYAAAAAAA\! I'M FALLIIIING\!\?  
 
 ## 2: With as Much Courage You Can Muster
 **Kiyoka:** Nngh... It hurts a little all over...  
 **Kiyoka:** What even happened...?  
 **Kiyoka:** ...Where is this, anyway? It looks kind of like one of Renpu's research labs, but... It's too dark in here.  
-**Kiyoka:** Oh right, where's Mirja-san\!? Mirja-saaan\!  
+**Kiyoka:** Oh right, where's Mirja-san\!\? Mirja-saaan\!  
 **Kiyoka:** ......  
 **Kiyoka:** Ah, my phone\!  
 **Kiyoka:** ...There's no service. ...Am I completely on my own?  
 **Kiyoka:** No, there has to be somebody nearby...\! Shidou-saaan\! Iwakura-saaan...\! Juujou-saaan...  
 **Kiyoka:** ...I-I'll just take a quick look around. Though, it's scary... It is scary.  
-**Kiyoka:** Hya... Did something just move\!? There was some kind of faint light...  
+**Kiyoka:** Hya... Did something just move\!\? There was some kind of faint light...  
 **Kiyoka:** Like a Jack O'lantern... almost.  
 **Kiyoka:** It couldn't be... a lingering spirit, could it?  
 **???:** ...Aaa....a.  
-**Kiyoka:** Wh-What... was that\!?  
-**Kiyoka:** Is there actually an invisible aradama here\!?  
+**Kiyoka:** Wh-What... was that\!\?  
+**Kiyoka:** Is there actually an invisible aradama here\!\?  
 **Kiyoka:** Wait, on the ground here, these are... Glasses?  
 **Kiyoka:** These are just like Mirja-san's.  
 **Kiyoka:** They aren't very dirty either... That has to be it. If her glasses are here, she must be nearby... Maybe the others too.  
@@ -93,7 +93,7 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Kiyoka:** Yes? I'm here now...?  
 **Sanae:** Kiyokaa...  
 **Kiyoka:** Could you please stop talking in that weird voice? Also, is it me, or are you covered in sweat?  
-**Kiyoka:** Actually, it's more like... Y-Y... Y-Y-You're\!? You're melting\!\!\!????  
+**Kiyoka:** Actually, it's more like... Y-Y... Y-Y-You're\!\? You're melting\!\!\!\????  
 **Two Aradama:**  Kiyoka...a\!  
 **Kiyoka:** ...KYAAAAAAAA\!  
 **Kiyoka:** [pant, pant]... Juujou-san, Iwakura-san... They turned into aradama. Uuu... I just don't know what's going on anymore...  
@@ -114,18 +114,18 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Sanae:** Something's not right about her... Back up, Juujou-san\!  
 **Kanami:** [sizzle, sizzle sizzle]...  
 **Aradama:** Ki...ki... SHAAAA\!  
-**Hiyori:** What the... Kanami turned into an aradama\!?  
-**Sanae:** Is this the strange aradama Shidou-senpai told us about\!?  
+**Hiyori:** What the... Kanami turned into an aradama\!\?  
+**Sanae:** Is this the strange aradama Shidou-senpai told us about\!\?  
 **Hiyori:** Insulting Kanami by disguising as her like that... Prepare yourself\!  
 **Hiyori:** What wass the deal with that, anyway...  
 **Sanae:** If aradama could go up to people looking like their friends, a lot of people are going to get hurt... Hopefully that's something only the aradama here can do.  
 **Hiyori:** Right. We've got to destroy these aradama and find the others.  
 **Voice:** ...I-Is someone over there?  
 **Hiyori:** That voice...  
-**Kiyoka:** WAH-\!? Y-You again\!?  
+**Kiyoka:** WAH-\!\? Y-You again\!\?  
 **Kiyoka:** Are you... the real Juujou-san and Iwakura-san?  
 **Hiyori:** I'm the real one\!  
-**Kiyoka:** I-If you are, then... What foods are rich in soy isoflavones\!?  
+**Kiyoka:** I-If you are, then... What foods are rich in soy isoflavones\!\?  
 **Hiyori:** Tofu and natto. Here, I'll make sure you're real too. At our last meeti... Or anyway, who was absent last time? If you are the real Kiyoka, you should be able to answer that.  
 **Kiyoka:** Hono-chan and Kofuki-san. Hono-chan went shopping with Chie-san. Kofuki-san was suppressing aradama with Tsugumi-san.  
 **Hiyori:** No doubt about it; it really is you.  
@@ -147,16 +147,16 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Hiyori:** In that case... It'd be best to ask them things only the real ones could know.  
 **Sanae:** We have to make absolutely sure. Okay, let's call out to them.  
 **Hiyori:** Kanami\!  
-**Kanami:** Wah\!? What are you shouting for, Hiyori-chan?  
+**Kanami:** Wah\!\? What are you shouting for, Hiyori-chan?  
 **Hiyori:** What was the present I gave you for your birthday?  
 **Kanami:** Natto over rice, and homemade nimono\! It was extra tasty\!  
-**Sanae:** ...Eh\!?  
+**Sanae:** ...Eh\!\?  
 **Sanae:** (...She gave natto over rice as a birthday present?)  
 **Hiyori:** Alright, that confirms it... You're the real Kanami\!  
 **Kanami:** C'mon, you're so weird, Hiyori-chan.  
 **Kiyoka:** Um... I think these are your glasses, Mirja-san.  
 **Mirja:** Thank you very much, Musumi Kiyoka. I was using a spare pair after I lost these.  
-**Kiyoka:** A spare pair\!? Then that means, you're the real Mirja-san, aren't you\!  
+**Kiyoka:** A spare pair\!\? Then that means, you're the real Mirja-san, aren't you\!  
 **Mirja:** Juujou Hiyori had the same thing to say about Etou Kanami. Did something happen to you three?  
 **Sanae:** Well, you'll never believe this, but...  
 **Mirja:** I see. So that's what happened.  
@@ -184,7 +184,7 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Kiyoka:** I'm not exactly sure, but... It's better that we didn't see any more. I'd rather forget I ever saw them...  
 **Hiyori:** Well, I guess there's no point in us worrying about it.  
 **Someone's Voice:** Anybody-, is anybody there-?  
-**Kiyoka:** Eek... Did you hear that strange voice just now\!?  
+**Kiyoka:** Eek... Did you hear that strange voice just now\!\?  
 **Tsugumi:** Ah, there is someone there. This is Ban Tsugumi. Please tell me if all of you are together.  
 **Tsugumi:** I can guide you through an escape route this way up to the surface-.  
 **Tsugumi:** It seems like you safely defeated the aradama. I didn't expect any less from you all. By the way, did you find the strange aradama from the rumors?  
@@ -233,7 +233,7 @@ https://youtu.be/HT3YdcAAc3c
 **Mirja:** Thank you very much. I think they'll be able to meet that expectation of yours.  
 **Mirja:** The role you will be playing is that of a younger nun under my guidance, so you shouldn't need to say many lines.  
 **Mirja:** Now then, why don't we go visit Iwakura Sanae.  
-**Sanae:** Eh, you want me to be in a movie with you and Itomi-san? I'll be in a movie\!?  
+**Sanae:** Eh, you want me to be in a movie with you and Itomi-san? I'll be in a movie\!\?  
 **Mirja:** It's only natural to be surprised. However, this too is a part of our duties as toji.  
 **Sanae:** But, can I really do something like that...?  
 **Sayaka:** We'll do our best together.  
@@ -279,7 +279,7 @@ On the day of the film shoot.
 **Mirja:** That's reasonable advice to give.  
 **Sayaka:** Gyaa-\!  
 **Sayaka:** ...How was that?  
-**Mirja:** Hmm... Instead of sounding so rough, something like, "Kyaa-\!"... It may be better to make it sound cuter like that.  
+**Mirja:** Hmm... Instead of sounding so rough, something like, "Kyaa-\!\"... It may be better to make it sound cuter like that.  
 **Sayaka:** I think I'm starting to get it. Thank you, both of you.  
 **Staff:** Itomi-san, if you could head over here around now\~.  
 The apprentice nun visited the ruined mansion to search for the black cat in question, but... Along the way, she became separated from her senior nun.
@@ -313,7 +313,7 @@ https://youtu.be/HguM1_W3fqw
 **Sanae:** It has a lot to do with it\! After all, the part I'm playing is a bakeneko, a cat demon\! See, doesn't it look sort of catlike?  
 **Hiyori:** That's what you mean?  
 **Hiyori:** I've worn a catgirl costume before too, but my hair's like this.  
-**Sanae:** You were so cute back then, Juujou-san\! You were all, "I'm a catgirl, nya-\!"  
+**Sanae:** You were so cute back then, Juujou-san\! You were all, "I'm a catgirl, nya-\!\"  
 **Hiyori:** I-I wasn't getting that into it\!  
 **Sanae:** Huh, weren't you?  
 **Hiyori:** I was not\!  
@@ -332,7 +332,7 @@ https://youtu.be/HguM1_W3fqw
 **Sanae:** I really wanted to see you in your vampire costume...  
 **Hiyori:** You don't have to be that depressed about it. You can still see it, like in pictures.  
 **Sanae:** That sounds perfect\! You have to send me pictures, okay\! I want to see shots of you and Etou-san together\!  
-**Hiyori:** Why do they have to be me with Kanami\!?  
+**Hiyori:** Why do they have to be me with Kanami\!\?  
 
 ## [Halloween 19 - Sanae: End]: On to the Filming\!
 The day of the film shoot.
@@ -350,11 +350,11 @@ The day of the film shoot.
 **Sayaka:** For reference...  
 **Mirja:** Is something the matter with that?  
 **Sayaka:** I don't know what to do, if you say you want to use me for reference... ...I don't really remember last time.  
-**Sanae:** Eh-\!? You don't remember it\!?  
+**Sanae:** Eh-\!\? You don't remember it\!\?  
 **Sayaka:** I just moved like they told me to, and then it was over before I noticed. That's why I think it'll go fine this time too.  
 **Sanae:** Sh-She's a real big shot...  
 **Staff:** It's showtime-. Iwakura-san and Kitora-san, please stand by for your scene-.  
-**Sanae:** I-It's already starting\!?  
+**Sanae:** I-It's already starting\!\?  
 **Sayaka:** You can do it, Sanae.  
 **Sanae:** Y-Yeah... I'll do what I can\!  
 **Sanae:** ...[gulp]  
@@ -377,7 +377,7 @@ https://youtu.be/Y6ff2yewfcQ
   
 
 ## [Halloween 19 - Mirja: Start]: Kaiju Mirja?
-**Yui:** Mirja-san, are you going to be debuting on the silver screen\!?  
+**Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  
 **Mirja:** Calm yourself, Yamashiro Yui. Do you remember before, when Itomi Sayaka appeared in that film?  
 **Kofuki:** Oh yeah, that happened, didn't it. It was that time with the historical drama thing, right?  
 **Yui:** If you mean that, I remember it too\! Sayaka-chan was extra cute back then, wasn't she\!  
@@ -390,11 +390,11 @@ https://youtu.be/Y6ff2yewfcQ
 **Yui:** Anyway, I'm 100% going to go see it, Mirja-san\! I'll see it 7 million 7 hundred and 70 thousand times\!  
 **Yui:** Actually, when are they filming it\! I want to go watch\!  
 **Mirja:** On Halloween day.  
-**Yui:** Halloween day\!?  
+**Yui:** Halloween day\!\?  
 **Yui:** That's when I was supposed to go with Kanami-chan and them to their Halloween event...  
 **Yui:** Gununu... Do I go see Kanami-chan and Hiyori-chan in their costumes, or do I go see Mirja-san...  
 **Mirja:** I should mention, along with myself, Itomi Sayaka and Iwakura Sanae will also be performing.  
-**Yui:** Sayaka-chan and Sanae-san too\!? B-Both of them are hard to pass up...  
+**Yui:** Sayaka-chan and Sanae-san too\!\? B-Both of them are hard to pass up...  
 **Kofuki:** You're making a pretty funny face now, y'know?  
 **Yui:** How can I choose though\!  
 **Mirja:** No matter how much you puzzle over it, I won't bring you with me. This is work.  
@@ -442,7 +442,7 @@ On the day of filming.
 **Mirja:** You demon cat... I-I'll destroy you here\!  
 **Sanae:** You can go ahead and try, nya\!  
 **Mirja:** (Iwakura Sanae comes rushing in... I fight back with the candlestick I'm holding.)  
-**Sanae:** Unyaa\!?  
+**Sanae:** Unyaa\!\?  
 **Mirja:** It's afraid of the flames...? Then\!  
 **Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!)  
 **Sanae:** UNYAAAAAAAAAA\!\! I'LL REMEMBER THIS, NYAAAAA\!\!  

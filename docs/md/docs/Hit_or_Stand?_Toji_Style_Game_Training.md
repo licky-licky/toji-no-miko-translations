@@ -1,24 +1,20 @@
 
 Hit or Stand? Toji Style Game Training
 ======================================
+https://www.youtube.com/watch?v=BT7Pd1SlGig
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/BT7Pd1SlGig" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Game Training, Start
 **Kofuki:** ...Ughh, I wanna go home.  
 **Mai:** You can't do that. This is a school event, so you would cause the whole group to become disorganized.  
-**Kofuki:** I wasn't serious\! What were you, on the student council in a past life, in the morals committee now, and shooting for class president in the next one\!?  
-**Kiyoka:** That's rude, Kofuki-san\! Though, I don't really understand what you're saying\!?  
+**Kofuki:** I wasn't serious\! What were you, on the student council in a past life, in the morals committee now, and shooting for class president in the next one\!\?  
+**Kiyoka:** That's rude, Kofuki-san\! Though, I don't really understand what you're saying\!\?  
 **Kofuki:** It's not rude, you got it all wrong, Kiyoka. I'm just looking out for Mai.  
 **Kofuki:** If somebody doesn't say something, she's gonna turn into another Chichie.  
 **Mai:** But Chie-san is a wonderful person... Actually, I'd be glad to be more like her?  
 **Kofuki:** Hmm. Well you're already growing into the part, so you might as well act like it, huh.  
-**Mai:** Growing into...... Hey\!? Where are you looking\!\!  
+**Mai:** Growing into...... Hey\!\? Where are you looking\!\!  
 **Kofuki:** Ahahahahaha\!  
 **Kofuki:** But you know, I've gotta keep screwing around to put up with this. This dumbass game training.  
 **Kofuki:** We didn't do this last year, so whose bright idea was it this time?  
@@ -60,7 +56,7 @@ Hit or Stand? Toji Style Game Training
 **Kiyoka:** She has her eye on you now...  
 **Kofuki:** ...Seems like it. Sigh, this couldn't be easy.  
 
-## 2: Cheating\!?
+## 2: Cheating\!\?
 **Kiyoka:** The training's started... I'm already nervous...  
 **Mai:** Yes, the mood in here is a little overwhelming.  
 **Mai:** Let's see... Looking around, more went to try the roulette and slot machines than play cards... Right?  
@@ -87,7 +83,7 @@ Hit or Stand? Toji Style Game Training
 **Kiyoka:** It's my first time seeing a slot machine, but... They spin so fast, don't they?  
 **Kofuki:** But that's all there is to it; you just push the buttons at the right time. Anyway, let's watch the points roll on in.  
 **Kofuki:** Ughhhh, I'm already bored. Kiyoka, you know any tricks to this?  
-**Kiyoka:** You're asking me for help, Kofuki-san\!?  
+**Kiyoka:** You're asking me for help, Kofuki-san\!\?  
 **Kiyoka:** Just give me a moment, please\! I'll do my best to think of something\!  
 **Kofuki:** S-Sure. I didn't think you were so into this...?  
 **Kiyoka:** Oh right... I read in a book once about someone who could focus their eyes right, keep track of the slots, and match them up\!  
@@ -155,7 +151,7 @@ Hit or Stand? Toji Style Game Training
 **Kofuki:** So Kiyoka's busted.  
 **Kofuki:** And I'm at 19 here. I'm not gonna win like this, so now what? Think I can get a 2...?  
 **Maki:** I'm also at 19, but this is no time to hesitate, Shichinosato Kofuki. This is where your judgment is tested... Hit\!  
-**Kofuki:** Huhh\!? At least think about it first\!?  
+**Kofuki:** Huhh\!\? At least think about it first\!\?  
 **Maki:** No matter how much you worry, the cards won't change. I drew a 2... That makes 21, blackjack.  
 **Maki:** And what will you do?  
 **Kofuki:** Like I'm backing down\! I'll hit, okay\! Gimme a 2\! A 2\! A 2\! 2\!  
@@ -167,7 +163,7 @@ Hit or Stand? Toji Style Game Training
 **Kiyoka:** ...Y-Yes. I'll be fine... I think.  
 **Kofuki:** You don't have to force yourself, okay? Take a break if it's too much.  
 **Kofuki:** Now, here's my problem. The dealer's at 16, but I've got 15... I just need anything between a 1 and a 6, come on\! Hit\!  
-**Kofuki:** ...10\! I went bust again\!\!?  
+**Kofuki:** ...10\! I went bust again\!\!\?  
 **Mai:** I have 15 as well... I'll stand.  
 **Kofuki:** 15's not gonna win you anything though?  
 **Mai:** Actually, I'll be fine with this.  
@@ -175,7 +171,7 @@ Hit or Stand? Toji Style Game Training
 **Maki:** 18. I'll show you my focus and judgment in action once again, Shichinosato Kofuki.  
 **Maki:** So long as I get a 3, I'll have blackjack. So... Hit.  
 **Maki:** 3, and that's blackjack.  
-**Kofuki:** What was I supposed to learn from that\!? No matter how you spin it, it's all luck\! If I was lucky too, I'd have won just like that\!  
+**Kofuki:** What was I supposed to learn from that\!\? No matter how you spin it, it's all luck\! If I was lucky too, I'd have won just like that\!  
 **Maki:** Get a hold of yourself, Shichinosato Kofuki. Think of the purpose of this training.  
 **Kofuki:** I know already\! We've gotta get points\!  
 **Maki:** I'll take that as a "I don't know."  You should go cool off for a while.  
@@ -243,7 +239,7 @@ Hit or Stand? Toji Style Game Training
 **Kofuki:** See? Told you I'd be fine.  
 **Mai:** You mean... Because you knew Musumi-san was there?  
 **Kofuki:** Well, it wasn't just Kiyoka. I knew you were covering me too.  
-**Kiyoka:** Kofuki-san's paying attention to her surroundings while fighting...\!? Is this because of the game training?  
+**Kiyoka:** Kofuki-san's paying attention to her surroundings while fighting...\!\? Is this because of the game training?  
 **Kofuki:** Beats me.  
 **Kofuki:** But it felt sort of easier to move around than usual.  
 **Mai:** ...I think they might end up doing this game training every year after all.  
@@ -285,7 +281,7 @@ Several days later--
 **Maki:** I won't be able to participate in all these master class mock battles, but things have been arranged so I can cross swords with as many of you as possible.  
 **Maki:** Those who have faith in their skills, I'd like for you to come test your strength and challenge me to a match.  
 **Maki:** Of course, a reward has also been prepared for you. Those who are victorious against me will receive these "master chips", which...  
-**Maki:** ...What the\!? Excuse me, wait just a moment...\!  
+**Maki:** ...What the\!\? Excuse me, wait just a moment...\!  
 **Suzuka:** What's the matter, Maki-san?  
 **Maki:** Suzuka, for some reason, the reward chips have my face on them...  
 **Suzuka:** Well look at that. You look wonderful.  
@@ -303,22 +299,22 @@ Several days later--
 **Kofuki:** Apparently, she beat Senpai back in the game training.  
 **Kofuki:** "How did you do, Shichinosato-san? You lost? That's impressive, Shichinosato-san. How did you manage to lose that?"  
 **Kofuki:** She won't quit rubbing it in\!  
-**Kiyoka:** She managed to win against Shidou-san\!? ...Tsugumi-san's amazing, isn't she.  
+**Kiyoka:** She managed to win against Shidou-san\!\? ...Tsugumi-san's amazing, isn't she.  
 **Kofuki:** It was just a fluke, a fluke, okay\! Ahh, dammit\! It's pissing me off the way she makes it sound like I'm an idiot\!  
 **Kofuki:** But she's known me for a long time, so the moment I start trying something she'll figure me out. That's why, Kiyoka\! I'm bringing you with me\!  
 **Tsugumi:** Oh, it's Shichinosato-san and Musumi-san. What brings you two here?  
 **Kofuki:** You mean you couldn't figure that out? We're here to play with aradama-chan\!  
-**Kiyoka:** Eh-\!?  
+**Kiyoka:** Eh-\!\?  
 **Tsugumi:** That sounds about right. I'll get everything ready, so please wait a moment.  
-**Kiyoka:** K-Kofuki-san\! Does that mean, I'll be playing with aradama too\!?  
+**Kiyoka:** K-Kofuki-san\! Does that mean, I'll be playing with aradama too\!\?  
 **Kofuki:** What are you talking about? They're my aradama-chan, okay? You're here to surprise her.  
-**Kiyoka:** You never told me what we're doing though\!?  
+**Kiyoka:** You never told me what we're doing though\!\?  
 **Tsugumi:** It's all set for you, Shichinosato-san.  
 **Kofuki:** Cool, I'll be right there\! Well, you gotta think on the fly.  
-**Kiyoka:** Ehhh-\!?  
+**Kiyoka:** Ehhh-\!\?  
 **Kiyoka:** (N-Now I'm alone with her... How am I supposed to surprise her...)  
 **Tsugumi:** Now then, Musumi-san. Shichinosato-san asked you to do something, didn't she?  
-**Kiyoka:** How did you know\!?  
+**Kiyoka:** How did you know\!\?  
 **Tsugumi:** So I was right after all. It was something along the lines of "give me a surprise", wasn't it?  
 **Kiyoka:** Th-That's right... Eh? But how did you figure it out?  
 **Tsugumi:** I can tell just by watching Shichinosato-san. Yesterday she was full of anger, but she has been grinning to herself all day today.  
@@ -330,7 +326,7 @@ Several days later--
 **Kofuki:** Seriously, nothing beats aradama-chan. So, how'd it go, Kiyoka? Did you get her?  
 **Tsugumi:** Yes, she got me good. I never expected her to make a face like that. Here are your drinks. This one is for you, Shichinosato-san.  
 **Kiyoka:** Ah, oh, thank you.  
-**Kiyoka:** (I didn't make any face, but I guess she believed it? ...Actually, this drink, it has a weird color to it... What is it exactly...\!?\!??)  
+**Kiyoka:** (I didn't make any face, but I guess she believed it? ...Actually, this drink, it has a weird color to it... What is it exactly...\!\?\!\??)  
 **Kofuki:** Bleh, this's awful\!  
 **Tsugumi:** Is it? I blended fish oil, dried sardines, oyster, and other marine products into milk. I've had an interest in it lately.  
 **Kofuki:** Don't put fish in milk\! Shit, you made me drink something messed up again\!  

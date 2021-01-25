@@ -33,14 +33,14 @@ https://youtu.be/51zzPZJO6kY
 **Yomi:** ...gh.  
 **Yume:** H-Huh? Are you done already?  
 **Yomi:** ...The outcome was obvious.  
-**Yume:** Wait, that's what you meant\!?  
+**Yume:** Wait, that's what you meant\!\?  
 **Yomi:** This is as far as my skills with a sword go.  
 **Yume:** I can't show how strong I am with that... Aghh, geez, I'll go to the next one\! Suzuka-onee-san\!  
 **Yume:** YAAAH\!\!  
 **Suzuka:** You're good, Yume\!  
 **Yume:** You too, Suzuka-onee-san\! But... if that's all you've got, this'll be over in no time\!  
 **Suzuka:** I thought that-- You would come like that\!  
-**Yume:** Huh\!?  
+**Yume:** Huh\!\?  
 **Yume/Suzuka:** --\!\!  
 **Suzuka:** And I thought I had gotten you with that counter... So you can even react to that.  
 **Yume:** That got me by surprise\! That was a little bit close there\!  
@@ -83,14 +83,14 @@ https://youtu.be/51zzPZJO6kY
 **Yume:** Whenever I'm ready... When should I...  
 **Yume:** Go\!  
 **Yukari:** ...  
-**Yume:** You dodged that\!?  
+**Yume:** You dodged that\!\?  
 **Yume:** ...Ahah\! This time, I'll do something even more ama-- zing\!  
 **Yukari:** To make me draw my okatana...... That is impressive.  
 **Yume:** If we didn't get this far, we'd both be bored, right, Yukari-sama?  
 **Yume:** So then, I'll do even more-\!  
 **Yume:** That's what I want, Yukari-sama-\!  
 **Yukari:** ...It's about time now. Sorry, Yume.  
-**Yume:** Uwah\!?  
+**Yume:** Uwah\!\?  
 **Yukari:** That's all for today.  
 **Yume:** J-Just one more time\! If I don't beat you, they won't let me go on any sorties\!  
 **Yukari:** Where did you get that idea? The reason you go on so few sorties is because Shidou and Konohana are concerned about your body.  
@@ -110,7 +110,7 @@ https://youtu.be/QcrxhLnr7t8
 **Maki:** Excuse us, Yukari-sama.  
 **Yukari:** You're here. I have a request for you from the Sword Administration Bureau.  
 **Suzuka:** A request?  
-**Yume:** Is it aradama\!? Yukari-sama, did a really tough aradama show up\!?  
+**Yume:** Is it aradama\!\? Yukari-sama, did a really tough aradama show up\!\?  
 **Yukari:** ...That's not it. This request comes from the public relations department.  
 **Yume:** Really-? What a letdown-.  
 **Yomi:** What sort of request is it?  
@@ -121,7 +121,7 @@ https://youtu.be/QcrxhLnr7t8
 **Yume:** Then you onee-sans can go do it on your own.  
 **Maki:** Yume\! Don't act so spoiled.  
 **Yukari:** Then, Yume. After you finish this request, I'll be your opponent. It's been a while.  
-**Yume:** You mean it\!? Then, I guess I have to go.  
+**Yume:** You mean it\!\? Then, I guess I have to go.  
 **Yume:** But, you have to promise, Yukari-sama\! You can't go saying you take it back after this\!  
 **Yukari:** Good. I promise.  
 **Yomi:** Is that alright?  
@@ -135,19 +135,19 @@ https://youtu.be/QcrxhLnr7t8
 **Suzuka:** Of course; you can rely on me.  
 **Yukari:** Though, about your assignment this time... You won't be part of a ceremony.  
 **Yukari:** You will be giving a dance performance as part of the pool's Arabian event.  
-**Yume:** Eh...\!?  
+**Yume:** Eh...\!\?  
 **Yume:** Instead of listening to some boring speeches at a ceremony, we're dancing?  
 
 ## [1,001 Nights - Yume: End]: A Promise for Next Time 
 --The day of the event.
 
   
-**Maki:** We have to wear these\!?  
+**Maki:** We have to wear these\!\?  
 **Yume:** You don't like it, Maki-onee-san? They're so cute though.  
 **Maki:** Look how much stomach it shows... I can't wear something that cute\!  
 **Suzuka:** Yes... It's embarrassing for me as well.   
 **Yume:** Why don't you want to wear it that bad though?  
-**Yume:** It doesn't really feel like something you'd say, Maki-onee-san. You'd be more like, "All clothes are the same-\!"  
+**Yume:** It doesn't really feel like something you'd say, Maki-onee-san. You'd be more like, "All clothes are the same-\!\"  
 **Maki:** ...I don't think all clothes are the same.  
 **Maki:** And I'm just... a little self-conscious about my stomach.  
 **Yume:** You mean cause it'll be cold?  
@@ -165,7 +165,7 @@ https://youtu.be/QcrxhLnr7t8
 **Suzuka:** Isn't it charming to see her act her age?  
 **Maki:** ...That's true.  
 **Yume:** Geez\! Maki-onee-san, you're messing up the rhythm.  
-**Maki:** Huh\!?  
+**Maki:** Huh\!\?  
 **Yomi:** ...  
 **Yume:** Yomi-onee-san, you've gotta smile more\!  
 **Yomi:** ...Was I not smiling?  

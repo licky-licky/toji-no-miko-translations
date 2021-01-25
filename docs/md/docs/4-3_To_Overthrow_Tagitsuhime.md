@@ -1,13 +1,9 @@
 
 4-3 To Overthrow Tagitsuhime
 ============================
+https://www.youtube.com/watch?v=djF6hKbn0Po
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/djF6hKbn0Po" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Yui's Condition
 **Male News Anchor:** In regards to the strange phenomenon affecting the capital, along with the frequent appearances of aradama, Miss Tagitsuhime, as well as the Sword Administration bureau, have yet to make any statement--  
@@ -25,14 +21,14 @@
 **Sana:** That won't be an issue, but... Who will be in charge of the overall situation...?  
 **Yukari:** I have someone in mind. She was more stubborn than I imagined. It took great lengths to convince her.  
 **Yuzuki:** I don't want to hear that from you of all people, Yukari.  
-**Sana:** Yuzuki... Senpai...\!?  
+**Sana:** Yuzuki... Senpai...\!\?  
 **Yuzuki:** ...Could I ask for your cooperation?  
 **Sana:** How could I say no\! The demon that scared even Minato-senpai is back\! The demon\! The devil\! Yuzuki-senpai\!  
 **Yuzuki:** W-Was I that bad...?  
 **Sana:** But wait, if Yuzuki-senpai is going to be in command of all toji, and I'll be in direct command of the investigation team, what will you be doing, Yukari-senpai...?  
 **Yukari:** ............My mind is settled. I'm going to bring this to an end. What started twenty years ago.  
 **Kanami:** It's been a while since we all got to gather round and have some of Mai-chan's sweets, hasn't it\! I think I'll go with this one\!  
-**Kanami:** Wha- this is chocolate mint flavored\!? Mm, it's actually not bad\! I think I understand why Hiyori-chan gets so worked up about it\!  
+**Kanami:** Wha- this is chocolate mint flavored\!\? Mm, it's actually not bad\! I think I understand why Hiyori-chan gets so worked up about it\!  
 **Sayaka/Mai/Ellen:** ............  
 **Kaoru:** Sigh\~... Kanami. Do you seriously think we haven't noticed?  
 **Kanami:** Huh? Ahh, you mean this other cookie? Ahaha\! So you spotted me secretly grabbing two, huh\~\!  
@@ -69,7 +65,7 @@
 **Sana:** Yamashiro is still undergoing medical treatment. From what the doctors said, she made a remarkably fast recovery, but they still haven't approved her release yet.  
 **Sana:** That speedy recovery is probably the effects of the ampoule Yuzuki-senp... Commander Souraku came up with.  
 **Yui:** Excuse me\!  
-**Mihono:** --Eh-\!? Yui\!? Are you alright now\!?  
+**Mihono:** --Eh-\!\? Yui\!\? Are you alright now\!\?  
 **Yui:** Yep\! I'm all better\!  
 **Yui:** --Or I wish I could tell you that, but the doctors said I still shouldn't be moving around yet... Ahaha...  
 **Kofuki:** Wait, hang on, you just came running in here now.  
@@ -165,7 +161,7 @@ At roughly the same time, in a separate briefing room--
 
 ## 4: Commence Operation\! (2)
 **Yukari:** From this point forward, we will split into two groups. Etou's group will move with me to Tagitsuhime's location, at the Tokyo Station building.  
-**Kanami:** You're coming with us, Yukari-sama\!?  
+**Kanami:** You're coming with us, Yukari-sama\!\?  
 **Yukari:** My experience from being fused with Tagitsuhime could prove useful. And more than anything, I need to be there to see this through to the end.  
 **Mai:** It would be reassuring having you with us. Thank you.  
 **Sayaka:** Mai, let's do our best.  
@@ -197,7 +193,7 @@ At roughly the same time, in a separate briefing room--
 **Sana:** Commander Souraku, I was just about to come get you. Did you need something from me?  
 **Yuzuki:** Just now, I sent Yukari along with Etou Kanami and her unit after Tagitsuhime. Along with them, the three elite guards were sent to search after Yomi.  
 **Yuzuki:** With the lack of available toji, the defense of the nearby area has gotten thinner. I was wondering, if the investigation team is free at the moment, could I ask them to help--  
-**Yui:** Ehh-\!? Kanami and them just left\!? We're already one step behind-\!  
+**Yui:** Ehh-\!\? Kanami and them just left\!\? We're already one step behind-\!  
 **Yuzuki:** ...? Did something happen?  
 **Sana:** I can explain why later, but these girls want to go after Tagitsuhime too.  
 **Yuzuki:** Are you serious about this...?  
@@ -248,7 +244,7 @@ At roughly the same time, in a separate briefing room--
 **Ayumu:** Itomi-san\! Please don't get in my way\!  
 **Sayaka:** Kanami, keep going\!  
 **Kanami:** I got it\!  
-**Ayumu:** Why are you stopping me\!? You don't have anything to do with this, Itomi-san\!  
+**Ayumu:** Why are you stopping me\!\? You don't have anything to do with this, Itomi-san\!  
 **Sayaka:** ...That's not true. I'm like a senpai to you.  
 **Ayumu:** I know about that\! You ran away, didn't you\!  
 **Sayaka:** I just found something more important.  
@@ -291,14 +287,14 @@ At roughly the same time, in a separate briefing room--
 **Kiyoka:** We've been fighting aradama constantly since we left, and it feels like we aren't making any progress... I wonder if we're actually catching up to Yukari-sama and the others...  
 **Mirja:** Our only option now is to make every effort believing that's the case.  
 **Kofuki:** The aradama-chan are getting way too excited. I wish they'd just let us get to Tagitsuhime and I'll play with them later.  
-**Hana:** --Get to Tagitsuhime\!? What are you up to\!  
-**Mihono:** The imperial guard\!? And...  
+**Hana:** --Get to Tagitsuhime\!\? What are you up to\!  
+**Mihono:** The imperial guard\!\? And...  
 **Yui:** Hana-san\!  
-**Hana:** Yui...\!? Why are you with the investigation team...  
-**Imperial Guard A:** Did you betray us\!?  
+**Hana:** Yui...\!\? Why are you with the investigation team...  
+**Imperial Guard A:** Did you betray us\!\?  
 **Mirja:** ...This is bad. If we fight against Suzumoto Hana and the guards here, we'll lose a significant amount of time...  
 **Yui:** HAAAAAAAAA-\!\!  
-**Chie:** ...Yui-chan\!?  
+**Chie:** ...Yui-chan\!\?  
 **Yui:** Let me handle this; go on ahead\!\!  
 **Mirja:** But...\!  
 **Yui:** I'm just going to hold them off\! I won't push myself too far\! If things get rough, I'll run away\! It's not like I plan on dying either\!  

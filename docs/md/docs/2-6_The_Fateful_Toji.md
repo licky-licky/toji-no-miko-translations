@@ -1,18 +1,14 @@
 
 2-6 The Fateful Toji
 ====================
+https://www.youtube.com/watch?v=tHHFwdOdpCc
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/tHHFwdOdpCc" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: What Must be Done (1)
 **Hiyori:** HAAAAAAHH---\!  
 **Yukari:** Fast. However--  
-**Hiyori:** Nng-\! She can block a storm armor powered swing one handed\!?  
+**Hiyori:** Nng-\! She can block a storm armor powered swing one handed\!\?  
 **Yukari:** What, is that all you can manage?  
 **Kanami:** Haah-\!  
 **Kanami:** Amazing...\! She blocked everything\!  
@@ -21,7 +17,7 @@
 **Yukari:** If it could contend with the elite guard infused with noro, I'd have to say it's passable.  
 **Hiyori:** That's right\! The things you created have been turned against you\!  
 **Yukari:** Heh... How amusing.  
-**Hiyori:** What\!?  
+**Hiyori:** What\!\?  
 **Yukari:** ...It should be a good distraction from this tedium.  
 **Hiyori:** I'm here to finish what my mother started\! I'll destroy you\!  
 **Yukari:** Give it a try.  
@@ -88,12 +84,12 @@ Stepping back in time a little--
 **Yukina:** Don't get ahead of yourself\! Quit running your mouth and do as you're told\!  
 **Sayaka:** ...\!  
 **Mai:** You're the one who needs to stop talking, President Takatsu. I can't approve of the way you treat people like objects.  
-**Yukina:** Huh\!?  
+**Yukina:** Huh\!\?  
 **Mai:** Whether it's you or Origami Yukari, I'll never... I'll never let you do anything to Sayaka-chan\!  
 **Yukina:** You're speaking nonsense. Anyone who carries an okatana does so for Yukari-sama's sake.  
 **Yukina:** --Even this failure here understands that\!  
 **Yomi:** Ah...\!  
-**Mai:** What are you...\!?  
+**Mai:** What are you...\!\?  
 **Yukina:** ...Honestly, you make my skin crawl. Ever since I chose to fool around with you in my experiments, not a day has gone by that I've had any idea what goes through that head of yours.  
 **Yukina:** Stand, Yomi.  
 **Yomi:** ............  
@@ -102,7 +98,7 @@ Stepping back in time a little--
 **Yukina:** Hmph...  
 **Mai:** Satsuki-san... Why would you go so far...  
 **Yukina:** If that's how it is, Yomi. I'll give you this.  
-**Mai:** That's... An ampule of noro... Don't you care about what it'll do to your body\!?  
+**Mai:** That's... An ampule of noro... Don't you care about what it'll do to your body\!\?  
 **Yomi:** I don't mind...  
 **Sayaka:** Mai\!  
 **Mai:** Okay... Let's go, Sayaka-chan\!  
@@ -129,7 +125,7 @@ Stepping back in time a little--
 ## 5: Tagitsuhime
 **Hiyori:** Third layer-- Jin'i\!  
 **Hiyori:** ...TAAAH-\!  
-**Kanami:** You did it\!?  
+**Kanami:** You did it\!\?  
 **Yukari:** Isn't that unfortunate.  
 **Kanami & Hiyori:** Ugh\!\!  
 **Storm Armor:** Remaining battery zero, ceasing functions. Armor will be forcibly purged.  
@@ -146,13 +142,13 @@ Stepping back in time a little--
 **Kanami:** Kh... I can't break her guard\! But--  
 **Hiyori:** Now\! HAAAAAAAH-\!\!  
 **Yukari:** How futile.  
-**Hiyori:** I don't believe it... How did she stop that\!? Our timing was perfect\!  
-**Kanami:** What... Yukari-sama's eyes are glowing yellow\!?  
+**Hiyori:** I don't believe it... How did she stop that\!\? Our timing was perfect\!  
+**Kanami:** What... Yukari-sama's eyes are glowing yellow\!\?  
 **Yukari:** ...I've re-evaluated you two. Without your armor, you're still on the level of the elite guard. Maybe greater.  
-**Hiyori:** How\!? It's like she's--  
+**Hiyori:** How\!\? It's like she's--  
 **Kanami:** Predicting all our moves\!  
 **Yukari:** That's right. I can see it-- The future.  
-**Kanami & Hiyori:** \!?  
+**Kanami & Hiyori:** \!\?  
 **Yukari:** My eyes see all. Your strength, your secrets, your thoughts...  
 **Yukari:** I can see all outcomes, and from there, create the best one.  
 **Yukari:** Am I Origami Yukari? Am I Tagitsuhime? I will answer what you asked before.  
@@ -258,7 +254,7 @@ Stepping back in time a little--
 **Tagitsuhime:** The Origami family had passed this duty down unfailingly. However, Yukari chose to have those two returned.  
 
 ## 7: Conclusion (1)
-**Mihono:** There's the head of the family, and... Kanami\!?  
+**Mihono:** There's the head of the family, and... Kanami\!\?  
 **Chie:** It looks like we made it in time.  
 **Hana:** That's the great aradama...  
 **Kofuki:** Ahh, it's crazy\! Never felt anything like this pressure\!  
@@ -271,7 +267,7 @@ Stepping back in time a little--
 **Yukari:** Now-- What will you do. Use the same technique as your mother? If you can strike me with that okatana... That is.  
 **Hiyori:** Kh-\!  
 **Yukari:** Resign yourself. Your sword cannot reach me. There is no toji in this world capable of surpassing Origami Yukari--  
-**Hiyori:** ...Kanami\!?  
+**Hiyori:** ...Kanami\!\?  
 **Kanami:** .........  
 **Yukari:** Oh, you still have the strength to stand, at least--  
 **Kanami:** Yukari\! Long time no see\!  
@@ -303,7 +299,7 @@ Stepping back in time a little--
 **Hiyori:** Let go, let go of me, Kanami\!  
 **Kanami:** No\! I'm never letting go\!  
 **Mihono:** Look\! From where Kogarasumaru came through her back... She's cracking open...\!  
-**Kofuki:** The hell's going on\!? All the aradama is gushing up like a geyser\!  
+**Kofuki:** The hell's going on\!\? All the aradama is gushing up like a geyser\!  
 **Chie:** The aradama blowing out is splitting across the sky...  
 **Hiyori:** Tagitsuhime's...\!  
 **Kanami:** ...Disappearing.  

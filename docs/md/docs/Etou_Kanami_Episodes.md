@@ -1,13 +1,9 @@
 
 Etou Kanami Episodes
 ====================
+https://www.youtube.com/watch?v=bx3GrvHwUcI
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/bx3GrvHwUcI" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/bXYlq8dSvxI
 
   
@@ -64,11 +60,11 @@ https://youtu.be/m5rpY-umfYk
 **Mihono/Kanami:** ......  
 **Referee:** --Begin\!  
 **Kanami:** (Right... No, left\! I can dodge it...)  
-**Kanami:** (No way\! I mistimed her attack\!?)  
+**Kanami:** (No way\! I mistimed her attack\!\?)  
 **Kanami:** (Amazing. Mihono-chan's swordsmanship... I've never seen anything like this rhythm\! She's throwing off all my predictions\!)  
 **Kanami:** (What kind of tactic will she use next? Block, dodge, attack... What's next?)  
 **Kanami:** (I want to see it all. I want you to show me everything, Mihono-chan\!)  
-**Mihono:** (Whoa\!? Kanami's got a really dirty grin on her face\!)  
+**Mihono:** (Whoa\!\? Kanami's got a really dirty grin on her face\!)  
 **Mihono:** (But... I get it. --I'm enjoying this too\!)  
 **Mihono:** (I always used to think the difference between us was so great that she never had to try.)  
 **Mihono:** (That her carefree attitude meant she'd just drag on the fight and end it whenever she wanted to.)  
@@ -94,7 +90,7 @@ https://youtu.be/m5rpY-umfYk
 ## 2: Kanami's Slightly Weird Point
 **Kanami:** Ahh, today's lessons really wore me out. I'm feeling hungry-\!  
 **Mai:** I brought some cookies with me. Do you want them?  
-**Kanami:** Eh, really\!? Then let's eat them together in my room\!  
+**Kanami:** Eh, really\!\? Then let's eat them together in my room\!  
 **Mai:** I'm coming in\~.  
 **Mai:** Oh? Did you get a new plushie?  
 **Kanami:** Ah\! That's "Eruption Angel Fabulous-san", from the recent anime "Hell Angel Marvelous-chan"\!  
@@ -124,12 +120,12 @@ https://youtu.be/m5rpY-umfYk
 ## 3: Worry Consultation
 **Kanami:** Sigh......  
 **Morishita Kihiro:** Whoa there, unfamiliar toji\! Something troubling you?  
-**Kanami:** Uwaah\!? W-Where'd you come from\!?  
+**Kanami:** Uwaah\!\? W-Where'd you come from\!\?  
 **Kihiro:** Allow me to introduce myself\! From Ayanokouji Martial Arts School's Equipment Department, Morishita Kihiro, at your service\!  
 **Kihiro:** Want to get stronger? Want to get faster? I'll solve whatever's got you down\~\!  
 **Kanami:** ...... Um...... I'll be fine.  
-**Kihiro:** What\!? What's with that reaction, like I'm some sort of suspicious salesman\!?  
-**Kihiro:** Did my sudden appearance startle you that much\!? Or, don't tell me, there's a toji out there who doesn't want to get stronger\!?  
+**Kihiro:** What\!\? What's with that reaction, like I'm some sort of suspicious salesman\!\?  
+**Kihiro:** Did my sudden appearance startle you that much\!\? Or, don't tell me, there's a toji out there who doesn't want to get stronger\!\?  
 **Kanami:** \! ......  
 **Kihiro:** ...Was I actually right?  
 **Kanami:** No way\! Of course I want to get stronger\! I want to keep improving, but...  
@@ -153,11 +149,11 @@ https://youtu.be/m5rpY-umfYk
 **Kanami:** I'm glad we talked. You weren't kidding when you said you'd solve whatever's got me down.  
 **Kihiro:** The pleasure's all mine.  
 **Kihiro:** So. Now that that's settled...  
-**Kihiro:** My friend and fellow, who's looking to broaden her options\~\! It just so happens I've developed some fresh new equipment\! You'd like to test it out, wouldn't you\!?  
+**Kihiro:** My friend and fellow, who's looking to broaden her options\~\! It just so happens I've developed some fresh new equipment\! You'd like to test it out, wouldn't you\!\?  
 **Kihiro:** How lucky I am, to come across a willing guin... Rather, to have brought a poor toji lost like a zombie back to her senses.  
 **Kihiro:** Allow me to measure again and again your precision, your endurance, how it feels to wear, etc\! For one as strong as you, I won't take no for an answer\!\!  
 **Kihiro:** Ah, on that note, I'd like you to try this legwear on. We're going to be rather relentless in testing your skills with jin'i, so do your best to hang in there\!  
-**Kanami:** Y-You really are trying to sell me something\!?  
+**Kanami:** Y-You really are trying to sell me something\!\?  
 
 ## 4: Swordfighting Idiot in the Library
 **Kanami:** Hmm...? Hmm......  
@@ -210,9 +206,9 @@ https://youtu.be/m5rpY-umfYk
 **Subara Rika:** I wasn't lying\~. I really thought I did terrible on this test.  
 **Mihono:** Ahh-\! Ahh-\! I don't wanna hear it-\! I only talk to people on my level\~\!  
 **Mihono:** Like, let's see what Kanami got... Wait...  
-**Mihono:** Huhhh\!? What the\!?  
-**Kanami:** Ehh\!? Did I really do that bad?  
-**Mihono:** No, it's just... Isn't this totally the average\!?  
+**Mihono:** Huhhh\!\? What the\!\?  
+**Kanami:** Ehh\!\? Did I really do that bad?  
+**Mihono:** No, it's just... Isn't this totally the average\!\?  
 **Mihono:** Teachers always get mad at you for not paying attention, so I figured you didn't study at all...  
 **Kanami:** I said I tried really hard this time\!  
 **Kanami:** After all, after my grades were so low last time, Mai-chan said she'd help me study all I wanted whenever I wanted\!  
@@ -222,7 +218,7 @@ https://youtu.be/m5rpY-umfYk
 **Rika:** I'm not a fighter myself, so I don't really know how good she is there, but...  
 **Rika:** It's funny. I never would have thought Kanami-chan would be the type that's good at everything.  
 **Rika:** Didn't you say you could cook too?  
-**Mihono:** No way\!?  
+**Mihono:** No way\!\?  
 **Kanami:** Well, you know, it's just my dad, my brother, and I. So with the way we organize household chores, I always had to take care of cooking.  
 **Mihono:** I always thought we were in this together... I never thought you'd be so good at everything on top of swordfighting...  
 **Rika:** From that reaction, Mihono-chan must be bad at cooking too.  
@@ -257,8 +253,8 @@ https://youtu.be/bXYlq8dSvxI
 **Sawano:** (She isn't launching an attack...? In that case, I'll go to her\!)  
 **Sawano:** HAA\!  
 **Kanami:** ...  
-**Sawano:** (Eh\!? She vanished\!?)  
-**Sawano:** (Behind me\!? In a split second\!?)  
+**Sawano:** (Eh\!\? She vanished\!\?)  
+**Sawano:** (Behind me\!\? In a split second\!\?)  
 **Kanami:** YAAAA-\!  
 **Sawano:** Kh... HAAAAA\!  
 --That night, in Kanami's dreams.
@@ -277,7 +273,7 @@ https://youtu.be/bXYlq8dSvxI
 **Kanami:** That's because, you aren't there in the real world... If you were there, then I wouldn't have to.  
 **Minato:** That sounds like it'd be a real waste. You're finally getting to fight people besides me.  
 **Kanami:** It'd be a waste?  
-**Minato:** Each and every fight means you get more people to "Look close\! Listen well\! Focus on your senses\!" with.  
+**Minato:** Each and every fight means you get more people to "Look close\! Listen well\! Focus on your senses\!\" with.  
 **Kanami:** And that's...  
 **Minato:** If you keep that in mind, you could learn even more than you already are, okay?  
 **Kanami:** Look close, listen well, focus on your senses... Okay\! Thanks, Master\!  
@@ -339,20 +335,20 @@ https://youtu.be/eNoknnmG1eI
 **Kanami:** I'd be alright with just swimming, but... With two of us, it'd definitely turn into a competition.  
 **Mai:** And also, that wouldn't be any different from PE class.  
 **Kanami:** That's true... Then, what about something like, going against the current in the river pool? Yeah\! That could be a great full body exercise\!  
-**Mai:** Aren't you just looking to do more training, Kanami-chan\!? Didn't we come here to enjoy ourselves today?  
+**Mai:** Aren't you just looking to do more training, Kanami-chan\!\? Didn't we come here to enjoy ourselves today?  
 **Kanami:** Ah... That's just where my mind started going to... Sorry, Mai-chan\!  
 **Mai:** It's nothing to apologize over. It's very like you, Kanami-chan.  
 **Kanami:** Come up with something good for me, please\!  
 **Mai:** Fufu, I'll give it a shot\!  
 **Mai:** Let's see, something fun that's not connected to training... Ah\!  
 **Mai:** Kanami-chan, let's go down a water slide\!  
-**Kanami:** We're starting off with a water slide\!?  
+**Kanami:** We're starting off with a water slide\!\?  
 **Mai:** Yep\!  
 **Mai:** I don't think many people will be on those this time of day, so we should be able to get right to the front of the line\!  
 **Kanami:** Oh yeah\! Good thinking, Mai-chan\!  
 **Kanami:** Alright\! As soon as we get to the pool, we'll go down a water slide\!  
 
-## [Swimsuit 19: End]: A Heartpounding Water Slide\!?
+## [Swimsuit 19: End]: A Heartpounding Water Slide\!\?
 **Attendant:** Okay, the next person can come on up-. Are the two of you riding together? Or will you go separately?  
 **Kanami:** Oh, we can ride down together.  
 **Kanami:** What should we do, Mai-chan?  
@@ -368,22 +364,22 @@ https://youtu.be/eNoknnmG1eI
 **Mai:** Y-You're right... Mm, I won't be able to ride it otherwise... Mm.  
 **Mai:** ...I'm getting on then.  
 **Attendant:** Excuse me-, could the two of you get a bit closer together-?  
-**Mai:** We need to be even closer\!?  
+**Mai:** We need to be even closer\!\?  
 **Kanami:** Sure thing-. You heard them, Mai-chan\!  
-**Mai:** Ehh\!? I-Is that really okay\!?  
+**Mai:** Ehh\!\? I-Is that really okay\!\?  
 **Kanami:** Come on, wrap your arms around my stomach.  
 **Mai:** A-Alright then. In that case...  
-**Kanami:** ...\!? Ahahahaha\! Th-That tickles, Mai-chan\!  
-**Mai:** Ahh\!? Sorry, I didn't mean to, Kanami-chan\!?  
+**Kanami:** ...\!\? Ahahahaha\! Th-That tickles, Mai-chan\!  
+**Mai:** Ahh\!\? Sorry, I didn't mean to, Kanami-chan\!\?  
 **Attendant:** There are places to hold onto the boat, so you can hang onto there instead-.  
 **Mai:** Oh, there are...  
 **Kanami:** We messed it up, huh.  
 **Mai:** It's kind of embarrassing. ...Okay, I'm ready to go.  
 **Kanami:** Then, here we go\!  
-**Kanami:** Ohh\!? We're moving really fast\!\! Ah, I saw Yui-chan over that way\!  
+**Kanami:** Ohh\!\? We're moving really fast\!\! Ah, I saw Yui-chan over that way\!  
 **Mai:** Eh, where at? Oh, Tsugumi-san is with her too\!  
 **Mai:** This feels like you could use it to train your kinetic vision, huh, Kanami-chan\!  
-**Kanami:** Hey, you're starting to sound like me now\!?  
+**Kanami:** Hey, you're starting to sound like me now\!\?  
 **Kanami:** Ahh... That was so fun\!  
 **Kanami:** Let's go again, and bring Yui-chan and Tsugumi-san along\! This time, you can sit in front, Mai-chan\!  
 **Mai:** Alright\!  
@@ -444,7 +440,7 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Yume:** Huh?  
 **Mai:** Kanami-chan?  
 **Mikoto:** ...A beam? What made you think that??  
-**Kanami:** I was thinking, instead of a signal coming out the end of the remote to turn things off and on, it could shoot out a beam like, "Bibibibi-\!"  
+**Kanami:** I was thinking, instead of a signal coming out the end of the remote to turn things off and on, it could shoot out a beam like, "Bibibibi-\!\"  
 **Kanami:** Kind of like, like this\!  
 **Misaki:** Fufufu, Etou-san. Now that you've learned the secret of my power, I won't be letting you off so easy\~.  
 **Misaki:** Take thiis, bibibibibibi-\!  
@@ -506,14 +502,14 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 
 ## [Stage Girl - Kanami: End]: It Is All for the Sake of Starlight\!
 **Hikari:** ...There-\!  
-**Kanami:** \!? That was a little risky just now\!  
+**Kanami:** \!\? That was a little risky just now\!  
 **Kanami:** You're using the spring in your body to get even sharper with your strikes\! That was a great thrust\!  
 **Hikari:** ...You were able to dodge that just now? Toji really do have great physical performance.  
 **Kanami:** It's important to be able to avoid taking hits in battle, after all. That's a part of training too.  
 **Hikari:** Then, what will you do if I do this?  
-**Kanami:** Eh\!? You threw your weapon\!?  
+**Kanami:** Eh\!\? You threw your weapon\!\?  
 **Hikari:** Thank you. You deflected it just how I wanted you to.  
-**Kanami:** Wawah\!? ...She's flying with a wire\!?  
+**Kanami:** Wawah\!\? ...She's flying with a wire\!\?  
 **Hikari:** And now--\!\!  
 **Kanami:** Seeing that attack just now you did with the wire sent a chill up my spine-. You were right up in front of me all of a sudden.  
 **Kanami:** So you can fight like that too, huh\!  
@@ -584,7 +580,7 @@ https://youtu.be/KlIqfSZ3Cl8
 **Kaoru:** ...Sigh.  
 **Kaoru:** So, what're we doing about you two, Sayaka and Mai?  
 **Ellen:** We haven't overlooked a thing\! We're coming up with the greatest costume plans for all of you\!  
-**Kaoru:** You're doing it for me too\!?  
+**Kaoru:** You're doing it for me too\!\?  
 **Ellen:** Well of course I am\!  
 **Kanami:** (A valkyrie... I can't wait to see what the costume looks like\!)  
 Kanami's promotional photos... The day of shooting.
@@ -624,7 +620,7 @@ https://youtu.be/eY-_-MB4L7A
 **Tsugumi:** Etou-san, Itomi-san. Thank you for going out of your way to stop by the lab today.  
 **Kanami:** What was it you wanted Sayaka-chan and me to do?  
 **Tsugumi:** I'm actually working with a new game utilizing the VR technology in development here in the lab... And, we were looking for play testers.  
-**Kanami:** A new game\!? That sounds fun\! Don't you want to try it, Sayaka-chan?  
+**Kanami:** A new game\!\? That sounds fun\! Don't you want to try it, Sayaka-chan?  
 **Sayaka:** ...  
 **Kanami:** Sayaka-chan? What's wrong? You don't look too happy.  
 **Sayaka:** Tsugumi made that, didn't she... Kofuki said, "Watch out with stuff she's made"... Will it be alright?  
@@ -636,7 +632,7 @@ https://youtu.be/eY-_-MB4L7A
 **Kanami:** Sounds fun\! Sayaka-chan, I want to try it out\!  
 **Sayaka:** Mm... But, I'm fine with sweets in the real world...  
 **Tsugumi:** Is that right. Incidentally, we've prepared a prize for the person that achieves the highest score in the game's battle stage.  
-**Kanami:** A prize\!? What do we get?  
+**Kanami:** A prize\!\? What do we get?  
 **Tsugumi:** Kitora-san is out right now picking up cream puffs, but it seems she'll need to wait in line, as the store is fairly popular.  
 **Sayaka:** Creme puffs from a store with a line... Kanami. I'll try it.  
 **Kanami:** Nice-\! Then, we'll be in your care, Tsugumi-san.  
@@ -732,28 +728,28 @@ https://youtu.be/zv49ocfI1Eo
 **Kanami:** Hmm, I guess I'd have to see England first? I want to go to London\!  
 **Hiyori:** London... The most I know about it comes from Sherlock Holmes.  
 **Kanami:** Ah\! Sherlock Holmes\! That's good\! When we get to London, let's do stuff like Sherlock Holmes\!  
-**Hiyori:** Wh-What\!?  
-**Hiyori:** What do you mean, stuff like Sherlock Holmes\!?  
+**Hiyori:** Wh-What\!\?  
+**Hiyori:** What do you mean, stuff like Sherlock Holmes\!\?  
 
 ## [London - Kanami: End]: Stuff Like Holmes...?
 **Kanami:** Phew, we somehow managed to jump across to this trolley, Hiyori-chan.  
 **Hiyori:** Right. The jewels we're after are on the inside.  
 **Kanami:** Yeah\! But... They're bound to have Scotland Yard's finest on security, so we'd better be careful.  
 **Hiyori:** ...If you're going to warn me to be careful, try not giggling when you do it.  
-**Kanami:** But, come on, they're going to have their top class guards stationed in there\!?  
+**Kanami:** But, come on, they're going to have their top class guards stationed in there\!\?  
 **Kanami:** What kind of fighting style do you think they'll use? Isn't it exciting, Hiyori-chan\!  
 **Hiyori:** Now you're saying the polar opposite of before. Weren't we supposed to be careful?  
 **Kanami:** We'll have fun while we're being careful\!  
 **Hiyori:** There's just no helping you, is there... Let's move in\!  
 **Maki:** I heard a noise over this way\! Intruders\!  
 **Suzuka:** Hopping aboard the car we're guarding; you phantom thieves have run out of luck.  
-**Hiyori:** Wait, we're the thieves, not the detectives\!?  
+**Hiyori:** Wait, we're the thieves, not the detectives\!\?  
 **Kanami:** See, Hiyori-chan. Holmes is a master of Baritsu, right?  
 **Kanami:** So I'd want to fight him. Which means, we've gotta be phantom thieves\!  
-**Hiyori:** "Gotta be phantom thieves"? Really\!? And also, Holmes wasn't even there\!  
+**Hiyori:** "Gotta be phantom thieves"? Really\!\? And also, Holmes wasn't even there\!  
 **Kanami:** Then maybe... Instead of working together, would it be a better setup if I came to steal you, Hiyori-chan?  
-**Kanami:** "I've come to steal you away, Hiyori-chan\!" Like that.  
-**Hiyori:** Are you listening to me\!? And anyway, you're the one kidnapping me\!?  
+**Kanami:** "I've come to steal you away, Hiyori-chan\!\" Like that.  
+**Hiyori:** Are you listening to me\!\? And anyway, you're the one kidnapping me\!\?  
 **Kanami:** Would you rather steal me?  
 **Kanami:** Like, "I'm here to steal you away, Kanami."  
 **Announcement:** We have confirmed the appearance of aradama. I repeat--  
@@ -805,7 +801,7 @@ https://youtu.be/SLmEfJhjktU
 **Kanami:** Ellen-chan said she'd be dressing up like a wolf, didn't she? Yui-chan, do you know? For Kiyoka-chan and everybody.  
 **Yui:** I told Kiyoka-chan she should dress up like a witch and little red riding hood, but she wouldn't wear those costumes in the end.  
 **Hiyori:** ...You gave her something weird to wear, didn't you?  
-**Yui:** Eh-- The skirt was just a liiittle bit short is all\!?  
+**Yui:** Eh-- The skirt was just a liiittle bit short is all\!\?  
 **Kanami:** Ahaha... I'm pretty sure that's the reason.  
 **Yui:** But, I'd love to see Kiyoka-chan all dressed up in costume if I could. And Chie-san and Mihono-chan too, of course\!  
 **Kanami:** I'm sure you would, Yui-chan. We should hurry over there then.  
@@ -826,9 +822,9 @@ https://youtu.be/SLmEfJhjktU
 **Kanami:** That might be tricky.  
 **Yui:** What are you two saying? You're pairing up for a shot, so you've got to get right up on each other\!  
 **Yui:** So close you're practically hugging\!  
-**Hiyori:** Wha\!?  
+**Hiyori:** Wha\!\?  
 **Kanami:** Like this?  
-**Hiyori:** ...Ka-Kanami\!? Th-That's too close.  
+**Hiyori:** ...Ka-Kanami\!\? Th-That's too close.  
 **Yui:** Niiice going, Kanami-chan\~.  
 **Hiyori:** Doing this kind of thing is nice every now and then.  
 **Kanami:** Yeah. We should all go together for Halloween again next year\!  
@@ -920,7 +916,7 @@ https://youtu.be/U1jobRU1Nr4
 
   
 
-## [Summer Uniform 20 - Kanami: Start]: In Danger of Failing\!?
+## [Summer Uniform 20 - Kanami: Start]: In Danger of Failing\!\?
 **Kanami:** Help me, Hiyori-chan\! At this rate, I'm gonna fail\!  
 **Hiyori:** ......Sigh.  
 **Hiyori:** That's not going to be possible. Go find someone else.  
@@ -1001,7 +997,7 @@ https://youtu.be/_0ke0wRCknw
 **Mihono:** But the harder we work on missions, that just means we spend more time in makeup classes. I'm not really okay with that...\!  
 **Kanami:** They could at least give us a little bit of a break\!  
 **Mai:** I think, even now, they might still be taking into account the rate of missions you're sent on for your makeup classes. Especially since you two often get assigned to suppress aradama.  
-**Kanami:** Even still\!?  
+**Kanami:** Even still\!\?  
 **Mihono:** That's too much\~...  
 **Mai:** Maybe you're right. But, if you score well on your tests, I think there's a chance you'd have less makeup classes?  
 **Mai:** If you two both try your best, I think you can get even better grades.  

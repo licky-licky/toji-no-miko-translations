@@ -36,7 +36,7 @@ https://youtu.be/2WIMe2c68W4
 **Mihono:** Are you going on a trip?  
 **Chie:** Just a bit of a long distance mission that came up.  
 **Chie:** It could end up taking the rest of the week, so I needed a few changes of clothes.  
-**Mihono:** Ehh\!? So you won't be here this weekend\!? That's too bad...  
+**Mihono:** Ehh\!\? So you won't be here this weekend\!\? That's too bad...  
 **Mihono:** I wanted to go on a sweets tour with you... But I guess we can't now?  
 **Chie:** Nnn... When you use those puppy dog eyes of yours, Mihono-chan...  
 **Chie:** But... I'm sorry. No matter how much I hurry, I probably won't be back before the weekend is over...  
@@ -60,7 +60,7 @@ https://youtu.be/2WIMe2c68W4
 **Kiyoka:** I heard you groaning back there. Did you forget to do your homework?  
 **Mihono:** Nah, I finished all of it this time. But that's not it, Chii-nee left on a long assignment yesterday.  
 **Kiyoka:** Oh, I heard about that from Yui-chan.  
-**Kiyoka:** She said "There's a big aradama infestation, so it could take until the start of next week\! Sorry, I won't be able to play with you this weekend\!"  
+**Kiyoka:** She said "There's a big aradama infestation, so it could take until the start of next week\! Sorry, I won't be able to play with you this weekend\!\"  
 **Mihono:** Did you have plans to do something with Yui?  
 **Kiyoka:** No, we didn't talk about anything.  
 **Mihono:** Ahaha, that's Yui alright.  
@@ -86,7 +86,7 @@ https://youtu.be/2WIMe2c68W4
 **Kaoru:** Table tennis... I'm pretty good at that, you know?  
 **Mihono:** I'm not about to lose either\!  
 **Kiyoka:** ...Umm, the hot spring we were planning on visiting doesn't actually have table tennis there.  
-**Mihono:** Ehh\!? There's no table tennis...  
+**Mihono:** Ehh\!\? There's no table tennis...  
 **Mihono:** But I still feel like competing, so why don't we play it now?  
 **Kaoru:** Pass. Listen up, Mihono. Table tennis is always fun when there's a hot spring to get in nearby.  
 **Kaoru:** But if we do it here, we'd only be working up a sweat.  
@@ -100,7 +100,7 @@ https://youtu.be/2WIMe2c68W4
 **Kiyoka:** Please do... Ah, what about ghost stories?  
 **Hiyori:** Ghost stories? I've never done that before, but is telling scary stories really that interesting?  
 **Kiyoka:** It's interesting because it's scary\! And aside from ghost stories, we can talk about love too\!  
-**Hiyori:** Talk about love...\!?  
+**Hiyori:** Talk about love...\!\?  
 **Kaoru:** That's about as standard as it gets, but... Does any of us even have a partner?  
 **Kaoru:** Just putting this out there, but I don't.  
 **Hiyori:** A-As if I have someone like that\!  
@@ -168,7 +168,7 @@ https://youtu.be/2WIMe2c68W4
 **Kaoru:** Oh, there's a death flag.  
 **Hiyori:** ...Gulp.  
 **Kiyoka:** They found their courage and slid open the door. But there was no one there.  
-**Mihono:** Th-The lock\! Did they lock the door or not\!?  
+**Mihono:** Th-The lock\! Did they lock the door or not\!\?  
 **Kiyoka:** It still seemed to be locked. They looked out through the peephole and couldn't see anyone in the hallway.  
 **Hiyori:** W-Well then there wasn't anyone there, was there.  
 **Kiyoka:** My mother and her friends thought the same thing, and started feeling safer. But, at that moment, they heard a knocking at the door.  
@@ -186,7 +186,7 @@ https://youtu.be/2WIMe2c68W4
 **Kiyoka:** Hello, who is i... KYAAAAAAAAAAA\!\!  
 **Hiyori/Mihono:** UWAAAAAAAAAAAAAAAHHH\!\!  
 **Yui:** Kiyoka-chan, you're so waaaaaaaaaarm\!  
-**Mihono:** ...Wait, Yui\!?  
+**Mihono:** ...Wait, Yui\!\?  
 
 ## 4:　Something's Better than Nothing
 --Several hours earlier.
@@ -206,7 +206,7 @@ https://youtu.be/2WIMe2c68W4
 **Kiyoka:** Eeep\! Don't look at me\!  
 **Yui:** But, now I have Kiyoka-chan with me, so all's well that ends well\!  
 **Yui:** Warm me up, Kiyoka-chan\! Pant, pant, sniff, sniff\!  
-**Kiyoka:** I don't want a hug-\!? Just- let- go- please-\!  
+**Kiyoka:** I don't want a hug-\!\? Just- let- go- please-\!  
 **Hiyori:** ...Is it okay to let her do that?  
 **Mihono:** Kiyoka and Yui are really friendly, so it's okay\!  
 **Mihono:** Anyway, I'm glad it wasn't a ghost. Right, Juujou-san\!  
@@ -266,7 +266,7 @@ https://youtu.be/2WIMe2c68W4
 **Kaoru:** Idiot\! Why'd you have to go and sneeze at a time like this\!  
 **Mihono:** Ughh, I'm sorry-\!  
 **Hiyori:** Tch, they noticed us\!  
-**Kiyoka:** Wh-What do we do now\!?  
+**Kiyoka:** Wh-What do we do now\!\?  
 **Hiyori:** We don't have a choice... Kiyoka, stick with me\!  
 **Kiyoka:** Ah, o-okay\!  
 **Kaoru:** So that means you're with me, Mihono.  
@@ -287,7 +287,7 @@ https://youtu.be/2WIMe2c68W4
 **Mihono:** Awawa\!  
 **Kaoru:** Damnit, where'd all that energy you had at the start go?  
 **Mihono:** Sorry... I ran out of concentration...  
-**Kiyoka:** Hyaah-\!?  
+**Kiyoka:** Hyaah-\!\?  
 **Hiyori:** Tch\! Hang in there, Kiyoka\!  
 **Kiyoka:** Uuu... I can't do anything, against all of them...  
 **Ellen:** Oh\! Looks like a hard fight\! Chie, let's back them up\!  
@@ -319,14 +319,14 @@ https://youtu.be/2WIMe2c68W4
 **Yui:** Kiyoka-chan, why don't we try that too?  
 **Kiyoka:** I refuse\!  
 **Yui:** BWHAA-\!  
-**Mihono:** Blood came spewing out of Yui's nose\!?  
+**Mihono:** Blood came spewing out of Yui's nose\!\?  
 **Yui:** Pant, pant... J-Just ignore that, l-let me wash your... BWHAA\!\!  
-**Mihono:** It did it again\!?  
+**Mihono:** It did it again\!\?  
 **Ellen:** You might have a thin nasal membrane, Yuiyui. It's probably best if you stay out of the hot spring.  
 **Yui:** But that's too cruel\!  
 **Chie:** Why don't you try calming down a little for now? Here, come here.  
 **Yui:** Chie-san's are... This close to me... BWHAA\!  
-**Chie:** Kyaa\!? Ellen-san, help me get her out of here\!  
+**Chie:** Kyaa\!\? Ellen-san, help me get her out of here\!  
 **Ellen:** Got it\!  
 **Yui:** I'm spent... Nothing's coming out anymore... Gagh.  
 **Kaoru:** That's fine, then you won't be getting your nosebleed in the water.  

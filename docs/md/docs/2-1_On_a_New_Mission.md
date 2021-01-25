@@ -1,13 +1,9 @@
 
 2-1 On a New Mission
 ====================
+https://www.youtube.com/watch?v=Xz-N2DwEBLU
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/Xz-N2DwEBLU" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Momentary Peace and a New Journey (1)
 **Mihono:** Mmmm\~, yummy\! When it comes to crepes, chocolate covered bananas with creme fraiche is such a must have\!  
@@ -19,7 +15,7 @@
 **Kiyoka:** Strawberry ice cream with chocolate whipped cream.  
 **Mihono:** Ahhh, I wanted that one too\! I spent so long trying to decide between these.  
 **Kiyoka:** Want to taste mine?  
-**Mihono:** Can I\!?  
+**Mihono:** Can I\!\?  
 **Kiyoka:** Mm... Go ahead.  
 **Mihono:** Then, I'll take you up on that\! Om-  
 **Mihono:** Mmmhm\~, so yummy\! The cold ice cream and the crepe taste so good together\!  
@@ -34,7 +30,7 @@
 **Mirja:** It's good to see everyone so peaceful, but we need to discuss what we'll be doing next.  
 **Mirja:** First, we should-  
 **Aradama:** GURURUUUUUU...\!  
-**Chie:** Aradama\!?  
+**Chie:** Aradama\!\?  
 **Kofuki:** Alright; nothing like some exercise after eating\! You came out just to see me, didn't you? Well I love you too, aradama-chan\!  
 
 ## 1: Momentary Peace and a New Journey (1)
@@ -111,7 +107,7 @@
 **Chie:** (...? That's strange. No one's answering? There should always be someone responding to the emergency undercover line...)  
 **Chie:** (I hope I'm only overthinking this, but I can't help but feel uneasy...)  
 **Aradama:** KIKIKIGIGIGIGIGIGI...  
-**Chie:** More aradama\!?  
+**Chie:** More aradama\!\?  
 **Kofuki:** More and more-\! I've been waiting for you, aradama-chans\! Come get your love\!  
 **Mirja:** Everyone, get ready for combat\! We're going to eliminate all the aradama\!  
 
@@ -150,7 +146,7 @@ At the same time, at the Mokusa hideout--
   
 **Mai:** Takako-san, hurry and get on\!  
 **Yonemura Takako:** ...Leave without me.  
-**Mai:** Eh\!? Takako-san\!  
+**Mai:** Eh\!\? Takako-san\!  
 **Takako:** Keep Akane-sama safe.  
 **Mai:** Takako-san\!\!  
 **Yume:** Ahhh\~, I didn't make it in time, huh...? Too bad.  

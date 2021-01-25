@@ -15,7 +15,7 @@ https://streamable.com/cq5bjh
 **Akira:** You're not gettin' away, ORAAAAAHH\!  
 **Mihono:** Nice\!  
 **Yomi:** Asakura-san. There still seem to be aradama in the area we're in charge of. Approaching from 9 o'clock; be on guard.  
-**Mihono:** 9 o'clock? Wait, which way is that\!?  
+**Mihono:** 9 o'clock? Wait, which way is that\!\?  
 **Akira:** Left from where you're facing, Mihono\!  
 **Akira:** Yomi, are those the last of 'em?  
 **Yomi:** Yes.  
@@ -97,7 +97,7 @@ https://streamable.com/bos4qz
 
 ## [Pirate - Mihono: Start]: Our Reward's A Treasure Hunt at the Amusement Park\!
 **Aradama:** GGGIII...\!  
-**Mihono:** Ehh... There's more aradama this way\!? They're small, but, this many is...\!  
+**Mihono:** Ehh... There's more aradama this way\!\? They're small, but, this many is...\!  
 **Yomi:** Asakura-san, please focus on the aradama to the front.  
 **Mihono:** Satsuki-san\! But, will Akira-san be fine on her own?  
 **Yomi:** She should be fine. Using cover, she drew the aradama to where they were manageable.  
@@ -132,10 +132,10 @@ https://streamable.com/bos4qz
 **Mihono:** Yeah, yeah\! Besides the treasure hunt, it's going to be so fun fighting in pirate cosplay for the flags-.  
 
 ## [Pirate - Mihono: End]: The Treasure Comes After we Take Down Their Pirate Flag\!
-**Mihono:** Wawah\!?  
+**Mihono:** Wawah\!\?  
 **Mihono:** It's great and all I made it over to this ship without Kiyoka and them noticing, but... Bringing down their pirate flag is actually tough...\!  
 **Yui:** Fu fu fu\~. And what about you, Mihono-chan? You sure you didn't want to stop us from bringing down your pirate flag?  
-**Mihono:** Eh... Our ship-- Are Kiyoka and Ellen-san there already\!?  
+**Mihono:** Eh... Our ship-- Are Kiyoka and Ellen-san there already\!\?  
 **Mihono:** Wait... Nobody's there. Yuiii\~.  
 **Yui:** If you take down our flag, we have to give you the treasure map-. So I'll tell a lie if I have to.  
 **Mihono:** But, that's not enough to make me give up\!  
@@ -150,7 +150,7 @@ https://streamable.com/bos4qz
 **Mihono:** Yeah\! I'll sneak in and take down their flag\! Leave it to me\!  
 **Mihono:** I thought I'd get in all sneaky and bring your flag down though...  
 **Yui:** If that was... your sneaking, being a spy or a ninja really isn't for you, Mihono-chan.  
-**Yui:** I kept hearing "Ahh\!" and "Crap\!"   
+**Yui:** I kept hearing "Ahh\!\" and "Crap\!\"   
 **Mihono:** No way\~... I thought I was doing perfect though.  
 **Mihono:** But still, so long as I keep pulling the rope hard--  
 **Akira:** That's it\! Keep it up just like that, Mihono\!  
@@ -173,9 +173,9 @@ https://youtu.be/61uP0-QaIpA
 
 ## [Pirate - Hiyori: Start]: Inami and Shichinosato and...
 **Aradama:** KSHAAAAAA...\!\!  
-**Suu:** ...I-It's here\!?  
+**Suu:** ...I-It's here\!\?  
 **Hiyori:** (There's no way she'll beat it hunched over in fear like that--)  
-**Suu:** Uwah\!? Uwahh\!?  
+**Suu:** Uwah\!\? Uwahh\!\?  
 **Hiyori:** HAAH...\!  
 **Aradama:** GUOOooo...  
 **Hiyori:** Honestly... What are you even doing? Calm down and hold your okatana properly. Are you trying to get yourself hurt?  
@@ -203,7 +203,7 @@ https://youtu.be/61uP0-QaIpA
 **Suu:** But, what should we do? Juujou-san, Shichinosato-san...  
 **Kofuki:** I don't really have a choice, so I'll do this with you; at least till we get to the X on the map.  
 **Hiyori:** Are we fine with not going after the other team's maps?  
-**Kofuki:** Mihocchi was all, "Let's plunder-\!" but if the map you steal's no good, there's no point.  
+**Kofuki:** Mihocchi was all, "Let's plunder-\!\" but if the map you steal's no good, there's no point.  
 **Suu:** ...I think that's fine\! It's important to clear the game fast too\!  
 **Hiyori:** There is a time limit; they were saying it goes until the cannons fire 3 times.  
 **Suu:** It should be just about thirty minutes.  
@@ -214,11 +214,11 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** Suu's... not the most reliable.  
 **Kofuki:** ......  
 **Kofuki:** Tch... Guess if I've gotta.  
-**Suu:** Ehh... As long as there aren't any aradama, I'm not like that\! ...I won't lose the map, okay\!?  
+**Suu:** Ehh... As long as there aren't any aradama, I'm not like that\! ...I won't lose the map, okay\!\?  
 
 ## [Pirate - Hiyori: End]: This Might Not Be So Bad Every Now and Then... Huh
 **Suu:** I didn't think the cave drawing on the map would take us to a big stalactite cave facility, and they even had a boat for us. This has to be it--  
-**Suu:** --HYAUU\!?  
+**Suu:** --HYAUU\!\?  
 **Kofuki:** Don't shout like that outta nowhere... You made me jump.  
 **Suu:** But some water dripped on me\! They made this way too real in some weird places...  
 **Hiyori:** Anyway, you were just saying you thought this was it; why's that?  
@@ -231,9 +231,9 @@ https://youtu.be/61uP0-QaIpA
 **Kofuki:** This must be it. Hey you, go and get the thing.  
 **Suu:** Roger that-. Inami Suu is setting off-.  
 **Aradama:** GYUUU...\!  
-**Suu:** GYAAH\!? Something came out\!?  
-**Suu:** ...A-A-A-Aradamaaa\!?  
-**Kofuki:** ...What\!? After it\!  
+**Suu:** GYAAH\!\? Something came out\!\?  
+**Suu:** ...A-A-A-Aradamaaa\!\?  
+**Kofuki:** ...What\!\? After it\!  
 **Aradama:** ......  
 **Kofuki:** You're running around all over the place, but this is it\!  
 **Hiyori:** It was so small it hardly showed up on the spectrum finder, so it's a good thing we found it.  
@@ -254,7 +254,7 @@ https://youtu.be/61uP0-QaIpA
 **Hiyori:** And you... You just want to hunt aradama yourself, am I wrong?  
 **Suu:** That's right, tell her some more\!  
 **Kofuki:** Oh\! Mihocchi and Kiyoka are headed over. Go shove this pendant in their faces, Hunchback.  
-**Suu:** Hunchback\!? Could you please not call me weird names... It's rude\!  
+**Suu:** Hunchback\!\? Could you please not call me weird names... It's rude\!  
 **Hiyori:** Good grief...  
 https://youtu.be/ee9V9yy0uqk
 
@@ -263,12 +263,12 @@ https://youtu.be/ee9V9yy0uqk
 ## [Pirate - Suu: Start]: After Eliminating the Aradama--
 **Aradama:** AAAAA...  
 **Suu:** GYAH\! D-D-Don't come this way, aradama\!  
-**Suu:** I mean, Shichinosato-san\!? Aradama\! There's an aradama\!? Hurry up hurry up\!  
+**Suu:** I mean, Shichinosato-san\!\? Aradama\! There's an aradama\!\? Hurry up hurry up\!  
 **Kofuki:** I've got my own to play with here for now\! Either wait it out or do something yourself\!  
 **Suu:** Come onnn\~. You said to leave all the aradama to you; that's why I joined your team\~\!  
 **Aradama:** KSHAAAAAAA...\!\!  
-**Suu:** ...I-It's coming\!?  
-**Suu:** Uwah\!? Uwahh\!?  
+**Suu:** ...I-It's coming\!\?  
+**Suu:** Uwah\!\? Uwahh\!\?  
 **Hiyori:** Honestly... What are you even doing? Calm down and hold your okatana properly. Are you trying to get yourself hurt?  
 **Suu:** ...G-Got it\! Thank you so much, Juujou-san\!  
 **Kofuki:** So, we took care of the aradama, but why're we still in the amusement park?  
@@ -279,8 +279,8 @@ https://youtu.be/ee9V9yy0uqk
 **Ellen:** It sets a nice mood, doesn't it-. I want to hurry up and play it\!  
 **Mihono:** So anyway, you do it with us, Fukki.  
 **Mihono:** Well actually, I already signed us up as the same teams we had when we were stopping the aradama just now.  
-**Kofuki/Suu:** ...Don't go deciding that on your own\!/Why did you decide on that for us\!?  
-**Mihono:** Eh-\!?  
+**Kofuki/Suu:** ...Don't go deciding that on your own\!/Why did you decide on that for us\!\?  
+**Mihono:** Eh-\!\?  
 **Suu:** ......  
 **Kofuki:** ......  
 **Hiyori:** This "treasure map" the park attendant gave us... Seems like some of them are fakes.  
@@ -308,12 +308,12 @@ https://youtu.be/ee9V9yy0uqk
 **Kofuki:** This must be it. Hey you, go and get the thing.  
 **Suu:** Understood-. Inami Suu is setting off-.  
 **Aradama:** GYUUU...\!  
-**Suu:** GYAAH\!? Something came out\!?  
-**Suu:** ...A-A-A-Aradamaaa\!?  
-**Kofuki:** ...What\!? After it\!  
+**Suu:** GYAAH\!\? Something came out\!\?  
+**Suu:** ...A-A-A-Aradamaaa\!\?  
+**Kofuki:** ...What\!\? After it\!  
 **Hiyori:** I know...\!  
 **Kofuki:** Fufufu...\! You're tiny, but you're not getting away\!  
-**Suu:** ...Ahh\! Wait, please wait...\! Don't leave me alone in this place-\!?  
+**Suu:** ...Ahh\! Wait, please wait...\! Don't leave me alone in this place-\!\?  
 **Mihono:** That's crazy-\! So Fukki, you found the treasure and even beat an aradama?  
 **Kofuki:** Sure, but it was so freaking small it was over in seconds.  
 **Suu:** You could have come right back then... Why did you leave me there for over ten minutes...  
@@ -328,7 +328,7 @@ https://youtu.be/ee9V9yy0uqk
 **Suu:** In that case... sure.  
 **Kiyoka:** You can't give in to her, Inami-san.  
 **Suu:** Ah...\!  
-**Suu:** (I don't even want to be on missions with her in the first place... Am I getting dragged into Shichinosato-san's pace little by little\!?)  
+**Suu:** (I don't even want to be on missions with her in the first place... Am I getting dragged into Shichinosato-san's pace little by little\!\?)  
 **Suu:** (I have to hold tight onto myself...\!)  
 **Suu:** (Though I'm not even sure if I can...)  
 > :ToCPrevNext

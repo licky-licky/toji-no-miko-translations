@@ -14,7 +14,7 @@ https://youtu.be/5On4WnD5fIA
 **Kaoru:** ......Where are we?  
 **Ellen:** Good morning, Kaoru\! Now everyone's awake\!  
 **Kaoru:** ...Ahh, figures you were behind this. You know, Ellen, if you're kidnapping someone, the prank's gone too far.  
-**Ellen:** What led you to that conclusion\!?  
+**Ellen:** What led you to that conclusion\!\?  
 **Ellen:** I'm not the one who did this\! When I woke up, I was just in this room too\!  
 **Kaoru:** ...Wait, what. Why'd something this annoying have to go and happen.  
 **Kaoru:** Did the rest of you wake up in here too?  
@@ -39,8 +39,7 @@ https://youtu.be/5On4WnD5fIA
 **Ellen:** Then, we're going to have to figure out how to leave this place\!  
 **Ellen:** The only way out of the room is through this locked door. There has to be a key around here somewhere.  
 **Mirja:** I don't see any key, however... There is a photograph on the table.  
-
-## [Q0]: (There is a photo of Kaoru, Mihono, Kiyoka, Kofuki, Yume, Ellen, Mirja, and Suzuka...)
+**[Q0]:** (There is a photo of Kaoru, Mihono, Kiyoka, Kofuki, Yume, Ellen, Mirja, and Suzuka...)  
 **Mirja:** On the backside there is the letter "Q"... Does it mean "Question"?  
 **Yume:** Are they saying we have to answer the question if we want to leave the room?  
 **Ellen:** Oh\! It's an escape room game\!  
@@ -50,7 +49,7 @@ https://youtu.be/5On4WnD5fIA
 **Ellen:** Hmmm... They're really making this difficult, not writing out the question.  
 **Mirja:** This is only my assumption, but it's likely the answer would be too easily discovered if the full question were written out.  
 **Kofuki:** Which means the answer's easy. This'll be fun; let's see Mihocchi give it a shot.  
-**Mihono:** Me\!? Umm, umm... I-Is it one of those ones where you spot the differences?  
+**Mihono:** Me\!\? Umm, umm... I-Is it one of those ones where you spot the differences?  
 **Mihono:** Like we compare the picture to how things are in the room now, and see if anything's different... Or something.  
 **Kofuki:** Oh, that's a way better idea than I was expecting. So, what's different?  
 **Kiyoka:** Hmm, it all looks the same to me...  
@@ -64,10 +63,10 @@ https://youtu.be/5On4WnD5fIA
 **Ellen:** See through... What if it's that we're all awake, or that there's no photo on the table?  
 **Kofuki:** There's two answers that sound good enough, Mihocchi.  
 **Mihono:** Going by my intuition... The answer is, we're not asleep now\!  
-**Kiyoka:** KYAA\!?  
-**Kofuki:** Why'd the lights go out... Hey\!? Mirja's not here anymore\!  
+**Kiyoka:** KYAA\!\?  
+**Kofuki:** Why'd the lights go out... Hey\!\? Mirja's not here anymore\!  
 **Kofuki:** Huh...? This is, Mirja's glasses, and a watch...?  
-**Mihono:** Don't tell me... Because we got it wrong, Mirja-san got turned into glasses\!?  
+**Mihono:** Don't tell me... Because we got it wrong, Mirja-san got turned into glasses\!\?  
 **Suzuka:** Sigh... Don't be ridiculous. It seems that, after a certain number of mistakes, one of us is eliminated.  
 **Kaoru:** In that case, the time left on here is our time limit? 100 minutes... Feels like we could use it all on this question.  
 **Ellen:** Don't worry. If this is an escape room game, there's sure to be some kind of hint in the room.  
@@ -75,7 +74,7 @@ https://youtu.be/5On4WnD5fIA
 **Kiyoka:** No, I don't think there's any...  
 **Ellen:** Really?  
 **Kaoru:** Come up with something more than "Really"\!  
-**Suzuka:** There's aradama\!?  
+**Suzuka:** There's aradama\!\?  
 **Kofuki:** Least they brought something to keep us from getting bored in here\! I'll take care of all of them\!  
 **Yume:** No fair, Onee-san\! Let me have some too-\!  
 **Suzuka:** A playing card fell out of it... Oh? Something's written on it.  
@@ -84,9 +83,9 @@ https://youtu.be/5On4WnD5fIA
 **Suzuka:** The spectrum finder is still getting a reading... This won't be settled so easily.  
 **Suzuka:** Let's gather all the hints we can.  
 **Yume:** Aha, this is more fun than regular aradama fighting\~.  
-**Hint 1:** "Don't let them get in the way of our rampage\!"  
-**Hint 2:** "If only they weren't around\!"  
-**Hint 3:** "Our natural enemy\!"  
+**Hint 1:** "Don't let them get in the way of our rampage\!\"  
+**Hint 2:** "If only they weren't around\!\"  
+**Hint 3:** "Our natural enemy\!\"  
 
 ## 2: The Eight White Rabbits Room
 **Ellen:** I get it now. The answer is... "Toji"\!  
@@ -99,8 +98,7 @@ https://youtu.be/5On4WnD5fIA
 **Letter from the White Rabbit:** Help us, Miss Toji\! Defeat the aradama, and protect Wonderland\!  
 **Suzuka:** Aradama have appeared in Wonderland, and they've brought toji in to help... I suppose that's the story here.  
 **Suzuka:** What does the question say?  
-
-## [Q1]: Two Dumptys, Five Tweedle Dums and Tweedle Dees, and six Humptys chased the eight White Rabbits.
+**[Q1]:** Two Dumptys, Five Tweedle Dums and Tweedle Dees, and six Humptys chased the eight White Rabbits.  
 **Yume:** "Two Dumptys, Five Tweedle Dums and Tweedle Dees, and six Humptys chased the eight White Rabbits"...?  
 **Suzuka:** Why are Humpty and Dumpty written separately...?  
 **Yume:** Did you figure something out, Suzuka-onee-san?  
@@ -112,7 +110,7 @@ https://youtu.be/5On4WnD5fIA
 **Suzuka:** ...There aren't any hints in this room either, are there.  
 **Kofuki:** Does that mean there's gonna be more aradama-chan coming in here? This is the best\!  
 **Kofuki:** Alright, Mihocchi\! I'll get the clues for you, so you're in charge of solving the question\!  
-**Mihono:** Eh-\!? You have to solve it with me, Fukki-\!  
+**Mihono:** Eh-\!\? You have to solve it with me, Fukki-\!  
 **Kofuki:** We've gotta split up the work. Since you didn't help at all with the last question, you've gotta try extra hard with this one.  
 **Mihono:** I-I'll try\!  
 **Mihono:** Uhh... There's eight white rabbits, right? So, maybe the Humpty Dumpties made... body... doubles?  
@@ -127,10 +125,10 @@ https://youtu.be/5On4WnD5fIA
 **Ellen:** Hmm, this is a tough one. We need something to set us on the right path.  
 **Aradama:** GUOOOOOOO\!  
 **Ellen:** Yumecchi, there's aradama\!  
-**Yume:** Did they come to give us a hint\!? HAAAAAAA\!\!  
+**Yume:** Did they come to give us a hint\!\? HAAAAAAA\!\!  
 **Kofuki:** Ah, wait up, Yume... Hey, there's none of them left for me\!  
 **Yume:** That's your fault for being a slowpoke, Onee-san.  
-**Kofuki:** Huhh\!? Who're you calling a slowpoke\!?  
+**Kofuki:** Huhh\!\? Who're you calling a slowpoke\!\?  
 **Suzuka:** And the hint... I see, so that's what they want.  
 **Kiyoka:** Oh, this tells us how to answer it\! With this, we just have to...  
 **Mihono:** Kiyokaaa... Even with the hint, I don't get ittt...  
@@ -153,12 +151,11 @@ https://youtu.be/5On4WnD5fIA
 **Yume:** I thought this was boring, but I'm sorta frustrated that I couldn't figure it out...  
 **Yume:** I'll be the one to answer the next question, okay\!  
 **Kiyoka:** In this room too, they left two letters for us. Let's see...  
-**Letter from the White Rabbit:** Ahh\!? My treasures were scattered all about\!\!  
+**Letter from the White Rabbit:** Ahh\!\? My treasures were scattered all about\!\!  
 **Kiyoka:** Treasures...? Is the question this time about finding treasures?  
-
-## [Q2]: MITSU TSUGU tsu ha SUI YASU no JIN ZEN GIRI ru no ya ECHI KANE ki
+**[Q2]:** MITSU TSUGU tsu ha SUI YASU no JIN ZEN GIRI ru no ya ECHI KANE ki  
 **Kiyoka:** Umm, "mitsu tsugu tsu"...?  
-**Yume:** Let me have it, Onee-san\! ...The heck is this\!?  
+**Yume:** Let me have it, Onee-san\! ...The heck is this\!\?  
 **Mihono:** I want to see too, Tsubakuro-san\! ...Whoa, my head hurts.  
 **Yume:** There's supposed to be treasures hidden in here, right? Treasures... Treasures...  
 **Yume:** There aren't any treasures anywhere\!  
@@ -183,7 +180,7 @@ https://youtu.be/5On4WnD5fIA
 **Mihono:** Don't read it out loud, Kiyoka\! I'm still thinking\!  
 **Mihono:** Tsuha no runoyaki, tsuha noru no yaki...  
 **Yume:** Oh, I got it\!  
-**Mihono:** Ahh\!? Tsubakuro-san, don't say it\!  
+**Mihono:** Ahh\!\? Tsubakuro-san, don't say it\!  
 **Yume:** Ehh, but if we had to wait on you, Onee-san, the time would run out.  
 **Mihono:** If it comes down to this... Kiyoka\! Show me the hint\!  
 **Kiyoka:** Here you go, Hono-chan.  
@@ -209,8 +206,7 @@ https://youtu.be/5On4WnD5fIA
 **Kofuki:** You're overthinking it. They told us we could eat them, so what's wrong with it?  
 **Suzuka:** They did not say we could eat them. Mashiko-san, what is the question this time?  
 **Kaoru:** It's right here.  
-
-## [Q3]: A: eaiohinebtehexo B: tlewtohaercherm C: ascfasttloatnto
+**[Q3]:** A: eaiohinebtehexo B: tlewtohaercherm C: ascfasttloatnto  
 **Mihono:** "Eaiohinebtehexo"...  
 **Kofuki:** "Tlewtohaercherm"...  
 **Yume:** "Ascfasttloatnto"?  
@@ -244,10 +240,10 @@ https://youtu.be/5On4WnD5fIA
 **Yume:** Umm... What is this? This hint's no good\!  
 **Yume:** Onee-san, give me your hint\!  
 **Kofuki:** Ahh, sure. Here.  
-**Yume:** Thanks\! ...Wait, what are you supposed to do with this\!?  
-**Mihono:** Ahhhhh, Fukki, how could you... Kiyoka, what about your hint\!?  
+**Yume:** Thanks\! ...Wait, what are you supposed to do with this\!\?  
+**Mihono:** Ahhhhh, Fukki, how could you... Kiyoka, what about your hint\!\?  
 **Kiyoka:** Don't worry, Hono-chan\! This should be enough\!  
-**Yume:** Ahh, you onee-sans can already solve it\!? Suzuka-onee-san\!  
+**Yume:** Ahh, you onee-sans can already solve it\!\? Suzuka-onee-san\!  
 **Suzuka:** Oh my, are you coming to me for help?  
 **Yume:** If they're going to split the cakes in half, we can do that too\!  
 **Suzuka:** What am I ever going to do with you. Then, let's not waste time... Ahh, so that's how it is.  
@@ -258,8 +254,8 @@ https://youtu.be/5On4WnD5fIA
 
 ## 5: The Traitor Room
 **Suzuka:** Yume, you may eat a piece of whichever cake you like.  
-**Yume:** Huh? But we still haven't solved it yet\!?  
-**Mihono:** Konohana-san's cheating\!?  
+**Yume:** Huh? But we still haven't solved it yet\!\?  
+**Mihono:** Konohana-san's cheating\!\?  
 **Suzuka:** You do speak so poorly of me. But eating a piece of cake is the solution.  
 **Kofuki:** Huh? Why's that the right answer?  
 **Suzuka:** That's how it was written. If you try reading them all at once, top down from A to C to B, you'll understand.  
@@ -269,7 +265,7 @@ https://youtu.be/5On4WnD5fIA
 **Kiyoka:** B-But, in that case, we wouldn't have realized we solved it...  
 **Suzuka:** Now then, let's move on to the next room. If the other letter was correct... The next may be the final room.  
 **Aradama:** BUUUOOOOOOOO\!  
-**Mihono:** The boss is an aradama\!?  
+**Mihono:** The boss is an aradama\!\?  
 **Ellen:** There's no way they'd leave aradama here as the boss\!  
 **Suzuka:** Kohagura-san is right. Before we can solve that mystery, we'll have to defeat these aradama\!\!  
 **Kiyoka:** The spectrum finder isn't reading anything anymore.  
@@ -280,11 +276,11 @@ https://youtu.be/5On4WnD5fIA
 ## [R]: There is a traitor among you. Listen to the white rabbit to find who can stop them\!
 **Suzuka:** This means...  
 **Kiyoka:** One of us in here is a traitor...?  
-**Mihono:** W-Well it's not me\!?  
+**Mihono:** W-Well it's not me\!\?  
 **Kofuki:** You sure about that? Chichie's the one setting this up, right? I'm thinking that makes Mihocchi the number one suspect.  
 **Kiyoka:** Kofuki-san, your smile's giving it away.  
-**Kofuki:** Ah, seriously\!?  
-**Mihono:** Huh? Wh-What do you mean, Kiyoka\!?  
+**Kofuki:** Ah, seriously\!\?  
+**Mihono:** Huh? Wh-What do you mean, Kiyoka\!\?  
 **Kiyoka:** It means she never actually thought you were the traitor.  
 **Kiyoka:** After all, there's no way Hono-chan could keep up an act for that long, is there?  
 **Mihono:** Th-That's true\! Thank goodness...  
@@ -304,7 +300,7 @@ https://youtu.be/5On4WnD5fIA
 **Suzuka:** That's the trouble with you... You should think things through more before you act, Yume.  
 **Ellen:** You're being too aggressive\! This is just a game, okay? There's no need to get violent\!  
 **Suzuka/Yume:** ......  
-**Ellen:** Come on, are you listening to me\!?  
+**Ellen:** Come on, are you listening to me\!\?  
 Throughout the story so far, there are hints to the traitor's identity.
 
   
@@ -336,7 +332,7 @@ Throughout the story so far, there are hints to the traitor's identity.
 **Ellen:** Bingo bingo-\! You're right on the money\! The final question of the escape room game has been cleared\!  
 **Ellen:** That's my Kaoru\! You stole the show right at the end\!  
 **Kaoru:** Nah, I knew halfway through that you were working with whoever's running this.  
-**Ellen:** Eh\!? Since when\!?  
+**Ellen:** Eh\!\? Since when\!\?  
 **Kaoru:** Even though you got dragged into an escape room game, you were acting way less excited than you should have been.  
 **Kaoru:** So, I thought that was suspicious... But I wasn't sure until we got to the cakes.  
 **Kaoru:** Under normal circumstances, you would've eaten them right away.  
@@ -374,7 +370,7 @@ Throughout the story so far, there are hints to the traitor's identity.
 **Suzuka:** Please put on the best escape room game you can.  
 **Yume:** Seeya later\! It was pretty fun.  
 **Chie:** Alright, the rest of us here are going to hold a strategy meeting on what to improve for the opening\!  
-**Kaoru:** The rest of us here... Wait, I'm here\!?  
+**Kaoru:** The rest of us here... Wait, I'm here\!\?  
 **Ellen:** No complaining; come help us, Kaoru\!  
 **Mirja:** Let's re-examine the beta test so we can produce an entertaining escape room game.  
 **Tsugumi:** Ah, then, can we intentionally place aradama in there now? The types we can use are limited, but it's proven to work.  
@@ -396,22 +392,22 @@ https://youtu.be/tSsi3HMt5qU
 **Chie:** Okay, okay. That's why I'm here watching you study, isn't it?  
 **Chie:** Now then, first is this Japanese question. For this one...  
 **Mihono:** .........guh.  
-**Chie:** She fell asleep in the middle of the explanation\!?  
+**Chie:** She fell asleep in the middle of the explanation\!\?  
 **Chie:** Wake up, Mihono-chan\! We have to hurry to Wonderland\!  
 **Mihono:** ...Chii-nee? Wonderland? We're done with the escape room game already...  
 **Mihono:** Eh, where is this?  
 **Chie:** Just how long do you plan on sleeping for, Mihono-chan?  
 **Chie:** We're going on a mission to suppress aradama in Wonderland, aren't we?  
-**Mihono:** An aradama suppression mission in Wonderland\!?  
+**Mihono:** An aradama suppression mission in Wonderland\!\?  
 **Mihono:** ...Are you tired, Chii-nee?  
 **Chie:** Okay, okay, whether you're feeling tired or anything else, just climb in that hole.  
 **Mihono:** That hole...?  
-**Mihono:** I have to go in here\!? I can't even see the bottom\!?  
+**Mihono:** I have to go in here\!\? I can't even see the bottom\!\?  
 **Chie:** ...What's gotten into you today? If you don't go in that hole, you can't make it to Wonderland, can you?  
 **Mihono:** You're the one who's gotten into something, Chii-nee\!  
 **Mihono:** If I fell down that hole, I'd die for sure\!  
 **Chie:** Nobody's died going down there. You'll be fine.  
-**Mihono:** And who proved that\!?  
+**Mihono:** And who proved that\!\?  
 **Chie:** Honestly now, you can't go fussing over every little thing, you know? Now then... Have a nice trip.  
 **Mihono:** ...Huh?  
 **Mihono:** GYAAAAAAAAAAAAAAAAAAAAA\!\!  
@@ -419,7 +415,7 @@ https://youtu.be/tSsi3HMt5qU
 ## [Fairytale Mihono: End]: Which Me is the Real Me?
 **Mihono:** I'M-FALL-ING-DO-WWWN--\!\!  
 **Chie:** Good morning, Mihono-chan.  
-**Mihono:** EEEEEEE\!?  
+**Mihono:** EEEEEEE\!\?  
 **Chie:** ...Screaming like that just from seeing my face; are you trying to give me a shock...?  
 **Mihono:** That's cause\! You pushed me into that hole... and I fell... Wait? Was I dreaming?  
 **Chie:** Honestly now, not being able to tell a dream from reality, it's like you're having the butterfly's dream.  
@@ -436,14 +432,14 @@ https://youtu.be/tSsi3HMt5qU
 **Chie:** Fufu, isn't this wonderful, Mihono-chan?  
 **Chie:** If you don't want to study for your exams, you won't have to anymore. You can suppress aradama forever in Wonderland.  
 **Mihono:** I don't want to do that either\!  
-**Mihono:** Anyway, how far down does this hole go\!?  
+**Mihono:** Anyway, how far down does this hole go\!\?  
 **Chie:** Until you think about what you've done wrong Mihono-chan.  
 **Mihono:** Then, I did\! I did just now\!  
 **Chie:** Did you really?  
 **Mihono:** I really thought hard about what I did wrong\!  
 **Mihono:** I don't want to be in the butterfly's dream anymore, Chii-nee\!  
-**Chie:** KYAAA\!?  
-**Mihono:** Chii-nee\!? You're the real Chii-nee, aren't you\!?  
+**Chie:** KYAAA\!\?  
+**Mihono:** Chii-nee\!\? You're the real Chii-nee, aren't you\!\?  
 **Mihono:** Owwch\! Ith not a dweam\!\! I did it, Chii-nee...\!  
 **Chie:** Are you still half asleep?  
 **Chie:** Anyway, the butterfly's dream was the correct answer to the first problem. You said you didn't know, but you really did, didn't you?  

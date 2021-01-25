@@ -14,7 +14,7 @@ https://streamable.com/vvs3hu
 **Tsugumi:** The fact that I've been ignoring a possibility up until now, is all.  
 **Tsugumi:** I realized something. Haven't there been an awful lot of cases of aradama stealing things recently?  
 **Tsugumi:** And, from a possibility in that... I've formed a hypothesis\!  
-**Kofuki:** Ooh, some new way to run into tons of aradama-chan\!?  
+**Kofuki:** Ooh, some new way to run into tons of aradama-chan\!\?  
 **Tsugumi:** Which is, is it possible that, when a subset of aradama steal objects from humans, they're wanting human attention?  
 **Tsugumi:** Even when aradama steal objects, I don't believe they use them in any way.  
 **Tsugumi:** What do you think, Shichinosato-san? About my "attention seeking aradama" theory\!  
@@ -101,7 +101,7 @@ https://streamable.com/tvpstr
 **Kofuki:** Thanks for that... Oww, hot\! Let it cool down some first\!  
 **Tsugumi:** Huh, had it not cooled off enough yet? I'm sorry.  
 **Kofuki:** Damnit... [blow- blow-]...  
-**Kofuki:** Oh yeah, get this\! Earlier, Mihocchi went and ate my milk pudding, y'know\!?  
+**Kofuki:** Oh yeah, get this\! Earlier, Mihocchi went and ate my milk pudding, y'know\!\?  
 **Tsugumi:** That sounds like fun.  
 **Kofuki:** ...Huh? You even listening? What part about getting your pudding eaten sounds fun to you\!  
 **Tsugumi:** Well... You've been sounding like you're enjoying yourself this whole time, Shichinosato-san.  
@@ -155,7 +155,7 @@ https://streamable.com/tvpstr
 **Kofuki:** You get real annoying when you're explaining stuff, y'know. Like, you're probably thinking you can spin me whatever bullshit, but I'm not letting you outta this one.  
 **Tsugumi:** I'm at a loss then...  
 **Tsugumi:** (I want to tell her that I think she's more lively before, and that she doesn't have to worry about unnecessary things, but... how would I get that across?)  
-**Kofuki:** Is that some aradama-chan\!?  
+**Kofuki:** Is that some aradama-chan\!\?  
 **Tsugumi:** Good timing.  
 **Tsugumi:** You do seem to be having the most fun whenever aradama appear. That part of you really doesn't change.  
 **Kofuki:** 'Course it wouldn't\! Anyway, I'm gonna go check it out\!  

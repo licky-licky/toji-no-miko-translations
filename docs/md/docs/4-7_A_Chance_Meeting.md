@@ -53,7 +53,7 @@ Two months after the calamity that became known as the "Year-End Disaster"--
 **Kanami:** Daaad? Onii-chaaan?  
 **Kanami:** ...Nobody's home.  
 **Minato:** Kanami?  
-**Kanami:** Master...\!?  
+**Kanami:** Master...\!\?  
 As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 
   
@@ -66,10 +66,10 @@ As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 **Hiyori:** Right now, I have to go with Tagitsuhime to the depths of the netherworld.  
 **Kanami:** ...I knew you did.  
 **Kanami:** YAH\!  
-**Tagitsu:** Nn...\!?  
+**Tagitsu:** Nn...\!\?  
 **Kanami:** In Shinkage-ryu, a thrust is considered a dead sword. There's nothing beyond that; this is my final strike.		[Thrusting is considering a "dead sword" because of its lack of concern for what comes after. It leaves you open and unable to respond. Kanami calls it her final strike to show her determination that, whatever comes after, she's resolved to accept it.]  
 **Kanami:** I can't give you everything. Neither can Hiyori-chan. But in exchange, you can have half my life.  
-**Hiyori:** Kanami\!?  
+**Hiyori:** Kanami\!\?  
 **Kanami:** I promised, didn't I? That I'd take half of it.  
 **Tagitsu:** So both generations of mother and daughter pursue the same end.  
 **Kanami:** Fate is strange like that, isn't it, Tagitsuhime.  
@@ -79,11 +79,11 @@ As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 **Hiyori:** UOOOOOOOHHH--\!\!  
 **Kanami:** UOOOOOOOHHH--\!\!  
 **Hiyori:** Kanami, she was... She was planning that from the start. She knew what I would do...  
-**Hiyori:** You idiot-\! When you said you would carry half the burden, was that what you meant\!?  
+**Hiyori:** You idiot-\! When you said you would carry half the burden, was that what you meant\!\?  
 **Hiyori:** Just like our mothers... We...  
 **Hiyori:** I wish I could just see Kanami, one more time. Then, for sure... I'd...  
 **Kagari:** ...Hello?  
-**Hiyori:** --Who's there\!?  
+**Hiyori:** --Who's there\!\?  
 **Kagari:** Who are... you?  
 **Hiyori:** ......Mother...  
 
@@ -147,7 +147,7 @@ As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 **Ellen:** If they saw Kaoru and Nene, they'd realize. I'm sure we can come to understand each other\!  
 **Kaoru:** [snooze]......  
 **Nene:** Ne-...  
-**Sana:** Damnit, Kaoru-\! Where're you slacking off now\!?  
+**Sana:** Damnit, Kaoru-\! Where're you slacking off now\!\?  
 **Kaoru:** Ahh... I'm in the middle of an afternoon nap-- No, that's not it. I'm in the middle of guard duty.  
 **Nene:** Neeeeee....  
 **Sana:** I heard that part about the nap\! You know you're the captain of the raid unit, don't you\! Get to work already\!  
@@ -197,7 +197,7 @@ As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 **Minato:** Eh?  
 **Kanami:** When I first came here, Chidori guided me. And then I found you, Master. So I'm sure, it's leading me again.  
 **Kanami:** Hiyori-chaaaaaaaan\!\!  
-**Kanami:** Hiyori-chan\!?  
+**Kanami:** Hiyori-chan\!\?  
 **Hiyori:** Kanami\!  
 **Kanami:** Hiyori-chaaan\!  
 **Hiyori:** Kanami, I thought I'd never see you again...\!  
@@ -249,7 +249,7 @@ As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 ## 7: So Long As They Live (2)
 **Suzuka:** Sigh\~, if at all possible, I would like for that to be the end of it.  
 **Aradama:** GSHHAAAAAAAAA\!  
-**Yume:** No way-, there's more\!? Now I'm really mad\! I'm gonna tear you apart\!  
+**Yume:** No way-, there's more\!\? Now I'm really mad\! I'm gonna tear you apart\!  
 **Suzuka:** Fufu, there she goes. Though, Yume's spirit isn't the only thing that's grown stronger. Her swordsmanship too, even more than before...  
 **Maki:** That's for sure. Suzuka. We should get stronger too... Together.  
 **Suzuka:** O-Okay\!  
@@ -266,7 +266,7 @@ As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 **Other:** So They Can Be Welcomed Back Anytime  
 **Mai:** How is it?  
 **Sayaka:** ...Mm, it's good. The smell especially is good this time.  
-**Mai:** You can tell\!? That's amazing\! I was right to ask you to give these a taste test after all, Sayaka-chan. These mint liquor ones are my own creation.  
+**Mai:** You can tell\!\? That's amazing\! I was right to ask you to give these a taste test after all, Sayaka-chan. These mint liquor ones are my own creation.  
 **Sayaka:** You're the amazing one, Mai. You can make these sweets.  
 **Mai:** That's not true at all. It was far far simpler than I thought it would be. All I needed to do was soak the mint in sake.　  
 **Mai:** The internet really comes in handy at times like these. There's lots of different types of mint, so later, I'll try soaking some more.  

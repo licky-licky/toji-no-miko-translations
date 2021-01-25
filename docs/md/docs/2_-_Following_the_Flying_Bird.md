@@ -1,38 +1,34 @@
 
 2 - Following the Flying Bird
 =============================
+https://www.youtube.com/watch?v=KDSf4bG32cQ
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/KDSf4bG32cQ" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Chasing After Kanami (1)
 **Suzuka:** Capture the ones who attacked Yukari-sama\! Do not let them escape\!  
 **Suzuka's Underlings:** Understood\!  
-**Friend B:** Wha\!? What was that\! What's going on\!?  
+**Friend B:** Wha\!\? What was that\! What's going on\!\?  
 **Mihono:** Just what it looked like, I think. That girl from Heijou, Juujou Hiyori, attacked Yukari-sama, and Kanami saved her.  
 **Mihono:** But I don't get it... But...  
-**Friend B:** What? So what, Kanami and that black haired girl were working together\!?  
+**Friend B:** What? So what, Kanami and that black haired girl were working together\!\?  
 **Mihono:** There's no way\! Kanami wouldn't... She had no reason to attack Yukari-sama\! ...I'm going\!  
-**Friend B:** Wait, where\!?  
-**Chie:** You're kidding me\!? Mihono-chan\!  
+**Friend B:** Wait, where\!\?  
+**Chie:** You're kidding me\!\? Mihono-chan\!  
 **Chie:** (Don't tell me she's going after Etou-san? ...I can't let that happen\! I have to get over there and stop her\!)  
 **Chie:** I made it\! Stop, Mihono-chan\! You can't do this\!  
-**Mihono:** Chii-nee\!? But I have to talk to Kanami\!  
+**Mihono:** Chii-nee\!\? But I have to talk to Kanami\!  
 **Chie:** I'm trying to tell you...\!  
 **Bodyguard Toji:** You two, stop right there\! All students have been ordered not to leave the area\!  
-**Chie:** I'm too late\!?  
-**Mihono:** Security\!? I-I'm not going to stop\!  
+**Chie:** I'm too late\!\?  
+**Mihono:** Security\!\? I-I'm not going to stop\!  
 **Mihono:** (I can't let them stop me here\! I'll... I'll use jin'i to break through\!)  
 **Chie:** Mihono-chan\! I told you not to run\! You're just making things more complicated\!  
 **Chie:** (I don't have a choice... I'll follow her with jin'i\!)  
 **Mihono:** Pant... Pant... Sorry, Chii-nee... But I can't let them stop me yet. I have to hear from Kanami... Why she did this\!  
 **Chie:** Mihono-chan\! It doesn't matter what you want; we won't get away with this that easily\! Not those girls or us\!  
 **Bodyguard Toji:** Oi\! I told you to stop\! If you keep resisting, I'll have to restrain you as traitors\!  
-**Mihono:** They already caught up\!? Guess I can't lose Origami security that easy... But still\! Alright\! Where there's a will... There's a way\!  
+**Mihono:** They already caught up\!\? Guess I can't lose Origami security that easy... But still\! Alright\! Where there's a will... There's a way\!  
 **Chie:** Aghh, I can't believe you\! There's nothing I can do\!  
 
 ## 2: Chasing After Kanami (2)
@@ -45,7 +41,7 @@
 **Chie:** Pant... Pant... Mihono-chan... Why... Pant... Are you going this far... For that girl?  
 **Mihono:** Kanami's innocent... I know she is. After all, before we came here, she promised me...  
 **Kanami:** And when I get back, let's have another match\! Fighting you in the semi-finals... It was really exciting\!  
-**Mihono:** ......Nn\!? S-Stop, you're making me blush...\! Okay, fine\! We'll have a rematch; that's a promise\!  
+**Mihono:** ......Nn\!\? S-Stop, you're making me blush...\! Okay, fine\! We'll have a rematch; that's a promise\!  
 **Kanami:** Yeah\! I promise\!  
 **Mihono:** She promised me, we'd fight again.  
 **Mihono:** And, of all her friends at the tournament, I think I'm the only one with an okatana right now... So I'm the only one that can back her up here.  
@@ -58,7 +54,7 @@
 **Chie:** Now then, so we don't get stopped here, let's hurry and break through them, okay?  
 **Bodyguard Toji:** I caught up again\! Now, don't resist...  
 **Chie:** Hate to break it to you, but we plan on resisting.  
-**Mihono:** (Eh\!? Chii-nee...\!?)  
+**Mihono:** (Eh\!\? Chii-nee...\!\?)  
 **Chie:** But isn't that fine? After all, the two of us are going after Etou Kanami and Juujou Hiyori to safely bring them back. We're not the ones you're after, isn't that right?  
 **Bodyguard Toji:** Uh... You're not wrong, but... Ah, hey, that's faulty logic\! You're not gonna trick me like that\! Everybody\! Come on, get them-\!  
 **Chie:** Ah, you saw through it\~. Then you leave us other choice, right? Mihono-chan, I'll follow you right on through\!  
@@ -71,9 +67,9 @@
 
 ## 5: The Little Bird Breaks Through the Cage
 **Mihono:** Kanami\! I really found you...\!  
-**Kanami:** M-Mihono-chan\!? Why are you here...?  
+**Kanami:** M-Mihono-chan\!\? Why are you here...?  
 **Mihono:** Why... Everything's a mess back there\! That's why... Why did you do that?  
-**Mihono:** Helping the girl who turned her okatana on Yukari-sama... That makes you a traitor too, you know\! And who is that girl...\!?  
+**Mihono:** Helping the girl who turned her okatana on Yukari-sama... That makes you a traitor too, you know\! And who is that girl...\!\?  
 **Mihono:** (......That's not it\! That's not what I meant to say...)  
 **Chie:** Etou-san, listen\! Mihono-chan thinks you're innocent\!  
 **Chie:** She just wants to hear the truth from you\! No matter what happens, she's on your side\!  
@@ -103,17 +99,17 @@
 **Kanami:** Please, Mihono-chan\! Just let the girl with Kogarasumaru, let Juujou-san escape\!  
 **Mihono:** ...Fine. I'll let her leave, okay. But then, please, you have to come back with me\!  
 **Kanami:** I can't do that\!  
-**Mihono:** You can't... Then what\!? What about the rematch you promised\!? Is this what you meant\!? Because I can't stand this\!  
+**Mihono:** You can't... Then what\!\? What about the rematch you promised\!\? Is this what you meant\!\? Because I can't stand this\!  
 **Kanami:** I know\! We can have our rematch again later. I promise\!  
 **Mihono:** But, Kanami, if you leave now...\!  
-**Chie:** \!?  
+**Chie:** \!\?  
 **Chie:** Mihono-chan\! Etou-san\! Juujou-san\! ...Behind us\!  
 *aradama appears*
 
   
-**Mihono:** Eh\!?  
-**Kanami:** Aradama\!? How\!? We're right in the middle of Kamakura...  
-**Mihono:** (These small aradama... They're the same as the ones we fought before...\!? Did we miss some\!?)  
+**Mihono:** Eh\!\?  
+**Kanami:** Aradama\!\? How\!\? We're right in the middle of Kamakura...  
+**Mihono:** (These small aradama... They're the same as the ones we fought before...\!\? Did we miss some\!\?)  
 **Mihono:** Chii-nee\! Kanami\! We have to stop them before they hurt anybody\!  
 **Kanami:** ...Okay\! I'll help\!  
 
@@ -202,7 +198,7 @@ Kyoto prefecture, Ayanokouji Martial Arts School, President's office--
 **Yuzuki:** Well, it doesn't matter. At any rate, my school will provide you with a toji.  
 **Yuzuki:** And, after this, I'll indirectly propose the idea to Renpu's president for you.  
 **Yuzuki:** If she believes she'll win the director's favor through it, she'll jump at the opportunity no questions asked.  
-**Sana:** That'd really help. If I were the one to propose it to her, I can already hear her saying "Why does the likes of you think she gets to speak on Yukari-sama's behalf\!?"  
+**Sana:** That'd really help. If I were the one to propose it to her, I can already hear her saying "Why does the likes of you think she gets to speak on Yukari-sama's behalf\!\?"  
 **Sana:** She's a real handful.  
 **Yuzuki:** I don't think her reaction will be any different if I'm the one to say it... That said, you're right that she'd be worse if it came straight from you.  
 **Yuzuki:** So then, what about Minoseki and Heijou's presidents?  

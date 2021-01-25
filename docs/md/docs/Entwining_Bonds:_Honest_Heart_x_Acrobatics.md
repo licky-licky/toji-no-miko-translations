@@ -32,7 +32,7 @@ https://youtu.be/elec0PfDqTg
 **Ellen:**  Since you can't get it right now, it'll feel that much more fun and satisfying when we're done\!  
 **Mihono:** Ellen-san... Thanks a lot. Then, let me try it one more time\!  
 **Ellen:** Okay\! Here we go...  
-**Mihono:** Wait, why'd aradama show up now\!? And I was just starting to get into it-.  
+**Mihono:** Wait, why'd aradama show up now\!\? And I was just starting to get into it-.  
 **Ellen:** Let's think positive\! This is the perfect chance to test how well we can coordinate with each other\!  
 **Mihono:** Oh yeah, you're right\! I'm gonna give it my all then\!  
 **Ellen:** Alright, match up with me, and let's go\!  
@@ -51,9 +51,9 @@ https://youtu.be/elec0PfDqTg
 **Mihono:** You're really nice, Ellen-san. You made that up about the lesson so you could bring me here.  
 **Mihono:**  But I still want to get even stronger. If I have the time to be having fun, I'd rather be training...  
 **Ellen:** You've got it all wrong, Mihomiho. I brought you here to show you the secret to coordination.  
-**Mihono:** The secret to coordination's in a cake shop\!? How's that work?  
+**Mihono:** The secret to coordination's in a cake shop\!\? How's that work?  
 
-## 2: The Secret to Coordination\!?
+## 2: The Secret to Coordination\!\?
 **Ellen:** They're going to start serving us all kinds of drinks and sweets, Mihomiho. I want you to enjoy them exactly how I tell you, okay?  
 **Mihono:** Okay...  
 **Ellen:** First off, while you drink a cup of this black tea, try eating some of this orange tart.  
@@ -87,29 +87,29 @@ https://youtu.be/elec0PfDqTg
 **Mihono:** I'll start off by doing some in depth investigating on the people I spend the most time fighting with: everybody from the investigation team\!  
 **Mihono:** To see the sides of them that they usually wouldn't show, I have to be extra sneaky, so they won't notice...  
 **Kofuki:** Oi, Mihocchi\! What're you sneaking around for\!  
-**Mihono:** Wah\!? She found me out right away.  
+**Mihono:** Wah\!\? She found me out right away.  
 **Kofuki:** What were you up to?  
 **Mihono:** Sorry, sorry... I wasn't doing anything. Anyway, later-\!  
 **Mihono:** Sigh. It's pretty tough, watching somebody without them finding out. Ah, that's Yui over there\!  
 **Mihono:** (This time for sure, I'll follow her around all sneaky so she won't see...)  
 **Mihono:** (Alright, I've been following her for a pretty long time and she hasn't suspected a thing. That should be enough info on Yui. Next is...)  
 **Yui:** Ehh, Mihono-chan, are you done already? You can follow me around some more, you know-.  
-**Mihono:** Yui\! You found out\!? Since when?  
+**Mihono:** Yui\! You found out\!\? Since when?  
 **Yui:** I knew the whooole time, from the very start. There's no way I wouldn't know when a girl has her eyes on me.  
 **Mihono:** Ughh... I shouldn't be surprised when it comes to Yui. But, still, that's important info too. I'll write it down. "Sensitive to signs of girls"...  
 One week later.
 
   
 **Mihono:** Phew, it was really tough, but I somehow finished my secret special training in time\! I hope I get to show off the progress I made today\~.  
-**Mihono:** Wait, why are aradama showing up now\!? And there's so many of them...  
+**Mihono:** Wait, why are aradama showing up now\!\? And there's so many of them...  
 **Mihono:** No, now's not the time to lose my nerve\! Where there's a will, there's a way\!  
 **Mihono:** YAAAAA\!\!  
 **Mihono:** HAAH\!  
-**Mihono:** No way-\!? I'm surrounded...\!  
+**Mihono:** No way-\!\? I'm surrounded...\!  
 **Aradama:** GUOOOOOOO\!  
 **Mihono:** \!\!\!  
 **Ellen:** I'll protect you, Mihomiho\! YAAAAAAAAAAAAA\!  
-**Mihono:** E-Ellen-san\!? Thanks a lot. You saved me.  
+**Mihono:** E-Ellen-san\!\? Thanks a lot. You saved me.  
 **Ellen:** You don't have to thank me. Come on, let's take down the rest of the aradama together\!  
 **Mihono:** We're coordinating, aren't we\! I'm glad I'll get to show off the results of my special training right away\!  
 **Ellen:** That sounds promising\! Let's show them our best together\!  
@@ -118,7 +118,7 @@ One week later.
 **Mihono:** Okay\! Ellen-san, let's finish it together\!  
 **Mihono/Ellen:** HAAAAAAAAAAAAAAAAA\!\!\!\!\!\!  
 **Mihono:** ...We beat all of them\! Ellen-san\! We worked together great, didn't we\!\!  
-**Ellen:** We did\! What kind of training did you do, to get to such excellent coordination in just one week\!?  
+**Ellen:** We did\! What kind of training did you do, to get to such excellent coordination in just one week\!\?  
 **Mihono:** ...I did this\! Please check over what I learned from a whole week of secret training\!  
 **Ellen:** Hmhm, what's this notepad for?  
 **Mihono:** You're the one who told me the secret to coordinating was learning lots about your partner, so,  
@@ -130,9 +130,9 @@ One week later.
 **Ellen:** Mihomiho... I'm a little surprised, but you showed how well you can put it to use today.  
 **Ellen:** I guess you being a stalker turned out for the best\!  
 **Kaoru:** Well-, Ellen here's a stalker herself too.  
-**Ellen:** Kaoru\!? I told you to keep that a secret...  
+**Ellen:** Kaoru\!\? I told you to keep that a secret...  
 **Kaoru:** There's no point hiding it. This last week, Ellen was worried about you too, so she was secretly watching over you.  
-**Mihono:** You were\!? Then that means, we were both watching each other...  
+**Mihono:** You were\!\? Then that means, we were both watching each other...  
 **Ellen:** This is kind of, a little embarrassing now.  
 **Kaoru:** Look at that, you two're head over heels.  
 **Mihono:** Oh yeah\! I want to coordinate better with Kaoru-san next, so can I watch you too?  

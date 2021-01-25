@@ -43,7 +43,7 @@ https://youtu.be/7q5s6NyENVM
 **Kofuki:** What're you talking about?  
 **Tsugumi:** This is the first time you've called me by name...  
 **Tsugumi:** It's startling when you do things like this, so please keep the surprise attacks to a minimum.  
-**Kofuki:** Huhh\!? There's no way I haven't said your name at some point\!\!  
+**Kofuki:** Huhh\!\? There's no way I haven't said your name at some point\!\!  
 **Tsugumi:** No, as far as I can remember, this is the first.  
 **Tsugumi:** Here, come on, try saying it one more time.  
 **Kofuki:** I'm not gonna\!  
@@ -58,7 +58,7 @@ https://youtu.be/7q5s6NyENVM
 **Yui:** I've already inputted Kiyoka-chan's tastes and the current fashion trends\! The only data I'm missing is...  
 **Kiyoka:** Wh-What's that look in your eyes for? You're giving me a bad feeling about this...  
 **Yui:** The latest specs on Kiyoka-chan's body\!  
-**Kiyoka:** Eeeeep\!?  
+**Kiyoka:** Eeeeep\!\?  
 **Yui:** Where's the harm in it\! Where's the harm in it\!  
 **Kiyoka:** There's plenty harm in it\! You're scaring me, so stop it\!  
 **Yui:** Ahaha.  
@@ -72,9 +72,9 @@ https://youtu.be/7q5s6NyENVM
 **Yui:** Finished putting it on yet-?  
 **Kiyoka:** Not yet-. Just wait a little longer-.  
 **Yui:** I can't wait\!  
-**Kiyoka:** KYAAAAAAAAAAAA\!?  
+**Kiyoka:** KYAAAAAAAAAAAA\!\?  
 **Yui:** ...Well, huh. Your clothes are on.  
-**Kiyoka:** What were you going to do if they weren't\!?  
+**Kiyoka:** What were you going to do if they weren't\!\?  
 **Yui:** I'd apologize\!  
 **Kiyoka:** Don't sound so proud about it\!  
 **Yui:** Ahaha, sorry, sorry.  
@@ -83,7 +83,7 @@ https://youtu.be/7q5s6NyENVM
 **Yui:** Kiyoka-chan?  
 **Kiyoka:** ...Sorry, what's gotten into me. Umm, what I mean is, it's just...  
 **Kiyoka:** Just...  
-**Yui:** You're crying\!? I-I'm sorry, Kiyoka-chan\!  
+**Yui:** You're crying\!\? I-I'm sorry, Kiyoka-chan\!  
 **Yui:** I went a little too far, didn't I? I didn't mean to make you cry or anything...  
 **Kiyoka:** That's not it, that's not why...  
 **Kiyoka:** Yui-chan, I'm so glad...  

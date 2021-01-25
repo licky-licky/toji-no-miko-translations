@@ -68,15 +68,15 @@ https://youtu.be/0vVIGDtRVLE?t=1320
 **Kiyoka:** But, you must have been looking forward to this too, Mirja-san... Looking forward to having fun with everyone... It's a little heartbreaking.  
 **Mihono:** Yeah, I know. Saying something like that, trying not to make us feel bad, you're being too nice. I can't take it...  
 **Yui:** Mmhmm, and, on top of that, you have that nice hot body. These slender legs that go all the way up... Stare...  
-**Kiyoka:** Hey, Yui-chan\! Why are you looking up Mirja-san's skirt\!?  
-**Mirja:** Ya-Yamashiro Yui\!? You're molesting me at a time like this\!?  
+**Kiyoka:** Hey, Yui-chan\! Why are you looking up Mirja-san's skirt\!\?  
+**Mirja:** Ya-Yamashiro Yui\!\? You're molesting me at a time like this\!\?  
 **Yui:** I'm not molesting anybody\~\! Look what I found, Mirja-san\! Here, on the inside of your skirt.  
 **Mirja:** The inside of my skirt...? Ah---\!\!\!\!  
 **Mihono:** No way-\! The stolen airline ticket was sewn underneath her skirt all along\!\!  
 **Mirja:** I of all people should have remembered...  
 **Kofuki:** Nn? What's going on? Didn't the aradama-chan take it?  
 **Mirja:** Everyone, I am incredibly sorry for the trouble I have caused. I completely forgot that I had decided to sew my ticket onto the underside of my skirt, thinking it wouldn't be lost that way.  
-**Mihono:** Ehh-\!? But, didn't you say yesterday that you put it in your glasses case so it wouldn't get lost?  
+**Mihono:** Ehh-\!\? But, didn't you say yesterday that you put it in your glasses case so it wouldn't get lost?  
 **Mirja:** Yes. I did put it there yesterday, but, for security reasons, I routinely changed its location.  
 **Mirja:** From under the insole of my shoe, to inside my glasses case. After that, I transferred it to several other places...  
 **Mirja:** And I had entirely forgotten I had moved it to the inside of my skirt.  

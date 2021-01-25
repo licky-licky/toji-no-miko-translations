@@ -10,7 +10,7 @@ https://youtu.be/N8q9gtW9xcY
 **Yukari:** Good, you're here.  
 **Yukari:** I'll explain to you the details concerning a great project about to be put underway.  
 **Yukari:** We received an offer from an international organization to appoint a "Toji Representative", to be an ambassador of peace and goodwill toward the world.  
-**Maki:** A toji representative...\!?  
+**Maki:** A toji representative...\!\?  
 **Yukari:** This is a sign that the world has begun to recognize the accomplishments of toji.  
 **Suzuka:** By what manner will we be deciding on the toji representative?  
 **Yukari:** I've received a list of referrals for prospective candidates from each president of the Five Traditions.  
@@ -39,7 +39,7 @@ After Yukari announced the details of the "Miss Five Traditions" Selection Tourn
 **Mirja:** And, at the same time "Miss Five Traditions" will be decided upon, the morale of toji will be raised... This is a well thought out event.  
 **Mihono:** I'll give my best shot at becoming "Miss Five Traditions"-\! It might be tough, but, where there's a will, there's a way-\!  
 **Chie:** Fufu. Seeing you ready to give it your all like that, I can't let myself be outdone here.  
-**Yui:** The selection tournament is going to have a, "Badump-\! A great big all girls sports day\!" feeling, right? I mean, of course it'll be like that\!  
+**Yui:** The selection tournament is going to have a, "Badump-\! A great big all girls sports day\!\" feeling, right? I mean, of course it'll be like that\!  
 **Mirja:** You would be wrong. In the first place, they already announced the categories they will be judging us on.  
 **Mirja:** You should look over them as soon as you can, Yamashiro Yui. Every toji will likely be taking this seriously.  
 **Akira:** Yo.  
@@ -89,7 +89,7 @@ At that moment.
 **Sayaka:** Thank you.  
 **Announcer:** Please pardon this interruption of the judging. Inago Akira-san. If you have arrived at the tournament hall, please let the administrator's office know at once--  
 **Akira:** Like I figured, this way's got hardly any traffic. I might make it only a bit late now...  
-**Akira:** Huh? My tire popped\!? I'm still nowhere near the tournament either\!  
+**Akira:** Huh? My tire popped\!\? I'm still nowhere near the tournament either\!  
 **Akira:** Am I supposed to push now... Damnit...  
 **Kiyoka:** It's going to be my turn soon... I-It's making me nervous...  
 **Chie:** You'll don't have to work yourself up over it so much, Kiyoka-chan.  
@@ -104,7 +104,7 @@ At that moment.
 **Kiyoka:** I have to do a performance here, in front of all these people...  
 **Kofuki:** Can't you just do whatever out there? You take this stuff so seriously.  
 **Kofuki:** Actually, I'm up next, aren't I? This's lame, so maybe I'll bail.  
-**Kiyoka:** Y-You're going to leave\!? Please don't go...\!  
+**Kiyoka:** Y-You're going to leave\!\? Please don't go...\!  
 **Kofuki:** Why not. Isn't it all the same if I'm here or not?  
 **Kiyoka:** But... It makes me feel, discouraged...  
 **Kofuki:** Tch... Fine, whatever. I just have to go out there, right?  
@@ -163,7 +163,7 @@ At that moment.
 **Ema:** When put in charge of a raiding unit, I don't know that any toji could get the better of her.  
 **Mihono:** The toji over there still haven't noticed me yet...  
 **Mihono:** Which means, first come, first serve-\! TAAAAH-\!  
-**Toji A:** A-A surprise attack\!?  
+**Toji A:** A-A surprise attack\!\?  
 **Toji B:** They're counterattacking\! Intercept-\!  
 **Mihono:** Too late-\!  
 **Mihono:** Kanami and Mai are both pretty great, aren't they... You can tell, standing on the same battlefield as them.  
@@ -256,14 +256,14 @@ At that moment.
 **Ellen:** Okay, Mihomiho. You're the last to go\!  
 **Mihono:** Right-\!  
 **Mihono:** Umm, I'm Asakura Mihono, a second year in middle school at the Minoseki Academy.  
-**Mihono:** This might seem out of nowhere, but my motto is, "Leap before you look\!"  
+**Mihono:** This might seem out of nowhere, but my motto is, "Leap before you look\!\"  
 **Mihono:** With my job as a toji, and with this okatana... I've done my best so far thinking I might have the power to make somebody happy.  
 **Mihono:** I've seen lots of tough enemies, and been through lots of close calls.  
 **Mihono:** But, during those times, what kept me going was one thought deep in my heart.  
 **Mihono:** I don't know how to say anything that sounds great yet. But, still\!  
 **Mihono:** Maybe I can't understand all the hard stuff, but I'll keep trying my best every day\!  
 **Mihono:** Whatever trouble I run into, together with my friends, I've been able to leap before I look out of it.  
-**Mihono:** From now on, so long as I'm with everyone, I know I'll be able to go as far as I can-- Because I believe, "where there's a will, there's a way\!"  
+**Mihono:** From now on, so long as I'm with everyone, I know I'll be able to go as far as I can-- Because I believe, "where there's a will, there's a way\!\"  
 **Yui:** You stole it away at the end, Mihono-chan. That hit the spot\!  
 **Maki:** True. The volume of the applause shows you just how much the audience expects of Asakura Mihono.  
 
@@ -292,7 +292,7 @@ After all the judging had been concluded, the toji each waited for the results t
 **Tsugumi:** It would cut into the time I have for research, so I would want to turn it down.  
 **Kiyoka:** (That's how they both are... But, if I were chosen, what would I do...?)  
 **Kiyoka:** (It's no use\! After all, I know someone like me could never become "Miss Five Traditions"... But, still\~...\!)  
-**Yui:** Who do you think it'll be-; "Miss Five Traditions\!"  
+**Yui:** Who do you think it'll be-; "Miss Five Traditions\!\"  
 **Yui:** They'd probably get a bunch of cute outfits and things for her, right?  
 **Mirja:** I doubt those would be anything like the outfits you're imagining, Yamashiro Yui.  
 **Chie:** Mihono-chan, with how good your speech was, you might even be picked to be "Miss Five Traditions".  
@@ -343,15 +343,15 @@ https://youtu.be/fhciZ41akJA
 **Chie:** Then, I'll ask Kaoru-san and Ellen-san. Tsugumi-san, can you speak to Itomi-san about it?  
 **Tsugumi:** Understood. I'll ask Itomi-san.  
 **Mihono:** Alright-, Kiyoka, Yui, Fukki-\! Let's go do karaoke now\! We've gotta build up our stock of songs\!  
-**Mihono:** Wait, that was what we talked about, so why'd it turn into a party at such a fancy place\!?  
+**Mihono:** Wait, that was what we talked about, so why'd it turn into a party at such a fancy place\!\?  
 **Kanami:** I heard the elite guard and Yukari-sama found out about it, and it sounds like Yukari-sama decided to hold a great big party to thank everyone.  
 **Mihono:** Our karaoke meetup turned into a real party\!  
 **Mihono:** Hey, Kanami\! Since Yukari-sama did this, that means she had to have gotten some yummy food for us, right\!  
 **Mihono:** Mmmm, I can't wait\!  
 **Kanami:** I know what you mean, Mihono-chan.  
 **Mai:** Kanami-chan, Mihono-chan, it seems like they have dresses ready for us over there.  
-**Mihono:** She got us dresses too\!? Let's go quick, Kanami\!  
-**Kanami:** Ah, wait up, Mihono-chan\!?  
+**Mihono:** She got us dresses too\!\? Let's go quick, Kanami\!  
+**Kanami:** Ah, wait up, Mihono-chan\!\?  
 **Mai:** You don't have to be in such a rush you two; they have enough for everyone...  
 **Mai:** They're already gone.  
 **Sayaka:** Mai?  

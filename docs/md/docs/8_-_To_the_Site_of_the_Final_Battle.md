@@ -1,13 +1,9 @@
 
 8 - To the Site of the Final Battle
 ===================================
+https://www.youtube.com/watch?v=MHm9KePEIHQ
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/MHm9KePEIHQ" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: On the Road to the Birthplace of the Akabane Swords (1)
 **Mirja:** I have to thank you, Setouchi Chie-san.  
@@ -30,8 +26,8 @@
 **The Bushes:** *rustle rustle*  
 **Mihono:** ...?  
 **Small Aradama:** GICHIGICHIGIGUGUGGGG...\!  
-**Kiyoka:** Ehh\!?  
-**Mihono:** Aradama\!? How'd it even get here\!?  
+**Kiyoka:** Ehh\!\?  
+**Mihono:** Aradama\!\? How'd it even get here\!\?  
 **Kofuki:** You lied to me; they're totally here\!  
 **Mihono:** Wait\! Kofuki-san\! Come back\!  
 
@@ -88,7 +84,7 @@
 **Chie:** Ah..... W-Well, thank you. ...Now, we should keep moving\!  
 
 ## 5: Kofuki \~Let's Dance\!\~
-**Kofuki:** I can feel it\! I'm alive\! I'm burning up\! Even the aradama just keep getting stronger\! Shit\! How much better can this get\!?  
+**Kofuki:** I can feel it\! I'm alive\! I'm burning up\! Even the aradama just keep getting stronger\! Shit\! How much better can this get\!\?  
 **Kofuki:** I'll carve you\! I'll break you\! I'll devour you\! I'll end you\! Haha\! Ahaha\! Just like that, aradama-chan\! I'll tear each and every one of you apart\! I love you so much\!  
 **Kofuki:** Ahhh... Ahhh, man\! This investigation team's too good\! When I'm with them, it's always happening\!  
 **Kofuki:** Renpu's research lab, or when those guys in lab coats made me fight... That was all nothing compared to this\! This is too much\! I can't take it\! It's so good I'm gonna cum...\!  
@@ -110,9 +106,9 @@
 **Mihono:** What kind, um... Well, she threw us into that surprise exam, didn't she? Ahh, now it's all coming back to me...  
 **Mirja:** So what you're saying is, this is one of the research institutes that was abandoned after they couldn't manage to please President Takatsu?  
 **Mirja:** I see. However, why are there more aradama the closer we draw near it? And...  
-**Mihono:** Why's there no end to them... Ah\!? When did we get surrounded...\!?  
+**Mihono:** Why's there no end to them... Ah\!\? When did we get surrounded...\!\?  
 **Kofuki:** Heheh\! What's the problem? We just get to keep crushing them for as long as we want? Right\!  
-**Kiyoka:** Eh... You guys\!? We're going to keep fighting? I-I'm feeling too scared to go on...  
+**Kiyoka:** Eh... You guys\!\? We're going to keep fighting? I-I'm feeling too scared to go on...  
 
 ## 7: Kiyoka \~I Want to Run Away\~ (2)
 **Kiyoka:** Pant... Pant... Um, please, wait for me...　  

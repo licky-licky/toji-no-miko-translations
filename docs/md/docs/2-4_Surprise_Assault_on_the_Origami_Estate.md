@@ -1,13 +1,9 @@
 
 2-4 Surprise Assault on the Origami Estate
 ==========================================
+https://www.youtube.com/watch?v=3T7N8Y0khrE
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/3T7N8Y0khrE" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: The Operation Commences
 **Mirja:** There it is; the Origami estate.  
@@ -21,7 +17,7 @@
 **Yui:** Does she mean that sort of out-of-body experience from before?  
 **Akane:** Please, everyone, lend me your strength\!  
 **Newscaster:** What was that? There's something else moving. Is that the hatches on the submarine? They seem to be opening--  
-**Newscaster:** M-Missiles\!? No, those were containers... Weren't they?  
+**Newscaster:** M-Missiles\!\? No, those were containers... Weren't they?  
 **Akane:** This is not an attack. What we launched just now is our hope.  
 **Kiyoka:** Inside those containers... Maybe... It's Mokusa's toji...  
 **Mirja:** We're out of time. I'll briefly go over the details of the operation.  
@@ -40,7 +36,7 @@ At the same time, in the Origami family Operations Control Room--
   
 **Maki:** What's going on?  
 **Operator:** ...We've picked up an unidentified flying unit. They're... Storm armor containers\!  
-**Suzuka:** Where are they landing\!?  
+**Suzuka:** Where are they landing\!\?  
 **Operator:** Here\! They're flying right here\!  
 **Maki:** What\!\! Is this what's left of Mokusa?  
 **Toji:** Take cover\! Take cover\!  
@@ -61,7 +57,7 @@ At the same time, in the Origami family Operations Control Room--
 **Sayaka:** That way is... The shrine?  
 **Kanami:** Then the great aradama has to be...  
 **???:** Found\~ youuu.  
-**Everyone:** ......\!?  
+**Everyone:** ......\!\?  
 **Yume:** --I made up my mind. I'm gonna have you play with me, Chidori onee-san\!  
 **Kanami:** \!\!  
 **Kanami:** Kh...\!  
@@ -72,7 +68,7 @@ At the same time, with Asakura Mihono's A team--
 **Mihono:** There was a huge boom from over there. That made me jump\!  
 **Chie:** They must have gotten started. Then we have to cause as much of a commotion as we can and draw the guard's attention to us.  
 **Mihono:** Yeah\! We have to go on a rampage to cover for Kanami and them\!  
-**Toji:** Who's there; what are you doing here\!?  
+**Toji:** Who's there; what are you doing here\!\?  
 
 ## 3: Distraction Operation (2)
 **Toji:** Guh...\!\!  
@@ -102,7 +98,7 @@ At the same time, with Kitora Mirja's B team.
 **Yui:** Why stop there? You can have everything, Kiyoka-chan; my heart, soul and body could all be yours\~.  
 **Kiyoka:** Ahaha...  
 **Mirja:** It appears Musumi Kiyoka has overcome some of her nervousness as well. Then, let's begin our operation.  
-**Toji B:** Where are the rebels\!?  
+**Toji B:** Where are the rebels\!\?  
 **Yui:** Oh crap\! Get down, get down\! C'mon, hurry, they'll see us\!  
 **Toji A:** What are you doing, they're this way\!  
 **Toji B:** I'll be right there\!  
@@ -119,7 +115,7 @@ At the same time, with Kitora Mirja's B team.
 **Mirja:** That's what I'd like to ask of you. I only hope you don't sail us upriver.  
 **Toji C:** Where's the enemy? I'll make sure anyone who turns on Yukari-sama gets dealt with\!  
 **Yui:** Oh, she's a sitting duck\! Now's my chance\!  
-**Toji C:** Wh-Who's there\!?  
+**Toji C:** Wh-Who's there\!\?  
 **Yui:** Who? Just the future love of your life, you cute little kitten you. I heard you were looking for me though; looking to ask me on a date?  
 **Yui:** If that's the case, all I can say is YES. Come here, let me give you a night you'll never forget\! You know you want it. Just throw yourself into my arms\!  
 **Toji C:** P-Pervert\! Everyone, there's a pervert here\! Get everyone you can together and get them over here as soon as possible\!\!  
@@ -190,7 +186,7 @@ At the same time, with Asakura Mihono's A team--
 **Mihono:** Ahaha.  
 
 ## 8: B Team (1)
-**Mai:** Aradama...\!? And there's so many of them\!  
+**Mai:** Aradama...\!\? And there's so many of them\!  
 **Kanami:** Hiyori-chan, these aradama...\!  
 **Hiyori:** Mm. The one behind them-- The third seat of the elite guard... Satsuki Yomi\!  
 **Yomi:** .........Now go... My aradama...  
@@ -245,9 +241,9 @@ At the same time, in the way of Juujou Hiyori and Etou Kanami, who were headed f
 **Maki:** Do what you like. But only if you can defeat us.  
 **Suzuka:** We were beaten quite handily last time, but that won't happen again.  
 **Suzuka:** It's meaningless to speak any further. This is a matter of kill or be killed.  
-**Kanami:** Those eyes...\!?  
+**Kanami:** Those eyes...\!\?  
 **Hiyori:** That sinister glow... So there's noro in your bodies after all\!  
-**Hiyori:** You'd become half an aradama yourself just to protect Origami Yukari\!?  
+**Hiyori:** You'd become half an aradama yourself just to protect Origami Yukari\!\?  
 **Maki:** Without the strength to back it up, justice is powerless-- There are things you can't protect without the power for it.  
 **Suzuka:** And there also a happiness brought about by being powerful.  
 **Maki:** If something can give me that power... I don't care at all if it comes from a god or a demon.  
@@ -286,9 +282,9 @@ At the same time, with Asakura Mihono's A team--
 **Maki:** Now, this is... Where it ends\!  
 **Hiyori:** You might be right. For my goal... If it'll let me win against you, I'll use everything I can.  
 **Hiyori:** Like this\!  
-**Maki:** You forcefully purged your S armor\!? But, that won't hit me\!  
+**Maki:** You forcefully purged your S armor\!\? But, that won't hit me\!  
 **Hiyori:** It doesn't have to. I just needed to throw off your posture for a second\!  
-**Maki:** You mean, that's what you were after from the start\!?  
+**Maki:** You mean, that's what you were after from the start\!\?  
 **Hiyori:** HAAAHHHHHHHHHH\!  
 **Maki:** Well... Done...  
 **Hiyori:** Pant, pant, pant, pant...  
@@ -300,8 +296,8 @@ At the same time, with Kitora Mirja's B Team--
 
   
 **Aradama:** KIIGYAAAAAAAA\!\!  
-**Kiyoka:** Aradama\!?  
-**Toji A:** W-What are they doing here\!? This place should be better defended against aradama than anywhere, so how did they...  
+**Kiyoka:** Aradama\!\?  
+**Toji A:** W-What are they doing here\!\? This place should be better defended against aradama than anywhere, so how did they...  
 **Toji B:** We can worry about that later. We need to focus on the enemy in front of us right now\!  
 **Yui:** Uwah, an unhappy surprise showed up-\! Why did aradama have to join in now of all times\!  
 **Mirja:** Thanks to their intervention, the guards are becoming further distracted. We can use this situation.  

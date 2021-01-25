@@ -1,13 +1,9 @@
 
 Battle Girls Party! Toji Raffle Festival
 ========================================
+https://www.youtube.com/watch?v=LHITNyK2J3c
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/LHITNyK2J3c" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Let's Think Up Entertainment
 **Ellen:** Kaoruuu, Chieee\!  
@@ -41,7 +37,7 @@ Battle Girls Party! Toji Raffle Festival
 **Mihono:** That's okay, I already went before the meeting\!  
 **Mihono:** But what I mean is, shouldn't we all introduce ourselves first? Hashi-san looks really lost.　  
 **Keiko:** (I might as well not be here... I have to get back to my monkey wrench and...)  
-**Keiko:** Wh-Why is everyone looking at me\!? D-Did you want me to come up with something\!?  
+**Keiko:** Wh-Why is everyone looking at me\!\? D-Did you want me to come up with something\!\?  
 **Chie:** Fufu, you're always watching out for others, Mihono-chan. Since we toji all know each other, we went straight into the meeting, didn't we?  
 **Ellen:** Nice thinking, Mihomiho\! Let's introduce ourselves\! I'm Kohagura Ellen, from Osafune Girls' Academy\!  
 **Keiko:** Ah... Hello, nice to meet you. I'm Hashi Keiko, taking preparatory courses in engineering at Ayanokouji Martial Arts School...  
@@ -105,7 +101,7 @@ Battle Girls Party! Toji Raffle Festival
 **Mai:** Eh? What was that, Kaoru-chan?  
 **Kaoru:** ...I want time off.  
 **Chie:** "Time off", there.  
-**Kaoru:** That'll work\!?  
+**Kaoru:** That'll work\!\?  
 **Chie:** It'll be more fun if there's all kinds of prizes in there. Feel free to come up with suggestions like Kaoru-san did, everyone.  
 **Ellen:** I'd like an all-you-can-eat dessert buffet\!  
 **Mihono:** Or what about a free pass for the cafeteria?  
@@ -116,7 +112,7 @@ Battle Girls Party! Toji Raffle Festival
 **Mai:** In my case... Why not an increase to club funding, or a chance to spend a day with the elite guard?  
 **Chie:** "Swordfight ticket", "Club funding", "Spend a day with the elite guard"...  
 **Ellen:** What about you, Hajihaji?  
-**Keiko:** Me\!?  
+**Keiko:** Me\!\?  
 **Ellen:** You don't have to think too hard about it. Just say whatever you want to do.  
 **Keiko:** What I want to do... Then, servicing the Storm Armor, but with my skills...  
 **Ellen:** Worrying about it won't get you anywhere, Hajihaji. If you do screw something up, you can use that experience next time. It's no problem.  
@@ -170,11 +166,11 @@ Battle Girls Party! Toji Raffle Festival
 **Keiko:** Ughh....  
 **Kanami:** Hashi-san, are you in there? Huh, the door's unlocked... I'm coming in.  
 **Keiko:** ...  
-**Kanami:** Oh, there you are... Hey, are you okay\!? You're as pale as a ghost\!?  
+**Kanami:** Oh, there you are... Hey, are you okay\!\? You're as pale as a ghost\!\?  
 **Keiko:** Why is Etou-san here...?  
 **Kanami:** I came because we were worried about you\!  
 **Keiko:** I made Etou-san and the others worry about me... My life is over...  
-**Kanami:** It's still going on though\!?  
+**Kanami:** It's still going on though\!\?  
 **Kanami:** Hold on, I have to message Ellen-chan real quick\!  
 **Kanami:** ...So basically, you wanted to do maintenance on Storm Armor so badly that it made you nervous, so you hardly slept in order to study servicing it?  
 **Keiko:** ...Yes. I can't fall asleep unless I've done some maintenance...  
@@ -185,7 +181,7 @@ Battle Girls Party! Toji Raffle Festival
 **Keiko:** That's not it...  
 **Kanami:** Anyway, you have to relax, Hashi-san. Maybe Setouchi-san will have some advice to help you?  
 **Keiko:** Even though I'm causing you so much trouble... Thank you so much. You must be goddess, Etou-san...  
-**Kanami:** I'm not though\!?  
+**Kanami:** I'm not though\!\?  
 **Ellen:** And that's how Kanamin became goddess\!  
 **Mihono:** Haha-\! Goddess Kanami-sama\!  
 **Kanami:** I said I'm not\!  
@@ -200,12 +196,12 @@ Battle Girls Party! Toji Raffle Festival
 **Nene:** Ne-\!  
 
 ## 4: Kaoru's Plan
-**Mihono:** Huh\!?  
+**Mihono:** Huh\!\?  
 **Kaoru:** What happened, Mihono? Did you forget something?  
 **Mihono:** I didn't, but... Uhh, right now, I was going over the orders for the amount of prizes, and...  
 **Nene:** Nene-?  
 **Mihono:** The order for the dresses... There's enough dresses for all of the students.  
-**Kaoru:** Huh\!? Oi\! Who's the one that ordered the dresses\!?  
+**Kaoru:** Huh\!\? Oi\! Who's the one that ordered the dresses\!\?  
 **Kaoru:** No, call up the supplier before anything...  
 **Mai:** Oh, that's not a mistake. Konohana-san placed the order for the dresses, so it's alright.  
 **Kaoru:** ...The elite guard are something else.  
@@ -245,7 +241,7 @@ Battle Girls Party! Toji Raffle Festival
 **Kanami:** In exchange, I'd be happy if you had a sparring session with me\!  
 **Kaoru:** Well, that's about what I expected. I don't really want to, but... If that's what it takes.  
 **Kanami:** Then, let's go right now\!  
-**Kaoru:** ...Huh? Are you serious\!?  
+**Kaoru:** ...Huh? Are you serious\!\?  
 **Kanami:** We have plenty spare time, so we can fight all we want, Kaoru-chan\!  
 **Ellen:** ...Kanamin loves a good fight after all\! Ooh, I thought up something good... Now I'm looking forward to the main event\!  
 
@@ -257,9 +253,9 @@ On the day of the End of the School Year Recognition Party--
 **Mai:** To start, as members of the executive committee, Setouchi-san, Hashi-san, and I will be overseeing the competition.  
 **Chie:** Sorry, Hashi-san, for making you do so much committee work.  
 **Keiko:** N-No, it's fine... I'll do what I can\!  
-**Mihono:** Alright\! Me and Kanami will... Wait, where's Kanami\!?  
+**Mihono:** Alright\! Me and Kanami will... Wait, where's Kanami\!\?  
 **Ellen:** Kanamin went running off as soon as it started.  
-**Mihono:** Uwaaah\! Where'd you go, Kanami-\!?  
+**Mihono:** Uwaaah\! Where'd you go, Kanami-\!\?  
 **Kaoru:** Guess I should get going too. Let's show 'em what we've got, Nene.  
 **Nene:** Ne-\!  
 **Ellen:** Whoa there, hold on a moment, Kaoru\!  
@@ -273,7 +269,7 @@ On the day of the End of the School Year Recognition Party--
 **Kaoru:** Why should I fight you\! We don't get anything out of fighting other committee members\!  
 **Ellen:** Kanamin's request for you gave me an idea...  
 **Ellen:** A fight between best friends, with the raffle tickets on the line... Doesn't it get you fired up\!  
-**Kaoru:** That's your reason\!?  
+**Kaoru:** That's your reason\!\?  
 **Ellen:** That's all the reason I need\!  
 **Ellen:** And of course, if you don't fight me, forget about me giving you that time off\!  
 **Kaoru:** That's playing dirty\!  
@@ -287,12 +283,12 @@ On the day of the End of the School Year Recognition Party--
 **Kaoru:** Now... We're done here\!  
 **Ellen:** ...\!  
 **Toji A:** You're wide open\! HAAAAAAH\!\!  
-**Kaoru:** A sneak attack\!?  
+**Kaoru:** A sneak attack\!\?  
 **Toji B:** You better be ready, Kohagura Ellen\!  
 **Ellen:** There's one after me too\! Kaoru, let's have a ceasefire while we beat them\!  
 **Kaoru:** Yeah, after we deal with you two, we can finish what we started\!  
 **Kaoru:** Just kidding.  
-**Ellen:** Huh\!? Kaoru-? Where'd you go, Kaoru... Wah\!?  
+**Ellen:** Huh\!\? Kaoru-? Where'd you go, Kaoru... Wah\!\?  
 **Kaoru:** I saw my chance and took it. Those two should be able to keep Ellen busy for a while.  
 **Nene:** Ne-?  
 **Kaoru:** Don't worry about her. I've seriously gotta make up for lost time now.  
@@ -357,7 +353,7 @@ On the day of the End of the School Year Recognition Party--
 **Sana:** Good, eat up then. Tomorrow, you've got work to do in Kyushu.  
 **Kaoru:** Huh?  
 **Ellen:** There you go again, Kaoru\! You're so loved by your job\!  
-**Kaoru:** Is that supposed to make me feel better-\!? Bring me another plate-\!  
+**Kaoru:** Is that supposed to make me feel better-\!\? Bring me another plate-\!  
 **Kanami:** Ah, I can go get that.  
 **Kaoru:** Great, thanks.  
 **Keiko:** ...Um, did your raffle not go well?  

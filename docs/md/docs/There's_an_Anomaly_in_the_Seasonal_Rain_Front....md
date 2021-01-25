@@ -1,13 +1,9 @@
 
 There's an Anomaly in the Seasonal Rain Front...
 ================================================
+https://www.youtube.com/watch?v=Ko4ihFi6A2U
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/Ko4ihFi6A2U" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: A Picnic for Two\!
 **Weatherman:** --The seasonal rain front has been hanging over Japan, but if it continues rising north like this... We expect the rainy season to have cleared up by this weekend.  
@@ -16,7 +12,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Kanami:** Mai-chan, what are you watching on TV?  
 **Mai:** Oh, Kanami-chan.  
 **Mai:** It's just the weather report. They say the rainy season will clear up this weekend.  
-**Kanami:** Really\!? It feels like it's been raining forever; that's great news.  
+**Kanami:** Really\!\? It feels like it's been raining forever; that's great news.  
 **Kanami:** It's not like I don't like rain, but sometimes you just want to go outside and exercise, don't you?  
 **Mai:** Sure\!  
 **Mai:** ...You know, it's been a while since we had a chance to talk with just the two of us, hasn't it?  
@@ -41,8 +37,8 @@ There's an Anomaly in the Seasonal Rain Front...
 
   
 **Weatherman:** --In what would normally be an unthinkable weather pattern, it seems the rainy season will be continuing over this particular area for a while longer.  
-**Mai:** Eh\!?  
-**Mai:** (The rainy season cleared up everywhere besides the spot we were planning to go picnicking at\!?)  
+**Mai:** Eh\!\?  
+**Mai:** (The rainy season cleared up everywhere besides the spot we were planning to go picnicking at\!\?)  
 **Hiyori:** Look at that... The rain front's a total V shape. It's like it got stuck on something there.  
 **Kofuki:** Is it cause of the air pressure or something?  
 **Mai:** ...Sigh.  
@@ -52,7 +48,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Hiyori:** They messaged me too. And...  
 **Mai:** ...Oh, that's right, me too.  
 **Mai:** Let's see, the members are... Myself, Kanami-chan, Hiyori-chan, Shichinosato-san, and Yui-chan. The five of us will be going... Eh?  
-**Mai:** There\!?  
+**Mai:** There\!\?  
 **Mai:** (I never thought we would be coming here like this...)  
 **Kofuki:** GOTCHAAAA\!\!  
 **Yui:** Nice going, Kofuki-san\!  
@@ -94,7 +90,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Yui:** This isn't muggy at all\! Actually, it's pretty cold after the rain...  
 **Yui:** I just made a sound unbecoming of a maiden\! [her stomach growled]  
 **Hiyori:** Who are you calling a maiden.  
-**Yui:** No matter how you look at me, I'm a maiden, aren't I\!? Anywayyy, my heart might be full, but my stomach right now...  
+**Yui:** No matter how you look at me, I'm a maiden, aren't I\!\? Anywayyy, my heart might be full, but my stomach right now...  
 **Mai:** I did bring a bento box with me... Would you like to have some?  
 **Yui:** I'd eat it even if it were poison\!  
 **Kanami:** Then we should eat now, whil the rain's stopped\!  
@@ -102,7 +98,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Hiyori:** Hmm, it's simple, yet carefully made. Let's see... Mm, this is good.  
 **Kofuki:** This karaage's seriously the best\! This onigiri too...  
 **Mai:** Oh, that has...  
-**Kofuki:** Natto\!? Who puts natto in onigiri; that's just weird.  
+**Kofuki:** Natto\!\? Who puts natto in onigiri; that's just weird.  
 **Kofuki:** ...Hey, but it's still good. There's plums, and sardine, and, what else did you mix in here?  
 **Mai:** I used natto and plums as the base. After that, I would make some slight changes to add variety.  
 **Hiyori:** I can tell you really challenged yourself with these onigiri, Mai. But, the sardines give it an interesting texture. It goes well together.  
@@ -134,7 +130,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Yui:** Exactly, which means, Mai-chan must have had plans to go on a date with someone today\!  
 **Kanami:** Ohh-\! That's amazing, Yui-chan\! You almost figured it out\!  
 **Hiyori:** (Wait, why did Kanami answer?)  
-**Yui:** Was it with Sayaka-chan\!? Were you going on a date with Sayaka-chan\!?  
+**Yui:** Was it with Sayaka-chan\!\? Were you going on a date with Sayaka-chan\!\?  
 **Kofuki:** Get ahold of yourself. If she were going on a date with Sayaka, there would've been a bunch of cookies in the bento box, right?  
 **Yui:** ...Ah-\! You're right\!\!  
 **Mai:** Umm, I do have cookies here...  
@@ -167,7 +163,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Kanami:** The time we stopped here, back when we had just become toji, on our way back from a mission. This place is important to us.  
 **Mai:** Me too... I would never forget.  
 **Mai:** To tell the truth, I was thinking of coming here for our picnic.  
-**Kanami:** You were\!?  
+**Kanami:** You were\!\?  
 **Mai:** That's why, it was kind of depressing. This was the only place the rain didn't clear up... And then we were called on to suppress aradama.  
 **Kanami:** Mai-chan...  
 **Mai:** Even so... Getting to talk with you like this now... I'm a little glad.  
@@ -182,7 +178,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Mai:** A rainbow...  
 **Yui:** I never noticed this place was so beautiful.  
 **Kofuki:** That's a weirdly decent comment from you. Did Mai's bento fix you?  
-**Yui:** What if... It's purifying me from inside out\!?  
+**Yui:** What if... It's purifying me from inside out\!\?  
 **Hiyori:** ...I'm sure if we had eaten Mai's bento while looking out on this, it would have tasted even better.  
 **Kanami/Mai:** ...Pfft. Ahaha\!  
 **Hiyori:** What's with the two of you?  

@@ -58,16 +58,16 @@ Several days later--
 **Mihono:** ......Itsh hot\!  
 **Tsugumi:** Please take your time with it.  
 **Mihono:** Yeh... [blow- blow-]  
-**Yui:** Augh\!?  
-**Mihono:** Ah--\!?  
-**Mihono:** Yui\!? What happened; are you alright\!?  
+**Yui:** Augh\!\?  
+**Mihono:** Ah--\!\?  
+**Mihono:** Yui\!\? What happened; are you alright\!\?  
 **Yui:** I'm fine, Mihono-chan. I just took a little hit from an aradama is all\!  
 **Mihono:** ...Be careful, okay?  
 **Yui:** Sure\!  
 **Mihono:** (Everybody's working so hard... and I'm the only one not doing anything.)  
 **Mihono:** (If I were there, I could fight with Kiyoka and Yui, and back up Fukki, and then Chii-nee and Mirja-san...\!)  
-**Mihono:** Ughh\!?  
-**Tsugumi:** Asakura-san\!?  
+**Mihono:** Ughh\!\?  
+**Tsugumi:** Asakura-san\!\?  
 **Tsugumi:** Please try to calm down\! If you lose control here...\!  
 **Mihono:** It's okay... I don't want to get locked up either... This, isn't that bad...  
 **Mihono:** [pant... pant...]  
@@ -88,8 +88,8 @@ Several days later--
 **Yuuki:** Alright\!  
 **Akira:** This'll be the first time we put these in action\! Get it in gear\! We're gonna kick some ass\!  
 **Tsugumi:** We've put an aid request through to the Sword Administration Bureau. A nearby unit should be on its way.  
-**Mirja:** Did you hear that\!? Just hold out a little longer\!  
-**Kofuki:** Huhh\!? These're MY aradama-chan though\!?  
+**Mirja:** Did you hear that\!\? Just hold out a little longer\!  
+**Kofuki:** Huhh\!\? These're MY aradama-chan though\!\?  
 **Chie:** We didn't expect there to be this many aradama, or that they'd be so strong. Now's not the time to go pushing ourselves, alright?  
 **Kiyoka:** She's right, Kofuki-san.  
 **Kofuki:** Then before they get here, I'm gonna have my fill of the fun\!  
@@ -98,7 +98,7 @@ Several days later--
 **Kofuki:** ......Huh? What's their deal?  
 **Mirja:** That armor looking... Though, it's different from storm armor...  
 **Yui:** More importantly, isn't that...  
-**Mihono:** Did something happen\!?  
+**Mihono:** Did something happen\!\?  
 **???:** That voice... That you, Mihono?  
 **Mihono:** ...Are you there, Akira-san?  
 **Akira:** Huh, so you weren't here yourself. ...Guess that's why they're struggling with these aradama.  
@@ -108,10 +108,10 @@ Several days later--
 **Akira:** Yeah. This's tamayori. Cool as hell, right?  
 **Mihono:** ...Eh? Why did... you become a tamayori toji... Akira-san...?  
 **Yuuki:** I became a tamayori toji too, Mihono-san.  
-**Mihono:** Yuuki too\!?  
-**Mihono:** Did Hitakami-san force you to be test subjects instead of me\!?  
+**Mihono:** Yuuki too\!\?  
+**Mihono:** Did Hitakami-san force you to be test subjects instead of me\!\?  
 **Akira:** Don't think so low of us\!  
-**Mihono:** --\!?  
+**Mihono:** --\!\?  
 **Akira:** This's just what we wanted to happen.  
 **Akira:** And you're asking if we got forced into it because of you?  
 **Akira:** You think this is a joke or something, Mihono?  
@@ -126,9 +126,9 @@ Several days later--
 **Kiyoka:** She beat that many aradama in the blink of an eye...  
 **Akira:** Heh, nothing to it. Yuuki\! I'm leaving those ones to you\!  
 **Yuuki:** ......  
-**Mirja:** What's wrong\!? If you're having any trouble, we can assist...  
+**Mirja:** What's wrong\!\? If you're having any trouble, we can assist...  
 **Yuuki:** I won't need it\!  
-**Mirja:** --\!?  
+**Mirja:** --\!\?  
 **Akira:** Oi, oi, Yuuki\! You're makin' the crowd worried cause you're spacing out\!  
 **Yuuki:** I wasn't spacing out\!  
 **Yuuki:** It's a hassle fighting them one by one, so I was only waiting for them to bunch up\!  
@@ -241,7 +241,7 @@ Several days later--
 **Makoto:** Akira-chan.  
 **Akira:** Huh? What's up, Makocchan.  
 **Makoto:** It's about Yuuki-chan...  
-**Akira:** --\!? Did something happen with Yuuki\!?  
+**Akira:** --\!\? Did something happen with Yuuki\!\?  
 **Makoto:** She's caught a cold.  
 **Akira:** ...Huh?  
 **Yuuki:** [cough cough]... I was careless and let myself get sick...  
@@ -267,7 +267,7 @@ Several days later--
 **Yomi:** ...  
 **Hitakami Toji B:** You're... Satsuki Yomi\! Why are you trespassing here\!\!  
 **Yomi:** ...I've only come to meet with a friend.  
-**Hitakami Toji B:** A friend\!?  
+**Hitakami Toji B:** A friend\!\?  
 **Yomi:** Please let me see Inago Akira.  
 **Akira:** I was wondering what was going on; it's you, huh.  
 **Yomi:** Akira.  
@@ -309,14 +309,14 @@ Several days later--
 **Ellen:** Yes, Grandpa\! Come help too, Kaoru\!  
 **Kaoru:** Do I have to... What do you want me to carry?  
 **Friedman:** Thanks, the both of you. Here, you can take this.  
-**Kaoru:** ...So heavy\! What's with the amount of papers in here\!?  
+**Kaoru:** ...So heavy\! What's with the amount of papers in here\!\?  
 **Ellen:** These are... Documents on myouga toji?  
 **Tsugumi:** Yes. We prepared them for an investigation of tamayori toji.  
 **Kaoru:** Is that what you were up to?  
 **Friedman:** This is what I had originally put together for my interview with Hitakami Makoto-kun.  
 **Friedman:** Though she turned me down.  
 **Yui:** M-Make way please-\! I've got some more documents-\!  
-**Kaoru:** Whoa\!? There's still more\!?  
+**Kaoru:** Whoa\!\? There's still more\!\?  
 **Chie:** This is all data on tamayori toji. Some of it is what Makoto published, but some of it was gathered independently.  
 **Ellen:** Independently...?  
 **Mirja:** It seems to be data that Origami Yukari-sama had independently collected.  
@@ -330,7 +330,7 @@ Several days later--
 **Friedman:** This is only talking about the capabilities, but the problem is, what kind of effects does it have on the body?  
 **Friedman:** And about that... She phrased it very deliberately. It has "practically" no effects on a toji.  
 **Tsugumi:** Not all that much time has passed since they began using tamayori toji, but side-effects seem to already be showing.  
-**Mihono:** Huh\!?  
+**Mihono:** Huh\!\?  
 **Tsugumi:** So far, it's confirmed to have had an effect on their physical condition.  
 **Friedman:** It doesn't look to have any effects on the mind like with myouga toji, but it's started having an influence elsewhere.  
 **Friedman:** Though the impact only seems minor so far.  
@@ -382,7 +382,7 @@ Several days later--
 **Mihono:** Did Hitakami-san order you to do this...?  
 **Yui:** Boss said they wouldn't be coming after Mihono-chan anymore though?  
 **???:** ...There's still a use for you.  
-**Kiyoka:** A use for her... Is that all Hono-chan is to you\!?  
+**Kiyoka:** A use for her... Is that all Hono-chan is to you\!\?  
 **Yui:** ...Take it easy, Kiyoka-chan. For starters, what do you mean, there's a use for her?  
 **Yui:** Does that mean Mihono-chan's going to keep being targeted in the future?  
 **???:** To get Kanayamahime... we're willing to do anything it takes.  
@@ -408,22 +408,22 @@ Several days later--
 **???:** It's pointless.  
 **Mihono:** I'm going to call Mirja-san.  
 **Mirja:** This is Kitora Mirja.  
-**Mihono:** Mirja-san, are you there\!? It's Chii-nee, they got Chii-nee\!  
+**Mihono:** Mirja-san, are you there\!\? It's Chii-nee, they got Chii-nee\!  
 **Mirja:** ...What do you mean? Calm down and explain everything to me, Asakura Mihono.  
 **Mihono:** Uhh, we got attacked by somebody who seems to be working for Hitakami-san, and they said they took Chii-nee captive\!  
 **Mirja:** The Hitakami faction is attacking you...?  
 **Mirja:** I understand; I'll try contacting Setouchi Chie from here as well...  
 **Mirja:** ............  
 **Mirja:** You're right; I can't reach her.  
-**Mihono:** What should we do\!?  
+**Mihono:** What should we do\!\?  
 **Mirja:** You need to calm down.  
 **Mirja:** Including Setouchi Chie, the toji who went to speak with Hitakami Makoto are all highly capable. They wouldn't be taken captive by the Hitakami faction so easily.  
 **Mirja:** Above all, it would be wise to consider that this could be a trap. First, we need to question this Hitakami toji who attacked you...  
 **Mihono:** I don't care if it's a trap\!  
-**Mihono:** The Hitakamis have tamayori toji... There's Akira-san and Yuuki there, right\!?  
+**Mihono:** The Hitakamis have tamayori toji... There's Akira-san and Yuuki there, right\!\?  
 **Mihono:** If they had to protect Friedman-san, then even Chii-nee and them could've...  
 **Mirja:** Before anything, we need to contact Setouchi Chie and the others. Even if we can't reach them by phone, there are other ways to...  
-**Mihono:** What are you going to do if it's too late\!?  
+**Mihono:** What are you going to do if it's too late\!\?  
 **Mirja:** ...Please calm down. The next time you lose control, you are going to lose your freedom.  
 **Mihono:** I know that, but I can't help it\!\! If I don't go save Chii-nee right now... I know I'll regret it for the rest of my life\!\!  
 **Mirja:** Asakura Mihono...  
@@ -499,10 +499,10 @@ Several days later--
 **Ellen:** I'd like it if aradama and humans could coexist, but this isn't what that should look like.  
 **Ellen:** If it can't make everyone happier, there's no point to it\!  
 **Chie:** Ellen-san...  
-**Chie:** --\!? Is that an alarm\!?  
+**Chie:** --\!\? Is that an alarm\!\?  
 
 ## 13: Chie and Makoto (2)
-**Mihono:** Chii-nee\! Where are you\!? Say something\! Chii-nee\!\!  
+**Mihono:** Chii-nee\! Where are you\!\? Say something\! Chii-nee\!\!  
 **Akira:** I was wondering what all the noise was about; it's you guys.  
 **Mihono:** Akira-san\! Please give me back Chii-nee\!  
 **Akira:** Give her back? What're you talking about, Mihono? They're free to leave whenever they're done with their inspection.  
@@ -514,7 +514,7 @@ Several days later--
 **Kiyoka:** I'm not sure, but... this all feels weird, doesn't it?  
 **???:** Don't let Asakura Mihono get away\!  
 **Akira:** ...Figures.  
-**Akira:** What the hell are you going off starting on your own\!?  
+**Akira:** What the hell are you going off starting on your own\!\?  
 **???:** Asakura Mihono is the one who came to attack us.  
 **Akira:** Cause you went and baited her, right? Or... Not you, but the group of heads backing you.  
 **Hitakami Faction Head Group Toji:** ...We followed our own judgment. If you're going to get between us... We won't have a choice.  
@@ -526,7 +526,7 @@ Several days later--
 **Akira:** Get the fuck out of here\! Nobody besides me and Yuuki can get the noro off of them\!  
 **Tamayori Toji:** I'm prepared for whatever comes. Regardless, I believe this is what's necessary for the future of toji.  
 **Akira:** You goddamn idiots\! Mihono\!  
-**Mihono:** Y-Yeah\!?  
+**Mihono:** Y-Yeah\!\?  
 **Akira:** I'm backing you up\!  
 **Akira:** I'm gonna smash their faces in, till they never think of doing something this stupid again\!  
 
@@ -536,37 +536,37 @@ Several days later--
 **Kiyoka:** Hono-chan, stay behind me\!  
 **Mihono:** O-Okay\!  
 **Mirja:** ...A tamayori toji with their consciousness intact is that much more troublesome than the one we faced before.  
-**Kofuki:** It's not like we can ignore the other ones either; what do we do, Mirja\!?  
+**Kofuki:** It's not like we can ignore the other ones either; what do we do, Mirja\!\?  
 **Mirja:** Do not fight the tamayori toji head on\! Move to create an opening\!  
 **Yui:** That's easy to say, but, like this...\!  
 **Hitakami Faction Head Group Toji:** YAAAAAH\!  
-**Yui:** Uwah\!?  
+**Yui:** Uwah\!\?  
 **Akira:** Don't you touch Yui, asshole\!  
 **Hitakami Faction Head Group Toji:** Urgh...  
-**Akira:** You alright, Yui\!?  
+**Akira:** You alright, Yui\!\?  
 **Yui:** Th-Thanks a lot, Boss\!  
-**Yui:** Or, wait, Boss\! Can't you become a tamayori toji too\!? Wouldn't that make this way easier\!  
+**Yui:** Or, wait, Boss\! Can't you become a tamayori toji too\!\? Wouldn't that make this way easier\!  
 **Akira:** No can do\! I haven't got noro on me now\!  
 **Mihono:** (Everybody's struggling... If I had some way to use Kanayamahime's power without going berserk...)  
-**Mihono:** ...Rrgh\!?  
-**Kiyoka:** Hono-chan\!?  
+**Mihono:** ...Rrgh\!\?  
+**Kiyoka:** Hono-chan\!\?  
 **Mihono:** But, ghh...  
-**Akira:** Is she losing control\!? You can't, Mihono\! You've gotta...\!  
+**Akira:** Is she losing control\!\? You can't, Mihono\! You've gotta...\!  
 **Mihono:** AAAAAAAARRRGGGHHHHHH\!\!  
-**Chie:** Everyone\! ...Mihono-chan\!?  
+**Chie:** Everyone\! ...Mihono-chan\!\?  
 **Mihono:** ......  
-**Chie:** No... Mihono-chan\! Hey, can you hear me\!?  
+**Chie:** No... Mihono-chan\! Hey, can you hear me\!\?  
 **Ellen:** ...Chie.  
 **Ellen:** ...We have to stop Mihomiho's from rampaging before we can do anything.  
 **Ellen:** Kaoru told me all she had to do was cut through her utsushi...  
 **Akira:** That's right...  
 **Hitakami Faction Head Group Toji:** We did it\! We actually did it\! Now, we can...  
-**Akira:** You think this is the time for that\!?  
+**Akira:** You think this is the time for that\!\?  
 **Hitakami Faction Head Group Toji:** Ugh...  
 **Makoto:** Akira-chan\!  
 **Akira:** ...I'm sorry. I couldn't stop things from going to shit.  
 **Makoto:** ...It's not your fault.  
-**Chie:** Makoto\! Is this what you wanted\!?  
+**Chie:** Makoto\! Is this what you wanted\!\?  
 **Makoto:** ...Right now, we need to take care of Asakura-san...  
 **Chie:** I don't need you to tell me that...\! I'll be the one to bring Mihono-chan back\!  
 
@@ -595,13 +595,13 @@ Several days later--
 **Suzuka:** The Special Defense Team will be taking custody of Asakura-san. Is that clear?  
 **Other:** A Request  
 **Akane:** I'm sorry to call you here on such short notice.  
-**Kanami:** That doesn't matter; is it true Mihono-chan went berserk\!?  
+**Kanami:** That doesn't matter; is it true Mihono-chan went berserk\!\?  
 **Akane:** ...It's the truth.  
 **Hiyori:** Did Kanayamahime wake up?  
 **Akane:** ...Not yet.  
 **Kanami:** What made all this happen...  
 **Akane:** The heads of the Hitakami faction acted out of control.  
-**Hiyori:** Their faction's infighting now...\!? Don't drag Mihono into something so stupid...\!  
+**Hiyori:** Their faction's infighting now...\!\? Don't drag Mihono into something so stupid...\!  
 **Akane:** ...  
 **Akane:** Asakura-san will be placed in confinement at a Ministry of Defense facility. And, that's where... I have a request to make of you.  
 **Kanami/Hiyori:** A request?  

@@ -28,13 +28,13 @@ Several days after realizing this world was a dream...
 **Honoka:** If you could use magic, what sort of things would you like to do, Yume-chan?  
 **Yume:** Let me see... Maybe fly in the sky? That'd be fun for sure, and it'd probably feel good to fly wherever you want\!  
 **Miyuki:** Flight magic, then. In our world, provided you have enough magic power, we've shown that's a technique many magicians are capable of using.  
-**Yume:** You've flown in the sky before\!?  
+**Yume:** You've flown in the sky before\!\?  
 **Miyuki:** I have. My first experience with it was highly enjoyable, and I felt proud to be a part of it.  
 **Yume:** That's so cool-\! I want to fly too\!  
 **Mihono:** That's awesome\! So you really can fly around in the sky-.  
 **Yume:** Since it's a dream, if you jumped down from one of the school windows or somewhere up high, maybe you'd start flying-?  
 **Yume:** So long as you decide that your ideal self should be able to fly around\!  
-**Mihono/Kanami:** Ah-\!?  
+**Mihono/Kanami:** Ah-\!\?  
 **Maki:** I was wondering what all the excitement was about... Yume... You can't know that for sure, so give it up.  
 **Maki:** And, Asakura and Etou. Could you not look at her like she just came up with something genius?  
 **Mihono/Kanami:** Ahaha...  
@@ -56,7 +56,7 @@ Several days after realizing this world was a dream...
 **Suzuka:** Yes. It's likely just as Shiba-san says; it's unlikely anything can happen that strays too far from our common sense of the world.  
 **Maki:** That's how it is, Yume. You'll just have to live with it.  
 **Yume:** Grr--\! Fine then\! I'm not going to ask you onee-sans what to do anymore\!  
-**Kanami:** Ah... Yume-chan\!?  
+**Kanami:** Ah... Yume-chan\!\?  
 **Maki:** Wait... Yume\!  
 
 ## 2: Chasing Yume		[Like in the event's title, Yume isn't written in kanji here, so it could mean both Yume and dreams]
@@ -103,7 +103,7 @@ Several days after realizing this world was a dream...
 **Angelina:** I suppose... All we can do now is ask around.  
 
 ## 3: I Hope Today's Memories Remain
-**Maki:** Was Yume there\!?  
+**Maki:** Was Yume there\!\?  
 **Kanami:** Ah, Shidou-san\!  
 **Kanami:** From what witnesses said, it looks like Yume-chan was at a souvenir shop around here.  
 **Mihono:** But, with this many people around... We can't find her\!  
@@ -133,14 +133,14 @@ Several days after realizing this world was a dream...
 **Maki:** I think you'll definitely find this interesting. Let's go.  
 **Yume:** Onee-sans, why'd you all come out here for? It doesn't look we're here to swim, and it's a little early, isn't it?  
 **Mayumi:** The truth is... Starting now, we're going to put on a quick show of how great magic is for you, Tsubakuro-san\!  
-**Yume:** You mean it-\!?  
+**Yume:** You mean it-\!\?  
 **Miyuki:** Yes. Now then, Saegusa-senpai. Let's get started.  
 **Yume:** Yume: That's a really big round ball of... ice?  
 **Mihono:** That's crazy\! I bet you could make shaved ice for hundreds of people with all that\!  
 **Mayumi:** Now it's time for me to show my strengths. --Here goes\!  
 **Mayumi:** I'll need your help too, Miyuki-san. I'm depending on you.  
 **Miyuki:** Please count on me. --YAA\!  
-**Yume:** Now they're chipping away at the big ice with little ice\!? Hey, what're you making?  
+**Yume:** Now they're chipping away at the big ice with little ice\!\? Hey, what're you making?  
 **Angelina:** You'll just have to wait and see, Yume.  
 **Yume:** Whoaa-\!  
 **Shizuku:** Now for the finishing touch. Honoka, you're up.  
@@ -170,7 +170,7 @@ Several days after realizing this world was a dream...
 **Yui:** Go on; everybody bunch up in front of the ice sculpture-. Honoka-san, if I could get you to move a little too please-. I want to capture you in all your glory-\!  
 **Honoka:** Okay, I got it.  
 **Yui:** If you could get up against the other girls... Just squeeeze yourself right up against them\!  
-**Honoka:** Ehhhhhh\!? S-Squeeze against them\!?  
+**Honoka:** Ehhhhhh\!\? S-Squeeze against them\!\?  
 **Mirja:** Feel free to disregard her comment just now.  
 **Maki:** Isn't this great, Yume.  
 **Yume:** Yeah\! Thanks, all you onee-sans\!  
@@ -203,7 +203,7 @@ The next day.
 **Erika:** Then... I'll give it a shot. I'm the one who didn't turn you down, after all.  
 **Erika:** ...There's a whole lot of aradama, aren't there.  
 **Suzuka:** Today's reports are on the light side. There are plenty of times we get more than double this.  
-**Erika:** More than double\!?  
+**Erika:** More than double\!\?  
 **Erika:** You're almost the same age as me, and Mihono and them are even younger... It must be rough.  
 **Suzuka:** You don't need to feel pity for us. We chose this for ourselves.  
 **Erika:** You did, huh.  
@@ -225,7 +225,7 @@ https://streamable.com/is4tkp
 **Suzuka:** Then, let's get going.  
 **Aradama:** OOOOOOOOOOOOOOO\!\!  
 **Erika:** HAAH\!  
-**Aradama:** GUGYAA\!?  
+**Aradama:** GUGYAA\!\?  
 **Erika:** Suzuka\!  
 **Suzuka:** Right\!  
 **Aradama:** Oooooo...  
@@ -242,7 +242,7 @@ https://streamable.com/is4tkp
 **Suzuka:** Your tenacity with a sword... I simply thought you could make a fine toji, Chiba-san.  
 **Erika:** ...  
 **Erika:** Thanks, Suzuka\!  
-**Suzuka:** KYAA\!?  
+**Suzuka:** KYAA\!\?  
 **Suzuka:** P-Please don't grab onto of me out of the blue like that\!  
 **Erika:** Sorry, sorry\! But, that made me happy.  
 **Suzuka:** Sigh, you're a hopeless person, aren't you.  

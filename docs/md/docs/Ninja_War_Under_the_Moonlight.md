@@ -1,13 +1,9 @@
 
 Ninja War Under the Moonlight
 =============================
+https://www.youtube.com/watch?v=55feUw3Eyvw
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/55feUw3Eyvw" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: Ninja War Outbreak: Steal the Secret Letter
 **Hamatsuka Sakura:** M-M-M-Makizou-sama, Suzusuke-sama, s-something terrible... Something terrible has happened\!\!  
@@ -37,7 +33,7 @@ Meanwhile, on the other side--
 **Kiyoka:** Within this mansion, there lies a certain secret message. We need to steal it and escape the village.  
 **Kofuki:** Right, great... So what the hell is "a certain secret message"? What "village"?  
 **Kiyoka:** The secret message is a secret message. The village is a village. Please don't try to poke holes in the setting.  
-**Kofuki:** Poke holes\!? Between the secret message and the village, there's more holes than setting\!  
+**Kofuki:** Poke holes\!\? Between the secret message and the village, there's more holes than setting\!  
 **Kofuki:** I guess it doesn't matter... I just have to play along. Let's hurry and get this over with\!  
 Once again, on the other side--
 
@@ -63,7 +59,7 @@ Once again, on the other side--
 **Akane:** Ninja Art: Deadlift Technique\!\!  
 **Maki:** I can see right through it\!  
 **Maki:** HNPH-\!\!  
-**Akane:** Gahhh\! So... Heavy... How can one strike be that heavy\!?  
+**Akane:** Gahhh\! So... Heavy... How can one strike be that heavy\!\?  
 **Maki:** Oh...? You were able to block that? Though if you don't put your hips into it, you'll be split in two.  
 **Akane:** Easy for you to say, but I'm overworked here...\!  
 **Akane:** For me to get overpowered like this... No way... You're so tough... What routine did you do to get like this?  
@@ -74,7 +70,7 @@ Once again, on the other side--
 **Akane:** That's all...\! Your routine's insane...\!  
 **Suzuka:** If she's off duty that day, she'll do it all twice...  
 **Suzuka:** Or at least, that's the character she's playing.  
-**Akane:** Character\!? I thought you were serious, you got me\~\!  
+**Akane:** Character\!\? I thought you were serious, you got me\~\!  
 **Maki:** Don't break character, Suzuka. You ruined such a perfect mood\!  
 **Suzuka:** It could cause trouble if she actually believed you. Not to mention, I didn't think you'd get so carried away...  
 **Maki:** Anyway, with the rigorous training I go through every day, my strength has no equal\!  
@@ -99,7 +95,7 @@ Once again, on the other side--
 **Kiyoka:** I see why they call this the impregnable ninja mansion of the Origami ninja. We'll have to move cautiously through here.  
 **Kiyoka:** Of course there's hidden pitfalls... But then there's this kind of trap and that kind of trap. Not to mention, I didn't even think they could prepare a trap like that one\! Very impressive.  
 **Kofuki:** This kind of trap and that kind of trap? What kind of trap?  
-**Kiyoka:** Y-You know... An amazing trap that would make you shout "AHH\!" if you sprung it...  
+**Kiyoka:** Y-You know... An amazing trap that would make you shout "AHH\!\" if you sprung it...  
 **Kofuki:** I hate to rain on your parade, but there's no traps anywhere in here, you know?  
 **Kiyoka:** Well\~, what about a falling ceiling or a flooding room... It's more fun to pretend those kind of traps are there\!  
 **Kofuki:** ...You're surprisingly into this stuff, huh, Kiyoka. Well, at least someone's having fun with it.  
@@ -116,7 +112,7 @@ Once again, on the other side--
 **Kofuki:** Considering the circumstances, huh... But before that, we've got guests.  
 **Kiyoka:** Guests?  
 **Aradama:** KIKIKIGIGIGIGIGIGI...  
-**Kiyoka:** Aradama\!? No way, why\!?  
+**Kiyoka:** Aradama\!\? No way, why\!\?  
 **Kofuki:** Who cares why? They showed up at the best possible time\!  
 **Kofuki:** I was about to die from boredom\! I love you\! My aradama-chan\!  
 **Kofuki:** Mmmm\~ I feel great\! Aradama-chan's the best after all\!  
@@ -127,7 +123,7 @@ Once again, on the other side--
 **Kiyoka:** .........\! Ah, that's right\!  
 **Kofuki:** Don't give me that. Just how carried away with this game are you gonna get? And anyway, about those aradama.  
 **Kofuki:** They didn't come from the other team. They must have just showed up on their own.  
-**Kiyoka:** They did\!?  
+**Kiyoka:** They did\!\?  
 **Kofuki:** No matter how bad they want to win, nobody's gonna use aradama for this dumbass make believe exercise\!  
 **Kofuki:** .........They wouldn't, right?  
 
@@ -136,7 +132,7 @@ Once again, on the other side--
 **Kofuki:** It was surprisingly easy finding this place.  
 **Suzuka:** Fufufufufu... Of course it was.  
 **Suzuka:** After all, we wanted to guide you here.  
-**Kiyoka:** The Origami ninja, they found us\!?  
+**Kiyoka:** The Origami ninja, they found us\!\?  
 **Maki:** Suspecting nothing, you happily wandered right into our ambush.  
 **Maki:** There's nowhere left to run or hide. At last you realize, you're nothing but trapped rats.  
 **Kofuki:** Trapped rats, or wolves in sheep's clothing? Doesn't matter. Either way, we're gonna lay you flat here.  
@@ -152,7 +148,7 @@ Once again, on the other side--
 **Sakura:** Ah, owwwww... I fell over, I think I cracked my butt...  
 **Maki:** It was cracked from the beginning\! Hurry\! Escape\! Protect the secret letter\!  
 **Sakura:** I'm sorry... B-But it hurts... Ughh, I can't stand up...  
-**Maki:** Absolutely pathetic... You call yourself an Origami ninja\!?  
+**Maki:** Absolutely pathetic... You call yourself an Origami ninja\!\?  
 **Sakura:** Ah... I'm sorry...  
 **Suzuka:** Makizou-dono, don't be so hard on her. Not everyone who gathered here is a toji like us. She's only a researcher from the medical department.  
 **Maki:** ...Have you forgotten, Suzusuke? Right now, we're all ninja\! Nothing more, nothing less.  
@@ -188,7 +184,7 @@ Once again, on the other side--
 **Maki:** It goes without saying that a team of toji working together need to trust each other to cooperate. Acting according to your private interests is forbidden.  
 **Suzuka:** And in your case, Shichinosato-san. With your complete lack of cooperation, we were asked by Kitora Mirja-san to train you thoroughly.  
 **Maki:** Don't think you'll get to leave until after we finish all seven more sets.  
-**Kofuki:** Huuuhhhh\~\~\~\~\~\~\!? Seven sets\!?  
+**Kofuki:** Huuuhhhh\~\~\~\~\~\~\!\? Seven sets\!\?  
 **Announcer:** In a moment, the next training course will begin. The name of the program is "The Queen and the Great Thieves". Details of the mission are as follows--  
 **Kofuki:** LET ME OUT OF HERE ALREADYYY\!\!  
 > :ToCPrevNext

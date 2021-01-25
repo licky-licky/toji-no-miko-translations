@@ -17,19 +17,19 @@ https://youtu.be/ee9V9yy0uqk
 **Suu:** (I should have known... It's Hokuto-san after all. Of course we would end up training...)  
 **Hokuto:** Suu\! You're losing focus\!  
 **Suu:** R-Right\!  
-**Suu:** (How could she tell\!? But still, my arms are heavy, my legs hurt, I'm straining my back; I can't do this\! I seriously can't do this\!\!)  
+**Suu:** (How could she tell\!\? But still, my arms are heavy, my legs hurt, I'm straining my back; I can't do this\! I seriously can't do this\!\!)  
 **Suu:** H-Hokuto-san, I might need a break soon, I think...  
 **Hokuto:** You've only done a hundred swings so far\!  
-**Suu:** Isn't a hundred plenty\!?  
+**Suu:** Isn't a hundred plenty\!\?  
 **Hokuto:** Not yet\!  
 **Suu:** (Th-This is bad... If Hokuto-san doesn't get stopped, someone's going to die\! I'm going to die\!)  
 **Suu:** Um, how many practice swings do I have to do for this regimen...?  
 **Hokuto:** Don't concern yourself with how many swings you should do, Suu. Swinging until you can no longer raise your arms is your warm-up.  
-**Suu:** My warm-up\!?  
+**Suu:** My warm-up\!\?  
 **Hokuto:** Yes, after that comes your real practice swings. Let's see, why don't you start with ten swings after that.  
 **Suu:** ......Huh?  
 **Hokuto:** Ten swings, and then, if it seems like you can keep going, ten more. Keep repeating that, and you'll find your true limit.  
-**Suu:** Isn't that just brute forcing it\!? What happened to all that stuff you were talking about before, with sports science\!?  
+**Suu:** Isn't that just brute forcing it\!\? What happened to all that stuff you were talking about before, with sports science\!\?  
 **Hokuto:** It isn't brute force, it's a function of the brain.  
 **Hokuto:** Before you reach your true limit, your brain will send signals saying "I can't go on."  
 **Hokuto:** That's why, in order to swing your okatana harder and farther than you can now, you need to drill into your brain that your limit is still even further...  
@@ -46,9 +46,9 @@ https://youtu.be/ee9V9yy0uqk
 ## 2: On the Cutting Board
 **Suu:** Please hide me\! I'm being chased\!  
 **Kofuki:** Huh? What?  
-**Suu:** Eeeeeeeek\! Aradama-Must-Die-Man\!? W-W-W-W-Why are you here-?  
+**Suu:** Eeeeeeeek\! Aradama-Must-Die-Man\!\? W-W-W-W-Why are you here-?  
 **Kofuki:** Hey, you're the one who came barging in. This is my research lab, y'know?  
-**Suu:** This place is Shichinosato-san's research lab\!?  
+**Suu:** This place is Shichinosato-san's research lab\!\?  
 **Tsugumi:** That's wrong. This is my lab, not Shichinosato-san's.  
 **Tsugumi:** So then, what's the matter? You said something disturbing, like you were being chased...  
 **Suu:** GYAAAAAAAAAA\!\! She found meee\!\!  
@@ -77,7 +77,7 @@ https://youtu.be/ee9V9yy0uqk
 **Yomi:** (It seems that motivation is key after all. In which case, this program won't...)  
 **Yomi:** (No, if we are able to clearly determine that, then this program does have a purpose.)  
 **Yomi:** The next program will be held next week.  
-**Suu:** We're still going to keep doing this\!?  
+**Suu:** We're still going to keep doing this\!\?  
 **Yomi:** Please do not run away next week.  
 
 ## 3: To the Ones I Support\!
@@ -114,15 +114,15 @@ https://youtu.be/ee9V9yy0uqk
 ## 4: Less Than I Thought...?
 **Suu:** Sigh... Today's the day of the utsushi increasing program...  
 **Yume:** Yomi-onee-saaan.  
-**Suu:** -\!? Th-That voice was... Tsubakuro-san\!\!  
+**Suu:** -\!\? Th-That voice was... Tsubakuro-san\!\!  
 **Suu:** I-I have to hide\!\!  
 **Yomi:** What is it, Tsubakuro-san?  
 **Yume:** Maki-onee-san and Suzuka-onee-san both went on missions, so I'm bored.  
 **Yume:** What are you up to, Yomi-onee-san?  
 **Yomi:** I have to now help with Inami-san's utsushi increasing program.  
 **Yume:** Inami-san? You mean... The person who's hiding over there?  
-**Suu:** \!?  
-**Suu:** (Did she see me\!? Wait, but... She might just be saying that...)  
+**Suu:** \!\?  
+**Suu:** (Did she see me\!\? Wait, but... She might just be saying that...)  
 **Yume:** How long are you gonna be hiding for? Come out already.  
 **Suu:** I-I'm very sorry about that-\! Tsubakuro-sama-\!  
 **Yume:** Why're you calling me Tsubakuro-sama?  
@@ -164,14 +164,14 @@ https://youtu.be/ee9V9yy0uqk
 **Suu:** Anime and games these days aren't for kids\! They have deep dramatic stories too\! It's Cool Japan\!  
 **Hokuto:** Eh, ah, uh?  
 **Suu:** One more time\!  
-**???:** Are those Marvelous-chan dolls\!?  
+**???:** Are those Marvelous-chan dolls\!\?  
 **Hokuto:** So there's another person here besides Suu who likes this anime...  
 **Kanami:** Mind if I join you\!  
-**Hokuto:** -\!?  
+**Hokuto:** -\!\?  
 **Hokuto:** (Etou Kanami-san... At the tournament, she was evenly matched with Juujou-san...)  
 **Kanami:** Um?  
 **Hokuto:** Y-Yes, what is it?  
-**Kanami:** Do you like Marvelous-chan too\!?  
+**Kanami:** Do you like Marvelous-chan too\!\?  
 **Hokuto:** Not me, but Suu... The girl playing the crane game likes it.  
 **Suu:** I couldn't get it again----\! Uuu... And my spending money is all...  
 **Kanami:** Don't worry about it\!  
@@ -184,10 +184,10 @@ https://youtu.be/ee9V9yy0uqk
 **Hokuto:** ............  
 **Hokuto:** Ah, I grabbed two at the same time.  
 **Hokuto:** I got them...  
-**Kanami/Suu:** \!?  
+**Kanami/Suu:** \!\?  
 **Suu:** Y-You're amazing, Hokuto-san\!  
 **Hokuto:** A-Am I? But, there's no point in me keeping these... Do you want them?  
-**Kanami:** Can we have them\!?  
+**Kanami:** Can we have them\!\?  
 **Hokuto:** S-Sure.  
 **Kanami:** Thanks a lot\!  
 **Suu:** I'll treasure it, Hokuto-san\! ...It's so cute, isn't it, Kanami-san\!  
@@ -228,7 +228,7 @@ https://youtu.be/ee9V9yy0uqk
 **Suu:** .........Huh?  
 **Hokuto:** And also... We'd better put both your body and mind in good condition.  
 **Hokuto:** We'll do whatever you want. I'll go out with you.  
-**Suu:** Huhhhhhhhhhhhhh\!?  
+**Suu:** Huhhhhhhhhhhhhh\!\?  
 
 ## [Suu Joins: End]: Date Then Match\!
 **Suu:** Here, this way\! It's over here, Hokuto-san\! The ice cream here is so good\!  
@@ -247,21 +247,21 @@ https://youtu.be/ee9V9yy0uqk
 **Suu:** Time sure goes fast when you're having fun...  
 **Hokuto:** But, after fully enjoying yourself, your body and mind are in good condition, aren't they? Rest time is over. We're resuming your training.  
 **Hokuto:** ...Here I come-\!  
-**Suu:** -\!?  
-**Suu:** (She's as fast as ever\!? My first utsushi is already gone...)  
+**Suu:** -\!\?  
+**Suu:** (She's as fast as ever\!\? My first utsushi is already gone...)  
 **Hokuto:** I'm not stopping\!  
-**Suu:** U-Uwah\!? Hokuto-san... You're serious\!?  
+**Suu:** U-Uwah\!\? Hokuto-san... You're serious\!\?  
 **Hokuto:** Of course I am\! HAAAAA\!\!  
-**Suu:** KH, ugh\!? I keep losing utsushis...\!  
+**Suu:** KH, ugh\!\? I keep losing utsushis...\!  
 **Hokuto:** How long are you going to stand there taking hits? Fight back, Suu.  
-**Suu:** -\! E-Even if you say that... I'm doing everything I can here...\!?  
+**Suu:** -\! E-Even if you say that... I'm doing everything I can here...\!\?  
 **Hokuto:** Quit making excuses.  
 **Suu:** But...  
 **Hokuto:** I won't tell you to defeat me. But, show me how you've grown.  
 **Suu:** Hokuto-san... I understand. I'll show you, I'll land a hit on you\!  
 **Suu:** HAAAAAAAAAAAAAAAAAAA\!\!  
 **Hokuto:** Big swings won't cut it\!  
-**Suu:** UWAHH\!?  
+**Suu:** UWAHH\!\?  
 **Hokuto:** ...Next is your eighth. Will this be your limit?  
 **Suu:** ...I can still apply it\! I can still do it\!   
 **Hokuto:** Then... We'll keep going\! HAAAAAAAAA\!  
@@ -280,7 +280,7 @@ https://youtu.be/ee9V9yy0uqk
 **Hokuto:** There's nothing you could do about that.  
 **Hokuto:** Even though I called it a match, neither of us could be as desperate as we were then. It's significant that you were simply able to apply more than seven utsushis.  
 **Hokuto:** And also, you've improved since then too, Suu.  
-**Suu:** I have\!? I'm really improving...\!  
+**Suu:** I have\!\? I'm really improving...\!  
 **Hokuto:** You are. Which is why, let's do our best training you. I'm going to make it even more intense than it's been so far.  
 **Suu:** B-But I don't want that-\!\!  
 https://youtu.be/ee9V9yy0uqk
@@ -290,12 +290,12 @@ https://youtu.be/ee9V9yy0uqk
 ## [Pirate - Suu: Start]: After Eliminating the Aradama--
 **Aradama:** AAAAA...  
 **Suu:** GYAH\! D-D-Don't come this way, aradama\!  
-**Suu:** I mean, Shichinosato-san\!? Aradama\! There's an aradama\!? Hurry up hurry up\!  
+**Suu:** I mean, Shichinosato-san\!\? Aradama\! There's an aradama\!\? Hurry up hurry up\!  
 **Kofuki:** I've got my own to play with here for now\! Either wait it out or do something yourself\!  
 **Suu:** Come onnn\~. You said to leave all the aradama to you; that's why I joined your team\~\!  
 **Aradama:** KSHAAAAAAA...\!\!  
-**Suu:** ...I-It's coming\!?  
-**Suu:** Uwah\!? Uwahh\!?  
+**Suu:** ...I-It's coming\!\?  
+**Suu:** Uwah\!\? Uwahh\!\?  
 **Hiyori:** Honestly... What are you even doing? Calm down and hold your okatana properly. Are you trying to get yourself hurt?  
 **Suu:** ...G-Got it\! Thank you so much, Juujou-san\!  
 **Kofuki:** So, we took care of the aradama, but why're we still in the amusement park?  
@@ -306,8 +306,8 @@ https://youtu.be/ee9V9yy0uqk
 **Ellen:** It sets a nice mood, doesn't it-. I want to hurry up and play it\!  
 **Mihono:** So anyway, you do it with us, Fukki.  
 **Mihono:** Well actually, I already signed us up as the same teams we had when we were stopping the aradama just now.  
-**Kofuki/Suu:** ...Don't go deciding that on your own\!/Why did you decide on that for us\!?  
-**Mihono:** Eh-\!?  
+**Kofuki/Suu:** ...Don't go deciding that on your own\!/Why did you decide on that for us\!\?  
+**Mihono:** Eh-\!\?  
 **Suu:** ......  
 **Kofuki:** ......  
 **Hiyori:** This "treasure map" the park attendant gave us... Seems like some of them are fakes.  
@@ -335,12 +335,12 @@ https://youtu.be/ee9V9yy0uqk
 **Kofuki:** This must be it. Hey you, go and get the thing.  
 **Suu:** Understood-. Inami Suu is setting off-.  
 **Aradama:** GYUUU...\!  
-**Suu:** GYAAH\!? Something came out\!?  
-**Suu:** ...A-A-A-Aradamaaa\!?  
-**Kofuki:** ...What\!? After it\!  
+**Suu:** GYAAH\!\? Something came out\!\?  
+**Suu:** ...A-A-A-Aradamaaa\!\?  
+**Kofuki:** ...What\!\? After it\!  
 **Hiyori:** I know...\!  
 **Kofuki:** Fufufu...\! You're tiny, but you're not getting away\!  
-**Suu:** ...Ahh\! Wait, please wait...\! Don't leave me alone in this place-\!?  
+**Suu:** ...Ahh\! Wait, please wait...\! Don't leave me alone in this place-\!\?  
 **Mihono:** That's crazy-\! So Fukki, you found the treasure and even beat an aradama?  
 **Kofuki:** Sure, but it was so freaking small it was over in seconds.  
 **Suu:** You could have come right back then... Why did you leave me there for over ten minutes...  
@@ -355,7 +355,7 @@ https://youtu.be/ee9V9yy0uqk
 **Suu:** In that case... sure.  
 **Kiyoka:** You can't give in to her, Inami-san.  
 **Suu:** Ah...\!  
-**Suu:** (I don't even want to be on missions with her in the first place... Am I getting dragged into Shichinosato-san's pace little by little\!?)  
+**Suu:** (I don't even want to be on missions with her in the first place... Am I getting dragged into Shichinosato-san's pace little by little\!\?)  
 **Suu:** (I have to hold tight onto myself...\!)  
 **Suu:** (Though I'm not even sure if I can...)  
 > :ToCPrevNext

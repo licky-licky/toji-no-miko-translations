@@ -1,13 +1,9 @@
 
 Chinese Pandas Bringing Good Fortune
 ====================================
+https://www.youtube.com/watch?v=a4I637bOB2U
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/a4I637bOB2U" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 https://youtu.be/Wuef7y1z6Q4
 
   
@@ -39,7 +35,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Mihono:** O-Okay. Thanks.  
 **Yui:** So come on, honey, let's go find you what you wanted\! ...Wait? Where's Tsugumi-san?  
 **Mihono:** She was gone before I knew it...  
-**Mihono:** ...Wait\!? Over in front of that shady looking shop...  
+**Mihono:** ...Wait\!\? Over in front of that shady looking shop...  
 **Tsugumi:** A Chinese herbal medicine store, operating for generations here in Chinatown... The product of four thousand years of Chinese efforts could prove useful in bolstering toji's abilities...  
 **Yui:** She looks like she's having a good time, so maybe we should leave her be...  
 **Tsugumi:** Ah-- I'm sorry. We were going to help Asakura-san with her shopping first, weren't we. I should have been more mindful...  
@@ -48,10 +44,10 @@ https://youtu.be/Wuef7y1z6Q4
 **Yui:** Don't lose hope yet\! Maybe they have a still have a ton of them in the back\! We should ask the shopkeeper\! Excuse me\!  
 **Mihono:** We were looking for the pandas wearing Chinese clothes that were on TV the other day.  
 **Shopkeeper:** Sorry, but to tell the truth, aradama showed up here in Chinatown this morning, and...  
-**Mihono:** Don't tell me... They stole the pandas\!?  
+**Mihono:** Don't tell me... They stole the pandas\!\?  
 **Shopkeeper:** Mmm, not so much as stole them, but... They went rampaging around and the pandas got caught up in them?  
 **Tsugumi:** I see. There are an endless amount of forms an aradama can take. Many of them could easily ensnare an object by accident.  
-**Mihono:** Whoa whoa wait, no matter how easy it would be, wouldn't it be weird for all the pandas to get grabbed like that\!? Don't you think the aradama are stealing them after all\!  
+**Mihono:** Whoa whoa wait, no matter how easy it would be, wouldn't it be weird for all the pandas to get grabbed like that\!\? Don't you think the aradama are stealing them after all\!  
 **Tsugumi:** If that's the case... There is a high possibility these aradama have caught onto the fad and are all collecting the dolls.  
 **Mihono:** Okay okay okay, Chinatown's pandas are just so popular, even in the netherworld, that there's just not enough for everyone\~ like I'm gonna be happy with thaaaat\!\!  
 **Mihono:** And we just came all the way out to Chinatown to buy them too-, dangiiit\!\!  
@@ -97,11 +93,11 @@ https://youtu.be/Wuef7y1z6Q4
 **Mihono:** Ah-\! That's the place\! The one on TV\! That's crazy; we found two of Chinatown's best right next to each other\! It's our lucky day\!  
 **Mihono:** Why don't we take this chance to try both of them out\! Ahh\~, I'm so glad we kept on searching\~.  
 **Aradama:** Keeeeeee\!  
-**Mihono:** An aradama\!? Geez, why'd you have to show up now\!  
+**Mihono:** An aradama\!\? Geez, why'd you have to show up now\!  
 **Tsugumi:** It may be frustrating, but we can enjoy the shumai and meat buns after we finish fighting.  
 **Mihono:** Grrh... You're gonna pay for this, you aradama\! C'mon, let's go\!  
 
-## 3: The Secret Behind Chinatown's Alluring Sweets is...\!?
+## 3: The Secret Behind Chinatown's Alluring Sweets is...\!\?
 **Tsugumi:** Nicely done, you two. There should only be a small number of aradama left for us to defeat.  
 **Yui:** I wonder when the next'll show up. It'd be nice if they all came at once so we could finish it all up.  
 **Mihono:** They probably won't be here right away, so let's go back to where they were selling meat buns and shumai\! My tummy's rumbling\~.  
@@ -135,12 +131,12 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** Tapioca is made from starch extracted from a tuber that grows in southern countries. They roll it into round shapes and then boil it. None of its ingredients involve frogs in any way.  
 **Mihono:** Wait, really\~? If I'd have known that, I would've never left the line\~\!  
 **Tsugumi:** I thought you might feel that way, so I left Yamashiro-san keeping our place in line. We were nearly at the front, so let's go back and buy our drinks.  
-**Mihono:** Really\!? What a relief\~\! Thanks so much, Tsugumi-san\!  
+**Mihono:** Really\!\? What a relief\~\! Thanks so much, Tsugumi-san\!  
 **Yui:** Welcome back, you two\~\! You came just in time for us to order.  
 **Mihono:** Thanks, Yui\!  
 **Mihono:** What should I go with\~? Okay, I made up my mind\! I'll have...  
 **Aradama:** Keeeeeee\!  
-**Mihono:** EHHHHH\!? Why'd you have to show up right now-\!?  
+**Mihono:** EHHHHH\!\? Why'd you have to show up right now-\!\?  
 **Tsugumi:** First the pandas, then the meat buns, then the tapioca. It seems our target aradama are sensitive to trends after all...  
 **Mihono:** Arghh-\! Let's just get this over with\!\!  
 **Tsugumi:** Of course, of course. Let's proceed then.  
@@ -162,7 +158,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Mihono:** Uuuuu...  
 **Tsugumi:** What's wrong? You look disappointed. Don't tell me...  
 **Mihono:** They're all sold out of pandas...  
-**Yui:** Ehh-\!? But we got so many of them back though?  
+**Yui:** Ehh-\!\? But we got so many of them back though?  
 **Mihono:** They said news that the lucky pandas were getting returned from the aradama spread all over the web, and they sold out instantly...  
 **Mihono:** Even though the whole reason I came to Chinatown was to get those pandas...  
 **Yui:** It's not the end of the world, Mihono-chan. If you can't get a Chinese panda of your own, then I'll put on a China dress and you can hug me all you want\!  
@@ -171,9 +167,9 @@ https://youtu.be/Wuef7y1z6Q4
 **Shopping District Helper:** Excuse me, are you girls the toji who cleaned out the aradama just now?  
 **Tsugumi:** Yes, that would be us. Is there something you needed?  
 **Shopping District Helper:** I've been looking all over for you, to reward you for bringing our valuable merchandise back.  
-**Yui:** Eh, a reward\!? Like what? Something like a full course meal of high class Chinese food?  
+**Yui:** Eh, a reward\!\? Like what? Something like a full course meal of high class Chinese food?  
 **Shopping District Helper:** Sorry, would you have preferred something like that? I heard you were young girls, so I only have these for you...  
-**Mihono:** Ehhhh---\!? Chinese pandas, and three of them\!\!  
+**Mihono:** Ehhhh---\!\? Chinese pandas, and three of them\!\!  
 **Tsugumi:** But weren't they all sold out from every store?  
 **Shopping District Helper:** We wanted to be sure to give something back to the toji who defeated the aradama, so everyone in the shopping district made sure to leave enough for the three of you.  
 **Shopping District Helper:** This is our show of appreciation, so please, by all means, take them.  
@@ -185,7 +181,7 @@ https://youtu.be/Wuef7y1z6Q4
 
   
 
-## [China - Yui: Start]: The Chinatown Date I've Longed For\!?
+## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  
 **Mihono:** I'm all for it\~\! There's still a lot more shops I haven't been to yet. Do you two wanna come with me?  
 **Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~.  
@@ -197,14 +193,14 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** No, not once this whole time have I ever felt anything like that...  
 **Yui:** Then, what's that uneasy look on your face for?  
 **Tsugumi:** Sorry, it might be senseless of me to ask, but... I was just wondering, what is the definition of a "date" to begin with?  
-**Yui:** Tsugumi-san, you're such a serious going girl. When it comes to things like this, it's all about "Don't think; feel\!"  
+**Yui:** Tsugumi-san, you're such a serious going girl. When it comes to things like this, it's all about "Don't think; feel\!\"  
 **Tsugumi:** Go with your feelings without thinking... Is that it. Then, coming up with feelings regarding dating... How exactly do you do that?  
 **Yui:** That's easy\! Right now, I'll swap between taking you and Mihono-chan on a Chinatown date with me, to give you the dating experience\!  
 **Mihono:** The dating experience?  
 **Yui:** Yeah\! I've spent a lot of time mentally rehearsing for the ultimate heart-pounding Chinatown date, so I'll show you a good time for sure\!  
 **Tsugumi:** If you're that sure then, Yamashiro-san... It might not be so bad to get an experience of the real thing.  
 **Yui:** That's the spirit\! So then, to start us off... I think I'll take out Mihono-chan\!  
-**Mihono:** Ehh-- Starting with me\!? If you just tell me we're going on a date like that, I don't have time to get my heart ready...  
+**Mihono:** Ehh-- Starting with me\!\? If you just tell me we're going on a date like that, I don't have time to get my heart ready...  
 **Yui:** Don't you worry about that, Honey. I'll escort you around just right. Why don't we find somewhere to get some delicious sweets first?  
 **Yui:** This place sells the apricot seed soft serve that's the talk of Chinatown\! I don't have much pocket money on me today, so let's share one between us. Here, open wide.  
 **Mihono:** Ahhn. [chew chew]... It's yummy-\!\!  
@@ -223,7 +219,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Yui:** Uuu\~, when you put it like that, I'm losing confidence. Could I have a little time to think this over?  
 **Yui:** Get ahold of yourself, Yui. Remember the strongest Chinatown fantasy date plan you fantasized about over and over day after day. Chinatown... Chinatown... When I think of an ideal date in Chinatown, it's gotta be...  
 
-## [China - Yui: End]: A Practice Run\!? Yui's Fantasy Chinatown Date\!
+## [China - Yui: End]: A Practice Run\!\? Yui's Fantasy Chinatown Date\!
 **Yui:** Chinatown date... Chinatown date... When I think of situations for the Chinatown date I've been dreaming of, there's...  
 **Yui:** That'll do\~\!\!\!\!\!  
 **Mihono:** You look like a lightbulb went off in your head, Yui.  
@@ -255,7 +251,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Yui:** Hold your horses-\! The main event starts right here\!  
 **Yui:** While the two of us are having a good time on our date, a group of burly thugs shows up and surrounds us, then tells you this:  
 **Yui:** "Hey, pretty little thing, want to come have a good time with us..."  
-**Yui:** That's when the thugs try to take you away by force. But then, I shout, "Get your hands off my girlfriend-\!" and give the guys a high kick while I'm still in my China dress\!  
+**Yui:** That's when the thugs try to take you away by force. But then, I shout, "Get your hands off my girlfriend-\!\" and give the guys a high kick while I'm still in my China dress\!  
 **Yui:** To protect the girl I love, I start pumping out stylish moves, taking down the punks one after another. And, completely captivated by me, my girlfriend says:  
 **Yui:** "Thank you\! I owe you my life. To make it up to you... You. Can. Have. Me..."  
 **Yui:** Kyaa-\! Y'know, you're a lot bolder than I thought... But, what kind of woman turns down a woman's advances\! Now's not the time to hold ourselves back\! And then, the two of us spend our sweet time together... Eheheheh...  
@@ -267,6 +263,6 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** If we were to leave her like this, it would weigh on our conscience, wouldn't it. We have to come up with something to support her...  
 **Mihono:** Yui, I think everybody has their own different kind of date they dream about, but I got to have a lot of fun today because you were with us\! So thanks.  
 **Tsugumi:** That's right. And, I was able to mostly understand what the definition of a date is too...  
-**Yui:** You mean it\!? I'm so glad\~\! I should be the one thanking you two\! Getting to go on a three girl date through Chinatown made me the happiest girl in the world\!  
+**Yui:** You mean it\!\? I'm so glad\~\! I should be the one thanking you two\! Getting to go on a three girl date through Chinatown made me the happiest girl in the world\!  
 **Tsugumi:** A three girl date...? Can you really call an outing with three people a date? Sigh... I'm understanding the definition less and less.  
 > :ToCPrevNext

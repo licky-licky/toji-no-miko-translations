@@ -36,7 +36,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Suu:** (I don't want to get involved with Tsubakuro-san... No, I don't want anything to do with anyone from the elite guard\!)  
 **Suu:** (Back then... When we met in Okinawa, they were way too scary...\!)  
 **Maki:** Well if it isn't Asahina Hokuto and Inami Suu.  
-**Suu:** HYAAU\!?  
+**Suu:** HYAAU\!\?  
 **Maki:** ? What's wrong with her?  
 **Hokuto:** Don't worry about her, Shidou-san. Anyway, what did you need?  
 **Maki:** Nothing, just thought I'd say hi to you two. I'm sure this training will be helpful for you. I hope you'll make good use of it.  
@@ -78,7 +78,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Hokuto:** That won't do. If you won't participate seriously, this training will lose its meaning.  
 **Hokuto:** And on top of that... If we aren't able to coordinate during our missions, you might be injured beyond recovery.  
 **Kofuki:** ...Like I'm supposed to care.  
-**Suu:** Uhh, umm... Why don't we all take some deep breaths and calm down first\!?  
+**Suu:** Uhh, umm... Why don't we all take some deep breaths and calm down first\!\?  
 **Kiyoka:** ...Asahina-san is right, Kofuki-san. If you ended up getting hurt, I'd be upset.  
 **Kofuki:** ...Tch.  
 **Kofuki:** Fine, I get it. Let's just figure this out already.  
@@ -92,7 +92,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Hokuto:** Kh... She's quick\!  
 **Kiyoka:** I'll be right--  
 **Sanae:** I'm not letting you go, Musumi-san\!  
-**Kiyoka:** Eh, when did you...\!?  
+**Kiyoka:** Eh, when did you...\!\?  
 **Sanae:** Now's our chance\!  
 **Tsugumi:** Understood.  
 **Kofuki:** You're actually taking this seriously... Really?  
@@ -100,14 +100,14 @@ Before the start of the Renpu Heijou Joint-Training.
 **Tsugumi:** It would be a problem if they didn't think I was serious and our research funding was reduced-.  
 **Tsugumi:** Though, you're not my opponent now anyway, Shichinosato-san.  
 **Hokuto:** ...Suu, stand firm\!  
-**Suu:** Thinking about it, they have to be coming after me, right--\!?  
+**Suu:** Thinking about it, they have to be coming after me, right--\!\?  
 **Tsugumi:** Sorry about this. Anyway.  
-**Suu:** NOOOOOO\!?  
+**Suu:** NOOOOOO\!\?  
 **Suu:** Even with utsushi, it still hurts... Uuu...  
 **Kiyoka:** I know what you mean... It sure hurts, doesn't it. When you're being slashed, you can't help but flinch against it.  
 **Suu:** Ahh, I'm so glad someone here understands\! Thank you, Musumi-san\!  
 **Suu:** I can't be useful at all, so I... I'm thinking of withdrawing from this. I feel like that's the best way for me to contribute\!  
-**Kiyoka:** Eh... P-Please, hold on a minute\!? We'll be in trouble without you, Inami-san\!  
+**Kiyoka:** Eh... P-Please, hold on a minute\!\? We'll be in trouble without you, Inami-san\!  
 **Kiyoka:** And also, this is just a maybe, but... If Kofuki-san and Asahina-san can't coordinate, then this group won't...  
 **Suu:** ...Right.  
 **Hokuto:** ......  
@@ -123,7 +123,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Suu:** ...It's nothing.  
 **Yume:** I think I might've seen you before. Did we meet somewhere, Onee-san?  
 **Suu:** Ehh-... Ahh-... Umm-... Uhh-...  
-**Suu:** (What should I do, what should I do... Maybe it'd be fine if I said honestly, we met last year in Okinawa? But, but, if I pretend like she's got the wrong person, maybe she'll lose interest and go away\!?)  
+**Suu:** (What should I do, what should I do... Maybe it'd be fine if I said honestly, we met last year in Okinawa? But, but, if I pretend like she's got the wrong person, maybe she'll lose interest and go away\!\?)  
 **Yume:** I can't tell what you mean when you just say "Uhh-...", Onee-san.  
 **Suu:** Th-There's no way we could have met anywhere before, Tsubakuro-sama...  
 **Yume:** Why're you calling me Tsubakuro-sama even though I'm younger? Wait, this feels familiar for some reason...  
@@ -185,5 +185,5 @@ Before the start of the Renpu Heijou Joint-Training.
 **Hokuto:** It seems like now's not the time for our match.  
 **Kofuki:** Sounds like a whole load of aradama-chan are out there. Good thing I joined in on this training.  
 **Hokuto:** We'll be up against aradama, so I'll be depending on you readily.  
-**Suu:** Ahhh, why did this have to happen-\!?  
+**Suu:** Ahhh, why did this have to happen-\!\?  
 > :ToCPrevNext

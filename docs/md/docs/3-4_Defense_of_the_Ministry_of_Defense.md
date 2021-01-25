@@ -1,13 +1,9 @@
 
 3-4 Defense of the Ministry of Defense
 ======================================
+https://www.youtube.com/watch?v=HSDitUQ2LKs
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/HSDitUQ2LKs" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 
 ## 1: For One's Conviction (1)
 At that time, in Ichigaya--
@@ -105,7 +101,7 @@ At that time, in Ichigaya--
 **Kofuki:** You're not even trying to talk sense.  
 **Mihono:** Hey, seriously, what happened to you two?  
 **Hana:** Nothing happened. I just couldn't take my life full of lies anymore.  
-**Hana:** Living as a spy meant telling one lie to bury another. Under all that, who was I supposed to be\!?  
+**Hana:** Living as a spy meant telling one lie to bury another. Under all that, who was I supposed to be\!\?  
 **Hana:** Even though I didn't amount to anybody, the imperial guard accepted me. Even someone who was "just there" like me, the imperial guard accepted.  
 **Yui:** Tagitsuhime-sama is our savior goddess. I feel sorry for all of you, not understanding how blessed it feels to fight for that goddess.  
 **Mihono:** Savior...? Yui, she saved you from something?  

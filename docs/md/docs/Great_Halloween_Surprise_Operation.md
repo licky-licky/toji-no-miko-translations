@@ -1,13 +1,9 @@
 
 Great Halloween Surprise Operation
 ==================================
+https://www.youtube.com/watch?v=GUIkSASCHRk
 
-                 <iframe width="560" height="315"
-                src="https://www.youtube.com/embed/GUIkSASCHRk" 
-                frameborder="0" 
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
-              
+  
 Covers both Halloween events.
 
   
@@ -58,7 +54,7 @@ Covers both Halloween events.
 **Yomi:** I never would have thought things could turn out like this either.  
 **Kaoru:** Ahhh, my back... So after all that, did we actually scare Origami Yukari?  
 **Yomi:** I can't say for certain. After all, the moment we jumped out from the mountain of aradama pumpkins wearing jack o' lanterns, she used dragonblade*. (the name of Yukari's ougi)  
-**Ellen:** She didn't even let us finish shouting "Happy Halloween\!"...\!  
+**Ellen:** She didn't even let us finish shouting "Happy Halloween\!\"...\!  
 **Kaoru:** Wasn't it right around the "llo" part that we ended up coated in pumpkin?  
 **Ellen:** I got all the way to "wee"\!  
 **Yume:** But Yukari-sama didn't even twitch an eyebrow, did she? Awww, I really wanted to see her face all surprised...  
@@ -69,7 +65,7 @@ Covers both Halloween events.
 **Yomi:** You shouldn't be concerned with me. I was complicit ever since I was unable to stop Tsubakuro-san. And, besides...  
 **Yomi:** (Besides, I mabbe was likin it......)  
 **Kaoru:** Besides... What? Nn? Were you just smiling a little?  
-**Yume:** Ehh-\!? Yomi onee-san, did you smile just now\!?  
+**Yume:** Ehh-\!\? Yomi onee-san, did you smile just now\!\?  
 **Kaoru:** Yeah.  
 **Yomi:** I did not smile.  
 **Yume:** Yomi onee-san's smiling is just as crazy rare as Yukari-sama looking surprised\!  
@@ -100,10 +96,10 @@ One week before the Halloween party took place...
 **Yui:** If I saw Hiyori-san with those cat ears, I'd bury her in a mountain of candy\! Ahh\~, it's just too much...  
 **Kiyoka:** You sure have an active imagination...  
 **Academy Intercom:** Aradama have been identified in the area of this academy. Toji, make preparations for emergency sortie. I repeat, aradama have been identified--  
-**Mihono:** Eh\!? Right near here\!? Kiyoka, Yui\! We've gotta go\!  
+**Mihono:** Eh\!\? Right near here\!\? Kiyoka, Yui\! We've gotta go\!  
 **Kiyoka & Yui:** Right\!  
 **Child:** Mamaaaa--\!\!  
-**Mihono:** There's a kid on the battlefield\!? Everyone was supposed to get to shelter\!  
+**Mihono:** There's a kid on the battlefield\!\? Everyone was supposed to get to shelter\!  
 **Kiyoka:** Wh-What're we supposed to do...  
 **Yui:** I'll draw the aradama after me while you two get them to safety\! I'm going\!  
 **Mihono:** Got it\! Be careful\!  
@@ -112,7 +108,7 @@ One week before the Halloween party took place...
 **Yui:** *Inhale*...  
 **Yui:** URYAAAAAAAAA\!\!  
 **Yui:** Mission complete. Though, I can't forget to call in noro recovery and make a suppression report.  
-**Mihono:** Yui-\! We got them out of danger\! -Wait, did you beat them all yourself\!?  
+**Mihono:** Yui-\! We got them out of danger\! -Wait, did you beat them all yourself\!\?  
 **Yui:** Did I do good-? I've gotta try my best not to get left behind by everyone.  
 **Yui:** And thanks for getting that kid out of harm's way, Mihono-chan\!  
 **Mihono:** No way, that was all thanks to you distracting the aradama\!  
@@ -123,6 +119,6 @@ One week before the Halloween party took place...
 **Yui:** Hmm, then, how about I ask you to do something for me, Kiyoka-chan?  
 **Kiyoka & Mihono:** Like what?  
 **Yui:** You can wear that Red Riding Hood costume later, but first, you should be a mummy all wrapped up in bandages\! And you'll have to take everything off\! And I'll help you get changed, of course\!  
-**Kiyoka:** Ehhhhhhh----\!? I don't want to\!\!  
+**Kiyoka:** Ehhhhhhh----\!\? I don't want to\!\!  
 **Yui:** Don't be like that, okay? Come on, Kiyoka-chan\~.  
 > :ToCPrevNext

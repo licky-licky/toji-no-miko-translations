@@ -253,7 +253,7 @@ https://youtu.be/MV1WLV8-IJo
 **Hiyori (Torai Rena):** I see... I'm sure she wasn't doing that from the moment she started working here, but... That's a real shame.  
 **Hiyori (Torai Rena):** (My mission is to get to the bottom of my friend's death, but she turned out to be a thief...)  
 **Yui (Inokawa Susumu):** The person who killed Tamaki-chan, after she was suspected of stealing things...  
-**Yui (Inokawa Susumu):** "I just can't forgive you, Tamaki-chan, for ruining the ryokan's reputation with your stealing...\!?"  
+**Yui (Inokawa Susumu):** "I just can't forgive you, Tamaki-chan, for ruining the ryokan's reputation with your stealing...\!\?"  
 **Yui (Inokawa Susumu):** Somebody could have felt something like that, right? Say, the manager's daughter, Mizuki-chan.  
 **Ellen (Tatsunami Mizuki):** If I were the one who committed the murder, I'd have really mixed my priorities up. That would end up being even more scandalous.  
 **Ellen (Tatsunami Mizuki):** And it doesn't look like we have time to look into every one of the victim's personal relationships for clues.  
@@ -269,7 +269,7 @@ https://youtu.be/MV1WLV8-IJo
 **Maki (Chidori Takumi):** Because, she's... my lover.  
 **Suzuka (Toritani Hina):** ......  
 **Suzuka (Toritani Hina):** You didn't need to tell them that here...  
-**Yui (Inokawa Susumu):** Ehh-\!?  
+**Yui (Inokawa Susumu):** Ehh-\!\?  
 **Yui (Inokawa Susumu):** Then, why didn't you say something before? You could've proved your alibis right away.  
 **Hiyori (Torai Rena):** Not doing that feels suspicious.  
 **Maki (Chidori Takumi):** That's because...  

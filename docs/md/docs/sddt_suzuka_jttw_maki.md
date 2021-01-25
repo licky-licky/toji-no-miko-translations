@@ -128,7 +128,7 @@ https://streamable.com/htxmmh
 **Maki:** Yoh, hoh\!  
 **Villain:** \!\!  
 **Maki:** Spotted the enemy\! Suzuka\!  
-**Suzuka:** Maki-san\!?  
+**Suzuka:** Maki-san\!\?  
 **Maki:** HAAAH\!\!  
 **Villain:** ...  
 **Suzuka:** Maki-san, you're moving around too haphazardly...  
