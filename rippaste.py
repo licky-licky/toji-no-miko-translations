@@ -1,48 +1,40 @@
-import requests # see https://2.python-requests.org/en/master/
+import requests 
 import json
+import argparse
 from simple_pastebin_client.api import PasteBinApiClient
 
-# u = PasteBinApiClient.user_pastes_data('canadaharma', page=2)
-v = PasteBinApiClient.user_pastes('canadaharma', page=2)
-# print(u)
 
-with open('titles_2', 'w') as f:
-    json.dump(v, f)
+'''
+    user_pastes_data should actually get the (non truncated) titles to but for some reason
+    (probably because of changes in pastebin's frontend) the title field is empty
+    so get_titles saves the (truncated) titles in an another file and they get paired
+    using the paste_key with the actual test
+'''
 
-quit()
+def get_titles():
+    v = PasteBinApiClient.user_pastes('canadaharma', do_all=True)
 
-with open("result", 'w') as text_file:
-    res = []
-    for paste in u:
-        new = { key.decode() if type(key) is bytes else key: val.decode() if type(val) is bytes else val for key, val in paste.items() }
-        res.append(new)
-    json.dump(res, text_file)
+    with open('titles.json', 'w') as f:
+        json.dump(v, f)
 
-# key = 'WLj2ODKxwFsLz0w_YRwJuqnCqiqbHKhg'
-# text = "a text"
-# t_title = "a_paste_title"
 
-# login_data = {
-#     'api_dev_key': key,
-#     'api_user_name': 'your_acc_username',
-#     'api_user_password': 'your_acc_password'
-# }
+def get_text():
+    u = PasteBinApiClient.user_pastes_data('canadaharma', do_all=True)
 
-# data = {
-#     'api_option': 'paste',
-#     'api_dev_key':key,
-#     'api_paste_code':text,
-#     'api_paste_name':t_title,
-#     'api_paste_expire_date': 'see_https://pastebin.com/api',
-#     'api_user_key': None,
-#     'api_paste_format': 'see_https://pastebin.com/api'
-# }
+    with open("result.json", 'w') as text_file:
+        res = []
+        for paste in u:
+            new = { key.decode() if type(key) is bytes else key: val.decode() if type(val) is bytes else val for key, val in paste.items() }
+            res.append(new)
+        json.dump(res, text_file)
 
-# login = requests.post("https://pastebin.com/api/api_login.php", data=login_data)
-# print("Login status: ", login.status_code if login.status_code != 200 else "OK/200")
-# print("User token: ", login.text)
-# data['api_user_key'] = login.text
-
-# r = requests.post("https://pastebin.com/api/api_post.php", data=data)
-# print("Paste send: ", r.status_code if r.status_code != 200 else "OK/200")
-# print("Paste URL: ", r.text)
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='')
+    parser.add_argument('-t', '--titles', action='store_true', help='get the titles of the pastes')
+    parser.add_argument('-d', '--data', action='store_true', help='get the text of the pastes')
+    args = parser.parse_args()
+    
+    if args.titles:
+        get_titles()
+    if args.data:
+        get_text()

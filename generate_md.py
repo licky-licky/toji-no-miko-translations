@@ -43,9 +43,9 @@ def part_titles(x):
     }.get(x, 'Part')  
 
 def get_events():
-    with open('result_1.json', 'r') as res1, open('titles_1.json') as tit1, open('result_2.json') as res2, open('titles_2.json') as tit2:
-        results = json.load(res1) + json.load(res2)
-        titles = json.load(tit1) + json.load(tit2)
+    with open('result.json', 'r') as res, open('titles.json') as tit:
+        results = json.load(res)
+        titles = json.load(tit)
         data = ''
         events_line = 0
         events = []
@@ -72,9 +72,9 @@ def get_events():
         return event_titles
 
 def get_episodes():
-     with open('result_1.json', 'r') as res1, open('titles_1.json') as tit1, open('result_2.json') as res2, open('titles_2.json') as tit2:
-        results = json.load(res1) + json.load(res2)
-        titles = json.load(tit1) + json.load(tit2)
+     with open('result.json', 'r') as res, open('titles.json') as tit:
+        results = json.load(res) 
+        titles = json.load(tit)
         data = ''
         episodes_line = 0
         events_line = 0
@@ -198,10 +198,9 @@ def generate_file(title, data):
     
 if __name__ == '__main__':
 
-    with open('result_1.json', 'r') as res1, open('titles_1.json') as tit1, open('result_2.json') as res2, open('titles_2.json') as tit2:
-        results = json.load(res1) + json.load(res2)
-        titles = json.load(tit1) + json.load(tit2)
-
+    with open('result.json', 'r') as res, open('titles.json') as tit:
+        results = json.load(res)
+        titles = json.load(tit)
         for r in results:
             for t in titles:
                 if r['paste_key'] == t['paste_key']:
