@@ -1,9 +1,7 @@
 
 Assemble! Toji Cheer Squad
 ==========================
-https://www.youtube.com/watch?v=QIMDd46nF8M
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/QIMDd46nF8M"></iframe>](:Iframe)  
 
 ## 1: Special Mission Announcement
 **Maki:** Are you sure about this, Yukari-sama...? Is there any need for a unit like this...  

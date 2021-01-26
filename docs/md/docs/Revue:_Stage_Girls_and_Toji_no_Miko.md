@@ -1,9 +1,7 @@
 
 Revue: Stage Girls and Toji no Miko
 ===================================
-https://www.youtube.com/watch?v=nstX1sl6Xmo
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/nstX1sl6Xmo"></iframe>](:Iframe)  
 
 ## 1: The Training Camp Runs into Trouble
 The Dance Recital; a fine arts festival presented through a collaborative effort by the Five Traditions.
@@ -373,8 +371,9 @@ On the day the dance performance would be shown to the public.
 **Hiyori:** Did you say something, Hikari?  
 **Hikari:** ...I didn't say anything.  
 **Kanami:** Come on, let's go ask everyone to start collecting Suzudaru Cats from the aradama\!  
+[WARNING. I didn't actually roll Mai so I only ever happened to see part 1]
 
-## [WARNING. I didn't actually roll Mai so I only ever happened to see part 1]
+  
 **Stage Girl Mai:** Start: Two Triangles  
 **Kanami:** I can't wait to spar with all these stage girls\! If I miss this, I'll never get another chance.  
 **Kanami:** You know, I've wanted to spar with them ever since we came here and saw them fighting those aradama.  
@@ -425,9 +424,7 @@ On the day the dance performance would be shown to the public.
 **Mahiru:** Fighting might be more of your specialty, but come try me, Mai-chan\!  
 **Mai:** Here I come\!  
 **Mahiru:** Ah, but I would appreciate it if you go a little easy on me after all.  
-https://youtu.be/bUqlN1QeE1o
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqlN1QeE1o"></iframe>](:Iframe)  
 
 ## [Stage Girl - Kanami: Start]: Somebody I Want to Spar With\!
 **Maya:** Now then, I'll have you leave the stage. --HAAH\!  

@@ -1,9 +1,7 @@
 
 Elite Guard Memoirs: Cherry Blossom Arc
 =======================================
-https://www.youtube.com/watch?v=1y-R-16Cves
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/1y-R-16Cves"></iframe>](:Iframe)  
 Chapter 8 was voiced live on a stream, there's a link down below to it.
 
   
@@ -230,9 +228,7 @@ Chapter 8 was voiced live on a stream, there's a link down below to it.
 (This chapter was actually voiced live on a stream if you want to listen along)
 
   
-https://youtu.be/uAtUE2imzoU?t=1h24m34s
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/uAtUE2imzoU?t=1h24m34s"></iframe>](:Iframe)  
 
 ## 8: Dreams Come True
 **Yume:** Ahhh...  

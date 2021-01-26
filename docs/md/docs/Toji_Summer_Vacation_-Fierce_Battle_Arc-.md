@@ -1,9 +1,7 @@
 
 Toji Summer Vacation -Fierce Battle Arc-
 ========================================
-https://www.youtube.com/watch?v=bDWvc3tqUKI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bDWvc3tqUKI"></iframe>](:Iframe)  
 
 ## 1: What Wakes in the Summer
 **Yume:** Wow\~, it's the sea\~\! Hey, hey, Yomi onee-san\! Look, it's the sea, the sea\~\!  

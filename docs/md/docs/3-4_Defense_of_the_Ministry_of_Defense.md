@@ -1,9 +1,7 @@
 
 3-4 Defense of the Ministry of Defense
 ======================================
-https://www.youtube.com/watch?v=HSDitUQ2LKs
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/HSDitUQ2LKs"></iframe>](:Iframe)  
 
 ## 1: For One's Conviction (1)
 At that time, in Ichigaya--

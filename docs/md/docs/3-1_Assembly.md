@@ -1,9 +1,7 @@
 
 3-1 Assembly
 ============
-https://www.youtube.com/watch?v=ntmIHzjnP8U
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ntmIHzjnP8U"></iframe>](:Iframe)  
 
 ## 1: Back with Your Leader
 **Mihono:** Ehehehe.  

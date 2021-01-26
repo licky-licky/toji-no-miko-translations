@@ -1,9 +1,7 @@
 
 Aradama on the Counterattack
 ============================
-https://youtu.be/ghGvfdSp0Lw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ghGvfdSp0Lw"></iframe>](:Iframe)  
 Aradama on the Counterattack - Prologue
 
   

@@ -1,9 +1,7 @@
 
 2-6 The Fateful Toji
 ====================
-https://www.youtube.com/watch?v=tHHFwdOdpCc
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/tHHFwdOdpCc"></iframe>](:Iframe)  
 
 ## 1: What Must be Done (1)
 **Hiyori:** HAAAAAAHH---\!  

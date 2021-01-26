@@ -1,9 +1,7 @@
 
 2 - Following the Flying Bird
 =============================
-https://www.youtube.com/watch?v=KDSf4bG32cQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/KDSf4bG32cQ"></iframe>](:Iframe)  
 
 ## 1: Chasing After Kanami (1)
 **Suzuka:** Capture the ones who attacked Yukari-sama\! Do not let them escape\!  

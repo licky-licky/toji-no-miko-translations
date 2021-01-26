@@ -1,9 +1,7 @@
 
 A Giant Yeti Encounter in a Snowy Mountain Forest!
 ==================================================
-https://youtu.be/ngwn7UUtU4A
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ngwn7UUtU4A"></iframe>](:Iframe)  
 
 ## 1: The Smell of Trouble on a Snowy Mountain Mission...
 **Mirja:** Shichinosato Kofuki, what are you waiting for\! That aradama is escaping; get after it at once\!  

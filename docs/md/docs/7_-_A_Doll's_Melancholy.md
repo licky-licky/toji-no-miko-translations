@@ -1,9 +1,7 @@
 
 7 - A Doll's Melancholy
 =======================
-https://www.youtube.com/watch?v=r2HOmDCPCwk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/r2HOmDCPCwk"></iframe>](:Iframe)  
 
 ## 1: Return (1)
 **Mihono:** We're back\! Kamakura\! It's only been a few days, but it feels like we were gone forever\!  

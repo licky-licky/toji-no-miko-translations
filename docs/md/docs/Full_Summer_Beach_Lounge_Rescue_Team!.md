@@ -1,9 +1,7 @@
 
 Full Summer Beach Lounge Rescue Team!
 =====================================
-https://youtu.be/sIQNYYemcEg
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/sIQNYYemcEg"></iframe>](:Iframe)  
 
 ## 1: Bringing the Summer Bustle to the Beach\!
 **Mihono:** IT'S THE SEA-\!\!\!  
@@ -101,9 +99,7 @@ https://youtu.be/sIQNYYemcEg
 **Mirja:** ...So then, let's head on to our final battlefield. However, all of you... By no means should you force yourself to do the impossible\!  
 **Sayaka:** I won't force myself... I'll do my best to eat.  
 **Tsugumi:** I'll have some stomach medicine ready in secret later on.  
-https://youtu.be/7xz_k03cXQA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/7xz_k03cXQA"></iframe>](:Iframe)  
 
 ## [Sayaka: Start]: Do Your Best, Enjoy Yourself\!
 **Sayaka:** ...Sorry I made you wait.  
@@ -167,9 +163,7 @@ https://youtu.be/7xz_k03cXQA
 **Ellen:** Kaoru-\! It's time to wake up now-\! We're all going down the water slide-\!  
 **Kaoru:** Whoa-\!\? What's going on\!\?  
 **Sayaka:** I'm glad. I think I'll have a lot to tell Mai about the pool.  
-https://youtu.be/UrOq6F25WZg
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UrOq6F25WZg"></iframe>](:Iframe)  
 
 ## [Chie: Start]: Shirie
 **Kofuki:** You've got a fat ass too, huh, Chichie.  

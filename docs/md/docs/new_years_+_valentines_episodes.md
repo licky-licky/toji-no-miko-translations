@@ -4,8 +4,7 @@ new years + valentines episodes
 https://streamable.com/guvtv
 
   
-
-## [New Year's Mirja: Start] Mirja's First Shrine Visit of the Year
+**[New Year's Mirja:** Start] Mirja's First Shrine Visit of the Year  
 **Mirja:** As one would expect, there are a great number of people out for New Year's Day. Let's all take caution so that no one gets lost.  
 **Yui:** Okay\! You got it, Mirja-san\!  
 **Mirja:** ...I don't see anyone besides you, Yamashiro Yui. What happened to the others?  

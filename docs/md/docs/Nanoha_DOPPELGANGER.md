@@ -1,11 +1,10 @@
 
 Nanoha DOPPELGANGER
 ===================
-https://youtu.be/YyVH-T2QEjM
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/YyVH-T2QEjM"></iframe>](:Iframe)  
+[As per usual for collabs, the countdowns are voiced. Unusually, the game decided to combine both parts of the event into one, so I have them all here even if the numbering is off.]
 
   
-
-## [As per usual for collabs, the countdowns are voiced. Unusually, the game decided to combine both parts of the event into one, so I have them all here even if the numbering is off.]
 https://streamable.com/fohx1q
 
   

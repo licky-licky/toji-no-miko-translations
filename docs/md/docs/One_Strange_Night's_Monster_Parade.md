@@ -1,9 +1,7 @@
 
 One Strange Night's Monster Parade
 ==================================
-https://youtu.be/-fsQYjmHPYU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/-fsQYjmHPYU"></iframe>](:Iframe)  
 
 ## 1: Halloween is Nearly Here
 **Kiyoka:** Nnnn... Ah, it's finished\! Phew... Carving out a pumpkin is easier than it seems, isn't it?  
@@ -218,9 +216,7 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Maki:** They're a real noisy bunch, aren't they.  
 **Mirja:** Agreed. Though, it's fine to let them go on like this sometimes.  
 **Maki:** Well, you're not wrong.  
-https://youtu.be/HT3YdcAAc3c
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/HT3YdcAAc3c"></iframe>](:Iframe)  
 
 ## [Halloween 19 - Sayaka: Start]: A Request Offer
 **Mirja:** I've been looking for you, Itomi Sayaka. Do you remember the director from that historical film?  
@@ -298,9 +294,7 @@ The apprentice nun visited the ruined mansion to search for the black cat in que
 **Sanae:** Then, should we get right to having lunch? I'm a little excited to see the catering.  
 **Sayaka:** Mm, I feel hungry too. It's smelled good for a while here.  
 **Mirja:** Fufu, you're right about that. Let's go see what they have then.  
-https://youtu.be/HguM1_W3fqw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/HguM1_W3fqw"></iframe>](:Iframe)  
 
 ## [Halloween 19 - Sanae: Start]: I'm a Bakeneko
 **Hiyori:** You're going to be starring in a movie?  
@@ -372,9 +366,7 @@ The day of the film shoot.
 **Sanae:** Thanks a lot, Kitora-san\! I can't wait for it to be in theaters\!  
 **Mirja:** I understand the feeling. When that time comes, let's go and see it together.  
 **Sanae:** Sure\!  
-https://youtu.be/Y6ff2yewfcQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Y6ff2yewfcQ"></iframe>](:Iframe)  
 
 ## [Halloween 19 - Mirja: Start]: Kaiju Mirja?
 **Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  

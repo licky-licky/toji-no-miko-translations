@@ -1,9 +1,7 @@
 
 4-4 Recovery
 ============
-https://www.youtube.com/watch?v=5hC-X99ET-4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/5hC-X99ET-4"></iframe>](:Iframe)  
 
 ## 1: Traces of Yomi (1)
 **Suzuka:** --We can see it now; the Tokyo Station building. Yomi-san, wherever you are, please be safe...  

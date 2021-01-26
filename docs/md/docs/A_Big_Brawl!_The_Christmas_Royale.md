@@ -1,9 +1,7 @@
 
 A Big Brawl! The Christmas Royale
 =================================
-https://www.youtube.com/watch?v=7BwpPBgLndM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/7BwpPBgLndM"></iframe>](:Iframe)  
 
 ## 1: A Black Christmas?
 **Ellen:** Everyone in school... They're looking excited, aren't they?  

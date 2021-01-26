@@ -1,9 +1,7 @@
 
 4-7 A Chance Meeting
 ====================
-https://youtu.be/5jKV2DOt2KQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/5jKV2DOt2KQ"></iframe>](:Iframe)  
 
 ## 1: Passing Time
 Two months after the calamity that became known as the "Year-End Disaster"--

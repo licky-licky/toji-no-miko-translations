@@ -1,15 +1,9 @@
 
 Origami Yukari Episodes
 =======================
-https://www.youtube.com/watch?v=fEvFCJ506mU
-
-  
-https://www.youtube.com/watch?v=bqqcokWQfeE
-
-  
-https://youtu.be/Z23ZqgN4an4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fEvFCJ506mU"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bqqcokWQfeE"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Z23ZqgN4an4"></iframe>](:Iframe)  
 
 ## 1: The Head of the Origami Family and Nene
 Several hours before the tournament began--
@@ -226,9 +220,7 @@ Several hours before the tournament began--
 **Maki:** ...I understand. But next time, I'll show you how much closer I can reach to you...\!  
 **Yukari:** Good, do not forget that feeling.  
 **Yukari:** Those who cannot recognize their inexperience, have no room to grow from it...  
-https://youtu.be/sMZQqm5pL1U
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/sMZQqm5pL1U"></iframe>](:Iframe)  
 
 ## [Renpu High: Start]: Marshmallows
 **Minato:** Yukari, Kagari, morning-\!  
@@ -298,9 +290,7 @@ After school that day.
 **Kagari:** You mean, your dream came true then?  
 **Minato:** Yep. If Yukari's dream came true, that'd be scary, but I'm glad a fun dream like this one was real\!  
 **Yukari:** That's for sure. I hope we can be spared Minato getting spirited away or the gravel turning to marshmallows, but I'm very glad to see a dream like this come true.  
-https://youtu.be/Z23ZqgN4an4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Z23ZqgN4an4"></iframe>](:Iframe)  
 
 ## [Dress '20 - Yukari: Start]: Recognition Party Put in Motion
 **Yume:** I wanna have a party\!  

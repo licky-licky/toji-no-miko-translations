@@ -1,9 +1,7 @@
 
 3-9 A Reason to Be
 ==================
-https://youtu.be/KaN0hZUezBM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/KaN0hZUezBM"></iframe>](:Iframe)  
 
 ## 1: Reinforcements (1)
 At that time, in Kashima's industrial district. Origami Yukari and Ichikishimahime were--

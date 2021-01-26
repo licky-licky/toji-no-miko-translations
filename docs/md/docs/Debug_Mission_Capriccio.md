@@ -1,9 +1,7 @@
 
 Debug Mission Capriccio
 =======================
-https://youtu.be/KoaydPNazBE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/KoaydPNazBE"></iframe>](:Iframe)  
 
 ## 1: A New Assignment, To the World of VR\!
 **Tsugumi:** Everyone, thank you for gathering here today to test the new model of training simulator system we have in development.  
@@ -219,9 +217,7 @@ https://youtu.be/KoaydPNazBE
 **Kofuki:** Anyway, isn't this a case of all's well that ends well? I got to have my fill of the fun too, so fix that thing up already and let me play with it some more\!  
 **Tsugumi:** You seem to be the only one eager about that, Shichinosato-san.  
 **Mirja:** That's right. While it's a relief that the issue was safely resolved, it will take time to make the system ready for practical use.  
-https://youtu.be/AuF8ZqOvA9Y
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/AuF8ZqOvA9Y"></iframe>](:Iframe)  
 
 ## [VRS Equipment - Maki: Start]: Just to Be Sure
 **Yume:** Found you, Maki-onee-san\!  
@@ -302,9 +298,7 @@ https://youtu.be/AuF8ZqOvA9Y
 **Maki:** Suzuka...  
 **Suzuka:** Next time, I'd like for all of us to go play that game together.  
 **Maki:** Right, sure thing. By that time, I'll master my way around a laser gun.  
-https://youtu.be/Q19Fa9VDWgg
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Q19Fa9VDWgg"></iframe>](:Iframe)  
 
 ## [VRS Equipment - Yume: Start]: Nothing to It but to Do It\!
 **Maki:** [mumble mumble mumble]...   

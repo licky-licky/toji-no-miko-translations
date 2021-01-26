@@ -1,9 +1,7 @@
 
 There's an Anomaly in the Seasonal Rain Front...
 ================================================
-https://www.youtube.com/watch?v=Ko4ihFi6A2U
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Ko4ihFi6A2U"></iframe>](:Iframe)  
 
 ## 1: A Picnic for Two\!
 **Weatherman:** --The seasonal rain front has been hanging over Japan, but if it continues rising north like this... We expect the rainy season to have cleared up by this weekend.  

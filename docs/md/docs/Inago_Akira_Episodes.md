@@ -1,12 +1,8 @@
 
 Inago Akira Episodes
 ====================
-https://youtu.be/711imvBKFEk
-
-  
-https://youtu.be/aiA2svZtMos
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/711imvBKFEk"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/aiA2svZtMos"></iframe>](:Iframe)  
 
 ## 1: Not Like I Dislike It\!
 **Akira:** ......  
@@ -263,9 +259,7 @@ https://youtu.be/aiA2svZtMos
 **Mihono:** Okay\!  
 **Mihono:** But, it's going to be a while before I can get my license, so before then, please let me ride on the back of your bike\!  
 **Akira:** 'Course\! It's a promise\! Don't you forget it\!  
-https://youtu.be/aiA2svZtMos
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/aiA2svZtMos"></iframe>](:Iframe)  
 
 ## [Dress 20 - Akira: Start]: No Way I'd Be Late
 **Yomi:** Akira.  

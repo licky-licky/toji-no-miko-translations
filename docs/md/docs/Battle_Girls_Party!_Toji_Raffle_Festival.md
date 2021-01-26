@@ -1,9 +1,7 @@
 
 Battle Girls Party! Toji Raffle Festival
 ========================================
-https://www.youtube.com/watch?v=LHITNyK2J3c
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/LHITNyK2J3c"></iframe>](:Iframe)  
 
 ## 1: Let's Think Up Entertainment
 **Ellen:** Kaoruuu, Chieee\!  

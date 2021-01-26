@@ -1,9 +1,7 @@
 
 North and South Swordsman Record Part 3
 =======================================
-https://youtu.be/w5SUJ2yqPuo
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/w5SUJ2yqPuo"></iframe>](:Iframe)  
 
 ## 1: Everyone's... Pretty Motivated, Aren't They?
 **Yomi:** From here, you will be organized into units formed by two or three groups from the earlier practice... and undertake this mission in Harajuku.  

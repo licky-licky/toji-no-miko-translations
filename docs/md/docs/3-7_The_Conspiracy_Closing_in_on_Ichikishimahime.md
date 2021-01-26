@@ -1,9 +1,7 @@
 
 3-7 The Conspiracy Closing in on Ichikishimahime
 ================================================
-https://youtu.be/xDnIu7talhw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/xDnIu7talhw"></iframe>](:Iframe)  
 
 ## 1: Away to Choshi
 **TV (Reporter):** The submarine thought to be carrying Ichikishimahime is currently sailing in the waters off the Boso Peninsula\!  

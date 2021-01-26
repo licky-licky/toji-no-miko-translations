@@ -1,9 +1,7 @@
 
 3-8 Ichikishimahime's Encirclement
 ==================================
-https://youtu.be/fSEJRsLOZ8M
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fSEJRsLOZ8M"></iframe>](:Iframe)  
 
 ## 1: Waste of a Toji (1)
 At that time, on the north side of Choshi--

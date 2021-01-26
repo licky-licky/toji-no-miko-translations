@@ -1,9 +1,7 @@
 
 Crystal Recovery! Afterparty in an Uproar!
 ==========================================
-https://youtu.be/LHITNyK2J3c?t=1383
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/LHITNyK2J3c?t=1383"></iframe>](:Iframe)  
 
 ## 1: Afterparty in an Uproar\! Prologue
 **Suzuka:** ...Phew, what a relief it is that the raffle competition has finished safely.  

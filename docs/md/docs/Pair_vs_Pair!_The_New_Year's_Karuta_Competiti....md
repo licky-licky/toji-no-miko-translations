@@ -1,9 +1,7 @@
 
 Pair vs Pair! The New Year's Karuta Competiti...
 ================================================
-https://www.youtube.com/watch?v=RRORlbc45gA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/RRORlbc45gA"></iframe>](:Iframe)  
 
 ## 1: Shoot for Victory\! New Year's Karuta Competition
 **Hiyori:** It feels a lot more empty than usual around here.   

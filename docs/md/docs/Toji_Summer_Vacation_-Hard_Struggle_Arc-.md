@@ -1,9 +1,7 @@
 
 Toji Summer Vacation -Hard Struggle Arc-
 ========================================
-https://www.youtube.com/watch?v=tUWzal-cxwQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/tUWzal-cxwQ"></iframe>](:Iframe)  
 
 ## 1: The Hard Summer Vacation to Come
 **Mihono:** Wow, it's the sea; you can see the sea from here-\! I can't wait; I haven't been to the beach in forever\!  

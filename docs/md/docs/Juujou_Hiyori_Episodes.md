@@ -1,24 +1,12 @@
 
 Juujou Hiyori Episodes
 ======================
-https://www.youtube.com/watch?v=vnuK0uJcDIQ
-
-  
-https://www.youtube.com/watch?v=LkYpstF7b2U
-
-  
-https://youtu.be/Wlln5tvZrb0
-
-  
-https://youtu.be/Vm_3KVXqxvE
-
-  
-https://youtu.be/FUwv5IZDyA4
-
-  
-https://youtu.be/61uP0-QaIpA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/vnuK0uJcDIQ"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/LkYpstF7b2U"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Wlln5tvZrb0"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Vm_3KVXqxvE"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/FUwv5IZDyA4"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/61uP0-QaIpA"></iframe>](:Iframe)  
 
 ## 1: Melting Smile
 **Kanami:** Oh, there's an ice cream shop over there. I could really go for some ice cream...  
@@ -207,9 +195,7 @@ https://youtu.be/61uP0-QaIpA
   
 **Kanami:** Hey, Hiyori-chan\! I just thought of a really good idea\! Can we do a practice round to test it out?  
 **Hiyori:** You just get back to work\!  
-https://www.youtube.com/watch?v=LkYpstF7b2U
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/LkYpstF7b2U"></iframe>](:Iframe)  
 
 ## [Stage Girl: Start]: We'll Starlight\!
 **Hiyori:** HAAA\!  
@@ -279,9 +265,7 @@ https://www.youtube.com/watch?v=LkYpstF7b2U
 **Hiyori:** I normally have to keep someone far more persistent company, after all. I'm fine with being your opponent whenever you want.  
 **Hiyori:** And also, make sure not to forget the way you moved before, alright?  
 **Karen:** Okay\! I'll never forget it, Hiyori-chan\!  
-https://youtu.be/Wlln5tvZrb0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Wlln5tvZrb0"></iframe>](:Iframe)  
 
 ## [Ceremonial Dress - Misogi: Start]: Isolation
 **Hiyori:** (When did this start, I wonder? When I became conscious of my loneliness.)  
@@ -350,9 +334,7 @@ https://youtu.be/Wlln5tvZrb0
 **Hiyori:** (Even so, being able to fight side by side with others like I am now, I'm sure I can accomplish things I couldn't before.)  
 **Hiyori:** (In that case, this strength is enough.)  
 **Hiyori:** (With this, I won't regret these days I spend with Kanami and the rest. No matter what may come, I won't regret it.)  
-https://youtu.be/Vm_3KVXqxvE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Vm_3KVXqxvE"></iframe>](:Iframe)  
 
 ## [Yuusha 2: Hiyori: Start]: Toji and Heroes-- The Stoic Pair
 **Sonoko:** We'll see you off from here\~.  
@@ -442,9 +424,7 @@ https://youtu.be/Vm_3KVXqxvE
 **Karin:** It's not that big a deal. Come on, we should head back soon.  
 **Hiyori:** That's true. I still have plenty more to recommend you. I'll give you the rest of them on the train.  
 **Karin:** Hey... They aren't all chocolate mint, are they?  
-https://youtu.be/FUwv5IZDyA4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/FUwv5IZDyA4"></iframe>](:Iframe)  
 
 ## [Fantasy - Hiyori: Start]: Welcome to the World of Fantasy
 **Tsugumi:** Thank you for participating in today's test of our new training simulation system, Juujou-san, Morishita-san.  
@@ -515,9 +495,7 @@ https://youtu.be/FUwv5IZDyA4
 **Kihiro:** Miss Ban\!  
 **Tsugumi:** Morishita-san\!  
 **Hiyori:** (I get the feeling two people who should never team up just got put together...)  
-https://youtu.be/61uP0-QaIpA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/61uP0-QaIpA"></iframe>](:Iframe)  
 
 ## [Pirate - Hiyori: Start]: Inami and Shichinosato and...
 **Aradama:** KSHAAAAAA...\!\!  

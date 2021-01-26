@@ -1,9 +1,7 @@
 
 Elite Guard Memoirs: Hakone Arc
 ===============================
-https://www.youtube.com/watch?v=PKD_08Mmfmo
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/PKD_08Mmfmo"></iframe>](:Iframe)  
 
 ## 1: Let's Go to the Hot Springs
 **Yume:** Ahhh, I'm so bored-. Hey, can't we all go to some hot springs together?  

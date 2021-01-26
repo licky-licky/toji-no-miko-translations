@@ -1,18 +1,10 @@
 
 Ban Tsugumi Episodes
 ====================
-https://youtu.be/K--ldddq7Fw
-
-  
-https://youtu.be/evNvCiMwU_E
-
-  
-https://youtu.be/hYaqFwGk9SI
-
-  
-https://youtu.be/imReN1M24ss
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/K--ldddq7Fw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/evNvCiMwU_E"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/hYaqFwGk9SI"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/imReN1M24ss"></iframe>](:Iframe)  
 
 ## 1: Efficiency Above All
 **Mihono:** Tsugumi-san, delivery for youuu\!  
@@ -282,9 +274,7 @@ Our current relationship? If I had to say, I don't think it's going too badly.
 **Tsugumi:** (I would like to continue collecting data on this case and make a better judgment from the findings. However, to avoid exposing toji to unnecessary risks, I believe it will take some time.)  
 **Tsugumi:** Phew... That should do for now.  
 **Tsugumi:** If I'm being honest, it's an awfully rough hypothesis. But, considering the help I've been given, I hope the results will be worth it.  
-https://youtu.be/evNvCiMwU_E
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/evNvCiMwU_E"></iframe>](:Iframe)  
 
 ## [Xmas' 19 - Tsugumi: Start]: With Our Caroling
 **Mihono:** Wow-\! Come take a look\! There's so many tasty looking cakes\!  
@@ -377,9 +367,7 @@ December 25th.
 **Tsugumi:** By pure chance, we now have a fantastic backdrop for our performance. I'm sure we'll be able to carol well again today.  
 **Mihono:** That's for sure. It'd be a waste to be feeling nervous singing in someplace this romantic looking\! Let's have as much fun as we can with it\!  
 **Tsugumi:** Sure. Now then, let's go out. Our choir is taking the stage.  
-https://youtu.be/hYaqFwGk9SI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/hYaqFwGk9SI"></iframe>](:Iframe)  
 
 ## [Misogi - Tsugumi: Start]: Chasing the Mysteries of Aradama
 **Tsugumi:** [sippp, sippp... slurrrp...]  
@@ -537,9 +525,7 @@ The day of the pool cleaning.
 **Akira:** You don't seem like it, but you're a real people person. Pretty good.  
 **Tsugumi:** I'm not; let's just leave that aside and finish cleaning the pool.  
 **Akira:** ...You're tough to get a handle on, y'know.  
-https://youtu.be/imReN1M24ss
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/imReN1M24ss"></iframe>](:Iframe)  
 
 ## [Mahou Shoujo - Tsugumi: Start]: Tsugumi-san Can Do Anything
 **Announcement:** --An outbreak of aradama has been confirmed. Please follow instructions from officials and evacuate immediately.  

@@ -1,24 +1,12 @@
 
 Setouchi Chie Episodes
 ======================
-https://www.youtube.com/watch?v=KsqE0-j_osU
-
-  
-https://youtu.be/UrOq6F25WZg
-
-  
-https://youtu.be/ECgV1cc_IOw
-
-  
-https://youtu.be/UMDuFWf-sOc
-
-  
-https://youtu.be/FpDzSMNFIXE
-
-  
-https://youtu.be/-FnEpWyIfT4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/KsqE0-j_osU"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UrOq6F25WZg"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ECgV1cc_IOw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UMDuFWf-sOc"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/FpDzSMNFIXE"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/-FnEpWyIfT4"></iframe>](:Iframe)  
 
 ## 1: Effective Applications of the Resource Known as Nene
 In the research lab of Osafune Girls' Academy...
@@ -160,9 +148,7 @@ In the research lab of Osafune Girls' Academy...
 **Chie:** ......  
 **Mirja:** ...It seems your duties as an onee-san aren't over yet.  
 **Chie:** Fufu... I guess not\~.  
-https://youtu.be/UrOq6F25WZg
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UrOq6F25WZg"></iframe>](:Iframe)  
 
 ## [Swimsuit 19: Start]: Shirie
 **Kofuki:** You've got a fat ass too, huh, Chichie.  
@@ -224,11 +210,8 @@ https://youtu.be/UrOq6F25WZg
 **Kofuki:** Sigh... I shouldn't have done that, okay...  
 **Kofuki:** Ughh...  
 **Kofuki:** (I'll just stick to messing with her tits from now on...)  
-https://youtu.be/ECgV1cc_IOw
-
-  
-
-## [Misogi - Chie: Start] The Torn Ribbon
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ECgV1cc_IOw"></iframe>](:Iframe)  
+**[Misogi - Chie:** Start] The Torn Ribbon  
 **Aradama:** KEEEEEEEEE\!  
 **Chie:** HAAAAAA\!  
 **Mihono:** Alriiight\! There's no more aradama around, so I think we're probably done here now\!  
@@ -302,9 +285,7 @@ https://youtu.be/ECgV1cc_IOw
 **Mihono:** Will you take it?  
 **Chie:** ...Thank you, Mihono-chan.  
 **Chie:** The ribbon I got from the others... And this ribbon too, and the torn ribbon as well... These are all my treasures.  
-https://youtu.be/UMDuFWf-sOc
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UMDuFWf-sOc"></iframe>](:Iframe)  
 
 ## [Railgun - Chie: Start]: Sightseeing Kamakura with Onee-san
 **Ruiko:** I was thinking this seeing it up close, but, doesn't the Great Buddha of Kamakura seem kind of hunched over?  
@@ -370,9 +351,7 @@ https://youtu.be/UMDuFWf-sOc
 **Ruiko:** Ehh-...  
 **Chie:** Now then, how about we make another one for Saten-san\~.  
 **Kazari:** Sure\~.  
-https://youtu.be/FpDzSMNFIXE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/FpDzSMNFIXE"></iframe>](:Iframe)  
 
 ## [Dress - Chie: Start]: Taking a Breather
 **Chie:** Nnn...\! They're finally done drawing raffle tickets-. I can take a break at last.  
@@ -439,9 +418,7 @@ https://youtu.be/FpDzSMNFIXE
 **Chie:** Because I'm me... Is that why? Well thanks, Mihono-chan.  
 **Kanami:** That's enough for you?  
 **Chie:** Of course. After all, I am her onee-san.  
-https://youtu.be/-FnEpWyIfT4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/-FnEpWyIfT4"></iframe>](:Iframe)  
 
 ## [Nurse - Chie: Start]: I'm Worried After All
 **Mihono:** You're going to be in a practical exercise for medical courses?  

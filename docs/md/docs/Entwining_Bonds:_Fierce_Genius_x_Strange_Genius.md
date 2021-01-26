@@ -1,9 +1,7 @@
 
 Entwining Bonds: Fierce Genius x Strange Genius
 ===============================================
-https://youtu.be/xxSvgtSquMk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/xxSvgtSquMk"></iframe>](:Iframe)  
 
 ## 1: An Awkward Trip for Two?
 **Yume:** There's a hot spring at the inn we're staying at tonight, right? I can't wait\~\! When it gets to be night, let's play cards\! And also, I brought othello too.  

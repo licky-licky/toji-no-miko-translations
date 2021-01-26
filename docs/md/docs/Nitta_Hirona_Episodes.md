@@ -1,9 +1,7 @@
 
 Nitta Hirona Episodes
 =====================
-https://youtu.be/ZOBxjHGGX8w
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ZOBxjHGGX8w"></iframe>](:Iframe)  
 
 ## 1: The Type I'm No Good With
 **Mimi:** Hirona-onee-san\! Come play with Mimi-\!  

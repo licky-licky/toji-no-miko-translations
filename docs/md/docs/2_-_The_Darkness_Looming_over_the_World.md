@@ -1,9 +1,7 @@
 
 2 - The Darkness Looming over the World
 =======================================
-https://www.youtube.com/watch?v=495_udOh8hI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/495_udOh8hI"></iframe>](:Iframe)  
 
 ## 1: Harajuku Revisited (1)
 **Mirja:** We've reached Meiji Shrine. It won't be long now before we arrive at Aoto-kan.  

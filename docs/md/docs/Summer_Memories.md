@@ -1,9 +1,7 @@
 
 Summer Memories
 ===============
-https://youtu.be/7q5s6NyENVM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/7q5s6NyENVM"></iframe>](:Iframe)  
 
 ## 1: Straightforwardness at Summer's End
 **Kofuki:** Oiii, you in here-?  

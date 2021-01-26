@@ -1,12 +1,8 @@
 
 Inami Suu Episodes
 ==================
-https://youtu.be/z_ITNXUtuEE
-
-  
-https://youtu.be/ee9V9yy0uqk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/z_ITNXUtuEE"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ee9V9yy0uqk"></iframe>](:Iframe)  
 
 ## 1: Hokuto's Spartan Training
 **Suu:** Where should I go with Hokuto-san tomorrow?  
@@ -283,9 +279,7 @@ https://youtu.be/ee9V9yy0uqk
 **Suu:** I have\!\? I'm really improving...\!  
 **Hokuto:** You are. Which is why, let's do our best training you. I'm going to make it even more intense than it's been so far.  
 **Suu:** B-But I don't want that-\!\!  
-https://youtu.be/ee9V9yy0uqk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ee9V9yy0uqk"></iframe>](:Iframe)  
 
 ## [Pirate - Suu: Start]: After Eliminating the Aradama--
 **Aradama:** AAAAA...  

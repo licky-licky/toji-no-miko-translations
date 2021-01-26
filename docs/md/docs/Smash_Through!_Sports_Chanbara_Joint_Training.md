@@ -1,9 +1,7 @@
 
 Smash Through! Sports Chanbara Joint Training
 =============================================
-https://youtu.be/Q0k7SGHuyNM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Q0k7SGHuyNM"></iframe>](:Iframe)  
 
 ## 1: Joint Training Always Comes When You Least Expect\!\?
 **Kanami:** Why do you think they called all the toji who weren't on missions to meet here? Mai-chan, do you know?  
@@ -256,9 +254,7 @@ https://youtu.be/Q0k7SGHuyNM
 **Kinuka:** In that case, why don't we try another one?  
 **Yui:** I'll follow wherever you ladies lead me-\!  
 **Ellen:** That's the spirit\! The day's only just getting started, so let's enjoy it to our heart's content\!  
-https://youtu.be/eNoknnmG1eI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/eNoknnmG1eI"></iframe>](:Iframe)  
 
 ## [Kanami: Start]: Please, Mai-chan\!
 **Kanami:** Let's go to the pool together, Mai-chan\!  
@@ -326,9 +322,7 @@ https://youtu.be/eNoknnmG1eI
 **Kanami:** Ahh... That was so fun\!  
 **Kanami:** Let's go again, and bring Yui-chan and Tsugumi-san along\! This time, you can sit in front, Mai-chan\!  
 **Mai:** Alright\!  
-https://youtu.be/WUlpqEzhjx0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/WUlpqEzhjx0"></iframe>](:Iframe)  
 
 ## [Yui: Start]: The Pool is Heaven
 **Yui:** Tsugumi-san, want to come to the pool with me next Sunday?  

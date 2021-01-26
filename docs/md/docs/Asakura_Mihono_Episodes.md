@@ -1,24 +1,12 @@
 
 Asakura Mihono Episodes
 =======================
-https://www.youtube.com/watch?v=G49bNBzXc8k
-
-  
-https://youtu.be/datvCWUrKKc
-
-  
-https://youtu.be/tSsi3HMt5qU
-
-  
-https://youtu.be/EgIu3T30SHE
-
-  
-https://youtu.be/fhciZ41akJA
-
-  
-https://youtu.be/75s9LlmOAs4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/G49bNBzXc8k"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/datvCWUrKKc"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/tSsi3HMt5qU"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/EgIu3T30SHE"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fhciZ41akJA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/75s9LlmOAs4"></iframe>](:Iframe)  
 
 ## 1: Asakura Mihono's Easygoing Day
 **Mihono:** Yawwwn... Eh\!\? Crap\! I'm gonna be late\!  
@@ -188,9 +176,7 @@ https://youtu.be/75s9LlmOAs4
 **Futaba:** Really...? You sure know a lot, Mihono... Wait, how do you know so much about Hattori-senpai... Wait...\!\?  
 **Futaba:** Tell me\! Is he your ex\!\?  
 **Mihono:** Why'd you think that\!\?  
-https://youtu.be/datvCWUrKKc
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/datvCWUrKKc"></iframe>](:Iframe)  
 
 ## [Ceremonial Dress - Misogi: Start]: First Mission as a Toji
 --This was at the time of Asakura Mihono's first assignment to suppress aradama.
@@ -258,9 +244,7 @@ https://youtu.be/datvCWUrKKc
 **Yoshizumi:** Right, you can talk to me anytime.  
 **Mihono:** Alright\! I'll go right to the dojo and keep training\! Starting with 100 practice swings\! No wait, it should be 200\!  
 **Mihono:** Cause where there's a will, there's a way\! Isn't that right, Mom\!  
-https://youtu.be/tSsi3HMt5qU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/tSsi3HMt5qU"></iframe>](:Iframe)  
 
 ## [Fairytale Mihono: Start]: Off to Wonderland
 **Mihono:** ......I don't get it at allll. Help me, Chii-nee...  
@@ -330,9 +314,7 @@ https://youtu.be/tSsi3HMt5qU
 **Chie:** Is that so, the me in your dreams taught you about it. Then, let's do the next problem.  
 **Mihono:** The me inside my dreams... Was that all it was? ......That really was just a dream, wasn't it?  
 **Chie:** What are you saying? Fufufu, you're so funny, Mihono-chan.  
-https://youtu.be/EgIu3T30SHE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/EgIu3T30SHE"></iframe>](:Iframe)  
 
 ## [Casual 20 - Mihono: Start]: Planning a New Year's Trip
 Several days before New Year's Eve.
@@ -423,9 +405,7 @@ On New Year's Eve. Partway through Mihono and Chie's trip together, they happene
 **Chie:** Well, it is a little embarrassing, but since we are on a big trip, it might be nice to have photos like this too.  
 **Mihono:** I guess so... Then, when in Rome\! [hug-]\!  
 **Kiyoka:** Yeah, that pose looks perfect\! I'm taking the picture now. Say cheese\!  
-https://youtu.be/fhciZ41akJA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fhciZ41akJA"></iframe>](:Iframe)  
 
 ## [Dress 20 - Mihono: Start]: I Want to Throw a Thank You Party\!
 **Mihono:** Let's throw a thank you party for the Miss Five Traditions competition\! Everybody tried really hard, so, no matter how it turns out, let's thank them\!  
@@ -496,9 +476,7 @@ https://youtu.be/fhciZ41akJA
 **Mihono:** There was that too, but it's mostly because I couldn't decide what earrings to go with. What do you think of these?  
 **Chie:** I like them; they look great on you, Mihono-chan.  
 **Mihono:** Ehehe, I'm glad to hear it then\! Okay-, let's all go out to the party\!  
-https://youtu.be/75s9LlmOAs4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/75s9LlmOAs4"></iframe>](:Iframe)  
 
 ## [Summer Uniform - Mihono: Start]: Because of the Horizon Alliance?
 **Mihono:** Tomorrow's barbecue is going to be great, huh, Kiyoka.  

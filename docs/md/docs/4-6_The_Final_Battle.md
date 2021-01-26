@@ -1,9 +1,7 @@
 
 4-6 The Final Battle
 ====================
-https://youtu.be/2H-HzAX9R9w
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/2H-HzAX9R9w"></iframe>](:Iframe)  
 
 ## 1: Mihono Arrives
 **Kaoru:** In the end, we couldn't go along with them...  

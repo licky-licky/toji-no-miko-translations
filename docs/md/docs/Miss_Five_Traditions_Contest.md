@@ -1,9 +1,7 @@
 
 Miss Five Traditions Contest
 ============================
-https://youtu.be/N8q9gtW9xcY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/N8q9gtW9xcY"></iframe>](:Iframe)  
 
 ## 1: Aiming to Be the Toji Representative
 **Maki:** Yukari-sama. Shidou Maki and Konohana Suzuka have arrived.  
@@ -322,9 +320,7 @@ You will decide who becomes Miss Five Traditions\! By all means, please vote for
 **Announcer:** Thank you for your comments\! We'll look forward to seeing your efforts in the future\!  
 **Announcer:** And, to those of you who participated in the voting, thank you once again\!  
 **Announcer:** Please continue to support the toji from here on out\!  
-https://youtu.be/fhciZ41akJA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fhciZ41akJA"></iframe>](:Iframe)  
 
 ## [Dress 20 - Mihono: Start]: I Want to Throw a Thank You Party\!
 **Mihono:** Let's throw a thank you party for the Miss Five Traditions competition\! Everybody tried really hard, so, no matter how it turns out, let's thank them\!  

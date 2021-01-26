@@ -1,9 +1,7 @@
 
 Ninja War Under the Moonlight
 =============================
-https://www.youtube.com/watch?v=55feUw3Eyvw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/55feUw3Eyvw"></iframe>](:Iframe)  
 
 ## 1: Ninja War Outbreak: Steal the Secret Letter
 **Hamatsuka Sakura:** M-M-M-Makizou-sama, Suzusuke-sama, s-something terrible... Something terrible has happened\!\!  

@@ -1,9 +1,7 @@
 
 5-2 The Instigators up North
 ============================
-https://youtu.be/kbhGuet_kEw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/kbhGuet_kEw"></iframe>](:Iframe)  
 
 ## 1: Worry
 **Mihono:** This thing that's happening to me... Akira-san said they knew the reason why it's going rampant...  

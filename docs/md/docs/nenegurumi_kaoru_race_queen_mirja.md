@@ -90,8 +90,9 @@ The Nenegurumi Shop, now open.
 **Ellen:** You're welcome\! And, more importantly, before Kaoru wakes up, let's sell and sell till we're sold out\!  
 **Minaki:** Sure\!  
 **Kaoru:** .........[snooze].  
+[very low quality video]
 
-## [very low quality video]
+  
 https://streamable.com/nprbpr
 
   

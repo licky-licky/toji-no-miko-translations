@@ -1,9 +1,7 @@
 
 Maki/Mirja/Kofuki/Kanami episodes
 =================================
-https://youtu.be/WNtGgHguxrw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/WNtGgHguxrw"></iframe>](:Iframe)  
 
 ## [SDDT - Maki: Start]: Maki of the Special Defense Team
 **Maki:** Hmph\! ...Hmph\!  
@@ -76,9 +74,7 @@ https://youtu.be/WNtGgHguxrw
 **Suzuka:** Why yes, of course I looked it up.  
 **Maki:** Oh, that's good.  
 **Suzuka:** Fufu, allow me to lead the way.  
-https://youtu.be/Y6ff2yewfcQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Y6ff2yewfcQ"></iframe>](:Iframe)  
 
 ## [Halloween 19 - Mirja: Start]: Kaiju Mirja?
 **Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  
@@ -164,9 +160,7 @@ On the day of filming.
 **Mirja:** (What exactly was she expecting to need it for... Though, Iwakura Sanae seems to be happy about it... Well, there's no harm in it.)  
 **Mirja:** Then, I'll be looking forward to it.  
 **Sanae:** Sure\! Please do\!  
-https://youtu.be/SIh8DzG3-h8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SIh8DzG3-h8"></iframe>](:Iframe)  
 
 ## [Aradama Hoodie - Kofuki: Start]: Pissing Me Off
 **Kofuki:** GYAAAAAAAAAAAAAAAAAAAAAA\!\!  
@@ -240,9 +234,7 @@ https://youtu.be/SIh8DzG3-h8
 **Mihono:** How am I supposed to do that when I ate it\!  
 **Tsugumi:** You could just go buy another one, Shichinosato-san.  
 **Kofuki:** Like you can talk when you're the one who went and ate it-\!  
-https://youtu.be/bUqlN1QeE1o
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqlN1QeE1o"></iframe>](:Iframe)  
 
 ## [Stage Girl - Kanami: Start]: Somebody I Want to Spar With\!
 **Maya:** Now then, I'll have you leave the stage. --HAAH\!  

@@ -1,9 +1,7 @@
 
 North and South Swordsman Record Part 2
 =======================================
-https://youtu.be/B5DZsaFp9t0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/B5DZsaFp9t0"></iframe>](:Iframe)  
 
 ## 1: Joint Training... It Started...
 Before the start of the Renpu Heijou Joint-Training.

@@ -1,18 +1,10 @@
 
 Shichinosato Kofuki Episodes
 ============================
-https://www.youtube.com/watch?v=Lk8J11VDtLA
-
-  
-https://youtu.be/Qn8sW115TSU
-
-  
-https://youtu.be/SIh8DzG3-h8
-
-  
-https://youtu.be/uHqT2Ku_lgU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Lk8J11VDtLA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Qn8sW115TSU"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SIh8DzG3-h8"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/uHqT2Ku_lgU"></iframe>](:Iframe)  
 
 ## 1: Dreaming Kofuki-chan
 --Progress report from research lab 8, in charge of subject Shichinosato Kofuki. Recorded by Ban Tsugumi.
@@ -201,9 +193,7 @@ Another day...
 **Kofuki:** Sh\! Shut up\! It's nothing\!  
 **Kiyoka:** ...She's just shy, isn't she?  
 **Mihono:** She's having a meltdown.  
-https://youtu.be/Qn8sW115TSU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Qn8sW115TSU"></iframe>](:Iframe)  
 
 ## [Railgun - Kofuki: Start]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!
 **Ruiko:** Shichinosato-san\! Is it really true that Renpu Girls' Academy is researching human aradamas behind closed doors\!\?  
@@ -275,9 +265,7 @@ https://youtu.be/Qn8sW115TSU
 **Kofuki:** Take it easy with chasing these weird rumors, will you.  
 **Ruiko:** Right, I'll be more careful about it from now on\!  
 **Tsugumi:** ...I notice you didn't say you were going to stop.  
-https://youtu.be/SIh8DzG3-h8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SIh8DzG3-h8"></iframe>](:Iframe)  
 
 ## [Aradama Hoodie - Kofuki: Start]: Pissing Me Off
 **Kofuki:** GYAAAAAAAAAAAAAAAAAAAAAA\!\!  
@@ -351,9 +339,7 @@ https://youtu.be/SIh8DzG3-h8
 **Mihono:** How am I supposed to do that when I ate it\!  
 **Tsugumi:** You could just go buy another one, Shichinosato-san.  
 **Kofuki:** Like you can talk when you're the one who went and ate it-\!  
-https://youtu.be/uHqT2Ku_lgU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/uHqT2Ku_lgU"></iframe>](:Iframe)  
 
 ## [Misogi - Kofuki: Start]:
 **Tsugumi:** ...Let's put an end to things here for today. Good work, Shichinosato-san.  

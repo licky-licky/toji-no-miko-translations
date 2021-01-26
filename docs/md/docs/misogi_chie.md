@@ -1,11 +1,8 @@
 
 misogi chie
 ===========
-https://youtu.be/ECgV1cc_IOw
-
-  
-
-## [Misogi - Chie: Start] The Torn Ribbon
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ECgV1cc_IOw"></iframe>](:Iframe)  
+**[Misogi - Chie:** Start] The Torn Ribbon  
 **Aradama:** KEEEEEEEEE\!  
 **Chie:** HAAAAAA\!  
 **Mihono:** Alriiight\! There's no more aradama around, so I think we're probably done here now\!  

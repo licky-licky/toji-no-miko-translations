@@ -173,24 +173,20 @@ def generate_file(title, data):
         line = line.replace('!', '\!')
         line = line.replace('!?', '!\?')
         line = line.replace('!"', '!\\"')
-        if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line)) or line[0].isnumeric()):
+        if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line and ']:' in line)) or line[0].isnumeric()):
             mdFile.write(Header.atx_level_2(line))
         elif ':' in line and 'http' not in line:
             pos = line.find(':')
             bold_name = TextUtils.bold(line[0:pos+1])
             mdFile.write(bold_name + line[pos+1:])
             mdFile.new_line()
-        # elif 'https://www.youtube' in line:
-        #     id = line.replace('https://www.youtube.com/watch?v=', '')
-        #     video = f'''
-        #          <iframe width="560" height="315"
-        #         src="https://www.youtube.com/embed/{id}" 
-        #         frameborder="0" 
-        #         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-        #         allowfullscreen></iframe>
-        #     '''
-        #     mdFile.write(video)
-        #     mdFile.new_line()
+        elif 'https://www.youtube' in line or 'https://youtu.be/' in line:
+            if 'youtube' in line:
+                id = line.replace('https://www.youtube.com/watch?v=', '')
+            else:
+                id = line.replace('https://youtu.be/', '')
+            mdFile.write(f'[<iframe width="640" height="480" src="https://www.youtube.com/embed/{id}"></iframe>](:Iframe)')
+            mdFile.new_line()
         elif line:
             mdFile.write(line + "\n\n")
             mdFile.new_line()

@@ -1,48 +1,20 @@
 
 Etou Kanami Episodes
 ====================
-https://www.youtube.com/watch?v=bx3GrvHwUcI
-
-  
-https://youtu.be/bXYlq8dSvxI
-
-  
-https://youtu.be/eNoknnmG1eI
-
-  
-https://youtu.be/JHZISRWAzhM
-
-  
-https://youtu.be/JHZISRWAzhM
-
-  
-https://youtu.be/bUqlN1QeE1o
-
-  
-https://youtu.be/KlIqfSZ3Cl8
-
-  
-https://youtu.be/eY-_-MB4L7A
-
-  
-https://youtu.be/zv49ocfI1Eo
-
-  
-https://youtu.be/SLmEfJhjktU
-
-  
-https://youtu.be/wCKVDULo_UY
-
-  
-https://youtu.be/U1jobRU1Nr4
-
-  
-https://youtu.be/_0ke0wRCknw
-
-  
-https://youtu.be/m5rpY-umfYk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bx3GrvHwUcI"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bXYlq8dSvxI"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/eNoknnmG1eI"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/JHZISRWAzhM"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/JHZISRWAzhM"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqlN1QeE1o"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/KlIqfSZ3Cl8"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/eY-_-MB4L7A"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/zv49ocfI1Eo"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SLmEfJhjktU"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/wCKVDULo_UY"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/U1jobRU1Nr4"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/_0ke0wRCknw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/m5rpY-umfYk"></iframe>](:Iframe)  
 
 ## 1: The Match That Started It
 **Kanami:** Mihono-chan's my opponent in the semi-finals?  
@@ -229,9 +201,7 @@ https://youtu.be/m5rpY-umfYk
 **Mihono:** So if I don't get at least that obsessed, I'll never beat Kanami...  
 **Mihono:** Rika, to be like Kanami, I'm going to have to focus more and more on swordfighting\! If there's a will... There's a way\!  
 **Rika:** Mihono-chan... Looking at your score, shouldn't you put that effort into studying?  
-https://youtu.be/bXYlq8dSvxI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bXYlq8dSvxI"></iframe>](:Iframe)  
 
 ## [Ceremonial Dress - Misogi: Start]: Master's Teachings
 --A while before the tournament took place.
@@ -313,9 +283,7 @@ https://youtu.be/bXYlq8dSvxI
 **Kanami:** (Just by keeping that in mind, swordfighting gets so much more interesting...\!)  
 **Kanami:** (But, why did I suddenly think to try doing that? I feel like someone told me about it, but...)  
 **Kanami:** (Well, whoever they are, I've got to thank them someday\!)  
-https://youtu.be/eNoknnmG1eI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/eNoknnmG1eI"></iframe>](:Iframe)  
 
 ## [Swimsuit 19: Start]: Please, Mai-chan\!
 **Kanami:** Let's go to the pool together, Mai-chan\!  
@@ -383,9 +351,7 @@ https://youtu.be/eNoknnmG1eI
 **Kanami:** Ahh... That was so fun\!  
 **Kanami:** Let's go again, and bring Yui-chan and Tsugumi-san along\! This time, you can sit in front, Mai-chan\!  
 **Mai:** Alright\!  
-https://youtu.be/JHZISRWAzhM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/JHZISRWAzhM"></iframe>](:Iframe)  
 
 ## [Railgun - Kanami: Start]: The Mysterious Use of the Remote
 One day, Kanami was having tea with Mikoto and the rest.
@@ -463,9 +429,7 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Mai:** Do these two maybe get along after all...  
 **Kanami:** That's what it seems like.  
 **Kanami:** But still, what's that remote for anyway?  
-https://youtu.be/bUqlN1QeE1o
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqlN1QeE1o"></iframe>](:Iframe)  
 
 ## [Stage Girl - Kanami: Start]: Somebody I Want to Spar With\!
 **Maya:** Now then, I'll have you leave the stage. --HAAH\!  
@@ -529,9 +493,7 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 **Hikari:** Hm, real swordfighting was incredible. Teach me. Even if it's only the basic movements.  
 **Kanami:** Sure thing\! I'll welcome anybody interested in swordfighting with open arms\! We'll start with your stance, okay?  
 **Hikari:** This kind of seems like it could take a while... But, I'll be in your care.  
-https://youtu.be/KlIqfSZ3Cl8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/KlIqfSZ3Cl8"></iframe>](:Iframe)  
 
 ## [Valkyrie - Kanami: Start]: Let's Do a Survey
 **Kanami:** Promotional photos?  
@@ -612,9 +574,7 @@ Kanami's promotional photos... The day of shooting.
 **Ellen:** See, everyone's loving it\! What about you, Kaoru?  
 **Kaoru:** Yeah, yeah, I was wrong. I think it's pretty good.  
 **Kaoru:** (Do I gotta cosplay for my promotional shots too...? Sigh.)  
-https://youtu.be/eY-_-MB4L7A
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/eY-_-MB4L7A"></iframe>](:Iframe)  
 
 ## [VR Suit - Kanami: Start]: Trip to Unreality
 **Tsugumi:** Etou-san, Itomi-san. Thank you for going out of your way to stop by the lab today.  
@@ -697,9 +657,7 @@ https://youtu.be/eY-_-MB4L7A
 **Kanami:** Yay-, I'm glad to hear it\! Who'd have thought Mai-chan would bring cookies at just the right time\! I'll have some-\!  
 **Sayaka:** I'm glad too. Mai, I'll have some. [munch much]... They're tasty\!  
 **Kanami:** Yeah, yeah\! The cake in the game was tasty too, but your cookies really are the tastiest after all, Mai-chan-\!  
-https://youtu.be/zv49ocfI1Eo
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/zv49ocfI1Eo"></iframe>](:Iframe)  
 
 ## [London - Kanami: Start]: I Want to Go on a Trip
 **Kanami:** Hiyori-chan\!  
@@ -762,9 +720,7 @@ https://youtu.be/zv49ocfI1Eo
 **Hiyori:** When that time comes, I'll go with you wherever, to London or anywhere.  
 **Hiyori:**　But let's get going, Kanami\!  
 **Kanami:** Okay, Hiyori-chan\!  
-https://youtu.be/SLmEfJhjktU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SLmEfJhjktU"></iframe>](:Iframe)  
 
 ## [Halloween '19 - Kanami: Start]: Starting Halloween with Sweet Pie
 **Kanami:** Mmm, Mai-chan's pumpkin pie is so good\~\!  
@@ -830,9 +786,7 @@ https://youtu.be/SLmEfJhjktU
 **Kanami:** Yeah. We should all go together for Halloween again next year\!  
 **Kanami:** Ah, but before that, there's the cultural festival, Christmas, New Year's, Valentines. There's a lot of stuff that could be fun.  
 **Hiyori:** There sure is.  
-https://youtu.be/wCKVDULo_UY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/wCKVDULo_UY"></iframe>](:Iframe)  
 
 ## [Easter - Kanami: Start]: Attempting the Egg Hunt\!
 **Ellen:** Kanamin\! Want to do an egg hunt with everyone, to celebrate Easter?  
@@ -912,9 +866,7 @@ Easter day.
 **Hiyori:** Hey, Kanami\! Don't go throwing eggs\! And now the ducks are coming my way.  
 **Tsugumi:** The egg hunt turned out far more exciting than I was expecting, from the looks of it.  
 **Kanami:** Don't go sounding proud about it now-\! Help us, Tsugumi-san-\!\!  
-https://youtu.be/U1jobRU1Nr4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/U1jobRU1Nr4"></iframe>](:Iframe)  
 
 ## [Summer Uniform 20 - Kanami: Start]: In Danger of Failing\!\?
 **Kanami:** Help me, Hiyori-chan\! At this rate, I'm gonna fail\!  
@@ -986,9 +938,7 @@ https://youtu.be/U1jobRU1Nr4
 **Sanae:** Etou-san's skills are top class among toji, so let's both try our best.  
 **Mayumi:** I'll be in your care, Etou-san\!  
 **Kanami:** Sure\! I'm looking forward to seeing your swordfighting too, Hasui-san, Iwakura-san\!  
-https://youtu.be/_0ke0wRCknw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/_0ke0wRCknw"></iframe>](:Iframe)  
 
 ## [Hostess - Kanami: Start]: So Long as My Workplace Experience is With Mai-chan\!
 **Kanami:** ...We're finally done with makeup lessons. Ahh, I'm beat.  
@@ -1060,9 +1010,7 @@ https://youtu.be/_0ke0wRCknw
 **Kanami:** And then, after they're strong, they can come back and fight their master\! That'd be exciting\!  
 **Mai:** So, once they got strong enough, you'd fight your own pupils after all.  
 **Kanami:** Of course I would\!  
-https://youtu.be/m5rpY-umfYk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/m5rpY-umfYk"></iframe>](:Iframe)  
 
 ## [Mahou Shoujo - Kanami: Start]: Were You Going Easy?
 **Sayaka:** Are you ready?  

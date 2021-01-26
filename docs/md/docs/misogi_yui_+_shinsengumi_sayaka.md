@@ -1,9 +1,7 @@
 
 misogi yui + shinsengumi sayaka
 ===============================
-https://youtu.be/pR7T3znqc5E
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/pR7T3znqc5E"></iframe>](:Iframe)  
 
 ## [Misogi - Yui: Start]: A Different Possibility
 **Tsugumi:** Good work, Yamashiro-san. That's all I need from you for today.  
@@ -96,9 +94,7 @@ https://youtu.be/pR7T3znqc5E
 **Yui:** The girls of the investigation team really are the best there is\!  
 **Mirja:** ...A crying child will soon be laughing, I suppose. Well, if you've recovered your spirit, then let's leave it at that.  
 **Yui:** Right\! Yamashiro Yui's going at it in full spirit for another day\!  
-https://youtu.be/UdyV4xZkk2E
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UdyV4xZkk2E"></iframe>](:Iframe)  
 
 ## [Shinsengumi - Sayaka: Start]: A Sudden Acting Offer
 **Kofuki:** Hey, why're we stopping by this place anyway?  

@@ -1,9 +1,7 @@
 
 2-10 The Three Goddesses
 ========================
-https://www.youtube.com/watch?v=B0bKHugwrXA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/B0bKHugwrXA"></iframe>](:Iframe)  
 
 ## 1: Identity
 **Suzuka:** --That's not her. As far as I can tell from the footage, the strange hooded person who attacked those toji wasn't Maki-san.  

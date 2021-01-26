@@ -1,9 +1,7 @@
 
 Chain Story Archives Part 2.5.2
 ===============================
-https://www.youtube.com/watch?v=NhIKOCOdky8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/NhIKOCOdky8"></iframe>](:Iframe)  
 
 ## 4: An Atmosphere of Unrest
 **Akira:** Seriously? People won't stop calling today... Tch, and it just had to be these assholes.  

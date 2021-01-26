@@ -1,9 +1,7 @@
 
 2-9 For Those Smiling Faces
 ===========================
-https://www.youtube.com/watch?v=5g3CnOt5aH0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/5g3CnOt5aH0"></iframe>](:Iframe)  
 
 ## 1: Kaoru's Teachings (1)
 **Kiyoka:** ...Sigh.  

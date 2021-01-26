@@ -1,9 +1,7 @@
 
 Translations for Toji no Miko: KInT and more
 ============================================
-https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xHJb-ZBPdnsuwvXS0pL-Wj
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xHJb-ZBPdnsuwvXS0pL-Wj"></iframe>](:Iframe)  
 Someone kindly subbed recordings of all translations relating to the game here. I highly recommend watching these over reading the raw text. You can also navigate from below. Each section for the game translations has an individual playlist at the top, and I try to include links to the respective videos in every pastebin.
 
   
@@ -101,17 +99,15 @@ https://mega.nz/file/nqwn1Bwa#pCH63OZ9pHlQCAIo68txJXTyZzOeea37dBGUZGJrNtM
 ------ MIHONO'S GAME ------
 
   
-
-## [---MAIN STORY---]
-https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wy5MTXXVR4yMTynzFWOeIM
+[---MAIN STORY---]
 
   
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wy5MTXXVR4yMTynzFWOeIM"></iframe>](:Iframe)  
 **Now for the real reason you're here, translations for the the saga of the coolest toji, "Toji no Miko:** Kizamishi Issen no Tomoshibi."   
 The main story is fully voiced, though events and character episodes typically aren't. Ideally, you watched the anime beforehand, and while the game covers a similar timeline up to a point, it's worth reading all the way through for the new perspectives and changed events.
 
   
-
-## [-----Part 1: Formation
+**[-----Part 1:** Formation  
 Trusting in her friend, the meeting waiting as she gives chase is--
 
   
@@ -169,8 +165,7 @@ https://pastebin.com/avXMgg75
 https://pastebin.com/CqpWT76U
 
   
-
-## [-----Part 2: Complication
+**[-----Part 2:** Complication  
 To protect what matters most, the future they intently pursued is--
 
   
@@ -232,8 +227,7 @@ https://pastebin.com/wAvJ2G3M
 https://pastebin.com/4n5EdGHY
 
   
-
-## [-----Part 3: Turmoil
+**[-----Part 3:** Turmoil  
 Does the strength exist to cut everything off for a greater cause-- 
 
   
@@ -285,8 +279,7 @@ https://pastebin.com/3JEWXRc2
 https://pastebin.com/4FLiDQiB
 
   
-
-## [-----Part 4: Bonds
+**[-----Part 4:** Bonds  
 At the end of a bloody battle, the answer they arrive at is-- 
 
   
@@ -333,16 +326,16 @@ https://pastebin.com/wANyuJGs
 https://pastebin.com/Ac0PkHaG
 
   
+[--Chain Story Archives Part 2.5
 
-## [--Chain Story Archives Part 2.5
+  
 (A canon side-story added during Part 4, taking place during the timeskip in Part 2. Unvoiced, but it's important for introducing Inago Akira and her relationship with Mihono.)
 
   
 https://pastebin.com/zvJVzHbp
 
   
-
-## [-----Part 5: Fog at First Light
+**[-----Part 5:** Fog at First Light  
 In the days shining after the break of dawn, what dark shadow begins to writhe--
 
   
@@ -381,11 +374,10 @@ https://pastebin.com/wWncyRed
   
 
 ## 7 - Awakening
-
-## [---TOJI EPISODES---]
-https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xiXaTtuCbIE6_HVzweFFCu
+[---TOJI EPISODES---]
 
   
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xiXaTtuCbIE6_HVzweFFCu"></iframe>](:Iframe)  
 Includes voiced birthday lines that you won't find here.
 
   
@@ -497,11 +489,10 @@ https://pastebin.com/DP0ZZXZW
 https://pastebin.com/G0U9Ncxe
 
   
-
-## [---EVENTS---]
-https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wWrZaFZoSz3smnYfuckvBL
+[---EVENTS---]
 
   
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wWrZaFZoSz3smnYfuckvBL"></iframe>](:Iframe)  
 Includes voiced holiday lines that you won't find here.
 
   
@@ -890,9 +881,7 @@ https://pastebin.com/BaTuUNB7
 
   
 **- Entwined Bonds:** Shameless x Honorable  
-https://youtu.be/Te4_93_uAB8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Te4_93_uAB8"></iframe>](:Iframe)  
 https://pastebin.com/YeQZAJPN
 
   

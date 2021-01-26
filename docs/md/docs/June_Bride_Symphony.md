@@ -1,9 +1,7 @@
 
 June Bride Symphony
 ===================
-https://www.youtube.com/watch?v=gTrLpiMGjFs
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/gTrLpiMGjFs"></iframe>](:Iframe)  
 
 ## 1: The Wedding Event Kicks Off\!
 **Nishi Kozue:** Test, test. Clear blue skies today, clear blue skies today. Now testing the mic, now testing the mic. Ah\~, Ah\~... Mm, okay\!  

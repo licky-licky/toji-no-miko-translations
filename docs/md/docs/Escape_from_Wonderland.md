@@ -1,11 +1,10 @@
 
 Escape from Wonderland
 ======================
-https://youtu.be/5On4WnD5fIA
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/5On4WnD5fIA"></iframe>](:Iframe)  
+[This event came accompanied with hint cards you got for progressing through the maps. They're all at the bottom of each segment.]
 
   
-
-## [This event came accompanied with hint cards you got for progressing through the maps. They're all at the bottom of each segment.]
 
 ## 1: The Photo Room
 **???:** ...Kaoru, come on and wake up...  
@@ -374,9 +373,7 @@ Throughout the story so far, there are hints to the traitor's identity.
 **Mirja:** Let's re-examine the beta test so we can produce an entertaining escape room game.  
 **Tsugumi:** Ah, then, can we intentionally place aradama in there now? The types we can use are limited, but it's proven to work.  
 **Everyone:** Out of the question\!  
-https://youtu.be/tSsi3HMt5qU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/tSsi3HMt5qU"></iframe>](:Iframe)  
 
 ## [Fairytale Mihono: Start]: Off to Wonderland
 **Mihono:** ......I don't get it at allll. Help me, Chii-nee...  

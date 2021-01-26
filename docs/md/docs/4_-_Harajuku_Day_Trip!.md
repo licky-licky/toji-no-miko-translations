@@ -1,9 +1,7 @@
 
 4 - Harajuku Day Trip!
 ======================
-https://www.youtube.com/watch?v=UJ3A-S-B_s8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UJ3A-S-B_s8"></iframe>](:Iframe)  
 
 ## 1: Why Not Take This Chance to Enjoy Ourselves?
 **Kiyoka:** Wow\! So this is Harajuku\! Everyone's so fashionable\! Look at all the shops\! And it smells so nice here, Mirja-senpai\!  

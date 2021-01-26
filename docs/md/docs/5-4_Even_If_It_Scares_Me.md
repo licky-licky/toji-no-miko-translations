@@ -1,9 +1,7 @@
 
 5-4 Even If It Scares Me
 ========================
-https://youtu.be/D9zXsRZXWk4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/D9zXsRZXWk4"></iframe>](:Iframe)  
 
 ## 1: Something I Won't Bend On
 **Akira:** We were looking for you, Mihono. Though I figured you'd be wandering around closer to the mansion...  

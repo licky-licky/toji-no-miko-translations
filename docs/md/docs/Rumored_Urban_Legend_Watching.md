@@ -1,9 +1,7 @@
 
 Rumored Urban Legend Watching
 =============================
-https://youtu.be/2M6zbLwwmAo
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/2M6zbLwwmAo"></iframe>](:Iframe)  
 
 ## 1: Aradama and a Strange Rumor
 **Ruiko:** Every time aradama suddenly show up, I'm hit with the feeling of, we really did get reincarnated in another world, you know?  
@@ -218,9 +216,7 @@ The next day--
 **Mikoto:** \!  
 **Kaoru:** Nene, c'mere for a sec.  
 **Nene:** Nene\~.  
-https://youtu.be/Qn8sW115TSU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Qn8sW115TSU"></iframe>](:Iframe)  
 
 ## [Railgun - Kofuki: Start]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!
 **Ruiko:** Shichinosato-san\! Is it really true that Renpu Girls' Academy is researching human aradamas behind closed doors\!\?  

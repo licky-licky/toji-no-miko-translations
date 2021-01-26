@@ -1,9 +1,7 @@
 
 Iwakura Sanae Episodes
 ======================
-https://youtu.be/B53GqQAvhT4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/B53GqQAvhT4"></iframe>](:Iframe)  
 
 ## 1: A Gourmet Tour of My Native Gunma
 **Sanae:** With the noro recovery taken care of, our mission here is complete.  
@@ -282,9 +280,7 @@ The referee signals the two who advanced to the finals to bow. The match is abou
 **Sanae:** (But still...)  
 **Sanae:** Maybe I'm just being selfish, but I want to be friends with her.  
 **Sanae:** They say faith can move mountains, so I'll just have to keep going slow and steady. Mm\!  
-https://youtu.be/HguM1_W3fqw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/HguM1_W3fqw"></iframe>](:Iframe)  
 
 ## [Halloween 19 - Sanae: Start]: I'm a Bakeneko
 **Hiyori:** You're going to be starring in a movie?  

@@ -1,9 +1,7 @@
 
 Revue: The Mystery of the Reappearing Aradama
 =============================================
-https://youtu.be/nstX1sl6Xmo?t=1475
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/nstX1sl6Xmo?t=1475"></iframe>](:Iframe)  
 
 ## 1: The Oddities Coming off Aradama
 **Yui:** Yamashiro Yui has returned-\! And with a big haul of Suzudaru Cats too-.  
@@ -208,9 +206,7 @@ https://youtu.be/nstX1sl6Xmo?t=1475
 **Kaoru:** Those two are dead asleep over there. It's making me jealous-.  
 **Kaoru:** Actually, maybe I shouldn't be... Not after they basically got knocked out cold.  
 **Nene:** Nene\~...  
-https://www.youtube.com/watch?v=LkYpstF7b2U
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/LkYpstF7b2U"></iframe>](:Iframe)  
 
 ## [Stage Girl: Start]: We'll Starlight\!
 **Hiyori:** HAAA\!  

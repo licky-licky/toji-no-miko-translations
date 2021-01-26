@@ -268,9 +268,7 @@ https://streamable.com/1b7b8n
 **Aradama:** GYAOOOOOOOOOOOOOOOOOOO\!\!  
 **Sanae:** An aradama\!\?  
 **Sanae:** Though... I wonder why. I don't feel like I could lose right now\!  
-https://youtu.be/6vDEoQfMR6o
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/6vDEoQfMR6o"></iframe>](:Iframe)  
 
 ## [Xmas' 20 - Suu: Start]: That's Not It\!
 **Suu:** Eh\!\? You're going to be coming here for Christmas?  

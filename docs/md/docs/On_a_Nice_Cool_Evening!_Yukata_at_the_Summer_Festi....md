@@ -1,9 +1,7 @@
 
 On a Nice Cool Evening! Yukata at the Summer Festi...
 =====================================================
-https://youtu.be/PLFKMPY_XHU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/PLFKMPY_XHU"></iframe>](:Iframe)  
 
 ## 1: Festival Excitement, Floating Lanterns
 **Yume:**　Wowww-\! There's already so many stands set up\! I can't wait for the festival to start\~.  
@@ -101,9 +99,7 @@ https://youtu.be/PLFKMPY_XHU
 **Yukari:** I will?  
 **Yume:** We're making a promise\!  
 **Yume:** Pinky swear, and whoever lies, they get a needle in their eye\~\!  
-https://youtu.be/jdKVXQRmnJ0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/jdKVXQRmnJ0"></iframe>](:Iframe)  
 
 ## [Yukata Yomi: Start]: We Mustn't Get Lost
 **Yume:** That yukata really matches you, Yomi-onee-san. It looks good-.  

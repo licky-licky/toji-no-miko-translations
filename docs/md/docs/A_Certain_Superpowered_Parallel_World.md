@@ -1,9 +1,7 @@
 
 A Certain Superpowered Parallel World
 =====================================
-https://youtu.be/sa9nfpnKeaA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/sa9nfpnKeaA"></iframe>](:Iframe)  
 Creation Experiment (Trial)
 
   
@@ -494,9 +492,7 @@ After supressing the aradama--
 **Mikoto:** Understood, thank you very much\! Alright-, let's go\!  
 **Kanami:** Let's give it our all, Misaka-san\!  
 **Misaki:** Do your best, everyone\~.  
-https://youtu.be/JHZISRWAzhM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/JHZISRWAzhM"></iframe>](:Iframe)  
 
 ## [Railgun - Kanami: Start]: The Mysterious Use of the Remote
 One day, Kanami was having tea with Mikoto and the rest.
@@ -574,9 +570,7 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Mai:** Do these two maybe get along after all...  
 **Kanami:** That's what it seems like.  
 **Kanami:** But still, what's that remote for anyway?  
-https://youtu.be/UMDuFWf-sOc
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UMDuFWf-sOc"></iframe>](:Iframe)  
 
 ## [Railgun - Chie: Start]: Sightseeing Kamakura with Onee-san
 **Ruiko:** I was thinking this seeing it up close, but, doesn't the Great Buddha of Kamakura seem kind of hunched over?  

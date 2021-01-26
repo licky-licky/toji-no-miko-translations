@@ -1,9 +1,7 @@
 
 For Better Fortune! The Fortune Slip Recovery Oper...
 =====================================================
-https://youtu.be/RRORlbc45gA?t=25m16s
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/RRORlbc45gA?t=25m16s"></iframe>](:Iframe)  
 
 ## 1: For Better Fortune\! The Great Fortune Slip Recovery Operation - Prologue
 --New Year's at the Asakura Shrine. For the Asakura family, the busiest time of year has arrived.

@@ -1,9 +1,7 @@
 
 Toji and the Dungeon
 ====================
-https://www.youtube.com/watch?v=DK-DkM29FI8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/DK-DkM29FI8"></iframe>](:Iframe)  
 
 ## 1: Awakening in a Dungeon
 --How am I meant to become stronger than I already am? Whenever I'm training, that's always on my mind.

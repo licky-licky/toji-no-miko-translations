@@ -1,9 +1,7 @@
 
 Yakisoba Journey to the West
 ============================
-https://youtu.be/OVegt1OsEGg
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/OVegt1OsEGg"></iframe>](:Iframe)  
 
 ## 1: What Puts Yukari-sama in a Good Mood?
 After the Tagitsuhime incident, the members of the elite guard began working as the Special Defense Team under Origami Akane. During one of those days...

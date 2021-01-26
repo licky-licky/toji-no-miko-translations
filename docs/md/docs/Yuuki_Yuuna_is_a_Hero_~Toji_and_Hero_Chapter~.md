@@ -1,9 +1,7 @@
 
 Yuuki Yuuna is a Hero ~Toji and Hero Chapter~
 =============================================
-https://www.youtube.com/watch?v=1KqFtVj6R6g
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/1KqFtVj6R6g"></iframe>](:Iframe)  
 
 ## 1: Into a Sea of Trees
 **Mihono:** Haaaah-\!  

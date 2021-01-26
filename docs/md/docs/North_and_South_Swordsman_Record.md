@@ -4,15 +4,9 @@ North and South Swordsman Record
 As this event came in 3 parts, it's separated into 3 videos.
 
   
-https://youtu.be/HVOkvuEZX5w
-
-  
-https://youtu.be/B5DZsaFp9t0
-
-  
-https://youtu.be/w5SUJ2yqPuo
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/HVOkvuEZX5w"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/B5DZsaFp9t0"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/w5SUJ2yqPuo"></iframe>](:Iframe)  
 
 ## 1: In Order to Overcome These Hardships\!
 **Inami Suu:** Hakobune Noa-chan... She's gotten better at MCing since last time, and when I went to shake her hand, she even remembered me\!  

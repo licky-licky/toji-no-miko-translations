@@ -1,9 +1,7 @@
 
 china yui episode
 =================
-https://youtu.be/Wuef7y1z6Q4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
 
 ## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  

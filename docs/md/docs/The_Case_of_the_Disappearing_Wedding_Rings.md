@@ -1,9 +1,7 @@
 
 The Case of the Disappearing Wedding Rings
 ==========================================
-https://www.youtube.com/watch?v=0vVIGDtRVLE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/0vVIGDtRVLE"></iframe>](:Iframe)  
 
 ## 1: Track the Mystery of the Stolen Wedding Rings\!
 **Yui:** Ah, that tone; it's the bells from the wedding chapel\! Someone's getting married again today\~. It's June Bride season, after all.  

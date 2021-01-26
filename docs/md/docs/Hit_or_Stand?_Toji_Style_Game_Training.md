@@ -1,9 +1,7 @@
 
 Hit or Stand? Toji Style Game Training
 ======================================
-https://www.youtube.com/watch?v=BT7Pd1SlGig
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/BT7Pd1SlGig"></iframe>](:Iframe)  
 
 ## 1: Game Training, Start
 **Kofuki:** ...Ughh, I wanna go home.  

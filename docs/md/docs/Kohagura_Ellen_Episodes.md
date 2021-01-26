@@ -1,15 +1,9 @@
 
 Kohagura Ellen Episodes
 =======================
-https://www.youtube.com/watch?v=YTauNsgryxs
-
-  
-https://youtu.be/BHI45rWeMrA
-
-  
-https://youtu.be/j47iC8Z6kho
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/YTauNsgryxs"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/BHI45rWeMrA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/j47iC8Z6kho"></iframe>](:Iframe)  
 
 ## 1: I Miss You
 **Ellen:** Kaoru, you got to see Papa and Mama at their research lab recently, didn't you? They had a lot to say about you\! They were so happy to meet you\!  
@@ -182,9 +176,7 @@ https://youtu.be/j47iC8Z6kho
 **Ellen:** I was just really worried. I'm glad you're safe.  
 **Mimi:** ...You're an amazing toji, Ellen... You looked so cool when you were fighting.  
 **Ellen:** Didn't I tell you, Mimimin? That I'd show you my true power\~.  
-https://youtu.be/BHI45rWeMrA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/BHI45rWeMrA"></iframe>](:Iframe)  
 
 ## [New Year's Ellen: Start]: Hanetsuki Competition\!
 **Kanami:** The crowd of people here for their first shrine visit sure is huge.  
@@ -258,9 +250,7 @@ https://youtu.be/BHI45rWeMrA
 **Sayaka:** Me too... I'm looking forward to the food stands.  
 **Kanami:** Ehehe. It's kind of nice, isn't it? Doing this kind of thing. I hope we can all have a lot more fun again this year-.  
 **Ellen:** Alll-right, let's all have another fun year together\!  
-https://youtu.be/j47iC8Z6kho
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/j47iC8Z6kho"></iframe>](:Iframe)  
 
 ## [Casual '20 - Ellen: Start]: The Pair's New Year's Eve
 **Aradama:** GUOOOOO...  

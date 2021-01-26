@@ -1,9 +1,7 @@
 
 Spring in Full Bloom! Combined Off-Campus Learning
 ==================================================
-https://www.youtube.com/watch?v=RM9WwcUNfdk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/RM9WwcUNfdk"></iframe>](:Iframe)  
 
 ## 1: Off-Campus Learning\!
 **Kanami:** Finally, today we're doing off-campus learning\! I've been waiting for this-\!  

@@ -1,9 +1,7 @@
 
 Spending Time at the Amusement Park, the Toji Way
 =================================================
-https://www.youtube.com/watch?v=zfSUNS36VAs
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/zfSUNS36VAs"></iframe>](:Iframe)  
 
 ## 1: Maki and Suzuka's Unexpected Day Off
 **Aradama:** GUOOOOOOOO\!  

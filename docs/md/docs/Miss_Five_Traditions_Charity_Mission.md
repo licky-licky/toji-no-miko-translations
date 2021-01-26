@@ -1,9 +1,7 @@
 
 Miss Five Traditions Charity Mission
 ====================================
-https://youtu.be/ZYwru7GiMV0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
 ## 1: But I Don't Wanna\!
 **Announcement:** We're sorry to have kept you waiting so long--  
@@ -337,9 +335,7 @@ Elsewhere--
 **Yume:** ...  
 **Yomi:** Isn't that nice, Tsubakuro-san.  
 **Yume:** Yeah\! Being Miss Five Traditions might actually be pretty fun\!  
-https://youtu.be/ZYwru7GiMV0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
 ## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
 **Akira:** Oiii, Yomi\! Here, over here\~.  

@@ -1,9 +1,7 @@
 
 Escape From the Locker Room
 ===========================
-https://youtu.be/8itDRQlCYHE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/8itDRQlCYHE"></iframe>](:Iframe)  
 
 ## 1: Another Great Day For the Pool\!
 **Mirja:** You did well on our mission in this heat, everyone.  

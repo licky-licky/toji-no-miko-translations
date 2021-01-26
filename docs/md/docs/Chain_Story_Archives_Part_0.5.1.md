@@ -1,9 +1,7 @@
 
 Chain Story Archives Part 0.5.1
 ===============================
-https://youtu.be/eWywEJpKhaA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/eWywEJpKhaA"></iframe>](:Iframe)  
 
 ## 1: Unit One's Training Camp
 **Minato:** Sigh... Not much time left in our New Year's break, huh. I didn't get to mess around anywhere near as much as I wanted... Hey, Kagari, wanna go have some fun somewhere?  

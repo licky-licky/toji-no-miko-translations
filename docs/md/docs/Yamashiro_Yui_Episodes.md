@@ -1,27 +1,13 @@
 
 Yamashiro Yui Episodes
 ======================
-https://www.youtube.com/watch?v=mbzl6rlTElY
-
-  
-https://youtu.be/a6wLA2_IHTA
-
-  
-https://youtu.be/WUlpqEzhjx0
-
-  
-https://youtu.be/f-Eb7Fydp_U
-
-  
-https://youtu.be/pR7T3znqc5E
-
-  
-https://youtu.be/Wuef7y1z6Q4
-
-  
-https://youtu.be/mM0jQ11E1pE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/mbzl6rlTElY"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/a6wLA2_IHTA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/WUlpqEzhjx0"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/f-Eb7Fydp_U"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/pR7T3znqc5E"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/mM0jQ11E1pE"></iframe>](:Iframe)  
 
 ## 1: Let's Take This into the Bath\!
 **Yui:** --Ah-\! Hiyori-san\! Morning\! You're looking as lovely as ever today\!  
@@ -194,9 +180,7 @@ https://youtu.be/mM0jQ11E1pE
 **Yui:** Fu fu fu. I'm happy to turn you into a tako wasabi fan too, Kiyoka-chan-\!  
 **Yui:** If you ever want some, come ask me anytime\!  
 **Kiyoka:** Okay, thanks for offering\! Then... Could I have another bite?  
-https://youtu.be/a6wLA2_IHTA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/a6wLA2_IHTA"></iframe>](:Iframe)  
 **New Year's 1:** To Fulfill a Great Ambition  
 **Yui:** ...Pant, pant... Not good, I can't... I can't die in a place like this...  
 **Kofuki:** What? What are you even talking about.  
@@ -229,8 +213,9 @@ https://youtu.be/a6wLA2_IHTA
 **Yui:** KI-YO-KA-CHWAAAN-\!　I'M- HERE- TO- HELP-, WITH YOUR KIMONO\!  
 **Kiyoka:** GYAAAAAAAAAAAA\!\!  
 **New Year's 2:** It's Fine, Isn't It\!  
+[This needs a TL note. In period dramas, there's a cliched scene where the evil governor will tug the sash of a woman in a kimono, causing her to spin around as she comes undressed. You've probably seen something like it, but Yui is doing the whole act and really hamming it up.]
 
-## [This needs a TL note. In period dramas, there's a cliched scene where the evil governor will tug the sash of a woman in a kimono, causing her to spin around as she comes undressed. You've probably seen something like it, but Yui is doing the whole act and really hamming it up.]
+  
 **Kiyoka:** Yui-chan, why are you here....  
 **Yui:** Ｉ’ｍ　ｈｅｒｅ, 　ｔｏ　ｈｅｌｐ　ｙｏｕ，　ｇｅｔ　ｃｈａｎｇｅｄ－！  
 **Kiyoka:** Why are you talking so weird\!\?  
@@ -264,9 +249,7 @@ https://youtu.be/a6wLA2_IHTA
 **Yui:** I wanted to keep playing a little longer, but I had my fun\!  
 **Yui:** Kiyoka-chan, I'll help you get dressed too, okay\!  
 **Kiyoka:** I don't want your help\!\!  
-https://youtu.be/WUlpqEzhjx0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/WUlpqEzhjx0"></iframe>](:Iframe)  
 
 ## [Swimsuit 19: Start]: The Pool is Heaven
 **Yui:** Tsugumi-san, want to come to the pool with me next Sunday?  
@@ -340,9 +323,7 @@ https://youtu.be/WUlpqEzhjx0
 **Yui/Tsugumi:** KYAAAAAAA\!\?  
 **Tsugumi:** We failed, didn't we...  
 **Yui:** But, I still had a lot of fun. Let's go again, Tsugumi-san\!  
-https://youtu.be/f-Eb7Fydp_U
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/f-Eb7Fydp_U"></iframe>](:Iframe)  
 
 ## [Yuusha 2 Yui: Start]: Little Sister and Big Sister
 Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
@@ -416,9 +397,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Itsuki:** I feel like going to see Onee-chan too.  
 **Yui:** Okay-, the aradama are dealt with, so let's hurry on back\!  
 **Itsuki:** Right\!  
-https://youtu.be/pR7T3znqc5E
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/pR7T3znqc5E"></iframe>](:Iframe)  
 
 ## [Misogi - Yui: Start]: A Different Possibility
 **Tsugumi:** Good work, Yamashiro-san. That's all I need from you for today.  
@@ -511,9 +490,7 @@ https://youtu.be/pR7T3znqc5E
 **Yui:** The girls of the investigation team really are the best there is\!  
 **Mirja:** ...A crying child will soon be laughing, I suppose. Well, if you've recovered your spirit, then let's leave it at that.  
 **Yui:** Right\! Yamashiro Yui's going at it in full spirit for another day\!  
-https://youtu.be/Wuef7y1z6Q4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
 
 ## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  
@@ -599,9 +576,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** That's right. And, I was able to mostly understand what the definition of a date is too...  
 **Yui:** You mean it\!\? I'm so glad\~\! I should be the one thanking you two\! Getting to go on a three girl date through Chinatown made me the happiest girl in the world\!  
 **Tsugumi:** A three girl date...? Can you really call an outing with three people a date? Sigh... I'm understanding the definition less and less.  
-https://youtu.be/mM0jQ11E1pE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/mM0jQ11E1pE"></iframe>](:Iframe)  
 
 ## [Pirate - Yui: Start]: After the Mission, We're Pirates\!
 **Aradama:** GGGII...\!  

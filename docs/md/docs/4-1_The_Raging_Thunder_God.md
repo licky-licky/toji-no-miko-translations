@@ -1,9 +1,7 @@
 
 4-1 The Raging Thunder God
 ==========================
-https://youtu.be/zFROD5TpIZc
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/zFROD5TpIZc"></iframe>](:Iframe)  
 
 ## 1: Uncontrollable (1)
 Night, at Kashima Shrine. Etou Kanami has finally reached her destination. However, Juujou Hiyori--

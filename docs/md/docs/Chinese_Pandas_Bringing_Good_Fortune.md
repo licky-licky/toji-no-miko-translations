@@ -1,12 +1,8 @@
 
 Chinese Pandas Bringing Good Fortune
 ====================================
-https://www.youtube.com/watch?v=a4I637bOB2U
-
-  
-https://youtu.be/Wuef7y1z6Q4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/a4I637bOB2U"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
 
 ## 1: Searching for Pandas in Chinatown
 **Mihono:** So this is Chinatown\~\! It's amazing\! The streets don't even look like Japan anymore\!  
@@ -177,9 +173,7 @@ https://youtu.be/Wuef7y1z6Q4
 **Tsugumi:** Wasn't that nice of them, Asakura-san. Now you've accomplished your starting goal.  
 **Yui:** With these pandas, plenty of good things are sure to happen from now on\!  
 **Mihono:** Yeah\! Good things'll happen for sure\! I can't wait\~.  
-https://youtu.be/Wuef7y1z6Q4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
 
 ## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  

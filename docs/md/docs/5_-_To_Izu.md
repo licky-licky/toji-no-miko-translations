@@ -1,9 +1,7 @@
 
 5 - To Izu
 ==========
-https://www.youtube.com/watch?v=PZ5-nA_Gx1o
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/PZ5-nA_Gx1o"></iframe>](:Iframe)  
 
 ## 1: The Okatana Called Namu Yakushi Kagemitsu
 **Mirja:** ...Thank you very much, Aoto Youji-san. Not only for letting us stay the night tonight, but also inspecting our okatana free of charge.  

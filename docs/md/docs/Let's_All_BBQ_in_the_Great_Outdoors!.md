@@ -1,9 +1,7 @@
 
 Let's All BBQ in the Great Outdoors!
 ====================================
-https://www.youtube.com/watch?v=Jpu5TIzQvho
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Jpu5TIzQvho"></iframe>](:Iframe)  
 
 ## 1: The BBQ Boss Is Here to Help
 **Mihono:** We're at the campsiiite\~\! Barbecue, barbecue\~\!  

@@ -1,9 +1,7 @@
 
 Itomi Sayaka Episodes
 =====================
-https://www.youtube.com/watch?v=FOmY007u7kA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/FOmY007u7kA"></iframe>](:Iframe)  
 
 ## 1: Naptime
 **Kofuki:** Oiii-\! Aradama-chan-\! Don't be shy-\! C'mon out and play already-\!  
@@ -205,9 +203,7 @@ https://www.youtube.com/watch?v=FOmY007u7kA
 **Sayaka:** I'll buy some...\!  
 **Sakura:** Fufu. Aren't you lucky, kitty. A kind person saved you... Do you think you'll get better soon?  
 **Cat:** Meow  
-https://youtu.be/A8mB5sp3tpA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/A8mB5sp3tpA"></iframe>](:Iframe)  
 
 ## [Ceremonial Dress - Misogi: Start]: Lacking the Words
 **Toji A:** What now... Yanase-san, Itomi-san\! Many more aradama are coming this way...\!  
@@ -293,9 +289,7 @@ https://youtu.be/A8mB5sp3tpA
 **Mai:** That's right. I feel like getting stronger too, so I can protect you and everyone else.  
 **Mai:** Because you're a very important friend to me.  
 **Sayaka:** I... I feel the same way. Let's do our best, Mai.  
-https://youtu.be/7xz_k03cXQA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/7xz_k03cXQA"></iframe>](:Iframe)  
 
 ## [Swimsuit 19: Start]: Do Your Best, Enjoy Yourself\!
 **Sayaka:** ...Sorry I made you wait.  
@@ -359,9 +353,7 @@ https://youtu.be/7xz_k03cXQA
 **Ellen:** Kaoru-\! It's time to wake up now-\! We're all going down the water slide-\!  
 **Kaoru:** Whoa-\!\? What's going on\!\?  
 **Sayaka:** I'm glad. I think I'll have a lot to tell Mai about the pool.  
-https://youtu.be/UdyV4xZkk2E
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UdyV4xZkk2E"></iframe>](:Iframe)  
 
 ## [Shinsengumi - Sayaka: Start]: A Sudden Acting Offer
 **Kofuki:** Hey, why're we stopping by this place anyway?  

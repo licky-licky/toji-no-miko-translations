@@ -1,6 +1,6 @@
 
-import { configuration } from '@codedoc/core';
-
+import { configuration, DefaultMarkdownCustomInlineComponents } from '@codedoc/core';
+import { Iframe } from './components/iframe';
 import { theme } from './theme';
 
 
@@ -14,6 +14,12 @@ export const config = /*#__PURE__*/configuration({
   page: {
     title: {
       base: 'Tnm Translations'            // --> the base title of your doc pages
+    }
+  },
+  markdown: {
+    customInlineComponents: {
+      ...DefaultMarkdownCustomInlineComponents,
+      Iframe,
     }
   },
   misc: {

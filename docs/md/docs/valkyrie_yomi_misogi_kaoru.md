@@ -1,9 +1,7 @@
 
 valkyrie yomi/misogi kaoru
 ==========================
-https://youtu.be/ZYwru7GiMV0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
 ## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
 **Akira:** Oiii, Yomi\! Here, over here\~.  
@@ -67,9 +65,7 @@ https://youtu.be/ZYwru7GiMV0
 **Yomi:** I did too. Then, until next time.  
 **Akira:** She's working real hard for her buddies, huh.  
 **Akira:** Alright... I've gotta stick to it too.  
-https://youtu.be/A4RipDwmT9Y
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/A4RipDwmT9Y"></iframe>](:Iframe)  
 
 ## [Misogi - Kaoru: Start]: A Little About the Past
 **Kaoru:** Today's kinda hot, isn't it-... My water bottle's already run dry...  

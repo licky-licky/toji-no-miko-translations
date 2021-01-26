@@ -1,9 +1,7 @@
 
 2-8 The Mysterious Figure
 =========================
-https://www.youtube.com/watch?v=qOotF8PxLnM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/qOotF8PxLnM"></iframe>](:Iframe)  
 
 ## 1: Hiyori's Reflection (1)
 **Hiyori:** .........I'm sorry, mother. I...  

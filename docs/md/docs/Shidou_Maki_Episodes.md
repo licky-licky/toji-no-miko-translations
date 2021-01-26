@@ -1,18 +1,10 @@
 
 Shidou Maki Episodes
 ====================
-https://www.youtube.com/watch?v=fAqBYLUUqoI
-
-  
-https://youtu.be/AuF8ZqOvA9Y
-
-  
-https://youtu.be/WNtGgHguxrw
-
-  
-https://youtu.be/-wO5Ngjj1-g
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fAqBYLUUqoI"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/AuF8ZqOvA9Y"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/WNtGgHguxrw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/-wO5Ngjj1-g"></iframe>](:Iframe)  
 
 ## 1: The Charismatic Toji
 **Maki:** --Aradama sighted\! Engaging in combat\!  
@@ -129,9 +121,7 @@ https://youtu.be/-wO5Ngjj1-g
 **Suzuka:** Anyway, jokes aside, I wanted to show how you never know what risks you may be taking.  
 **Suzuka:** To begin with, an emergency call could come in at any time, so you ought to always keep your phone with you.  
 **Maki:** ...You have a point there. I'll be more careful from now on.  
-https://youtu.be/AuF8ZqOvA9Y
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/AuF8ZqOvA9Y"></iframe>](:Iframe)  
 
 ## [VRS Equipment - Maki: Start]: Just to Be Sure
 **Yume:** Found you, Maki-onee-san\!  
@@ -212,9 +202,7 @@ https://youtu.be/AuF8ZqOvA9Y
 **Maki:** Suzuka...  
 **Suzuka:** Next time, I'd like for all of us to go play that game together.  
 **Maki:** Right, sure thing. By that time, I'll master my way around a laser gun.  
-https://youtu.be/WNtGgHguxrw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/WNtGgHguxrw"></iframe>](:Iframe)  
 
 ## [SDDT - Maki: Start]: Maki of the Special Defense Team
 **Maki:** Hmph\! ...Hmph\!  
@@ -287,9 +275,7 @@ https://youtu.be/WNtGgHguxrw
 **Suzuka:** Why yes, of course I looked it up.  
 **Maki:** Oh, that's good.  
 **Suzuka:** Fufu, allow me to lead the way.  
-https://youtu.be/-wO5Ngjj1-g
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/-wO5Ngjj1-g"></iframe>](:Iframe)  
 
 ## [Journey to the West - Maki: Start]: A Different Way of Using It
 **Maki:** ...  

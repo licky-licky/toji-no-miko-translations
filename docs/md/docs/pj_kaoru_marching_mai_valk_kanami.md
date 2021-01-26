@@ -1,9 +1,7 @@
 
 pj kaoru/marching mai/valk kanami
 =================================
-https://youtu.be/U_8Z9M9PWSk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/U_8Z9M9PWSk"></iframe>](:Iframe)  
 
 ## [Pajama - Kaoru: Start]: Isn't It Fine Every Once in a While?
 **Ellen:** That's the last one\! It's coming your way, Kiyoka\!  
@@ -76,9 +74,7 @@ https://youtu.be/U_8Z9M9PWSk
 **Kiyoka:** I know we already started throwing them, but... is it really alright for us to have a pillow fight in a hotel like... Afwh\!\?  
 **Kaoru:** Hahaha\! Never let your guard down, Kiyoka.  
 **Kiyoka:** Why do you look like you're having the most fun with this, Kaoru-san\!  
-https://youtu.be/VNAKMkkvBJE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/VNAKMkkvBJE"></iframe>](:Iframe)  
 
 ## [Marching - Mai: Start]: Minoseki's Marching Band
 **Mai:** Excuse me.  
@@ -163,9 +159,7 @@ At the marching band's main performance.
 **Mai:** And there's ones from Ellen-chan and Kaoru-chan and everyone too... Fufu.  
 **Kanami:** See, I told you we'd pull it off.  
 **Mai:** You did, Kanami-chan\!  
-https://youtu.be/KlIqfSZ3Cl8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/KlIqfSZ3Cl8"></iframe>](:Iframe)  
 
 ## [Valkyrie - Kanami: Start]: Let's Do a Survey
 **Kanami:** Promotional photos?  

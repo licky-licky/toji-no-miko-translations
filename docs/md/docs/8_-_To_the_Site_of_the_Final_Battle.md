@@ -1,9 +1,7 @@
 
 8 - To the Site of the Final Battle
 ===================================
-https://www.youtube.com/watch?v=MHm9KePEIHQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/MHm9KePEIHQ"></iframe>](:Iframe)  
 
 ## 1: On the Road to the Birthplace of the Akabane Swords (1)
 **Mirja:** I have to thank you, Setouchi Chie-san.  

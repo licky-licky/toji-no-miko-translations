@@ -1,9 +1,7 @@
 
 Toji Edo Detective Story
 ========================
-https://www.youtube.com/watch?v=ykb5ayM4CRY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ykb5ayM4CRY"></iframe>](:Iframe)  
 
 ## 1:　Shidou Maki's Right Hand Man
 **Watanuki Kazumi:** Continuing on, there have been reports of damage caused by aradama. For reasons unknown, the film set of a historical drama has frequently come under attack.  

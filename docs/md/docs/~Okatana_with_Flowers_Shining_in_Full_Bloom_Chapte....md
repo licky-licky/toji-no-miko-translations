@@ -1,9 +1,7 @@
 
 ~Okatana with Flowers Shining in Full Bloom Chapte...
 =====================================================
-https://youtu.be/PjOQnrdBW6A
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/PjOQnrdBW6A"></iframe>](:Iframe)  
 
 ## 1: A Grudge Over Food is a Fearsome Thing\!
 **Kanami:** Eh\!\? Just like that\!\? I wanted to hang around with Yuuna-chan and Tougou-san longer at least\!  
@@ -450,9 +448,7 @@ While Mihono was making bucket pudding with Yuuna and the others...
 **Tougou:** We'll give you assistance. We only just managed to meet again, so it would be too sad for you to forget.  
 **Sonoko:** I'll help too\~\!  
 **Mihono:** Thanks a lot\! Let's go and beat up the next group of aradama right away\!  
-https://youtu.be/f-Eb7Fydp_U
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/f-Eb7Fydp_U"></iframe>](:Iframe)  
 
 ## [Yuusha 2 Yui: Start]: Little Sister and Big Sister
 Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...

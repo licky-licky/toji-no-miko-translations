@@ -1,17 +1,12 @@
 
 Chain Story Archives Part 2.5
 =============================
-
-## [Due to this event being released across 3 months, there are 3 separate videos]
-https://www.youtube.com/watch?v=dRw4QiWULI0
+[Due to this event being released across 3 months, there are 3 separate videos]
 
   
-https://www.youtube.com/watch?v=NhIKOCOdky8
-
-  
-https://www.youtube.com/watch?v=-fV4ehWn5Gw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/dRw4QiWULI0"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/NhIKOCOdky8"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/-fV4ehWn5Gw"></iframe>](:Iframe)  
 
 ## 1: The Investigation Team, Dissolved
 Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special hazardous waste across the entirety of Kanto.
@@ -217,9 +212,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **???:** KYAAAAAAAAAAAAA\!\!  
 **Hana:** ...\! That scream came from...  
 **Mihono:** Let's go, Suzumoto-san\!  
-https://www.youtube.com/watch?v=NhIKOCOdky8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/NhIKOCOdky8"></iframe>](:Iframe)  
 
 ## 4: An Atmosphere of Unrest
 **Akira:** Seriously? People won't stop calling today... Tch, and it just had to be these assholes.  
@@ -425,9 +418,7 @@ https://www.youtube.com/watch?v=NhIKOCOdky8
 **Akira:** Akira's fine, Mihono.  
 **Mihono:** Okay\! Akira-san\!  
 **Mihono:** (Still... Why was she taking that noro? Was that part of President Hashima's orders too?)  
-https://youtu.be/-fV4ehWn5Gw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/-fV4ehWn5Gw"></iframe>](:Iframe)  
 
 ## 7: Inago Akira, the Toji
 **Mihono:** This is the third time we've gone in, isn't it?  

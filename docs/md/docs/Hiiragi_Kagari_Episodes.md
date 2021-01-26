@@ -1,9 +1,7 @@
 
 Hiiragi Kagari Episodes
 =======================
-https://youtu.be/1TSJLghLiqQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/1TSJLghLiqQ"></iframe>](:Iframe)  
 
 ## 1: Mamekan
 **Minato:** Yukari, is Kagari in here?  

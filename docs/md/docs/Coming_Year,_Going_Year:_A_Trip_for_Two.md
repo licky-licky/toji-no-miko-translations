@@ -1,12 +1,8 @@
 
 Coming Year, Going Year: A Trip for Two
 =======================================
-https://youtu.be/3QFTYaDjNyw
-
-  
-https://youtu.be/EgIu3T30SHE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/3QFTYaDjNyw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/EgIu3T30SHE"></iframe>](:Iframe)  
 Part 5 was dubbed live on stream. There's a link above it if you want to read along.
 
   
@@ -195,9 +191,7 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Mihono:** WAHH------\!\!  
 **Mihono:** (No way-\! I fell asleep\!\?)  
 **Mihono:** (What do I do now; we might not make it for the most important part of this trip--\!\!)  
-https://youtu.be/XL33MXyxw44?t=994
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/XL33MXyxw44?t=994"></iframe>](:Iframe)  
 
 ## 5: Will We Make to the Main Event\!\?
 **Chie:** ......? Mihono-chan? What's the matter? It's still pitch dark outside...  
@@ -240,9 +234,7 @@ https://youtu.be/XL33MXyxw44?t=994
 **Chie:** I know, let's make a wish on the first sunrise. A wish that we'll be able to peacefully spend another year together.  
 **Mihono:** Good idea\! After all we went through to see this sunrise, whatever we wish for is gonna get granted for sure\!  
 **Mihono/Chie:** This year, and the next year, and every year after that, please let us stay happily together\!  
-https://youtu.be/EgIu3T30SHE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/EgIu3T30SHE"></iframe>](:Iframe)  
 
 ## [Casual 20 - Mihono: Start]: Planning a New Year's Trip
 Several days before New Year's Eve.

@@ -1,24 +1,12 @@
 
 Yanase Mai Episodes
 ===================
-https://www.youtube.com/watch?v=9tyUth1V9KU
-
-  
-https://youtu.be/d4UPDxCWrUY
-
-  
-https://youtu.be/aNyvrlT3j5M
-
-  
-https://youtu.be/VNAKMkkvBJE
-
-  
-https://youtu.be/fx9_2ljRfcY
-
-  
-https://youtu.be/Vh6dekDJVps
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/9tyUth1V9KU"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/d4UPDxCWrUY"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/aNyvrlT3j5M"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/VNAKMkkvBJE"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fx9_2ljRfcY"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Vh6dekDJVps"></iframe>](:Iframe)  
 
 ## 1: Pudding Unlike This
 **Kanami:** Mai-chan, we're here\~\! Today's special guest is... Mihono-chan\!  
@@ -224,9 +212,7 @@ https://youtu.be/Vh6dekDJVps
 **Ema:** With that, I need to leave for the night.  
 **Mai:** President...  
 **Mai:** ...I understand. I'll try having a little more faith in myself.  
-https://youtu.be/d4UPDxCWrUY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/d4UPDxCWrUY"></iframe>](:Iframe)  
 
 ## [Misogi- Mai: Start]: My First Shock
 --After being accepted to Minoseki Academy.
@@ -310,9 +296,7 @@ https://youtu.be/d4UPDxCWrUY
 **Mai:** We might be the same age, but... Kanami-chan was just so much stronger. That's why... Someday, I'd like to be about as strong as Kanami-chan.  
 **Friend B:** She definitely is. We'll have to work real hard ourselves-.  
 **Mai:** Mmhm\! Let's all work hard enough that we won't lose to Kanami-chan\!  
-https://youtu.be/aNyvrlT3j5M
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/aNyvrlT3j5M"></iframe>](:Iframe)  
 
 ## [Dress - Mai: Start]: Nene's Madness
 **Kaoru:** Gulp, gulp, gulp... Phwaa\! Gimme another glass of grape juice\!  
@@ -378,9 +362,7 @@ https://youtu.be/aNyvrlT3j5M
 **Kaoru:** Then, I'm off... This time, I'd better get some for Nene so he won't steal mine.  
 **Mai:** ...So she says. Isn't that good for you, Nene-chan?  
 **Nene:** Ne\!  
-https://youtu.be/VNAKMkkvBJE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/VNAKMkkvBJE"></iframe>](:Iframe)  
 
 ## [Marching - Mai: Start]: Minoseki's Marching Band
 **Mai:** Excuse me.  
@@ -465,9 +447,7 @@ At the marching band's main performance.
 **Mai:** And there's ones from Ellen-chan and Kaoru-chan and everyone too... Fufu.  
 **Kanami:** See, I told you we'd pull it off.  
 **Mai:** You did, Kanami-chan\!  
-https://youtu.be/fx9_2ljRfcY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fx9_2ljRfcY"></iframe>](:Iframe)  
 
 ## [Swimsuit 20 - Mai: Start]: Am I Being... A Bit Overly Helpful?
 **Mai:** Sayaka-chan. Are you getting things ready for tomorrow? If you'd like, I can help you?  
@@ -537,9 +517,7 @@ https://youtu.be/fx9_2ljRfcY
 **Sayaka:** Mai... You're amazing.  
 **Mai:** Fufu. But Sayaka-chan, that's because your face is saying you wanted to do it even more.  
 **Mai:** Besides, I had a lot of fun doing it too.  
-https://youtu.be/Vh6dekDJVps
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Vh6dekDJVps"></iframe>](:Iframe)  
 
 ## [Stage Girl - Mai: Start]: Two Triangles
 **Kanami:** I can't wait to spar with all these stage girls\! If I pass this up, I'll never get another chance like it.  

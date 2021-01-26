@@ -1,33 +1,15 @@
 
 Satsuki Yomi Episodes
 =====================
-https://www.youtube.com/watch?v=igT7W2V1B5M
-
-  
-https://www.youtube.com/watch?v=JQrHdhn4Raw
-
-  
-https://www.youtube.com/watch?v=SNBCw7znJRI
-
-  
-https://youtu.be/jdKVXQRmnJ0
-
-  
-https://youtu.be/ZYwru7GiMV0
-
-  
-https://youtu.be/AD0Bdd24GGM
-
-  
-https://youtu.be/UDpu_4zvXrw
-
-  
-https://youtu.be/53qQY9kGizE
-
-  
-https://youtu.be/x09jCgS9Qss
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/igT7W2V1B5M"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/JQrHdhn4Raw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SNBCw7znJRI"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/jdKVXQRmnJ0"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/AD0Bdd24GGM"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UDpu_4zvXrw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/53qQY9kGizE"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/x09jCgS9Qss"></iframe>](:Iframe)  
 
 ## 1: Elite Guard Tea Party
 **Maki:** Sigh... Writing up a report after every single mission is getting to be a real chore.  
@@ -176,9 +158,7 @@ https://youtu.be/x09jCgS9Qss
 **Sayaka:** ...You don't have to ask me. That's my mission.  
 **Sayaka:** If that's all, then goodbye, Satsuki Yomi... Senpai.  
 **Yomi:** President Takatsu...  
-https://www.youtube.com/watch?v=JQrHdhn4Raw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/JQrHdhn4Raw"></iframe>](:Iframe)  
 
 ## [Bride Yomi: Start]: Undercover Investigation (Yomi's Case)
 **Yomi:** There was another person who had their ring stolen by aradama?  
@@ -246,9 +226,7 @@ https://www.youtube.com/watch?v=JQrHdhn4Raw
 **Yomi:** B-By everyone, you mean...  
 **Yume:** Maki-onee-san, and Suzuka-onee-san\~.  
 **Yomi:** I should have firmly refused...  
-https://www.youtube.com/watch?v=SNBCw7znJRI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SNBCw7znJRI"></iframe>](:Iframe)  
 
 ## [Ceremonial Dress - Misogi: Start]: Yomi's Weak Point
 **Tsugumi:** Are you ready to start?  
@@ -354,9 +332,7 @@ https://www.youtube.com/watch?v=SNBCw7znJRI
 **Bull Type Aradama:** GYAAAAAOOOOOO\!\!  
 **Yume:** You did it-\! See, it went just like I said it would, right?  
 **Yomi:** ...You were right. Thank you very much, Tsubakuro-san.  
-https://youtu.be/jdKVXQRmnJ0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/jdKVXQRmnJ0"></iframe>](:Iframe)  
 
 ## [Yukata Yomi: Start]: We Mustn't Get Lost
 **Yume:** That yukata really matches you, Yomi-onee-san. It looks good-.  
@@ -432,9 +408,7 @@ https://youtu.be/jdKVXQRmnJ0
 **Yomi:** I think that's a good idea.  
 **Yume:** Festivals sure are fun, huh.  
 **Yomi:** Yes, very much so.  
-https://youtu.be/ZYwru7GiMV0
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
 ## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
 **Akira:** Oiii, Yomi\! Here, over here\~.  
@@ -498,9 +472,7 @@ https://youtu.be/ZYwru7GiMV0
 **Yomi:** I did too. Then, until next time.  
 **Akira:** She's working real hard for her buddies, huh.  
 **Akira:** Alright... I've gotta stick to it too.  
-https://youtu.be/AD0Bdd24GGM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/AD0Bdd24GGM"></iframe>](:Iframe)  
 
 ## [Xmas' 19 - Yomi: Start]: An Unpredictable Present
 **Yomi:** A Christmas Eve party...?  
@@ -580,9 +552,7 @@ The day of the Christmas Eve party.
 **Ellen:** Yomiyomi, Kiyoka\! They're starting the gift exchange. Let's go over\!  
 **Yomi:** Alright.  
 **Yomi:** (The happy face of the person who receives it... That's the fun of giving presents, isn't it...)  
-https://youtu.be/UDpu_4zvXrw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UDpu_4zvXrw"></iframe>](:Iframe)  
 
 ## [Journey to the West - Yomi: Start]: What Is Tsubakuro-san Going to Do?
 **Yukari:** Satsuki. Konohana will be joining me at this evening's conference. I won't be needing an escort. You'll be assisting Shidou instead.  
@@ -651,9 +621,7 @@ A few days later.
 **Maki:** And anyway... Can they really recreate the story all the way to India?  
 **Suzuka:** I haven't checked, but wouldn't it be like Ban-san to have gone into that much detail?  
 **Yume:** Yeah, I'm getting excited for next time\~\!  
-https://youtu.be/53qQY9kGizE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/53qQY9kGizE"></iframe>](:Iframe)  
 
 ## [Renpu Summer Uniform - Yomi: Start]: Yomi and Akira
 **Yomi:** I thought then that, someday, I wanted to be helpful to that person.  
@@ -738,9 +706,7 @@ https://youtu.be/53qQY9kGizE
 **Yomi:** (No matter how hard I fight, she might never acknowledge me.)  
 **Yomi:** (Even so, that's fine with me.)  
 **Yomi:** (So long as... someday, I can help her.)  
-https://youtu.be/x09jCgS9Qss
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/x09jCgS9Qss"></iframe>](:Iframe)  
 
 ## [Mahou Shoujo - Yomi: Start]: Similar to Someone
 **Aradama:** OOOOOOOOOOOOOOOOO\!\!  

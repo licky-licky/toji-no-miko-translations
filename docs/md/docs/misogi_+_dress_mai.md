@@ -1,9 +1,7 @@
 
 misogi + dress mai
 ==================
-https://youtu.be/d4UPDxCWrUY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/d4UPDxCWrUY"></iframe>](:Iframe)  
 
 ## [Misogi- Mai: Start]: My First Shock
 --After being accepted to Minoseki Academy.
@@ -87,9 +85,7 @@ https://youtu.be/d4UPDxCWrUY
 **Mai:** We might be the same age, but... Kanami-chan was just so much stronger. That's why... Someday, I'd like to be about as strong as Kanami-chan.  
 **Friend B:** She definitely is. We'll have to work real hard ourselves-.  
 **Mai:** Mmhm\! Let's all work hard enough that we won't lose to Kanami-chan\!  
-https://youtu.be/aNyvrlT3j5M
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/aNyvrlT3j5M"></iframe>](:Iframe)  
 
 ## [Dress - Mai: Start]: Nene's Madness
 **Kaoru:** Gulp, gulp, gulp... Phwaa\! Gimme another glass of grape juice\!  

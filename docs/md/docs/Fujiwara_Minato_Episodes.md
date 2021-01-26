@@ -1,12 +1,8 @@
 
 Fujiwara Minato Episodes
 ========================
-https://youtu.be/QTL1maXuvOs
-
-  
-https://youtu.be/nqyOMfDau7o
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/QTL1maXuvOs"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/nqyOMfDau7o"></iframe>](:Iframe)  
 
 ## 1: School Life 20 Years Ago
 **Minato:** There's no sign of these aradama, huh.  
@@ -261,9 +257,7 @@ The next day.
 **Kagari:** Yu... Yukari-sama\! I'm terribly sorry\! I only meant to splash Minato-senpai, but...  
 **Yukari:** Now that I'm this wet, you leave me no choice. I'll accept this challenge.  
 **Minato:** That's the spirit, Yukari\! This is how things ought to be\! Kagari, Yukari, let's get this started-\!  
-https://youtu.be/nqyOMfDau7o
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/nqyOMfDau7o"></iframe>](:Iframe)  
 
 ## [Mahouka - Minato: Start]: Three Lost People
 **Honoka:** Heeeey\! Kanami-? Mihono-?  

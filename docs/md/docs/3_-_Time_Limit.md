@@ -1,9 +1,7 @@
 
 3 - Time Limit
 ==============
-https://www.youtube.com/watch?v=32B6iYjLJHE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/32B6iYjLJHE"></iframe>](:Iframe)  
 
 ## 1: Clashing Thoughts and Feelings (1)
 **Chie:** I won't forgive them... For what they did to everyone at Mokusa... I'll avenge them for sure...  

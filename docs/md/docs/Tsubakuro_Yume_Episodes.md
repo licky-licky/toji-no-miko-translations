@@ -1,27 +1,13 @@
 
 Tsubakuro Yume Episodes
 =======================
-https://www.youtube.com/watch?v=gLaJFcXh_m8
-
-  
-https://www.youtube.com/watch?v=g3DcgmFmPik
-
-  
-https://youtu.be/Q19Fa9VDWgg
-
-  
-https://youtu.be/l-T5v0sq5no
-
-  
-https://youtu.be/51zzPZJO6kY
-
-  
-https://youtu.be/QcrxhLnr7t8
-
-  
-https://youtu.be/0OSG6EeTdH8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/gLaJFcXh_m8"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/g3DcgmFmPik"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Q19Fa9VDWgg"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/l-T5v0sq5no"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/51zzPZJO6kY"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/QcrxhLnr7t8"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/0OSG6EeTdH8"></iframe>](:Iframe)  
 
 ## 1: Meeting Maki
 **Maki:** So you're the new addition to the elite guard, Tsubakuro Yume?  
@@ -156,9 +142,7 @@ https://youtu.be/0OSG6EeTdH8
 **Kanami:** What's so bad about it? It's not too late, you know\! We can still be friends\!  
 **Yume:** ...Hey, Onee-san. Don't forget about me, okay...  
 **Kanami:** ...I won't\! I could never forget you\!  
-https://www.youtube.com/watch?v=g3DcgmFmPik
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/g3DcgmFmPik"></iframe>](:Iframe)  
 **Furisode Part 1:** Yume's First Shrine Visit of the Year  
 **Yume:** Whoa\~, there's so many people. Do we really have to wait in line here?  
 **Suzuka:** My, weren't you the one saying you wanted to make your first shrine visit of the year?  
@@ -223,9 +207,7 @@ https://www.youtube.com/watch?v=g3DcgmFmPik
 **Yume:** And, what else\~. I still have to beat Yukari-sama, so a whole bunch of people can see how great I am\!  
 **Yomi:** There's a lot you want to do, isn't there. Shouldn't you have wished to the gods about it then?  
 **Yume:** Ehh\~? I don't have to do that\~. Cause... The four of us can make it all happen together\!  
-https://youtu.be/Q19Fa9VDWgg
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Q19Fa9VDWgg"></iframe>](:Iframe)  
 
 ## [VRS Equipment - Yume: Start]: Nothing to It but to Do It\!
 **Maki:** [mumble mumble mumble]...   
@@ -292,9 +274,7 @@ https://youtu.be/Q19Fa9VDWgg
 **Yume:** Just kidding\! I'm fine; I remember how to fly, okay.  
 **Maki:** Hey, Yume\! Don't tease me like that...  
 **Yume:** Still, it's really amazing that you can do this here too\! I'm glad I came here with someone who'd read the whole manual\!  
-https://youtu.be/l-T5v0sq5no
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/l-T5v0sq5no"></iframe>](:Iframe)  
 
 ## [Hostess - Yume: Start]: Yume's Work Experience\!
 **Maki:** ......  
@@ -365,9 +345,7 @@ The next day--
 **Maki:** On top of that, we have work we can't afford to leave undone.  
 **Suzuka:** Yesterday was truly a spur of the moment arrangement, so we couldn't make preparations. Though, it would be nice if the four of us could do something like that again someday.  
 **Yume:** Someday for sure\!  
-https://youtu.be/51zzPZJO6kY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/51zzPZJO6kY"></iframe>](:Iframe)  
 
 ## [Misogi - Yume: Start]: Why Won't You Let Me\!
 **Yume:** Maki-onee-san.  
@@ -466,9 +444,7 @@ https://youtu.be/51zzPZJO6kY
 **Yume:** Okay\!  
 **Yume:** (Ahh, that was so fun\! I'll get even stronger next time, and then I'll even beat Yukari-sama\!)  
 **Yume:** ...I'm really glad I joined the elite guard\!  
-https://youtu.be/QcrxhLnr7t8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/QcrxhLnr7t8"></iframe>](:Iframe)  
 
 ## [1,001 Nights - Yume: Start]: A Request
 **Maki:** Excuse us, Yukari-sama.  
@@ -536,9 +512,7 @@ https://youtu.be/QcrxhLnr7t8
 **Yume:** You haven't smiled for a second-\!  
 **Suzuka:** Fufu, an event like this isn't so bad, is it, Yume.  
 **Yume:** Yeah\! I want us all to do this again\!  
-https://youtu.be/0OSG6EeTdH8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/0OSG6EeTdH8"></iframe>](:Iframe)  
 
 ## [Mahou Shoujo - Yume: Start]: Let's Go Together\!
 **Yume:** Where'd she go... Ah, there you are\! Fate-chan\!  

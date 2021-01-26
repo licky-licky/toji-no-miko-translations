@@ -1,24 +1,12 @@
 
 Kitora Mirja Episodes
 =====================
-https://www.youtube.com/watch?v=0nwUhaRIgmI
-
-  
-https://youtu.be/N8q9gtW9xcY
-
-  
-https://youtu.be/vrh9FfXuL1I
-
-  
-https://youtu.be/Y6ff2yewfcQ
-
-  
-https://youtu.be/vMJ0ViPK_JA
-
-  
-https://youtu.be/f6NzJE7uOCo
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/0nwUhaRIgmI"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/N8q9gtW9xcY"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/vrh9FfXuL1I"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Y6ff2yewfcQ"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/vMJ0ViPK_JA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/f6NzJE7uOCo"></iframe>](:Iframe)  
 
 ## 1: The Proper Method of Using a Tank
 **Mizushina Kinuka:** By the way, Kitora-san. There's been talk about how Nakano-san's aradama killcount hasn't been going up. What's your opinion on that, as her commander in the field?  
@@ -208,9 +196,7 @@ On the day of a fight against aradama---
 **Chie:** But do things feel a little clearer now?  
 **Mirja:** Yes. I've come to understand more of it. This may have seemed sudden, but I am still a novice at this.  
 **Mirja:** As such, it seems I'll have to learn more from everyone about how they live their lives.  
-https://youtu.be/N8q9gtW9xcY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/N8q9gtW9xcY"></iframe>](:Iframe)  
 **Valentines Part 1:** Mirja-san's Unexpected Side  
 **Mirja:** I heard from Kohagura Ellen.   
 **Mirja:** Several small aradama escaped from them. They seem to be headed our way.  
@@ -275,11 +261,8 @@ https://youtu.be/N8q9gtW9xcY
 **Ellen:** You seem like you're having no problem taking care of things by yourself, but I'll go get ready\~.  
 **Mirja:** (Whether it be as a toji or as staff of this cake shop, I feel that I've done a good job today.)  
 **Mirja:** No, the day isn't over yet. I can't let my guard down.  
-https://youtu.be/vrh9FfXuL1I
-
-  
-
-## [New Year's Mirja: Start] Mirja's First Shrine Visit of the Year
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/vrh9FfXuL1I"></iframe>](:Iframe)  
+**[New Year's Mirja:** Start] Mirja's First Shrine Visit of the Year  
 **Mirja:** As one would expect, there are a great number of people out for New Year's Day. Let's all take caution so that no one gets lost.  
 **Yui:** Okay\! You got it, Mirja-san\!  
 **Mirja:** ...I don't see anyone besides you, Yamashiro Yui. What happened to the others?  
@@ -349,9 +332,7 @@ https://youtu.be/vrh9FfXuL1I
 **Mirja:** I have high expectations that the investigation team will be able to become an even better team.  
 **Yui:** She just kept going\!\?  
 **Mirja:** I hope that this will be another good year.  
-https://youtu.be/Y6ff2yewfcQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Y6ff2yewfcQ"></iframe>](:Iframe)  
 
 ## [Halloween 19 - Mirja: Start]: Kaiju Mirja?
 **Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  
@@ -437,9 +418,7 @@ On the day of filming.
 **Mirja:** (What exactly was she expecting to need it for... Though, Iwakura Sanae seems to be happy about it... Well, there's no harm in it.)  
 **Mirja:** Then, I'll be looking forward to it.  
 **Sanae:** Sure\! Please do\!  
-https://youtu.be/vMJ0ViPK_JA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/vMJ0ViPK_JA"></iframe>](:Iframe)  
 
 ## [Swimsuit 20 - Mirja: Start]: Stroll
 On a day off...
@@ -510,9 +489,7 @@ On a day off...
 **Yui:** You were just toying with me, Mirja-san\~\! But, you treating me like that feels pretty nice too\!  
 **Mirja:** ...What are you talking about? I'll leave you behind.  
 **Yui:** Wait for meee\~\!  
-https://youtu.be/f6NzJE7uOCo
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/f6NzJE7uOCo"></iframe>](:Iframe)  
 
 ## [Mahouka - Mirja: Start]: Mirja and Mayumi
 **Mirja:** ...I see, so that's what kind of magic you have, Saegusa Mayumi.  
@@ -581,8 +558,9 @@ https://youtu.be/f6NzJE7uOCo
 **Mayumi:** They did; I'm famished at this point. Even though it's a dream. It's a strange feeling, isn't it?  
 **Mirja:** I feel the same. What do you say we find something to eat close by?  
 **Mayumi:** I'm all for it\!  
+[very low quality video]
 
-## [very low quality video]
+  
 https://streamable.com/nprbpr
 
   

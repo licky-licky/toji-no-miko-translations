@@ -1,9 +1,7 @@
 
 Prologue - The Beginning
 ========================
-https://www.youtube.com/watch?v=5L0bjHNHPI4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/5L0bjHNHPI4"></iframe>](:Iframe)  
 
 ## 1: Memories of the Battle yet to Come (1)
 **???:** How about this, dear. What do you think of the name "Mihono"? Written with the kanji for a beautiful flame.  

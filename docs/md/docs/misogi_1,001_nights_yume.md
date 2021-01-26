@@ -1,9 +1,7 @@
 
 misogi/1,001 nights yume
 ========================
-https://youtu.be/51zzPZJO6kY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/51zzPZJO6kY"></iframe>](:Iframe)  
 
 ## [Misogi - Yume: Start]: Why Won't You Let Me\!
 **Yume:** Maki-onee-san.  
@@ -102,9 +100,7 @@ https://youtu.be/51zzPZJO6kY
 **Yume:** Okay\!  
 **Yume:** (Ahh, that was so fun\! I'll get even stronger next time, and then I'll even beat Yukari-sama\!)  
 **Yume:** ...I'm really glad I joined the elite guard\!  
-https://youtu.be/QcrxhLnr7t8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/QcrxhLnr7t8"></iframe>](:Iframe)  
 
 ## [1,001 Nights - Yume: Start]: A Request
 **Maki:** Excuse us, Yukari-sama.  

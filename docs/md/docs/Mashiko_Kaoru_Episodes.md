@@ -1,21 +1,11 @@
 
 Mashiko Kaoru Episodes
 ======================
-https://www.youtube.com/watch?v=RqEd_v9cVH4
-
-  
-https://youtu.be/qSMb2Ua4TwY
-
-  
-https://youtu.be/A4RipDwmT9Y
-
-  
-https://youtu.be/U_8Z9M9PWSk
-
-  
-https://youtu.be/SB5mF34N1ZY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/RqEd_v9cVH4"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/qSMb2Ua4TwY"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/A4RipDwmT9Y"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/U_8Z9M9PWSk"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SB5mF34N1ZY"></iframe>](:Iframe)  
 
 ## 1: The Heart of a Mashiko
 
@@ -208,9 +198,7 @@ https://youtu.be/SB5mF34N1ZY
 **Ellen:** The aradama's headed your way\! Give it a big finishing blow for me-\!  
 **Kaoru:** H-Huh\!\?  
 **Ellen:** Go, Kaoru\~\!  
-https://youtu.be/qSMb2Ua4TwY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/qSMb2Ua4TwY"></iframe>](:Iframe)  
 
 ## [Yukata - Kaoru: Start]: Let's Test Our Courage\!
 **Ellen:** Alright then, let's get this test of courage underway\! We made lots to draw, so everyone take turns drawing them and pair up\!  
@@ -284,9 +272,7 @@ https://youtu.be/qSMb2Ua4TwY
 **Ellen:** Right here the whole time, you know...?  
 **Kaoru:** Then, the Ellen back there was...  
 **Kaoru/Mihono:** HIEEEEEEEEEEEEEEEEEE\!\!  
-https://youtu.be/A4RipDwmT9Y
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/A4RipDwmT9Y"></iframe>](:Iframe)  
 
 ## [Misogi - Kaoru: Start]: A Little About the Past
 **Kaoru:** Today's kinda hot, isn't it-... My water bottle's already run dry...  
@@ -372,9 +358,7 @@ https://youtu.be/A4RipDwmT9Y
 **Nene:** Nee??  
 **Kaoru:** You're gonna be the park's main attraction, after all. We'll be in trouble if you aren't in your best shape, Nene.  
 **Nene:** Nene-\!  
-https://youtu.be/U_8Z9M9PWSk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/U_8Z9M9PWSk"></iframe>](:Iframe)  
 
 ## [Pajama - Kaoru: Start]: Isn't It Fine Every Once in a While?
 **Ellen:** That's the last one\! It's coming your way, Kiyoka\!  
@@ -447,9 +431,7 @@ https://youtu.be/U_8Z9M9PWSk
 **Kiyoka:** I know we already started throwing them, but... is it really alright for us to have a pillow fight in a hotel like... Afwh\!\?  
 **Kaoru:** Hahaha\! Never let your guard down, Kiyoka.  
 **Kiyoka:** Why do you look like you're having the most fun with this, Kaoru-san\!  
-https://youtu.be/SB5mF34N1ZY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/SB5mF34N1ZY"></iframe>](:Iframe)  
 
 ## [Nenegurumi - Kaoru: Start]: Let's Sell Nenegurumis
 **Sana:** Oh, you're here, Kaoru.  

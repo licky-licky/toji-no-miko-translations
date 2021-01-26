@@ -1,9 +1,7 @@
 
 2-1 On a New Mission
 ====================
-https://www.youtube.com/watch?v=Xz-N2DwEBLU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Xz-N2DwEBLU"></iframe>](:Iframe)  
 
 ## 1: Momentary Peace and a New Journey (1)
 **Mihono:** Mmmm\~, yummy\! When it comes to crepes, chocolate covered bananas with creme fraiche is such a must have\!  

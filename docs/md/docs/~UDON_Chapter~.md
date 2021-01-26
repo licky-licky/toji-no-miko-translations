@@ -1,9 +1,7 @@
 
 ~UDON Chapter~
 ==============
-https://youtu.be/Q1oMmLbcCeg
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Q1oMmLbcCeg"></iframe>](:Iframe)  
 
 ## 1: The Hero Club's Udon Trip
 **TV Reporter:** Now then, for today's feature... Here\! It's Japan's big three udon\!  
@@ -200,9 +198,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Heroes:** Yeah-\!  
 **Hiyori:** There's just no limit to your passion for udon, is there...  
 **Ellen:** It is the source of their power, after all\!  
-https://youtu.be/Vm_3KVXqxvE
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Vm_3KVXqxvE"></iframe>](:Iframe)  
 
 ## [Yuusha 2: Hiyori: Start]: Toji and Heroes-- The Stoic Pair
 **Sonoko:** We'll see you off from here\~.  
@@ -292,9 +288,7 @@ https://youtu.be/Vm_3KVXqxvE
 **Karin:** It's not that big a deal. Come on, we should head back soon.  
 **Hiyori:** That's true. I still have plenty more to recommend you. I'll give you the rest of them on the train.  
 **Karin:** Hey... They aren't all chocolate mint, are they?  
-https://youtu.be/H9uezyeVchU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/H9uezyeVchU"></iframe>](:Iframe)  
 
 ## [Yuusha 2: Kiyoka: Start]: To Boost Up Our Girl Power\!
 **Kiyoka:** This time, the two of us will be suppressing aradama as a pair. You might not be able to rely on me for much... But I look forward to working with you.  

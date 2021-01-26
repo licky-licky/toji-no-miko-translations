@@ -1,9 +1,7 @@
 
 2-7 The Special Hazardous Waste Leakage Issue
 =============================================
-https://www.youtube.com/watch?v=_n2VvQhnMfM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/_n2VvQhnMfM"></iframe>](:Iframe)  
 
 ## 1: Hope (1)
 Four months have past since Tagitsuhime fled to the netherworld, casting aradama-- Special hazardous waste, across all of Kanto.

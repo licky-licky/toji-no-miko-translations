@@ -1,9 +1,7 @@
 
 3-3 Takirihime
 ==============
-https://www.youtube.com/watch?v=pr_VwOqpOwA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/pr_VwOqpOwA"></iframe>](:Iframe)  
 
 ## 1: Tensions Rise
 **Yukina:** They've each been adjusted thoroughly. These are now your loyal soldiers, Princess. Please use them as you see fit.  

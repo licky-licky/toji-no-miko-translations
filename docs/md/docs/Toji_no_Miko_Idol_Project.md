@@ -1,9 +1,7 @@
 
 Toji no Miko Idol Project
 =========================
-https://youtu.be/2aeYuGyp6Rs
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/2aeYuGyp6Rs"></iframe>](:Iframe)  
 
 ## 1: Forming an Idol Unit\!\?
 One day, after school, Mihono was called into the office.

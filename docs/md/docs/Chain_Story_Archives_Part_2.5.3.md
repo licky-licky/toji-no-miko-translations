@@ -1,9 +1,7 @@
 
 Chain Story Archives Part 2.5.3
 ===============================
-https://youtu.be/-fV4ehWn5Gw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/-fV4ehWn5Gw"></iframe>](:Iframe)  
 
 ## 7: Inago Akira, the Toji
 **Mihono:** This is the third time we've gone in, isn't it?  

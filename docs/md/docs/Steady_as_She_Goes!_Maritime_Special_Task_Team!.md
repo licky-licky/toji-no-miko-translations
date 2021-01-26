@@ -1,9 +1,7 @@
 
 Steady as She Goes! Maritime Special Task Team!
 ===============================================
-https://www.youtube.com/watch?v=_Ffytb2ztkA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/_Ffytb2ztkA"></iframe>](:Iframe)  
 
 ## 1: Onward, to the Open Seas\!
 **Kanami:** I wonder what kind of mission we're on this time?  

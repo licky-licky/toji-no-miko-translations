@@ -1,9 +1,7 @@
 
 3-6 The Two from the Imperial Guard
 ===================================
-https://youtu.be/5mRivqJnwWw
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/5mRivqJnwWw"></iframe>](:Iframe)  
 
 ## 1: Kiyoka's Reluctance (1)
 **Mihono:** It's still hard to wrap my head around Yui and Hana being our enemies...  

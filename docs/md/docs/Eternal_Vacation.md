@@ -1,9 +1,7 @@
 
 Eternal Vacation
 ================
-https://youtu.be/0vVIGDtRVLE?t=1320
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/0vVIGDtRVLE?t=1320"></iframe>](:Iframe)  
 
 ## 1: Eternal Vacation - Prologue 
 **Mihono:** Yaaay-\! The sea\! It's the sea\~\!\!  

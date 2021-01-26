@@ -1,18 +1,10 @@
 
 Konohana Suzuka Episodes
 ========================
-https://www.youtube.com/watch?v=w2NeeHf2gB0
-
-  
-https://youtu.be/MB7eNdGUsHU
-
-  
-https://youtu.be/gTpQZtWj_rg
-
-  
-https://youtu.be/t74NJwnCerI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/w2NeeHf2gB0"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/MB7eNdGUsHU"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/gTpQZtWj_rg"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/t74NJwnCerI"></iframe>](:Iframe)  
 
 ## 1: Dance of the Ojou-samas
 **Mai:** Good to see you, Konohana-san.  
@@ -228,9 +220,7 @@ https://youtu.be/t74NJwnCerI
 **Suzuka:** I'll have the ring ready in a moment. The other toji have taken their positions, so we can start...  
 **Maki:** No, I didn't mean that... You look good.  
 **Suzuka:** Ah... Fufu, I'm glad to hear that, Maki-san.  
-https://youtu.be/MB7eNdGUsHU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/MB7eNdGUsHU"></iframe>](:Iframe)  
 
 ## [Valentines Suzuka: Start]: A Similar Pair?
 **Mirja:** As of now, there is only one more confirmed target in the shopping mall. Do you see it on the spectrum finder?  
@@ -305,9 +295,7 @@ https://youtu.be/MB7eNdGUsHU
 **Yume:** What's that about Maki-onee-san?  
 **Suzuka:** Nothing at all. It isn't much longer until closing time, so let's give one last effort.  
 **Yume:** You really are acting kinda suspicious today, Suzuka-onee-san\~...  
-https://youtu.be/gTpQZtWj_rg
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/gTpQZtWj_rg"></iframe>](:Iframe)  
 
 ## [Xmas' 19 - Suzuka: Start]: A Place to Hide a Present
 **Maki:** Suzuka, did something happen for you to call me over here?  
@@ -385,9 +373,7 @@ December 25th.
 **Yomi:** Thank you for your gift. I'm grateful for your thoughtfulness.  
 **Suzuka:** You're very perceptive, Yomi-san, so we were anxious you might find your present before we could give it to you.  
 **Suzuka:** We were very lucky to keep it a secret until today. I suppose you hide a tree in a forest, and a present among gifts.  
-https://youtu.be/t74NJwnCerI
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/t74NJwnCerI"></iframe>](:Iframe)  
 
 ## [Special Defense Team - Suzuka: Start]: Suzuka of the Special Defense Team
 **Suzuka:** Now then, I'll go about explaining our next mission.  

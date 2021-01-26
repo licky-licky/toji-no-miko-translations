@@ -1,9 +1,7 @@
 
 Toji Notes: -The Heroes of Twenty Years Ago-
 ============================================
-https://www.youtube.com/watch?v=eWPpXSEiGbY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/eWPpXSEiGbY"></iframe>](:Iframe)  
 
 ## 1: The "Toji Notes" of 20 Years Ago
 **Kaoru:** Sigh, why're we the ones who've gotta sort the books in the library?  

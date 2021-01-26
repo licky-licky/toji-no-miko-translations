@@ -167,9 +167,7 @@ https://streamable.com/bos4qz
 **Mihono:** Ahh... Fukki... She would run off and leave her, wouldn't she. If she saw an aradama.  
 **Mihono:** Maybe I'll ask her if she wants to get something tasty to eat after.  
 **Kiyoka:** Mm, we should do that.  
-https://youtu.be/61uP0-QaIpA
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/61uP0-QaIpA"></iframe>](:Iframe)  
 
 ## [Pirate - Hiyori: Start]: Inami and Shichinosato and...
 **Aradama:** KSHAAAAAA...\!\!  
@@ -256,9 +254,7 @@ https://youtu.be/61uP0-QaIpA
 **Kofuki:** Oh\! Mihocchi and Kiyoka are headed over. Go shove this pendant in their faces, Hunchback.  
 **Suu:** Hunchback\!\? Could you please not call me weird names... It's rude\!  
 **Hiyori:** Good grief...  
-https://youtu.be/ee9V9yy0uqk
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/ee9V9yy0uqk"></iframe>](:Iframe)  
 
 ## [Pirate - Suu: Start]: After Eliminating the Aradama--
 **Aradama:** AAAAA...  

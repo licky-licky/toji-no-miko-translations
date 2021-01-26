@@ -1,9 +1,7 @@
 
 4-2 The Gate to the Netherworld is Opened
 =========================================
-https://www.youtube.com/watch?v=vTPBxanrVa4
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/vTPBxanrVa4"></iframe>](:Iframe)  
 
 ## 1: The Aradama of the Netherworld (1)
 **Mihono:** --Ah\! There they are\! It's Kanami\!  

@@ -1,9 +1,7 @@
 
 Sweet Valentines Chocolate Panic!
 =================================
-https://www.youtube.com/watch?v=jvBrqZOGzFY
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/jvBrqZOGzFY"></iframe>](:Iframe)  
 
 ## 1: Chocolate Panic Prologue
 **Mirja:** Tsubakuro Yume, the target has been led your way\! Dispose of it\!  

@@ -1,9 +1,7 @@
 
 Battle for the First in the Pool!
 =================================
-https://www.youtube.com/watch?v=x-0wkl69rCc
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/x-0wkl69rCc"></iframe>](:Iframe)  
 
 ## 1:　The Secret School Event: "First in the Pool"
 **Ellen:** Kaoru\! The school pool is finally opening up tomorrow\!  

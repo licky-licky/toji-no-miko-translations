@@ -1,9 +1,7 @@
 
 3-2 The Dark Shadow Working Behind the Scenes
 =============================================
-https://www.youtube.com/watch?v=L5g6KSmsL_o
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/L5g6KSmsL_o"></iframe>](:Iframe)  
 
 ## 1: Unease (1)
 **Mihono:** Hey, Chii-nee. Do you know where Yui is?  

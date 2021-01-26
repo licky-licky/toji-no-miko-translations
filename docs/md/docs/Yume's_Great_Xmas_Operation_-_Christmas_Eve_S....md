@@ -4,9 +4,7 @@ Yume's Great Xmas Operation - Christmas Eve S...
 Part 4 was dubbed live on stream. There's a link above it if you want to read along.
 
   
-https://youtu.be/hi6PTJCbCKs
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/hi6PTJCbCKs"></iframe>](:Iframe)  
 
 ## 1: Let's Get Things Ready for the 24th\!
 **Yume:** Uhh, so first you break the eggs, then you separate the yolk from the egg white...? Wait, how are you supposed to do this anyway? Geez-, why doesn't this book explain things right?  
@@ -145,9 +143,7 @@ On the day of the party.
 **Yume:** Kyahaha-\! That Santa outfit looks really good on you, Yomi-onee-san\!  
 **Mai:** She seemed to have no idea, so the surprise was a big success, wasn't it?  
 **Yume:** Yeah\! Onee-san, thanks a bunch. And also, Merry Christmas\!  
-https://youtu.be/XL33MXyxw44?t=6708
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/XL33MXyxw44?t=6708"></iframe>](:Iframe)  
 
 ## 4: Kanami and Hiyori's Christmas Eve
 **Kanami:** That was a fun party, wasn't it\! And you were so cute dressed up like a reindeer, Hiyori-chan. See, look\! I took a ton of pictures\!  
@@ -229,9 +225,7 @@ https://youtu.be/XL33MXyxw44?t=6708
 **Maki:** Oh, I'll be fine. I've got the heat of your hand keeping me warm.  
 **Suzuka:** Honestly...  
 **Suzuka:** (This year's Christmas Eve will be a fine thing to remember. I'll have to offer my gratitude to Santa Claus...)  
-https://youtu.be/evNvCiMwU_E
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/evNvCiMwU_E"></iframe>](:Iframe)  
 
 ## [Xmas' 19 - Tsugumi: Start]: With Our Caroling
 **Mihono:** Wow-\! Come take a look\! There's so many tasty looking cakes\!  

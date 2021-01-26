@@ -1,18 +1,10 @@
 
 Musumi Kiyoka Episodes
 ======================
-https://www.youtube.com/watch?v=wlXPwLDgDeY
-
-  
-https://youtu.be/6_yDBybZI3Y
-
-  
-https://youtu.be/H9uezyeVchU
-
-  
-https://youtu.be/F1HUf5KE_sc
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/wlXPwLDgDeY"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/6_yDBybZI3Y"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/H9uezyeVchU"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/F1HUf5KE_sc"></iframe>](:Iframe)  
 
 ## 1: I Have a Friend, Meow-
 **Mihono:** Oh yeah, so what's your friend like, Musumi-san? You said you were close to someone at Heijou.  
@@ -209,9 +201,7 @@ https://youtu.be/F1HUf5KE_sc
 **Kiyoka:** ...Phew\! Without an ideal to strive for, you'll never express your femininity\!  
 **Mihono:** I-I think I get it... An ideal. Okay...  
 **Mihono:** (I've never seen Kiyoka like this before. I'm still sort of reeling...)  
-https://youtu.be/6_yDBybZI3Y
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/6_yDBybZI3Y"></iframe>](:Iframe)  
 
 ## [Bride '19: Start]: Undercover Investigation (Kiyoka's Case)
 **Yui:** Ehhh\!\? Aradama showed up at the wedding chapel again\!\?  
@@ -287,9 +277,7 @@ https://youtu.be/6_yDBybZI3Y
 **Kiyoka:** Did you just take a picture of them\!\?  
 **Yui:** Relax, the only record of your panties is safe in my memories.  
 **Kiyoka:** I don't want that either----\!\!  
-https://youtu.be/H9uezyeVchU
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/H9uezyeVchU"></iframe>](:Iframe)  
 
 ## [Yuusha 2: Kiyoka: Start]: To Boost Up Our Girl Power\!
 **Kiyoka:** This time, the two of us will be suppressing aradama as a pair. You might not be able to rely on me for much... But I look forward to working with you.  
@@ -382,9 +370,7 @@ https://youtu.be/H9uezyeVchU
 **Kiyoka:** Fufu, only when you made girl power sound so all powerful. But, I was very glad for your help.  
 **Kiyoka:** I think I'll keep working towards bringing up my girl power from now on\!  
 **Fuu:** Mmhm. That's the spirit. You can do it, Kiyoka\!  
-https://youtu.be/F1HUf5KE_sc
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/F1HUf5KE_sc"></iframe>](:Iframe)  
 
 ## [Hostess - Kiyoka: Start]: I'm a Little Bit Nervous for Now...
 **Kiyoka:** ......  

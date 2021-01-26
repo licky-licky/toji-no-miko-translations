@@ -1,9 +1,7 @@
 
 3 - Investigation Team Formation Exam
 =====================================
-https://www.youtube.com/watch?v=2Gf_EgUkR-M
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/2Gf_EgUkR-M"></iframe>](:Iframe)  
 
 ## 1: The President, the Akabane Swords, and the Girl with No Presence
 **Mihono:** President Ema...?  

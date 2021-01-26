@@ -74,9 +74,7 @@ https://pastebin.com/cVMRB6HY
 **Sayaka:** There's something I wanted to ask too.  
 **Kanami:** See, see\! C'mon, Fate-chan, let's hurry on back\!  
 **Fate:** ...Okay\!  
-https://youtu.be/x09jCgS9Qss
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/x09jCgS9Qss"></iframe>](:Iframe)  
 
 ## [Mahou Shoujo - Yomi: Start]: Similar to Someone
 **Aradama:** OOOOOOOOOOOOOOOOO\!\!  
@@ -149,9 +147,7 @@ https://youtu.be/x09jCgS9Qss
 **Yomi:** ...  
 **Yomi:** Let's go back, Takamachi-san.  
 **Nanoha:** Sure, Yomi-san\!  
-https://youtu.be/imReN1M24ss
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/imReN1M24ss"></iframe>](:Iframe)  
 
 ## [Mahou Shoujo - Tsugumi: Start]: Tsugumi-san Can Do Anything
 **Announcement:** --An outbreak of aradama has been confirmed. Please follow instructions from officials and evacuate immediately.  
@@ -220,9 +216,7 @@ https://youtu.be/imReN1M24ss
 **Nanoha:** We can't do that\! Let's go in and stop them\!  
 **Tsugumi:** If we have to. Let's go then.  
 **Nanoha:** Right\!  
-https://youtu.be/0OSG6EeTdH8
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/0OSG6EeTdH8"></iframe>](:Iframe)  
 
 ## [Mahou Shoujo - Yume: Start]: Let's Go Together\!
 **Yume:** Where'd she go... Ah, there you are\! Fate-chan\!  

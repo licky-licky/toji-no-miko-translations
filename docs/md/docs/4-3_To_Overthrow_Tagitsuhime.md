@@ -1,9 +1,7 @@
 
 4-3 To Overthrow Tagitsuhime
 ============================
-https://www.youtube.com/watch?v=djF6hKbn0Po
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/djF6hKbn0Po"></iframe>](:Iframe)  
 
 ## 1: Yui's Condition
 **Male News Anchor:** In regards to the strange phenomenon affecting the capital, along with the frequent appearances of aradama, Miss Tagitsuhime, as well as the Sword Administration bureau, have yet to make any statement--  

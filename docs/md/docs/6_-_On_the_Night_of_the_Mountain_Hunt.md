@@ -1,9 +1,7 @@
 
 6 - On the Night of the Mountain Hunt
 =====================================
-https://www.youtube.com/watch?v=YMTHQYzNwfM
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/YMTHQYzNwfM"></iframe>](:Iframe)  
 
 ## 1: It's a Toji's Duty\! (1)
 **Mirja:** It's time for the operation to begin. According to the elite guard's orders, we are to search the southwest side of the mountain.  

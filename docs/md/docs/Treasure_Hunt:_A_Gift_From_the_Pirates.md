@@ -1,9 +1,7 @@
 
 Treasure Hunt: A Gift From the Pirates
 ======================================
-https://youtu.be/7bidAVkhEuQ
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/7bidAVkhEuQ"></iframe>](:Iframe)  
 
 ## 1: Want to Hunt For Treasure?
 **Mihono/Kanami:** The sea-\!\!  
