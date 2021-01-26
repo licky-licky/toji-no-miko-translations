@@ -4,6 +4,8 @@ from mdutils.tools.TextUtils import TextUtils
 from mdutils.tools.Header import Header
 from natsort import natsorted
 
+translations_paste_key = 'LdyviZ8Z'
+
 character_names = [
     'Etou_Kanami',
     'Juujou_Hiyori',
@@ -38,6 +40,35 @@ def part_titles(x):
         '4': 'Part 4: Bonds',
         '5': 'Part 5: Fog at First Light'
     }.get(x, 'Part')  
+
+def get_events():
+    with open('result_1.json', 'r') as res1, open('titles_1.json') as tit1, open('result_2.json') as res2, open('titles_2.json') as tit2:
+        results = json.load(res1) + json.load(res2)
+        titles = json.load(tit1) + json.load(tit2)
+        data = ''
+        events_line = 0
+        events = []
+        event_titles = []
+        for r in results:
+            if r['paste_key'] == translations_paste_key:
+                data = r['data']
+        if data:
+            for num, line in enumerate(data.splitlines(), 1):
+                if '[---EVENTS---]' in line:
+                    events_line = num
+
+        if events_line:
+            list_of_lines = data.splitlines()
+            for evt in list_of_lines[events_line+3:]:
+                if evt and evt[0] == 'h':
+                    events.append(evt.replace('https://pastebin.com/', ''))
+            
+            for e in events:
+                for t in titles:
+                    if t['paste_key'] == e:
+                        event_titles.append(t['title'].replace('/', '_').replace(' ', '_') + '.md')
+
+        return event_titles        
 
 def generate_toc():
     toc = '[Home](/)\n'
@@ -91,8 +122,8 @@ def generate_toc():
         title = fn.replace('_', ' ')
         toc += f'> [{title}](/docs/{fn})\n'
 
-    toc += '\n> :Collapse label=Events/Misc./Unsorted\n> \n'
-    for o in others:
+    toc += '\n> :Collapse label=Events\n> \n'
+    for o in get_events():
         fn = o.replace('.md', '')
         title = fn.replace('_', ' ')
         toc += f'> [{title}](/docs/{fn})\n'
@@ -108,7 +139,7 @@ def generate_file(title, data):
         line = line.replace('!', '\!')
         line = line.replace('!?', '!\?')
         line = line.replace('!"', '!\\"')
-        if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric())) or '[R]' not in line or line[0].isnumeric()):
+        if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line)) or line[0].isnumeric()):
             mdFile.write(Header.atx_level_2(line))
         elif ':' in line and 'http' not in line:
             pos = line.find(':')
@@ -135,20 +166,18 @@ def generate_file(title, data):
     mdFile.write('> :ToCPrevNext')
     mdFile.create_md_file()
     
+if __name__ == '__main__':
 
-with open('result_1.json', 'r') as res1, open('titles_1.json') as tit1, open('result_2.json') as res2, open('titles_2.json') as tit2:
-    results = json.load(res1) + json.load(res2)
-    titles = json.load(tit1) + json.load(tit2)
+    with open('result_1.json', 'r') as res1, open('titles_1.json') as tit1, open('result_2.json') as res2, open('titles_2.json') as tit2:
+        results = json.load(res1) + json.load(res2)
+        titles = json.load(tit1) + json.load(tit2)
 
-    for r in results:
-        for t in titles:
-            if r['paste_key'] == t['paste_key']:
-                # print(t['title'], r['hits'])
-                generate_file(t['title'], r['data'])
-        #         break
-        # else:
-        #     continue
-        # break
+        for r in results:
+            for t in titles:
+                if r['paste_key'] == t['paste_key']:
+                    # print(t['title'], r['hits'])
+                    generate_file(t['title'], r['data'])
 
-generate_toc()
+
+    generate_toc()
 

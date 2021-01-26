@@ -272,8 +272,7 @@ https://youtu.be/5On4WnD5fIA
 **Kofuki:** What, is that all of them?  
 **Yume:** They were way too weak\! I didn't get to have any fun at all.  
 **Yume:** And anyway, they didn't give us a hint card either; we got a letter instead.  
-
-## [R]: There is a traitor among you. Listen to the white rabbit to find who can stop them\!
+**[R]:** There is a traitor among you. Listen to the white rabbit to find who can stop them\!  
 **Suzuka:** This means...  
 **Kiyoka:** One of us in here is a traitor...?  
 **Mihono:** W-Well it's not me\!\?  
