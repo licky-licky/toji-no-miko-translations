@@ -1,0 +1,3 @@
+[submodule "simple-pastebin-client"]
+	path = simple-pastebin-client
+	url = https://github.com/swordpolishing/simple-pastebin-client.git
