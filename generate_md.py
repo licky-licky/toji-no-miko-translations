@@ -173,7 +173,7 @@ def generate_file(title, data):
         line = line.replace('!', '\!')
         line = line.replace('!?', '!\?')
         line = line.replace('!"', '!\\"')
-        if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line and ']:' in line)) or line[0].isnumeric()):
+        if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line and ']:' in line)) or (line[0].isnumeric() and (':' in line or '-' in line))):
             mdFile.write(Header.atx_level_2(line))
         elif ':' in line and 'http' not in line:
             pos = line.find(':')

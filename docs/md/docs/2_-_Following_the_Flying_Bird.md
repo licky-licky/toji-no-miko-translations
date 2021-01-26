@@ -185,8 +185,9 @@ Origami family office--
 *phone hangs up*
 
   
+30 minutes later...
 
-## 30 minutes later...
+  
 Kyoto prefecture, Ayanokouji Martial Arts School, President's office--
 
   
@@ -207,8 +208,9 @@ Kyoto prefecture, Ayanokouji Martial Arts School, President's office--
 *phone hangs up*
 
   
+15 minutes later...
 
-## 15 minutes later...
+  
 **Mirja:** Ayanokouji Martial Arts School, high school 2nd year... Kitora Mirja, reporting in.  
 **Yuzuki:** Enter.  
 **Mirja:** Excuse me.  
