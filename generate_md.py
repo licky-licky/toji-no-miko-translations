@@ -30,7 +30,8 @@ character_names = [
     'Inago_Akira',
     'Inami_Suu',
     'Iwakura_Sanae',
-    'Nitta_Hirona'
+    'Nitta_Hirona',
+    'christmas'
 ]
 
 def part_titles(x):
@@ -66,9 +67,41 @@ def get_events():
             for e in events:
                 for t in titles:
                     if t['paste_key'] == e:
-                        event_titles.append(t['title'].replace('/', '_').replace(' ', '_') + '.md')
+                        event_titles.append(t['title'].replace('/', '_').replace(' ', '_').replace('#','No.') + '.md')
 
-        return event_titles        
+        return event_titles
+
+def get_episodes():
+     with open('result_1.json', 'r') as res1, open('titles_1.json') as tit1, open('result_2.json') as res2, open('titles_2.json') as tit2:
+        results = json.load(res1) + json.load(res2)
+        titles = json.load(tit1) + json.load(tit2)
+        data = ''
+        episodes_line = 0
+        events_line = 0
+        episodes = []
+        episode_titles = []
+        for r in results:
+            if r['paste_key'] == translations_paste_key:
+                data = r['data']
+        if data:
+            for num, line in enumerate(data.splitlines(), 1):
+                if '[---TOJI EPISODES---]' in line:
+                    episodes_line = num
+                if '[---EVENTS---]' in line:
+                    events_line = num
+
+        if episodes_line:
+            list_of_lines = data.splitlines()
+            for evt in list_of_lines[episodes_line+4:events_line]:
+                if evt and evt[0] == 'h':
+                    episodes.append(evt.replace('https://pastebin.com/', ''))
+            
+            for e in episodes:
+                for t in titles:
+                    if t['paste_key'] == e:
+                        episode_titles.append(t['title'].replace('/', '_').replace(' ', '_').replace('#','No.') + '.md')
+
+        return episode_titles
 
 def generate_toc():
     toc = '[Home](/)\n'
@@ -79,8 +112,8 @@ def generate_toc():
 
     part1 = []
     other_parts = []    # part numbers
-    chapters = []
-    episodes = []
+    chapters = []       # chapters of parts
+    episodes = []       # character episodes
     others = []         # everything else 
     for md in os.listdir('./docs/md/docs'):
         if (md[0].isnumeric() and md[2] == '-') or 'Prologue' in md:
@@ -117,7 +150,8 @@ def generate_toc():
                 toc += f'> > [{title}](/docs/{fn})\n'
     
     toc += '\n> :Collapse label=Episodes\n> \n'
-    for ep in episodes:
+    episodes_in_paste = get_episodes()
+    for ep in episodes_in_paste + list(set(episodes) - set(episodes_in_paste)):
         fn = ep.replace('.md', '')
         title = fn.replace('_', ' ')
         toc += f'> [{title}](/docs/{fn})\n'
@@ -133,7 +167,7 @@ def generate_toc():
 
 
 def generate_file(title, data):
-    mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_') + '.md', title=title)
+    mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_').replace('#','No.') + '.md', title=title)
     for line in data.splitlines():
         line = line.replace('~', '\~')
         line = line.replace('!', '\!')
