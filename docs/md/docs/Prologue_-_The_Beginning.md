@@ -31,7 +31,7 @@ Prologue - The Beginning
 **Mirja:** That's enough, you two. It's time for us to be in position.  
 **Mirja:** Now, everyone, get in formation\! The final operation is about to commence\! Thank you for waiting... Head of the family\!  
 **Yukari:** Mm...\!  
-**Yukari:** Ready utsushi\! Prepare yourselves\! We are now going to suppress ***\! Know that this is a battle to secure a tomorrow for humanity\!  
+**Yukari:** Ready utsushi\! Prepare yourselves\! We are now going to suppress \*\*\*\! Know that this is a battle to secure a tomorrow for humanity\!  
 **Yukari:** Draw your swords\!  
 **Mihono:** Did we do it\!\? It's over\! Where there's a will, there's a way, you know\!  
 **Mihono:** With our investigation team around, we could take on any aradama\! We're unstoppable\!  
@@ -49,14 +49,14 @@ Prologue - The Beginning
 **Kofuki:** C'mon, you should know by now a bigass aradama like that's not gonna die so easy. Ahh, man\! I'm so excited I'm getting goosebumps\!  
 **Chie:** Listen, Kofuki-chan... We don't know that it's not over yet, so stop talking like that.  
 **Chie:** ...Though it does seem like we haven't beaten it, right, Mirja?  
-**Mirja:** Yes, it's still alive. With my "sight" I can confirm it, *** is still alive.  
+**Mirja:** Yes, it's still alive. With my "sight" I can confirm it, \*\*\* is still alive.  
 **Kofuki:** Hehe, if Mirja says so it must be true. So come on out and play, aradama-chan...\!  
 **Yukari:** Yes, it's as Kitora says. They're still alive...  
 **Yukari:** ........\!  
-**Yukari:** Here it comes\! All toji, at the ready\! Give everything you have to suppress ***\!  
+**Yukari:** Here it comes\! All toji, at the ready\! Give everything you have to suppress \*\*\*\!  
 **Yukari:** Good work, everyone.  
 **Mihono:** Ah, uh... This time\! This time for sure, it's over right\!\?  
-**Yukari:** That's right. With this, *** can no longer threaten our world...  
+**Yukari:** That's right. With this, \*\*\* can no longer threaten our world...  
 **Yukari:** We... ...ven ...f...  
 **Mihono:** (Huh? Everyone's voices...)  
 **Mihono:** (Yukari-sama? Yukari-sama...\! Everyone...\!\?)  

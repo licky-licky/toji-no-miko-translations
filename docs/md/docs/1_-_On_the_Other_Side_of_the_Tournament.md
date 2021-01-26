@@ -208,7 +208,7 @@ All spectators caught and held their breath for what was about to come.
 
   
 **Referee:** Both of you... Utsushi\!  
-**The two's bodies became enveloped in a glow that would protect them from harm. This was the battle armor of a toji:**  
+The two's bodies became enveloped in a glow that would protect them from harm. This was the battle armor of a toji:  
 utsushi. A power belonging only to those who hold an okatana. Their ordinarily frail body protected by the netherworld; a temporary body takes its place. It allows them to escape death once, though after that the body vanishes.
 
   
