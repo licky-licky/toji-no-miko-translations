@@ -10,7 +10,7 @@ misogi yui + shinsengumi sayaka
 **Yui:** Tsugumi-san, the way you look out for Kofuki-san... It's so precious I can't get enough\!  
 **Tsugumi:** Only you could describe aradama management as precious, Yamashiro-san.  
 **Tsugumi:** The reason I do this is because, if there are no aradama around, Shichinosato-san starts to get cranky.  
-**Yui:** Oh come onnn, isn't that what makes it so precious\~? Or, are you saying you get it?  
+**Yui:** Oh come onnn, isn't that what makes it so precious\~\? Or, are you saying you get it?  
 **Tsugumi:** Hmm, I can just never tell how you'll respond to anything.  
 **Tsugumi:** There's many types of people among the investigation team that I'm unused to dealing with, but... Yamashiro-san, you're the most extreme of them all.  
 **Tsugumi:** Socializing is hardly my strong suit, but there's no one I've ever had as much trouble understanding as you.  

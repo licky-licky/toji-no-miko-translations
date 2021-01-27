@@ -56,7 +56,7 @@ May 2019.
 **Kanami:** I'm surprised you even got your own investigation room at Renpu Girls' School\!  
 **Mihono:** I was really happy about that. We never had anything like it before, so it's like, the investigation team's home base\! It's exciting.  
 **Kanami:** And also, you've gotten a heck of a lot stronger, Mihono-chan.  
-**Mihono:** Y-You think so\~?  
+**Mihono:** Y-You think so\~\?  
 **Kanami:** Yeah\! It's so much fun facing off against you\! When we get back, wanna spar?  
 **Mihono:** Sure thing\! We've gotta exercise off the bubble tea and all\!  
 **Mihono:** ...Ah.  

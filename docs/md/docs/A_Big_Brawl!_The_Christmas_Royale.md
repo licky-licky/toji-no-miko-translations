@@ -250,10 +250,10 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Yume:** Hey, hey, fight me, Maki onee-san\! I was about to die of boredom over there\~\.  
 **Maki:** You know we can't do that now. You and I both have our duties here.  
 **Yume:** Boo. You just have to stay near Yukari-sama\!  
-**Yume:** Ah\! I just thought of something good. Yukari-sama\~? If I can protect the star, I want you to grant my wish\!  
+**Yume:** Ah\! I just thought of something good. Yukari-sama\~\? If I can protect the star, I want you to grant my wish\!  
 **Maki:** That's already an important role Yukari-sama gave you. Don't start acting greedy with it.  
 **Yukari:** No, if that will keep Yume motivated, I'll allow it. If you can keep the star untouched, I'll grant your wish.  
-**Yume:** You mean it\!\? Hooray-\! I wonder what I should wish for\~?  
+**Yume:** You mean it\!\? Hooray-\! I wonder what I should wish for\~\?  
 **Yomi:** Wasn't that nice of her, Tsubakuro-san.  
 **Yume:** Yeah\! It's my Christmas present\~, my Christmas present\~\!  
 **Yume:** (Come to think of it, doesn't something happen around Christmas?\)  
@@ -273,7 +273,7 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Maki:** You made the right call, Yukari-sama.  
 **Yomi:** Yes. Now it will be harder than ever for those participating to take that star.  
 **Yukari:** We can't say for sure how things will end. Let's watch as the toji show us how they've grown.  
-**Yume:** No matter how many times you try, it's gonna be the same, you know\~? I won't go easy on you.  
+**Yume:** No matter how many times you try, it's gonna be the same, you know\~\? I won't go easy on you.  
 **Suzuka:** You seem to be rather excited about your work now. Did something happen?  
 **Yume:** Yukari-sama promised me, if I can keep the star from getting taken, she'll grant my wish too\~\!  
 **Suzuka:** Then I'll need to do my best to make sure your wish comes true, Yume.  

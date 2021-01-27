@@ -36,7 +36,7 @@ https://streamable.com/n46xcn
 **Ellen:** Ah, you should try the ones she grilled slow at low temperature too.  
 **Kaoru:** I guess I'll have some of that then.  
 **Nene:** Nene-\!  
-**Nao:** Not yet\~\. These ones need to cook a little longer. Understand\~?  
+**Nao:** Not yet\~\. These ones need to cook a little longer. Understand\~\?  
 **Nene:** Ne...  
 **Ellen:** The barbecue boss's orders are absolute, Kaoru.  
 **Kaoru:** ...R-Right. Anyway, Mihono and Kiyoka still aren't back yet?  
@@ -130,14 +130,14 @@ The day of the barbecue--
 
   
 **Mihono:** Okaaay, I think I'll grill up some meat\! It's meat time\~\!  
-**Uraga Nao:** Oh, Asakura-san. Need me to grill more\~?  
+**Uraga Nao:** Oh, Asakura-san. Need me to grill more\~\?  
 **Mihono:** Ah, no, I'll be fine\! I want to try grilling it myself\!  
 **Mihono:** The barbecue boss should enjoy her own food\!  
 **Nao:** Grilling it yourself is fun too, isn't it\~\.  
 **Nao:** Wait... When did I start letting the barbecue boss title slide...?  
 **Mirja:** It's the truth, so isn't it better this way?  
 **Nao:** Mirja, if you're going to be like that, I'm not giving you a taste of this perfect combination of baguettes al ajillo\~\.  
-**Nao:** Want some, Setouchi-san\~?  
+**Nao:** Want some, Setouchi-san\~\?  
 **Chie:** It looks delicious; I think I will.  
 **Mirja:** Urgh... So your next strategy is to starve me out. I'll stop spreading the word of the barbecue boss...  
 **Mihono:** What should I do now\~\. Ah, skewers might be good\!  

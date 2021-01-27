@@ -14,7 +14,7 @@ Covers both fall events.
 **Maki:** I'll send you all the data so you can go over it yourselves.  
 **Yomi:** Thank you.  
 **Suzuka:** It's true, there's just enough gaps between missions for some time to ourselves.  
-**Yume:** So I get this day off, and this one too\~? Huh? Suzuka onee-san, don't we have the same day off?  
+**Yume:** So I get this day off, and this one too\~\? Huh? Suzuka onee-san, don't we have the same day off?  
 **Suzuka:** Would you look at that; that's quite the coincidence.  
 **Yume:** Then, we should go play somewhere together\!  
 **Suzuka:** I'd be glad to. It's rare for our time off to match up like this, so we should take advantage of the opportunity.  
@@ -33,7 +33,7 @@ Covers both fall events.
 **Yukari:** I don't recall making any specific order here. Isn't it just that all of you happened to be without missions that day?  
 **Maki:** It's true that all of us should have our work done for the time being that day...  
 **Yukari:** Then that day is simply the most efficient time to give all of you a break.  
-**Yume:** See, see\~? I said you were overthinking it, didn't I?  
+**Yume:** See, see\~\? I said you were overthinking it, didn't I?  
 **Yume:** Oh yeah\! Can you take that day off too, Yukari-sama? Then we can all have fun together\!  
 **Yukari:** Unfortunately, I have a pile of duties steadily accumulating that need to be dealt with. You'll all have to enjoy yourselves without me.  
 **Yume:** Well that sucks\~\. But at least the four of us are together, right\!  
@@ -149,9 +149,9 @@ On the day everyone had off--
 **Yomi:** Understood. When it comes to observing girls eating crepes, what should I be looking for specifically...  
 **Yui:** Just trust in your instincts, and when you see a girl who grabs your attention, look verrry closely at her behavior and expressions\!  
 **Yomi:** My instincts... I see.  
-**Yui:** Ah-, that one's so cute\! No, wait\! Her friend next to her's good looking too\~\. I don't believe it, are they twins\~? That's adorable\~\!  
+**Yui:** Ah-, that one's so cute\! No, wait\! Her friend next to her's good looking too\~\. I don't believe it, are they twins\~\? That's adorable\~\!  
 **Yomi:** Stare...  
-**Yui:** So what do you think, Satsuki-san? Can't get enough of those glittering "Which crepe should I eat" eyes, can you\~?  
+**Yui:** So what do you think, Satsuki-san? Can't get enough of those glittering "Which crepe should I eat" eyes, can you\~\?  
 **Yui:** Just seeing that is enough to keep me coming back to Harajuku\!  
 **Yomi:** I see, their eyes were glittering? Understood, I'll focus on that point from now on. Is there anywhere else I should pay attention to...  
 **Yui:** Let's see\~, for example... Like if you see a cool looking girl suddenly start passionately explaining the appeal of chocolate mint, while she licks away at it\!  
@@ -193,7 +193,7 @@ On the day everyone had off--
 **Yui:** Stuff like sitting in front of a crepe stand and observing the cute girls going by\!  
 **Sayaka:** Observing...?  
 **Yomi:** I learned to watch a person's eyes as they make purchases. And that it's essential to measure the gap in deviation between a person's style and their tastes.  
-**Yui:** There's no better way to spend your day off than joining a cute girl to watch cute girls, don't you think\~?  
+**Yui:** There's no better way to spend your day off than joining a cute girl to watch cute girls, don't you think\~\?  
 **Mai:** I-I guess that's one way to spend it...  
 **Sayaka:** Satsuki Yomi, did you have fun doing that?  
 **Yomi:** I'm diligently trying to. But I'm still unfamiliar with spending time off.  
@@ -237,13 +237,13 @@ On the day everyone had off--
 **Yomi:** What do you mean?  
 **Mai:** Everyone has different places they feel like they can relax in. In your case, Satsuki-san, if we move somewhere that's more rich with nature, you'll have a better day off, I think.  
 **Yomi:** I see, a place with more nature? It's true that Harajuku is so crowded it's difficult for me to calm down. I agree that we should move somewhere quieter.  
-**Yui:** In that case, where would be good\~? When I think of cute girls in the great outdoors, it's gotta be the beach\!  
+**Yui:** In that case, where would be good\~\? When I think of cute girls in the great outdoors, it's gotta be the beach\!  
 **Sayaka:** Yui, it's November...  
 **Yui:** Shoot. But I wanted to see all of you in swimsuits\~\.  
 **Kofuki:** Huh? What're you guys doing all hanging out here?  
 **Yui:** Whoa\! Even Kofuki-san's here now\! That's it\! You should come mess around with us, Kofuki-san\!  
 **Kofuki:** Mess around? I just got done doing that with some aradama-chan, so I'm headed back to Kamakura.  
-**Yui:** Ehhh, it's only noon. What's the harm in hanging out with us for a while\~?  
+**Yui:** Ehhh, it's only noon. What's the harm in hanging out with us for a while\~\?  
 **Kofuki:** The harm's that I hate how packed the stations get at night. And the leaves are in their fall colors, so Kamakura gets a ton of sightseers this time of season.  
 **Mai:** Fall colors\! That could do the trick. Why don't we all visit Kamakura and go leaf viewing?  
 **Sayaka:** That could be good... I agree with Mai.  

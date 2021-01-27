@@ -29,7 +29,7 @@ Covers both Halloween events.
 **Kaoru:** Huh... And you want to take those pumpkins and make jack o' lanterns to scare Origami Yukari, right?  
 **Yume:** That's what I've been saying this whole time\!  
 **Kaoru:** ...You've really gotta work on your communication skills when it comes to not swinging an okatana around.  
-**Yume:** Eh\~, what's that supposed to mean\~?  
+**Yume:** Eh\~, what's that supposed to mean\~\?  
 **Aradama:** KISHASHASHASHASHA\!  
 **Yume:** Spotted one already\! Tou-\!  
 **Kaoru:** Wh-Whoa... Seriously? The aradama actually dropped a pumpkin.  

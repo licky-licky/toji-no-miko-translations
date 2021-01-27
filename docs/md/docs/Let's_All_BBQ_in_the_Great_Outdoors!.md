@@ -19,7 +19,7 @@ Let's All BBQ in the Great Outdoors!
 **Kiyoka:** When the investigation team tries to do the cooking... Somebody slips in their own special ingredients, and it turns into a mystery hot pot... Or the curry ends up getting burnt.  
 **Chie:** If everyone would just do as I tell them... Everything would turn out fine, you know...?  
 **Ellen:** But so long as you don't go overboard, barbecuing is just as simple as cooking it.  
-**Nao:** You're right, there are lots of things you can easily barbecue, but to get the tastiest results, you can't stop working the spatula, you see\~?  
+**Nao:** You're right, there are lots of things you can easily barbecue, but to get the tastiest results, you can't stop working the spatula, you see\~\?  
 **Mihono:** Uraga-san, are you like a hot pot boss but for the barbecue? [Someone who gets very bossy when cooking at a hot pot.]  
 **Mirja:** She is. However, she's a hot pot boss as well, so she's both boss of the hot pot and barbecue.  
 **Nao:** Hey, you keep giving them the wrong idea\~\. I'm not the boss of anything\~\. Just someone who wants to cook stuff as delicious as it can be.  
@@ -40,7 +40,7 @@ Let's All BBQ in the Great Outdoors!
 **Kiyoka:** (Mmmm, "A sleeping child is a growing child"... What if that saying is true?\)  
 **Scream:** UWAAAA...\!\? A-ARADAMAAA\!  
 **Mihono:** \! Guys, let's go\!  
-**Nao:** Are you hurt\~? Is anyone injured?  
+**Nao:** Are you hurt\~\? Is anyone injured?  
 **Barbecue Goer:** It's nothing serious... But, the food for the barbecue...  
 **Nao:** The food?  
 **Barbecue Goer:** I don't know why, but... They took most of the food.  

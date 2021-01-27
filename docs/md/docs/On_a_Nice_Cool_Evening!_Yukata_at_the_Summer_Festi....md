@@ -8,11 +8,11 @@ On a Nice Cool Evening! Yukata at the Summer Festi...
 **Yomi:** Tsubakuro-san. By running around like that, you're obstructing the people constructing stands and transporting goods.  
 **Maki:** Yomi's right, Yume. We came here with Yukari-sama to lead and the supervise the toji joining in the festival, as part of giving back to the community.  
 **Yume:** Ehhh, but it's boring if that's all we get to do-.  
-**Yume:** Hey, Yukari-sama\~? After the festival gets started, we can go around and check out whatever we want, right-?  
+**Yume:** Hey, Yukari-sama\~\? After the festival gets started, we can go around and check out whatever we want, right-?  
 **Suzuka:** We aren't here to play, Yume. Our mission here is simply to patrol the area.  
 **Yume:** Ehh\~\...  
 **Yukari:** So long as you remember not to neglect your patrol, I don't mind if you enjoy the festivities.  
-**Yume:** Okay\! Just leave the patrolling to me\~\. Which stand should I go eat at first\~?  
+**Yume:** Okay\! Just leave the patrolling to me\~\. Which stand should I go eat at first\~\?  
 **Yume:** Onee-sans, what do you want to go see?  
 **Yomi:** There's nothing I want to see in particular.  
 **Maki:** Can't we just go around seeing whatever you're interested in, Yume?  
@@ -63,7 +63,7 @@ On a Nice Cool Evening! Yukata at the Summer Festi...
 **Suzuka:** That's right. I don't often get to sample them, so the moment I do see them, I always want to have a taste.  
 **Yume:** Ah, you can scoop for goldfish there\! Can I try that?  
 **Yukari:** Fine, go on.  
-**Yume:** You better watch, okay\~? I'm gonna catch a whole bunch of them\!  
+**Yume:** You better watch, okay\~\? I'm gonna catch a whole bunch of them\!  
 **Yume:** Geez, why can't I catch a single goldfish\~\!\?  
 **Yomi:** If you shout so loudly, you'll alert the goldfish.  
 **Yume:** But they keep swimming away as soon as I try\! Hey hey, onee-sans, show me how to do it-.  

@@ -71,7 +71,7 @@ Kohagura Ellen Episodes
 **Ellen:** Burp...... I-I ate too much... I can't move...  
 **Kaoru:** The cause of defeat was one helping too many.  
 **Ellen:** I thought I could at least finish one of everything... My greed got the better of me...  
-**Kanami:** Still, I can't believe you ate all that\! You really love cakes, huh, Ellen-chan\~?  
+**Kanami:** Still, I can't believe you ate all that\! You really love cakes, huh, Ellen-chan\~\?  
 **Mai:** Just looking at the satisfaction on her face made me start feeling happier.  
 **Ellen:** I really enjoyed it too, of course\! Eating the cakes I love with the people I love; today I'm feeling 100% happy\!  
 **Ellen:** ...Just, for a little bit... Let me rest...  
@@ -198,7 +198,7 @@ Kohagura Ellen Episodes
 **Ellen:** Looks like fun\! Let's do it\!  
 **Hiyori:** I'll pass. You can have fun on your--  
 **Kaoru:** Don't you know, Eternal? Playing hanetsuki is considered an act of prayer for a girl's development.  
-**Nene:** Ne\~?  
+**Nene:** Ne\~\?  
 **Hiyori:** ...\!\!  
 **Kaoru:** You sure you want to miss out? I guess it's only just a prayer, after all-.  
 **Ellen:** So then, Kanamin and I will be playing?  

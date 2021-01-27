@@ -177,7 +177,7 @@ Until I offered to be her partner that day.
 **Kofuki:** ......  
 **Tsugumi:** By the way, do you like fighting aradama, Shichinosato-san?  
 **Kofuki:** ......  
-**Tsugumi:** Hello? Did you not hear me? Hello in there\~? Do you like fighting aradama, Shichinosato-san?  
+**Tsugumi:** Hello? Did you not hear me? Hello in there\~\? Do you like fighting aradama, Shichinosato-san?  
 **Kofuki:** ...\! Fuck off, so what if I do? You gonna give me the cold shoulder like the rest of them?  
 **Tsugumi:** No no, you don't have to worry about that. If anything, you could say I'm burning with curiosity.  
 **Kofuki:** I don't care either way\! Tch, why'd I have to be stuck with you...\!  

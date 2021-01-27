@@ -227,7 +227,7 @@ Yuuki Yuuna is a Hero \~Toji and Hero Chapter\~
 **Kofuki:** Keep it coming, you lovely aradama-chans\! I'll wipe out every one of you\!  
 **Fuu:** Man, that Kofuki girl reminds me a lot of the old Karin. Like how you wanted to do all the fighting yourself. I remember you always bragging about you'd beat every Vertex alone.  
 **Karin:** Well I don't remember saying any of that-\!  
-**Fuu:** Oh\~, really? Hmmm\~? Hyaah-\!  
+**Fuu:** Oh\~, really? Hmmm\~\? Hyaah-\!  
 **Itsuki:** I'll keep that aradama trapped with wire\! There\~\!  
 **Tougou:** Thank you, Itsuki-chan\! For the sake of the nation, I'll shoot it down\!  
 **Mirja:** (Heroes... These girls don't seem to pay much thought to formations or tactics. I'd assume they're relative amateurs to group combat...)  

@@ -85,7 +85,7 @@ https://streamable.com/apx74v
 **Hiyori:** Alright. I've never made something like this before, but you teaching me would be a good chance to learn. I'll be counting on you.  
 **Mai:** Sure\!  
 **Yui:** Ah, you three were in here\!  
-**Yui:** Happy Halloween\~\! Kanami-chan, Hiyori-chan, annnd, Mai-chan\! Trick or treat\~?  
+**Yui:** Happy Halloween\~\! Kanami-chan, Hiyori-chan, annnd, Mai-chan\! Trick or treat\~\?  
 **Mai:** Here, Yui-chan, have a bite of this.  
 **Yui:** Oh\! Did you make this, Mai-chan? I'll have some\~\. Mmm\~, so good\!  
 **Kanami:** Yui-chan, were you looking for us for something?  
@@ -95,7 +95,7 @@ https://streamable.com/apx74v
 **Mai:** We might as well.  
 **Hiyori:** So, when Kiyoka said we could rent our costumes, she meant from the amusement park?  
 **Yui:** I've got to make the rounds and let the other girls know, so I'll be seeing you later\~\.  
-**Yui:** And, if you see anybody, be sure to tell them too, okay\~?  
+**Yui:** And, if you see anybody, be sure to tell them too, okay\~\?  
 **Kanami:** We got it-. Thanks, Yui-chan\!  
 **Mai:** How about we get going then?  
 **Kanami:** Ah, sure\! Though, we still have some time left, so I want to have at least one more slice of pie\~\.  

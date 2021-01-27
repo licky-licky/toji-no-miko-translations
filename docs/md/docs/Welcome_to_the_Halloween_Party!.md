@@ -212,7 +212,7 @@ Covers both Halloween events.
 **Mihono:** We're always fighting them, but now that I try to picture one, I can't get it right.  
 **Yume:** Onee-san, what're you doing?  
 **Mihono:** Tsubakuro-san\! We were trying to remember what an aradama looks like and draw one. But it's tougher than it sounds, making it look good.  
-**Yume:** Why would you wanna draw an aradama\~? You could be drawing something way cuter\~\.  
+**Yume:** Why would you wanna draw an aradama\~\? You could be drawing something way cuter\~\.  
 **Kanami:** We were going to make Halloween costume. So we were thinking, if we dressed up like an aradama, it'd totally scare everyone.  
 **Yume:** Eh\! A Halloween costume? That sounds like fun\!  
 **Yomi:** Sigh...  
@@ -221,7 +221,7 @@ Covers both Halloween events.
 Several hours before Yume and Yomi encountered Kanami and the others, they were--
 
   
-**Yume:** Why are we stuck at home again\~? It's so boring\~\! Yomi onee-sannn, let's go play outside\~\.  
+**Yume:** Why are we stuck at home again\~\? It's so boring\~\! Yomi onee-sannn, let's go play outside\~\.  
 **Yomi:** Tsubakuro-san, remaining on alert is an important duty. As members of the elite guard, we could be called upon at any moment, so we must always be ready to act.  
 **Yume:** Geez\~, I know that already. But it's so lame doing nothing but housesitting every single day\~\!  
 **Yomi:** Even so, we cannot abandon a mission Yukari-sama has given us without permission. Why don't you try thinking of a way to cure your boredom without going outside?  
@@ -287,7 +287,7 @@ Several hours before Yume and Yomi encountered Kanami and the others, they were-
 **Yume:** I'll call Yukari-sama and ask\!  
 **Yume:** Hello? Yukari-sama? I can go to a Halloween party, can't I?  
 **Yomi:** T-Tsubakuro-san...\!  
-**Yume:** Don't worry, Yomi onee-san will be with me. I'll be a good girl, I promise\! So can't I\~? Yukari-sama, pleaseee\!\!  
+**Yume:** Don't worry, Yomi onee-san will be with me. I'll be a good girl, I promise\! So can't I\~\? Yukari-sama, pleaseee\!\!  
 **Yomi:** Sigh...  
 **Yume:** Okay, got it\~\! Bye\!  
 **Kanami:** What'd Yukari-sama say, Yume-chan?  

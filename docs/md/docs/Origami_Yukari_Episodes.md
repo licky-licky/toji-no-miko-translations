@@ -46,7 +46,7 @@ Several hours before the tournament began--
 **Nene:** Ne-?  
 **Yukari:** By all rights, humans and aradama are incapable of coexisting. Yet, in spite of that, you've taken up as the guardian beast of the Mashiko family.  
 **Yukari:** Do you feel content living alongside humans?  
-**Nene:** ...Ne\~?  
+**Nene:** ...Ne\~\?  
 **Yukari:** ......  
 **Nene:** Nene\~\...?  
 **Yukari:** Ha...　No, it wasn't a question I should have asked you, I suppose.  
@@ -236,7 +236,7 @@ Several hours before the tournament began--
 **Yukari:** It's nothing. Look, school is starting. Let's go to our classrooms.  
 **Minato:** What that was about. Yukari was acting a little weird, wasn't she?  
 **Kagari:** Was she? Anyway, if we don't hurry, we'll be late. Really now, this is all your fault for launching into some long and pointless story about your dreams, Minato-senpai...  
-**Minato:** Sorry about that. But still, wouldn't it be funny if that dream ended up coming true\~?  
+**Minato:** Sorry about that. But still, wouldn't it be funny if that dream ended up coming true\~\?  
 In a break between classes.
 
   

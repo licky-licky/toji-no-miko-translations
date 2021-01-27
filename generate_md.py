@@ -182,21 +182,19 @@ def generate_file(title, data):
         line = line.replace('~.', '~\.')
         line = line.replace('?)', '?\)')
         line = line.replace('~)', '~\)')
+        line = line.replace('~?', '~\?')
 
         if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line and ']:' in line)) or (line[0].isnumeric() and (':' in line or '-' in line))):
             mdFile.write(Header.atx_level_2(line))
         elif ':' in line and 'http' not in line:
             pos = line.find(':')
-            try:
-                if pos <= 110 and len(line) >= pos+2 and not line[pos+1].isnumeric():
-                    bold_name = TextUtils.bold(line[0:pos+1])
-                    mdFile.write(bold_name + line[pos+1:])
-                    mdFile.new_line()
-                else:
-                    mdFile.write(line)
-                    mdFile.new_line()
-            except:
-                print(line)
+            if pos <= 110 and len(line) >= pos+2 and not line[pos+1].isnumeric():
+                bold_name = TextUtils.bold(line[0:pos+1])
+                mdFile.write(bold_name + line[pos+1:])
+                mdFile.new_line()
+            else:
+                mdFile.write(line)
+                mdFile.new_line()
         elif 'https://www.youtube' in line or 'https://youtu.be/' in line:
             if 'youtube' in line:
                 id = line.replace('https://www.youtube.com/watch?v=', '')

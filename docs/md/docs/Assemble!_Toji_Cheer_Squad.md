@@ -23,7 +23,7 @@ Assemble! Toji Cheer Squad
 **Sayaka:** ............Cheer leading?  
 **Maki:** Has everyone arrived?  
 **Ellen:** Yes\! Everyone's here\!  
-**Naruse Miki:** Though everyone is just the five of us, isn't it\~?  
+**Naruse Miki:** Though everyone is just the five of us, isn't it\~\?  
 **Yui:** I'm here, I'm here\! When I heard they wanted someone for such a delicious event, I threw both my hands up\!  
 **Mai:** Ah, you're here too, Sayaka-chan?  
 **Sayaka:** Mm. President Takatsu ordered me to be here.  

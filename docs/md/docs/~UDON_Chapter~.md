@@ -23,7 +23,7 @@
 **Heroes:** Let's give it a try-\!  
 **Fuu:** [slurrrp]...\!\? It's...  
 **Karin:** It's good, but... Something's different, isn't it?  
-**Sonoko:** I think it doesn't have enough body to it\~?  
+**Sonoko:** I think it doesn't have enough body to it\~\?  
 **Yomi:** I think the udon here is plenty delicious, though it may have lost some flavor compared to what you might find in its place of origin.  
 **Tougou:** What that means is, if we want to eat the true big three udon, we'll have to travel to their homelands.  
 **Yuuna:** Where does Inaniwa udon and Mizusawa udon come from?  

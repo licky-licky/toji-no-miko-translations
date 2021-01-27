@@ -221,7 +221,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Mirja:** As members of the same investigation team, and keeping a suitable distance from each other without crossing that line, I'll be in your care again this year.  
 **Yui:** Ahaha, I'll be in your care too\! So then, why did you call me out here first thing at the start of the year, to this wonderfully tucked away room for?  
 **Yui:** Let me guess, you invited me to lay out the futon so we can share our first dream of the new year together?  
-**Yui:** I came here expecting that, so my heart and body have already been completely prepared\! Now, where's that futon we need? In the closet\~?  
+**Yui:** I came here expecting that, so my heart and body have already been completely prepared\! Now, where's that futon we need? In the closet\~\?  
 **Mirja:** I thought you might be like this, so I had all the bedding stored in the closet removed.  
 **Mirja:** It seems we've begun the new year with a great misunderstanding, but I didn't call you here for any such reason.  
 **Yui:** Then, I know\! You wanted to start the year by confessing your love\!  

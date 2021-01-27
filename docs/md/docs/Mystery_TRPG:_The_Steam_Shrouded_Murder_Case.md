@@ -11,7 +11,7 @@ Mystery TRPG: The Steam Shrouded Murder Case
 **Ellen:** Makimaki, you don't have to be so serious-. We were just doing what we had to do.  
 **Yui:** That's right; no need to thank us. Rewarding us by letting us all spend the night together has already got me feeling the joy of life\!  
 **Hiyori:** ...I don't really think that's a reward.  
-**Ellen:** Still, Hiyoyon. We're all staying overnight at a ryokan\! Doesn't that get you kinda excited\~?  
+**Ellen:** Still, Hiyoyon. We're all staying overnight at a ryokan\! Doesn't that get you kinda excited\~\?  
 **Kiyoka:** It's not often we get to go on missions overnight with this many people.  
 **Kanami:** The food we got for dinner too... It was really good, wasn't it-?  
 **Suzuka:** Yes, the flavor was exquisite.  

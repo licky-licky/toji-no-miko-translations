@@ -26,7 +26,7 @@ Prologue - The Beginning
 **Kofuki:** You sure? Even at your best, you're still like a noro magnet. Try keeping it together, Mihocchi\!   
 **Mihono:** Hmph\! I said I'm fine\! Me and Kiyomitsu are ready to go\! After all, we're here to protect everyone's smiles\!  
 **Kofuki:** Is that right? Then try not making us even more worried than usual\!  
-**Mihono:** Hmm\~? Hm\~hmm\~\~? ...Ah\! Is that so\! You were worried, huh, Fukki\!  
+**Mihono:** Hmm\~\? Hm\~hmm\~\~\? ...Ah\! Is that so\! You were worried, huh, Fukki\!  
 **Kofuki:** ...Shuttup\!  
 **Mirja:** That's enough, you two. It's time for us to be in position.  
 **Mirja:** Now, everyone, get in formation\! The final operation is about to commence\! Thank you for waiting... Head of the family\!  

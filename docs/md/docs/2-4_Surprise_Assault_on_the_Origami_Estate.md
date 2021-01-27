@@ -101,7 +101,7 @@ At the same time, with Kitora Mirja's B team.
 **Toji A:** What are you doing, they're this way\!  
 **Toji B:** I'll be right there\!  
 **Yui:** Phew\~, they would have spotted us for sure... Go me\!  
-**Kiyoka:** H-Huh... Uhh\~?  
+**Kiyoka:** H-Huh... Uhh\~\?  
 **Yui:** Hm? What's that weird look for? Don't tell me, you've fallen for me? Aww\~, I'm so embarrassed\~\.  
 **Mirja:** Yamashiro Yui, do you not understand the aim of this operation? Our objective is to draw the enemy's attention, so what good will hiding do?  
 **Yui:** --Ah, oh yeah\! I just hid on instinct\!  
@@ -180,7 +180,7 @@ At the same time, with Asakura Mihono's A team--
 **Kofuki:** I'm down for it too. I've been interested in seeing what a great aradama's like.  
 **Kofuki:** Besides, we can't leave Mihocchi running off alone. Someone's gotta babysit her.  
 **Mihono:** Ehh\~ I don't want to hear that from you of all people, Fukki.  
-**Kofuki:** What was that\~?  
+**Kofuki:** What was that\~\?  
 **Mihono:** Ahaha.  
 
 ## 8: B Team (1)
@@ -226,7 +226,7 @@ At the same time, with Kitora Mirja's B team--
 **Yui:** Then let's keep on picking up girls-- Er, picking up guards\!  
 **Kiyoka:** I'm glad you're with us, Yui-chan... Your cheerfulness actually helps...  
 **Yui:** Oh, does that mean I'm slowly but surely winning you over? Then I'll just have to keep on showing you my good side\!  
-**Yui:** Heeey\~, you there\! Don't you want to have a lovey dovey chat with me\~?  
+**Yui:** Heeey\~, you there\! Don't you want to have a lovey dovey chat with me\~\?  
 **Kiyoka:** Ahaha... Maybe I shouldn't have said that...  
 
 ## 10: Clearing the Way (1)

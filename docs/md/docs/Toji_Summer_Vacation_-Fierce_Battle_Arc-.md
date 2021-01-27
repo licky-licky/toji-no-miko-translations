@@ -6,7 +6,7 @@ Toji Summer Vacation -Fierce Battle Arc-
 ## 1: What Wakes in the Summer
 **Yume:** Wow\~, it's the sea\~\! Hey, hey, Yomi onee-san\! Look, it's the sea, the sea\~\!  
 **Yomi:** Yes, it's the sea. However, we're on alert right now.  
-**Yume:** Come on\~, act a little more excited\~\. Yukari-sama\~, how long do we have to wait for\~?  
+**Yume:** Come on\~, act a little more excited\~\. Yukari-sama\~, how long do we have to wait for\~\?  
 **Yukari:** Only a little longer. Maki and Suzuka should be back from inspecting the site soon.  
 **Yume:** But weren't all the aradama beaten yesterday? So there's no reason for us to be here, right? I keep hearing there's not enough people, so we didn't have to come all this way...  
 **Yume:** Since they already took care of everything, we should just play on the beach. Can't we? Yukari-sama\~\.  
@@ -84,7 +84,7 @@ Toji Summer Vacation -Fierce Battle Arc-
 **Yukari:** Good, we'll push the front-line forward. Instruct the toji in the rear to begin recovering noro.  
 **Maki:** Understood\! Suzuka, Yomi, Yume\! From here on out, let no aradama approach Yukari-sama\!  
 **Yomi:** I'm on it.  
-**Yume:** Ehh\~? I'm pretty sure Yukari-sama'll be fine on her own though\~?  
+**Yume:** Ehh\~\? I'm pretty sure Yukari-sama'll be fine on her own though\~\?  
 **Maki:** Don't be like that. As the elite guard, this is our duty to fulfill.  
 **Suzuka:** She's right, Yume. As the elite guard, we are the swords which form Yukari-sama's shield.  
 **Yume:** If you say so... Ah, hey, by the way. Doesn't it seem like the aradama around here are only going after toji?  
@@ -151,7 +151,7 @@ Toji Summer Vacation -Fierce Battle Arc-
 **Mirja:** Then, after making its judgment, it began to act seriously? This sounds stranger than fiction, if I'm being honest...  
 **Sayaka:** But the story fits. The aradama are only targeting toji.  
 **Mai:** Well, what do you think, Nene-chan?  
-**Nene:** Ne\~?  
+**Nene:** Ne\~\?  
 **Ellen:** Seems like he's tilting his head hard in confusion.  
 **Kaoru:** Well, it figures.  
 **Emily:** Ah-\!\? What's the big idea, everyone\!\? Why does it seem like you just had a very interesting conversation without me\!\?  

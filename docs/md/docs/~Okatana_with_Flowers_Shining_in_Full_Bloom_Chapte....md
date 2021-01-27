@@ -230,7 +230,7 @@
 **Yuuna:** Ah, I don't know how...  
 **Mihono:** I don't either...  
 **Tougou:** Don't worry, Yuuna-chan, Mihono-chan. I know how you make it.  
-**Sonoko:** Wasshi, you can make western sweets too\~?  
+**Sonoko:** Wasshi, you can make western sweets too\~\?  
 **Tougou:** Japanese fare is my specialty, but it isn't like I completely dislike western sweets.  
 **Tougou:** You know that, don't you, Sonocchi? We had gelatto together after all.  
 **Sonoko:** Ahaha, that is true\~\.  
@@ -440,7 +440,7 @@ While Mihono was making bucket pudding with Yuuna and the others...
 **Mihono:** Ah... It's like... I remembered. When we were in that Jukai place, all of us fighting along with the Heroes... Huh? Why did I forget about that, anyway?  
 **Sonoko:** After touching the strange object that came from the aradama, your memories came back...? Here, let me see that for a minute\~\.  
 **Sonoko:** Ah. There's a message, on the Hero app on our phones... "Sensing a spiritual power"?  
-**Sonoko:** ...Hmmmm, if the app is reacting to it, then maybe this could be, a piece of the Shinju-sama's power\~?  
+**Sonoko:** ...Hmmmm, if the app is reacting to it, then maybe this could be, a piece of the Shinju-sama's power\~\?  
 **Tougou:** Then, when Mihono-chan came in contact with the Shinju-sama's power, her memories of us returned?  
 **Mihono:** If that's what happened... Then, so long as we have these, we won't forget all of you\!\?  
 **Sonoko:** Mmm\~, I'd say there's a chance at least. We don't know how long the Shinju-sama's influence will go on for, so unless we collect a lot of them, it might not work.  

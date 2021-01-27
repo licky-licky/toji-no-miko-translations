@@ -145,7 +145,7 @@ Escape From the Locker Room
 **Mirja:** I want to say this is the same as her usual self, but... Even Yamashiro Yui is in poor condition.  
 **Sayaka:** It's open...\! Mai, Kanami, Hiyori\!  
 **Mai:** Sayaka-chan\! Ahh\~\... I'm so glad to see you.  
-**Kofuki:** So hot... What is this, a sauna? Everybody still alive\~?  
+**Kofuki:** So hot... What is this, a sauna? Everybody still alive\~\?  
 **Kofuki:** ...Wait, what're you all looking like that for\!\? Well, I guess if it's this hot, what else can you do.  
 **Kofuki:** We brought you stuff to drink. You'd better be grateful\!  
 **Mirja:** We're in your debt... Shichinosato Kofuki, Itomi Sayaka.  

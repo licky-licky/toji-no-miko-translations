@@ -26,7 +26,7 @@
 **Kofuki:** Wait, what...\!\? Shit-\!\!  
 **???:** Whoa. I almost literally got in over my head this time. A second later and my neck would have been saying goodbye.  
 **Kofuki:** Have you gone nuts\!\? Or were you thinking we'd go easy on you if you don't use utsushi?  
-**???:** Ehh\~? It's because I'm on your side\! I'm your ally\! A friend\! Didn't they tell you\!\?  
+**???:** Ehh\~\? It's because I'm on your side\! I'm your ally\! A friend\! Didn't they tell you\!\?  
 **???:** They didn't tell you? ...Looking at your reactions, they definitely didn't tell you. That's so rude.  
 **???:** Aoto's Youji-san and Yamashiro Yui both must have forgotten to mention it. Those two can be so hard to work with.  
 **???:** And here I was so excited to get to help out the investigation team Kitora-senpai was assigned to. I can't believe it\!  
@@ -98,7 +98,7 @@
 **Kofuki:** Newbie, since you just got here you should have plenty of stamina to go. Work overtime to cover for us. Especially me\!  
 **Hana:** Leave it to me\! That's why I came as your reinforcement, after all\!  
 **Kofuki:** I was making a joke. You really are too serious.  
-**Mihono:** Ehh\~, Fukki. Was that your idea of a joke\~?  
+**Mihono:** Ehh\~, Fukki. Was that your idea of a joke\~\?  
 **Hana:** It won't be a problem; it's my mission after all\! I'll treat it as seriously as I always do.  
 **Chie:** In this situation, if you could help us keep driving a wedge in, there's nothing more I could ask of you.  
 **Chie:** Honestly, arriving when you did really saved us. Right now, I'll take anyone who's willing to help fight.  

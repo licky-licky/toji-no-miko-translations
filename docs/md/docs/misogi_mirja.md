@@ -76,14 +76,14 @@ https://streamable.com/w941jg
 **Senpai Toji:** You look kinda like you got a weight off your shoulders there, Kitora.  
 **Mirja:** Yes; because I've found a direction to go in.  
 **Mirja:** (When I participated in the tournament in my third year of middle school... and, the missions that came shortly after. I believe it was a good opportunity for me.)  
-**Uraga Nao:** Hey, Mirja\~? You listening\~?  
+**Uraga Nao:** Hey, Mirja\~\? You listening\~\?  
 **Mirja:** I am listening. As you two groan on about your post-high school graduation career paths.  
 **Nao:** They make it sound like checking our career paths is no big deal, but this is tough\~\. They tell you to write down schools of choice too, if you're going on to university.  
 **Mizushina Kinuka:** Ah\! Maybe I should write down Ayanokouji Martial Arts School as my school of choice. The best way to keep an eye on my little sister would be to get re-enrolled here-.  
 **Mirja:** The teacher is going to think you're making a joke. And, how would your sister feel, having her older sister as her kouhai now?  
 **Kinuka:** She'd be delighted, wouldn't she\!  
 **Mirja:** Sigh... You too, Uraga Nao; why not work backwards and narrow down which faculty to pursue from your future dreams and goals?  
-**Nao:** Ughh... I don't want to hear you using logic on me now. What about you, Mirja? Are you already thinking about your career path and everything\~?  
+**Nao:** Ughh... I don't want to hear you using logic on me now. What about you, Mirja? Are you already thinking about your career path and everything\~\?  
 **Mirja:** I'm thinking of becoming an okatana polisher, once I lose my powers as a toji. Though, it's only one possibility.  
 **Kinuka:** Your family are swordsmiths... they're polishers, right? And can't you do it yourself too, Kitora-san?  
 **Mirja:** I can. Even now, I keep in practice enough to not lose my skill. When I want to think something over, I feel like doing it while polishing an okatana.  

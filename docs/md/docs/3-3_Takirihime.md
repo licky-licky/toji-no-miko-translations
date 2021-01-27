@@ -234,7 +234,7 @@ At the same time, Roughly 2 kilometers away from the Ministry of Defense--
 ## 9: The Nightmare Resumes (2)
 **Chie:** Pant, pant... For them to be this tough... This is the power of noro...  
 **Mirja:** I would like for us to stop and recover here, but given the situation, we can't afford to. Let's head to the Ministry of Defense without delay.  
-**???:** Ehh\~? We came all this way to see you, so don't go saying something mean like you're gonna leave us here\~\.  
+**???:** Ehh\~\? We came all this way to see you, so don't go saying something mean like you're gonna leave us here\~\.  
 **???:** Though of course, we aren't about to let you go anyway.  
 **Mirja:** No... You're... Yamashiro Yui... Suzumoto Hana...  
 **Yui:** After all, this is my big chance to show off what I can do\!  

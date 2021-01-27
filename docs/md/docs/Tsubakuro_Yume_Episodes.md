@@ -164,7 +164,7 @@ Tsubakuro Yume Episodes
 **Yume:** Charms? ...Hehe, then this works out great. Come with me for a minute, Yomi onee-san\!   
 **Yume:** Now's our chance to get something to eat from the stalls\!  
 **Yomi:** We're buying something from the stalls?  
-**Yume:** Yup\! What should we get\~? Do you know what Maki-onee-san and Suzuka-onee-san like?    
+**Yume:** Yup\! What should we get\~\? Do you know what Maki-onee-san and Suzuka-onee-san like?    
 **Yomi:** I don't. Come to think of it, what do they like to eat?  
 **Yume:** Yomi-onee-san, I can't count on you for anything\~\. Oh well, maybe strawberry mochi will work\~\.  
 **Yomi:** I don't think anyone is selling strawberry mochi... Why did you want to know what the two of them like to eat?  
@@ -206,7 +206,7 @@ Tsubakuro Yume Episodes
 **Yomi:** Understood. We can all go together.  
 **Yume:** And, what else\~\. I still have to beat Yukari-sama, so a whole bunch of people can see how great I am\!  
 **Yomi:** There's a lot you want to do, isn't there. Shouldn't you have wished to the gods about it then?  
-**Yume:** Ehh\~? I don't have to do that\~\. Cause... The four of us can make it all happen together\!  
+**Yume:** Ehh\~\? I don't have to do that\~\. Cause... The four of us can make it all happen together\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Q19Fa9VDWgg"></iframe>](:Iframe)  
 
 ## [VRS Equipment - Yume: Start]: Nothing to It but to Do It\!

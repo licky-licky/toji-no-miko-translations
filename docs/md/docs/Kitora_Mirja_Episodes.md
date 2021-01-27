@@ -132,17 +132,17 @@ On the day of a fight against aradama---
 **Mihono:** S-Sorry to keep you waiting-\! The two at the desk seem to be locked in a conversation, so I'll try helping you-\!  
 
 ## 4: The Great Orange Battle of the Kotatsu
-**Uraga Nao:** May I ask something\~?  
+**Uraga Nao:** May I ask something\~\?  
 **Mirja:** Go right ahead.  
 **Mizushina Kinuka:** Feel free-. It's so calm and cozy in here-. Nice to get away from the hustle and bustle-.  
-**Nao:** Why are the two of you in my kotatsu\~?  
+**Nao:** Why are the two of you in my kotatsu\~\?  
 **Mirja:** The answer is simple. After all, in this dormitory, the only one I'm aware of having brought such equipment in would be you, Uraga Nao.  
-**Nao:** Mmm, don't you think you could show a little more restraint\~?  
+**Nao:** Mmm, don't you think you could show a little more restraint\~\?  
 **Kinuka:** No way-. It's chilly out.  
 **Nao:** My castle walls have crumbled\~  
 **Kinuka:** Now now, we wouldn't just impose on you like that. See... Ta-dah\! Refreshments have arrived\~  
 **Nao:** Oranges\!  
-**Kinuka:** Well\~? How do you feel now\~?  
+**Kinuka:** Well\~\? How do you feel now\~\?  
 **Nao:** Ahh, my stomach has already decided for me\~ I can't ignore your offering\~  
 **Kinuka:** With that, Kitora-san, our supply lines are secured.  
 **Mirja:** I'd expect no less from one of General Headquarters' experts.  
@@ -152,7 +152,7 @@ On the day of a fight against aradama---
 **Kinuka:** Well that's based off the model the army's special forces use, which was originally thought up with guns in mind.  
 **Kinuka:** So there's a new wave of complaints coming up about how it doesn't really suit a practical situation for toji...  
 **Mirja:** But aren't things fine as they are now?  
-**Nao:** You of all people shouldn't say that, Mirja\~\. Doesn't your squad disregard the standard formation as much as possible? As far as I can tell, that doesn't add up\~?  
+**Nao:** You of all people shouldn't say that, Mirja\~\. Doesn't your squad disregard the standard formation as much as possible? As far as I can tell, that doesn't add up\~\?  
 **Mirja:** That's where you're wrong. I simply adjust each toji's responsibilities to suit their strengths as the situation needs it.  
 **Mirja:** And you're one to talk about disregarding theory, Uraga Nao. You tend to favor a strategy of encircling aradama, don't you?  
 **Nao:** Because I know I can always win like that\~\. Anyway, there aren't many commanders as capable as you that can pull off your attitude in battle, you know\~\.  

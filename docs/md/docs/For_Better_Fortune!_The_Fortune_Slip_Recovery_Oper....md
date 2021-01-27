@@ -32,7 +32,7 @@ For Better Fortune! The Fortune Slip Recovery Oper...
 **Mihono:** THAT'S... THAT'S MY FORTUNE SLIIIIP\~\!\!  
 **Yui:** I get why you'd be jealous\~\! You want it too, don't you\! A blessing with Kiyoka-chan\! But, there's nothing you could do to make me hand this over, Mihono-chan...  
 **Yui:** Ah, wait... If you're willing to do anything, then...\! If you just do one little favor for me, I might think about letting you have this blessing, you know?  
-**Yui:** So? What'll it be\~? Fu\~ Fu\~ Fu\~  
+**Yui:** So? What'll it be\~\? Fu\~ Fu\~ Fu\~  
 **Mihono:** No, that's not what I meant\! That fortune slip came from here at the Asakura Shrine, and these aradama came and stole them\!  
 **Yui:** Ehh\!\?  
 **Mihono:** Please, Yui\! There might be other aradama with those fortune slips around where you are, so could you beat them and bring them back here?  
@@ -50,7 +50,7 @@ For Better Fortune! The Fortune Slip Recovery Oper...
 **Kiyoka:** Hey, Yui-chan, stop opening those\! We're on a mission to recover them\!  
 **Yui:** Ah... Oh yeah, whoopsie.  
 **Mihono:** I'm so sorry I made you two help me out on your day off\! You really saved my butt here, so thanks\!  
-**Yui:** We're friends; don't sweat it\! More importantly, when are you giving me that reward of yours, Mihono-chan\~? After you teased me with it, I just can't calm down.  
+**Yui:** We're friends; don't sweat it\! More importantly, when are you giving me that reward of yours, Mihono-chan\~\? After you teased me with it, I just can't calm down.  
 **Mihono:** Oh right, your reward\! Come on back to the shrine with me, you two\!  
 **Yui:** Eh, what's that mean? Is it something we can only do in a special situation? I'm getting even more excited\~\!\!  
 **Kiyoka:** Yui-chan... I don't think she'll do what you're imagining.  

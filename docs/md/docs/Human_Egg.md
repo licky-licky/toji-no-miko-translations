@@ -74,7 +74,7 @@ Human Egg
 **Mai:** Sayaka-chan, did you figure out how to vote?  
 **Sayaka:** I'm okay. I pushed the button now.  
 **App Announcer:** Voting has been recorded. I will now announce the results of the voting.  
-**Kanami:** Ah, here it comes\! Alright, who's going to be the first egg to crack\~?  
+**Kanami:** Ah, here it comes\! Alright, who's going to be the first egg to crack\~\?  
 **Kanami:** ...Wait, huhhh\!\?  
 **Voting Results:** Hiyori, Mirja, Ellen, Mai, Mihono, Sayaka --> Kanami. Kanami --> Ellen.  
 **App Announcer:** As a result of the voting, it has been decided that Kanami-san will be cracked today.  

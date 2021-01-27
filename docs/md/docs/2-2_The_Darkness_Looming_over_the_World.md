@@ -21,10 +21,10 @@
 **Chie:** You two... Thanks.  
 **Mihono:** C'mon, quit worrying about it already\! You're such a downer, Chii-nee\~\. Besides, everyone's got a secret or two they haven't told anybody, right?  
 **Mihono:** Like, don't tell her, but my stomach was rumbling earlier and I couldn't help myself, so I ate Fukki's pudding.  
-**Kofuki:** Ohhh\~? So you were behind that, huh?  
+**Kofuki:** Ohhh\~\? So you were behind that, huh?  
 **Mihono:** Geh, Fukki-\!\? You heard that\!\?  
 **Kofuki:** "Geh... You heard that", so that's how it is now\!\?  
-**Kofuki:** When I asked you about it before, you said you had no clue what happened to my pudding. Why didn't you say something? Why the hell didn't you say something\~?  
+**Kofuki:** When I asked you about it before, you said you had no clue what happened to my pudding. Why didn't you say something? Why the hell didn't you say something\~\?  
 **Mihono:** I-I tried to tell you\! But you looked like you were about to stab someone\! Your eyes were really scary, so I just...  
 **Kofuki:** Well course I did. When you steal the pudding somebody was really looking forward to, you should expect to get what's coming to you\!  
 **Mihono:** I-I'm so sorry\! I'll buy you two puddings as payback, so forgive me\!  

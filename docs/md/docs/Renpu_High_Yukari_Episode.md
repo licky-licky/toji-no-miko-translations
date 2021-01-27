@@ -19,7 +19,7 @@ https://streamable.com/wuarv
 **Yukari:** It's nothing. Look, school is starting. Let's go to our classrooms.  
 **Minato:** What that was about. Yukari was acting a little weird, wasn't she?  
 **Kagari:** Was she? Anyway, if we don't hurry, we'll be late. Really now, this is all your fault for launching into some long and pointless story about your dreams, Minato-senpai...  
-**Minato:** Sorry about that. But still, wouldn't it be funny if that dream ended up coming true\~?  
+**Minato:** Sorry about that. But still, wouldn't it be funny if that dream ended up coming true\~\?  
 In a break between classes.
 
   

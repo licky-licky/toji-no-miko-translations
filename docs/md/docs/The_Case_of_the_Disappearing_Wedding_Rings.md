@@ -24,7 +24,7 @@ The Case of the Disappearing Wedding Rings
 **Kiyoka:** Something awful happened\! It's Yui-chan, she...  
 **Tsugumi:** What's the matter, Musumi-san? You're all out of breath. What did Yamashiro-san do now?  
 **Kiyoka:** I heard that, Yui-chan got taken away by the police.  
-**Ellen:** Oh my god\! So Yuiyui finally got arrested, huh\~\. Did they catch her peeping, or what\~?  
+**Ellen:** Oh my god\! So Yuiyui finally got arrested, huh\~\. Did they catch her peeping, or what\~\?  
 **Kiyoka:** This is serious\! You've heard about it too, right? How rings keep getting stolen from the wedding chapel.  
 **Tsugumi:** I saw them talking about it on the morning news. It's the chapel right by the school, isn't it?  
 **Kiyoka:** Apparently the police suspected her of being the culprit behind the thefts, and that's why they took her away\~\.  
@@ -59,7 +59,7 @@ The Case of the Disappearing Wedding Rings
 **Suzuka:** Come along, Maki-san, we have another mission to get to\!  
 **Maki:** You sure are eager today, Suzuka. I want to do all I can to clear the suspicions against Yamashiro Yui too.  
 **Suzuka:** Th-That's right\! I'll give my utmost efforts to carry out this assignment, as I always do\!  
-**Yume:** Like always\~? But, ever since you heard about this mission at a wedding chapel, you've had a sorta smile on your face, Suzuka-onee-san.  
+**Yume:** Like always\~\? But, ever since you heard about this mission at a wedding chapel, you've had a sorta smile on your face, Suzuka-onee-san.  
 **Suzuka:** That's because... It's not as if I'm delighted to go with Maki-san to a wedding chapel, you know...  
 **Yume:** Ahhh\~, you said it all yourself\! Still, I'm jealous. It must be fun, since there's supposed to be a lot of pretty brides around in June, right?  
 **Yomi:** Tsubakuro-san, Shidou-san and Konohana-san are not going there to enjoy themselves.  

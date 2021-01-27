@@ -20,7 +20,7 @@ The next day.
 **Kagari:** (Sigh... She isn't showing an ounce of stress. Well, it's not as if Minato-senpai's the only one like that...)  
 **Sagami Yukina:** Sana, will you look at this\! Aren't these pajamas so cute? I bought them just for today, after I heard I would be staying the night with Yukari-onee-sama\~\.  
 **Arami Sana:** Whoa-, that's super frilly... I bet it'd look great on you, Yukina-senpai.  
-**Yukina:** Wouldn't it\~? Fufu, tonight I'll be sleeping in this, holding hands with Yukari-onee-sama\~\. I can't wait\~\!  
+**Yukina:** Wouldn't it\~\? Fufu, tonight I'll be sleeping in this, holding hands with Yukari-onee-sama\~\. I can't wait\~\!  
 **Yukina:** Hiiragi-san, just so you know, the futon next to Yukari-onee-sama belongs to me\! I'm not letting you have it no matter what.  
 **Kagari:** Sigh... Sorry to spoil your fun, but Yukari-sama has said she will be sleeping in her own private room.  
 **Yukina:** What did you say\!\? Don't tell me, you're the one who put Yukari-onee-sama up to this...  

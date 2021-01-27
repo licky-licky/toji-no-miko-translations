@@ -8,7 +8,7 @@
 **???:** So you've come.  
 **Chie:** Who are you?  
 **Mirja:** That body... Too warped to call a human, but I've never heard of an aradama speaking?  
-**Kofuki:** Hmmm\~? Heh, not bad... My school too.  
+**Kofuki:** Hmmm\~\? Heh, not bad... My school too.  
 **Mirja:** What do you mean, Shichinosato Kofuki...\!\? No, hang on. Are those... Akabane swords\!\?  
 **Chie:** Yes. There's no mistaking that rusted okatana she's holding. Not only that, but the pile she's sitting on. They're all Akabane swords.  
 **Mirja:** There must be hundreds in there. Where did they all come from...  
@@ -335,9 +335,9 @@
 **Kofuki:** ...Hah, that's so lame.  
 **Kiyoka:** It is not\!  
 **Kiyoka:** I... I love Hono-chan, and Chie-san, and Mirja-san. Of course, I love you too, Shichinosato-san\!  
-**Mihono:** Hear that, Fukki-\! Isn't it great that we don't have to break up\~?  
+**Mihono:** Hear that, Fukki-\! Isn't it great that we don't have to break up\~\?  
 **Kofuki:** Huhh\!\? Who do you think you're calling Fukki\!\? Don't act like we're close...\!  
-**Mihono:** Huh\~\~? You're the one who told me to call you Fukki, remember, Fukki\~\~?  
+**Mihono:** Huh\~\~\? You're the one who told me to call you Fukki, remember, Fukki\~\~\?  
 **Kofuki:** Nngh...\!  
 **Chie:** Okay, okay, break it up, you two.  
 **Mihono:** Okay\~\!  

@@ -274,7 +274,7 @@ Konohana Suzuka Episodes
 **Ellen:** You were really leading the way with how we were fighting before. It seems like anyone would have a hard time keeping up with you.  
 **Yume:** Ah, now that we're here, I wanna eat some cake\!  
 **Ellen:** That's a good idea\! I'm a little hungry myself.  
-**Yume:** What should I have today\~? Mont blanc? Or pudding a la mode... Mmm, I think I'll go with the strawberry rare cheesecake after all\~\.  
+**Yume:** What should I have today\~\? Mont blanc? Or pudding a la mode... Mmm, I think I'll go with the strawberry rare cheesecake after all\~\.  
 **Suzuka:** Strawberry is one of your favorites, isn't it, Yume. You like Ichigo Daifuku Neko as well, don't you?  
 **Yume:** Yeah, I guess it is\~\.  
 **Suzuka:** Once you've finished eating, can I count on you to help us with managing the shop?  

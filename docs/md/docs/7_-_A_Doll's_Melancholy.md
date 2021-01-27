@@ -55,7 +55,7 @@
 **Kiyoka:** She's in the elite guard\!\?  
 
 ## 4: I Wanna Play with You so Bad\!
-**Yume:** Hmm? Hmmm-? Hmmm\~?  
+**Yume:** Hmm? Hmmm-? Hmmm\~\?  
 **Kiyoka:** W-What is it? Did I say something wrong...?  
 **Kofuki:** Yume, that attack of yours wasn't for me. It was for Kiyoka, wasn't it?  
 **Kiyoka:** Eh? Eh? W-Why me?  

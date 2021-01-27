@@ -177,14 +177,14 @@ Mashiko Kaoru Episodes
 **Kaoru:** Nnnngh\~\~\~\~\~  
 **Kaoru:** ......  
 **Ellen:** Kaoru-\! I took care of the aradama on my end\~\! What about yours...  
-**Ellen:** ......Kaoru\~? Why're you swinging around on Nenemirimaru? Some new game you invented?  
+**Ellen:** ......Kaoru\~\? Why're you swinging around on Nenemirimaru? Some new game you invented?  
 **Kaoru:** If it is, it's no fun. I can't get it loose. Help me\~\.  
 **Ellen:** Oh\! That's bad\! Wait a second, I'll help\!  
-**Ellen:** I'm going to start pulling, okay\~? Heave, ho\~\!  
+**Ellen:** I'm going to start pulling, okay\~\? Heave, ho\~\!  
 **Kaoru:** Owowowww\! You're gonna rip me in half\!  
 **Ellen:** I got it free\~\! Kaoru, welcome back\~\!  
 **Kaoru:** Ahh, okay, okay. I can't breathe, so quit hugging me already.  
-**Kaoru:** That was dangerous. Please try not getting your okatana stuck while I'm away, okay\~?  
+**Kaoru:** That was dangerous. Please try not getting your okatana stuck while I'm away, okay\~\?  
 **Ellen:** So? Is that mission complete?  
 **Kaoru:** Nah, it got away. But I've got it cornered in this dead end alleyway. Just, like you saw, it's way too small for Nenekirimaru.  
 **Ellen:** So you want me to go in and finish it off for you, right?  
