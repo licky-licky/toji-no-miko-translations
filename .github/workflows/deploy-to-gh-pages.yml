@@ -18,8 +18,8 @@ jobs:
           npm install @codedoc/cli
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
-          chmod +x "${GITHUB_WORKSPACE}/css.sh""
-          ${GITHUB_WORKSPACE}/css.sh
+          chmod +x "${GITHUB_WORKSPACE}/css.sh"
+          "${GITHUB_WORKSPACE}/css.sh"
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
