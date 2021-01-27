@@ -162,6 +162,8 @@ def generate_toc():
         title = fn.replace('_', ' ').replace('~', '\~')
         toc += f'> [{title}](/docs/{fn})\n'
 
+    toc += '\n[Other Translations](/other)\n'
+
     with open('./docs/md/_toc.md', 'w') as toc_file:
         toc_file.write(toc)
 
