@@ -459,7 +459,6 @@ a.button-0-0-3.icon {
   }
 * {
   touch-action: manipulation;
-  scroll-behavior: smooth;
   -webkit-tap-highlight-color: transparent;
 }
 body {

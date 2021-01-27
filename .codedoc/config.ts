@@ -14,7 +14,21 @@ export const config = /*#__PURE__*/configuration({
   page: {
     title: {
       base: 'Tnm Translations'            // --> the base title of your doc pages
-    }
+    },
+    post: [
+      (html, file) => {
+        const nav = Array.from(html.getElementsByClassName('contentnav-0-0-11'))
+        for (let i = 0; i < nav.length; i++) {
+          const n = nav[i] as HTMLElement
+          n.style.maxHeight = '60vh'
+        }
+        const all = Array.from(html.querySelectorAll('*'))
+        for (let i = 0; i < all.length; i++) {
+          const a = all[i] as HTMLElement
+          a.style.scrollBehavior = 'auto'
+        }
+      }
+    ]
   },
   markdown: {
     customInlineComponents: {
