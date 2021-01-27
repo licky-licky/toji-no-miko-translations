@@ -15,7 +15,7 @@ https://streamable.com/0sio32
 **Mirja:** You're getting too excited\!  
 **Mirja:** (Losing control of Shichinosato Kofuki will hurt us. Asakura Mihono is...)  
 **Mihono:** Geez, there's way too manyyy\! I chop one... and another... and there's just... more\!  
-**Mirja:** (She still has strength left. What about Musumi Kiyoka?)  
+**Mirja:** (She still has strength left. What about Musumi Kiyoka?\)  
 **Kiyoka:** [pant... pant...\!]  
 **Mirja:** (...So Musumi Kiyoka is reaching her limit.)  
 **Mirja:** ...Could we talk for a moment, Setouchi Chie?  
@@ -261,7 +261,7 @@ https://streamable.com/jflgvk
 **Keiko:** Eh\!\?  
 **Kihiro:** But you're right that we have little in common with Miss Yamashiro here\! ...What seems to be the matter, Miss Haji?  
 **Keiko:** I-It's... nothing.  
-**Keiko:** (Deepened... our friendship...?)  
+**Keiko:** (Deepened... our friendship...?\)  
 **Mirja:** So then, did you need me for something?  
 **Yui:** Yes\! Though, I'm not really the one looking for you; that's these two\!  
 **Kihiro:** What are you saying, Miss Yamashiro\! With you offering your assistance, we're all of one heart and mind\!  
@@ -287,7 +287,7 @@ https://streamable.com/jflgvk
 **Keiko:** Um, but... Is this really okay? I feel like we didn't tell her the important part...  
 **Yui:** Don't worry about it, Keiko-san\! We don't have to tell her about "that" until just before we start\!  
 **Yui:** Mufufu\~\! Ahh\~, now I don't know how I'll wait for the day after tomorrow\~\!  
-**Keiko:** (Is this really fine...?)  
+**Keiko:** (Is this really fine...?\)  
 
 ## [Race Queen - Mirja: End]: Day of the Unveiling
 **Yui:** Mirja-san\! Can I be next to you on the way there? You don't mind, right\!  

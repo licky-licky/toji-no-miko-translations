@@ -8,7 +8,7 @@ Debug Mission Capriccio
 **Mirja:** The members called for this assignment are... I see. Along with myself, Juujou Hiyori was chosen, as well as the members of the elite guard.  
 **Hiyori:** Nn? Isn't Kofuki here because she was chosen to be a test pilot too?  
 **Kofuki:** I'm just an assistant. It's so lame. I wanted to play with computer aradama-chan too...  
-**Yume:** Hey hey, we just turn this machine on and fight? Are there really going to be aradama inside-? That's amazing\~.  
+**Yume:** Hey hey, we just turn this machine on and fight? Are there really going to be aradama inside-? That's amazing\~\.  
 **Yomi:** Tsubakuro-san, we came here today as part of our duties, not to enjoy ourselves. Let's only touch the equipment after we've finished hearing their explanation.  
 **Maki:** That's right, listen to Yomi. So then, what exactly is it we'll be doing?  
 **Tsugumi:** As your machine operator today, I'll be the one to go over that with you.  
@@ -16,7 +16,7 @@ Debug Mission Capriccio
 **Tsugumi:** While you fight enemies and explore the virtual environment inside the simulation, please collect bugs whenever you find them. Those of us operating the machine on the outside will then work to correct them.  
 **Tsugumi:** Now then, I'll move right on to explaining how to operate your devices. Have you all finished putting them on?  
 **Mirja:** These are fairly well made, considering how lightweight they are. The way we'll be able to train with these without it weighing down on us is intriguing.  
-**Yume:** I'm all ready to go too-\! Will there be a whole bunch of strong enemies coming out? I can't wait to see\~.  
+**Yume:** I'm all ready to go too-\! Will there be a whole bunch of strong enemies coming out? I can't wait to see\~\.  
 **Yomi:** I've finished preparations as well. Being given this mission, I will see it through to completion. I'll be in your care.  
 **Tsugumi:** If you're ready, let's go over the basic commands in accordance to the manual.  
 **Kofuki:** Oi, hold up a minute-. Looks like somebody's too tech stupid to have even turned the thing on-.  

@@ -53,7 +53,7 @@ https://streamable.com/vvs3hu
 **Ellen:** Like monkeys, we might be able to get along with them\! Rather than a troupe of apes, it's a troupe of aradama\!  
 **Tsugumi:** Gathering data here is a step towards that.  
 **Tsugumi:** If we can find something resembling an aradama nest here, we can investigate whether they've collected man-made objects and so on... Though maybe I'm hoping for too much just yet.  
-**Ellen:** We'll just have to pray we get lucky\~.  
+**Ellen:** We'll just have to pray we get lucky\~\.  
 **Ellen:** Let's close the distance quick so they won't escape, and get some data while we're at it\!  
 **Tsugumi:** Woo-\!  
 **Tsugumi:** That's how excited I am now, to shout that-.  
@@ -154,7 +154,7 @@ https://streamable.com/tvpstr
 **Tsugumi:** I don't think you need to think so deeply about it.  
 **Kofuki:** You get real annoying when you're explaining stuff, y'know. Like, you're probably thinking you can spin me whatever bullshit, but I'm not letting you outta this one.  
 **Tsugumi:** I'm at a loss then...  
-**Tsugumi:** (I want to tell her that I think she's more lively before, and that she doesn't have to worry about unnecessary things, but... how would I get that across?)  
+**Tsugumi:** (I want to tell her that I think she's more lively before, and that she doesn't have to worry about unnecessary things, but... how would I get that across?\)  
 **Kofuki:** Is that some aradama-chan\!\?  
 **Tsugumi:** Good timing.  
 **Tsugumi:** You do seem to be having the most fun whenever aradama appear. That part of you really doesn't change.  

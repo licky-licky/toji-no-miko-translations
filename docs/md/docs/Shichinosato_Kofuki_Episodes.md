@@ -10,7 +10,7 @@ Shichinosato Kofuki Episodes
 --Progress report from research lab 8, in charge of subject Shichinosato Kofuki. Recorded by Ban Tsugumi.
 
   
-**Today, at 13:**00, Shichinosato Kofuki entered the research lab. I was running late from a lesson, and when I entered the labroom I could tell something was amiss.  
+Today, at 13:00, Shichinosato Kofuki entered the research lab. I was running late from a lesson, and when I entered the labroom I could tell something was amiss.  
 From what I gathered from my colleagues, for an unexplained reason, Shichinosato Kofuki was in an unusually rough mood. I wasn't quite sure how to approach the situation.
 
   
@@ -84,9 +84,9 @@ In April--
 **Minaki:** \!  
 **Minaki:** Ohh\! I bet you got mistaken for a first year again, cause you're so tiny\! Poor little Kofukicchi\!  
 **Kofuki:** And it just keeps coming.  
-**Minaki:** Good job pulling through\~. Here, I brought some milk for you.  
+**Minaki:** Good job pulling through\~\. Here, I brought some milk for you.  
 **Kofuki:** Ooh, I'll take it. Thanks.............. (Gulp)  
-**Minaki:** Mmmm, you're so small and cute, Kofukkichi\~. (Rub rub)  
+**Minaki:** Mmmm, you're so small and cute, Kofukkichi\~\. (Rub rub)  
 **Kofuki:** ...You're as bad as the rest\!  
 Inside the research building of Renpu Girls' School, in the aradama processing facility--
 
@@ -145,7 +145,7 @@ Another day...
 **Mihono:** Fukki... I don't care how much you liked it, you're not going to be able to eat all that...  
 **Mihono:** I mean, they actually filled a whole bucket for you. I don't think those are meant for just one person?  
 **Kofuki:** ...Back off\! You can't have any\!  
-**Chie:** Fufu, but just look how happy she is. Let's just let her enjoy it\~.  
+**Chie:** Fufu, but just look how happy she is. Let's just let her enjoy it\~\.  
 --Half a month later.
 
   
@@ -403,7 +403,7 @@ Another day...
 **Tsugumi:** I don't think you need to think so deeply about it.  
 **Kofuki:** You get real annoying when you're explaining stuff, y'know. Like, you're probably thinking you can spin me whatever bullshit, but I'm not letting you outta this one.  
 **Tsugumi:** I'm at a loss then...  
-**Tsugumi:** (I want to tell her that I think she's more lively before, and that she doesn't have to worry about unnecessary things, but... how would I get that across?)  
+**Tsugumi:** (I want to tell her that I think she's more lively before, and that she doesn't have to worry about unnecessary things, but... how would I get that across?\)  
 **Kofuki:** Is that some aradama-chan\!\?  
 **Tsugumi:** Good timing.  
 **Tsugumi:** You do seem to be having the most fun whenever aradama appear. That part of you really doesn't change.  

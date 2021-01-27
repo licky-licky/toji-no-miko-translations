@@ -256,7 +256,7 @@ At that time--
 **Mihono:** Kashuu Kiyomitsu is the okatana I inherited from my mother. I don't want to be scared of it.  
 **Kofuki:** Well... I'm not sure I can do much, but, if there's anything I can do to help, tell me, alright?  
 **Mihono:** Thanks, Fukki. But, you don't have to worry about me that much.  
-**Mihono:** (...I wasn't even trying to use Kiyomitsu's power there. Does that mean I'm running out of time?)  
+**Mihono:** (...I wasn't even trying to use Kiyomitsu's power there. Does that mean I'm running out of time?\)  
 **Mihono:** (Hitakami Makoto-san... Maybe I will go talk to her.)  
 **Kofuki:** Your phone's ringing, Mihocchi.  
 **Mihono:** Uhh... Oh, my next assignment came in. I have to suppress aradama that appeared in the Tohoku region.  
@@ -390,11 +390,11 @@ At that time--
 ## 9: Hitakami Makoto (2)
 **Makoto:** HAA-\!\!  
 **Mihono:** Gh\!\!  
-**Mihono:** (She's strong\! There's a toji this strong here\!\?)  
+**Mihono:** (She's strong\! There's a toji this strong here\!\?\)  
 **Mihono:** If you're this strong, why weren't you in the tournament? You, and Akira-san too... You would have definitely placed high\!  
 **Makoto:** Our power isn't for fighting in tournaments. It's for protecting the people. Is that not the truth, Asakura Mihono-san?  
 **Mihono:** (I just thought it was natural to join in the tournament and win there...)  
-**Mihono:** (But, Hitakami-san is... Ughh\!\?)  
+**Mihono:** (But, Hitakami-san is... Ughh\!\?\)  
 **Mihono:** ...\! Kashuu Kiyomitsu's......\! Get away from me...\!  
 **Akira:** Makocchan\! Did Mihono lose control\!\?  
 **Yuuki:** Were you unhurt, Makoto-nee-sama\!  

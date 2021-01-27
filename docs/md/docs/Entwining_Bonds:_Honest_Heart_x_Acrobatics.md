@@ -98,7 +98,7 @@ Entwining Bonds: Honest Heart x Acrobatics
 One week later.
 
   
-**Mihono:** Phew, it was really tough, but I somehow finished my secret special training in time\! I hope I get to show off the progress I made today\~.  
+**Mihono:** Phew, it was really tough, but I somehow finished my secret special training in time\! I hope I get to show off the progress I made today\~\.  
 **Mihono:** Wait, why are aradama showing up now\!\? And there's so many of them...  
 **Mihono:** No, now's not the time to lose my nerve\! Where there's a will, there's a way\!  
 **Mihono:** YAAAAA\!\!  

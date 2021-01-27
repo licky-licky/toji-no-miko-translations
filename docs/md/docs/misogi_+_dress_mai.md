@@ -17,11 +17,11 @@ misogi + dress mai
 **Mai:** (We'll have to fight each of our classmates? Which would mean, I'll have to think about how to conserve my energy...)  
 **Minoseki Academy Teacher:** Now then... Begin\!  
 **Kanami:** ......  
-**Mai:** (Wait, she's not attacking?)  
+**Mai:** (Wait, she's not attacking?\)  
 **Mai:** (That's sort of a let-down. With how she was acting, I thought she'd come straight at me as soon as we began...)  
 **Kanami:** I'm ready anytime.  
 **Mai:** (Her stance is... Seigan. It's so orthodox that there doesn't seem to be any scheme behind it. There's no need for tricks like that in our very first lesson anyway.)  
-**Mai:** (In which case... I'll go\!)  
+**Mai:** (In which case... I'll go\!\)  
 **Mai:** YAAAAH\!  
 **Kanami:** -\!  
 **Mai:** ...Eh\!\?  
@@ -68,7 +68,7 @@ misogi + dress mai
 **Mai:** Eh?  
 **Kanami:** When I think, "If it were me, what would I get mad if someone made fun of?", it's got to be swordfighting of course\!  
 **Mai:** Fufu, I could see that, Kanami-chan.  
-**Mai:** (But then... That means, I got upset because Kanami-chan is important to me?)  
+**Mai:** (But then... That means, I got upset because Kanami-chan is important to me?\)  
 **Kanami:** And also... If somebody made fun of somebody you respect, you'd feel bad too, wouldn't you?  
 **Mai:** Someone you respect... Yeah, respect\! That's it, Kanami-chan\!  
 **Mai:** Thank you for letting me talk this over with you\!  

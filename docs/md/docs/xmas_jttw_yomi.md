@@ -13,7 +13,7 @@ https://streamable.com/sjz3ki
 **Suzuka:** And Yume seems to be trying her best at getting something ready. It would be terrible if you weren't there.  
 **Yomi:** Is that right... Then, I suppose I'll have to go. Is there anything I need to prepare in advance?  
 **Maki:** It said on the invitation they're doing a gift exchange at the end of the party, so everybody needs to have one gift ready.  
-**Suzuka:** With all the people that should be there, an exchange should be exciting. I should get mine ready straight away\~.  
+**Suzuka:** With all the people that should be there, an exchange should be exciting. I should get mine ready straight away\~\.  
 **Maki:** Wait up, Suzuka\! I want your advice on what to go with. I'm coming with you\!  
 **Yomi:** The two of them left. Sigh... A gift exchange...  
 **Yomi:** A gift which you can't anticipate who will be receiving it... That's a fairly difficult request.  
@@ -66,10 +66,10 @@ https://streamable.com/1w9itp
 **Kiyoka:** Yeah\! I'm sure they'll be happy with it\! I'm looking forward to tomorrow.  
 **Yomi:** Thank you very much. Now I won't feel uncomfortable joining the party. Then, I'll be leaving now.  
 **Kiyoka:** Please wait a minute\! Since we're exchanging gifts, it'd be a waste to leave it at that\!  
-**Ellen:** For the exchange, you can't not wrap it up all cute\~.  
+**Ellen:** For the exchange, you can't not wrap it up all cute\~\.  
 **Yomi:** You do have a lot of ribbons and wrapping paper.  
 **Kiyoka:** Maybe it would be cuter with a gap between the inside and outside\! What do you think about this ribbon? Ah, or this one might be cute too\!  
-**Ellen:** You always do have an awesome eye for design, Kiyoka\~. Which do you like, Yomiyomi?  
+**Ellen:** You always do have an awesome eye for design, Kiyoka\~\. Which do you like, Yomiyomi?  
 **Yomi:** I... think both are fine. I'll go with whatever you choose.  
 **Kiyoka:** Alright then\! If we tie this ribbon on, it's ready\!  
 **Yomi:** My omusubi became such a cute present... Musumi-san, Kohagura-san, I can't thank you enough.  
@@ -109,7 +109,7 @@ https://streamable.com/ftmkdq
 **Maki:** Though, I get what Yume's saying. But it's hard getting all of us time off at the same time.  
 **Yume:** Then, it'd be fine if it's not when we have time off?  
 **Yomi:** ...What do you mean?  
-**Yume:** You'll find out later\~.  
+**Yume:** You'll find out later\~\.  
 **Yume:** There's something I've gotta go do real quick.  
 **Yomi:** What do you think she's up to?  
 **Maki:** No idea... But, it's always a bit scary when Yume gets an idea.  

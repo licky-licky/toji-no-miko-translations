@@ -29,7 +29,7 @@ Two months after the calamity that became known as the "Year-End Disaster"--
 **Mihono:** Still, how long do you think this will go on for, with aradama popping out over and over?  
 **Kiyoka:** Even though Tagitsuhime is gone, instead of there being less, it's just more and more.  
 **Mirja:** It's unclear how long this will continue, but so long as they do keep appearing, all we can do is cut down and exorcise them.  
-**Kiyoka:** Of course... Sigh\~...  
+**Kiyoka:** Of course... Sigh\~\...  
 **Kofuki:** So long as there's aradama around, we'll never have trouble finding work to do, so you should be happy if anything.  
 **Mihono:** What you're happy about isn't getting more work, but having more aradama to play with, right, Fukki?  
 **Kofuki:** You know it\!  

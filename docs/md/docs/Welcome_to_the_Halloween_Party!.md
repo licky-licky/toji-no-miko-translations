@@ -197,7 +197,7 @@ Covers both Halloween events.
 **Mihono:** This is the place. Huh? I don't see any aradama...?  
 **Kanami:** Looks like they're gone. They disappeared from the spectrum finder too.  
 **Yomi:** If you're looking for the aradama, we already eliminated them.  
-**Yume:** You onee-sans are too slowww\~. I cleared them out in a snap\~.  
+**Yume:** You onee-sans are too slowww\~\. I cleared them out in a snap\~\.  
 **Yomi:** I'm sorry you came all the way out here, but it's taken care of, so you're free to go.  
 **Sayaka:** Okay. Kanami, Mihono... Let's go.  
 **Kanami:** Mm, I'm just glad they were dealt with before anyone got hurt. Though... We didn't get to see the aradama up close, did we...  
@@ -212,7 +212,7 @@ Covers both Halloween events.
 **Mihono:** We're always fighting them, but now that I try to picture one, I can't get it right.  
 **Yume:** Onee-san, what're you doing?  
 **Mihono:** Tsubakuro-san\! We were trying to remember what an aradama looks like and draw one. But it's tougher than it sounds, making it look good.  
-**Yume:** Why would you wanna draw an aradama\~? You could be drawing something way cuter\~.  
+**Yume:** Why would you wanna draw an aradama\~? You could be drawing something way cuter\~\.  
 **Kanami:** We were going to make Halloween costume. So we were thinking, if we dressed up like an aradama, it'd totally scare everyone.  
 **Yume:** Eh\! A Halloween costume? That sounds like fun\!  
 **Yomi:** Sigh...  
@@ -221,7 +221,7 @@ Covers both Halloween events.
 Several hours before Yume and Yomi encountered Kanami and the others, they were--
 
   
-**Yume:** Why are we stuck at home again\~? It's so boring\~\! Yomi onee-sannn, let's go play outside\~.  
+**Yume:** Why are we stuck at home again\~? It's so boring\~\! Yomi onee-sannn, let's go play outside\~\.  
 **Yomi:** Tsubakuro-san, remaining on alert is an important duty. As members of the elite guard, we could be called upon at any moment, so we must always be ready to act.  
 **Yume:** Geez\~, I know that already. But it's so lame doing nothing but housesitting every single day\~\!  
 **Yomi:** Even so, we cannot abandon a mission Yukari-sama has given us without permission. Why don't you try thinking of a way to cure your boredom without going outside?  
@@ -243,7 +243,7 @@ Several hours before Yume and Yomi encountered Kanami and the others, they were-
 **Yume:** Hey, Yomi onee-san\! Were you paying attention?  
 **Yomi:** Yes. I was watching you, but... Tsubakuro-san, do you really plan on using such a simple costume?  
 **Yomi:** I don't mean to disappoint you, but Yukari-sama, Shidou-san, and Konohana-san, who routinely face aradama, won't be scared by something of that level.  
-**Yume:** Booo\~. Then, what should we use?  
+**Yume:** Booo\~\. Then, what should we use?  
 **Yomi:** If that's what it takes, I could prepare some actual aradama... Fufufu...  
 **Yume:** Wah, don't do that\! When you say it like that, I can't tell if you're joking, Yomi onee-san\~\!  
 **Yomi:** Fufu, it was a joke. However, as members of the elite guard, we should be prepared to do whatever it takes to achieve our goals.  
@@ -263,11 +263,11 @@ Several hours before Yume and Yomi encountered Kanami and the others, they were-
 **Yomi:** Excuse me, my phone is ringing.  
 **Yomi:** Yes, this is Satsuki Yomi. ...Understood. We will leave at once.  
 **Yomi:** Tsubakuro-san, that "if" has come very soon. Aradama have appeared in the nearby hills. We need to go.  
-**Yume:** Fufu, those are some unlucky aradama, showing up at a time like this\~. I'm feeling ready to cut them to ribbons\!  
+**Yume:** Fufu, those are some unlucky aradama, showing up at a time like this\~\. I'm feeling ready to cut them to ribbons\!  
 **Aradama:** GUAAAAAAAAA\!  
 **Yume:** EIIIIIII\!\!\!\!  
 **Aradama:** OO OOOooo ooo...  
-**Yume:** Huhh, was that the last one? They're too weak\~.  
+**Yume:** Huhh, was that the last one? They're too weak\~\.  
 **Yomi:** That was an even more impressive display than usual, Tsubakuro-san.  
 **Mihono:** This is the place. Huh? I don't see any aradama...?  
 **Kanami:** Looks like they're gone. They disappeared from the spectrum finder too.  
@@ -277,7 +277,7 @@ Several hours before Yume and Yomi encountered Kanami and the others, they were-
 **Yomi:** I'm sorry you came all the way out here, but it's taken care of, so you're free to go.  
 **Sayaka:** Okay. Kanami, Mihono... Let's go.  
 **Yomi:** Tsubakuro-san, we should leave as well. If I remember right, there's still one pudding left for a snack.  
-**Yume:** Really\!\? Then we should go home fast. Pudding\~, pudding\~. Huh? What are those Minoseki onee-sans crowded around? I wonder what they're doing.  
+**Yume:** Really\!\? Then we should go home fast. Pudding\~, pudding\~\. Huh? What are those Minoseki onee-sans crowded around? I wonder what they're doing.  
 **Yume:** Onee-san, what're you doing?  
 **Yomi:** (Ahh, she made contact...)  
 **Yume:** Eh\! A Halloween costume? That sounds like fun\!  
@@ -324,8 +324,8 @@ Several hours before Yume and Yomi encountered Kanami and the others, they were-
 **Kaoru:** Origami Yukari, getting scared by a pumpkin? I'd pay to see that...  
 **Kaoru:** Mind if we pay a visit to the Origami household?  
 **Nene:** Ne-\!  
-**Yume:** Sure\! Everyone should come\~\! With enough pumpkin ghosts, Yukari-sama will really be scared\~.  
-**Ellen:** Wow\! Then, I want to see that for sure\~.  
+**Yume:** Sure\! Everyone should come\~\! With enough pumpkin ghosts, Yukari-sama will really be scared\~\.  
+**Ellen:** Wow\! Then, I want to see that for sure\~\.  
 **Yomi:** Tsubakuro-san, if you don't behave in a way fitting of the elite guard, Shidou-san will be harshly scolding you later.  
 **Yume:** Another lecture from Maki onee-san... But I'm sorry, Yomi onee-san\! Please keep this a secret\!\!  
 **Mai:** Everyone, the pumpkin pie is ready now\!  

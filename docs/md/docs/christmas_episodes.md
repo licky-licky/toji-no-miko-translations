@@ -141,7 +141,7 @@ https://streamable.com/4jhac8
   
 
 ## [Xmas' 20 - Mihono: Start]: The Investigation Team's Christmas Party (Preparations)
-**Mihono:** Jingle bells\~, jingle bells\~.  
+**Mihono:** Jingle bells\~, jingle bells\~\.  
 **Mirja:** Stop singing and put your hands to work. We won't finish getting ready for the Christmas party at this rate.  
 **Mihono:** Okaaay\!  
 **Chie:** Hey, Mirja. About the cooking for the party...  

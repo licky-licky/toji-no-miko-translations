@@ -44,13 +44,13 @@ Assemble! Toji Cheer Squad
 **Ellen:** This sounds like fun. If we're going to do it, we might as well give it our best shot\!  
 **Miki:** Though, cheerleading doesn't exactly sound like a toji's work, does it...  
 **Maki:** Naruse Miki. This was a direct order from Yukari-sama herself. I won't allow you to take it lightly.  
-**Miki:** I-I understand that\~. So please stop glaring at me..  
+**Miki:** I-I understand that\~\. So please stop glaring at me..  
 **Sayaka:** ...I'll do my best.  
 **Maki:** Good. Starting now, all of you should aim to become the ultimate cheerleaders\!  
 
 ## 2: Cheerleaders, in Training\!
 **Maki:** We'll start with your stamina\! Run for one hour through the mountains. Afterwards, we'll do squats, sit ups, and push ups.  
-**Miki:** Pant\~ pant\~... Why... Are we doing something so sporty...?  
+**Miki:** Pant\~ pant\~\... Why... Are we doing something so sporty...?  
 **Ellen:** Cheerleading works as a sort of endurance match too\!  
 **Sayaka:** I'll do my best.  
 **Maki:** Next you'll be learning the fundamental techniques. Beginning with stunts, and then forming a pyramid\!  
@@ -85,7 +85,7 @@ The next day--
 **Mai:** Sayaka-chan is worried... She wants to hear some advice from you.  
 **Maki:** ...Sorry. I don't know anything about cheerleading myself, so I can't teach you anything that's not in the textbook...  
 **Miki:** Eh-\! Is that true\!\?  
-**Yui:** That won't do\~. If you want to teach someone, you have to be able to do it yourself\!  
+**Yui:** That won't do\~\. If you want to teach someone, you have to be able to do it yourself\!  
 **Yui:** Ahh, seeing Shidou-san dancing around cheerleading... I'd pay to see that\! In fact, I need to see it, pant, pant...\!  
 **Maki:** No, I'm not going to be one of the cheer toji; I'm just your coach and judge... There's no need for a coach to master the sport.  
 **Ellen:** Makimaki, there's a phone call for you.  
@@ -141,7 +141,7 @@ And so, after several days--
 **Yukari:** Now then, one by one, show me your performances as a cheerleader.  
 **Yukari:** Good, Naruse Miki. You pass.  
 **Miki:** Thank you very much.  
-**Miki:** Phew\~, thank goodness\~. If you want to stand out, you can't wait for others to go ahead of you.  
+**Miki:** Phew\~, thank goodness\~\. If you want to stand out, you can't wait for others to go ahead of you.  
 **Yukari:** Yamashiro Yui, pass.  
 **Yui:** Yes, I did it\! I had to make it into this unit to be around those cute cheerleaders, after all\!  
 **Yukari:** Kohagura Ellen, pass.  
@@ -173,7 +173,7 @@ And so, after several days--
 **Sayaka:** If aradama do appear, we need to defeat them right away...  
 **Maki:** That's how it is. For that reason, the Toji Cheer Squad will be standing by here in the stadium.  
 **Miki:** On top of that, even though we're meant to be cheer toji, we're still wearing our ordinary uniforms, aren't we?  
-**Yui:** Sighhh\~... What a letdown... I was so looking forward to everyone dressing up like cheerleaders.  
+**Yui:** Sighhh\~\... What a letdown... I was so looking forward to everyone dressing up like cheerleaders.  
 **Mai:** Ahaha... Still, I'm sort of relieved. It would be a little embarrassing fighting wearing something like that...  
 **Maki:** That's for sure...  
 **Sayaka:** --\! The spectrum finder is detecting something...\!  

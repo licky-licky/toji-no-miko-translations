@@ -141,7 +141,7 @@ https://streamable.com/0lf1lv
 **Sakura:** There's something I'm having trouble with...  
 **Chie:** Mmhm?  
 **Sakura:** ...No, I shouldn't be asking you after all. I can't go into much detail about it...  
-**Chie:** (Was what's bothering her the reason she avoided me before?)  
+**Chie:** (Was what's bothering her the reason she avoided me before?\)  
 **Chie:** ...You said you're having trouble with something, but, do you know exactly what it is?  
 **Sakura:** ...I do.  
 **Chie:** (If I had to guess... She's avoiding getting involved with other people? But, she's trying to talk about it with me...)  

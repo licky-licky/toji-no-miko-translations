@@ -39,8 +39,8 @@ https://streamable.com/vsfdyz
 
 ## [Special Defense Team - Suzuka: End]: In Harmony
 **Suzuka:** Nn...  
-**Suzuka:** (It's still dark out, and yet I'm awake now... Oh?)  
-**Suzuka:** (Maki-san is looking outside...?)  
+**Suzuka:** (It's still dark out, and yet I'm awake now... Oh?\)  
+**Suzuka:** (Maki-san is looking outside...?\)  
 **Maki:** ......  
 **Suzuka:** Maki-san?  
 **Maki:** Suzuka... Did I wake you?  

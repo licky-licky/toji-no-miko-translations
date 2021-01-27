@@ -22,7 +22,7 @@ Chapter 8 was voiced live on a stream, there's a link down below to it.
 **Maki:** I think I had to lead an aradama cleanup operation in the southern part of the Izu peninsula. Isn't that right, Suzuka?  
 **Suzuka:** That's right. As for me, I'll be spending a day conducting an investigation throughout the entire northern Kanto region.  
 **Suzuka:** Reports of aradama infestations in the area have increased lately, so I will be searching for a connection.  
-**Yume:** Hm\~. Okay... I got it\!  
+**Yume:** Hm\~\. Okay... I got it\!  
 **Yume:** Maki onee-san's going to southern Izu, and Suzuka onee-san's going to northern Kanto\! I got it\! Seeya\!  
 **Maki:** What's gotten into Yume...  
 **Suzuka:** I know... She's never been interested in our plans before.  
@@ -102,7 +102,7 @@ Chapter 8 was voiced live on a stream, there's a link down below to it.
 **Yume:** Suzuka onee-san\! Did you hear anything about that aradama investigation this weekend?  
 **Suzuka:** I did. Since they could no longer detect aradama in northern Kanto, the investigation has been delayed...  
 **Yume:** Mmhm, I see-\!  
-**Yume:** (Nice\~, everything's going great. I knew I could do it\!)  
+**Yume:** (Nice\~, everything's going great. I knew I could do it\!\)  
 **Maki:** Yume... What are you trying to do?  
 **Yume:** Eh? What do you mean? I don't get it-.  
 **Maki:** Sigh...  
@@ -165,7 +165,7 @@ Chapter 8 was voiced live on a stream, there's a link down below to it.
 ## 6: The Plan Falls Apart
 **Yume:** Yukari-sama\~\! I need to talk...  
 **Yume:** As if\! Hya-\!\!  
-**Yume:** Aww, come on\! I thought I'd get you today\~.  
+**Yume:** Aww, come on\! I thought I'd get you today\~\.  
 **Yomi:** .........Tsubakuro-san. You're abrupt as always.  
 **Yume:** Oh, Yomi onee-san, you're here too. That'll make this easy\~\!  
 **Yume:** Hey, Yukari-sama\! Do you have any plans this weekend? You too, Yomi onee-san\!  

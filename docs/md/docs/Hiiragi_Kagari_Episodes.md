@@ -45,7 +45,7 @@ Hiiragi Kagari Episodes
 **Kagari:** Sigh...  
 **Minato:** What's up, Kagari? I heard you sighing about something.  
 **Kagari:** Minato-senpai?  
-**Kagari:** (I could ask Minato-senpai... No, could she be capable of modelling for a long stretch of time?)  
+**Kagari:** (I could ask Minato-senpai... No, could she be capable of modelling for a long stretch of time?\)  
 **Kagari:** ...It's nothing. What about you, Minato-senpai? Why are you here?  
 **Minato:** Your class was assigned to paint portraits, right? I thought I'd let you paint me.  
 **Kagari:** ...News travels fast, I see. Who told you?  
@@ -229,7 +229,7 @@ Roughly one week after Kagari began attending Renpu Middle School...
 **Kagari:** I suppose you're right...  
 **Minato:** That cake gave you some energy to burn, didn't it? Then quit making excuses and let's go\!  
 **Kagari Joins - Part 2:** Hiking  
-**Minato:** Look at that, Kagari\! There's some crazy looking mushrooms growing here\~. I bet it'd be awful if you ate one\!  
+**Minato:** Look at that, Kagari\! There's some crazy looking mushrooms growing here\~\. I bet it'd be awful if you ate one\!  
 **Kagari:** Very likely...  
 **Minato:** Ah, it looks like all the plants over there are edible though. Why don't we take some back, as a souvenir?  
 **Kagari:** Excuse me...  
@@ -242,7 +242,7 @@ Roughly one week after Kagari began attending Renpu Middle School...
 **Kagari:** It's gotten much darker. Is this really the right way?  
 **Minato:** We're fine, we're fine. We're just in the shade of the mountain now.  
 **Minato:** Yukari and me made a sort of garden around here, so there's no way I'm lost. Oh, hey, look up in that tree\!  
-**Minato:** Up in that bird's nest, it sounds like there's chicks in there\! How cute\~.  
+**Minato:** Up in that bird's nest, it sounds like there's chicks in there\! How cute\~\.  
 **Kagari:** (Sigh. I should have gotten a map ready instead of relying on Minato-senpai.)  
 **Minato:** Ooh, back in the sun again. And with that, we're here\~\!  
 **Kagari:** There really was a shrine with springwater this deep in the mountains...  

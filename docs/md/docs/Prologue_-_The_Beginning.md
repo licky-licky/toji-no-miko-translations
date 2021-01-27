@@ -59,7 +59,7 @@ Prologue - The Beginning
 **Yukari:** That's right. With this, \*\*\* can no longer threaten our world...  
 **Yukari:** We... ...ven ...f...  
 **Mihono:** (Huh? Everyone's voices...)  
-**Mihono:** (Yukari-sama? Yukari-sama...\! Everyone...\!\?)  
+**Mihono:** (Yukari-sama? Yukari-sama...\! Everyone...\!\?\)  
 ..........................
 
   
@@ -97,7 +97,7 @@ Prologue - The Beginning
 **Chie:** Really? Then, I'll believe you. But...  
 **Chie:** I never thought you'd become a toji. Not to mention, you placed 3rd in Minoseki's qualifier tournament, didn't you? That's amazing\!  
 **Mihono:** Yeahhh, welll. I lost hard in the semi-finals. Kanami's waaay too strong... This sucks... I'm just a substitute now...  
-**Chie:** (It sounds like losing was a pretty big shock to her?)  
+**Chie:** (It sounds like losing was a pretty big shock to her?\)  
 **Mihono:** I won't get my own hotel room... I won't get to go to the onsen... This sucks......  
 *Mihono smacks her face*
 
@@ -117,7 +117,7 @@ Prologue - The Beginning
 **Chie:** Did you now?  
 **Mihono:** ......Sorry, I had no clue\! Ah\!, but basically, that means Osafune is high tech and Minoseki is old tech, right?  
 **Chie:** Generally speaking, it's fine to think of it like that. But when it comes down to it, their objectives with okatana are the same, though their approach differs through technology and tradition.  
-**Mihono:** I get it now\~. Chii-nee, thanks for the lesson-\! I prostrate myself before thee, hahaaah-\!  
+**Mihono:** I get it now\~\. Chii-nee, thanks for the lesson-\! I prostrate myself before thee, hahaaah-\!  
 **???:** No way, miss Osafune. Tradition isn't all we've got going for us.  
 **???:** It's true we put a lot of emphasis on it, but we're also keeping up with the latest research.  
 **Mihono:** Ah, Hattori-senpai, good morning\! This is Chii-nee, my childhood friend onee-chan. And this is Hattori-senpai, a sword polisher. He works with computers and stuff.  

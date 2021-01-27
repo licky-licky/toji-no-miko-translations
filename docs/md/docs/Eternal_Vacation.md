@@ -12,7 +12,7 @@ Eternal Vacation
 **Mirja:** As an apology for suspecting Yamashiro Yui, and out of gratitude at suppressing the aradama and returning the wedding rings, the manager made it very clear that would be the case.  
 **Kaoru:** Yeah, that's true. Then, let's get this vacation started... Or I'd like to, but we ought to thank Yui first for all this. Where is she anyway?  
 **Chie:** As soon as we arrived, Yui-chan went chasing off after some bride, so she could be anywhere.  
-**Ellen:** They call this place a sacred spot for resort weddings, after all\~. There's a lot of brides around\!  
+**Ellen:** They call this place a sacred spot for resort weddings, after all\~\. There's a lot of brides around\!  
 **Mirja:** I see Yamashiro Yui still hasn't learned her lesson. Though, I suppose it was thanks to that side of her that we were rewarded like this...  
 **Kaoru:** Hang on? Where did everyone else go?  
 **Chie:** They went to the resort's wedding hall, to see a wedding photo of Juujou-san's mother there.  
@@ -81,7 +81,7 @@ Eternal Vacation
 **Kaoru:** Even for a false alarm that's going a little far, don't you think.  
 **Kanami:** It's fine, Kaoru-chan. I'm just glad we found it.  
 **Tsugumi:** That's for sure. Still, short of x-ray vision, how did you realize it was there in the first place, Yamashiro-san?  
-**Yui:** Welll, I just had a feeling her skirt wasn't swaying around the way it usually does\~.  
+**Yui:** Welll, I just had a feeling her skirt wasn't swaying around the way it usually does\~\.  
 **Mirja:** I see that perversion of yours has proved itself useful yet again. Regardless, thank you very much for your help here.  
 **Kaoru:** Cool, we found the airplane ticket just fine, so before anything screws this up, let's get right to our vacation.  
 **Ellen:** I'm all for it\! Let's change into our swimsuits straight away\!  

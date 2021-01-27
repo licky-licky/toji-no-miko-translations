@@ -43,7 +43,7 @@ Musumi Kiyoka Episodes
 **Kiyoka:** ...And that's what happened. After we reunited with everyone else, we both got scolded a lot. But I don't think they were actually mad at us.  
 **Mihono:** Ahh, I would have felt the same. You just gotta help out at a time like that\!  
 **Chie:** Himeno Shiho-san really loves animals, doesn't she?  
-**Kiyoka:** Yes. Whenever I go on missions with Shiho-san, she's always teaching me about what kind of animals live around there... I hate having to fight, but that makes it kind of fun\~.  
+**Kiyoka:** Yes. Whenever I go on missions with Shiho-san, she's always teaching me about what kind of animals live around there... I hate having to fight, but that makes it kind of fun\~\.  
 
 ## 2: Do You Like It? Or Do You Hate It?
 **Mihono:** Hey, Kiyoka, do you wanna come train with me?  
@@ -119,7 +119,7 @@ Musumi Kiyoka Episodes
 **Kiyoka:** A strong woman?  
 **Saaya:** Yeah, a strong woman who can strike out beautifully with a blade. Teruhiro wants you to grow stronger together.　Strong enough that one day you'll make even Koryuu Kagemitsu jealous\!  
 **Kiyoka:** Koike-senpai...  
-**Saaya:** Oh, you finally smiled\! Ah\~, but then you'll have two okatana calling after you. You'll have to deal with how tough it can be being popular, Kiyoka-chan\~.  
+**Saaya:** Oh, you finally smiled\! Ah\~, but then you'll have two okatana calling after you. You'll have to deal with how tough it can be being popular, Kiyoka-chan\~\.  
 **Kiyoka:** Ah... Okay, I'll have to find out\!  
 
 ## 4: Chinami's a Beautiful Girl, By the Way (it's a whole pun with Chinami and chinami ni, meaning by the way)
@@ -194,7 +194,7 @@ Musumi Kiyoka Episodes
 **Kiyoka:** For each person to imagine their ideal girl, and then to put in effort making that a reality... That's what "femininity" is all about\!  
 **Kiyoka:** Essentially...  
 **Kiyoka:** For each and every girl out there, there's a different definition of femininity\! Understand? That's the final answer I've arrived at\!  
-**Kiyoka:** (How's that\!)  
+**Kiyoka:** (How's that\!\)  
 **Mihono:** I-I guess... You have a point there...  
 **Kiyoka:** Right? So you could get stronger at swordfighting and become a cooler girl\! That's an ideal\! Thinking like that, practicing swordfighting is a perfectly valid way of raising your femininity\!  
 **Kiyoka:** A sword isn't just a way of becoming stronger, but also cuter in a cool way\! In that sense, you're training in two things at once\! If you want to be more popular, you just need to think about what makes a female swordfighter popular in the first place\!  
@@ -209,7 +209,7 @@ Musumi Kiyoka Episodes
 **Kiyoka:** Apparently another ring was stolen, so maybe it's the same aradama from before?  
 **Yui:** Stealing a ring from a bride-to-be at the happiest moment of her life; Yamashiro Yui, ally to women around the world, won't let this stand\!  
 **Kiyoka:** ...Though sometimes, you're their enemy.  
-**Yui:** Ahaha, there you go again with your jokes\~.  
+**Yui:** Ahaha, there you go again with your jokes\~\.  
 **Kiyoka:** A ha ha ha.  
 **Yui:** Kiyoka-chan, your smile's looking a little forced, isn't it-?  
 **Kiyoka/Yui:** An undercover investigation?  
@@ -283,7 +283,7 @@ Musumi Kiyoka Episodes
 **Kiyoka:** This time, the two of us will be suppressing aradama as a pair. You might not be able to rely on me for much... But I look forward to working with you.  
 **Fuu:** That's not true at all. I'll be counting on you, Kiyoka.  
 **Kiyoka:** ......  
-**Kiyoka:** (Th-That's right. A hero like Fuu-san might be helping to clear out the aradama... But this is where a toji like me needs to get it together...\!)  
+**Kiyoka:** (Th-That's right. A hero like Fuu-san might be helping to clear out the aradama... But this is where a toji like me needs to get it together...\!\)  
 **Kiyoka:** Umm... Then, let's give it everything we've got, Fuu-san\!  
 **Fuu:** Are you maybe feeling a bit nervous today?  
 **Kiyoka:** Ah... No, it's not like that\!  

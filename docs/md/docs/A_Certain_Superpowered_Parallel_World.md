@@ -43,7 +43,7 @@ Visitors (Gallery)
 **Kazari:** Yes... I'm just fine. Are you alright, Saten-san?  
 **Ruiko:** Somehow-.  
 **Misaki:** Hang onn, thanks to Misaka-san, my eyes are still burning here?  
-**Misaki:** Depending on if this clears up, I might have to file a complaint\~.  
+**Misaki:** Depending on if this clears up, I might have to file a complaint\~\.  
 **Mikoto:** How is this my fault? All I did was go along with their experiment to create a new kind of metal.  
 **Mikoto:** Saten-san and Uiharu-san are okay too, so you should be fine...  
 **Mikoto:** Actually, where are Kuroko and Konori-senpai at?  
@@ -91,7 +91,7 @@ Visitors (Gallery)
 **Kuroko:** Er... Who might you be? You aren't from Judgement, are you?  
 **Kaoru:** Judgement? We're toji.  
 **Mikoto:** "Toji"? What's that?  
-**Chie:** (...They don't know what toji are?)  
+**Chie:** (...They don't know what toji are?\)  
 **Chie:** Putting it simply, we're something like experts at suppressing those aradama you're fighting.  
 **Ruiko:** Sorry, we found a lost girl and took her with us, but what should we do about her?  
 **Mii:** Also, we weren't able to access the database to check evacuation guidelines, and we were in trouble since we couldn't call for help.  
@@ -121,7 +121,7 @@ Visitors (Gallery)
 **Ruiko:** Ah, before that, shouldn't we do the easy thing and all introduce ourselves? If we don't, it'll get confusing while we're talking.  
 **Ruiko:** I'm Saten Ruiko, a first year in Sakugawa Middle School\! Nice to meet you\! Okay, now Misaka-san\!  
 **Mikoto:** I'm Misaka Mikoto. A second year in Tokiwadai Middle School. Nice to meet you.  
-**Misaki:** Likewise, second year at Tokiwadai Middle School, Shokuhou Misaki. Misaka-san and I are verrry close\~. Good to meet you all\~.  
+**Misaki:** Likewise, second year at Tokiwadai Middle School, Shokuhou Misaki. Misaka-san and I are verrry close\~\. Good to meet you all\~\.  
 **Mikoto:** Since when... Could you at least do your introduction right?  
 **Misaki:** Awww, Misaka-san's so scaryy.  
 **Kanami:** So you two come from the same school. I'm Etou Kanami, a second year in the Minoseki Academy's middle school division. Nice to meet you\!  
@@ -236,9 +236,9 @@ And so, by cooperating with the toji, Mikoto and the others steadily gathered th
 **Ruiko:** With the aradama showing up every day, it figures they'd need special schools for raising toji.  
 **Kazari:** Academy City deals with some incidents of its own, but in this world, these are more like hard to prevent natural disasters.  
 **Ruiko:** Misaka-san and the others must be working hard too-. Hey, the chocolate mint ice cream they have here might also be pretty good\!  
-**Misaki:** Maybe soo. ...Mm, this is delicious too\~.  
+**Misaki:** Maybe soo. ...Mm, this is delicious too\~\.  
 **Kazari:** Still, doesn't it feel a little bad sitting in here eating sweets while all the toji are out working?  
-**Misaki:** Uiharu-san, you're worrying too much\~.  
+**Misaki:** Uiharu-san, you're worrying too much\~\.  
 **Misaki:** At times like these, the best thing to do is leave it all to those used to big flashy fights, like Misaka-san.  
 **Misaki:** Besides, if we went to do something we aren't used to, we'd be nothing more than a burden, wouldn't we?  
 **Ruiko:** And also, you're already helping out here and there yourself, Uiharu.  
@@ -390,7 +390,7 @@ The following day--
 **Misaki:** I myself plan on getting to safetyy, but, more importantly, won't those two leave you behind if you don't hurry?  
 **Ruiko:** Ah\! Wait up-. Uiharu-, Konori-senpai-.  
 **Misaki:** And, beep. With that--  
-**Misaki:** (By altering the memories of the people here juuust a little, so that they leave immediately, it should speed up the evacuations, shouldn't it?)  
+**Misaki:** (By altering the memories of the people here juuust a little, so that they leave immediately, it should speed up the evacuations, shouldn't it?\)  
 **Misaki:** Now it's up to Misaka-san to go at it like a workhorse.  
 **Kanami:** It looks like they've finished up evacuating, but with more and more aradama coming, can you really keep up with this\!\?  
 **Mikoto:** I'll be fine. Though... We need to do something about them.  
@@ -408,7 +408,7 @@ The following day--
 **Kaoru:** Ellen said the metal'd bond together, but I didn't think that meant the aradama would too...  
 **Mikoto:** Is this going to be okay...?  
 **Maki:** It shouldn't be a problem for us. You did a great job. Thanks.  
-**Yume:** Yeah, yeah. To pay you back for that, I'll let you see what makes me so great now\~.  
+**Yume:** Yeah, yeah. To pay you back for that, I'll let you see what makes me so great now\~\.  
 **Yume:** You just sit back and watch, Biribiri-onee-san\!  
 **Kofuki:** I don't get to see aradama-chan like this all that much. Damn... I'm getting goosebumps\!  
 **Mirja:** Heh, it's only at moments like this I can depend on your enthusiasm, Shichinosato Kofuki.  
@@ -491,7 +491,7 @@ After supressing the aradama--
 **Maki:** I'd honestly like to refuse you here, but, alright. Only on the condition that you never put yourselves at risk. Fighting the aradama is our duty.  
 **Mikoto:** Understood, thank you very much\! Alright-, let's go\!  
 **Kanami:** Let's give it our all, Misaka-san\!  
-**Misaki:** Do your best, everyone\~.  
+**Misaki:** Do your best, everyone\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/JHZISRWAzhM"></iframe>](:Iframe)  
 
 ## [Railgun - Kanami: Start]: The Mysterious Use of the Remote
@@ -534,7 +534,7 @@ One day, Kanami was having tea with Mikoto and the rest.
 ## [Railgun - Kanami: End]: It Could Be That Kind of Power\!
 **Yume:** A power that uses a TV remote, huh-.  
 **Kanami:** Remotes turn things on and off and can change the channels, but does that have anything to do with it?  
-**Yume:** Hmm\~...  
+**Yume:** Hmm\~\...  
 **Yume:** Ah, I got it\! It's a power to make machines do whatever you want\!  
 **Misaki:** Bzzt-. Tsubakuro-san, that's wrongg.  
 **Yume:** Ehh-, but I was sure that was it-\!  
@@ -549,11 +549,11 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Mikoto:** ...A beam? What made you think that??  
 **Kanami:** I was thinking, instead of a signal coming out the end of the remote to turn things off and on, it could shoot out a beam like, "Bibibibi-\!\"  
 **Kanami:** Kind of like, like this\!  
-**Misaki:** Fufufu, Etou-san. Now that you've learned the secret of my power, I won't be letting you off so easy\~.  
+**Misaki:** Fufufu, Etou-san. Now that you've learned the secret of my power, I won't be letting you off so easy\~\.  
 **Misaki:** Take thiis, bibibibibibi-\!  
 **Kanami:** Wahh\! Save me, Shirai-san\!  
 **Kuroko:** This way\! Etou-san\!  
-**Misaki:** I can shoot a beam with lots of different effects, so you can't escape my beams\~.  
+**Misaki:** I can shoot a beam with lots of different effects, so you can't escape my beams\~\.  
 **Misaki:** Take this, and that\! Ahahahaha\!  
 **Kanami:** And basically, Shokuhou-san's power is to control a beam that changes depending on the buttons she pushes\!  
 **Yume:** Kanami-onee-san, that whole thing you acted out... What was that?  
@@ -599,7 +599,7 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Kazari:** I want to get some Kamakura Great Buddha candy and something else. Come to think of it, we've been eating different things all day, haven't we?  
 **Chie:** Isn't that fine? Savoring tasty foods is one of the goals of sightseeing.  
 **Chie:** But the shops might be closing up for the day soon, so we should hurry.  
-**Ruiko/Kazari:** Okaaay\~.  
+**Ruiko/Kazari:** Okaaay\~\.  
 
 ## [Railgun - Chie: End]: Lets Make Lovely Flower Decorations with Onee-san
 **Ruiko:** I want to do something to thank her, you know? Not just for taking us around Kamakura yesterday, but for everything Setouchi-san's been doing for us.  
@@ -634,6 +634,6 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Ruiko:** That's great-... I was worried for a minute there.  
 **Kazari:** ? What are you talking about, Saten-san.  
 **Ruiko:** Ehh-...  
-**Chie:** Now then, how about we make another one for Saten-san\~.  
-**Kazari:** Sure\~.  
+**Chie:** Now then, how about we make another one for Saten-san\~\.  
+**Kazari:** Sure\~\.  
 > :ToCPrevNext

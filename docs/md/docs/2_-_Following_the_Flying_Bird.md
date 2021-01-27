@@ -13,16 +13,16 @@
 **Mihono:** There's no way\! Kanami wouldn't... She had no reason to attack Yukari-sama\! ...I'm going\!  
 **Friend B:** Wait, where\!\?  
 **Chie:** You're kidding me\!\? Mihono-chan\!  
-**Chie:** (Don't tell me she's going after Etou-san? ...I can't let that happen\! I have to get over there and stop her\!)  
+**Chie:** (Don't tell me she's going after Etou-san? ...I can't let that happen\! I have to get over there and stop her\!\)  
 **Chie:** I made it\! Stop, Mihono-chan\! You can't do this\!  
 **Mihono:** Chii-nee\!\? But I have to talk to Kanami\!  
 **Chie:** I'm trying to tell you...\!  
 **Bodyguard Toji:** You two, stop right there\! All students have been ordered not to leave the area\!  
 **Chie:** I'm too late\!\?  
 **Mihono:** Security\!\? I-I'm not going to stop\!  
-**Mihono:** (I can't let them stop me here\! I'll... I'll use jin'i to break through\!)  
+**Mihono:** (I can't let them stop me here\! I'll... I'll use jin'i to break through\!\)  
 **Chie:** Mihono-chan\! I told you not to run\! You're just making things more complicated\!  
-**Chie:** (I don't have a choice... I'll follow her with jin'i\!)  
+**Chie:** (I don't have a choice... I'll follow her with jin'i\!\)  
 **Mihono:** Pant... Pant... Sorry, Chii-nee... But I can't let them stop me yet. I have to hear from Kanami... Why she did this\!  
 **Chie:** Mihono-chan\! It doesn't matter what you want; we won't get away with this that easily\! Not those girls or us\!  
 **Bodyguard Toji:** Oi\! I told you to stop\! If you keep resisting, I'll have to restrain you as traitors\!  
@@ -52,10 +52,10 @@
 **Chie:** Now then, so we don't get stopped here, let's hurry and break through them, okay?  
 **Bodyguard Toji:** I caught up again\! Now, don't resist...  
 **Chie:** Hate to break it to you, but we plan on resisting.  
-**Mihono:** (Eh\!\? Chii-nee...\!\?)  
+**Mihono:** (Eh\!\? Chii-nee...\!\?\)  
 **Chie:** But isn't that fine? After all, the two of us are going after Etou Kanami and Juujou Hiyori to safely bring them back. We're not the ones you're after, isn't that right?  
 **Bodyguard Toji:** Uh... You're not wrong, but... Ah, hey, that's faulty logic\! You're not gonna trick me like that\! Everybody\! Come on, get them-\!  
-**Chie:** Ah, you saw through it\~. Then you leave us other choice, right? Mihono-chan, I'll follow you right on through\!  
+**Chie:** Ah, you saw through it\~\. Then you leave us other choice, right? Mihono-chan, I'll follow you right on through\!  
 
 ## 4: Because I Trust Her\! (2)
 **Bodyguard Toji:** Ughh... I'm beat...  
@@ -71,7 +71,7 @@
 **Mihono:** (......That's not it\! That's not what I meant to say...)  
 **Chie:** Etou-san, listen\! Mihono-chan thinks you're innocent\!  
 **Chie:** She just wants to hear the truth from you\! No matter what happens, she's on your side\!  
-**Mihono:** (Ah...\! Thanks for setting it straight, Chii-nee\!)  
+**Mihono:** (Ah...\! Thanks for setting it straight, Chii-nee\!\)  
 **Kanami:** ...Oh.  
 **Mihono:** Yeah\! Please, just give me the reason\! Yanase-san and everyone who came to cheer you on will want to help too\!  
 **Mihono:** That's why, see? If there's anything we can do to help...  
@@ -107,7 +107,7 @@
   
 **Mihono:** Eh\!\?  
 **Kanami:** Aradama\!\? How\!\? We're right in the middle of Kamakura...  
-**Mihono:** (These small aradama... They're the same as the ones we fought before...\!\? Did we miss some\!\?)  
+**Mihono:** (These small aradama... They're the same as the ones we fought before...\!\? Did we miss some\!\?\)  
 **Mihono:** Chii-nee\! Kanami\! We have to stop them before they hurt anybody\!  
 **Kanami:** ...Okay\! I'll help\!  
 

@@ -87,18 +87,18 @@ https://streamable.com/apx74v
 **Yui:** Ah, you three were in here\!  
 **Yui:** Happy Halloween\~\! Kanami-chan, Hiyori-chan, annnd, Mai-chan\! Trick or treat\~?  
 **Mai:** Here, Yui-chan, have a bite of this.  
-**Yui:** Oh\! Did you make this, Mai-chan? I'll have some\~. Mmm\~, so good\!  
+**Yui:** Oh\! Did you make this, Mai-chan? I'll have some\~\. Mmm\~, so good\!  
 **Kanami:** Yui-chan, were you looking for us for something?  
 **Yui:** I'm passing the word on from Kiyoka-chan. The costume party we're having is going to be at an amusement park.  
 **Yui:** So, anybody who wants to get seriously dressed up, meet in an hour out in front of school\!  
 **Kanami:** Ehh, that's so cool\! Let's go, Hiyori-chan, Mai-chan\!  
 **Mai:** We might as well.  
 **Hiyori:** So, when Kiyoka said we could rent our costumes, she meant from the amusement park?  
-**Yui:** I've got to make the rounds and let the other girls know, so I'll be seeing you later\~.  
+**Yui:** I've got to make the rounds and let the other girls know, so I'll be seeing you later\~\.  
 **Yui:** And, if you see anybody, be sure to tell them too, okay\~?  
 **Kanami:** We got it-. Thanks, Yui-chan\!  
 **Mai:** How about we get going then?  
-**Kanami:** Ah, sure\! Though, we still have some time left, so I want to have at least one more slice of pie\~.  
+**Kanami:** Ah, sure\! Though, we still have some time left, so I want to have at least one more slice of pie\~\.  
 **Mai:** Of course you can.  
 **Kanami:** The sweets you make are just addictively good, Mai-chan\! Makes me want to have some every single day\! Anyway-- down the hatch-.  
 https://streamable.com/t8t9c5
@@ -135,7 +135,7 @@ https://streamable.com/t8t9c5
 **Hiyori:** Wha\!\?  
 **Kanami:** Like this?  
 **Hiyori:** ...Ka-Kanami\!\? Th-That's too close.  
-**Yui:** Niiice going, Kanami-chan\~.  
+**Yui:** Niiice going, Kanami-chan\~\.  
 **Hiyori:** Doing this kind of thing is nice every now and then.  
 **Kanami:** Yeah. We should all go together for Halloween again next year\!  
 **Kanami:** Ah, but before that, there's the cultural festival, Christmas, New Year's, Valentines. There's a lot of stuff that could be fun.  

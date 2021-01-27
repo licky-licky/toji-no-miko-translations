@@ -154,7 +154,7 @@
 **Yume:** ...Nn. I can't really, move around right.  
 **Maki:** In time, I promise you'll be back to normal. You just have to rest now.  
 **Suzuka:** Do as we say and stay in bed, Yume. That's your punishment for making us worry so much.  
-**Yume:** Ehh\~...? I don't remember doing anything to make you worry though...?  
+**Yume:** Ehh\~\...? I don't remember doing anything to make you worry though...?  
 **Yume:** ---Wait? Maki onee-san, Suzuka onee-san... Why are you... Crying?  
 **Suzuka:** Because we were reunited with someone very important to us.  
 **Maki:** ......I'm going to go wash my face.  
@@ -164,7 +164,7 @@
 **Maki:** I'd rather you never forgave what I've done.  
 **Maki:** This debt and these sins. I promise I'll return it, I promise I'll pay for them. Believe me.  
 **Maki:** I've already sold my soul once, after all. Whatever you want from me, no matter what it is, I'll help you.  
-**Mihono:** ...U-Uhh\~, I don't really understand what happened, but everyone's safe and sound, right\! It's all alright\~...  
+**Mihono:** ...U-Uhh\~, I don't really understand what happened, but everyone's safe and sound, right\! It's all alright\~\...  
 **Kofuki:** The netherworld was funner than I expected. I got to fight a bigass aradama-chan too. Next time I get the chance, I'm going back.  
 **Kiyoka:** I think I'm never doing that again...  
 **Chie:** But...  
@@ -184,7 +184,7 @@
 **Yui:** Ahhhhhh... Friendship is so beautiful... The bonds between girls can never be broken, you know... Ahh... Uuuhuhu...  
 **Mihono:** With all of us together, no matter what happens, we'll stop Tagitsuhime, I know it\! So let's keep on fighting\!  
 **Mirja:** (In the end, President Souraku was never once involved in this operation.)  
-**Mirja:** (Despite creating this investigation team, despite entrusting Namu Yakushi Kagemitsu's utsushi to Setouchi Chie... Where is she?)  
+**Mirja:** (Despite creating this investigation team, despite entrusting Namu Yakushi Kagemitsu's utsushi to Setouchi Chie... Where is she?\)  
 **Mirja:** (Ayanokouji Martial Arts School. President Souraku. What is happening to them--)  
 **Yukina:** How long do you plan on making us wait\! Hurry up and make your selections from the list of candidates\!  
 **Yuzuki:** ......  

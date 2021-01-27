@@ -4,7 +4,7 @@ valkyrie yomi/misogi kaoru
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
 ## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
-**Akira:** Oiii, Yomi\! Here, over here\~.  
+**Akira:** Oiii, Yomi\! Here, over here\~\.  
 **Yomi:** I could tell where you were without you having to shout.  
 **Akira:** You just looked like you were kinda spacing out over there. Anyway, ready to go?  
 **Yomi:** I was wondering where you were taking me. A cakery?  
@@ -69,7 +69,7 @@ valkyrie yomi/misogi kaoru
 
 ## [Misogi - Kaoru: Start]: A Little About the Past
 **Kaoru:** Today's kinda hot, isn't it-... My water bottle's already run dry...  
-**Nene:** Ne\~\~...  
+**Nene:** Ne\~\~\...  
 **Ellen:** I only have a little bit left in mine, but, want to drink it, Kaoru?  
 **Kaoru:** Gladly. Or at least, I'd want to, but, if you ran out of yours, that'd be bad too.  
 **Ellen:** Should we make a trip back to town then? We'd be losing a lot of time though.  
@@ -86,7 +86,7 @@ valkyrie yomi/misogi kaoru
 **Chie:** Ah, I'd like to hear about that too.  
 **Kaoru:** Give me a break...  
 **Ellen:** Don't be like that. Do it for meee.  
-**Nene:** Nenenene\~. Ne\~ne.  
+**Nene:** Nenenene\~\. Ne\~ne.  
 **Chie:** Nene-chan's asking for it too, see?  
 **Kaoru:** Kh... Letting her hold you like that; you're totally on her side now...  
 **Kaoru:** I'll tell you about it, but it's not all that interesting, okay?  
@@ -101,7 +101,7 @@ valkyrie yomi/misogi kaoru
 **Kaoru:** Becoming a toji meant you got to defeat aradama, after all.  
 **Ellen:** What else were you like?  
 **Kaoru:** What else-; when I was a kid, I played with my grandpa a lot too. I always felt at ease being around him.  
-**Ellen:** Since I love my grandpa too, that makes us the same\~.  
+**Ellen:** Since I love my grandpa too, that makes us the same\~\.  
 **Chie:** I'd imagine you always got along with Nene-chan too, right?  
 **Nene:** Ne\!  
 **Kaoru:** About Nene...  

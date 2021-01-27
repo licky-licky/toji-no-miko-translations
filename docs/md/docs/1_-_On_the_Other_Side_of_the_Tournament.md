@@ -19,7 +19,7 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Kofuki:** Hah? What do ya think you're lookin' at?  
 **Friend B:** (...sneak sneak)  
 **Friend B:** Mihono, I'm leaving this to you\!  
-**Mihono:** (Eh\!\?)  
+**Mihono:** (Eh\!\?\)  
 **Mihono:** Ah, umm, sorry, about my friend. Those uniforms, you're from Renpu, aren't you? Since you're carrying okatana, does that make you their representatives?  
 **Kofuki:** Nope. This girl here's the representative. I'm just her escort...... Huh\!\?  
 *sounds of crashing and running*
@@ -67,12 +67,12 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Kofuki:** There's been a lot of these lately. You think it's a bunch of small fry, but then bigger ones start taking their place and suddenly you're surrounded.  
 **Kofuki:** ...Well, I can take on all the aradama-chan they can throw at me, so it's no big deal\!  
 **Mihono:** Hey\! Wait up, you two\! What's up with them, no one's coordinating at all\!\?  
-**Mihono:** (Ngh\! My focus is slipping too... What do I do... The situation's getting worse and worse... Ahhh, damnit\! It's always like this\! Is this all I can manage\!\?)  
+**Mihono:** (Ngh\! My focus is slipping too... What do I do... The situation's getting worse and worse... Ahhh, damnit\! It's always like this\! Is this all I can manage\!\?\)  
 **Mihono:** Pant... Pant...  
-**Mihono:** (All I can do is try to force through their numbers...\! ...\! Ah, behind me\!\? I can't block in time\!)  
+**Mihono:** (All I can do is try to force through their numbers...\! ...\! Ah, behind me\!\? I can't block in time\!\)  
 **???:** That was dangerous, huh? We made it in the nick of time\!  
-**Mihono:** (\! ....Who\!\?)  
-**Mihono:** (That uniform's the same as Chii-nee... Toji from Osafune Girls' Academy?)  
+**Mihono:** (\! ....Who\!\?\)  
+**Mihono:** (That uniform's the same as Chii-nee... Toji from Osafune Girls' Academy?\)  
 **Ellen:** Kohagura Ellen and Mashiko Kaoru are here to assist\!  
 **Ellen:** We're in a big big hurry to the tournament, but this is more important now\!  
 **Kaoru:** Quit the small talk. Nene and I'll take care of this. C'mon out, Nene.  
@@ -80,14 +80,14 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Ellen:** Oh\! You're so shy, Kaoru-chan\!  
 
 ## 4: The Gale and the Storm (2)
-**Mihono:** (These two, they're so strong...\!)  
+**Mihono:** (These two, they're so strong...\!\)  
 **Mihono:** (Kohagura Ellen-san...)  
 **Mihono:** (She's using her toji skills to make the best of hand-to-hand techniques... I think that's Taisha-ryu.)  
-**Mihono:** (Looking at her, you wouldn't think she's so light-footed. And yet, the impact of her hits... The way she fights is so brutal, yet beautiful... I've never seen an infighter like this\!)  
+**Mihono:** (Looking at her, you wouldn't think she's so light-footed. And yet, the impact of her hits... The way she fights is so brutal, yet beautiful... I've never seen an infighter like this\!\)  
 **Mihono:** (And then... Mashiko Kaoru-san...)  
 **Mihono:** (She's so small that her okatana must be twice her height... And yet, she's slamming it around so easily... She's like a mini-tank...)  
 **Mihono:** (But...)  
-**Mihono:** (What's most amazing is the way they're in perfect sync with each other... Yeah... With these two here, I think we can win this\!)  
+**Mihono:** (What's most amazing is the way they're in perfect sync with each other... Yeah... With these two here, I think we can win this\!\)  
 
 ## 5: A Toji's Duty (1)
 **Kofuki:** Oi, Sayaka\! With backup here, this is your chance\! Hurry and get to the tournament\!  
@@ -165,12 +165,12 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 **Friend A:** You idiots\! Stop shouting\! Mihono, they just finished saying the pledge and the first round is about to start\! Look, it's Kanami versus Ayaonokouji's representative\!  
 **Friend A:** ...This is it, the final round. I wasn't sure if Kanami would make it this far...  
 **Friend B:** Yeah, yeah\! It's too bad about Mai, but her opponent was Kanami after all. If only they'd faced off in the finals instead of the semi-finals\!  
-**Mihono:** It's a real shame\~. But, you know...... Huh? In the stands over there... Is that? Chii-nee\!\? She said she was going back to Osafune yesterday...  
-**Mihono:** (Ahh-\! That's why she said we'd meet again soon-\!)  
+**Mihono:** It's a real shame\~\. But, you know...... Huh? In the stands over there... Is that? Chii-nee\!\? She said she was going back to Osafune yesterday...  
+**Mihono:** (Ahh-\! That's why she said we'd meet again soon-\!\)  
 **Chie:** Fufu, I think Mihono-chan spotted me. I was hoping I could surprise her again afterwards, so that's too bad.  
 **Chie:** (That girl in the finals... Etou Kanami-san... At a glance she just barely won every one of her matches, but if Mihono says she's strong then I can believe it...)  
 **Chie:** (Her opponent in the finals is Heijou Institute's Juujou Hiyori-san... I don't think she can overwhelm her, but if she can adapt and outmaneuver her it should be her win.)  
-**Chie:** (Though, that okatana... Huh, that looks like Kogarasumaru... It can't be the real one, can it...?)  
+**Chie:** (Though, that okatana... Huh, that looks like Kogarasumaru... It can't be the real one, can it...?\)  
 **Mihono:** Hmph. Chii-nee, if you were coming here you should've said something...  
 **Friend A:** What's wrong, Mihono?  
 **Mihono:** Ah, it's nothing\! More importantly\! The match is about to begin\!  
@@ -228,14 +228,14 @@ In an instant, the world was turned on its head-
 Juujou Hiyori vanished from the arena. In a split second, before even a thought could pass, it became clear what she had done.
 
   
-**Hiyori:** (She deflected it\!\?)  
+**Hiyori:** (She deflected it\!\?\)  
 **Yukari:** Third stage jin'i without preparation. Is this your "single sword"?  
 **Hiyori:** Absurd...\!  
-**Hiyori:** (She was completely defenseless\! And yet, where did Origami Yukari pull those two okatana from\!\?)  
+**Hiyori:** (She was completely defenseless\! And yet, where did Origami Yukari pull those two okatana from\!\?\)  
 **Yukari:** Have you come to erase your mother's regrets? Fufu... But taking Origami Yukari's head won't be so easy.  
 **Hiyori:** Tch...\!  
 **Maki:** That's as far as you go, traitor\! HAA\!  
-**Hiyori:** (No\! ...She's got me\!)  
+**Hiyori:** (No\! ...She's got me\!\)  
 **Maki:** Minoseki's... Etou Kanami\! How dare you interfere\!  
 **Hiyori:** What, are\!\? No, why did you save me\!\?  
 **Kanami:** Just come with me\! Hurry\!  

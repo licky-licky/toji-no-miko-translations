@@ -56,7 +56,7 @@ Mystery TRPG: The Steam Shrouded Murder Case
 **Ellen:** Is it possible someone could tell lies when we're having the discussion?  
 **Kiyoka:** Yes. The culprit can lie of course, but it's okay for others to lie too to accomplish their missions.  
 **Kiyoka:** Though, if you tell too many lies, it'll be hard to identify the culprit, so if you could keep that in mind while playing it would help me as the GM.  
-**Yui:** I have a questiooon\~. About getting into our roles, if I'm playing a guy, should I act like that?  
+**Yui:** I have a questiooon\~\. About getting into our roles, if I'm playing a guy, should I act like that?  
 **Kiyoka:** You can choose how much you want to get into your roleplaying. You can get deep into the character, or you can act like normal while you work on your missions and search for the culprit. Both work just fine.  
 **Hiyori:** Just getting into character alone seems like a lot of work.  
 **Kiyoka:** Also, one last thing to be careful of. You're not allowed to let other people see your handout, or tell them exactly what your mission is.  
@@ -98,7 +98,7 @@ Mystery TRPG: The Steam Shrouded Murder Case
 **Kiyoka (Inui Kaguya):** I'll give my support, but I hope you can find the suspect yourselves. Now, it's time for deduction.  
 **Kiyoka:** --"A Murder Case in a Certain Ryokan" begins.  
 **Yui (Inokawa Susumu):** For times like these, you should start by asking with the person who first found it, right? Mizuki-san, how'd it look to you?  
-**Yui (Inokawa Susumu):** Ah\! And I'm a writer who works on magazine articles and stuff. Hope we can get along\~.  
+**Yui (Inokawa Susumu):** Ah\! And I'm a writer who works on magazine articles and stuff. Hope we can get along\~\.  
 **Ellen (Tatsunami Mizuki):** When I came to the bathhouse for morning cleaning duty, like I'm in charge of every day, I found Nekoma-san.  
 **Ellen (Tatsunami Mizuki):** ...I thought it was strange then that the entrance to the bathhouse wasn't locked.  
 **Maki (Chidori Takumi):** So that means the entrance is normally locked?  
@@ -165,7 +165,7 @@ Mystery TRPG: The Steam Shrouded Murder Case
 **Hiyori (Torai Rena):** Since it was so late in the day, it's going to be hard proving everybody's alibis.  
 **Hiyori (Torai Rena):** (Though the killer might be lying about theirs...)  
 **Ellen (Tatsunami Mizuki):** I'd like to get more information for now, so if anybody has anything they noticed, would you mind sharing it?  
-**Hiyori (Torai Rena):** (Should I reveal some of the information on Torai Rena's handout?)  
+**Hiyori (Torai Rena):** (Should I reveal some of the information on Torai Rena's handout?\)  
 **Hiyori (Torai Rena):** (Unable to sleep, she left her room past 10:40pm to buy something to drink, and saw Mizuki talking to Inokawa...)  
 **Suzuka (Toritani Hina):** In that case, there's something I'd like to ask you, Mizuki-san. This isn't restricted to last night, but you and Nekoma-san would sometimes get into fights, wouldn't you?  
 **Yui (Inokawa Susumu):** That reminds me, I saw the two of you talking about something at noon yesterday-.  

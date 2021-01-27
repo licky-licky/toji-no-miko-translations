@@ -39,7 +39,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Kanami:** Look at you, Hiyori-chan, getting all motivated\! That chocolate mint really did the trick, huh?  
 **Hiyori:** W-Will you just drop that already... You've got it all wrong.  
 **Hiyori:** You did a lot for me this year, so I thought that, at least for New Year's, it wouldn't be so bad to do what you want.  
-**Kanami:** Hiyori-chan\! I'm really glad to hear it\~. If that's how you feel, let's win this thing for sure\!  
+**Kanami:** Hiyori-chan\! I'm really glad to hear it\~\. If that's how you feel, let's win this thing for sure\!  
 **Hiyori:** Right. And to make that happen, we need to kill those aradama first.  
 
 ## 2: The Elite Guard's End of the Year
@@ -86,7 +86,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Kofuki:** Tch, what a downer. I wanted to keep the love going with aradama-chan.  
 **Yui:** In that case, how about I could be your aradama-chan? Come on, Kofuki-san, dive right in\!  
 **Kofuki:** Knock it off\! Don't grab at me like that with all these people around-\!  
-**Yui:** But it's so cold. Christmas is over, and New Year's is almost here. This is the number one season to find some human heat\~.  
+**Yui:** But it's so cold. Christmas is over, and New Year's is almost here. This is the number one season to find some human heat\~\.  
 **Kiyoka:** Still, I'm so glad we managed to safely finish our missions this year. It would be nice if we could go on like this through New Year's without anything happening.  
 **Mihono:** Yeah, I can't wait for the New Year's soba and stuff\! But also, is that legend for real? The one where, whoever wins the karuta competition will become the strongest toji?  
 **Chie:** The winners this year were Shidou-san and Konohana-san of the elite guard, so it might be unexpectedly true.  
@@ -155,7 +155,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Hiyori:** Our strategy for a surefire victory is prayer... Are you serious about this\!\?  
 **Kanami:** But isn't it your first shrine visit when that kind of thing is most effective?  
 **Hiyori:** Now that you mention it... Alright, we should leave now to help us walk off everything we just ate.  
-**Kanami:** Good thing there weren't that many people at the shrine\~.  
+**Kanami:** Good thing there weren't that many people at the shrine\~\.  
 **Hiyori:** Right. Thanks to that, I was able to take my time praying for certain victory.  
 **Kanami:** Since both of us prayed a lot too, that means we'll win for sure\!  
 **Hiyori:** Oh, the sound of that bell must mean...  
@@ -169,14 +169,14 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Maki:** Now that we've safely recovered all the karuta cards from aradama, our duties this year are fully complete.  
 **Yume:** Maki-onee-san, they're doing the countdown in one more hour\! I'm a little tired, but we have to get the soba ready.  
 **Yukari:** Would you two like to join me? With this New Year's soba.  
-**Yume:** Thanks, Yukari-sama\! I'm starving\~.  
+**Yume:** Thanks, Yukari-sama\! I'm starving\~\.  
 **Yume:** Chew, chew... It's good\~\!  
 **Maki:** Stop that, Yume\! The new year hasn't begun yet.  
 **Yukari:** What's the harm in it? You should eat yours as well, before it gets cold.  
 **Maki:** If you say so, Yukari-sama, then I'll gladly eat.  
 **Yume:** Phwaa, now that my belly's full I'm feeling even sleepier.  
 **Maki:** You'd normally be long asleep by now, Yume. If you're that tired, there's no reason for you to stay up.  
-**Yume:** No way\~. It's New Year's Eve and everything. I wanna do the countdown with Yukari-sama and Maki-onee-san\!  
+**Yume:** No way\~\. It's New Year's Eve and everything. I wanna do the countdown with Yukari-sama and Maki-onee-san\!  
 **Maki:** But if you stay up that late you'll feel exhausted tomorrow. Go on, get changed and go to your room.  
 **Yume:** Boo\~, at least let me stay up for New Year's\! I can, right, Yukari-sama?  
 **Yukari:** It only comes once a year. So long as you promise it won't affect your duties, you can do as you please.  
@@ -207,7 +207,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Maki:** Zzzzz...  
 **Yume:** Geez, you shouldn't have gotten all worked up during practice. Wake up already, Maki-onee-san\!  
 **Yukari:** Yume, give her this chance to rest.  
-**Yume:** Fine, then I won't wake Maki-onee-san up\~...  
+**Yume:** Fine, then I won't wake Maki-onee-san up\~\...  
 **Yume:** I'll just have to do all my New Year's celebrating with you, Yukari-sama\!  
 **Yume:** Yukari-sama\! Here I comeee\~\!  
 **Yukari:** Fu, you still have a ways to go, Yume. You'll have to work hard this year.  
@@ -228,7 +228,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Mirja:** For the sake of preserving my stamina, I won't respond to you any longer. The reason we switched to this room is out of consideration for our exercise and voices bothering other students in the dorm.  
 **Mirja:** Starting now, I will be giving you special training in karuta. You yourself proposed this sort of one-on-one guidance, so even if you complain, I will go hard on you.  
 **Yui:** W-W-Wow, hardcore one-on-one\! Just the sound of that is giving me goosebumps\!  
-**Yui:** I'm feeling inspired, getting so deeply involved right at the start of the year\! Rough me up and wear me down, do whatever you want with me\~.  
+**Yui:** I'm feeling inspired, getting so deeply involved right at the start of the year\! Rough me up and wear me down, do whatever you want with me\~\.  
 **Mirja:** ...I see. In that case...  
 **Yui:** TEYAAAAH\!\!  
 **Mirja:** Too quiet\! Lower your posture further and use your whole body to take it\!  
@@ -271,7 +271,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Mirja:** Referee, if you can't provide hard evidence of these accusations, I won't accept your decision to disqualify us.  
 **Referee:** I thought you might feel that way, so I've prepared video evidence of your matches. I'll play them back now, so watch carefully.  
 **Yui:** TEEEEEEIII\! Woww\~, such pretty fingers\! So pale and glossy... (Rub rub)... Nnn\~ They feel so nice\!  
-**Yui:** Ahaha, I actually did it\! I don't remember it, so it must have happened subconsciously, but it looks like I really did it, huh\~.  
+**Yui:** Ahaha, I actually did it\! I don't remember it, so it must have happened subconsciously, but it looks like I really did it, huh\~\.  
 **Mirja:** I'm deeply sorry about this. I would like to apologize later to all the people who were caused trouble. Of course, I'll do it myself...  
 **Mirja:** Etou Kanami, Juujou Hiyori, please accept my apology for everything our pervert has done.  
 **Hiyori:** Wait, hang on. She never touched us. Right, Kanami?  
@@ -281,9 +281,9 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Yui:** Ehhh\~\! Please hang on\~, Mirja-saaan\!  
 **Hiyori:** They left...  
 **Kanami:** Oh, Hiyori-chan, they're bringing out the cards for the final match\! Who're we up against in the finals again?  
-**Yume:** Ehh\~, it's the finals already? Everyone's so weak\~.  
+**Yume:** Ehh\~, it's the finals already? Everyone's so weak\~\.  
 **Maki:** No, our opponents were all veteran players, but you've managed to become so much stronger in such a short time, Yume. Be sure not to let your guard down in the finals.  
-**Yume:** Okayyy\~. Whoa, our opponents are those onee-sans?  
+**Yume:** Okayyy\~\. Whoa, our opponents are those onee-sans?  
 **Kanami:** Tsubakuro-san and Shidou-san\! If we win this match, it really feels like we'll be the strongest toji\! Let's give it our best shot, Hiyori-chan.  
 **Hiyori:** Of course. We came this far, so of course we'll win.  
 
@@ -324,7 +324,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Hiyori:** We can't take something that special...  
 **Yukari:** I told you not to act reserved. You may take as many as you like. There's no reason for you to complain, is there?  
 **Kanami:** Yukari-sama... Ah, if that's what you're offering, then\! This one, and this one, that one, this one, and can I take that one too?  
-**Yui:** I didn't think you were such a crafty girl, Kanami-chan\~. I found a new side of you\!  
+**Yui:** I didn't think you were such a crafty girl, Kanami-chan\~\. I found a new side of you\!  
 **Kanami:** That's not it. Here, This one is for you, Yui-chan, and this one's for Kitora-san.  
 **Kanami:** And then, here you go, Shidou-san and Tsubakuro-san.  
 **Maki:** For us as well? Why would you go that far?  

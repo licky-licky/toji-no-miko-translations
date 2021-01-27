@@ -26,7 +26,7 @@ Several hours before the tournament began--
 **Nene:** Ne-, nene-\! Nenene-\! Ne-, nene-\!  
 **Yukari:** ...There's no point in attempting conversation, is there...  
 **Yukari:** Fine then. Do as you like. So long as you don't disturb my work, you can stay.  
-**Nene:** Ne\~...  
+**Nene:** Ne\~\...  
 **Yukari:** Hmm... Where's the list of tournament participants. From Renpu... The toji Yukina told me about would be...  
 **Nene:** Ne\~ Nene\~\!  
 **Yukari:** Hmm...  
@@ -48,7 +48,7 @@ Several hours before the tournament began--
 **Yukari:** Do you feel content living alongside humans?  
 **Nene:** ...Ne\~?  
 **Yukari:** ......  
-**Nene:** Nene\~...?  
+**Nene:** Nene\~\...?  
 **Yukari:** Ha...　No, it wasn't a question I should have asked you, I suppose.  
 **Yukari:** Leave. Do not ever return here. Do you understand?  
 **Nene:** Ne-\! Nenene-\!  
@@ -170,7 +170,7 @@ Several hours before the tournament began--
 **Yukari:** ..................Hm. The position of the head of the Origami household needs consideration as well.  
 **Yomi:** (......)  
 **Yomi:** (What was that small stain on Yukari-sama's clothing...? It wasn't there an hour ago...)  
-**Yomi:** (Soy sauce...? Or some other sauce...?)  
+**Yomi:** (Soy sauce...? Or some other sauce...?\)  
 **Maki:** What's wrong, Yomi? Is something on your mind?  
 **Yomi:** ......  
 **Suzuka:** Yomi?  
@@ -261,10 +261,10 @@ After school that day.
 ## [Renpu High: End]: Dream Come True
 **Minato:** Ahh\~, the three of us skipping practice and going home together feels all fresh and exciting\! Want to stop by somewhere?  
 **Kagari:** Yukari-sama and I will be practicing as soon as we return to the Origami household. Please don't treat us like your accomplices, Minato-senpai.  
-**Minato:** Come on, don't be such a stick in the mud\~. We never go home early together\! There's this super cool secret spot I found that I'll show you.  
+**Minato:** Come on, don't be such a stick in the mud\~\. We never go home early together\! There's this super cool secret spot I found that I'll show you.  
 **Yukari:** Secret spot? And where is that?  
 **Minato:** You'll have to wait and see. C'mon, let's go\!  
-**Minato:** You two are so slow\~. If you keep it up, the sun's gonna go down\~\!  
+**Minato:** You two are so slow\~\. If you keep it up, the sun's gonna go down\~\!  
 **Kagari:** Pant, pant. You're taking us up quite the mountain trail.  
 **Yukari:** Minato, can't we leave it at this and go home for today? I have a strange feeling about this.  
 **Minato:** Hey, Yukari, what's this feeling about anyway? You've been acting kinda weird since this morning. Come on and tell us.  

@@ -45,7 +45,7 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Kanami:** Whoops, sorry. Anyway, we should beat these aradama as soon as we find them.  
 **Sanae:** I think that's the best course of action too.  
 **Maki:** Let's first look for them using our spectrum finders. Contact everyone the moment you detect anything. Now, let's get to work\!  
-**Kiyoka:** (We've been walking all over since then... But there's no signs of aradama at all. Are they really even here...?)  
+**Kiyoka:** (We've been walking all over since then... But there's no signs of aradama at all. Are they really even here...?\)  
 **Kiyoka:** And... I feel like we've been walking in circles this whole time. Don't you think so, Juujou-san?  
 **Kiyoka:** Huh? Juujou-san?  
 **Mirja:** Is something wrong?  
@@ -149,7 +149,7 @@ That night... Kiyoka and the others received an urgent dispatch to an abandoned 
 **Hiyori:** What was the present I gave you for your birthday?  
 **Kanami:** Natto over rice, and homemade nimono\! It was extra tasty\!  
 **Sanae:** ...Eh\!\?  
-**Sanae:** (...She gave natto over rice as a birthday present?)  
+**Sanae:** (...She gave natto over rice as a birthday present?\)  
 **Hiyori:** Alright, that confirms it... You're the real Kanami\!  
 **Kanami:** C'mon, you're so weird, Hiyori-chan.  
 **Kiyoka:** Um... I think these are your glasses, Mirja-san.  
@@ -277,14 +277,14 @@ On the day of the film shoot.
 **Sayaka:** ...How was that?  
 **Mirja:** Hmm... Instead of sounding so rough, something like, "Kyaa-\!\"... It may be better to make it sound cuter like that.  
 **Sayaka:** I think I'm starting to get it. Thank you, both of you.  
-**Staff:** Itomi-san, if you could head over here around now\~.  
+**Staff:** Itomi-san, if you could head over here around now\~\.  
 The apprentice nun visited the ruined mansion to search for the black cat in question, but... Along the way, she became separated from her senior nun.
 
   
 **Sayaka:** ...Sister, where are you?  
 **Sayaka:** And... Where is the black cat demon too...  
 **Sayaka:** (When I climb up this ladder... I scream... I have to yell... Kyaa-. I have to sound... as surprised as I can.)  
-**The Voice of a Cat?:** Nyaa\~.  
+**The Voice of a Cat?:** Nyaa\~\.  
 **Sayaka:** (...Okay. Now I--)  
 **Sayaka:** --KYAAAAA...\!  
 **Staff:** Alright, we'll be taking an hour break now-.  
@@ -354,10 +354,10 @@ The day of the film shoot.
 **Sanae:** ...[gulp]  
 **Sanae:** (Right now, Kitora-san will be coming up from the first floor, so I have to frighten her...)  
 **Mirja:** I-Is somebody there?  
-**Sanae:** (Ahh, I'm so nervous I can't stop myself from smiling...\! I have to stiffen up my face some more...\!)  
+**Sanae:** (Ahh, I'm so nervous I can't stop myself from smiling...\! I have to stiffen up my face some more...\!\)  
 **Mirja:** [pant, pant]...  
 **Sanae:** (Mirja-san's raising the sense of tension... She's a good actor...)  
-**Sanae:** (I-I'll have to try and keep up with her performance... One, two, and three...\!)  
+**Sanae:** (I-I'll have to try and keep up with her performance... One, two, and three...\!\)  
 **Sanae:** UNYAAAAAA\!  
 **Mirja:** KYAAAAAAAAA\!  
 **Staff:** Okay, that's a wrap-.  
@@ -421,7 +421,7 @@ On the day of filming.
 **Sanae:** Ah... L-Let's get going\!  
 **Mirja:** Are you not going to check the script?  
 **Sanae:** No, I'll be okay even if I don't.  
-**Mirja:** (Her trembling has stopped. Is she the type who grows stronger when it comes time to act?)  
+**Mirja:** (Her trembling has stopped. Is she the type who grows stronger when it comes time to act?\)  
 **Mirja:** Let's go, Iwakura Sanae.  
 **Sanae:** Yes\!  
 **Staff:** Alright now... Ready-, start\!  
@@ -436,7 +436,7 @@ On the day of filming.
 **Mirja:** (Iwakura Sanae comes rushing in... I fight back with the candlestick I'm holding.)  
 **Sanae:** Unyaa\!\?  
 **Mirja:** It's afraid of the flames...? Then\!  
-**Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!)  
+**Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!\)  
 **Sanae:** UNYAAAAAAAAAA\!\! I'LL REMEMBER THIS, NYAAAAA\!\!  
 **Mirja:** ... It ran away? ...What is happening in this mansion...?  
 **Staff:** Okaaay, that's good.  

@@ -26,7 +26,7 @@ Take Back Everyone's Feelings! Chocolate Reco...
 **Hiyori:** Huh?  
 **Kanami:** It's just like it sounds; aradama are stealing chocolate.  
 **Kanami:** Not too long ago they were going after factories and stores that had chocolate... I wonder why?  
-**Hiyori:** (Then the culprit... Was an aradama-\!\?)  
+**Hiyori:** (Then the culprit... Was an aradama-\!\?\)  
 **Kanami:** They took the chocolates Mai-chan gave to Sayaka-chan too.  
 **Sayaka:** Mm. I was eating them bit by bit. There were still a lot left.  
 **Kanami:** I ate all mine right away, so I don't have anything to worry about. But it must have been a shock when they vanished like that.  
@@ -125,7 +125,7 @@ Take Back Everyone's Feelings! Chocolate Reco...
 **Hiyori:** (If I can't find that chocolate meant for Kanami...)  
 **Sayaka:** (If I can't find Mai's chocolate...)  
 **Maki:** (If I can't find Suzuka's chocolate...)  
-**Hiyori/Sayaka/Maki:** (I'll just have to kill every last aradama\!)  
+**Hiyori/Sayaka/Maki:** (I'll just have to kill every last aradama\!\)  
 
 ## 4: How Does the Chocolate Taste?
 **Kofuki:** What the hell, I thought I'd sliced up the most aradama-chan, but four people got ranked higher than me...  
@@ -163,7 +163,7 @@ Take Back Everyone's Feelings! Chocolate Reco...
 **Suzuka:** I'll very much look forward to it.  
 **Hiyori:** Kh...  
 **Hiyori:** (I never did find that chocolate... It would be hard to ask if there was any chocolate directed to Kanami, so there's nothing I can do...)  
-**Hiyori:** (What if it's still somewhere in my room? Ahh, that must be what happened\!)  
+**Hiyori:** (What if it's still somewhere in my room? Ahh, that must be what happened\!\)  
 **Kanami:** Hmm, who's this chocolate from? Mai-chan gave it to me, since it has my name on it, but...  
 **Hiyori:** \! That's...  
 **Hiyori:** ...I'll just have to own up. Sorry, Kanami. Can I talk to you?  

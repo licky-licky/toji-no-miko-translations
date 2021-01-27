@@ -185,16 +185,16 @@ At the same time, in the rural area on the north side of Choshi--
 At that time, on the north side of Choshi, near the Kashima coastline--
 
   
-**Mihono:** (...I know I went on to Kashima by myself, but where in Kashima am I supposed to be going...?)  
+**Mihono:** (...I know I went on to Kashima by myself, but where in Kashima am I supposed to be going...?\)  
 **Mihono:** (And there's so many guards around... Feels like more of them keep on showing up.)  
 **Mihono:** (...Maybe I should try listening in on them again, like before...)  
 **Mihono:** (I want to learn as much as I can for when the others catch up...)  
 **Imperial Guard A:** --What's happening with Origami Yukari and Ichikishimahime?  
 **Imperial Guard B:** They said they've been cornered in the industrial district up ahead. We've been ordered to surround the area and let no one else through.  
-**Mihono:** (Yukari-sama's been cornered\!\? I have to find a way to help her...\!\!)  
+**Mihono:** (Yukari-sama's been cornered\!\? I have to find a way to help her...\!\!\)  
 **Mihono:** (But it'd be tough for me to do anything with all these people...)  
 **Mihono:** (But I don't think I can make it through here without them seeing me either...)  
-**Mihono:** (--Arghh\!\! I don't have time to think\!\! I just have to force my way through\!\!)  
+**Mihono:** (--Arghh\!\! I don't have time to think\!\! I just have to force my way through\!\!\)  
 **Imperial Guard A:** Who's there\!\? ...You're Asakura Mihono, aren't you\!\!  
 
 ## 11: Mihono Flying Solo (2)
@@ -243,8 +243,8 @@ At that time, in Kashima's south end, the part of town by the industrial distric
 **Imperial Guard B:** Does that mean, she calculated all of this and ran here on purpose...?  
 **Imperial Guard B:** I thought we had her trapped, but we were just playing into her hand...\!\?  
 **Mihono:** Hehe\~h\! Of course I did\! Everything went just like I planned\!  
-**Mihono:** (I was actually just chased into a dead end, but I didn't think it would be this easy to fight here\!)  
-**Mihono:** (And now they're having some weird misunderstanding, so this might be my chance to go on the attack\!)  
+**Mihono:** (I was actually just chased into a dead end, but I didn't think it would be this easy to fight here\!\)  
+**Mihono:** (And now they're having some weird misunderstanding, so this might be my chance to go on the attack\!\)  
 **Imperial Guard B:** Kh...\! We can't let just a single toji keep giving us such a hard time\!  
 **Imperial Guard B:** Let's retreat to a more open position, and repair our formation\!  
 **Mihono:** Ah-\! Hey, don't do that\! This place was working out so well--  
@@ -257,7 +257,7 @@ At that time, in Kashima's south end, the part of town by the industrial distric
 **Chie:** There were some guards back there talking about having trouble with an extremely strong toji, but I didn't think it was you, Mihono-chan\!  
 **Mirja:** Thanks to Asakura Mihono's efforts in drawing the nearby guards here, it seems they weren't able to complete their encirclement of the plant where Origami Yukari is located.  
 **Kiyoka:** It really paid off sending you ahead, didn't it, Hono-chan\!  
-**Mihono:** Stop complimenting me so much, it's embarrassing\~... Why don't we keep up the pace then, and take on the rest of the guards around here\!  
+**Mihono:** Stop complimenting me so much, it's embarrassing\~\... Why don't we keep up the pace then, and take on the rest of the guards around here\!  
 
 ## 15: Fighting All Alone (2)
 **Kiyoka:** Phew... I think we dealt with most of the guards in the area.  

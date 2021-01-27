@@ -26,12 +26,12 @@ https://streamable.com/0seagv
 **Miyuki:** What sort of conversations would be appropriate for this then?  
 **Mayumi:** Talking about romance, right?  
 **Erika:** Is there someone you're interested in, Saegusa-senpai?  
-**Mayumi:** That stays a secret\~.  
+**Mayumi:** That stays a secret\~\.  
 **Shizuku:** I have a feeling Honoka's gaining more rivals.  
 **Honoka:** Hey, Shizuku\! Just because Tatsuya-san's so charming doesn't make us rivals...  
 **Angelina:** You really do like Tatsuya, huh Honoka.  
 **Mayumi:** Fufu, you'll have to tell us all about it tonight, okay?  
-**Honoka:** Auuu\~...  
+**Honoka:** Auuu\~\...  
 **Miyuki:** By the way, what scary stories did you find, Shizuku?  
 **Shizuku:** What's been popular lately aren't really scary stories, but strange stories. Whether or not it really happened, there's stories of people suddenly going to a parallel world.  
 **Erika:** Those are nothing more than people just making stuff up.  
@@ -156,7 +156,7 @@ https://streamable.com/0seagv
 **Yui:** I know, I know\! Mirja-san, I have a suggestion to make-\!  
 **Mirja:** And what is that, Yamashiro Yui.  
 **Yui:** Shouldn't we introduce ourselves around now? It's awkward not knowing each other's names.  
-**Erika:** I'm on board with that\! My name's Chiba Erika. It looks like we'll be in your care for a while, so treat us well\~.  
+**Erika:** I'm on board with that\! My name's Chiba Erika. It looks like we'll be in your care for a while, so treat us well\~\.  
 **Yui:** Pleased to meet you, Erika-san\! I'm Yamashiro Yui\!  
 **Mihono:** I'm Asakura Mihono.  
 **Mihono:** You might be worried, but I'm sure we can get a place to stay and stuff for you, so don't worry about it\!  
@@ -262,10 +262,10 @@ Several days have passed since meeting Miyuki and the others.
 **Miyuki:** Fufu. You're saying it won't be possible for Erika.  
 **Erika:** Well that sucks. I was thinking, if I could use an okatana too, then maybe I could help you guys out.  
 **Yui:** Just having you cheering us on is plenty\! You're good looking and you've got a great body, and Miyuki-san is so pretty I can't wrap my head around it\!  
-**Erika:** Flattering me won't get you anywhere\~. Alright, how about we head back now.  
+**Erika:** Flattering me won't get you anywhere\~\. Alright, how about we head back now.  
 **Mihono:** Hopefully Mirja-san and Mayumi-san have found a clue to helping you get back home by now.  
 **Mirja:** Putting it bluntly, we haven't had any results at all so far.  
-**Mihono:** Seriously\~...  
+**Mihono:** Seriously\~\...  
 **Mirja:** I had thought to  get Ban Tsugumi's cooperation in finding any sort of lead, but it seems to have been a pointless trip.  
 **Kiyoka:** Tsugumi-san isn't here, is she...  
 **Mayumi:** It would have been nice to gain the help of a larger group of people.  

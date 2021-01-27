@@ -189,13 +189,13 @@ At that time, with Etou Kanami and Origami Yukari, who had gone ahead to Tagitsu
 **Maki:** Come back with us, Yomi.  
 **Yomi:** ............I will---  
 **Other:** Angels of the Battlefield  
-**Yui:** Nghh\~... It hurts all over; this might actually be pretty bad for me...\! I still have the stamina to keep going, but...\!  
+**Yui:** Nghh\~\... It hurts all over; this might actually be pretty bad for me...\! I still have the stamina to keep going, but...\!  
 **Yui:** If I could just stop the pain, I'm sure I could pull through somehow\!  
 **Yui:** Ahh, I'm in serious trouble here... I think? I promised Mirja-san, I'd make it back alive no matter what. I don't want to make Mirja-san mad at me...  
 **Yui:** Waiiit? But having that cool beauty glaring down at me and yelling, that's like a reward on its own\!  
 **Yui:** Huh? But I have to make it back alive so she can yell at me... Ah... But if I make it back alive, she won't be mad...?  
 **Yui:** Mm? What am I even saying anymore? Is the pain making me not make any sense?  
-**Yui:** Ahh\~... Wowww, two angels are running over this way. You really do get to see stuff like this...  
+**Yui:** Ahh\~\... Wowww, two angels are running over this way. You really do get to see stuff like this...  
 **Toji A:** This is the rescue team, one toji has been secured\!  
 **Toji B:** No issues with her vitals\! However, she seems to be somewhat delirious\!  
 **Yui:** Huh...? Am I saved?  

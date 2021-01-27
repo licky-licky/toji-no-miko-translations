@@ -46,7 +46,7 @@ Toji Notes: -The Heroes of Twenty Years Ago-
 **Kanami:** Hm...? It's just staring at my mom's notes...  
 **Ellen:** Maybe it's interested in what your mama wrote down too?  
 **Mihono:** Kanami's mom is even popular with aradama\! She's amazing\!  
-**Kanami:** Ahaha, she's not that amazing\~.  
+**Kanami:** Ahaha, she's not that amazing\~\.  
 **Kaoru:** This isn't really the time to be screwing around.  
 **Aradama:** Keeeeee\!  
 **Mai:** Oh, it ran off with the notes...  
@@ -103,7 +103,7 @@ After school that day.
 
 ## 3: The Fujiwara Minato of 20 Years Ago
 **Mihono:** There, another volume\! I wonder who wrote this one?  
-**Kanami:** Fujiwara Minato... That's my mom\! We finally got it back\~. Okay, let's see what she wrote already\!  
+**Kanami:** Fujiwara Minato... That's my mom\! We finally got it back\~\. Okay, let's see what she wrote already\!  
 **Minato:** Ahh\~, today's practice wore me out. Wait? Where's Kagari?  
 **Yukari:** She's involved with a school event, so we'll be separated today. By the way, I never thanked you for the other day. I knew I could count on you to get Kagari to open up.  
 **Minato:** Nah, I still have a long long way to go. Actually, I need a favor from you, Yukari\! Could you help me out a little, so I can get closer to Kagari?  
@@ -185,8 +185,8 @@ The next morning...
 **Minato:** Uwah\! You went with Yukina\!\? And you sound just like her too\! Ahahaha\! Way to go, Kagari\!  
 **Minato:** Man, I didn't think you'd be so good at this.  
 **Kagari:** I've seen it so many mornings that I'm sick of it, after all.  
-**Train Announcer:** Last stop\~, this is the last stop\~.  
-**Minato:** Ahahahaha, I didn't even notice we were here, I was laughing too hard. You really are funny, Kagari\~. I'm glad we're friends\~\!  
+**Train Announcer:** Last stop\~, this is the last stop\~\.  
+**Minato:** Ahahahaha, I didn't even notice we were here, I was laughing too hard. You really are funny, Kagari\~\. I'm glad we're friends\~\!  
 **Kagari:** N-Nobody's ever said that to me before...  
 
 ## 5: Finished Reading the "Toji Notes"...
@@ -221,7 +221,7 @@ The next morning...
 **Kaoru:** Wait, hold up\! Nobody ever said we were going to have to write anything\! Sigh, this annoying work just keeps piling up...  
 **Ellen:** Kaoru, that's not all the work we have to do. We were chosen to make up the editorial committee for everyone's notes. That's why we got this job sorting the books.  
 **Mihono:** We were\!\?  
-**Kanami:** Being the editorial committee means we get to read all the notes before anyone else, right? That sounds like fun\~.  
+**Kanami:** Being the editorial committee means we get to read all the notes before anyone else, right? That sounds like fun\~\.  
 **Mai:** That's a big responsibility. Let's work hard at it, okay?  
 **Kaoru:** Sorting books... Writing notes... Editorial committee... Ahh... I'm feeling lightheaded...  
 **Mihono:** Wah, the stack of books fell down-\! Kaoru-san, are you okay\!\?  

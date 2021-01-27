@@ -123,7 +123,7 @@ Several days after realizing this world was a dream...
 **Maki:** We only came out here to find you after you went running off. We weren't planning on doing anything else.  
 **Yume:** Ehh... All these people came just to look for me? Why...? Are you sure you weren't doing something else?  
 **Erika:** We were worried after you vanished all of a sudden. Especially Maki here. And, what did you come here for, Yume?  
-**Yume:** Heh hehh\~. That's because-, this place is selling a limited edition Buddha version Ichigo Daifuku Neko purse\!  
+**Yume:** Heh hehh\~\. That's because-, this place is selling a limited edition Buddha version Ichigo Daifuku Neko purse\!  
 **Yume:** I was suprised they were selling it in the dream\! They haven't actually sold these for real yet.  
 **Yomi:** The truth is stranger than fiction... Would that mean that Tsubakuro-san's power of imagination overcame the dream?  
 **Angelina:** You really do love that mascot character, don't you, Yume. Is it a daifuku, or a Buddha... I can't even tell.  
@@ -155,8 +155,8 @@ Several days after realizing this world was a dream...
 **Kiyoka:** Right. I didn't think it would be so elaborately made.  
 **Yui:** I'm going to take some pictures of the ice sculpture with Mayumi-san and everyone, to commemorate\!  
 **Kiyoka:** You're just using the ice sculpture as an excuse to take their pictures, aren't you...?  
-**Yume:** \~ \~.  
-**Yui:** \~ \~.  
+**Yume:** \~ \~\.  
+**Yui:** \~ \~\.  
 **Erika:** They seem really happy with it.  
 **Mayumi:** It was worth going to the effort.  
 **Yui:** Thank you as well, Mitsui-san.  

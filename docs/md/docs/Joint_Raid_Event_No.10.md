@@ -15,7 +15,7 @@ Joint Raid Event #10
 **Hirona:** ? Is everyone doing something now?  
 **Mihono:** Ah-- Nah, you don't have to worry about it, Nitta-san\! Uhh, yeah...\! Cause, you just got here yesterday\!  
 **Hirona:** But... I am a member of the investigation team too...  
-**Mihono:** (Wh-What should I say... We want to keep it a secret until the last minute, cause it's her welcoming party and all, so there's no way I can let her help them set it up\!)  
+**Mihono:** (Wh-What should I say... We want to keep it a secret until the last minute, cause it's her welcoming party and all, so there's no way I can let her help them set it up\!\)  
 **Mihono:** It's like, uh... We don't have a mission?  
 **Mirja:** No, just now, we've received an urgent mission request.  
 **Mihono:** Eh\!\?  
@@ -77,7 +77,7 @@ Joint Raid Event #10
 **Hirona:** Yes... They are. I do like sweets a lot. Moving your body and using your head requires sugar... so it's very cost efficient.  
 **Kofuki:** That's just normal. It'd be weirder if you were like somebody who doesn't care what stuff tastes like as long as it's got nutrition.  
 **Hirona:** ...? Do you know someone like that? You can't not eat food, so... I think it's better for it to taste good.  
-**Mihono:** That's for sure. This cake's yummy, but I wish we could've eaten Chii-nee's cooking too... She's a really good cook\~.  
+**Mihono:** That's for sure. This cake's yummy, but I wish we could've eaten Chii-nee's cooking too... She's a really good cook\~\.  
 **Hirona:** Is she-? My senpai is great at cooking too-.  
 **Hirona:** Of course, I would like to try Setouchi-san's cooking too... someday.  
 **Chie:** It doesn't have to be someday; we can do it soon. Do you cook, Nitta-san?  

@@ -118,8 +118,8 @@ At which point, they were made aware of that toji's identity--
 **Suzuka:** Yume capabilities surpass even Maki-san. In the fight against Tagitsuhime, Yume's strength will be critical.  
 **Maki:** I'm begging you\! So long as there's a chance, we have to take it\!  
 **Suzuka:** Please, consider it\!  
-**Chie:** (...What am I supposed to do? Was this why President Souraku left Namu Yakushi Kagemitsu's utsushi under my supervision, so I'd be forced to make a choice like this...?)  
+**Chie:** (...What am I supposed to do? Was this why President Souraku left Namu Yakushi Kagemitsu's utsushi under my supervision, so I'd be forced to make a choice like this...?\)  
 **Mirja:** (...Something's not right about this proposal. This operation revolves around the usage of Namu Yakushi Kagemitsu's utsushi...)  
-**Mirja:** (And yet, why is Origami Akane the one proposing it, and not President Souraku, who formed the investigation team and entrusted Setouchi Chie with the utsushi of Namu Yakushi Kagemitsu...?)  
-**Mirja:** (What's happening to Ayanokouji Martial Arts School, to President Souraku...?)  
+**Mirja:** (And yet, why is Origami Akane the one proposing it, and not President Souraku, who formed the investigation team and entrusted Setouchi Chie with the utsushi of Namu Yakushi Kagemitsu...?\)  
+**Mirja:** (What's happening to Ayanokouji Martial Arts School, to President Souraku...?\)  
 > :ToCPrevNext

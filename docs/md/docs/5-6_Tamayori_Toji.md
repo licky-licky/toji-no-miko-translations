@@ -58,7 +58,7 @@ Several days later--
 **Mihono:** ...Be careful, okay?  
 **Yui:** Sure\!  
 **Mihono:** (Everybody's working so hard... and I'm the only one not doing anything.)  
-**Mihono:** (If I were there, I could fight with Kiyoka and Yui, and back up Fukki, and then Chii-nee and Mirja-san...\!)  
+**Mihono:** (If I were there, I could fight with Kiyoka and Yui, and back up Fukki, and then Chii-nee and Mirja-san...\!\)  
 **Mihono:** Ughh\!\?  
 **Tsugumi:** Asakura-san\!\?  
 **Tsugumi:** Please try to calm down\! If you lose control here...\!  
@@ -70,7 +70,7 @@ Several days later--
 **Tsugumi:** Let's send an aid request for the investigation team, just to be safe. Please help me with this, Asakura-san.  
 **Mihono:** ...Okay.  
 **Mihono:** (Just thinking about how I wanted to fight with everybody was enough to almost make me lose it...)  
-**Mihono:** (What's... going to happen with me? Can I really keep this up...?)  
+**Mihono:** (What's... going to happen with me? Can I really keep this up...?\)  
 
 ## 3: Tamayori Toji (1)
 **Akira:** Huh? The investigation team put out an aid request?  
@@ -210,12 +210,12 @@ Several days later--
 **Akira:** I can't go complaining I'm tired or anything. Gotta go out to as many places as I can and show as many toji as possible how strong tamayori toji can be.  
 **Akira:** This'll all lead back into the future of toji.  
 **Hitakami Toji:** Right\!  
-**Akira:** (Though... This tiredness is seriously no joke. What if this's one the side effects of being a tamayori toji...?)  
+**Akira:** (Though... This tiredness is seriously no joke. What if this's one the side effects of being a tamayori toji...?\)  
 **Akira:** ............\!  
-**Akira:** (Don't go getting cold feet, Inago Akira\! You know you haven't got the compatibility Mihono does\! No shit something'd happen\! This isn't anything you weren't prepared for\!)  
+**Akira:** (Don't go getting cold feet, Inago Akira\! You know you haven't got the compatibility Mihono does\! No shit something'd happen\! This isn't anything you weren't prepared for\!\)  
 **Akira:** (Just a little more... Just hold out a little longer\! Makocchan's on TV, doing what she can.)  
-**Akira:** (And cause of that, we've got offers lining up from people wanting to sponsor us\!)  
-**Akira:** (But that's all based on us being success cases\! So long as Yuuki and me show results, it should go fine\!)  
+**Akira:** (And cause of that, we've got offers lining up from people wanting to sponsor us\!\)  
+**Akira:** (But that's all based on us being success cases\! So long as Yuuki and me show results, it should go fine\!\)  
 **Tamayori Toji:** Ugh, urgh...  
 **Akira:** --\!  
 **Hitakami Toji:** If I remove her utsushi, she'll calm down. Please stand back, Inago-san.  

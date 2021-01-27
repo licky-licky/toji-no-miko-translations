@@ -159,7 +159,7 @@ Yume. You're in my way.
 **Mirja:** Our destination is the Kita ward of Tokyo, to the Akabane district itself. To meet with this informant, our investigation team has been assigned as official representatives of the Sword Administration.  
 **Kiyoka:** It finally feels like we're doing an investigation, doesn't it? We won't have to fight any aradama or elite guards this time.  
 **Mihono:** What a relief.  
-**Kiyoka:** Yes\~.  
+**Kiyoka:** Yes\~\.  
 **Kiyoka:** Though, why would they suddenly decide to expose... I mean, why would they feel like contacting us now?  
 **Mirja:** That's true. We were curious about that as well. From what Setouchi Chie-san was able to learn over the phone, it's very likely...  
 **Mirja:** To be in response to the creation of this investigation team.  

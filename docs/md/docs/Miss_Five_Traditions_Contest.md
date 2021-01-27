@@ -51,7 +51,7 @@ After Yukari announced the details of the "Miss Five Traditions" Selection Tourn
 **Akira:** We got picked out of the whole Five Traditions. And that means we've gotta put in a good showing for the rest of everybody else.  
 **Kaoru:** S-Sure. Didn't expect you to be so serious about this.  
 **Akira:** (The higher ups didn't put their foot down for this tournament... Which should mean it's fine if I go.)  
-**Akira:** (So, why not go wild with it\!)  
+**Akira:** (So, why not go wild with it\!\)  
 And thus, each harboring their own respective feelings, the toji came to compete for the position of "Miss Five Traditions".
 
   
@@ -112,7 +112,7 @@ At that moment.
 **Chie:** It was very like her though... Ah, Kiyoka-chan's performance is next.  
 **Kiyoka:** [inhale, exhale]... [inhale, exhale]...  
 **Kiyoka:** (Thanks to Kofuki-san, I feel like I can be a little braver...)  
-**Kiyoka:** (If my friends are here with me, then I know, even I can do it...\!)  
+**Kiyoka:** (If my friends are here with me, then I know, even I can do it...\!\)  
 **Kiyoka:** Here I go...\!  
 **Mihono:** Ooh-... Way to go, Kiyoka\!  
 **Chie:** Mm, it was a nice performance that expressed all the effort she's put in.  
@@ -207,7 +207,7 @@ At that moment.
 **Maki:** Even still, I have many allies with me here. There have been harsh battles I was able to overcome only because of the friends I had at my side.  
 **Maki:** And, as an elite guard, I've come to understand how admirable it is to protect you all.  
 **Maki:** I believe a great future is waiting ahead for us... And I intend to keep walking the path toward it. That's all. Thank you for listening.  
-**Mihono:** Ohh\~... Shidou-san did as good as you'd expect\! She's got the attitude of a first seat-\!  
+**Mihono:** Ohh\~\... Shidou-san did as good as you'd expect\! She's got the attitude of a first seat-\!  
 **Yui:** That was too beautiful\! I knew it; I love Maki-san too\! Okay, now it's my turn\!  
 **Mihono:** Good luck, Yui\!  
 **Yui:** I'm Yamashiro Yui, a second year in the middle school division at Ayanokouji Martial Arts School.  
@@ -288,8 +288,8 @@ After all the judging had been concluded, the toji each waited for the results t
 **Kofuki:** Yeah right. It's not like I even planned on becoming "Miss Five Traditions" in the first place.  
 **Kiyoka:** What about if you were chosen, Tsugumi-san...?  
 **Tsugumi:** It would cut into the time I have for research, so I would want to turn it down.  
-**Kiyoka:** (That's how they both are... But, if I were chosen, what would I do...?)  
-**Kiyoka:** (It's no use\! After all, I know someone like me could never become "Miss Five Traditions"... But, still\~...\!)  
+**Kiyoka:** (That's how they both are... But, if I were chosen, what would I do...?\)  
+**Kiyoka:** (It's no use\! After all, I know someone like me could never become "Miss Five Traditions"... But, still\~\...\!\)  
 **Yui:** Who do you think it'll be-; "Miss Five Traditions\!\"  
 **Yui:** They'd probably get a bunch of cute outfits and things for her, right?  
 **Mirja:** I doubt those would be anything like the outfits you're imagining, Yamashiro Yui.  
@@ -363,7 +363,7 @@ You will decide who becomes Miss Five Traditions\! By all means, please vote for
 **Mihono:** Okay-, I'll be out in a minute.  
 **Kiyoka:** Alright\!  
 **Mihono:** (It's just me and Itomi-san left, huh.)  
-**Mihono:** (I just need to put this ear piercing in, and... There\! It's all set\!)  
+**Mihono:** (I just need to put this ear piercing in, and... There\! It's all set\!\)  
 **Mihono:** Okay, Itomi-san, I'm going to get going too now.  
 **Sayaka:** ...  
 **Mihono:** Itomi-san? What's wrong?  

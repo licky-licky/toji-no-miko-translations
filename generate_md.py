@@ -130,7 +130,7 @@ def generate_toc():
     part1 = part1[-1:] + part1[:-1]
     for chp in part1:
        fn = chp.replace('.md', '')
-       title = fn.replace('_', ' ')
+       title = fn.replace('_', ' ').replace('~', '\~')
        toc += f'> > [{title}](/docs/{fn})\n'
     
     other_parts = list(set(other_parts))
@@ -146,20 +146,20 @@ def generate_toc():
         for chp in part_chapters:
             if (chp[3] != '.' and chp[4] != '.') or ((chp[3] == '.' or chp[4] == '.') and not any(x[2] == chp[2] and x[3] != chp[3] for x in part_chapters)):
                 fn = chp.replace('.md', '')
-                title = fn.replace('_', ' ')
+                title = fn.replace('_', ' ').replace('~', '\~')
                 toc += f'> > [{title}](/docs/{fn})\n'
     
     toc += '\n> :Collapse label=Episodes\n> \n'
     episodes_in_paste = get_episodes()
     for ep in episodes_in_paste + list(set(episodes) - set(episodes_in_paste)):
         fn = ep.replace('.md', '')
-        title = fn.replace('_', ' ')
+        title = fn.replace('_', ' ').replace('~', '\~')
         toc += f'> [{title}](/docs/{fn})\n'
 
     toc += '\n> :Collapse label=Events\n> \n'
     for o in get_events():
         fn = o.replace('.md', '')
-        title = fn.replace('_', ' ')
+        title = fn.replace('_', ' ').replace('~', '\~')
         toc += f'> [{title}](/docs/{fn})\n'
 
     with open('./docs/md/_toc.md', 'w') as toc_file:
@@ -167,7 +167,7 @@ def generate_toc():
 
 
 def generate_file(title, data):
-    mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_').replace('#','No.') + '.md', title=title)
+    mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_').replace('#','No.') + '.md', title=title.replace('~', '\~'))
     for line in data.splitlines():
         line = line.replace('~', '\~')
         line = line.replace('!', '\!')
@@ -175,17 +175,26 @@ def generate_file(title, data):
         line = line.replace('!"', '!\\"')
         line = line.replace('***', '\*\*\*')
         line = line.replace('!?)', '\!\?\)')
+        line = line.replace('!)', '!\)')
+        line = line.replace('!?)', '\!\?\)')
+        line = line.replace('~.', '~\.')
+        line = line.replace('?)', '?\)')
+        line = line.replace('~)', '~\)')
+
         if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line and ']:' in line)) or (line[0].isnumeric() and (':' in line or '-' in line))):
             mdFile.write(Header.atx_level_2(line))
         elif ':' in line and 'http' not in line:
             pos = line.find(':')
-            if pos <= 110:
-                bold_name = TextUtils.bold(line[0:pos+1])
-                mdFile.write(bold_name + line[pos+1:])
-                mdFile.new_line()
-            else:
-                mdFile.write(line)
-                mdFile.new_line()
+            try:
+                if pos <= 110 and len(line) >= pos+2 and not line[pos+1].isnumeric():
+                    bold_name = TextUtils.bold(line[0:pos+1])
+                    mdFile.write(bold_name + line[pos+1:])
+                    mdFile.new_line()
+                else:
+                    mdFile.write(line)
+                    mdFile.new_line()
+            except:
+                print(line)
         elif 'https://www.youtube' in line or 'https://youtu.be/' in line:
             if 'youtube' in line:
                 id = line.replace('https://www.youtube.com/watch?v=', '')

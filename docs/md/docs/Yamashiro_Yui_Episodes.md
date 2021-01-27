@@ -29,7 +29,7 @@ Yamashiro Yui Episodes
 **Hiyori:** ...Third layer jin'i\!  
 **Yui:** Hey\!\? Hiyori-san-\!\? Please don't leave me behind\!\! Is that how badly you don't want to talk to me\!\?  
 **Kanami:** Phew... Looks like that's mission complete\!  
-**Yui:** Hiyori-saaaan\~, I was so lonely\~. Why did you run away and leave me all by myself on the way here\~?  
+**Yui:** Hiyori-saaaan\~, I was so lonely\~\. Why did you run away and leave me all by myself on the way here\~?  
 **Hiyori:** ...Oh, you were here too?  
 **Yui:** You didn't even recognize me\!\?  
 **Kanami:** Hey, Hiyori-chan\! Even if you're joking, you can't be that rude\!  
@@ -108,7 +108,7 @@ Yamashiro Yui Episodes
 **Mai:** I've thought this for a while, but that handkerchief with the little chicks on it you always have on your arm is so cute, Yui-chan.  
 **Yui:** Thanks\! Actually, my little sister, Miku, made it for me\!  
 **Mai:** Wow, that's so nice\! The stitching is so well done...  
-**Yui:** Ehehehe. Miku's been in the hospital ever since she was little, but she's really good at sewing\~.  
+**Yui:** Ehehehe. Miku's been in the hospital ever since she was little, but she's really good at sewing\~\.  
 **Yui:** She even left a message on it, "Onee-chan, thank you for everything"\!  
 **Mai:** You love your sister a lot, don't you, Yui-chan. Whenever you talk about her, your eyes light up.  
 **Yui:** Of course\! She's my lovable little sister.  
@@ -283,7 +283,7 @@ Yamashiro Yui Episodes
 **Tsugumi:** It does sound like fun, doesn't it-.  
 **Yui:** Of course it does\! I was getting so excited about it last night that I could barely sleep.  
 **Yui:** From the sound of things, Kanami-chan and Mai-chan got there ahead of us, so we should race on over there too\!  
-**Yui:** I just can't calm down anymore\~. The pool is seriously like visiting heaven\!  
+**Yui:** I just can't calm down anymore\~\. The pool is seriously like visiting heaven\!  
 
 ## [Swimsuit 19: End]: This is What I Wanted to Do\!
 **Yui:** We've arrived at the floating island attraction\! I will now explain the rules\!  
@@ -307,15 +307,15 @@ Yamashiro Yui Episodes
 **Yui:** Watch out, Tsugumi-san\! Come and lean your body into me\!  
 **Tsugumi:** Thanks for supporting me, Yamashiro-san.  
 **Yui:** I should be the one thanking you hereee.  
-**Yui:** (The perfectly legitimate reason I invented to press up against girls on the floating islands is a huge success\!)  
-**Yui:** (Ahh, this is bad. I'm enjoying this so much it hurts\! I wish time could stop here forever\!)  
+**Yui:** (The perfectly legitimate reason I invented to press up against girls on the floating islands is a huge success\!\)  
+**Yui:** (Ahh, this is bad. I'm enjoying this so much it hurts\! I wish time could stop here forever\!\)  
 **Yui:** Uhehe, uheheheheh\!  
 **Tsugumi:** What's the matter, Yamashiro-san?  
 **Yui:** Nothing at all, just that the wonderfulness of the pool is getting to mee.  
 **Tsugumi:** True, I'm having a better time than I thought I would.  
 **Tsugumi:** ...Yamashiro-san, thank you for asking me to come with you.  
 **Yui:** Tsugumi-san smiled...  
-**Yui:** (Wait? The mood here... If I confessed to her right now, doesn't it seem like she'd accept?)  
+**Yui:** (Wait? The mood here... If I confessed to her right now, doesn't it seem like she'd accept?\)  
 **Yui:** Tsugumi-san, I-- PHWAGH\!\?  
 **Tsugumi:** The water hoses have started up.  
 **Yui:** Did you really have to give me a cold shower nowwwwww\!\?  
@@ -339,7 +339,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Itsuki:** Okay, I'll be in your care.  
 **Yui:** -\!\!  
 **Yui:** (Wh-What is this, this feeling...)  
-**Yui:** (This is different from what I feel with everyone in the investigation team... Could this be, my motherly instincts\!\?)  
+**Yui:** (This is different from what I feel with everyone in the investigation team... Could this be, my motherly instincts\!\?\)  
 **Itsuki:** Yui-san?  
 **Yui:** It's nothing at all, nothing at all.  
 **Yui:** [inhale]... [exhale]... Okay\! While we're moving around together, you can feel free to think of me as your big sister\!  
@@ -357,7 +357,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Yui:** Fuhehe, you're so cuteee...  
 **Itsuki:** Yui-san?  
 **Yui:** [drool]... Oops.  
-**Yui:** (Control yourself\! I've gotta make big sister moves in front of Itsuki-chan\!)  
+**Yui:** (Control yourself\! I've gotta make big sister moves in front of Itsuki-chan\!\)  
 **Yui:** Aradama\!\? Itsuki-chan, get ready for battle\!  
 **Itsuki:** Right\!  
 
@@ -495,7 +495,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 ## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  
 **Mihono:** I'm all for it\~\! There's still a lot more shops I haven't been to yet. Do you two wanna come with me?  
-**Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~.  
+**Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~\.  
 **Yui:** Date\~\! Date\~\! Chinatown date\~\!  
 **Mihono:** You're sure in a good mood, Yui.  
 **Yui:** You know I am\! Taking a beauty like you on a date through Chinatown; that's the kind of classic date course I've been dreaming of\!  
@@ -519,7 +519,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Mihono:** Ah, look, look\! In that general store next door\! They've got cute panda things you can wear\!  
 **Yui:** Ah, wait, Mihono-chaaan\!  
 **Mihono:** Tadahhh\! Check it out\! See this panda hat I got\! Does it look good?  
-**Yui:** Mmm\~\! It's good; so good\~\! Next up, let's try this Chinese hat\~\! Uwah\~\! This one looks good too\~.  
+**Yui:** Mmm\~\! It's good; so good\~\! Next up, let's try this Chinese hat\~\! Uwah\~\! This one looks good too\~\.  
 **Tsugumi:** ...  
 **Tsugumi:** Um, would it be alright if we stopped for a moment?  
 **Yui:** Hmmm? What's the matter, Tsugumi-san? Hahahn\~, now are you feeling jealous of me with Mihono-chan...  
@@ -581,7 +581,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 ## [Pirate - Yui: Start]: After the Mission, We're Pirates\!
 **Aradama:** GGGII...\!  
 **Ellen:** --YAAH\!  
-**Yui:** Great work as always, Ellen-san\! You look so cool swinging your okatana around; I can't keep my eyes off you\~.  
+**Yui:** Great work as always, Ellen-san\! You look so cool swinging your okatana around; I can't keep my eyes off you\~\.  
 **Ellen:** You're not going to make anything happen like that, Yuiyui. But thanks all the same.  
 **Yui:** Cool older girls are a treasure of their own\!  
 **Kiyoka:** Yui-chan\!\? There's an aradama coming after you\!  
@@ -599,7 +599,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Yui:** You've got it all wrong. I'll be there at all times to protect my lovable investigation team from any perverts out there. It's a great idea\!  
 **Ellen:** You sure do come up with some unique ideas, Yuiyui.  
 **Yui:** I knew you'd understand\! I love you, Ellen-san\!  
-**Ellen:** Yui\~. I love you too.  
+**Ellen:** Yui\~\. I love you too.  
 **Kiyoka:** E-Ellen-san... Please, for our sakes, don't encourage Yui-chan too much...  
 **Ellen:** It would be a good idea though, if you didn't have to worry about Yuiyui's own health and safety. But there wouldn't be any time for Yuiyui herself to rest.  
 **Yui:** Keeping an eye on good looking girls would fill me up with power, so I think it has a chance to work\!  

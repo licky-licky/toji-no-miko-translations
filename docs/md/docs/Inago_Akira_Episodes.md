@@ -15,18 +15,18 @@ Inago Akira Episodes
 **Toji A:** She went away...  
 **Toji B:** You think it'd be a good idea if we told Mashiko-san about this...?  
 **Toji A:** Yeah, just to be safe.  
-**Akira:** (He's too damn cute\!)  
+**Akira:** (He's too damn cute\!\)  
 **Akira:** (Ahh... I want to pet him so bad...)  
 **Akira:** (But, y'know... With how I look and all, there's no way I could rub him all over and be like "Aww, there there\!\"...)  
 **Akira:** Sigh, not when somebody's watching...  
 **Akira:** (Nene didn't seem freaked out, so if those two weren't there, I could've pet him at least...)  
 **Akira:** ...When am I even gonna get another chance to pet Nene...  
 **Nene:** Zzz...  
-**Akira:** (Wh-What's goin' on here-\!\?)  
+**Akira:** (Wh-What's goin' on here-\!\?\)  
 **Akira:** I-Is he asleep...?  
 **Nene:** Nene...  
 **Akira:** I-Is anybody around to see...? D-Doesn't look like it...  
-**Akira:** (What the hell; what's with this\! This is my big chance\!)  
+**Akira:** (What the hell; what's with this\! This is my big chance\!\)  
 **Nene:** Ne...  
 **Akira:** I-I could... Pet him right now...  
 **Nene:** ...  
@@ -64,7 +64,7 @@ Inago Akira Episodes
 **Fukuda Sawano:** Oh... Inago-san...?  
 **Sawano:** (Did she just get back? She looks angry about something...)  
 **Akira:** Fuck\! Might as well just go to bed\!  
-**Sawano:** (She didn't come to school again today... What has she been up to?)  
+**Sawano:** (She didn't come to school again today... What has she been up to?\)  
 --First thing in the morning.
 
   
@@ -160,7 +160,7 @@ Inago Akira Episodes
 ## 5: Hang in There, Mihono
 **Nagae Futaba:** (For today's aradama suppression mission...)  
 **Akira:** ...  
-**Futaba:** (AHHH\!\? For some reason, the girl I'm paired up with looks super scaryyyyyy\!\?)  
+**Futaba:** (AHHH\!\? For some reason, the girl I'm paired up with looks super scaryyyyyy\!\?\)  
 **Futaba:** Oi, you\!  
 **Futaba:** Y-Yes, what is it\!\?  
 **Akira:** There's aradama\!  
@@ -171,7 +171,7 @@ Inago Akira Episodes
 **Futaba:** R-Right\!  
 **Akira:** ORAORAORAORA\!  
 **Futaba:** Ehh\!\?  
-**Futaba:** (Sh-She's so strong\!\? Nobody told me there was a senpai this strong here\!\?)  
+**Futaba:** (Sh-She's so strong\!\? Nobody told me there was a senpai this strong here\!\?\)  
 **Akira:** Well, that's all there is to it.  
 **Futaba:** You ended up beating them all on your own...  
 **Akira:** Hey.  
@@ -188,8 +188,8 @@ Inago Akira Episodes
 **Futaba:** Right\! ...Actually, Inago-senpai, why were you asking about Mihono?  
 **Akira:** I'm just, a little interested in her.  
 **Akira:** (We're going to need the power she's got... So that our wish can happen...)  
-**Futaba:** (EHHHHHHHHHHHHHH\!\? Sh-She's interested? Interested how\!\?)  
-**Futaba:** (Don't tell me... She got on this delinquent's bad side\!\?)  
+**Futaba:** (EHHHHHHHHHHHHHH\!\? Sh-She's interested? Interested how\!\?\)  
+**Futaba:** (Don't tell me... She got on this delinquent's bad side\!\?\)  
 **Futaba:** H-Hang in there, Mihono\!  
 **Akira:** Huh?  
 
@@ -416,6 +416,6 @@ https://streamable.com/cq5bjh
 **Akira:** You don't gotta apologize.  
 **Suu:** I'm sorry... Ah, ah, I'm sorry...\! Then, I'll begin now, if that's okay...\!  
 **Akira:** Sure... Whenever you're ready. Just take it easy.  
-**Akira:** (...Is it my highlights that're no good? The jacket? What's the problem... How I talk?)  
+**Akira:** (...Is it my highlights that're no good? The jacket? What's the problem... How I talk?\)  
 **Akira:** (But I don't wanna change any of it...)  
 > :ToCPrevNext

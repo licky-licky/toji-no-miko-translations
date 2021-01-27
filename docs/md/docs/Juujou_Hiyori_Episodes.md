@@ -28,9 +28,9 @@ Juujou Hiyori Episodes
 **Hiyori:** ...By the way, Kanami. Why are you aiming your phone at me?  
 **Kanami:** Welll, you just looked so cute eating ice cream that I wanted to take a video of it.  
 **Hiyori:** --Huh\!\?  
-**Kanami:** When you smile like that, it looks like your face is melting. And now, that smile's all mine\~.  
+**Kanami:** When you smile like that, it looks like your face is melting. And now, that smile's all mine\~\.  
 **Hiyori:** ---\!\? Stop messing around\!\! Delete that right now\!\!  
-**Kanami:** Ehehe, no way\~. I bet if I uploaded it to a video site, I'd get tons of likes too\!  
+**Kanami:** Ehehe, no way\~\. I bet if I uploaded it to a video site, I'd get tons of likes too\!  
 **Hiyori:** Don't do that\!\!  
 **Kanami:** For the title, how about... "Black Haired Beauty Caught on Hidden Camera Eating Ice Cream"?  
 **Hiyori:** ...Fine. If that's how you're going to be, I'll eat all of your ice cream\!  
@@ -43,12 +43,12 @@ Juujou Hiyori Episodes
 **Kiyoka:** (If I remember right, that's the third year, Juujou-senpai...? She always seems so hard to approach... I wonder what she's reading...)  
 **Kiyoka:** (Ahh\! That's my book\! Why is Juujou-senpai reading it though... Wh-What should I do...)  
 **Kiyoka:** (Actually, I want to know what she thinks of it... But it's no ordinary love story, so I'd be embarrassed if she kept reading...)  
-**Kiyoka:** (Two teenage girls share such a lovely bond, but they have to fight against the destiny their parents left them, and things start heating up... I really recommend it...\!)  
+**Kiyoka:** (Two teenage girls share such a lovely bond, but they have to fight against the destiny their parents left them, and things start heating up... I really recommend it...\!\)  
 **Hiyori:** ......  
 **Kiyoka:** (S-So what does she think of it... I love that book so much, but... Ahh, if only I had a little more confidence...)  
-**Kiyoka:** (? Huh...?)  
+**Kiyoka:** (? Huh...?\)  
 **Hiyori:** ......sniffle...  
-**Kiyoka:** (S-She's crying...\! Juujou-senpai is crying...\!\?)  
+**Kiyoka:** (S-She's crying...\! Juujou-senpai is crying...\!\?\)  
 **Hiyori:** \! Who's there?  
 **Kiyoka:** Hya\! S-S-S-S-Sorry\! I didn't mean to spy on you...\!  
 **Kiyoka:** I just came to get back the book I left behind...\!  
@@ -146,7 +146,7 @@ Juujou Hiyori Episodes
   
 **Hiyori:** ......  
 **Mai:** ......  
-**Kanami:** Hmhmm\~\~\~\~.  
+**Kanami:** Hmhmm\~\~\~\~\.  
 **Hiyori:** ...What? We aren't in the same grade. Watching me isn't going to help you on your test.  
 **Kanami:** No, it's just, your notes look so pretty, Hiyori-chan. I already knew about Mai-chan, but I didn't think you were so good at studying too...  
 **Kanami:** You're both such strong toji, so don't you think it's unfair you get good grades too?  
@@ -186,7 +186,7 @@ Juujou Hiyori Episodes
   
 **Hiyori:** Hey, Mai\! Isn't she your responsibility\!\? Don't laugh like it's my problem; help me out with her\!  
 **Mai:** Hmmm, I don't know about that? Lately, it feels more and more like you're the one on Kanami-chan duty...  
-**Mai:** And I'm busy with my own studying too. Take good care of Kanami-chan for me, Hiyori-chan\~.  
+**Mai:** And I'm busy with my own studying too. Take good care of Kanami-chan for me, Hiyori-chan\~\.  
 **Hiyori:** M-Mai...? That smile of yours looks strangely forced... Are you mad about something...?  
 **Mai:** I'm not mad. Maybe just a little jealous.  
 **Hiyori:** Huh...\!\?  
@@ -302,13 +302,13 @@ Juujou Hiyori Episodes
 **Hiyori:** (It was after I met Kanami and the others that, before I knew it, it had become unusual for me to be alone.)  
 **Hiyori:** (So is that the reason? Why, when I'm by myself, I started feeling my loneliness.)  
 **Hiyori:** (After feeling that, I wanted to ask myself.)  
-**Hiyori:** (Have I gotten weaker than I used to be...?)  
+**Hiyori:** (Have I gotten weaker than I used to be...?\)  
 **Aradama:** KWAAAAAAA-\!\!\!  
 **Hiyori:** Urgh...\!  
 **Hiyori:** Pant, pant... Damnit... Is this how it ends up as soon as I want some time to think on my own...  
 **Hiyori:** Still... I didn't expect this swarm of aradama to show up here...  
 **Aradama:** GRRRRUUU...\!  
-**Hiyori:** (Here they come...\!)  
+**Hiyori:** (Here they come...\!\)  
 **???:** No you don't-\! YAAAA\!  
 **Aradama:** GAAA,aaaa...  
 **Kanami:** Are you okay, Hiyori-chan\!\?  
@@ -325,7 +325,7 @@ Juujou Hiyori Episodes
 **Ellen:** We should go too, Kaoru\!  
 **Kaoru:** Not like we have a say in it.  
 **Mai:** Alright, you come with me, Hiyori-chan.  
-**Hiyori:** (But, I can't just leave everyone else behind...\!)  
+**Hiyori:** (But, I can't just leave everyone else behind...\!\)  
 **Hiyori:** Mai, I'm going to stand and fight too.  
 **Mai:** Eh? But, you're hurt...?  
 **Hiyori:** This is nothing. Besides, we can't leave Kanami to fight that boss aradama by herself.  
@@ -337,7 +337,7 @@ Juujou Hiyori Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Vm_3KVXqxvE"></iframe>](:Iframe)  
 
 ## [Yuusha 2: Hiyori: Start]: Toji and Heroes-- The Stoic Pair
-**Sonoko:** We'll see you off from here\~.  
+**Sonoko:** We'll see you off from here\~\.  
 **Kanami:** Hiyori-chan, I know your aradama mission with Karin-chan will be a bit of a long trip, but do what you can.  
 **Hiyori:** Sure, you don't have to worry.  
 **Kanami:** I wanted to come along, to see more of Karin-chan's dual wielding, but it was too much when I have a mission of my own. That's a little disappointing.  
@@ -345,7 +345,7 @@ Juujou Hiyori Episodes
 **Kanami:** I mean, she can dual wield, can't she? Yukari-sama and Shichinosato-san can do it too, but it's not something you get to see all that often, is it?  
 **Sonoko:** Nibosshi, you get along with her without fighting, okay-? Also, here's 500 yen for snacks.  
 **Karin:** Am I going on a field trip\!\? What if they think us Heroes can't take things seriously\!  
-**Sonoko:** For your snacks-- Don't you think it would be best to re-energize with some sugar when you get a break? And also, Niboshi don't count as snacks, so don't worry about that\~.  
+**Sonoko:** For your snacks-- Don't you think it would be best to re-energize with some sugar when you get a break? And also, Niboshi don't count as snacks, so don't worry about that\~\.  
 **Karin:** Of course they don't. Niboshi form a complete diet.  
 **Hiyori:** (...Niboshi? Niboshi, huh.)  
 **Hiyori:** Anyway, we should leave.  
@@ -353,7 +353,7 @@ Juujou Hiyori Episodes
 **Kanami/Sonoko:** Have a safe trip-\!  
 **Hiyori:** ......  
 **Karin:** .....  
-**Hiyori:** (At times like these, the sensible thing to do would be to find something to talk about, wouldn't it?)  
+**Hiyori:** (At times like these, the sensible thing to do would be to find something to talk about, wouldn't it?\)  
 **Hiyori:** (In that case... Alright.)  
 **Hiyori:** ...Hey.  
 **Karin:** ...Hey.  
@@ -386,7 +386,7 @@ Juujou Hiyori Episodes
 **Hiyori:** Good idea. [gulp gulp]...  
 **Karin:** I'll take some supplements too...  
 **Hiyori:** \!\?  
-**Hiyori:** (Just how many does she have\!\?)  
+**Hiyori:** (Just how many does she have\!\?\)  
 **Hiyori:** ...Hey, why are you taking so many supplements?  
 **Karin:** It's a part of keeping my body in healthy condition, of course. If I were getting sick often, I wouldn't be able to function as a Hero.  
 **Hiyori:** You have a point, but can't you get the nutrition you need from proper meals?  
@@ -516,7 +516,7 @@ Juujou Hiyori Episodes
 **Ellen:** You sure do know your stuff, Inamin.  
 **Ellen:** Everyone else can't wait to try it, so, will you two be joining in?  
 **Hiyori:** Sure. Can't exactly... be the only one going back early.  
-**Ellen:** Fufu, thanks for that\~.  
+**Ellen:** Fufu, thanks for that\~\.  
 **Hiyori:** What's this attraction like?  
 **Ellen:** From the sound of it, we're all pirates searching for treasure. You can steal maps from other pirates too... the other people competing to get the treasure, so there's different ways to play.  
 **Hiyori:** You can steal maps from the other players?  

@@ -27,7 +27,7 @@ Entwining Bonds: Fierce Genius x Strange Genius
 **Suzuka:** Yume and Itomi-san? Those two are being sent alone to the mission point?  
 **Mai:** Shidou-san, would it be alright for me to to be with Sayaka-chan? Sending the two of them alone is just a little...  
 **Maki:** I'm little unsure about it myself, but HQ named them directly, so they must have something in mind. Yume, Itomi Sayaka, what do you think?  
-**Yume:** Cause I'm so strong, it'll be easy peasy even if I do it by myself\~. You can go with them, Sayaka-chan.  
+**Yume:** Cause I'm so strong, it'll be easy peasy even if I do it by myself\~\. You can go with them, Sayaka-chan.  
 **Sayaka:** I can be fine if I do it by myself too. I'll defeat the aradama quickly, then meet up with you.  
 **Yume:** Nngh\~, well I can beat them in a second, and then I'll meet up with you onee-sans faster than Sayaka-chan can\!  
 **Suzuka:** Sigh... Unfortunately, it doesn't seem they have any intention of working together to defeat them.  

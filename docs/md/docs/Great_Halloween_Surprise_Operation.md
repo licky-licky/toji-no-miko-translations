@@ -69,7 +69,7 @@ Covers both Halloween events.
 **Yume:** Yomi onee-san's smiling is just as crazy rare as Yukari-sama looking surprised\!  
 **Kaoru:** Seriously?  
 **Yomi:** It is not.  
-**Yume:** It seriously is\! Aww, I wish I'd seen it\~. Next time, you have to tell me when you're going to smile, okay\!  
+**Yume:** It seriously is\! Aww, I wish I'd seen it\~\. Next time, you have to tell me when you're going to smile, okay\!  
 **Yomi:** That's an unreasonable thing to ask of me.  
 **Ellen:** Pfft ahaha\! Halloween sure is a lot of fun\!  
 **Kaoru:** For sure. Now if only this cleaning would be over...  
@@ -118,5 +118,5 @@ One week before the Halloween party took place...
 **Kiyoka & Mihono:** Like what?  
 **Yui:** You can wear that Red Riding Hood costume later, but first, you should be a mummy all wrapped up in bandages\! And you'll have to take everything off\! And I'll help you get changed, of course\!  
 **Kiyoka:** Ehhhhhhh----\!\? I don't want to\!\!  
-**Yui:** Don't be like that, okay? Come on, Kiyoka-chan\~.  
+**Yui:** Don't be like that, okay? Come on, Kiyoka-chan\~\.  
 > :ToCPrevNext

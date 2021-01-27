@@ -19,7 +19,7 @@ Nitta Hirona Episodes
 **Hirona:** ...It's hard to sayyy.  
 **Hirona:** (...Though, I don't think that day is ever cominggg.)  
 **Mimi:** Hirona-onee-san, let's make sure to play tomorrow\!  
-**Hirona:** (......She's even doing this in the dormmms?)  
+**Hirona:** (......She's even doing this in the dormmms?\)  
 **Hirona:** ...Kagami-san, do you not have friends?  
 **Mimi:** Huh? I do?  
 **Hirona:** ...Then I think it would be better if you left me alone and played with them.  
@@ -94,7 +94,7 @@ On a day off...
 **Mihono:** ...Is it though?  
 **Hirona:** It is.  
 **Mihono:** (Still, we came to hang out with the four of us, so I want Hirona to be having a good time too.)  
-**Mihono:** (Okay, I'll come up with something for Hirona to talk about\!)  
+**Mihono:** (Okay, I'll come up with something for Hirona to talk about\!\)  
 **Hirona:** ...  
 **Hirona:** ...Ah, Musumi-san. I really like that outfit thereee.  
 **Kiyoka:** Oh, it's so cute. I think I like it a lot too.  
@@ -164,7 +164,7 @@ That evening...
 **Aradama:** GAOOOOOOOOOOO\!  
 **Hirona:** Grgh...\!\?  
 **Aradama:** GYAAAAAAAAAAAA\!\!  
-**Hirona:** (Is this it...\!\?)  
+**Hirona:** (Is this it...\!\?\)  
 **Yuuki:** HAAAAAAAAAAH\!\!  
 **Yuuki:** Are you okay\!\?  
 **Hirona:** ...Yuuki-san? Why are you here...?  

@@ -108,15 +108,15 @@
 **Kofuki:** GAH... NGAHH\!  
 **Suruga:** ...So frail.  
 **Chie:** Kofuki-chan\!  
-**Chie:** (Kofuki-chan's utsushi was down for just a moment then\!\? No\!)  
+**Chie:** (Kofuki-chan's utsushi was down for just a moment then\!\? No\!\)  
 **Kofuki:** Gah... Gh... Nngh... Ah, gh...  
 **Chie:** Kofuki-chan\! Hang on, you're injured...\!  
 **Kofuki:** Fuck off, Chichie... I said not to get between me and her... Just leave me alone\!  
 *slap*
 
   
-**Mihono:** (She got slapped\!\? Chii-nee just slapped her\!\?)  
-**Kiyoka:** (That sounded so strong I felt it from here\!)  
+**Mihono:** (She got slapped\!\? Chii-nee just slapped her\!\?\)  
+**Kiyoka:** (That sounded so strong I felt it from here\!\)  
 **Kofuki:** Nnuh.....?  
 **Chie:** There's no way I'm going to leave you alone\!  
 **Kofuki:** Ah.... Nn....  
@@ -201,7 +201,7 @@
 **Chie:** Mihono-chan... You're incredible\! ...Ah\!\?  
 **Chie:** ...An attack slipped through\! From behind her\!  
 **Mihono:** ...\!\?  
-**Mihono:** (I can't block it right\!)  
+**Mihono:** (I can't block it right\!\)  
 **Chie:** Mihono-chan's okatana flew out of her hands\!\?  
 **Mirja:** Gh\! She made it so close... Is this it\!\?  
 **Kiyoka:** I won't let you stop her...\!  
@@ -342,7 +342,7 @@
 **Chie:** Okay, okay, break it up, you two.  
 **Mihono:** Okay\~\!  
 **Kofuki:** ...'kay.  
-**Chie:** Fufu\~. Now, leaving that aside...  
+**Chie:** Fufu\~\. Now, leaving that aside...  
 **Chie:** We can't hang around here forever. We can leave the recovery of the Akabane swords to the people at headquarters, so let's get going.  
 **Chie:** Normally we'd go right back to the office in Kamakura, but... I think we deserve a treat, so how about we go eat some sweets? I saw a crepe shop just by the station. What do you think, Captain Mirja?  
 **Mirja:** Fufu, that sounds like a good plan. Then... One more time\!   

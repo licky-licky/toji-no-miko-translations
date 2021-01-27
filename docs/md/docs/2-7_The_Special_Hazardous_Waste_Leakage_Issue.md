@@ -158,7 +158,7 @@ At that time, the three who had been reported to be in Kamakura; Etou Kanami, Ju
 **Hiyori:** You two, you were having another training match?  
 **Kanami:** Ah-\! Hiyori-chan\! Wanna do it too, Hiyori-chan? Fighting against Sayaka-chan is a lot of fun\!  
 **Hiyori:** I'll pass. We have work to do tomorrow, you know?  
-**Kanami:** Don't worry about that\~. Aradama could show up at any time, so you have to fit in training whenever you can\!  
+**Kanami:** Don't worry about that\~\. Aradama could show up at any time, so you have to fit in training whenever you can\!  
 **Kanami:** You know, with aradama all across Kanto and everyone getting assigned elsewhere, I'm lucky I ended up with you two.  
 **Kanami:** It's rough having to sortie again and again every day, but I get to have these matches every night--  
 **Academy Intercom:** Aradama have been identified in the area of this academy. Toji, make preparations for emergency sortie. I repeat, aradama have been identified--  

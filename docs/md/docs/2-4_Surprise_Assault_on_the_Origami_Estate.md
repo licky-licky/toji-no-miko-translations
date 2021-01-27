@@ -93,7 +93,7 @@ At the same time, with Kitora Mirja's B team.
 **Mirja:** Yamashiro Yui. It seems you're unaffected by nervousness at least. I hope I can count on that.  
 **Yui:** I never thought the day would come I'd get relied on by a hottie like Mirja-san, but I'm so glad I was born\~\! This feeling'll last me a lifetime\!  
 **Kiyoka:** I wish I could have just a little bit of that mental strength...  
-**Yui:** Why stop there? You can have everything, Kiyoka-chan; my heart, soul and body could all be yours\~.  
+**Yui:** Why stop there? You can have everything, Kiyoka-chan; my heart, soul and body could all be yours\~\.  
 **Kiyoka:** Ahaha...  
 **Mirja:** It appears Musumi Kiyoka has overcome some of her nervousness as well. Then, let's begin our operation.  
 **Toji B:** Where are the rebels\!\?  
@@ -102,7 +102,7 @@ At the same time, with Kitora Mirja's B team.
 **Toji B:** I'll be right there\!  
 **Yui:** Phew\~, they would have spotted us for sure... Go me\!  
 **Kiyoka:** H-Huh... Uhh\~?  
-**Yui:** Hm? What's that weird look for? Don't tell me, you've fallen for me? Aww\~, I'm so embarrassed\~.  
+**Yui:** Hm? What's that weird look for? Don't tell me, you've fallen for me? Aww\~, I'm so embarrassed\~\.  
 **Mirja:** Yamashiro Yui, do you not understand the aim of this operation? Our objective is to draw the enemy's attention, so what good will hiding do?  
 **Yui:** --Ah, oh yeah\! I just hid on instinct\!  
 **Yui:** It's a pretty bad time for my clumsiness to kick in\! But, it's kinda cute too, right?  
@@ -121,21 +121,21 @@ At the same time, with Kitora Mirja's B team.
 **Mirja:** ...It seems like it.  
 
 ## 5: Girl Hunt (2)
-**Yui:** Awww\~... It's too painful, using my okatana on girls like this. My heart's about to burst...  
+**Yui:** Awww\~\... It's too painful, using my okatana on girls like this. My heart's about to burst...  
 **Mirja:** However, we're having an effect. Let's keep this up and head to the next position.  
 **Yui:** Right, I'll join you\! Even if you take me to the ends of the earth, I'll be there\!  
 **Kiyoka:** Where does all your energy come from, Yui-chan...?  
 **Yui:** Eh, you want to know?  
 **Kiyoka:** N-No... For some reason I'm scared to find out... So I'll pass...  
-**Yui:** There's nothing to be afraid of\~, it won't even hurt\~. Too bad\!  
+**Yui:** There's nothing to be afraid of\~, it won't even hurt\~\. Too bad\!  
 
 ## 6: An Overwhelming Impulse (1)
 **Yume:** Chidori onee-san. You've gotta be stronger than anybody else. So if I beat you, onee-san, I'll...\!\!  
-**Kanami:** (Such amazing drive...\! This girl, how is she... But... This is fun\!)  
+**Kanami:** (Such amazing drive...\! This girl, how is she... But... This is fun\!\)  
 **Yume:** Haah-\!  
 **Kanami:** Amazing...\! That's Ten'nen Rishin-Ryu at its peak\! But, I won't be beat\!  
 **Yume:** Pant, pant, pant...\! Not... Yet... Onee-san...  
-**Kanami:** (Until what...? Is she in a hurry or something...?)  
+**Kanami:** (Until what...? Is she in a hurry or something...?\)  
 **Yume:** Pant, pant... This is fun... Right...?  
 **Kanami:** ...Yeah.  
 **Yume:** (inhale)... (exhale)... Here I come, Onee-san\! HAAAAAAAH-\!  

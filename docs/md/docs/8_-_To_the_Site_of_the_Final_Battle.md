@@ -51,7 +51,7 @@
 **Mirja:** (Even President Souraku Yuzuki. For reasons I do not know, without any leads, her orders were to retrieve Namu Yakushi Kagemitsu at all costs...)  
 **Mirja:** (No...)  
 **Mirja:** (Knowing President Souraku, there must be a good reason behind this. I only need to carry out the mission she gave me.)  
-**Mirja:** (Right now, that is my role here\!)  
+**Mirja:** (Right now, that is my role here\!\)  
 
 ## 4: Chie \~Duty to Your Cause, Duty to Your Heart\~
 **Chie:** (I'm a liar.)  
@@ -146,7 +146,7 @@
 **Mihono:** Ah.... Huh? How long did I space out for? Ten minutes? Or, it felt more like thirty?  
 **Kiyoka:** Nothing like that; maybe five seconds?  
 **Mihono:** Five seconds...? Ah, okay. Sorry, I didn't mean to right before the final battle.  
-**Mihono:** (....Just now... Whose memory was that...?)  
+**Mihono:** (....Just now... Whose memory was that...?\)  
 **Kiyoka:** Battle? We're not here to fight, remember? We're just going to meet with someone who knows about the Akabane swords.  
 **Mihono:** Haha, oh yeah, you're right. It'd be nice if we don't have to fight anymore.  
 **Chie:** Are you two ready? They should be waiting for us just beyond that door. Now's the time to stay focused.  

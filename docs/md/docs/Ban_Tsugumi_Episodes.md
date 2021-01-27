@@ -417,7 +417,7 @@ December 25th.
 **Ellen:** Like monkeys, we might be able to get along with them\! Rather than a troupe of apes, it's a troupe of aradama\!  
 **Tsugumi:** Gathering data here is a step towards that.  
 **Tsugumi:** If we can find something resembling an aradama nest here, we can investigate whether they've collected man-made objects and so on... Though maybe I'm hoping for too much just yet.  
-**Ellen:** We'll just have to pray we get lucky\~.  
+**Ellen:** We'll just have to pray we get lucky\~\.  
 **Ellen:** Let's close the distance quick so they won't escape, and get some data while we're at it\!  
 **Tsugumi:** Woo-\!  
 **Tsugumi:** That's how excited I am now, to shout that-.  
@@ -502,7 +502,7 @@ The day of the pool cleaning.
 **Tsugumi:** For the time being, you and I should proceed with the cleaning.  
 **Akira:** Sure thing\!  
 **Akira:** We'll get a lead on 'em before they show up\!  
-**Tsugumi:** (How exactly do you get a lead on someone in cleaning a pool...?)  
+**Tsugumi:** (How exactly do you get a lead on someone in cleaning a pool...?\)  
 **Akira:** Hahahahahaha\! Bring on the hose\!  
 **Akira:** I'm gonna keep raining down water, so keep up\!  
 **Tsugumi:** Right. Then, I'll brush off the grime at the bottom.  
@@ -576,7 +576,7 @@ The day of the pool cleaning.
 **Tsugumi:** Leaving that aside, magic sure is incredible, isn't it? If I heard right, not everyone on the Earth you're from can use magic, can they?  
 **Nanoha:** A while ago, I had a sort of encounter... I found magic, and Yuuno-kun, and Fate-chan...  
 **Nanoha:** And I learned I had the strength to help save someone too.  
-**Tsugumi:** (The way she's talking about it... Is Takamachi-san unconsciously fighting to save others?)  
+**Tsugumi:** (The way she's talking about it... Is Takamachi-san unconsciously fighting to save others?\)  
 **Tsugumi:** (Then... that might make the people with her fairly anxious.)  
 **Tsugumi:** ...It must be difficult.  
 **Nanoha:** Eh? What's difficult?  

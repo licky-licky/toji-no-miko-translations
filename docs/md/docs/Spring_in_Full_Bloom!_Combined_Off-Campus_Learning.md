@@ -17,7 +17,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Hasui Mayumi:** Whatever the reason, you shouldn't be tardy. When moving as a group, if even one person is late, it affects everyone, you know?  
 **Ellen:** Uuu... I'm ashamed...  
 **Himeno Shiho:** Now, now. She was only a few minutes late, so I think we can overlook it.  
-**Naruse Miki:** She's right. We're here to have a good and fun time learning off-campus, after all\~.  
+**Naruse Miki:** She's right. We're here to have a good and fun time learning off-campus, after all\~\.  
 **Kanami:** Hey, hey\! What are we doing first? Was it already decided where we're going and what we're seeing?  
 **Fukuda Sawano:** Nothing's been decided yet. The rule is that all the toji gathered get to go where they see fit.  
 **Kanami:** Oh, okay\! Then, does anyone have any ideas--  
@@ -36,7 +36,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Kanami:** You don't sound excited about it, Hiyori-chan\!  
 **Sawano:** Which team will I be on... It's tense, isn't it? Ah, white.  
 **Chie:** I'm white as well. Let's get along.  
-**Mihono:** I got red... I didn't make it on the same team as Chii-nee, huh\~.  
+**Mihono:** I got red... I didn't make it on the same team as Chii-nee, huh\~\.  
 **Chie:** Fufu, don't be like that. I'm sure it'll be fun on both teams.  
 **Mirja:** Now then... Everyone appears to have found their team. We should both separate and discuss where we would like to go.  
 **Fujimaki Minaki:** On it\! Everyone on red team with me\! Let's group up over here\!  
@@ -50,7 +50,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Hiyori:** ...Third year middle schooler from the Heijou Institute, Juujou Hiyori.  
 **Mihono:** ...Ehh? That's all?  
 **Hiyori:** There's nothing more to say.  
-**Kanami:** Ehehe\~. Hiyori-chan's a little hard to get used to, but she's a good girl on the inside. Try to get along with her\!  
+**Kanami:** Ehehe\~\. Hiyori-chan's a little hard to get used to, but she's a good girl on the inside. Try to get along with her\!  
 **Hiyori:** I-I don't need your help\!  
 **Jun:** I'm a second year high schooler from Ayanokouji Martial Arts School; the name's Nakano Jun. Let's have a good one.  
 **Kanami:** Kyoto dialect\! That's so cool\!  
@@ -99,13 +99,13 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Shiho:** Of course. I've got loads of them. My parents take in a lot of abandoned cats and dogs.  
 **Ellen:** Your parents sound great\! I love animals too, so I'd love to see your house sometime\!  
 **Shiho:** Sure thing\! You're welcome any time\!  
-**Miki:** Seems like I'm last. I'm Naruse Miki, a second year in high school at the Heijou Institute. I plan to make a lifelong memory with you all today\~.  
+**Miki:** Seems like I'm last. I'm Naruse Miki, a second year in high school at the Heijou Institute. I plan to make a lifelong memory with you all today\~\.  
 **Ellen:** A lifelong memory? What a beautiful phrase\! I want to enjoy this as much as I can with all of you too\!  
 **Chie:** Is there anywhere any of you wanted to go around Yokohama, or anything you want to do?  
-**Miki:** In order to make this a lifelong memory, I'm looking for a unique experience\~.  
+**Miki:** In order to make this a lifelong memory, I'm looking for a unique experience\~\.  
 **Miki:** I've heard of a very exotic place called the Brick District, where you seem to be able to ride horse-drawn carriages...  
 **Shiho:** Horses\! I want to see them-\!  
-**Miki:** I hear they make delicious dango there as well\~.  
+**Miki:** I hear they make delicious dango there as well\~\.  
 **Ellen:** Mmmm\! I can sense the perfect plan forming\! We'll go ride horse-drawn carriages in the Brick District, and then eat dango\!  
 **Mirja:** The purpose of this trip is off-campus learning, so I believe we should study at a museum or similar institution in the area...  
 **Chie:** Now, now. There's a lot of history in horse-drawn carriages too.  
@@ -137,7 +137,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Hiyori:** ...After Meiji came Taisho. Then Showa was after that.  
 **Mihono:** Ah-, it was\!\?  
 **Jun:** You might need to do a little more studying, Asakura-chan.  
-**Mihono:** Ehehe\~.  
+**Mihono:** Ehehe\~\.  
 **Aradama:** KIKIKIGIGIGIGI...  
 **Minaki:** -\!\? Everybody\!\! Another aradama showed up\!\!  
 **Jun:** An aradama right in downtown... We should deal with it before folks get hurt.  
@@ -170,7 +170,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Chie:** Come to think of it, there's a ranch a little ways away from here, isn't there? Are you interested in going horse riding too, Fukuda-san?  
 **Sawano:** There's a scene in a book I read about warlords in the warring states period racing across the battlefield on horseback, and ever since then I've been greatly interested in trying it.  
 **Mirja:** Very well, then that ranch will be our next destination. Is that alright with you, Naruse Miki?  
-**Miki:** A ranch... Horse riding sounds scary, but that could be a lifelong memory in its own way. That's fine\~.  
+**Miki:** A ranch... Horse riding sounds scary, but that could be a lifelong memory in its own way. That's fine\~\.  
 **Ellen:** It's settled\! We're headed to the ranch to get some horse riding experience\!  
 **Ellen:** Good\! Everything's ready\! The ranch lent us a horse, so we can ride it up this track one at a time\!  
 **Miki:** Seeing a horse up close like this, it's huge...\! What an impressive animal...\!  
@@ -193,7 +193,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Shiho:** I'm sorry... It's just, when it comes to animals, I start losing sight of everything else...  
 **Ellen:** Well, it all turned out for the best, didn't it\! It's thanks to Shiho the animals were saved, right\!  
 **Sawano:** On top of that, it was incredible the way you rode that horse. Like a warlord straight from the stories.  
-**Miki:** I'd love to be able to ride like that as well\~. Could you show us again?  
+**Miki:** I'd love to be able to ride like that as well\~\. Could you show us again?  
 **Shiho:** --Hehe. It's embarrassing if you keep complimenting me like that.  
 **Ellen:** -\! I just thought of something\! While we're here, why don't we try on those hakama they lent us while we ride the horse\!  
 **Chie:** Good idea. It's a rare opportunity, so let's get changed\!  
@@ -236,14 +236,14 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Chie:** The sun's fully set by now, hasn't it. I lost track of time with how much fun we were having riding horses at the ranch.  
 **Sawano:** We don't need to check-in at the inn until 8 o'clock. That means we still have an hour of free time, so what should we do?  
 **Ellen:** I'm already hungry, but I want to stay out having a good time as long as we can\!  
-**Miki:** I feel the same way\~. Let's take a stroll down the streets in the night lighting and make some lifelong memories\!  
-**Miki:** I want to get some photos taken wearing the hakama we borrowed as well\~.  
+**Miki:** I feel the same way\~\. Let's take a stroll down the streets in the night lighting and make some lifelong memories\!  
+**Miki:** I want to get some photos taken wearing the hakama we borrowed as well\~\.  
 **Mirja:** Exploring the nightlife isn't so commendable, but we can make an exception today.  
 **Mirja:** However, as soon as we've arrived at the inn and eaten, I want everyone in the bath and then bed, understood?  
 **Ellen:** Ehh-\!\? But I wanted to have a pillow fight\! And then play cards, and do a test of courage\! I heard those are unbreakable traditions for Japanese students\!  
 **Miki:** A pillow fight, cards, and a test of courage\! That sounds like a lifelong memory in the making\!  
 **Mirja:** How many lifelong memories do you plan on experiencing today, Naruse Miki...?  
-**Miki:** I'll take every one I can come across\~.  
+**Miki:** I'll take every one I can come across\~\.  
 **Shiho:** Ahh\! Everybody\! There's a neat looking souvenir shop over there\!  
 **Chie:** Come to think of it, I was wondering when I'd be able to get souvenirs for everyone back at school.  
 **Ellen:** I want to get something for Kaoru and Grandpa\!  
@@ -253,13 +253,13 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Chie:** Ooh... They sell folding fans and hairpins, along with sweets here.  
 **Ellen:** Oh-\! This present\! The Japanese design is so cute\! I think Grandpa would like an ornate hairpin like this\!  
 **Sawano:** You mean for your grandfather? Those are usually used to do up a woman's hair, so I don't think a man would want one...  
-**Miki:** It would certainly be a lifelong memory, though\~.  
+**Miki:** It would certainly be a lifelong memory, though\~\.  
 **Miki:** --Ah\! Everyone\! We should all buy these Japanese umbrellas\! Then we can get our photos taken\! It would look wonderful together with our hakama\!  
 **Ellen:** ...Umbrella and hakama\! That's an awesome idea\! Let's pick out umbrellas for all of us--  
 **Aradama:** GURURUUUUUUU...\!  
 **Chie:** -\!\? Where did that aradama's roar come from\!\!  
 **Mirja:** From outside the shop\! Everyone\! Hurry\!  
-**Miki:** Now, since we safely defeated it, let's all get changed to take a commemorative photo here\~.  
+**Miki:** Now, since we safely defeated it, let's all get changed to take a commemorative photo here\~\.  
 **Mirja:** Fufufu. That's certainly a lifelong memory, isn't it.  
 **Ellen:** The shop gave us some umbrellas as a present\! They said it's thanks for defeating the aradama\! Let's get them in the photo\!  
 **Sawano:** A present, huh. It makes me feel a little guilty.  
@@ -281,7 +281,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Mihono:** They're late? That's weird... Chii-nee and Mirja-san are on that team, after all? Those two are never late for anything...  
 **Chie:** ...Oh? Is everyone from the red team picking out souvenirs?  
 **Mihono:** Huh\!\? It's the white team\! Why don't you have your luggage with you\!\?  
-**Miki:** Why? Well, we're getting in the baths now\~.  
+**Miki:** Why? Well, we're getting in the baths now\~\.  
 **Mayumi:** Now\!\? But we were supposed to check-out at 8\!\?  
 **Sawano:** ? Check-out is at 10 o'clock, so there's still 2 hours of free time.  
 **Mihono:** --Ehhhhh-\!\? Seriously\!\?  
@@ -295,7 +295,7 @@ Spring in Full Bloom! Combined Off-Campus Learning
 **Mihono:** I know\! Since we have the time, let's get in the baths again\! We can join the white team\!  
 **Ellen:** Sounds good\! We can join forces from here\! It'll be more fun that way\!  
 **Shiho:** You know, it really feels like our off-campus learning trip is complete.  
-**Miki:** I know\~. We experienced so many things. There's no problem finding a lifelong memory in all that\~\!  
+**Miki:** I know\~\. We experienced so many things. There's no problem finding a lifelong memory in all that\~\!  
 **Ellen:** How did things go for everyone on the red team?  
 **Kanami:** We found a lifelong memory too, of course\! I got to see Hiyori-chan in a hakama\!  
 **Mihono:** Yeah\! She looked so natural wearing it\! The photos turned out great too\~\!  

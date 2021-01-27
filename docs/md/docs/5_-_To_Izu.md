@@ -114,8 +114,8 @@
 **Kiyoka:** I never heard anything about all this fighting... President Iroha only said we'd be researching the Akabane swords... I don't like this.  
 **Kofuki:** I can't get enough though\! I never get to see this much aradama when I'm out\!  
 **Mihono:** ...Huh? Really?  
-**Mihono:** (This sort of thing happens to me at least a few times a year... Is it really just me?)  
-**Mihono:** (I guess... I just run into aradama more than usual?)  
+**Mihono:** (This sort of thing happens to me at least a few times a year... Is it really just me?\)  
+**Mihono:** (I guess... I just run into aradama more than usual?\)  
 
 ## 6: Walking and Wondering (3)
 **Chie:** The moment you step off the roads in Izu, you end up in the mountains. The sun should be setting soon, so we should stop at the first inn we see.  
@@ -126,7 +126,7 @@
 **Ellen:** What? What do you mean?  
 **Kofuki:** Nothing, just forget it.  
 **Kofuki:** *whispered* So the elite guard brought out their aradama-chan... Heh, I'll take it.  
-**Chie:** (Shichinosato-san... She said "elite guard" and "aradama", didn't she? So the elite guard are here...?)  
+**Chie:** (Shichinosato-san... She said "elite guard" and "aradama", didn't she? So the elite guard are here...?\)  
 **Chie:** (No... More importantly, Origami Yukari's elite guard are using the aradama...? Could it really be...)  
 
 ## 7: Walking and Wondering (4)
@@ -161,7 +161,7 @@ Not long after, the endless black liquid began taking shape, in a form of an ara
 **Chie:** No, I don't think so. But they said they had to go on ahead. They seemed to be in a real hurry.  
 **Mirja:** I see. Then in that case, we should clear this area of aradama to try making their journey easier.  
 **???:** Oh... There's five of you? That doesn't match my info...  
-**Mihono:** (Someone's voice...? It sounded like... The head of the family's elite guard, Shidou Maki-san... But why would the elite guard be here...?)  
+**Mihono:** (Someone's voice...? It sounded like... The head of the family's elite guard, Shidou Maki-san... But why would the elite guard be here...?\)  
 **Maki:** Minoseki's Asakura... So it's not the target after all. Still, good work Yomi. You might not be who we're after, but you'll make a good warmup.  
 **Chie:** What are you... Saying?  
 **Maki:** It's simple... While hot on the trail of Etou Kanami and Juujou Hiyori, we found you two. The two who interrupted us the other day and let those traitors escape.  

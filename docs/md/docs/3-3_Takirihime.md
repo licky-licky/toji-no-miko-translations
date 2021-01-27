@@ -36,7 +36,7 @@
 **Sana:** Are you serious about this?  
 **Chie:** We've been fighting together for long enough. If Mirja-san says she can handle this, I'll trust her.  
 **Kiyoka:** Me too.  
-**Sana:** And now you're all ganging up on me... Sigh\~\~... Have it your way. I'll approve of you going with them. But make sure you don't overdo it, okay?  
+**Sana:** And now you're all ganging up on me... Sigh\~\~\... Have it your way. I'll approve of you going with them. But make sure you don't overdo it, okay?  
 **Mirja:** ...Thank you, all of you.  
 
 ## 2: An Audience with a Goddess (1)
@@ -109,7 +109,7 @@ Long ago, 400 years prior. In the Mashiko's village--
 **Mashiko Toji:** Aradama always make things difficult. If you want to go on a rampage, I'll be your opponent.  
 **Mashiko Toji:** ...So let's go again sometime\!  
 **Nene:** Ne...?  
-**Takirihime:** (This person... These people, they erased it?)  
+**Takirihime:** (This person... These people, they erased it?\)  
 **Takirihime:** (The impurity within you... After such a great span of time...)  
 **Nene:** Ne-\!  
 **Takirihime:** The impurity of noro... It should be impossible to cleanse. But humans managed to do so.  
@@ -234,7 +234,7 @@ At the same time, Roughly 2 kilometers away from the Ministry of Defense--
 ## 9: The Nightmare Resumes (2)
 **Chie:** Pant, pant... For them to be this tough... This is the power of noro...  
 **Mirja:** I would like for us to stop and recover here, but given the situation, we can't afford to. Let's head to the Ministry of Defense without delay.  
-**???:** Ehh\~? We came all this way to see you, so don't go saying something mean like you're gonna leave us here\~.  
+**???:** Ehh\~? We came all this way to see you, so don't go saying something mean like you're gonna leave us here\~\.  
 **???:** Though of course, we aren't about to let you go anyway.  
 **Mirja:** No... You're... Yamashiro Yui... Suzumoto Hana...  
 **Yui:** After all, this is my big chance to show off what I can do\!  

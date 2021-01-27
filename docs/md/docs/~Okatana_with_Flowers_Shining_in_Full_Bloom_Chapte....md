@@ -1,6 +1,6 @@
 
-~Okatana with Flowers Shining in Full Bloom Chapte...
-=====================================================
+\~Okatana with Flowers Shining in Full Bloom Chapte...
+======================================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/PjOQnrdBW6A"></iframe>](:Iframe)  
 
 ## 1: A Grudge Over Food is a Fearsome Thing\!
@@ -13,7 +13,7 @@
 **Inubouzaki Fuu:** I guess they're gone. We didn't get a chance to talk much, but they seemed like good people.  
 **Inubouzaki Itsuki:** ...Mm, I wanted to ask them what things were like in their world.  
 **Miyoshi Karin:** What happens once will happen twice. I'm sure we'll see each other again.  
-**Sonoko:** That's right\~. Maybe next time, we'll be the ones dropping by their world.  
+**Sonoko:** That's right\~\. Maybe next time, we'll be the ones dropping by their world.  
 **Tougou Mimori:** When Sonocchi says it, it feels like it could actually happen.  
 **Yuuna:** But you know, that would definitely be fun too\! So... Let's see them again someday\!  
 **Aradama:** ooo... oooOOOOOOOO\!\!  
@@ -58,7 +58,7 @@
 **Aradama:** OOOOOOOOOOOO\!  
 **Yuuna:** Uwawa\!  
 **Tougou:** Fall back, Yuuna-chan\! I'll cover you\!  
-**Sonoko:** Hmmm, like I thought, with only us here, no matter how much we weaken them, we don't seem to be able to defeat aradama\~.  
+**Sonoko:** Hmmm, like I thought, with only us here, no matter how much we weaken them, we don't seem to be able to defeat aradama\~\.  
 **Sonoko:** On top of that, compared to the ones we fought in the Jukai, these seem even stronger. I wonder why that is?  
 **Karin:** We can wonder about that later; focus on the fight right now\! HAAAAAAAAAAAAA\!\!  
 **Itsuki:** Pant, pant... This is too different from fighting against vertex... If only those toji were here...\!  
@@ -91,7 +91,7 @@
 **Fuu:** Eh\!\? You don't remember?  
 **Yuuna:** What about me\!\? I'm Yuuki Yuuna\! I'm a "Hero"\!  
 **Mihono:** ...Sorry, I don't know you.  
-**Yunna:** Come on\~. What about Kiyoka-chan\!\?  
+**Yunna:** Come on\~\. What about Kiyoka-chan\!\?  
 **Kiyoka:** I don't know you either...  
 **Tougou:** What's going on, Sonocchi?  
 **Sonoko:** Hmmm, it might be hard for the toji to form memories of what happens in the Jukai... Maybe it was only like a dream to them.  
@@ -142,7 +142,7 @@
 **Tougou:** But, Yuuna-chan, we'll have to come up with a way to return to our own world as soon as we can.  
 **Tougou:** If something were to happen to our world while we're away...  
 **Yuuna:** Ah, that's right... Still, we can't just ignore the aradama either...  
-**Sonoko:** You're so kind, Yuuyu\~.  
+**Sonoko:** You're so kind, Yuuyu\~\.  
 **Sonoko:** Mm, I think I agree with Yuuyu here. And also, we can't be sure whether the abnormal outbreak of aradama and our coming to this world isn't related somehow.  
 **Itsuski:** What do you mean?  
 **Sonoko:** It might be that the Shinju-sama sent us here to this world, telling us to stop the aradama.  
@@ -206,10 +206,10 @@
 **Yui:** All these cute girls\! All grouped up in one room\! What a wonderful secret garden\!  
 **Yui:** Fuu-san\! I'm going to join the Hero Club too\!\! I'll fill out a club entry form straight away\!  
 **Kaoru:** What are you even going on about...  
-**Fuu:** Let's get back on topic\! Today's Hero Club activity is\~\~... Tadah\! We'll get Mihono and Kiyoka on friendly terms again\!  
+**Fuu:** Let's get back on topic\! Today's Hero Club activity is\~\~\... Tadah\! We'll get Mihono and Kiyoka on friendly terms again\!  
 **Fuu:** Does anyone have any good ideas?  
 **Yui:** Hmm, Kiyoka-chan was strangely mad this time, so I don't think she'll let Mihono-chan off very easy.  
-**Sonoko:** A grudge over pudding is a fearsome thing after all\~.  
+**Sonoko:** A grudge over pudding is a fearsome thing after all\~\.  
 **Kaoru:** Keep eating it over and over and anybody's patience'll run out.  
 **Yuuna:** Hmm, what should we do then, Tougou-san.  
 **Tougou:** It's difficult, isn't it.  
@@ -226,14 +226,14 @@
 **Yuuna:** If you're trying to make up with someone, bigger is always best\!  
 **Mihono:** Yeah\! A bucket of pudding would definitely make her happier than normal pudding\!  
 **Kaoru:** ...These two are just peas in a pod, huh.  
-**Sonoko:** So long as they're having a good time\~. By the way, do you know how to make pudding?  
+**Sonoko:** So long as they're having a good time\~\. By the way, do you know how to make pudding?  
 **Yuuna:** Ah, I don't know how...  
 **Mihono:** I don't either...  
 **Tougou:** Don't worry, Yuuna-chan, Mihono-chan. I know how you make it.  
 **Sonoko:** Wasshi, you can make western sweets too\~?  
 **Tougou:** Japanese fare is my specialty, but it isn't like I completely dislike western sweets.  
 **Tougou:** You know that, don't you, Sonocchi? We had gelatto together after all.  
-**Sonoko:** Ahaha, that is true\~.  
+**Sonoko:** Ahaha, that is true\~\.  
 **Tougou:** Anyway, I'll coach you through how to make it. Since we're making pudding, let's make the tastiest pudding we can\!  
 **Mihono:** Yeah\!  
 **Tougou:** That's a good serious look in your eyes, Mihono-chan\!  
@@ -286,7 +286,7 @@ While Mihono was making bucket pudding with Yuuna and the others...
 **Kiyoka:** And also, I was looking forward to sharing it with everyone too...  
 **Kiyoka:** This time, I just wanted Hono-chan to apologize...  
 **Fuu:** I understand\!  
-**Fuu:** A grudge over food is a fearsome thing\~. I know if somebody ate the udon I was looking forward to having myself, I'd be mad for sure.  
+**Fuu:** A grudge over food is a fearsome thing\~\. I know if somebody ate the udon I was looking forward to having myself, I'd be mad for sure.  
 **Kiyoka:** Y-You would, wouldn't you\!  
 **Fuu:** But you know, Kiyoka. If Mihono never apologizes, what happens then?  
 **Kiyoka:** Th-Then... I wouldn't like that.  
@@ -325,7 +325,7 @@ While Mihono was making bucket pudding with Yuuna and the others...
 **Suzuka:** An aradama's signal has been detected. Is everyone ready?  
 **Mihono/Kiyoka:** Yes\!  
 **Yuuna:** Alright, let's do our best-\!  
-**Sonoko:** It feels fresh and exciting protecting somewhere outside of Shikoku\~.  
+**Sonoko:** It feels fresh and exciting protecting somewhere outside of Shikoku\~\.  
 **Kaoru:** You know, you guys are weirdly fixated on Shikoku.  
 **Karin:** It's not that we're fixated on it. It's just... In our world, Shikoku is all that's left.  
 **Mihono:** What do you mean?  
@@ -339,17 +339,17 @@ While Mihono was making bucket pudding with Yuuna and the others...
 **Suzuka:** That's what we toji are here to prevent from happening. We're moving out\!  
 **Karin:** HAAAAAA\!\!  
 **Fuu:** Phew, aradama sure are tough. We can't use Mankai either...  
-**Sonoko:** Fuumin-senpai. It seems like we can use Mankai for this\~.  
+**Sonoko:** Fuumin-senpai. It seems like we can use Mankai for this\~\.  
 **Fuu:** ...Huh?  
-**Sonoko:** A little bit ago, when no one was around, I used it myself in secret\~.  
+**Sonoko:** A little bit ago, when no one was around, I used it myself in secret\~\.  
 **Fuu:** You what\!\? That's too reckless...  
 **Sonoko:** Don't worry, don't worry. As you can see, I'm just fine. The rules for Mankai now seem to be different from both in the past, when there was Sange, and also after it was updated.  
-**Sonoko:** There are no after-effects from Sange. It also seems like we can use it many times over. The Shinju-sama might be giving us a favor here\~.  
+**Sonoko:** There are no after-effects from Sange. It also seems like we can use it many times over. The Shinju-sama might be giving us a favor here\~\.  
 **Fuu:** Ehh\!\? Like an extra special measure...? The Shinju-sama must be going through good times...  
 **Fuu:** Well, alright then\! Let's take full advantage of this favor\! We're using Mankai, Itsuki\!  
 **Itsuki:** Wait for me, Onee-chan\! I'm going too\!  
 **Suzuka:** What is that about... They're overwhelmingly more capable than before.  
-**Sonoko:** That's called Mankai. It's a Hero's ultimate weapon\~.  
+**Sonoko:** That's called Mankai. It's a Hero's ultimate weapon\~\.  
 **Mihono:** And, all of you can do that?  
 **Karin:** Yep. I'll show you what a complete Hero's Mankai looks like\!  
 **Sonoko:** I'm going with you\~\!  
@@ -429,7 +429,7 @@ While Mihono was making bucket pudding with Yuuna and the others...
 **Mihono:** Wait, this isn't one of those pyramids. What is it?  
 **Sonoko:** Hmm, I haven't seen this before, but... I'm not getting a bad feeling from it, so I don't think it's dangerous?  
 **Mihono:** Okay, then I'm going to try touching it\!  
-**Sonoko:** You really are a "leap before you look\!\" kind of girl, aren't you, Mihocchi\~. Just like Yuuyu.  
+**Sonoko:** You really are a "leap before you look\!\" kind of girl, aren't you, Mihocchi\~\. Just like Yuuyu.  
 **Mihono:** You mean Yuuna? Well you're right, I feel like I could really get along with her\!  
 **Tougou:** Fufu, that's true. You two are very much alike, so I'm sure you would get along.  
 **Tougou:** But, the closest one to Yuuna-chan will always be me.  
@@ -438,7 +438,7 @@ While Mihono was making bucket pudding with Yuuna and the others...
 **Mihono:** Eh... Huh?  
 **Tougou:** What is it?  
 **Mihono:** Ah... It's like... I remembered. When we were in that Jukai place, all of us fighting along with the Heroes... Huh? Why did I forget about that, anyway?  
-**Sonoko:** After touching the strange object that came from the aradama, your memories came back...? Here, let me see that for a minute\~.  
+**Sonoko:** After touching the strange object that came from the aradama, your memories came back...? Here, let me see that for a minute\~\.  
 **Sonoko:** Ah. There's a message, on the Hero app on our phones... "Sensing a spiritual power"?  
 **Sonoko:** ...Hmmmm, if the app is reacting to it, then maybe this could be, a piece of the Shinju-sama's power\~?  
 **Tougou:** Then, when Mihono-chan came in contact with the Shinju-sama's power, her memories of us returned?  
@@ -464,7 +464,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Itsuki:** Okay, I'll be in your care.  
 **Yui:** -\!\!  
 **Yui:** (Wh-What is this, this feeling...)  
-**Yui:** (This is different from what I feel with everyone in the investigation team... Could this be, my motherly instincts\!\?)  
+**Yui:** (This is different from what I feel with everyone in the investigation team... Could this be, my motherly instincts\!\?\)  
 **Itsuki:** Yui-san?  
 **Yui:** It's nothing at all, nothing at all.  
 **Yui:** [inhale]... [exhale]... Okay\! While we're moving around together, you can feel free to think of me as your big sister\!  
@@ -482,7 +482,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama...
 **Yui:** Fuhehe, you're so cuteee...  
 **Itsuki:** Yui-san?  
 **Yui:** [drool]... Oops.  
-**Yui:** (Control yourself\! I've gotta make big sister moves in front of Itsuki-chan\!)  
+**Yui:** (Control yourself\! I've gotta make big sister moves in front of Itsuki-chan\!\)  
 **Yui:** Aradama\!\? Itsuki-chan, get ready for battle\!  
 **Itsuki:** Right\!  
 

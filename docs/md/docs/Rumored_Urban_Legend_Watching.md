@@ -36,7 +36,7 @@ Rumored Urban Legend Watching
 **Kuroko:** I only ensured that everyone had a more proper image of you.  
 **Kanami:** What kind of power do you have, Shokuhou-san?  
 **Misaki:** My power isss--  
-**Misaki:** A secret\~. It's not the kind of ability that's any fun to show off, you know?  
+**Misaki:** A secret\~\. It's not the kind of ability that's any fun to show off, you know?  
 **Kanami:** It isn't...? That's too bad.  
 **Kaoru:** Well, everybody's got their own circumstances.  
 **Mikoto:** ...Can we talk for a minute?  
@@ -183,7 +183,7 @@ The next day--
 **Misaki:** I only went along with you for a little, but it wasn't such a bad way of killing time, was it?  
 **Ruiko:** For sure. I got to experience all sorts of things while we were investigating too.  
 **Kaoru:** That's all we wanted to hear. Right?  
-**Nene:** Ne\~\~.  
+**Nene:** Ne\~\~\.  
 **Mikoto:** It doesn't look like how I pictured it, but... This is cute too... I want touch it.  
 **Kaoruko:** In a sense, your reaction was just as I pictured, Onee-sama...  
 **Kazari:** What's this little guy's name?  
@@ -215,7 +215,7 @@ The next day--
 **Kaoru:** Fine, I guess we can try some things out-. It's not like he doesn't like you or anything, Mikoto.  
 **Mikoto:** \!  
 **Kaoru:** Nene, c'mere for a sec.  
-**Nene:** Nene\~.  
+**Nene:** Nene\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Qn8sW115TSU"></iframe>](:Iframe)  
 
 ## [Railgun - Kofuki: Start]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!

@@ -375,7 +375,7 @@ At that time, with the investigation team--
 **Hiyori:** That's how she's always been. Kind on one side, but--  
 **Kanami:** Cold and self-centered?  
 **Hiyori:** That's right.  
-**Kanami:** (Wait...? Was it Hiyori-chan who told me that?)  
+**Kanami:** (Wait...? Was it Hiyori-chan who told me that?\)  
 **Hiyori:** Don't go thinking this is unfair.  
 **Kanami:** ...I won't. Using that is just one of your talents. It's just a different tactic than mine.  
 **Hiyori:** ...That's impossible\!\?  

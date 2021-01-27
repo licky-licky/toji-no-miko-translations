@@ -102,7 +102,7 @@ https://streamable.com/v024ow
 **Kiyoka:** What are you going to do, Yui-chan?  
 **Tsugumi:** Yamashiro-san has said she'll be participating.  
 **Kiyoka:** Oh, really...  
-**Kiyoka:** (Why is Yui-chan the only one who was already part of this...?)  
+**Kiyoka:** (Why is Yui-chan the only one who was already part of this...?\)  
 **Kiyoka:** I think... I won't be joining in this time. Tsugumi-san, I'm curious what it is you do while we're in VR, so could I stay here and watch?  
 **Yui:** ...  
 **Tsugumi:** ...Understood. Please stay here and support me, Musumi-san.  

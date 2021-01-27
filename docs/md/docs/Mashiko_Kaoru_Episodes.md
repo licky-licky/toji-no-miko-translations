@@ -16,7 +16,7 @@ Mashiko Kaoru Episodes
 **Teacher:** Don't talk like that. All of you need to be able to work together.  
 **Classmate:** But Mashiko-san helps aradama, doesn't she? That's what my father said\! The Mashiko family is all like that.  
 **Classmate:** There's no way we can fight alongside someone like her\! What if she gets us hurt\!  
-**Nene:** Ne\~...  
+**Nene:** Ne\~\...  
 **Classmate:** See, she always has that weird aradama with her too. Who knows when it might try attacking us...  
 **Kaoru:** Nene would never hurt anybody\!  
 **Kaoru:** And I'm the one who doesn't want to work with toji like you\! You only think of yourselves\!  
@@ -66,17 +66,17 @@ Mashiko Kaoru Episodes
 **Kozue:** ...Understood\! Good luck in your search\!  
 **Kozue:** ...She's nothing like I heard... Mashiko-san is such a determined toji\!  
 **Kozue:** She makes good judgment calls, and has a strong sense of responsibility...  
-**Kozue:** She didn't even complain once about being assigned such a basic mission. I have a newfound respect for her\~.  
+**Kozue:** She didn't even complain once about being assigned such a basic mission. I have a newfound respect for her\~\.  
 **Kozue:** Alright, I have to do my best assisting her. I can't overlook any bit of information that might help\!  
-**Kaoru:** Ahh\~... What a pain. That's enough for today.  
+**Kaoru:** Ahh\~\... What a pain. That's enough for today.  
 **Nene:** Ne\~\!  
 **???:** Man, you're so cool, Kaoru-chan\! I couldn't feel safer with a toji like you around\!  
 **Kaoru:** Heh, keeping the town safe's a small price to pay for getting to eat the super famous "Mare Sushi"'s sushi free of charge.  
 **Kaoru:** Ah, I'll have some kanpyo rolls, thanks.  
 **Sushi Shop's Boss:** You got it\! Hey, Kaoru-chan, you should hang out here forever.  
-**Kaoru:** I don't know\~. I'm a pretty busy girl\~.  
+**Kaoru:** I don't know\~\. I'm a pretty busy girl\~\.  
 **Sushi Shop's Boss:** Well we can figure something out\! We'd do anything for you toji\! Here, your kanpyo rolls are ready\!  
-**Kaoru:** If you insist\~. I guess I'll think about it. (chew chew)...  
+**Kaoru:** If you insist\~\. I guess I'll think about it. (chew chew)...  
 **Kaoru:** Mmm\~\~\~\! So good. Boss, your sushi's the best. Next up, make it crab, salmon roe, and urchin.  
 **Nene:** Nenene\~\!  
 **Kaoru:** Throw in some engawa too.  
@@ -91,10 +91,10 @@ Mashiko Kaoru Episodes
 **Kiyoka:** He doesn't seem scary either, actually, kind of cute... Um, is it okay if I pet him?  
 **Nene:** (dodge)  
 **Kiyoka:** H-Huh?  
-**Mihono:** Kiyoka-chan, you have to approach animals gently so they understand you aren't trying to hurt them\~. Get close slowly, so they don't get scared, and...  
+**Mihono:** Kiyoka-chan, you have to approach animals gently so they understand you aren't trying to hurt them\~\. Get close slowly, so they don't get scared, and...  
 **Nene:** (dodge)  
 **Mihono:** H-Huh? He keeps running off... Is Nene afraid of strangers?  
-**Ellen:** No, actually, the thing about Nene... He loves big busts most of all\~.  
+**Ellen:** No, actually, the thing about Nene... He loves big busts most of all\~\.  
 **Kiyoka:** Ehh\!\? S-So that means, we...  
 **Mihono:** Th-That's rude\! All of a sudden you're not so cute anymore\!  
 **Kaoru:** Nene can see the future when it comes to chest sizes too. Hate to break it to you.  
@@ -114,7 +114,7 @@ Mashiko Kaoru Episodes
 **Mihono:** Yeah, but, uhh... Look how cute he is\! And see, you're scaring him\!  
 **Kofuki:** Huh? What are you talking about? Every single aradama-chan's cute\!  
 **Kofuki:** Get it? Don't go thinking you're some special kind of cute, okay?  
-**Nene:** N-Nene\~...  
+**Nene:** N-Nene\~\...  
 **Kaoru:** Oi. Go ahead and try it. See if you can get through me first.  
 **Kofuki:** ...  
 **Kaoru:** ...  
@@ -122,7 +122,7 @@ Mashiko Kaoru Episodes
 **Kofuki:** ...Heh, it was just a joke. As much as I love aradama-chan, a chihuahua like that's not gonna be any fun.  
 **Kofuki:** ...But when I haven't seen any in a while, and I start getting bored, who knows.  
 **Kaoru:** Nene. Never under any circumstances be alone with her.  
-**Nene:** Ne\~\~\~...  
+**Nene:** Ne\~\~\~\...  
 
 ## 4: Highlights from the Tournament Selection Quarterfinals
 **Announcer:** In a moment, the first match of the quarterfinals will begin. Mashiko Kaoru, Maruyama Akane, step forward\!  
@@ -131,10 +131,10 @@ Mashiko Kaoru Episodes
 **Kaoru:** (I carelessly got in a few wins, and now if I win here, who knows how long it'll be before they let me go...)  
 **Kaoru:** (...Okay. This time I'm gonna lose for sure. Any toji who made it to the quarterfinals should be able to dodge if I do big slow　swings.)  
 **Referee:** Bow\!  
-**Kaoru:** (And, if I do it right, there's no way she'll ignore such a huge opening. Alright... With this plan, I'll shoot for a speedy defeat\!)  
+**Kaoru:** (And, if I do it right, there's no way she'll ignore such a huge opening. Alright... With this plan, I'll shoot for a speedy defeat\!\)  
 **Referee:** Begin\!  
 **Kaoru:** Kieee.  
-(WHAM\!\!)
+(WHAM\!\!\)
 
   
 **Kaoru:** ......Huh?  
@@ -145,11 +145,11 @@ Mashiko Kaoru Episodes
 **Akane:** Come on and show me---\!\!\!  
 **Kaoru:** A-Are you for real\!\?  
 **Akane:** We'll do it fair and square\! Blocking every hit\! Feeling the results of all each other's training\!  
-**Kaoru:** (This is the worst... She's a total meat for brains. The natural enemy to my big instant defeat operation...\!)  
+**Kaoru:** (This is the worst... She's a total meat for brains. The natural enemy to my big instant defeat operation...\!\)  
 **Kaoru:** (If we keep exchanging hits like this, I'm going to start feeling it too...)  
 **Kaoru:** (And this hot-bloodedness... No mistaking it, she's a real stamina monster... This match could really drag on...)  
 **Akane:** Was that enough warmup for you? The real deal starts here-\!  
-**Kaoru:** (...Hell no\! I have to do something to get out of this situation...\!)  
+**Kaoru:** (...Hell no\! I have to do something to get out of this situation...\!\)  
 **Kaoru:** KIEEEEE\!  
 **Akane:** Gwahh-\!  
 **Referee:** That's enough\!  
@@ -163,7 +163,7 @@ Mashiko Kaoru Episodes
 ## 5: They're a Great Pair
 **Ellen:** The target aradama both ran in different directions\!  
 **Ellen:** Kaoru, let's split up\! You take the one that went that way\!  
-**Kaoru:** Well, I guess we've got no choice... I'm on it\~.  
+**Kaoru:** Well, I guess we've got no choice... I'm on it\~\.  
 **Ellen:** I'm counting on you\! I'll see you later\!  
 **Kaoru:** That's how it was supposed to go, but...  
 **Kaoru:** Pant, pant... This one, it's way too fast...  
@@ -178,7 +178,7 @@ Mashiko Kaoru Episodes
 **Kaoru:** ......  
 **Ellen:** Kaoru-\! I took care of the aradama on my end\~\! What about yours...  
 **Ellen:** ......Kaoru\~? Why're you swinging around on Nenemirimaru? Some new game you invented?  
-**Kaoru:** If it is, it's no fun. I can't get it loose. Help me\~.  
+**Kaoru:** If it is, it's no fun. I can't get it loose. Help me\~\.  
 **Ellen:** Oh\! That's bad\! Wait a second, I'll help\!  
 **Ellen:** I'm going to start pulling, okay\~? Heave, ho\~\!  
 **Kaoru:** Owowowww\! You're gonna rip me in half\!  
@@ -216,7 +216,7 @@ Mashiko Kaoru Episodes
 **Mihono:** Ah, I'm number 1, Kaoru-san\!  
 **Kaoru:** Guess we're together, Mihono.  
 **Ellen:** Is everyone paired up? Now then, number 1, start us off\!  
-**Mihono:** Hmhmhmm\~.  
+**Mihono:** Hmhmhmm\~\.  
 **Kaoru:** It's supposed to be a test of courage, so what're you humming for? Aren't you scared?  
 **Mihono:** I come out in the mountains at night for missions and training and stuff, so there's no way it'd be scary.  
 **Kaoru:** (When she says it all matter of factly like that, it makes me want to scare her...)  
@@ -226,7 +226,7 @@ Mashiko Kaoru Episodes
 **Mihono:** I'm fine with that, but... There's not really any ghost stories I know off the top of my head.  
 **Kaoru:** Don't worry about it. I've got the best ghost story to tell.  
 **Mihono:** Huh, you do\!\? What's it about?  
-**Kaoru:** (Kukuku, Mihono. You won't be making that face for long\!)  
+**Kaoru:** (Kukuku, Mihono. You won't be making that face for long\!\)  
 **Kaoru:** Actually, this one's about where we're walking right now.  
 **Mihono:** Okay.  
 **Kaoru:** This place used to be a graveyard.  
@@ -276,7 +276,7 @@ Mashiko Kaoru Episodes
 
 ## [Misogi - Kaoru: Start]: A Little About the Past
 **Kaoru:** Today's kinda hot, isn't it-... My water bottle's already run dry...  
-**Nene:** Ne\~\~...  
+**Nene:** Ne\~\~\...  
 **Ellen:** I only have a little bit left in mine, but, want to drink it, Kaoru?  
 **Kaoru:** Gladly. Or at least, I'd want to, but, if you ran out of yours, that'd be bad too.  
 **Ellen:** Should we make a trip back to town then? We'd be losing a lot of time though.  
@@ -293,7 +293,7 @@ Mashiko Kaoru Episodes
 **Chie:** Ah, I'd like to hear about that too.  
 **Kaoru:** Give me a break...  
 **Ellen:** Don't be like that. Do it for meee.  
-**Nene:** Nenenene\~. Ne\~ne.  
+**Nene:** Nenenene\~\. Ne\~ne.  
 **Chie:** Nene-chan's asking for it too, see?  
 **Kaoru:** Kh... Letting her hold you like that; you're totally on her side now...  
 **Kaoru:** I'll tell you about it, but it's not all that interesting, okay?  
@@ -308,7 +308,7 @@ Mashiko Kaoru Episodes
 **Kaoru:** Becoming a toji meant you got to defeat aradama, after all.  
 **Ellen:** What else were you like?  
 **Kaoru:** What else-; when I was a kid, I played with my grandpa a lot too. I always felt at ease being around him.  
-**Ellen:** Since I love my grandpa too, that makes us the same\~.  
+**Ellen:** Since I love my grandpa too, that makes us the same\~\.  
 **Chie:** I'd imagine you always got along with Nene-chan too, right?  
 **Nene:** Ne\!  
 **Kaoru:** About Nene...  
@@ -384,7 +384,7 @@ Mashiko Kaoru Episodes
 **Ellen:** If that's what we've decided on, then leave the hotel reservations to me-\! I'll call a friend of mine-\!  
 **Kiyoka:** A friend who will reserve us a hotel room...?  
 **Kaoru:** She's got a lot of weird friends, so don't think too hard about it.  
-**Kaoru:** I'm all filled up\~.  
+**Kaoru:** I'm all filled up\~\.  
 **Ellen:** You sound like an old man, Kaoru.  
 **Kiyoka:** But, it really was delicious. You'll have to thank your friend for me, Ellen-san, for telling us about this restaurant\!  
 **Ellen:** I'll be sure to let them know-\! Now then, about the hotel... It's this way.  
@@ -481,7 +481,7 @@ The Nenegurumi Shop, 3 hours before opening.
 **Minaki:** I thought I got you feeling motivated\!\?  
 **Kaoru:** Nah, nah, there's no way I'd be. Though, I'll try in my own way.  
 **Minaki:** Kaorucchi...  
-**Minaki:** (...Huh? Isn't she moving a little livelier than before...?)  
+**Minaki:** (...Huh? Isn't she moving a little livelier than before...?\)  
 **Minaki:** Ahaha, you just can't be honest, huh Kaorucchi\!  
 The Nenegurumi Shop, 2 hours before opening.
 

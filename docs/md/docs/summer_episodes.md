@@ -7,8 +7,8 @@ https://streamable.com/n46xcn
 
 ## [Summer Uniform - Ellen: Start]: Meeting Up With Kaoru and Nene\~
 **Kaoru:** Are you guys already getting into it-?  
-**Nene:** Nene\~.  
-**Ellen:** Kaoru\~\! I'm glad you made it\~. Good work on your mission.  
+**Nene:** Nene\~\.  
+**Ellen:** Kaoru\~\! I'm glad you made it\~\. Good work on your mission.  
 **Kaoru:** Getting R&R is something I specialize in, just as much as orders to wait on standby and break.  
 **Kaoru:** Actually, you guys haven't finished up the barbecue yet, have you?  
 **Ellen:** No problem. We still have plenty of ingredients left-. You and Nene can both eat your fill.  
@@ -18,7 +18,7 @@ https://streamable.com/n46xcn
 **Kaoru:** Is that so. Though, I'm not seeing Mihono herself around?  
 **Chie:** Mihono-chan and Kiyoka-chan are taking a little break after eating...  
 **Ellen:** Naonao, could you save the meat you're grilling now for Kaoru?  
-**Uraga Nao:** Sure thing. The hard workers among us need to make sure to get enough nourishment\~.  
+**Uraga Nao:** Sure thing. The hard workers among us need to make sure to get enough nourishment\~\.  
 **Kaoru:** The president must have me confused for a workhorse or something. She doesn't even give me carrots either...  
 **Ellen:** We have carrots here. Go on and eat up-.  
 **Kaoru:** No way; let me get some meat first\!  
@@ -36,7 +36,7 @@ https://streamable.com/n46xcn
 **Ellen:** Ah, you should try the ones she grilled slow at low temperature too.  
 **Kaoru:** I guess I'll have some of that then.  
 **Nene:** Nene-\!  
-**Nao:** Not yet\~. These ones need to cook a little longer. Understand\~?  
+**Nao:** Not yet\~\. These ones need to cook a little longer. Understand\~?  
 **Nene:** Ne...  
 **Ellen:** The barbecue boss's orders are absolute, Kaoru.  
 **Kaoru:** ...R-Right. Anyway, Mihono and Kiyoka still aren't back yet?  
@@ -49,11 +49,11 @@ https://streamable.com/8my7qs
 ## [Summer Uniform - Ellen: End]: After a Mission, You Take a Break\!
 **Kaoru:** Having somebody else grill for you isn't bad, but you've gotta try barbecuing your own meat.  
 **Kaoru:** When it starts sizzling, the sound alone's enough to taste it.  
-**Nene:** Ne\~.  
+**Nene:** Ne\~\.  
 **Ellen:** That's definitely one way to enjoy it-.  
 **Kaoru:** The smell when it's grilling's good too.  
 **Ellen:** [yawn]... Nice weather and a full stomach... I'm getting sleepy.  
-**Ellen:** Kohagura Ellen, now switching over to comfy mode\~.  
+**Ellen:** Kohagura Ellen, now switching over to comfy mode\~\.  
 **Kaoru:** Skewers are ready; you want one, Ellen?  
 **Ellen:**  Nnn... Getting up's too much work. I wonder if I caught this from you, Kaoru?  
 **Ellen:** Since we're always together, it must have only been a matter of time.  
@@ -133,14 +133,14 @@ The day of the barbecue--
 **Uraga Nao:** Oh, Asakura-san. Need me to grill more\~?  
 **Mihono:** Ah, no, I'll be fine\! I want to try grilling it myself\!  
 **Mihono:** The barbecue boss should enjoy her own food\!  
-**Nao:** Grilling it yourself is fun too, isn't it\~.  
+**Nao:** Grilling it yourself is fun too, isn't it\~\.  
 **Nao:** Wait... When did I start letting the barbecue boss title slide...?  
 **Mirja:** It's the truth, so isn't it better this way?  
-**Nao:** Mirja, if you're going to be like that, I'm not giving you a taste of this perfect combination of baguettes al ajillo\~.  
+**Nao:** Mirja, if you're going to be like that, I'm not giving you a taste of this perfect combination of baguettes al ajillo\~\.  
 **Nao:** Want some, Setouchi-san\~?  
 **Chie:** It looks delicious; I think I will.  
 **Mirja:** Urgh... So your next strategy is to starve me out. I'll stop spreading the word of the barbecue boss...  
-**Mihono:** What should I do now\~. Ah, skewers might be good\!  
+**Mihono:** What should I do now\~\. Ah, skewers might be good\!  
 **Kiyoka:** Hono-chan\! Hold on a minute\!  
 **Mihono:** Wawah\!\? Kiyoka\!\? Wh-What's up?  
 **Kiyoka:** Hono-chan, your meat was so tasty that we were forgetting something important\!  
@@ -152,7 +152,7 @@ The day of the barbecue--
 **Mihono:** It's a good idea, right?  
 **Kiyoka:** I can't disagree with that...  
 **Kiyoka:** ...B-But, no. You almost got me, but, if meat is what we already have in common, then we have to try copying them with things besides meat\!  
-**Mihono:** Ehh\~... Ah, wait, hang on. Just the stuff I'm grilling right now then\~... It'd be a waste otherwise\!  
+**Mihono:** Ehh\~\... Ah, wait, hang on. Just the stuff I'm grilling right now then\~\... It'd be a waste otherwise\!  
 **Kiyoka:** It's not good to waste food, is it.  
 **Mihono:** So you get it\! Meat's definitely good for growing\! Boobs are meat too, right\!  
 **Kiyoka:** Then, let's quickly eat up the meat you're grilling now\!  
@@ -165,8 +165,8 @@ The day of the barbecue--
 **Kiyoka:** We can't do that; if we don't eat fast, we won't be able to eat all the same foods.  
 **Mihono:** Kgh...  
 **Mihono:** A-Alright, Kiyoka\! [chew chew]...\!  
-**Mihono:** (Kiyoka... She's way too eager about Alliance stuff... I mean, sometimes she puts on too much pressure\!)  
-**Mihono:** (All I wanted was to really savor the meat\~\!)  
+**Mihono:** (Kiyoka... She's way too eager about Alliance stuff... I mean, sometimes she puts on too much pressure\!\)  
+**Mihono:** (All I wanted was to really savor the meat\~\!\)  
 **Chie:** Fufu, look at Mihono-chan and Kiyoka-chan scarfing down the meat.  
 **Chie:** They must have really been excited for the barbecue.  
 https://streamable.com/sk4o2p
@@ -235,7 +235,7 @@ https://streamable.com/zxsaxd
 **Hiyori:** And also... The rainy season only just stopped. It'd be good to set camping aside and come up with plans.  
 **Kanami:** Good idea\! Since it's the summer season, I want to go with everyone to see the sea or a festival\!  
 **Hiyori:** The sea...  
-**Hiyori:** (I'd have to bring a swimsuit for that, wouldn't I... Kh\!)  
+**Hiyori:** (I'd have to bring a swimsuit for that, wouldn't I... Kh\!\)  
 **Kanami:** Hiyori-chan?  
 **Hiyori:** Ah, no, it's nothing.  
 **Hiyori:** You're right... The sea would be good too, wouldn't it...  
@@ -261,7 +261,7 @@ https://streamable.com/t222j3
 **Mihono:** Ah, I'm number 1, Kaoru-san\!  
 **Kaoru:** Guess we're together, Mihono.  
 **Ellen:** Is everyone paired up? Now then, number 1, start us off\!  
-**Mihono:** Hmhmhmm\~.  
+**Mihono:** Hmhmhmm\~\.  
 **Kaoru:** It's supposed to be a test of courage, so what're you humming for? Aren't you scared?  
 **Mihono:** I come out in the mountains at night for missions and training and stuff, so there's no way it'd be scary.  
 **Kaoru:** (When she says it all matter of factly like that, it makes me want to scare her...)  
@@ -271,7 +271,7 @@ https://streamable.com/t222j3
 **Mihono:** I'm fine with that, but... There's not really any ghost stories I know off the top of my head.  
 **Kaoru:** Don't worry about it. I've got the best ghost story to tell.  
 **Mihono:** Huh, you do\!\? What's it about?  
-**Kaoru:** (Kukuku, Mihono. You won't be making that face for long\!)  
+**Kaoru:** (Kukuku, Mihono. You won't be making that face for long\!\)  
 **Kaoru:** Actually, this one's about where we're walking right now.  
 **Mihono:** Okay.  
 **Kaoru:** This place used to be a graveyard.  

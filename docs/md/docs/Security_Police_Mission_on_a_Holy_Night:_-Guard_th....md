@@ -7,14 +7,14 @@ Security Police Mission on a Holy Night: -Guard th...
 **Suzuka:** Sorry to keep you waiting, Inago-san, Iwakura-san, Asakura-san, Musumi-san, Inami-san.  
 **Suzuka:** On Christmas, we'll have you assigned to security duty for a party the Five Traditions are hosting.  
 **Suu:** ...  
-**Suu:** (I ended up on a mission with some delinquent... Somebody, swap with me\!\!)  
+**Suu:** (I ended up on a mission with some delinquent... Somebody, swap with me\!\!\)  
 **Mihono:** It's been a while since we got a mission together, huh, Akira-san\!  
 **Akira:** Definitely. I'm gonna be looking to see how much you've grown.  
 **Mihono:** Sure thing\!  
 **Kiyoka:** (Hono-chan looks like she's enjoying this... There's some things I want to go over with her, but... I think I'll save it for later.)  
 **Kiyoka:** I'm looking forward to working with you, Sanae-san.  
 **Sanae:** Mm, I'm looking forward to working with you too, Musumi-san.  
-**Suu:** (Come to think of it, Kiyoka-san and Iwakura-san are from Heijou... So then, since Hokuto-san's from Heijou too, why didn't they pick her instead of me?)  
+**Suu:** (Come to think of it, Kiyoka-san and Iwakura-san are from Heijou... So then, since Hokuto-san's from Heijou too, why didn't they pick her instead of me?\)  
 **Mihono:** You look like something's bothering you, Inami-san? Did you get a tummyache?  
 **Suu:** Ah, I'm fine. Just thinking about something...  
 **Akira:** Nn? And you're...  
@@ -23,7 +23,7 @@ Security Police Mission on a Holy Night: -Guard th...
 **Akira:** Inami, huh. What's your first name?  
 **Suu:** It's Suu... But, um, you don't have to go out of your way to remember it or anything...  
 **Akira:** You don't have to be such a downer; we're on the same team together\! Glad to have ya, Suu.  
-**Suu:** (She remembered my nameeeeeeeeeeeeee\!\!)  
+**Suu:** (She remembered my nameeeeeeeeeeeeee\!\!\)  
 **Suu:** Um... Mihono-san... About Inago-san, is she... a delinquent?  
 **Mihono:** No way\! There's some people who call her Boss, but Akira-san just likes dressing like that.  
 **Suu:** Boss\!\?  
@@ -38,7 +38,7 @@ Security Police Mission on a Holy Night: -Guard th...
 **Kiyoka:** Hono-chan, I wanted to talk to you about... Oh, she's not here?  
 **Kanami:** Huh, Musumi-san? If you're looking for Mihono-chan, as soon as school was over, she ran off somewhere. Did you need her for something?  
 **Kiyoka:** Mm-mm, it's alright. Thanks for letting me know, Etou-san.  
-**Kiyoka:** (I wonder where Hono-chan could have gone?)  
+**Kiyoka:** (I wonder where Hono-chan could have gone?\)  
 **Sanae:** Asakura-san's gone too?  
 **Kiyoka:** The way you said that, does that mean...  
 **Sanae:** Yeah. Inago-san and Inami-san don't seem to be around either.  
@@ -91,7 +91,7 @@ Several days later.
 **Mihono:** Ahh... It's cold\!  
 **Suu:** With how cold it is, I'm scared of getting hurt, so maybe we could cancel training...?  
 **Kiyoka:** Ahaha, I don't think that's going to happen... Oh? Hono-chan, there's a hole in your glove?  
-**Mihono:** I know, Kiyoka\~. Akira-san's training was so rough that it got torn up\~.  
+**Mihono:** I know, Kiyoka\~\. Akira-san's training was so rough that it got torn up\~\.  
 **Kiyoka:** (It's almost Christmas, so I could get Hono-chan a present...)  
 **Kiyoka:** ......Ah\!  
 **Mihono:** Did you think of something, Kiyoka?  
@@ -115,10 +115,10 @@ On a day off.
 **Mihono:** Christmas cakes... All creamy... Okay, I'll go with moisturizer cream\!  
 **Kiyoka:** Ahaha, only you would make up your mind like that, Hono-chan. For mine... Since it's Christmas, I think I'll get a snowglobe.  
 **Mihono:** Then, let's all split up and buy our stuff\!  
-**Shopkeeper:** Thank you very much\~.  
+**Shopkeeper:** Thank you very much\~\.  
 **Kiyoka:** Okay, I got a cute one. All that's left is...  
-**Kiyoka:** (Gloves for Hono-chan\! I'll sneak over and buy her some\!)  
-**Kiyoka:** (Fufu, how happy will Hono-chan be when she gets them?)  
+**Kiyoka:** (Gloves for Hono-chan\! I'll sneak over and buy her some\!\)  
+**Kiyoka:** (Fufu, how happy will Hono-chan be when she gets them?\)  
 
 ## 6: Ceremonial Guard (6)
 **Sanae:** Inago-san and the others sure are late...  
@@ -130,8 +130,8 @@ On a day off.
 **Sanae:** Did you run into trouble?  
 **Akira:** Nah, nothing like that happened today, so it's all good. It's cause I had Mihono and Suu with me.  
 **Mihono:** Eh\!\?  
-**Mihono:** (All that stuff happened, and she doesn't call that trouble...?)  
-**Suu:** (I'm never going to wake Inago-san up, no way\!)  
+**Mihono:** (All that stuff happened, and she doesn't call that trouble...?\)  
+**Suu:** (I'm never going to wake Inago-san up, no way\!\)  
 **Sanae:** ...So anyway, let's split into two teams like we planned and start our guard duty\!  
 **Mihono:** Hey, Kiyoka, Inami-san.  
 **Kiyoka:** What is it?  
@@ -183,7 +183,7 @@ On a day off.
 **Akira:** Mine's... Aroma oil?  
 **Suu:** Ah, that's the present I picked out\!  
 **Akira:** Huh, thanks, Suu\!  
-**Suu:** (That was close... Thank god I didn't go with fan merch\!)  
+**Suu:** (That was close... Thank god I didn't go with fan merch\!\)  
 **Suu:** Mine's moisturizer cream, so... Wasn't that from Mihono-san?  
 **Mihono:** I made sure to get some that smelled good\! I'll open mine next\! Oh, it's a handkerchief\!  
 **Sanae:** Ah, that's the present I chose. I tried to go with something that wouldn't trouble anybody...  

@@ -162,7 +162,7 @@ At that time, outside the school festival grounds--
 **Suzuka:** We decided it would be a better use of their talents putting people in roles they're more accustomed to.  
 **Maki:** Musumi Kiyoka. I'd like for you to start working in your new position straight away.  
 **Kiyoka:** Ah... Understood\! Of course I will\!  
-**Kiyoka:** (I can't believe I get to serve guests at the maid cafe\! I'm so glad I tried the executive committee\!)  
+**Kiyoka:** (I can't believe I get to serve guests at the maid cafe\! I'm so glad I tried the executive committee\!\)  
 **Passing Guest:** Excuse me, I want to go to the maid cafe. Can you tell me which way it is?  
 **Kiyoka:** In that case, I'll guide you there, master\!  
 **Suzuka:** Musumi-san immediately understands how to win a guest's heart. Having them switch positions was the right idea after all.  

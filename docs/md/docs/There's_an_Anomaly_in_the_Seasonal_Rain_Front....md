@@ -6,7 +6,7 @@ There's an Anomaly in the Seasonal Rain Front...
 ## 1: A Picnic for Two\!
 **Weatherman:** --The seasonal rain front has been hanging over Japan, but if it continues rising north like this... We expect the rainy season to have cleared up by this weekend.  
 **Mai:** (Ah, the rainy season is ending.)  
-**Mai:** (We'll finally have some sun for once... What should I do? Of course, I should take care of the laundry that's been gathering up, but it's sort of lonesome if that's all I have planned, isn't it?)  
+**Mai:** (We'll finally have some sun for once... What should I do? Of course, I should take care of the laundry that's been gathering up, but it's sort of lonesome if that's all I have planned, isn't it?\)  
 **Kanami:** Mai-chan, what are you watching on TV?  
 **Mai:** Oh, Kanami-chan.  
 **Mai:** It's just the weather report. They say the rainy season will clear up this weekend.  
@@ -30,17 +30,17 @@ There's an Anomaly in the Seasonal Rain Front...
 **Mai:** Let's get everything ready for the bento\! Since we're having a picnic and all, I can get a little extravagant.  
 **Mai:** Karaage, ginger fried pork, hijiki kinpira. With this many brown colored foods, I should add a side dish of boiled spinach with soy sauce, tamagoyaki with tomatoes, and some Chinese style cucumber salad\!  
 **Mai:** After that... Kanami-chan's favorite: natto over rice\! ...I can't make that now though... Oh, right\! I can just set the rice cooker for tomorrow morning... There\!  
-**Mai:** Fufu\~. Mr. Teru Teru Bozu, I'll be needing your help tomorrow\~. [teru teru bozu are simple dolls made to pray for a sunny day]  
+**Mai:** Fufu\~\. Mr. Teru Teru Bozu, I'll be needing your help tomorrow\~\. [teru teru bozu are simple dolls made to pray for a sunny day]  
 --The day of the picnic.
 
   
 **Weatherman:** --In what would normally be an unthinkable weather pattern, it seems the rainy season will be continuing over this particular area for a while longer.  
 **Mai:** Eh\!\?  
-**Mai:** (The rainy season cleared up everywhere besides the spot we were planning to go picnicking at\!\?)  
+**Mai:** (The rainy season cleared up everywhere besides the spot we were planning to go picnicking at\!\?\)  
 **Hiyori:** Look at that... The rain front's a total V shape. It's like it got stuck on something there.  
 **Kofuki:** Is it cause of the air pressure or something?  
 **Mai:** ...Sigh.  
-**Mai:** (There's nothing I can do about it. The bento is already made, so I'll search for a place nearby with a good view, and we can go there instead\!)  
+**Mai:** (There's nothing I can do about it. The bento is already made, so I'll search for a place nearby with a good view, and we can go there instead\!\)  
 **Mai:** (It's a shame I won't be able to take Kanami-chan to that spot though...)  
 **Kofuki:** Hey, it's a mission\!  
 **Hiyori:** They messaged me too. And...  
@@ -72,7 +72,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Yui:** Fufufu, it's all becoming clear now...  
 **Yui:** The reason this place is the only spot where the rain didn't go away is because the aradama stole the teru teru bozu\!\!  
 **Kofuki:** Get real.  
-**Mai:** (Defeating the aradama gets rid of the rain? Could that actually be the case?)  
+**Mai:** (Defeating the aradama gets rid of the rain? Could that actually be the case?\)  
 **Mai:** (I did see the rain stop with my own eyes though...)  
 **Mai:** I'm going to check the weather forecast site real quick.  
 **Kanami:** What's it say, Mai-chan?  
@@ -106,7 +106,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Mai:** ...I'm glad to hear it.  
 **Mai:** (I made that bento so you could eat it here, after all...)  
 **Mai:** (It might not be the picnic we planned on, but I think this might be fine in its own way.)  
-**Kanami:** Ah\~, that totally hit the spot\~. I wish I could eat your cooking every day, Mai-chan\!  
+**Kanami:** Ah\~, that totally hit the spot\~\. I wish I could eat your cooking every day, Mai-chan\!  
 **Mai:** -\!\!  
 **Kofuki:** Oh, nothing helps a full stomach like some exercise\! That's my aradama-chan, always looking out for me\!  
 **Kofuki:** You're the last of 'em\! I love you\!  
@@ -127,7 +127,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Hiyori:** The weather forecast did say the rainy season would end today.  
 **Yui:** Exactly, which means, Mai-chan must have had plans to go on a date with someone today\!  
 **Kanami:** Ohh-\! That's amazing, Yui-chan\! You almost figured it out\!  
-**Hiyori:** (Wait, why did Kanami answer?)  
+**Hiyori:** (Wait, why did Kanami answer?\)  
 **Yui:** Was it with Sayaka-chan\!\? Were you going on a date with Sayaka-chan\!\?  
 **Kofuki:** Get ahold of yourself. If she were going on a date with Sayaka, there would've been a bunch of cookies in the bento box, right?  
 **Yui:** ...Ah-\! You're right\!\!  
@@ -152,7 +152,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Kanami:** Mai-chan.  
 **Mai:** What is it, Kanami-chan?  
 **Kanami:** Will you come take a walk with me?  
-**Mai:** (Kanami-chan... What could she want, asking that out of the blue?)  
+**Mai:** (Kanami-chan... What could she want, asking that out of the blue?\)  
 **Kanami:** Mai-chan, do you remember?  
 **Mai:** Eh?  
 **Kanami:** We've been here before.  

@@ -68,7 +68,7 @@ Treasure Hunt: A Gift From the Pirates
 **Mihono:** Ooh, that sounds kinda cool\!  
 **Kiyoka:** I wish we'd come during cherry blossom season. I bet it would have looked beautiful.  
 **Hiyori:** According to the map... It's that way? Let's go.  
-**All 3:** Okaaay\~.  
+**All 3:** Okaaay\~\.  
 **Hiyori:** The map says it should be here...  
 **Kiyoka:** In this park... Let me look it up for a minute.  
 **Mihono:** You think there's a pirates' cherry tree here?  

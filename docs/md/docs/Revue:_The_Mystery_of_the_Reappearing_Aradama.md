@@ -13,10 +13,10 @@ Revue: The Mystery of the Reappearing Aradama
 **Yui:** Hmm, pretty much the same as always. Just like my love for you, Mirja-san\!  
 **Mirja:** I have no need for that.  
 **Yui:** Ah, but listen to this\! The aradama today dropped something besides Suzudaru Cats.  
-**Yui:** See, look\! It's like a polar bear. If any of you girls want it, don't be shy\~.  
+**Yui:** See, look\! It's like a polar bear. If any of you girls want it, don't be shy\~\.  
 **Hikari:** That's, Mr. White...\!  
 **Karen:** He's Hikari-chan's favorite character\!  
-**Yui:** Well then, Hikari-san\! Here's a present for you\~. Treasure it like you would treasure me, okay\!  
+**Yui:** Well then, Hikari-san\! Here's a present for you\~\. Treasure it like you would treasure me, okay\!  
 **Hikari:** Th-Thank you...?  
 **Mahiru:** Good for you, Hikari-chan.  
 **Mai:** It's a real mystery why character goods are coming from the aradama, isn't it?  
@@ -33,7 +33,7 @@ Revue: The Mystery of the Reappearing Aradama
 **Hikari:** ...Just as we mentioned them.  
 **Karen:** We can't let them get away, Hikari-chan\!  
 **Kofuki:** Look at all the aradama-chan lining up\! C'mon, show me a good time\!  
-**Karen:** Ahh\~... I'm beat. It was a real shocker seeing that many of them show up.  
+**Karen:** Ahh\~\... I'm beat. It was a real shocker seeing that many of them show up.  
 **Karen:** Do you think they came because they heard us talking about them?  
 **Hiyori:** I've been thinking this for a while, but... The aradama coming here might be different from the ones we usually exorcise with our okatana.  
 **Yume:** Actually, this whole theater is pretty weird too. What's up with this place?  
@@ -52,7 +52,7 @@ Revue: The Mystery of the Reappearing Aradama
 **Aradama:** ......  
 **Kaoru:** Again with this...? Somebody teach the aradama how to slack off already.  
 **Kaoruko:** Honestly, having gone along with this so far, I wouldn't mind that myself.  
-**Mahiru:** I thought they'd give us lots of Suzudaru Cats, but... I won't know what to do if they just keep coming\~...  
+**Mahiru:** I thought they'd give us lots of Suzudaru Cats, but... I won't know what to do if they just keep coming\~\...  
 **Juuna:** Come on... Do you think now's the time for this, you three\!\?  
 
 ## 2:　Shaped Thoughts
@@ -90,7 +90,7 @@ Revue: The Mystery of the Reappearing Aradama
 **Tsugumi:** Hm, it seems we don't have a choice...  
 **Tsugumi:** Shichinosato-san\! Pardon me\!\!  
 **Kofuki:** MMGFGH\!\? Whaghre youpughng mymough... (What are you putting in my mouth...)  
-**Kofuki:** 0X#&$%\!\!\?\!\?? (IT'S FUCKING AWFUL\!\!\?\!\??)  
+**Kofuki:** 0X#&$%\!\!\?\!\?? (IT'S FUCKING AWFUL\!\!\?\!\??\)  
 **Karen:** Wait, what... What happened?  
 **Tsugumi:** Shichinosato-san's thoughts are giving creation to the aradama...  
 **Tsugumi:** With that hypothesis raised, my researcher's curiosity wanted to test it.  
@@ -141,7 +141,7 @@ Revue: The Mystery of the Reappearing Aradama
 **Yume:** Hey hey, you know, if the aradama are still coming, then...  
 **Yume:** What if there's somebody else besides that aradama loving onee-san that's still thinking about aradama all the time?  
 **Mirja:** Tsubakuro Yume, that's an excellent theory.  
-**Yume:** Ehehe, I got a compliment\~.  
+**Yume:** Ehehe, I got a compliment\~\.  
 **Mirja:** By nature, the stage girls should not be aware of aradama. It's difficult to believe they would have any strong thoughts about aradama from our fight with them here.  
 **Mirja:** We should examine the possibility that another toji besides Shichinosato Kofuki would wish for aradama to appear.  
 **Tsugumi:** I see, I see. So the true culprit was someone else, or perhaps they were working as a pair.  
@@ -154,7 +154,7 @@ Revue: The Mystery of the Reappearing Aradama
 **Mai:** Ufufu. Let's see, thinking back to them now, the aradama before Shichinosato-san went to sleep were sort of carelessly put together too. Like they were made in a frenzy...  
 **Tsugumi:** Hmm hmm, I see, I see. A bizarrely accurate imitation of normal aradama...  
 **Tsugumi:** Was there anything else?  
-**Yume:** There was this person shaped aradama I haven't really seen before too\! It was creepy, so I made sure to chop it up\~.  
+**Yume:** There was this person shaped aradama I haven't really seen before too\! It was creepy, so I made sure to chop it up\~\.  
 **Tsugumi:** Well now, a human type aradama?  
 **Hiyori:** Right, there was one of those too. It's movements were just bizarre. Honestly, I never want to see one of those again...  
 **Futaba:** It'd make a great training partner for swordfighting scenes though.  
@@ -205,7 +205,7 @@ Revue: The Mystery of the Reappearing Aradama
 **Mirja:** Yes. Though the chance may be small, if they were to remain here, it would cause a great many problems. I believe we should make sure our condition is the same as when we arrived.  
 **Kaoru:** Those two are dead asleep over there. It's making me jealous-.  
 **Kaoru:** Actually, maybe I shouldn't be... Not after they basically got knocked out cold.  
-**Nene:** Nene\~...  
+**Nene:** Nene\~\...  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/LkYpstF7b2U"></iframe>](:Iframe)  
 
 ## [Stage Girl: Start]: We'll Starlight\!

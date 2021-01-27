@@ -26,10 +26,10 @@ Iwakura Sanae Episodes
 **Kaoru:** He helps himself to whatever I'm eating, so I didn't get my fill...  
 **Sanae:** Then, what do you think about fried meat buns or gelato? For dessert.  
 **Kaoru:** Ooh, sounds nice. I'm interested in trying those fried meat buns.  
-**Sanae:** Then it's settled\~.  
+**Sanae:** Then it's settled\~\.  
 **Kaoru:** Freshly fried is the best. I could get addicted to that sweet sauce too. After checking this place out, Gunma's not so bad. Looks like they have hot springs here too.  
 **Sanae:** I'm glad to hear you feel that way.  
-**Sanae:** Nene\~.  
+**Sanae:** Nene\~\.  
 **Sanae:** Fufu, are you liking it here too, Nene-chan?  
 **Sanae:** If only every aradama could be more like Nene-chan.  
 **Kaoru:** Nene was supposed to be pretty wild in the past too. But it'd be great if other aradama could be this laid back. Would save us the trouble of having to hunt them down on missions.  
@@ -84,7 +84,7 @@ Iwakura Sanae Episodes
 **Sanae:** Hm? I can hear something, over that way. I wonder what it is?  
 **Hiyori:** HAA...\!  
 **Hiyori:** HNPH...\!  
-**Sanae:** (There, practicing with a sword, isn't that Juujou-san?)  
+**Sanae:** (There, practicing with a sword, isn't that Juujou-san?\)  
 **Sanae:** (She really is passionate about it. But, in her hand... I haven't seen that one before, but that's...)  
 **Sanae:** ...An okatana?  
 **Hiyori:** Wh-Who's there\!\?  
@@ -95,7 +95,7 @@ Iwakura Sanae Episodes
 **Hiyori:** That's right, the end of it is double-edged. It's an okatana made in an older time.  
 **Hiyori:** I got permission to take ownership of Kogarasumaru from President Gojou, but I'd appreciate it if you didn't mention this to anyone.  
 **Sanae:** Sure, I won't tell anybody. I promise.  
-**Sanae:** (...She was willing to tell me all about her okatana...\!)  
+**Sanae:** (...She was willing to tell me all about her okatana...\!\)  
 **Sanae:** (Maybe Kogarasumaru means a lot to Juujou-san. It might be a little unfair of me to attach a condition here, but...)  
 **Sanae:** But in exchange, and you only have to do it a little bit, but could you try getting along more with our classmates?  
 **Hiyori:** Sorry; that's not going to happen.  
@@ -159,14 +159,14 @@ Iwakura Sanae Episodes
 **Sanae:** Th-Then... I guess it can't be helped. By the way, is that book yours, Musumi-san?  
 **Kiyoka:** Yes, I had lent it to Juujou-san. I've been hooked on these romance novels lately--  
 **Sanae:** Eh\!\?  
-**Sanae:** (...J-Juujou-san, she reads romance novels\!\?)  
+**Sanae:** (...J-Juujou-san, she reads romance novels\!\?\)  
 **Sanae:** (Ah, thinking back, she was reading a book in the classroom too.)  
 **Sanae:** (Juujou-san... Silently reading a romance novel in the classroom, hmm... Maybe blushing to herself every now and then? It's surprisingly believable...)  
 **Kiyoka:** Is something wrong?  
 **Sanae:** S-Sorry... I didn't mean to shout like that. What's the title of that book?  
 **Kiyoka:** "Heart's Recollection"\! If you'd like, do you want to borrow it?  
 **Sanae:** Thank you. I'm a little excited to read it now.  
-**Sanae:** (Next time I see Juujou-san, I can talk to her about romance novels, and ask her about her stretches\!)  
+**Sanae:** (Next time I see Juujou-san, I can talk to her about romance novels, and ask her about her stretches\!\)  
 
 ## 5: On That Day
 --The day before the tournament.
@@ -188,15 +188,15 @@ Iwakura Sanae Episodes
 **Sanae:** Then, how about, after the tournament is over, we can stop by somewhere before we leave? I'll look for someplace nice.  
 **Hiyori:** ...Sure.  
 **Sanae:** ...\!  
-**Sanae:** (Does this mean... After the tournament is finished, I can get closer to Juujou-san?)  
+**Sanae:** (Does this mean... After the tournament is finished, I can get closer to Juujou-san?\)  
 **Sanae:** In that case, let's give it our best shot at the tournament tomorrow\!  
 **Sanae:** ...I went and lost. Though, just making it this far is enough for me.  
 **Sanae:** (And, sure enough, Juujou-san will be advancing to the finals.)  
 **Sanae:** (That much isn't surprising. I don't have any idea how much effort she put into preparing for this. But, sometimes, I caught a glimpse of it.)  
-**Sanae:** (I don't think the other toji are weak. But, when it comes to Juujou-san-- I know she can do it\!)  
+**Sanae:** (I don't think the other toji are weak. But, when it comes to Juujou-san-- I know she can do it\!\)  
 **Sanae:** Ah, I'd better get moving now.  
 **Hiyori:** ......  
-**Sanae:** (What is Juujou-san feeling, standing up there now?)  
+**Sanae:** (What is Juujou-san feeling, standing up there now?\)  
 **Sanae:** (I wanted to talk to her before the finals started. I thought a lot about it... But, I never did.)  
 **Sanae:** (I wasn't sure what I would say either. All I knew was, at this time, she didn't need me to say anything... That's the feeling I got from her.)  
 **Sanae:** (So, after this match is over, I want to go talk to her.)  
@@ -204,7 +204,7 @@ Iwakura Sanae Episodes
 The referee signals the two who advanced to the finals to bow. The match is about to begin.
 
   
-**Sanae:** (Juujou-san\! You can do it--\!)  
+**Sanae:** (Juujou-san\! You can do it--\!\)  
 
 ## [Sanae Joins: Start]: The Curious Transfer Student
 **Sanae:** (As the curtain closed on the tournament, with Shidou-senpai winning her second consecutive championship, around the time when spring was ending... That's when she arrived.)  
@@ -254,7 +254,7 @@ The referee signals the two who advanced to the finals to bow. The match is abou
 **Hiyori:** ...If that's all you needed, then I'm leaving.  
 **Sanae:** Ah, okay.  
 **Sanae:** ......  
-**Sanae:** (Why is it... that Juujou-san tries to keep so much distance from everyone?)  
+**Sanae:** (Why is it... that Juujou-san tries to keep so much distance from everyone?\)  
 **Sanae:** (Just by wanting to become a toji, she had to have known when she came here that working together with others was an essential part of stopping aradama...)  
 **Sanae:** (If I knew the reason why, I'm not sure if it would solve anything, but... The way things are now, it's difficult... In a lot of ways.)  
 **Sanae:** Maybe if I can just talk with her a little more...  
@@ -340,10 +340,10 @@ The day of the film shoot.
 **Sanae:** ...[gulp]  
 **Sanae:** (Right now, Kitora-san will be coming up from the first floor, so I have to frighten her...)  
 **Mirja:** I-Is somebody there?  
-**Sanae:** (Ahh, I'm so nervous I can't stop myself from smiling...\! I have to stiffen up my face some more...\!)  
+**Sanae:** (Ahh, I'm so nervous I can't stop myself from smiling...\! I have to stiffen up my face some more...\!\)  
 **Mirja:** [pant, pant]...  
 **Sanae:** (Mirja-san's raising the sense of tension... She's a good actor...)  
-**Sanae:** (I-I'll have to try and keep up with her performance... One, two, and three...\!)  
+**Sanae:** (I-I'll have to try and keep up with her performance... One, two, and three...\!\)  
 **Sanae:** UNYAAAAAA\!  
 **Mirja:** KYAAAAAAAAA\!  
 **Staff:** Okay, that's a wrap-.  

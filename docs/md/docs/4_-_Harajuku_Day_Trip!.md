@@ -36,7 +36,7 @@
 **Kiyoka:** Really\!\? Let's go\! You're so tall, Mirja-san; I bet you'd look good in anything. I'm so jealous.  
 **Chie:** Everyone's just ordinary girls in the end, hm. Maybe Kiyoka-san has that effect on everyone?  
 **Chie:** ......  
-**Chie:** I'd better catch up with Mihono-chan\~.  
+**Chie:** I'd better catch up with Mihono-chan\~\.  
 **Chie:** I'm here, Mihono-chan. I thought I ought to line up with you at least... What's wrong?  
 **Mihono:** Chii-nee... Look. In the shop...  
 **Chie:** At what... Eh\!\? Isn't that Etou Kanami-san and Juujou Hiyori-san? What do you want to do? Should we talk to them?  
@@ -51,7 +51,7 @@
 **Kofuki:** Heh\! Then I'm gonna have my fill before they show up and spoil the fun\!  
 **Mirja:** Stop\! Shichinosato Kofuki\! Don't push forward\! If you move the aradama in that direction, you'll be putting civilians in danger\!  
 **Mirja:** Kh... It's no use...\! In all the chaos, my voice can't reach Shichinosato Kofuki\!  
-**Mirja:** (What should be done here...?)  
+**Mirja:** (What should be done here...?\)  
 **Mirja:** (I could have Asakura Mihono chase after her... However, I doubt she would be capable of bringing Shichinosato Kofuki back. As far as tactics go this is a terrible choice, but, if only for a minute...)  
 **Mirja:** Setouchi Chie-san\! I'm leaving this to you\! Hold this position until I bring back Shichonosato Kofuki\!  
 **Chie:** Eh\!\?  
@@ -64,10 +64,10 @@
 **Chie:** Kiyoka-chan\! Keep it together\! That's where the aradama are coming from\!  
 **Kiyoka:** Ah, I-I'm sorry\! I just... Kyaa\!  
 **Mihono:** Ahh\! Don't run away, Musumi-san\! That's dangerous...\!  
-**Mihono:** (...I suspected it, but... Can Musumi-san really not fight?)  
-**Mihono:** (Even though she's a toji\!\?)  
+**Mihono:** (...I suspected it, but... Can Musumi-san really not fight?\)  
+**Mihono:** (Even though she's a toji\!\?\)  
 **Chie:** (I have my hands full just protecting Kiyoka-chan\! Mihono-chan can't last much longer...)  
-**Chie:** (Just one more\! If just one more person were here\! Then we could at least hold out until Kitora-san returns\!)  
+**Chie:** (Just one more\! If just one more person were here\! Then we could at least hold out until Kitora-san returns\!\)  
 **???:** Allow me to help\!  
 **Chie:** \!\?  
 **Mai:** Osafune toji\! I'll be under your command, so instruct me as you see fit\!  

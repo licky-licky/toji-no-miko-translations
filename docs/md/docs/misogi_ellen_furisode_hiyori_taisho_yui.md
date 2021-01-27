@@ -6,7 +6,7 @@ https://streamable.com/w12v21
   
 
 ## [Ceremonial Dress Misogi - Ellen: Start]: Let's Go On a Trip to Change the World\!
-**Ellen:** Hmm, hm hm hm hmm\~. Hm hmm hm hm hmm\~\! ...It's done\!  
+**Ellen:** Hmm, hm hm hm hmm\~\. Hm hmm hm hm hmm\~\! ...It's done\!  
 **Ellen:** My Nene drawing is finished\! That's another one that turned out very cute\!  
 **Ellen:** I'll show it to the people of the world right away. ...Okay, it's uploaded\! Now to spread it on social media... Wow\!  
 **Ellen:** It's already getting comments\!  
@@ -62,7 +62,7 @@ https://streamable.com/w12v21
 **Ellen:** Yes\! I know tons of great places to eat too\!  
 **Kaoru:** Now that sounds good. Take me somewhere you recommend.   
 **Ellen:** Sure thing\! There's so many places I want to take you to, I can't settle for just one\!  
-**Ellen:** Hmm, hm hm hm hm hmm\~. Hm hm hm hmhm, hmm\~\! ...It's done\!  
+**Ellen:** Hmm, hm hm hm hm hmm\~\. Hm hm hm hmhm, hmm\~\! ...It's done\!  
 **Ellen:** It sure comes out differently after you've seen it firsthand\! Okay then... Now to upload\!  
 **Comment 1:** This week it's the tanuki's big adventure?  
 **Ellen:** ...So making a manga didn't work either? I thought I drew it pretty well too...  

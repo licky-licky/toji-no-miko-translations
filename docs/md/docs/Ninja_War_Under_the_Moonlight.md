@@ -74,7 +74,7 @@ Once again, on the other side--
 **Maki:** Anyway, with the rigorous training I go through every day, my strength has no equal\!  
 **Maki:** And here's proof\! Origami Ninja Art: Great Tornado Whirlwind Cutter\!\!  
 **Mai:** This... Sword pressure... Kyaaaaa\!\!  
-**Akane:** Gyaaaah\~ I'm beaaaaat\~... Thud...\!\!  
+**Akane:** Gyaaaah\~ I'm beaaaaat\~\... Thud...\!\!  
 **Sumi:** Th-Thud...\!  
 **Maki:** In the end, you were no match for us Origami ninja. You need to show more dedication to your training.  
 **Suzuka:** Sakurayoshi, please escort the captured Yanase Mai, Maruyama Akane, and Nagasaki Sumi to the dungeon.  

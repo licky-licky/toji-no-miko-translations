@@ -14,10 +14,10 @@ https://pastebin.com/cVMRB6HY
 **Fate:** ...I'll give it my full strength\!  
 **Fate:** YAAAAAAAAAAAAAAAA\!\!  
 **Kanami:** --\!  
-**Kanami:** (Uwahh\! She was just right in front of me, but she vanished in a second\!)  
-**Kanami:** (She's seriously fast\!)  
+**Kanami:** (Uwahh\! She was just right in front of me, but she vanished in a second\!\)  
+**Kanami:** (She's seriously fast\!\)  
 **Kanami:** (But...)  
-**Kanami:** (Her swordfighting comes so head on. So that's how Fate-chan is\!)  
+**Kanami:** (Her swordfighting comes so head on. So that's how Fate-chan is\!\)  
 **Kanami:** I'll go at you next, Fate-chan\!  
 **Fate:** Okay\!  
 **Sayaka:** ...That's enough.  
@@ -106,7 +106,7 @@ https://pastebin.com/cVMRB6HY
 **Yomi:** Is that right.  
 **Yomi:** Let's move on ahead.  
 **Nanoha:** Ah, please wait for me\!  
-**Nanoha:** (Hmm, but who was it though?)  
+**Nanoha:** (Hmm, but who was it though?\)  
 
 ## [Mahou Shoujo - Yomi: End]: Yomi and Nanoha
 **Aradama:** Oooooo...  
@@ -198,7 +198,7 @@ https://pastebin.com/cVMRB6HY
 **Tsugumi:** Leaving that aside, magic sure is incredible, isn't it? If I heard right, not everyone on the Earth you're from can use magic, can they?  
 **Nanoha:** A while ago, I had a sort of encounter... I found magic, and Yuuno-kun, and Fate-chan...  
 **Nanoha:** And I learned I had the strength to help save someone too.  
-**Tsugumi:** (The way she's talking about it... Is Takamachi-san unconsciously fighting to save others?)  
+**Tsugumi:** (The way she's talking about it... Is Takamachi-san unconsciously fighting to save others?\)  
 **Tsugumi:** (Then... that might make the people with her fairly anxious.)  
 **Tsugumi:** ...It must be difficult.  
 **Nanoha:** Eh? What's difficult?  
@@ -283,7 +283,7 @@ https://pastebin.com/cVMRB6HY
 **Aradama:** BGYAAAAAAAAAAAAAAA\!  
 **Yume:** You're in the way\!  
 **Fate:** (Yume-san... She actually is defeating aradama while fighting me.)  
-**Fate:** (Showing others what makes her strong... Is that really so important to Yume-san?)  
+**Fate:** (Showing others what makes her strong... Is that really so important to Yume-san?\)  
 **Yume:** C'mon, c'mon\! What's wrong, Fate-chan\!  
 **Fate:** --\! YAAAAAAAAAAAAAAAAAAAAAAA\!\!  
 **Aradama:** ooooo...  

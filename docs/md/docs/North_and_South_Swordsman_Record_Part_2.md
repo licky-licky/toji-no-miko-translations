@@ -31,8 +31,8 @@ Before the start of the Renpu Heijou Joint-Training.
 **Yume:** What do we have to do?  
 **Yomi:** We need to instruct everyone gathered here on the details of their training. Though, I believe Shidou-san and Konohana-san will handle most of that...  
 **Yume:** Then, you don't need me, do you? If I don't get to fight all the strong people I want, then I want to go home-\!  
-**Suu:** (I don't want to get involved with Tsubakuro-san... No, I don't want anything to do with anyone from the elite guard\!)  
-**Suu:** (Back then... When we met in Okinawa, they were way too scary...\!)  
+**Suu:** (I don't want to get involved with Tsubakuro-san... No, I don't want anything to do with anyone from the elite guard\!\)  
+**Suu:** (Back then... When we met in Okinawa, they were way too scary...\!\)  
 **Maki:** Well if it isn't Asahina Hokuto and Inami Suu.  
 **Suu:** HYAAU\!\?  
 **Maki:** ? What's wrong with her?  
@@ -47,8 +47,8 @@ Before the start of the Renpu Heijou Joint-Training.
 **Maki:** If there's an increase in aradama appearances, the amount of missions will go up too. In which case, you won't only be fighting with the companions you're used to.  
 **Maki:** With that situation in mind, you'll be divided into groups by lottery. Don't go swapping your results after you draw them.  
 **Maki:** Twenty minutes after the groups are assembled, we'll carry out group battles\!  
-**Suu:** (Hokuto-san, Hokuto-san\! Please let me be with Hokuto-san\!)  
-**Suu:** (Also, please don't let me be with anyone scary...\!\!)  
+**Suu:** (Hokuto-san, Hokuto-san\! Please let me be with Hokuto-san\!\)  
+**Suu:** (Also, please don't let me be with anyone scary...\!\!\)  
 **Hokuto:** This is how it goes sometimes.  
 **Suu:** Right, I'm so glad... God granted my prayers\!  
 **Suu:** Or at least, half of them...  
@@ -114,20 +114,20 @@ Before the start of the Renpu Heijou Joint-Training.
 **Kiyoka:** ...But, didn't you say you understood that before?  
 **Hokuto:** ......  
 **Suu:** (Ah-... I think Hokuto-san's mad... I'm not even the one who made her mad, but I'm feeling sort of uneasy.)  
-**Suu:** (I wish that someone would step in and reconcile this... Even someone from the elite guard would be fine, just, won't someone stop them?)  
+**Suu:** (I wish that someone would step in and reconcile this... Even someone from the elite guard would be fine, just, won't someone stop them?\)  
 **Yume:** Nn-? Huh, Onee-san?  
 **Suu:** Ah, I didn't mean it after all\!  
 **Yume:** Didn't mean what?  
 **Suu:** ...It's nothing.  
 **Yume:** I think I might've seen you before. Did we meet somewhere, Onee-san?  
 **Suu:** Ehh-... Ahh-... Umm-... Uhh-...  
-**Suu:** (What should I do, what should I do... Maybe it'd be fine if I said honestly, we met last year in Okinawa? But, but, if I pretend like she's got the wrong person, maybe she'll lose interest and go away\!\?)  
+**Suu:** (What should I do, what should I do... Maybe it'd be fine if I said honestly, we met last year in Okinawa? But, but, if I pretend like she's got the wrong person, maybe she'll lose interest and go away\!\?\)  
 **Yume:** I can't tell what you mean when you just say "Uhh-...", Onee-san.  
 **Suu:** Th-There's no way we could have met anywhere before, Tsubakuro-sama...  
 **Yume:** Why're you calling me Tsubakuro-sama even though I'm younger? Wait, this feels familiar for some reason...  
 **Suu:** AWAWA...\! Umm, umm... It looks like you elite guard are having another tough day of work, huh\!  
 **Yume:** Not really-... There's nothing to do, so I'm just bored. It's not like I get to fight anybody strong either-.  
-**Yume:** I'm tired of this, so I'm going to go play with Yukari-sama\! Bye bye\~.  
+**Yume:** I'm tired of this, so I'm going to go play with Yukari-sama\! Bye bye\~\.  
 **Suu:** Tsubakuro-san... You're as free spirited as ever... I'm jealous...  
 **Announcer:** We are beginning the next match, so will the following groups please prepare straight away.  
 

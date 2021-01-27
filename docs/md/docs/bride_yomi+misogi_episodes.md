@@ -72,7 +72,7 @@ https://streamable.com/rzqc4
 **Yomi:** H-How did you... Tsubakuro-san\!\?  
 **Yume:** Ah, yep. I showed it around to everyone.  
 **Yomi:** B-By everyone, you mean...  
-**Yume:** Maki-onee-san, and Suzuka-onee-san\~.  
+**Yume:** Maki-onee-san, and Suzuka-onee-san\~\.  
 **Yomi:** I should have firmly refused...  
 Yomi
 
@@ -230,13 +230,13 @@ https://streamable.com/hj6lm
 **Hiyori:** (It was after I met Kanami and the others that, before I knew it, it had become unusual for me to be alone.)  
 **Hiyori:** (So is that the reason? Why, when I'm by myself, I started feeling my loneliness.)  
 **Hiyori:** (After feeling that, I wanted to ask myself.)  
-**Hiyori:** (Have I gotten weaker than I used to be...?)  
+**Hiyori:** (Have I gotten weaker than I used to be...?\)  
 **Aradama:** KWAAAAAAA-\!\!\!  
 **Hiyori:** Urgh...\!  
 **Hiyori:** Pant, pant... Damnit... Is this how it ends up as soon as I want some time to think on my own...  
 **Hiyori:** Still... I didn't expect this swarm of aradama to show up here...  
 **Aradama:** GRRRRUUU...\!  
-**Hiyori:** (Here they come...\!)  
+**Hiyori:** (Here they come...\!\)  
 **???:** No you don't-\! YAAAA\!  
 **Aradama:** GAAA,aaaa...  
 **Kanami:** Are you okay, Hiyori-chan\!\?  
@@ -253,7 +253,7 @@ https://streamable.com/hj6lm
 **Ellen:** We should go too, Kaoru\!  
 **Kaoru:** Not like we have a say in it.  
 **Mai:** Alright, you come with me, Hiyori-chan.  
-**Hiyori:** (But, I can't just leave everyone else behind...\!)  
+**Hiyori:** (But, I can't just leave everyone else behind...\!\)  
 **Hiyori:** Mai, I'm going to stand and fight too.  
 **Mai:** Eh? But, you're hurt...?  
 **Hiyori:** This is nothing. Besides, we can't leave Kanami to fight that boss aradama by herself.  
@@ -286,11 +286,11 @@ https://streamable.com/kyahp
 **Kanami:** I'll explain that later\! Mai-chan, please be our referee\!  
 **Mai:** O-Okay... Then, begin\!  
 **Kanami:** ...  
-**Sawano:** (She isn't launching an attack...? In that case, I'll go to her\!)  
+**Sawano:** (She isn't launching an attack...? In that case, I'll go to her\!\)  
 **Sawano:** HAA\!  
 **Kanami:** ...  
-**Sawano:** (Eh\!\? She vanished\!\?)  
-**Sawano:** (Behind me\!\? In a split second\!\?)  
+**Sawano:** (Eh\!\? She vanished\!\?\)  
+**Sawano:** (Behind me\!\? In a split second\!\?\)  
 **Kanami:** YAAAA-\!  
 **Sawano:** Kh... HAAAAA\!  
 --That night, in Kanami's dreams.
@@ -326,15 +326,15 @@ https://streamable.com/kq33o
 **Kanami:** Ehehe, sorry for asking you something so weird out of nowhere. When I woke up this morning, I just had this on my mind.  
 **Mai:** I don't quite understand, but... Alright. And if you're that eager about it, then I'm going to come at you with all I've got\!  
 **Kanami:** Thanks, Mai-chan\! Then, let's get started\!  
-**Mai:** (Here she comes...\!)  
+**Mai:** (Here she comes...\!\)  
 **Kanami:** (Stare...)  
-**Mai:** (Wait? Kanami-chan is acting differently than usual...?)  
-**Mai:** (But, if that's the case, I might be able to fight against her...\!)  
+**Mai:** (Wait? Kanami-chan is acting differently than usual...?\)  
+**Mai:** (But, if that's the case, I might be able to fight against her...\!\)  
 **Kanami:** (Ah, Mai-chan's stance changed. Woww, the way she's angling her sword is beautiful. It looks flexible at a glance, but I can tell she's holding it firm from her center.)  
 **Kanami:** (Oh, she closed the distance between us just a little bit\! I get it... She's looking to see how I'll react. Then, if I move like this...)  
 **Mai:** (Kanami-chan lowered her body...\! Is she preparing to charge? Then, I'll...)  
-**Kanami:** (Mai-chan took in a deep breath...\! Maybe she's looking to set up a counter? But, in that stance, what would it look like...?)  
-**Kanami:** (Mmmm, I can't picture it at all... But... In that case, I just have to see for myself\!)  
+**Kanami:** (Mai-chan took in a deep breath...\! Maybe she's looking to set up a counter? But, in that stance, what would it look like...?\)  
+**Kanami:** (Mmmm, I can't picture it at all... But... In that case, I just have to see for myself\!\)  
 **Mai:** (There it is\! Kanami-chan moves so fast\! But, I should be able to--)  
 **Mai:** YAAAA\!  
 **Mai:** Aww, I lost... You're too tough for me after all, Kanami-chan...  
@@ -349,9 +349,9 @@ https://streamable.com/kq33o
 **Mai:** Then, on the other hand, I'll try moving like you did, Kanami-chan.  
 **Kanami:** You're the best, Mai-chan-\!  
 **Kanami:** (Look close. Listen well. Focus on your senses.)  
-**Kanami:** (Just by keeping that in mind, swordfighting gets so much more interesting...\!)  
+**Kanami:** (Just by keeping that in mind, swordfighting gets so much more interesting...\!\)  
 **Kanami:** (But, why did I suddenly think to try doing that? I feel like someone told me about it, but...)  
-**Kanami:** (Well, whoever they are, I've got to thank them someday\!)  
+**Kanami:** (Well, whoever they are, I've got to thank them someday\!\)  
 Sayaka
 
   

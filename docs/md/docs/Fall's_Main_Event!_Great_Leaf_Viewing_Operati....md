@@ -67,7 +67,7 @@ A little while after beginning their aradama suppression mission...
 **Mirja:** I had heard that they were entrusted to the shrine here. Once we had finished our mission, I had planned to pay my respects to them, however it's disappointing to hear of their loss.  
 **Tsugumi:** (...She's talking so fast that I was only able to understand half of that.)  
 **Hiyori:** Do you think losing the okatana and the increase in aradama are connected?  
-**Tsugumi:** Hmm\~... Hypothetically speaking, it could be a similar case to the okatana sunk off Uraga, the Akabane swords, which ended up being found within aradama...  
+**Tsugumi:** Hmm\~\... Hypothetically speaking, it could be a similar case to the okatana sunk off Uraga, the Akabane swords, which ended up being found within aradama...  
 **Tsugumi:** Do you think the cause might be that, somehow, Momiji became similarly encased in an aradama?  
 **Mirja:** I see. There is a tendency for other aradama to appear and group around a stronger aradama with an Akabane sword inside.  
 **Hiyori:** Then that would explain the increase in aradama. So that means, as we continue our mission, we could eventually recover Momiji?  
@@ -75,7 +75,7 @@ A little while after beginning their aradama suppression mission...
 **Sayaka:** I understand. Every aradama I see, I'll kill.  
 **Tsugumi:** And just leave collecting up the leaves to me\!  
 **Hiyori:** R-Right.  
-**Hiyori:** (A-Are things really going to be okay with this group...?)  
+**Hiyori:** (A-Are things really going to be okay with this group...?\)  
 
 ## 2: Fall's Main Event\! Great Leaf Viewing Operation Epilogue
 **Hiyori:** Good, this place is cleared out as far as I can tell.  
@@ -119,7 +119,7 @@ On a later day...
 **Tsugumi:** I went to... Went to so much trouble... Getting them back here... My "red raging leaves"... And you roasted them...  
 **Tsugumi:** Roasted them...? Wait?  
 **Kofuki:** Oi, what's with you?  
-**Tsugumi:** (...These roasted potatoes, just how safe is it to eat them?)  
+**Tsugumi:** (...These roasted potatoes, just how safe is it to eat them?\)  
 **Tsugumi:** Ahem, Shichinosato-san. How many of those potatoes have you eaten?  
 **Kofuki:** Huh? Well, I ate one before you got here, and then there's this half of one I split with you.  
 **Tsugumi:** I see, I see. Ingested 1.5 units...  
@@ -129,6 +129,6 @@ On a later day...
 **Kofuki:** Yeah-\! I'm all about it\! Gimme the strongest one you've got\!  
 **Tsugumi:** Understood. Then, let's get this "Physical Test to Determine the Effects of Consuming Potatoes Roasted in Red Raging Leaves" underway.  
 **Kofuki:** Nn? What's that about?  
-**Tsugumi:** Look, here come the aradama\~.  
+**Tsugumi:** Look, here come the aradama\~\.  
 **Kofuki:** Alright\! Bring it on\!  
 > :ToCPrevNext

@@ -43,13 +43,13 @@ https://streamable.com/u1ps17
 **Hiyori:** (It was after I met Kanami and the others that, before I knew it, it had become unusual for me to be alone.)  
 **Hiyori:** (So is that the reason? Why, when I'm by myself, I started feeling my loneliness.)  
 **Hiyori:** (After feeling that, I wanted to ask myself.)  
-**Hiyori:** (Have I gotten weaker than I used to be...?)  
+**Hiyori:** (Have I gotten weaker than I used to be...?\)  
 **Aradama:** KWAAAAAAA-\!\!\!  
 **Hiyori:** Urgh...\!  
 **Hiyori:** Pant, pant... Damnit... Is this how it ends up as soon as I want some time to think on my own...  
 **Hiyori:** Still... I didn't expect this swarm of aradama to show up here...  
 **Aradama:** GRRRRUUU...\!  
-**Hiyori:** (Here they come...\!)  
+**Hiyori:** (Here they come...\!\)  
 **???:** No you don't-\! YAAAA\!  
 **Aradama:** GAAA,aaaa...  
 **Kanami:** Are you okay, Hiyori-chan\!\?  
@@ -66,7 +66,7 @@ https://streamable.com/u1ps17
 **Ellen:** We should go too, Kaoru\!  
 **Kaoru:** Not like we have a say in it.  
 **Mai:** Alright, you come with me, Hiyori-chan.  
-**Hiyori:** (But, I can't just leave everyone else behind...\!)  
+**Hiyori:** (But, I can't just leave everyone else behind...\!\)  
 **Hiyori:** Mai, I'm going to stand and fight too.  
 **Mai:** Eh? But, you're hurt...?  
 **Hiyori:** This is nothing. Besides, we can't leave Kanami to fight that boss aradama by herself.  
@@ -143,7 +143,7 @@ https://streamable.com/jbri0b
 **Sakura:** There's something I'm having trouble with...  
 **Chie:** Mmhm?  
 **Sakura:** ...No, I shouldn't be asking you after all. I can't go into much detail about it...  
-**Chie:** (Was what's bothering her the reason she avoided me before?)  
+**Chie:** (Was what's bothering her the reason she avoided me before?\)  
 **Chie:** ...You said you're having trouble with something, but, do you know exactly what it is?  
 **Sakura:** ...I do.  
 **Chie:** (If I had to guess... She's avoiding getting involved with other people? But, she's trying to talk about it with me...)  

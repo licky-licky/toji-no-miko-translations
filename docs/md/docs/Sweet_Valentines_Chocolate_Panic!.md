@@ -17,7 +17,7 @@ Sweet Valentines Chocolate Panic!
 **Mirja:** After all, something had to be done about the public's feeling of unease. The workers in the shop were very grateful too.  
 **Suzuka:** It was only the reasonable thing to do. Investigating the cause is another part of our mission. For that, I'd like to depend upon your talent for observation and analysis.  
 **Mirja:** I'll do what I can to meet your expectations.  
-**Yume:** You two are thinking way too hard about it\~. All we have to do is beat up the aradama.  
+**Yume:** You two are thinking way too hard about it\~\. All we have to do is beat up the aradama.  
 **Yume:** They're all so weak anyway, so just leave it to me and we'll be finished before you know it.  
 **Mirja:** You have a point. What matters most is eliminating the aradama.  
 **Suzuka:** Thanks to Yume, we've cleared out the aradama here for the time being. Why don't we head on back?  
@@ -43,7 +43,7 @@ Sweet Valentines Chocolate Panic!
 **Ellen:** I don't exactly have the essence of an ojou-sama.  
 **Ellen:** Now, Miss Shopkeeper, what do you recommend for me?  
 **Suzuka:** Let me see... As it is the Valentines season, we have many chocolate products. However, these pear tarts do have quite the flavor.  
-**Ellen:** In that case, I'll take one of those\~.  
+**Ellen:** In that case, I'll take one of those\~\.  
 **Yume:** Ah, Suzuka-onee-san\! I wanna eat one too\!  
 **Suzuka:** You just had that strawberry shortcake, didn't you? You'll spoil your dinner.  
 **Yume:** Bleh. Fine, I'll wait till tomorrow.  

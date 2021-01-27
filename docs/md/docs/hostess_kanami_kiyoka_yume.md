@@ -13,7 +13,7 @@ https://streamable.com/po6vi2
 **Kanami:** They could at least give us a little bit of a break\!  
 **Mai:** I think, even now, they might still be taking into account the rate of missions you're sent on for your makeup classes. Especially since you two often get assigned to suppress aradama.  
 **Kanami:** Even still\!\?  
-**Mihono:** That's too much\~...  
+**Mihono:** That's too much\~\...  
 **Mai:** Maybe you're right. But, if you score well on your tests, I think there's a chance you'd have less makeup classes?  
 **Mai:** If you two both try your best, I think you can get even better grades.  
 **Kanami:** Mmm... On tests, huh...  
@@ -45,7 +45,7 @@ https://streamable.com/po6vi2
 **Kanami:** Ah, Mai-chan. The customers at the table in the back want another serving of rice. Big helpings for two people\!  
 **Mai:** Alright. Big helpings.  
 **Kanami:** Oh, there's new customers\!  
-**Kanami/Mai:** Welcome\~.  
+**Kanami/Mai:** Welcome\~\.  
 **Kanami:** I'll take you to your seats, so please wait a moment.  
 **Kanami:** Phew... Past 2 o'clock, you finally start seeing less customers stopping by.  
 **Mai:** Mmhm. When there was no end in sight at 1:00, I wasn't sure what we'd do, but we somehow made it...  
@@ -189,7 +189,7 @@ https://streamable.com/8e41cz
 **Yume:** Oh yeah. After we put on our hostess clothes, we were going to help out, but, what should we do?  
 **Ryokan Proprietress:** The work I'll have you do is nothing more than simple cleaning of the rooms, and a check over their furnishings.  
 **Ryokan Proprietress:** We have people hired to take care of the full cleaning, but this is one last check before the guests come through. Whoever is in charge will show you how it's done, so please work along with them.  
-**Yume:** Okaaay\~.  
+**Yume:** Okaaay\~\.  
 
 ## [Hostess - Yume: End]: For the Special Menu\!
 **Yume:** I thought meeting guests and showing them their rooms felt like what a real hostess would do, but I didn't think, after we did it a couple times, they'd ask us to go pick vegetables next.  

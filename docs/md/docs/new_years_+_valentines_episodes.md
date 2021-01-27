@@ -211,18 +211,18 @@ https://streamable.com/rmyw5
 **Patissier:** Then, we can do it after we close up for the day. But, you must be tired from your duties, so don't push yourself, okay?  
 **Suzuka:** Of course; thank you for your concern.  
 **Ellen:** We're back-\! I had a pretty exciting experience, fighting with Yumecchi out there.  
-**Yume:** Really? I was just fighting like I normally do\~.  
+**Yume:** Really? I was just fighting like I normally do\~\.  
 **Ellen:** You were really leading the way with how we were fighting before. It seems like anyone would have a hard time keeping up with you.  
 **Yume:** Ah, now that we're here, I wanna eat some cake\!  
 **Ellen:** That's a good idea\! I'm a little hungry myself.  
-**Yume:** What should I have today\~? Mont blanc? Or pudding a la mode... Mmm, I think I'll go with the strawberry rare cheesecake after all\~.  
+**Yume:** What should I have today\~? Mont blanc? Or pudding a la mode... Mmm, I think I'll go with the strawberry rare cheesecake after all\~\.  
 **Suzuka:** Strawberry is one of your favorites, isn't it, Yume. You like Ichigo Daifuku Neko as well, don't you?  
-**Yume:** Yeah, I guess it is\~.  
+**Yume:** Yeah, I guess it is\~\.  
 **Suzuka:** Once you've finished eating, can I count on you to help us with managing the shop?  
 **Suzuka:** I'll go ahead and get changed first.  
 **Yume:** Sure sure-. You don't have to worry about me-.  
 **Suzuka:** Thank you very much for your order. We hope to see you again.  
-**Yume:** Thank you very much\~...  
+**Yume:** Thank you very much\~\...  
 **Yume:** Suzuka-onee-san, is it me, or are you acting extra excited today?  
 **Suzuka:** I don't think that's the case? This is how I always am.  
 **Yume:** Ehh, but I feel like something's different for sure-. Ah, maybe you got a special kind of cake\!  
@@ -235,5 +235,5 @@ https://streamable.com/rmyw5
 **Suzuka:** Though, it is Maki-san after all. I'm sure she's no stranger to homemade chocolate.  
 **Yume:** What's that about Maki-onee-san?  
 **Suzuka:** Nothing at all. It isn't much longer until closing time, so let's give one last effort.  
-**Yume:** You really are acting kinda suspicious today, Suzuka-onee-san\~...  
+**Yume:** You really are acting kinda suspicious today, Suzuka-onee-san\~\...  
 > :ToCPrevNext

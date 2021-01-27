@@ -60,7 +60,7 @@ Chinese Pandas Bringing Good Fortune
 **Mihono:** Oh yeah. Let's do our best then, and beat all the aradama\!  
 **Mihono:** Uh... That reminds me, since I thought we were going to eat a lot in Chinatown, I skipped breakfast.  
 **Tsugumi:** They say you can't fight on an empty stomach. Why don't we find something to replenish our energy while we wait for the next aradama to show itself?  
-**Yui:** I'm all for it\~. There's so many tasty looking things around here, so what should we go with-?  
+**Yui:** I'm all for it\~\. There's so many tasty looking things around here, so what should we go with-?  
 **Mihono:** Since we're here in Chinatown, we have to at least try some meat buns\!  
 **Mihono:** I saw on TV, there's this meat bun store here that's supposed to have the most delicious meat buns, and they looked super yummy too\! Can we go there?  
 **Yui:** That sounds good. What's the name of the place? Do you know where it is?  
@@ -87,7 +87,7 @@ Chinese Pandas Bringing Good Fortune
 **Tsugumi:** There's no need to apologize. These may not be meat buns, but take a look at their sign. It says they serve the best shumai in Chinatown.  
 **Yui:** ...Wait? The shop next door has a huge line too. It looks like they're selling meat buns...  
 **Mihono:** Ah-\! That's the place\! The one on TV\! That's crazy; we found two of Chinatown's best right next to each other\! It's our lucky day\!  
-**Mihono:** Why don't we take this chance to try both of them out\! Ahh\~, I'm so glad we kept on searching\~.  
+**Mihono:** Why don't we take this chance to try both of them out\! Ahh\~, I'm so glad we kept on searching\~\.  
 **Aradama:** Keeeeeee\!  
 **Mihono:** An aradama\!\? Geez, why'd you have to show up now\!  
 **Tsugumi:** It may be frustrating, but we can enjoy the shumai and meat buns after we finish fighting.  
@@ -96,7 +96,7 @@ Chinese Pandas Bringing Good Fortune
 ## 3: The Secret Behind Chinatown's Alluring Sweets is...\!\?
 **Tsugumi:** Nicely done, you two. There should only be a small number of aradama left for us to defeat.  
 **Yui:** I wonder when the next'll show up. It'd be nice if they all came at once so we could finish it all up.  
-**Mihono:** They probably won't be here right away, so let's go back to where they were selling meat buns and shumai\! My tummy's rumbling\~.  
+**Mihono:** They probably won't be here right away, so let's go back to where they were selling meat buns and shumai\! My tummy's rumbling\~\.  
 **Mihono:** Oh no...  
 **Yui:** "Sold out, closed for the day."  
 **Tsugumi:** They must have sold out while we were suppressing the aradama. What now? Should we find another store?  
@@ -172,13 +172,13 @@ Chinese Pandas Bringing Good Fortune
 **Mihono:** Thanks so much\! Wow\~, I finally got one\~\!\! It's so cute\~\!  
 **Tsugumi:** Wasn't that nice of them, Asakura-san. Now you've accomplished your starting goal.  
 **Yui:** With these pandas, plenty of good things are sure to happen from now on\!  
-**Mihono:** Yeah\! Good things'll happen for sure\! I can't wait\~.  
+**Mihono:** Yeah\! Good things'll happen for sure\! I can't wait\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
 
 ## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  
 **Mihono:** I'm all for it\~\! There's still a lot more shops I haven't been to yet. Do you two wanna come with me?  
-**Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~.  
+**Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~\.  
 **Yui:** Date\~\! Date\~\! Chinatown date\~\!  
 **Mihono:** You're sure in a good mood, Yui.  
 **Yui:** You know I am\! Taking a beauty like you on a date through Chinatown; that's the kind of classic date course I've been dreaming of\!  
@@ -202,7 +202,7 @@ Chinese Pandas Bringing Good Fortune
 **Mihono:** Ah, look, look\! In that general store next door\! They've got cute panda things you can wear\!  
 **Yui:** Ah, wait, Mihono-chaaan\!  
 **Mihono:** Tadahhh\! Check it out\! See this panda hat I got\! Does it look good?  
-**Yui:** Mmm\~\! It's good; so good\~\! Next up, let's try this Chinese hat\~\! Uwah\~\! This one looks good too\~.  
+**Yui:** Mmm\~\! It's good; so good\~\! Next up, let's try this Chinese hat\~\! Uwah\~\! This one looks good too\~\.  
 **Tsugumi:** ...  
 **Tsugumi:** Um, would it be alright if we stopped for a moment?  
 **Yui:** Hmmm? What's the matter, Tsugumi-san? Hahahn\~, now are you feeling jealous of me with Mihono-chan...  

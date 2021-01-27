@@ -56,7 +56,7 @@ The Nenegurumi Shop, 3 hours before opening.
 **Minaki:** I thought I got you feeling motivated\!\?  
 **Kaoru:** Nah, nah, there's no way I'd be. Though, I'll try in my own way.  
 **Minaki:** Kaorucchi...  
-**Minaki:** (...Huh? Isn't she moving a little livelier than before...?)  
+**Minaki:** (...Huh? Isn't she moving a little livelier than before...?\)  
 **Minaki:** Ahaha, you just can't be honest, huh Kaorucchi\!  
 The Nenegurumi Shop, 2 hours before opening.
 
@@ -109,7 +109,7 @@ https://streamable.com/nprbpr
 **Keiko:** Eh\!\?  
 **Kihiro:** But you're right that we have little in common with Miss Yamashiro here\! ...What seems to be the matter, Miss Haji?  
 **Keiko:** I-It's... nothing.  
-**Keiko:** (Deepened... our friendship...?)  
+**Keiko:** (Deepened... our friendship...?\)  
 **Mirja:** So then, did you need me for something?  
 **Yui:** Yes\! Though, I'm not really the one looking for you; that's these two\!  
 **Kihiro:** What are you saying, Miss Yamashiro\! With you offering your assistance, we're all of one heart and mind\!  
@@ -135,7 +135,7 @@ https://streamable.com/nprbpr
 **Keiko:** Um, but... Is this really okay? I feel like we didn't tell her the important part...  
 **Yui:** Don't worry about it, Keiko-san\! We don't have to tell her about "that" until just before we start\!  
 **Yui:** Mufufu\~\! Ahh\~, now I don't know how I'll wait for the day after tomorrow\~\!  
-**Keiko:** (Is this really fine...?)  
+**Keiko:** (Is this really fine...?\)  
 
 ## [Race Queen - Mirja: End]: Day of the Unveiling
 **Yui:** Mirja-san\! Can I be next to you on the way there? You don't mind, right\!  

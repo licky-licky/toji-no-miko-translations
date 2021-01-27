@@ -29,23 +29,23 @@ In the middle of January.
 **Yukina:** Great\!  
 **Yukari:** That'll be fine, right, Kagari?  
 **Kagari:** Yes, Yukari-sama.  
-**Yukina:** (Hiiragi-san\!)  
-**Yukina:** (Now's your only chance to stay next to Yukari-onee-sama like that\! On our shrine visit, I'll be with Yukari-onee-sama...\!  You can just go be with Sana\!)  
+**Yukina:** (Hiiragi-san\!\)  
+**Yukina:** (Now's your only chance to stay next to Yukari-onee-sama like that\! On our shrine visit, I'll be with Yukari-onee-sama...\!  You can just go be with Sana\!\)  
 **Minato:** Yukari, Kagari... Wait, Yukina and Sana? Huh; what're you doing here?  
 **Kagari:** Sagami-san was just here inviting us to make our first shrine visit.  
 **Minato:** Cool, our first shrine visit\! I'll go with\!  
-**Yukina:** (You're bringing Minato-senpai too\!\? Hiiragi-san\! Is that how badly you want to ruin my time with Yukari-onee-sama\!\?)  
+**Yukina:** (You're bringing Minato-senpai too\!\? Hiiragi-san\! Is that how badly you want to ruin my time with Yukari-onee-sama\!\?\)  
 **Sana:** (That look on her face... She's totally getting mad at Kagari-senpai for no reason.)  
 **Minato:** C'mon everybody, let's go\!  
 
 ## 2: Let's Draw Our Fortunes
 **Yukari:** It figures it wouldn't be very crowded this long after New Year's. The food stalls too... I guess there won't be any.  
 **Kagari:** Yes; it makes it easier to stay alert of our surroundings.  
-**Yukina:** (Hiiragi-san, you're sticking right up next to Yukari-onee-sama\! You really are trying to get in my way, aren't you\!)  
+**Yukina:** (Hiiragi-san, you're sticking right up next to Yukari-onee-sama\! You really are trying to get in my way, aren't you\!\)  
 **Yukina:** (But, this is where Sana comes in...)  
 **Minato:** Huh, so you're the one who thought of all coming to a shrine together?  
 **Sana:** Yep, that was me-.  
-**Yukina:** (Why are you off having fun chatting with Minato-senpai\!\? Didn't you promise to come along and help me\!\?)  
+**Yukina:** (Why are you off having fun chatting with Minato-senpai\!\? Didn't you promise to come along and help me\!\?\)  
 **Minato:** Since we came to make our first shrine visit, let's all draw our fortunes\!  
 **Sana:** Sounds good\!  
 **Minato:** And whoever gets the worst fortune is buying us juice, Sana.  
@@ -57,7 +57,7 @@ In the middle of January.
 **Sana:** What're you waiting for, Yukina-senpai? You're gonna get left behind?\!  
 **Yukina:** Geez\! Why did things end up like this\!\!  
 **Minato:** Nice; a "great fortune"\! What'd you get, Sana?  
-**Sana:** You got me beat\~. Mine's just "medium fortune".  
+**Sana:** You got me beat\~\. Mine's just "medium fortune".  
 **Yukari:** Oh. Then, mine's the worst. See.  
 **Minato:** Yukari's is a plain old "fortune"\! What should I make you buy for me...  
 **Sana:** Thanks for paying\!  

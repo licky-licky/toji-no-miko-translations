@@ -170,8 +170,8 @@
 **Mirja:** I am not sure if this is the best option... But, we want to do whatever we can, no matter how small.  
 **Mihono:** (The government...? The conversation's gotten so big my head's spinning...)  
 **Mihono:** (Umm... The government won't want the great aradama to wake up. That's what I want too...)  
-**Mihono:** (If that's the case, then... They might think it'd be better if I wasn't with the investigation team... Wait?)  
-**Mihono:** (Would it be better if I left...?)  
+**Mihono:** (If that's the case, then... They might think it'd be better if I wasn't with the investigation team... Wait?\)  
+**Mihono:** (Would it be better if I left...?\)  
 **Mihono:** ......  
 **Mihono:** What's the second one?  
 **Chie:** For practical reasons... We can buy a little more time for you.  

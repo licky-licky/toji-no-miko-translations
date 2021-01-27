@@ -70,13 +70,13 @@ https://streamable.com/bdo8of
 **Suu:** Ah, I'm good.  
 **Sayaka:** Eh?  
 **Suu:** Err, I mean\! Uhh, uhh...  
-**Suu:** (I know she said to treat her normal, but Sayaka-chan is Renpu's deadly professional\!)		[Suu calls Sayaka 'Hissatsu Shigotonin', a reference to a famous period drama about an assassin for hire]  
+**Suu:** (I know she said to treat her normal, but Sayaka-chan is Renpu's deadly professional\!\)		[Suu calls Sayaka 'Hissatsu Shigotonin', a reference to a famous period drama about an assassin for hire]  
 **Suu:** (I really am kind of bad at dealing with her... I'll just try not to offend her here...)  
 **Suu:** Talking about doppelgangers, it's like that, right? How, you meet three people just like you, and they might try to sue.		[There is a very lame pun here about how, if you meet "au to" 3 people just like you, you're out "au to"]  
 **Suu:** Get it?  
 **Kanami/Sayaka/Kiyoka:** ......  
 **Suu:** Haha, hahaha...  
-**Suu:** (C-Crap\! Now I went and froze the room over\!)  
+**Suu:** (C-Crap\! Now I went and froze the room over\!\)  
 **Sayaka:** If you meet three people just like you, they'll sue?  
 **Suu:** Please, I'm begging you, don't bring it back up. It's just something that popped into my headdd\!  
 **Sayaka:** ?  
@@ -84,7 +84,7 @@ https://streamable.com/bdo8of
 **Suu:** Just let it gooo\!\!  
 **Kanami:** Our phones... All four of us at once?  
 **Kiyoka:** That's got to be a mission... right? Do you think we're all on the same mission?  
-**Suu:** (Ah, that means it should be easy\!)  
+**Suu:** (Ah, that means it should be easy\!\)  
 **Sayaka:** ...It's an Akabane sword recovery mission, with the members here and Satsuki Yomi.  
 **Suu:** Eh, with Satsuki-san...?  
 **Kiyoka:** Is something wrong, Inami-san?  
@@ -204,7 +204,7 @@ https://streamable.com/bdo8of
 **Mimic Aradama:** ...  
 **Sayaka:** Watch out\!  
 **Suu:** EEP\!\?  
-**Suu:** (Even though it looked like Mihono-san... She didn't even hesitate to chop it down\!)  
+**Suu:** (Even though it looked like Mihono-san... She didn't even hesitate to chop it down\!\)  
 **Mimic Aradama:** ...  
 **Yomi:** ...Setouchi-san and Yamashiro-san are aradama as well.  
 **Yomi:** --\!\!  
@@ -387,11 +387,11 @@ https://streamable.com/bdo8of
 **Fate:** I'll pass this on to Nanoha and Hayate too.  
 **Kiyoka:** Huh, so you have magic that works like a phone too.  
 **Fate:** We do.  
-**Fate:** (This is Fate. ...Nanoha, Hayate, can you hear me?)  
+**Fate:** (This is Fate. ...Nanoha, Hayate, can you hear me?\)  
 
 ## 5: A Hard Fought Battle
-**Fate:** (This is Fate. ...Nanoha, Hayate, can you hear me?)  
-**Hayate:** (Hayate here\! ...Sorry, Fate-chan\! In the middle of a fight right now\!)  
+**Fate:** (This is Fate. ...Nanoha, Hayate, can you hear me?\)  
+**Hayate:** (Hayate here\! ...Sorry, Fate-chan\! In the middle of a fight right now\!\)  
 **Yume Mimic:** Aha\!  
 **Yume Mimic:** Sayaka-chan's tough alright\! But... can you handle this\!\?  
 **Sayaka:** Kh...  
@@ -621,8 +621,8 @@ https://streamable.com/bdo8of
 **Yomi:** Aren't you going to eat, Akira? You...  
 **Akira:** Shut up, Yomi.  
 **Yomi:** ...  
-**Akira:** (Damnit, there's no way I could eat cakes that look this cute\!)  
-**Akira:** (But it'd be such a waste if I don't... Okay. How do I go about eating one?)  
+**Akira:** (Damnit, there's no way I could eat cakes that look this cute\!\)  
+**Akira:** (But it'd be such a waste if I don't... Okay. How do I go about eating one?\)  
 **Akira:** (Ahh, crap. I can't stop smiling.)  
 **Nanoha:** ...Um, Akira-san. Do you maybe not like cake?  
 **Akira:** Huh?  
@@ -673,11 +673,11 @@ https://streamable.com/bdo8of
 **Fate:** ...I think I'm interested.  
 **Hayate:** Okay, in that case...  
 **Hayate:** (Hey, Nanoha-chan, Fate-chan.)  
-**Nanoha:** (What is it, Hayate-chan?)  
-**Fate:** (What do you have in mind?)  
+**Nanoha:** (What is it, Hayate-chan?\)  
+**Fate:** (What do you have in mind?\)  
 **Hayate:** (What do you think of this? See...)  
 **Hayate:** (Something like that.)  
-**Nanoha:** (Good thinking, Hayate-chan\! That's a nice idea\!)  
+**Nanoha:** (Good thinking, Hayate-chan\! That's a nice idea\!\)  
 **Fate:** (Yeah, let's go with that.)  
 **Hayate:** (Then it's settled.)  
 **Hayate:** Anyway, if that's how it is, what do you say we decide this with a game of tag?  

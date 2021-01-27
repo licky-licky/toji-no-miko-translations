@@ -142,7 +142,7 @@ https://streamable.com/2zf060
 **Sanae:** This is where you use the equation from before. You put this in here...  
 **Kanami:** Put this, here...?  
 **Sanae:** That's it.  
-**Sanae:** (Etou-san is good at picking things up... Is she just not good at sitting through lectures?)  
+**Sanae:** (Etou-san is good at picking things up... Is she just not good at sitting through lectures?\)  
 **Mayumi:** Hmm...  
 **Sanae:** Was there something you didn't get?  
 **Mayumi:** Yes, right here\! But, please let me think on it a little more for myself.  

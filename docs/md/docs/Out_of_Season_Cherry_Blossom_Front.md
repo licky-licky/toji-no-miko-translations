@@ -70,7 +70,7 @@ On the day of the flower viewing--
 **Mai:** Thank you for finding us such a fantastic place, Sayaka-chan, Kanami-chan.  
 **Kanami:** The other people who came to see the flowers offered us the best spot, to thank us for exorcising the aradama.  
 **Chie:** Did they really? It was worth going to so much trouble then.  
-**Mihono:** Ah\~, all that hard work suppressing aradama made me hungry\~. Let's dig right into Mai and Juujou-san's special made flower viewing bento\!  
+**Mihono:** Ah\~, all that hard work suppressing aradama made me hungry\~\. Let's dig right into Mai and Juujou-san's special made flower viewing bento\!  
 **Mirja:** Asakura Mihono, we cannot get ahead of ourselves. The proper procedure of a flower viewing party is to first admire the cherry blossoms, then share a toast. After that, we admire the cherry blossoms again, then it will be time to eat.  
 **Kofuki:** Then let's hurry this up and get to the toast already. My throats dried out from all that playing around with aradama-chan.  
 **Tsugumi:** I thought this might happen, so I planned ahead and prepared a special flower viewing version of a drink to stimulate recovery after combat.  
@@ -96,7 +96,7 @@ On the day of the flower viewing--
 **Yui:** C'mon, c'mon\! Have a drink\~\! Have a drink\~\!  
 **Sayaka:** Yui... You're scaring me... I... Don't want any...  
 **Hiyori:** Yeah, I'm saying no too.  
-**Yui:** Ehh\~, that's so boring\~. Then, I'm gonna walk around over there and see if there's any pretty ladies I can offer a drink\!  
+**Yui:** Ehh\~, that's so boring\~\. Then, I'm gonna walk around over there and see if there's any pretty ladies I can offer a drink\!  
 **Yui:** Hey\! Hey you, miss\! Want to enjoy a hot time under the cherry blossoms with me\!  
 **Chie:** It seems Yui-chan has skipped right over spring and gone into summer... But the rest of us can start our flower viewing party now.  
 **Hiyori:** Right. It feels good to have spring back to normal. So, is everyone ready to do our toast?  

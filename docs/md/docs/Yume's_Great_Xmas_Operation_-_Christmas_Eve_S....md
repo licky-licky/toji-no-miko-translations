@@ -36,7 +36,7 @@ Part 4 was dubbed live on stream. There's a link above it if you want to read al
 **Tsugumi:** Shichinosato-san is here to work as payment for eating Kitora-san's share of pudding. Isn't that right?  
 **Mirja:** That's correct. I'll have you repay this year's debts before the year is done. Now then, everyone, in order to welcome the 24th as best we can, let's get to work at once.  
 **Mihono/Hiyori/Mai:** Yeah-\!  
-**Yume:** (I didn't think this many people would come help to celebrate Yomi-onee-san's birthday\!)  
+**Yume:** (I didn't think this many people would come help to celebrate Yomi-onee-san's birthday\!\)  
 **Mai:** Tsubakuro-san? Is something the matter?  
 **Yume:** I-It's nothing. Thanks for bringing everyone here, Onee-san. Let's throw a good party.  
 **Mai:** Sure\!  
@@ -50,7 +50,7 @@ Part 4 was dubbed live on stream. There's a link above it if you want to read al
 **Yume:** Yeah. I punished them as good as I could, so hopefully they don't show up anymore...  
 **Mai:** Hm? By the way, did you see Mihono-chan and the others? Where could they have gone.  
 **Mirja:** Asakura Mihono said she was going to practice her singing, and she took Ban Tsugumi and Shichinosato Kofuki with her to the music room.  
-**Yume:** (Singing? ...Oh, that makes sense. The happy birthday song is a really important part of birthdays. I'm happy they'd go as far as to practice singing it\!)  
+**Yume:** (Singing? ...Oh, that makes sense. The happy birthday song is a really important part of birthdays. I'm happy they'd go as far as to practice singing it\!\)  
 **Yume:** We can't have the party without singing, after all\!  
 **Mai:** That's true. This will definitely help liven up the party.  
 **Mai:** (Fufu, a choir singing carols? It's so Christmas-y that I can't wait to hear it\! We'll have to get Santa and reindeer themed outfits ready for people too.)  
@@ -127,8 +127,8 @@ On the day of the party.
 **Maki:** A blackout\!\?  
 **Yomi:** An aradama might be responsible. I'll get my okatana at once...  
 **Yume:** You don't have to do any of that-. Onee-sans, are you ready? One, two-\!  
-**Tsugumi/Mihono/Kofuki:** Happy birthday to you\~. Happy birthday to you\~. Happy birthday, dear...  
-**Yume:** Yomi-onee-san\~. Happy birthday to you\~.  
+**Tsugumi/Mihono/Kofuki:** Happy birthday to you\~\. Happy birthday to you\~\. Happy birthday, dear...  
+**Yume:** Yomi-onee-san\~\. Happy birthday to you\~\.  
 **Suzuka:** Oh my, Yomi-san\! On top of the Christmas cake, there's a big birthday message\!  
 **Yomi:** Wasn't this a Christmas Eve party today?  
 **Yume:** Hooray-\! The surprise was a big success\!  

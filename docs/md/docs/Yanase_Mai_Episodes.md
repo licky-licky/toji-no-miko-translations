@@ -14,7 +14,7 @@ Yanase Mai Episodes
 **Mihono:** I ran into Kanami before, and she said I should tag along, so...  
 **Mai:** Don't worry, it's fine. Sorry I invited you here so abruptly, Asakura-san, Kanami-chan.  
 **Mihono:** Ah, something smells really good\!  
-**Kanami:** Mai-chan, you made that, didn't you\! The stuff that's all sticky and smooth\~.  
+**Kanami:** Mai-chan, you made that, didn't you\! The stuff that's all sticky and smooth\~\.  
 **Mai:** That's right. I can't believe you figured it out already, Kanami-chan. I made pudding, but actually...  
 **Mai:** Ah, you should try some first\! I just hope it turned out alright.  
 **Kanami:** Everything you make turns out great, Mai-chan\!  
@@ -228,11 +228,11 @@ Yanase Mai Episodes
 **Mai:** (We'll have to fight each of our classmates? Which would mean, I'll have to think about how to conserve my energy...)  
 **Minoseki Academy Teacher:** Now then... Begin\!  
 **Kanami:** ......  
-**Mai:** (Wait, she's not attacking?)  
+**Mai:** (Wait, she's not attacking?\)  
 **Mai:** (That's sort of a let-down. With how she was acting, I thought she'd come straight at me as soon as we began...)  
 **Kanami:** I'm ready anytime.  
 **Mai:** (Her stance is... Seigan. It's so orthodox that there doesn't seem to be any scheme behind it. There's no need for tricks like that in our very first lesson anyway.)  
-**Mai:** (In which case... I'll go\!)  
+**Mai:** (In which case... I'll go\!\)  
 **Mai:** YAAAAH\!  
 **Kanami:** -\!  
 **Mai:** ...Eh\!\?  
@@ -279,7 +279,7 @@ Yanase Mai Episodes
 **Mai:** Eh?  
 **Kanami:** When I think, "If it were me, what would I get mad if someone made fun of?", it's got to be swordfighting of course\!  
 **Mai:** Fufu, I could see that, Kanami-chan.  
-**Mai:** (But then... That means, I got upset because Kanami-chan is important to me?)  
+**Mai:** (But then... That means, I got upset because Kanami-chan is important to me?\)  
 **Kanami:** And also... If somebody made fun of somebody you respect, you'd feel bad too, wouldn't you?  
 **Mai:** Someone you respect... Yeah, respect\! That's it, Kanami-chan\!  
 **Mai:** Thank you for letting me talk this over with you\!  
@@ -377,7 +377,7 @@ Yanase Mai Episodes
 **Mai:** ...Alright then. I'll take on the role of the drum major\!  
 **Mai:** So now, we'll begin practicing.  
 **Mai:** ......  
-**Kanami:** (Here I do it like this, and then like this... Okay\!)  
+**Kanami:** (Here I do it like this, and then like this... Okay\!\)  
 **Mihono:** (Here's where I move over here...)  
 **Nagae Futaba:** Hey\!\?  
 **Mihono/Futaba:** UWAH\!\?  
@@ -399,7 +399,7 @@ Yanase Mai Episodes
 **Futaba:** I'll pass\!  
 **Mai:** Everyone's gone, so now I need to do my own practice.  
 **Mai:** ......  
-**Mai:** (They're all practicing their hardest. I have to try even harder too\!)  
+**Mai:** (They're all practicing their hardest. I have to try even harder too\!\)  
 **Mai:** --I messed up\! I won't make it like this... One more try\!  
 **Mihono:** Ughh, I messed up a bunch, Kanamiii. I made a lot of trouble for Mai too.  
 **Kanami:** But still, you've gotten a lot better, Mihono-chan.  
@@ -433,10 +433,10 @@ At the marching band's main performance.
 **Kanami:** That's why I just know this'll go great. So let's have fun with it\!  
 **Mai:** Okay\!  
 **Fukuda Sawano:** (There's so many people here to watch. Though, if we just do it like we practiced...)  
-**Futaba:** (Yeah, yeah, all that practice is paying off\!)  
-**Mihono:** (Here's where I have to not bump into Futaba... Okay\!)  
-**Kanami:** (You can really tell how much everybody practiced\! I'm not about to let them show me up either\!)  
-**Mai:** (That's amazing...\! Everyone's performance is even better than what they could do in practice\!)  
+**Futaba:** (Yeah, yeah, all that practice is paying off\!\)  
+**Mihono:** (Here's where I have to not bump into Futaba... Okay\!\)  
+**Kanami:** (You can really tell how much everybody practiced\! I'm not about to let them show me up either\!\)  
+**Mai:** (That's amazing...\! Everyone's performance is even better than what they could do in practice\!\)  
 **Mai:** Nice work, everyone\! Our performance was fantastic\!  
 **Mihono:** That was so nerve-wracking\!  
 **Futaba:** So many people came to see us\!  
@@ -527,7 +527,7 @@ At the marching band's main performance.
 **Hiyori:** You did? Though it sounds just like something you'd do.  
 **Kanami:** Ah, Hiyori-chan. What's up?  
 **Hiyori:** What do you mean, "What's up?" You're the one who said to meet here so we could spar now.  
-**Kanami:** Oh yeah\! Then, let's get right to it\! I'll catch up with you later, Mai-chan\~.  
+**Kanami:** Oh yeah\! Then, let's get right to it\! I'll catch up with you later, Mai-chan\~\.  
 **Mai:** Okay. Be sure not to get hurt, you two.  
 **Mai:** ......  
 **Mahiru:** Mai-chan?  
@@ -576,7 +576,7 @@ At the marching band's main performance.
 **Mai:** It was. Though, I don't know if I'll be able to put it into practice straight away.  
 **Mahiru:** It would be difficult to use your okatana the same way I use my weapon, wouldn't it.  
 **Mai:** I think it's incredible enough that you can use that weapon like a baton, Tsuyuzaki-san\!  
-**Mahiru:** You keep flattering me so much, Mai-chan\~.  
+**Mahiru:** You keep flattering me so much, Mai-chan\~\.  
 **Mai:** Ah, by the way. Before we started training, you told me the two of us were alike?  
 **Mahiru:** Yeah, about that. I sort of had the feeling that the relationship between you, Kanami-chan, and Hiyori-chan was similar to us.  
 **Mahiru:** I told you earlier, but, I'm roommates with Karen-chan, and I love her and we've always been together.  
@@ -593,7 +593,7 @@ At the marching band's main performance.
 **Mai:** You're like our reliable big sister.  
 **Mahiru:** Well, I am a big sister. I have a little sister and brother at home. Maybe it's because of them, but I always find myself wanting to help others.  
 **Mai:** Ah, I have two little sisters myself.  
-**Mahiru:** We're the same\~.  
+**Mahiru:** We're the same\~\.  
 **Mahiru:** I don't mind going out of my way to help people, or I guess I should say, I just feel like I need to do something.  
 **Mahiru:** I used to help even more with Karen-chan in the past. Like helping her get out of bed in the mornings.  
 **Mai:** I can't help myself from taking care of things for my friends either. Though, sometimes they say I'm being overprotective...  
@@ -607,7 +607,7 @@ At the marching band's main performance.
 **Mahiru:** If you could keep everything in order yourself, Hikari-chan, I wouldn't argue. Can you?  
 **Hikari:** Nn...  
 **Karen:** I want you to help with that, Mahiru-chan. Without you around, our room would look like a disaster zone.  
-**Mahiru:** You and Hikari-chan should make sure to tidy up after yourselves, Karen-chan\~.  
+**Mahiru:** You and Hikari-chan should make sure to tidy up after yourselves, Karen-chan\~\.  
 **Kanami:** Hey, Mai-chan. I've got something I want to ask from you.  
 **Mai:** Like what? I'm all ears.  
 **Kanami:** I was eating the sweets Daiba-san made earlier. And I started wanting to have some of your cookies.  

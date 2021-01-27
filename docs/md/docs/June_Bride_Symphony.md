@@ -4,7 +4,7 @@ June Bride Symphony
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/gTrLpiMGjFs"></iframe>](:Iframe)  
 
 ## 1: The Wedding Event Kicks Off\!
-**Nishi Kozue:** Test, test. Clear blue skies today, clear blue skies today. Now testing the mic, now testing the mic. Ah\~, Ah\~... Mm, okay\!  
+**Nishi Kozue:** Test, test. Clear blue skies today, clear blue skies today. Now testing the mic, now testing the mic. Ah\~, Ah\~\... Mm, okay\!  
 **Kozue:** Ahem... Acting as your host today, as well as event commentator, I'm Nishi Kozue, a 1st year engineering student in high school at Osafune Girls' Academy. And with me is--  
 **Aoto Hina:** Aoto Hina, her assistant, and 2nd year high schooler studying polishing at Renpu Girls' School.  
 **Hina:** By the way, did you know my family runs "Aoto-kan", the sword dealership down in Tokyo's Harajuku\! Whether it's scabbards, grips, or guards, we'll cover all your needs\!  
@@ -121,13 +121,13 @@ June Bride Symphony
 **Hiyori:** (I have no interest in putting on that dress, and I can't find any reason to keep going along with this.)  
 **Hiyori:** (That said, I'd hate to let it seem like I lost to Sayaka by letting her steal this bouquet from right before my eyes.)  
 **Hiyori:** (I don't actually care about proving I'm better than her, but there's no way I'm just going to let her take it.)  
-**Hiyori:** (But I can't tell... Just what is she thinking? Sayaka... Are you coming up with a way to outsmart me?)  
+**Hiyori:** (But I can't tell... Just what is she thinking? Sayaka... Are you coming up with a way to outsmart me?\)  
 **Sayaka:** (I'm hungry...)  
 **Sayaka:** (I feel weak. I should have brought Mai's cookies with me.)  
 **Sayaka:** (I can't eat the bouquet, so I would rather have cookies... But, if I gave the bouquet to Mai, she might be happy. If Mai wore a wedding dress... She would look pretty for sure...)  
 **Sayaka:** (But I'm too hungry to focus... I want to eat cookies...)  
-**Hiyori:** (Did she relax her body just now? No wait, I can't let myself be tricked. Are you trying to bait me into lowering my guard\!\?)  
-**Hiyori:** (Still, as long as we keep staring each other down, I'll keep wasting energy without having done anything. I need to find a way to end this as soon as possible\!)  
+**Hiyori:** (Did she relax her body just now? No wait, I can't let myself be tricked. Are you trying to bait me into lowering my guard\!\?\)  
+**Hiyori:** (Still, as long as we keep staring each other down, I'll keep wasting energy without having done anything. I need to find a way to end this as soon as possible\!\)  
 **Kozue:** It's anyone's guess how long these mind games will go on for. But this much is clear, it's an intense battle\!  
 
 ## 5: The Wisdom of Weaklings, and Its Dangers
@@ -199,7 +199,7 @@ June Bride Symphony
 **Suzuka:** It would be my utmost pleasure to be escorted by you, Maki-san. Now, let's go. Fufufu\!  
 
 ## 7: The Bride Battle Reaches an Intense Impasse
-**Hina:** --Bringing things up to speed, we gave up on getting bouquets and came back to the studio here in the chapel to focus on reporting the situation\~.  
+**Hina:** --Bringing things up to speed, we gave up on getting bouquets and came back to the studio here in the chapel to focus on reporting the situation\~\.  
 **Kozue:** In these final minutes, a fierce struggle is breaking out...  
 **Kozue:** Whoa there\! Now this is unexpected\!  
 **Kozue:** The ones who failed to get a bouquet of their own have gathered here at the chapel, waiting in a last ditch effort to steal from anyone who arrives with one\!  
@@ -221,7 +221,7 @@ June Bride Symphony
 **Sayaka:** It's okay if it ends like this.  
 **Mihono:** No way\! They put the goal there so people would reach it\!  
 **Sayaka:** So what will you do?  
-**Mihono:** I'll, uhhh\~... What do we do, Kanami?  
+**Mihono:** I'll, uhhh\~\... What do we do, Kanami?  
 **Kanami:** Eh? What should we do, Hiyori-chan?  
 **Hiyori:** As if I know.  
 **???:** What's going on here. Why has no one reached the goal?  
@@ -242,7 +242,7 @@ June Bride Symphony
 **Yukari:** ...Hm, that would be a problem. Then all the trouble of planning this event was for nothing.  
 **Hina:** Y-Yes... It seems like it...  
 **Kozue:** A-All of you gathered here\~\~\! If things end like this with no winners, you're causing serious problems for the head of the family, you know\!  
-**Mihono:** ......Hmm\~. Then, why doesn't everyone reach the goal together? That way we can all wear dresses and everyone's happy?  
+**Mihono:** ......Hmm\~\. Then, why doesn't everyone reach the goal together? That way we can all wear dresses and everyone's happy?  
 **Kanami:** Ah, that could work\!  
 **Hiyori:** Really...?  
 **Sayaka:** Mm. I think everyone should get along today.  

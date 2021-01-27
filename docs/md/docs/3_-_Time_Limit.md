@@ -52,7 +52,7 @@
 **Mirja:** That said, we can't afford many more interruptions. All we can do is pray no more aradama appear.  
 **Yui:** But like they say, if you see one, expect thirty, right?  
 **Kofuki:** That's cockroaches\! But I guess it's not really wrong here either.  
-**Kiyoka:** C-Cockroaches...? Ughhh\~... Now I can't help but imagine them... My spine's tingling... So gross...  
+**Kiyoka:** C-Cockroaches...? Ughhh\~\... Now I can't help but imagine them... My spine's tingling... So gross...  
 **Yui:** Ahhn\~, sorry, Kiyoka-chan\! At times like this, you should just think of something fun\!  
 **Kiyoka:** Something fun... Something fun... When this mission's over, I want to eat crepes in Harajuku... I guess...?  
 **Yui:** Nice, nice\~ It's so girly\! And I'll go with you. Let's have a crepe party\!  
@@ -63,7 +63,7 @@
 **Yui:** Ahaha, it was a flag alright\! Ah, Mihono-chan, that's what a flag means. Like when something gives you a bad feeling and then it happens?  
 
 ## 4: As Toji (2)
-**Kiyoka:** Sigh\~... I think there actually might have been thirty of them...  
+**Kiyoka:** Sigh\~\... I think there actually might have been thirty of them...  
 **Kofuki:** We're seriously running short on time now... If these keeps up, we're not gonna make it, are we?  
 **Mihono:** Don't worry, we'll definitely make it\!\!  
 **Kofuki:** We will...? Do you know something I don't?  
@@ -130,7 +130,7 @@
 **Chie:** No doubt about it, that's Mokusa's sub. Thank goodness, it seems like we made it in time... I really wasn't sure if we would.  
 **Kiyoka:** It's actually going to happen... I'm so nervous my hands won't stop shaking...  
 **Kofuki:** That's not gonna make things any easier. Just loosen up.  
-**Kiyoka:** You say that, but... Uuuu\~...  
+**Kiyoka:** You say that, but... Uuuu\~\...  
 **Mihono:** When you're nervous, just write "people" on the palm of your hand, swallow it, and that's sure to calm you down\!  
 **Kiyoka:** I already swallowed it... I lost count how many times... Maybe more than fifty by now...  
 **Mihono:** Already tried it, huh-\! Well, I'm out of ideas.  

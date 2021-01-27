@@ -4,15 +4,15 @@ On a Nice Cool Evening! Yukata at the Summer Festi...
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/PLFKMPY_XHU"></iframe>](:Iframe)  
 
 ## 1: Festival Excitement, Floating Lanterns
-**Yume:**　Wowww-\! There's already so many stands set up\! I can't wait for the festival to start\~.  
+**Yume:**　Wowww-\! There's already so many stands set up\! I can't wait for the festival to start\~\.  
 **Yomi:** Tsubakuro-san. By running around like that, you're obstructing the people constructing stands and transporting goods.  
 **Maki:** Yomi's right, Yume. We came here with Yukari-sama to lead and the supervise the toji joining in the festival, as part of giving back to the community.  
 **Yume:** Ehhh, but it's boring if that's all we get to do-.  
 **Yume:** Hey, Yukari-sama\~? After the festival gets started, we can go around and check out whatever we want, right-?  
 **Suzuka:** We aren't here to play, Yume. Our mission here is simply to patrol the area.  
-**Yume:** Ehh\~...  
+**Yume:** Ehh\~\...  
 **Yukari:** So long as you remember not to neglect your patrol, I don't mind if you enjoy the festivities.  
-**Yume:** Okay\! Just leave the patrolling to me\~. Which stand should I go eat at first\~?  
+**Yume:** Okay\! Just leave the patrolling to me\~\. Which stand should I go eat at first\~?  
 **Yume:** Onee-sans, what do you want to go see?  
 **Yomi:** There's nothing I want to see in particular.  
 **Maki:** Can't we just go around seeing whatever you're interested in, Yume?  
@@ -44,11 +44,11 @@ On a Nice Cool Evening! Yukata at the Summer Festi...
 ## 2: Sharing the Festival with Everyone\!
 **Yukari:** Excellent work, not only with suppressing the aradama, but also with directing the other toji. With your efforts, the situation was put under control before much harm could be done.  
 **Yomi:** The paper lanterns were safely recovered as well. It may have been delayed half an hour, but the festival should be ready to open shortly.  
-**Yume:** The festival\~, the festival\~.  
+**Yume:** The festival\~, the festival\~\.  
 **Yomi:** It seems it's started.  
 **Yume:** Then, let's go-\!  
 **Yukari:** Wait, Yume.  
-**Yume:** Ehh... But you said I could look around the festival before\~.  
+**Yume:** Ehh... But you said I could look around the festival before\~\.  
 **Yukari:** I have here yukata for the four of you. Once you've changed, you may enjoy the festival to the fullest.  
 **Yume:** Wow\! Now it really feels like a festival\!\! Thanks, Yukari-sama\!  
 **Yukari:** That's right. You should thank Yuzuki... Ayanokouji's president. She's the one who prepared these.  
@@ -57,7 +57,7 @@ On a Nice Cool Evening! Yukata at the Summer Festi...
 **Maki:** We can't exactly ignore this offer, after all.  
 **Yume:** This takoyaki is yummy\! Yomi-onee-san, I'll give you a bite too, eat up.  
 **Yomi:** Thank you... Ohm, mm, it's a little hot... Though it is tasty.  
-**Yume:** I told you\~. I think it's even better than the takoyaki I usually have?  
+**Yume:** I told you\~\. I think it's even better than the takoyaki I usually have?  
 **Suzuka:** Fufu... On top of shaved ice and chocolate bananas, they're offering buttered potatoes as well.  
 **Maki:** Suzuka. This came up when you were looking at the food stalls around New Year's, but is buttered potato one of your favorites?  
 **Suzuka:** That's right. I don't often get to sample them, so the moment I do see them, I always want to have a taste.  
@@ -130,7 +130,7 @@ On a Nice Cool Evening! Yukata at the Summer Festi...
 **Yume:** Ehh, but she looked like she wanted to have some-.  
 **Maki:** We're going, you two. We can't allow Yukari-sama to go on ahead by herself.  
 **Yomi:** We can't afford to get lost either. Will you take my hand, Tsubakuro-san?  
-**Yume:** Guess I don't have a choice, huh\~. We'd be in a lot of trouble if you got lost, Yomi-onee-san.  
+**Yume:** Guess I don't have a choice, huh\~\. We'd be in a lot of trouble if you got lost, Yomi-onee-san.  
 **Yomi:** Yes, I'll feel better this way. Let's go join them.  
 **Yume:** Okay\!  
 

@@ -73,7 +73,7 @@ misogi/1,001 nights yume
 **Yume:** ...No good yet, huh. So I've gotta beat Yukari-sama after all...  
 **Maki:** H-Hey, Yume? That's not what I meant...  
 **Yume:** I'm gonna go over there real quick, Maki-onee-san.  
-**Yume:** Yukari-sama\~.  
+**Yume:** Yukari-sama\~\.  
 **Yukari:** Yume? What do you need?  
 **Yume:** Have a fight with me.  
 **Yukari:** I don't have time to entertain you now. Though... If we can do it here, I'll keep you company.  
@@ -98,7 +98,7 @@ misogi/1,001 nights yume
 **Yume:** But still...  
 **Yukari:** ...Yume. You put up a fine attack. I'll play with you again, so stay diligent.  
 **Yume:** Okay\!  
-**Yume:** (Ahh, that was so fun\! I'll get even stronger next time, and then I'll even beat Yukari-sama\!)  
+**Yume:** (Ahh, that was so fun\! I'll get even stronger next time, and then I'll even beat Yukari-sama\!\)  
 **Yume:** ...I'm really glad I joined the elite guard\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/QcrxhLnr7t8"></iframe>](:Iframe)  
 

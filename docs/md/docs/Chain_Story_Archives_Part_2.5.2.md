@@ -129,9 +129,9 @@ Chain Story Archives Part 2.5.2
 **Hana:** It sounded like glass breaking, but... It's sort of unsettling not knowing what happened.  
 **Mihono:** I'll go check it out then\! Suzumoto-san and Yui-san, you stay here\!  
 **???:** ORA\!  
-**Mihono:** (Somebody's fighting?)  
-**Mihono:** (The broken glass... Is that a motorcycle? Did the motorcycle come crashing through?)  
-**Mihono:** (But why in here...?)  
+**Mihono:** (Somebody's fighting?\)  
+**Mihono:** (The broken glass... Is that a motorcycle? Did the motorcycle come crashing through?\)  
+**Mihono:** (But why in here...?\)  
 **???:** C'mon, I don't have time for you small fry. Quit swarming me, damnit.  
 **Mihono:** (She's backup? She's wearing a Minoseki uniform, but... I've never seen her before.)  
 **???:** Finally...  
@@ -150,20 +150,20 @@ Chain Story Archives Part 2.5.2
 **???:** First, gimme an apology for pulling your okatana on me. I'm your senpai, y'know?  
 **Mihono:** ...  
 **???:** ...You asked for it.  
-**???:** (For starters, I'll knock some sense into this bratty kouhai of mine\! I can come up with something after\!)  
+**???:** (For starters, I'll knock some sense into this bratty kouhai of mine\! I can come up with something after\!\)  
 
 ## 6: Evaluation
 **Mihono:** ...  
 **Mihono:** (This girl, she was collecting noro in secret...)  
 **Mihono:** (The head of the Origami family was doing the same thing, when she was possessed by Tagitsuhime...)  
-**Mihono:** (Whatever her reason, I'd better stop her\!)  
+**Mihono:** (Whatever her reason, I'd better stop her\!\)  
 **???:** It's not in me to waste breath arguing.  
 **???:** Let's go.  
 **Mihono:** -\!\?  
-**Mihono:** (That was so fast... And she hits hard too\!)  
+**Mihono:** (That was so fast... And she hits hard too\!\)  
 **???:** HAAA\!\!  
 **Mihono:** Grh\!  
-**Mihono:** (She's... Really strong\!)  
+**Mihono:** (She's... Really strong\!\)  
 **???:** (...She's got some muscle. But, eh, that's how it is.)  
 **???:** ...Alright, I get the gist of it.  
 **Mihono:** Of what?  
@@ -185,7 +185,7 @@ Chain Story Archives Part 2.5.2
 **Akira:** ...Ohh, you're with Mokusa too. That's perfect.  
 **Akira:** I'm juggling what Mokusa and President Hashima want from me. Things've been getting annoying, so I was going it alone, and this one spotted me.  
 **Hana:** ...Is that how it went.  
-**Hana:** (President Hashima likely told her to do the same thing she told Mihono... So what did Mokusa want her to do?)  
+**Hana:** (President Hashima likely told her to do the same thing she told Mihono... So what did Mokusa want her to do?\)  
 **Hana:** (Well, she probably wouldn't give me an answer even if I asked.)  
 **Akira:** That's my story, so when they wake up, I'm counting on you to help explain.  
 **Hana:** Please try explaining things yourself before you get into a fight...  
@@ -206,5 +206,5 @@ Chain Story Archives Part 2.5.2
 **Mihono:** Sure, we'd be glad to have you, Inago-san\!  
 **Akira:** Akira's fine, Mihono.  
 **Mihono:** Okay\! Akira-san\!  
-**Mihono:** (Still... Why was she taking that noro? Was that part of President Hashima's orders too?)  
+**Mihono:** (Still... Why was she taking that noro? Was that part of President Hashima's orders too?\)  
 > :ToCPrevNext

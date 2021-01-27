@@ -28,7 +28,7 @@ https://streamable.com/4royp3
 **Aradama:** GGGGIIii...\!  
 **Senpai Toji:** Kitora\! The aradama's headed your way\!  
 **Mirja:** ...\!\?  
-**Mirja:** (...Was I really that absent minded during a mission?)  
+**Mirja:** (...Was I really that absent minded during a mission?\)  
 **Mirja:** Understood... I'll deal with it now\!  
 **Mirja:** I won't let it escape\! --HAAAAAAH\!\!  
 **Mirja:** What about the other aradama?  
@@ -78,7 +78,7 @@ https://streamable.com/w941jg
 **Mirja:** (When I participated in the tournament in my third year of middle school... and, the missions that came shortly after. I believe it was a good opportunity for me.)  
 **Uraga Nao:** Hey, Mirja\~? You listening\~?  
 **Mirja:** I am listening. As you two groan on about your post-high school graduation career paths.  
-**Nao:** They make it sound like checking our career paths is no big deal, but this is tough\~. They tell you to write down schools of choice too, if you're going on to university.  
+**Nao:** They make it sound like checking our career paths is no big deal, but this is tough\~\. They tell you to write down schools of choice too, if you're going on to university.  
 **Mizushina Kinuka:** Ah\! Maybe I should write down Ayanokouji Martial Arts School as my school of choice. The best way to keep an eye on my little sister would be to get re-enrolled here-.  
 **Mirja:** The teacher is going to think you're making a joke. And, how would your sister feel, having her older sister as her kouhai now?  
 **Kinuka:** She'd be delighted, wouldn't she\!  
@@ -88,11 +88,11 @@ https://streamable.com/w941jg
 **Kinuka:** Your family are swordsmiths... they're polishers, right? And can't you do it yourself too, Kitora-san?  
 **Mirja:** I can. Even now, I keep in practice enough to not lose my skill. When I want to think something over, I feel like doing it while polishing an okatana.  
 **Mirja:** Of course, I also check with professionals from time to time.  
-**Nao:** Mirja, you're totally okatana crazy\~.  
+**Nao:** Mirja, you're totally okatana crazy\~\.  
 **Kinuka:** Well, that's nothing new.  
 **Mirja:** I would like to continue polishing Akabane swords in the future.  
 **Mirja:** By polishing and restoring Akabane swords, it might lead to a rise in the number of toji accepted by okatana. That's something I want to help with.  
-**Nao:** Oh gosh... she has such a serious and well defined goal\~...  
+**Nao:** Oh gosh... she has such a serious and well defined goal\~\...  
 **Kinuka:** That sounds like something the teachers would take, no questions asked. But, wait, why have you been thinking this out more than us third years-\!\?  
 **Mirja:** ...That's something I should be asking, as your kouhai. You should think more carefully about this, you two.  
 > :ToCPrevNext

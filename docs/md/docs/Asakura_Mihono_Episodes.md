@@ -10,7 +10,7 @@ Asakura Mihono Episodes
 
 ## 1: Asakura Mihono's Easygoing Day
 **Mihono:** Yawwwn... Eh\!\? Crap\! I'm gonna be late\!  
-**Subara Rika:** Morning, Mihono-chan\~. You overslept again, didn't you? Your hair's a mess. You're usually so early on days with sparring practice though.  
+**Subara Rika:** Morning, Mihono-chan\~\. You overslept again, didn't you? Your hair's a mess. You're usually so early on days with sparring practice though.  
 **Rika:** Even if regular classes are boring, this is why you keep getting scolded, you know? But personally, I think learning the history of toji and tamahagane, and the relationship between noro and aradama, is pretty interesting.  
 **Mihono:** Yeah, buttt...  
 **Mihono:** Ah\! More importantly\! How're things going with that Fujiwara Shinjo-kun? If you don't hurry up, some other girl might make a move\!  
@@ -21,7 +21,7 @@ Asakura Mihono Episodes
 **Mihono:** I get that, but... Mmm, it feels like you two should have sealed the deal by now...  
 **Mihono:** Hm?  
 **???:** A-\! SA-\! KU-\! RA-\! MI-\! HO-\! NOOOO--\! LET'S DUEL--\!  
-**Mihono:** Whoa\! (Dodge\!)  
+**Mihono:** Whoa\! (Dodge\!\)  
 **???:** UWAAAHH\!  
 *thud*
 
@@ -86,7 +86,7 @@ Asakura Mihono Episodes
 **Chie:** Thank you. But to call it fate... It's more like, maybe... A punishment game? Isn't it, Mihono-chan?  
 **Mihono:** You heard, right Kiyoka? How I chased after Kanami and Chii-nee followed me. Well, President Ema got really mad and told us to work here.  
 **Kiyoka:** Oh yeah, that's right... But, but, I'm still curious to hear what you were like as kids together.  
-**Mihono:** Hmm\~...  
+**Mihono:** Hmm\~\...  
 **Mihono:** Well, it was about five years ago that Chii-nee moved away from Okayama... I was just a third year in elementary school back then, and Chii-nee had just started middle school.  
 **Chie:** So you remember. Mihono-chan still acts mostly the same, but I used to be much more of a crybaby.  
 **Chie:** My house wasn't too far from the Asakura Shrine, and so we'd always play around at the shrine until it got dark. It was a lot of fun; we'd all go catching bugs and playing other games.  
@@ -158,8 +158,8 @@ Asakura Mihono Episodes
 **Mihono:** When you spring this on me all of a sudden, it's a little... Anyway, who's this "goddess"?  
 **Hattori:** She comes here from Osafune every now and then.  
 **Hattori:** Whenever I'm working support on the computers, she always smiles and tells me I'm doing such a good job. I'm surprised such an angel would be hanging out with you\! No, she's a goddess\!  
-**Mihono:** (From Osafune...? Someone I know?)  
-**Mihono:** (Wait, that's gotta be Chii-nee\!)  
+**Mihono:** (From Osafune...? Someone I know?\)  
+**Mihono:** (Wait, that's gotta be Chii-nee\!\)  
 **Hattori:** What's wrong? Should I keep going? I just need to know, you know... What kind of guy she likes.  
 **Mihono:** You mean Chii-nee, right? Just so you know, Chii-nee...  
 **Mihono:** Who'd have guessed\! She's into younger girls\!  
@@ -198,7 +198,7 @@ Asakura Mihono Episodes
 **Aradama:** GUGAA\!  
 **Mihono:** Kyaa-\!  
 **Mihono:** Ugh... I-I can't...  
-**Mihono:** (Th-This is bad...\! That girl's going to...\!)  
+**Mihono:** (Th-This is bad...\! That girl's going to...\!\)  
 **Aradama:** GAAAAAA\!  
 **Kanami:** That's far enough\! HAAAAH-\!  
 **Aradama:** GUAAa aaa...  
@@ -448,7 +448,7 @@ On New Year's Eve. Partway through Mihono and Chie's trip together, they happene
 **Mihono:** Okay-, I'll be out in a minute.  
 **Kiyoka:** Alright\!  
 **Mihono:** (It's just me and Itomi-san left, huh.)  
-**Mihono:** (I just need to put this ear piercing in, and... There\! It's all set\!)  
+**Mihono:** (I just need to put this ear piercing in, and... There\! It's all set\!\)  
 **Mihono:** Okay, Itomi-san, I'm going to get going too now.  
 **Sayaka:** ...  
 **Mihono:** Itomi-san? What's wrong?  
@@ -519,14 +519,14 @@ The day of the barbecue--
 **Uraga Nao:** Oh, Asakura-san. Need me to grill more\~?  
 **Mihono:** Ah, no, I'll be fine\! I want to try grilling it myself\!  
 **Mihono:** The barbecue boss should enjoy her own food\!  
-**Nao:** Grilling it yourself is fun too, isn't it\~.  
+**Nao:** Grilling it yourself is fun too, isn't it\~\.  
 **Nao:** Wait... When did I start letting the barbecue boss title slide...?  
 **Mirja:** It's the truth, so isn't it better this way?  
-**Nao:** Mirja, if you're going to be like that, I'm not giving you a taste of this perfect combination of baguettes al ajillo\~.  
+**Nao:** Mirja, if you're going to be like that, I'm not giving you a taste of this perfect combination of baguettes al ajillo\~\.  
 **Nao:** Want some, Setouchi-san\~?  
 **Chie:** It looks delicious; I think I will.  
 **Mirja:** Urgh... So your next strategy is to starve me out. I'll stop spreading the word of the barbecue boss...  
-**Mihono:** What should I do now\~. Ah, skewers might be good\!  
+**Mihono:** What should I do now\~\. Ah, skewers might be good\!  
 **Kiyoka:** Hono-chan\! Hold on a minute\!  
 **Mihono:** Wawah\!\? Kiyoka\!\? Wh-What's up?  
 **Kiyoka:** Hono-chan, your meat was so tasty that we were forgetting something important\!  
@@ -538,7 +538,7 @@ The day of the barbecue--
 **Mihono:** It's a good idea, right?  
 **Kiyoka:** I can't disagree with that...  
 **Kiyoka:** ...B-But, no. You almost got me, but, if meat is what we already have in common, then we have to try copying them with things besides meat\!  
-**Mihono:** Ehh\~... Ah, wait, hang on. Just the stuff I'm grilling right now then\~... It'd be a waste otherwise\!  
+**Mihono:** Ehh\~\... Ah, wait, hang on. Just the stuff I'm grilling right now then\~\... It'd be a waste otherwise\!  
 **Kiyoka:** It's not good to waste food, is it.  
 **Mihono:** So you get it\! Meat's definitely good for growing\! Boobs are meat too, right\!  
 **Kiyoka:** Then, let's quickly eat up the meat you're grilling now\!  
@@ -551,8 +551,8 @@ The day of the barbecue--
 **Kiyoka:** We can't do that; if we don't eat fast, we won't be able to eat all the same foods.  
 **Mihono:** Kgh...  
 **Mihono:** A-Alright, Kiyoka\! [chew chew]...\!  
-**Mihono:** (Kiyoka... She's way too eager about Alliance stuff... I mean, sometimes she puts on too much pressure\!)  
-**Mihono:** (All I wanted was to really savor the meat\~\!)  
+**Mihono:** (Kiyoka... She's way too eager about Alliance stuff... I mean, sometimes she puts on too much pressure\!\)  
+**Mihono:** (All I wanted was to really savor the meat\~\!\)  
 **Chie:** Fufu, look at Mihono-chan and Kiyoka-chan scarfing down the meat.  
 **Chie:** They must have really been excited for the barbecue.  
 (Very low quality video)
@@ -601,9 +601,9 @@ https://streamable.com/bos4qz
 ## [Pirate - Mihono: End]: The Treasure Comes After we Take Down Their Pirate Flag\!
 **Mihono:** Wawah\!\?  
 **Mihono:** It's great and all I made it over to this ship without Kiyoka and them noticing, but... Bringing down their pirate flag is actually tough...\!  
-**Yui:** Fu fu fu\~. And what about you, Mihono-chan? You sure you didn't want to stop us from bringing down your pirate flag?  
+**Yui:** Fu fu fu\~\. And what about you, Mihono-chan? You sure you didn't want to stop us from bringing down your pirate flag?  
 **Mihono:** Eh... Our ship-- Are Kiyoka and Ellen-san there already\!\?  
-**Mihono:** Wait... Nobody's there. Yuiii\~.  
+**Mihono:** Wait... Nobody's there. Yuiii\~\.  
 **Yui:** If you take down our flag, we have to give you the treasure map-. So I'll tell a lie if I have to.  
 **Mihono:** But, that's not enough to make me give up\!  
 **Akira:** Me and Yomi'll take 'em head on, dealing with anybody coming off of Yui's ship.  
@@ -618,7 +618,7 @@ https://streamable.com/bos4qz
 **Mihono:** I thought I'd get in all sneaky and bring your flag down though...  
 **Yui:** If that was... your sneaking, being a spy or a ninja really isn't for you, Mihono-chan.  
 **Yui:** I kept hearing "Ahh\!\" and "Crap\!\"   
-**Mihono:** No way\~... I thought I was doing perfect though.  
+**Mihono:** No way\~\... I thought I was doing perfect though.  
 **Mihono:** But still, so long as I keep pulling the rope hard--  
 **Akira:** That's it\! Keep it up just like that, Mihono\!  
 **Mihono:** EIIII---\!\!  

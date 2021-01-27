@@ -152,7 +152,7 @@
 **Chie:** Whether or not I get along with someone, things are different on a mission. I wouldn't do anything to get in the way of the task at hand. You don't have to worry.  
 **Mihono:** I wasn't worried, you know? You're all reliable and everything, Chii-nee\!  
 **Chie:** Even as you say that, you can't hide it on your face. You're a bad liar, Mihono-chan.  
-**Mihono:** Ahhh\~...  
+**Mihono:** Ahhh\~\...  
 **Chie:** Alright, we should head back. If we stay much later, Mirja-san will scold us.  
 **Mihono:** Yeah, you're right.  
 
@@ -241,7 +241,7 @@
 **Akane:** That's all, you're dismissed.  
 **Other:** Yui's Excuse  
 **Hana:** Really, I can't believe you... You think you can get out of letting Kofuki-san nearly cut my head off with just "Teehee\!\"?  
-**Yui:** You don't have to blame me for it\~. I didn't even know that I was supposed to tell them about you on that mission.  
+**Yui:** You don't have to blame me for it\~\. I didn't even know that I was supposed to tell them about you on that mission.  
 **Hana:** You didn't know\!\?  
 **Yui:** I mean, back when Aoto Youji-san told me everything, all he said was "there's another person who'll be helping you out" right at the end.  
 **Yui:** So all I was thinking is there's somebody else to look out for.  

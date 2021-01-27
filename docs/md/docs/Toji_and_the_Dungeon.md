@@ -62,7 +62,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 
 ## 2: An Echoing Scream in Another World
 **Ais:** Tempest\!  
-**Hiyori:** (What... That girl, wind came and surrounded her body...\!)  
+**Hiyori:** (What... That girl, wind came and surrounded her body...\!\)  
 **Ais:** ...\!  
 **Aradama:** GUOOOOOO...  
 **Mihono:** That's amazing\! The rest of the aradama were beaten in no time\!  
@@ -201,7 +201,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Hestia:** Go ahead and ask me for anything you need, foreginers\! If it'll help you get rid of those arawhatevers, I'd be happy to lend a helping hand or two\!  
 **Kiyoka:** W-Will you really\!\? Then, can you teach us how to use magic\!\?  
 **Hiyori:** ...\!  
-**Hiyori:** (Can we actually use it too...?)  
+**Hiyori:** (Can we actually use it too...?\)  
 **Hestia:** Ah, sorry. I can't teach you how to do that so suddenly.  
 **Kiyoka:** O-Oh, okay...  
 **Hestia:** Yeah, but is there anything else?  
@@ -304,7 +304,7 @@ Again and again, I can't get it out of my mind. But I still haven't found the an
 **Hiyori:** Lilly, stay in the center of us\! Form a ring\! Don't show them your backs\!  
 **Hiyori:** (But... In our exhausted state, taking on this many aradama will be...)  
 **Hiyori:** (What do we do... Is there something we haven't thought of...? At this rate, before long...)  
-**Hiyori:** (Damnit... If only I were stronger...\!)  
+**Hiyori:** (Damnit... If only I were stronger...\!\)  
 **Lilly:** H-Here they come\!  
 **Aradama:** GUGAAAAAAAAAAAA-\!\!  
 **Hiyori:** Kh...\!  

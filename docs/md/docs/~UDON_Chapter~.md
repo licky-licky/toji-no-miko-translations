@@ -1,6 +1,6 @@
 
-~UDON Chapter~
-==============
+\~UDON Chapter\~
+================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Q1oMmLbcCeg"></iframe>](:Iframe)  
 
 ## 1: The Hero Club's Udon Trip
@@ -45,7 +45,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Yuuna:** Yawn... Morning, everybody\! Isn't it fun, us all leaving this early\! Kind of like a field trip\!  
 **Tougou:** Thinking of breakfast, I borrowed a kitchen and made us some botamochi.  
 **Tougou:** If anyone wants any, here you are.  
-**Sonoko:** I do I do\~.  
+**Sonoko:** I do I do\~\.  
 **Ellen:** Oh\! Is it alright for me to have some botamochi too?  
 **Ellen:** [chew chew]... Mmm, it's delicious\!  
 **Tougou:** That golden colored hair, those blue eyes, and... That well pronounced English\! Are you perhaps a "westerner"\!\?  
@@ -96,7 +96,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Ellen:** Girl power... I see\! That must be why you're all so cute\!  
 **Yuuna:** Hey, Hiyori-chan, what's Mizusawa udon like?  
 **Hiyori:** What makes Mizusawa udon distinct is its pale white noodles. They're usually served as chilled zaru udon, but the dipping sauce will depend on where you eat it... Or so I hear.  
-**Sonoko:** Pale white noodles, hmm. This udon sounds like a real beauty\~.  
+**Sonoko:** Pale white noodles, hmm. This udon sounds like a real beauty\~\.  
 **Hiyori:** And also, compared to your average udon noodles, it's supposed to be a little bit thicker.  
 **Itsuki:** If the noodles are thick, then it should already have plenty of body to it.  
 **Hiyori:** Ah, about that, I was told it's not as if the noodles have more body than Sanuki udon.  
@@ -139,7 +139,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Yomi:** From your perspective, Inaniwa udon will be a thin type of udon.  
 **Tougou:** Thin? Do you mean like somen?  
 **Yomi:** Yes, it would be fine to think like that. It is a type of udon just thicker than somen.  
-**Sonoko:** A thin type of udon... An unknown type of udon just entered the picture\~.  
+**Sonoko:** A thin type of udon... An unknown type of udon just entered the picture\~\.  
 **Yomi:** I've made a reservation at the restaurant.  
 **Yomi:** I can assure you the taste will be delicious, so please look forward to it.  
 **Yuuna:** So it gets Satsuki-san's seal of approval\! How soon before we get to Akita\!  
@@ -152,7 +152,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Karin:** What do you mean, flag\!\?  
 **Itsuki:** Still... Why are all these udon related places being affected by aradama?  
 **Fuu:** The aradama just don't understand the deliciousness of udon... That's why they're making trouble for anyone selling it\!  
-**Sonoko:** The enemies that come out in our world, the vertex, I've heard they'll completely ignore a bowl of udon too\~.  
+**Sonoko:** The enemies that come out in our world, the vertex, I've heard they'll completely ignore a bowl of udon too\~\.  
 **Sonoko:** Aradama and vertex; something so inhuman can never understand the greatness of udon\~\!  
 **Yuuna:** If only they could tell how delicious udon is, we might be able to come to terms with each other...  
 **Hiyori:** Uh, I don't think udon is going to help us reach a mutual understanding...  
@@ -201,7 +201,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Vm_3KVXqxvE"></iframe>](:Iframe)  
 
 ## [Yuusha 2: Hiyori: Start]: Toji and Heroes-- The Stoic Pair
-**Sonoko:** We'll see you off from here\~.  
+**Sonoko:** We'll see you off from here\~\.  
 **Kanami:** Hiyori-chan, I know your aradama mission with Karin-chan will be a bit of a long trip, but do what you can.  
 **Hiyori:** Sure, you don't have to worry.  
 **Kanami:** I wanted to come along, to see more of Karin-chan's dual wielding, but it was too much when I have a mission of my own. That's a little disappointing.  
@@ -209,7 +209,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Kanami:** I mean, she can dual wield, can't she? Yukari-sama and Shichinosato-san can do it too, but it's not something you get to see all that often, is it?  
 **Sonoko:** Nibosshi, you get along with her without fighting, okay-? Also, here's 500 yen for snacks.  
 **Karin:** Am I going on a field trip\!\? What if they think us Heroes can't take things seriously\!  
-**Sonoko:** For your snacks-- Don't you think it would be best to re-energize with some sugar when you get a break? And also, Niboshi don't count as snacks, so don't worry about that\~.  
+**Sonoko:** For your snacks-- Don't you think it would be best to re-energize with some sugar when you get a break? And also, Niboshi don't count as snacks, so don't worry about that\~\.  
 **Karin:** Of course they don't. Niboshi form a complete diet.  
 **Hiyori:** (...Niboshi? Niboshi, huh.)  
 **Hiyori:** Anyway, we should leave.  
@@ -217,7 +217,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Kanami/Sonoko:** Have a safe trip-\!  
 **Hiyori:** ......  
 **Karin:** .....  
-**Hiyori:** (At times like these, the sensible thing to do would be to find something to talk about, wouldn't it?)  
+**Hiyori:** (At times like these, the sensible thing to do would be to find something to talk about, wouldn't it?\)  
 **Hiyori:** (In that case... Alright.)  
 **Hiyori:** ...Hey.  
 **Karin:** ...Hey.  
@@ -250,7 +250,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Hiyori:** Good idea. [gulp gulp]...  
 **Karin:** I'll take some supplements too...  
 **Hiyori:** \!\?  
-**Hiyori:** (Just how many does she have\!\?)  
+**Hiyori:** (Just how many does she have\!\?\)  
 **Hiyori:** ...Hey, why are you taking so many supplements?  
 **Karin:** It's a part of keeping my body in healthy condition, of course. If I were getting sick often, I wouldn't be able to function as a Hero.  
 **Hiyori:** You have a point, but can't you get the nutrition you need from proper meals?  
@@ -294,7 +294,7 @@ The next day, the Heroes and the toji gathered before the break of dawn.
 **Kiyoka:** This time, the two of us will be suppressing aradama as a pair. You might not be able to rely on me for much... But I look forward to working with you.  
 **Fuu:** That's not true at all. I'll be counting on you, Kiyoka.  
 **Kiyoka:** ......  
-**Kiyoka:** (Th-That's right. A hero like Fuu-san might be helping to clear out the aradama... But this is where a toji like me needs to get it together...\!)  
+**Kiyoka:** (Th-That's right. A hero like Fuu-san might be helping to clear out the aradama... But this is where a toji like me needs to get it together...\!\)  
 **Kiyoka:** Umm... Then, let's give it everything we've got, Fuu-san\!  
 **Fuu:** Are you maybe feeling a bit nervous today?  
 **Kiyoka:** Ah... No, it's not like that\!  

@@ -89,7 +89,7 @@ Take Back a Twinkling Christmas Eve!
 **Mirja:** Huh? Lights?  
 **Yui:** Right, once I remove all the aradama around here and get back the Christmas ornaments, they'll turn the Christmas lights back on\!  
 **Mirja:** O-Ohhh...?  
-**Mirja:** (Does this mean I jumped to conclusions and unnecessarily made Yamashiro Yui my rival...?)  
+**Mirja:** (Does this mean I jumped to conclusions and unnecessarily made Yamashiro Yui my rival...?\)  
 **Yui:** What's wrong, Mirja-san? You're blushing?  
 **Mirja:** I-It's nothing. More importantly, what about the lights? The aradama in the area have been largely cleared out...  
 **Yui:** I got a lot of the ornaments back too, so I was thinking it can't take much more...  
@@ -115,7 +115,7 @@ Take Back a Twinkling Christmas Eve!
 **Yui:** Mm, it's Onee-chan. Are you okay being up this late?  
 **Yui:** ...Oh, so you can see the lights from the hospital?  
 **Yui:** That's great. I know you were looking forward to it. Yeah, I can see them too.  
-**Yui:** They sure are pretty\~... I hope we can see them together next year.  
+**Yui:** They sure are pretty\~\... I hope we can see them together next year.  
 **Yui:** Mm... Okay... Oh yeah, for your present, you still want the same thing, right?  
 **Yui:** Yep, I already told Santa about it.  
 **Mirja:** I see... The power of love, wasn't it?  

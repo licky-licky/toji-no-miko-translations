@@ -381,51 +381,51 @@ https://pastebin.com/wWncyRed
 Includes voiced birthday lines that you won't find here.
 
   
-**- Asakura Mihono:**  
+- Asakura Mihono:  
 https://pastebin.com/i9sMV7mU
 
   
-**- Setouchi Chie:**  
+- Setouchi Chie:  
 https://pastebin.com/j89zitGp
 
   
-**- Shichinosato Kofuki:**  
+- Shichinosato Kofuki:  
 https://pastebin.com/rQAJL1zL
 
   
-**- Musumi Kiyoka:**  
+- Musumi Kiyoka:  
 https://pastebin.com/T7FnrPQR
 
   
-**- Kitora Mirja:**  
+- Kitora Mirja:  
 https://pastebin.com/f67r9tzs
 
   
-**- Yamashiro Yui:**  
+- Yamashiro Yui:  
 https://pastebin.com/r8TWfnyL
 
   
-**- Etou Kanami:**  
+- Etou Kanami:  
 https://pastebin.com/jkDL1msH
 
   
-**- Juujou Hiyori:**  
+- Juujou Hiyori:  
 https://pastebin.com/9FYzFdJw
 
   
-**- Yanase Mai:**  
+- Yanase Mai:  
 https://pastebin.com/43dS2e7Z
 
   
-**- Itomi Sayaka:**  
+- Itomi Sayaka:  
 https://pastebin.com/zZVAX41r
 
   
-**- Mashiko Kaoru:**  
+- Mashiko Kaoru:  
 https://pastebin.com/Zr9n1Pdg
 
   
-**- Kohagura Ellen:**  
+- Kohagura Ellen:  
 https://pastebin.com/pThqYnuH
 
   
@@ -437,15 +437,15 @@ https://pastebin.com/z1rdgcuF
 https://pastebin.com/fVk98Ki9
 
   
-**- Konohana Suzuka:**  
+- Konohana Suzuka:  
 https://pastebin.com/8nKHxKWZ
 
   
-**- Satsuki Yomi:**  
+- Satsuki Yomi:  
 https://pastebin.com/ygbSjmNQ
 
   
-**- Tsubakuro Yume:**  
+- Tsubakuro Yume:  
 https://pastebin.com/k3hqn1VM
 
   
@@ -461,7 +461,7 @@ https://pastebin.com/s8vgL6wJ
 https://pastebin.com/KrgyLkRT
 
   
-**- Ban Tsugumi:**  
+- Ban Tsugumi:  
 https://pastebin.com/Y0hKJ1WF
 
   

@@ -37,9 +37,9 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Mihono:** Though, would I know anyone who's working with the MPD?  
 **Ema:** Of course. There are others loaned to them, some who you should be familiar with... Let's see, Suzumoto-san and Yamashiro-san should have transferred there.  
 **Mihono:** Suzumoto-san and Yamashiro-san did...?  
-**Mihono:** (Uuu... I don't know. I never did get their phone numbers, so maybe I should go there?)  
+**Mihono:** (Uuu... I don't know. I never did get their phone numbers, so maybe I should go there?\)  
 **Mihono:** (But, if I get transferred, I don't really know what' I'd be doing. I feel like I'd get to be more useful working here with Mai and the others.)  
-**Mihono:** (Yeah, I'll go with that. I'll get their phone numbers sooner or later, I know it\!)  
+**Mihono:** (Yeah, I'll go with that. I'll get their phone numbers sooner or later, I know it\!\)  
 **Mihono:** ...Okay, I've made up my mind, President Hashima. I'm going to work hard here helping the STT.  
 **Ema:** ...That's fine.  
 **Ema:** You'll be part of one of Minoseki's units, Asakura-san. Though, the offer to transfer to the MPD will always be available, so if you ever change your mind, come right here and tell me.  
@@ -48,24 +48,24 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Nagae Futaba:** Wha, Mihono\!\?  
 **Mihono:** We have to focus, Futaba\! Let's take care of the aradama first\! We can talk later\!  
 **Futaba:** R-Right\!  
-**Futaba:** (I just went along with her, but... Is it me, or did Mihono get a heck of a lot stronger\!\?)  
-**Futaba:** (I remember Mihono being a lot more... Did something happen to her when she was with the investigation team?)  
+**Futaba:** (I just went along with her, but... Is it me, or did Mihono get a heck of a lot stronger\!\?\)  
+**Futaba:** (I remember Mihono being a lot more... Did something happen to her when she was with the investigation team?\)  
 **Fukuda Sawano:** ...  
 **Sawano:** (...It's only natural Nagae-san would be surprised. Compared to how she was during the tournament qualifiers... Asakura-san is fighting like a completely different person.)  
-**Sawano:** (Working with the investigation team should have benefited her, but... Would it have made this much of a difference?)  
+**Sawano:** (Working with the investigation team should have benefited her, but... Would it have made this much of a difference?\)  
 **Sawano:** ...Asakura-san\! Can you take care of things here? I'll go support the other units\!  
 **Mihono:** Sure, just leave it to me\!  
 **Futaba:** Sawano-san, what should I do\!  
 **Sawano:** ...Please come with me, Nagae-san\! Asakura-san can handle herself here\!  
 **Futaba:** ...Okay\!  
-**Futaba:** (The way I am now, I'd just be weighing Mihono down... It's so frustrating\! It wasn't that long ago that I could fight neck and neck with her\!)  
+**Futaba:** (The way I am now, I'd just be weighing Mihono down... It's so frustrating\! It wasn't that long ago that I could fight neck and neck with her\!\)  
 **Mihono:** HAAA\!\!  
 **Aradama:** GGGOOOOUUU\!\!  
 **Mihono:** Grr, it's fast...  
 **Mihono:** But still\! I was working hard with the investigation team... So if I just calm down, I can do this\!  
 **Mihono:** Alright\! Now for the next one\!  
 **Futaba:** ...Keep it up, Mihono\!  
-**Futaba:** (You'll see, I'll be right there fighting alongside you again soon\!)  
+**Futaba:** (You'll see, I'll be right there fighting alongside you again soon\!\)  
 **Mihono:** Pant... Pant...  
 **Toji A:** KYAAAAA\!\!  
 **Mihono:** -\!\? Are you okay\!\?  
@@ -114,7 +114,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Hana:** More importantly... Every moment we spend here, the number of victims is getting bigger.  
 **Hana:** We have to go now.  
 **Yui:** Right\!  
-**Man:** (I never got attacked by aradama before... Before you toji screwed everything up\!)  
+**Man:** (I never got attacked by aradama before... Before you toji screwed everything up\!\)  
 **Mihono:** ...We screwed everything up?  
 **Mihono:** I couldn't tell him no... I mean, after what happened with Tagitsuhime...  
 **Mihono:** ............  
@@ -124,7 +124,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Ema:** A large scale aradama disaster?  
 **Ema:** You're right, that location is right on our doorstep, however... We don't have toji available that quickly.  
 **Ema:** Yes, we need time to organize a unit, and.... Eh? I understand that, but...  
-**Mihono:** (Large scale aradama disaster...?)  
+**Mihono:** (Large scale aradama disaster...?\)  
 **Ema:** Then let's see... I'll need an hour at the least, before they can arrive there...  
 **Mihono:** (An hour... By the time an hour passes, how many people will get hurt...)  
 **Mihono:** President Hashima, please let me go there\!  
@@ -136,7 +136,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Ema:** I want you to go straight to the shopping mall. You're to join forces with Suzumoto-san and Yamashiro-san there.  
 **Mihono:** Suzumoto-san and Yamashiro-san\!\?  
 **Mihono:** (Suzumoto-san and Yamashiro-san are already helping at the mall...)  
-**Mihono:** (Come to think of it... Why did those two agree to transfer to the MPD anyway?)  
+**Mihono:** (Come to think of it... Why did those two agree to transfer to the MPD anyway?\)  
 **Ema:** Do you understand? Rather than suppressing aradama, saving lives is your top priority. Think only about keeping casualties to a minimum.  
 **Mihono:** Got it\!  
 **Mai:** Mihono-chan\!  
@@ -181,7 +181,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Mihono:** (Ordinary people... And toji too. There's so many of them getting hurt...)  
 **Citizen C:** I saw all about it on TV\! It's because of their negligence that the aradama came spreading everywhere\!\!  
 **Mihono:** ...\!  
-**Mihono:** (Because we defeated Tagitsuhime... Was it wrong for us to do that...?)  
+**Mihono:** (Because we defeated Tagitsuhime... Was it wrong for us to do that...?\)  
 **Mihono:** ...I'm a toji from Minoseki, here to help. Where are Suzumoto-san and Yamashiro-san at?  
 **Toji A:** If you want Suzumoto-san, she came out with us just now. She should be...  
 **Hana:** Asakura-san?  
@@ -340,9 +340,9 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Hana:** It sounded like glass breaking, but... It's sort of unsettling not knowing what happened.  
 **Mihono:** I'll go check it out then\! Suzumoto-san and Yui-san, you stay here\!  
 **???:** ORA\!  
-**Mihono:** (Somebody's fighting?)  
-**Mihono:** (The broken glass... Is that a motorcycle? Did the motorcycle come crashing through?)  
-**Mihono:** (But why in here...?)  
+**Mihono:** (Somebody's fighting?\)  
+**Mihono:** (The broken glass... Is that a motorcycle? Did the motorcycle come crashing through?\)  
+**Mihono:** (But why in here...?\)  
 **???:** C'mon, I don't have time for you small fry. Quit swarming me, damnit.  
 **Mihono:** (She's backup? She's wearing a Minoseki uniform, but... I've never seen her before.)  
 **???:** Finally...  
@@ -361,20 +361,20 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **???:** First, gimme an apology for pulling your okatana on me. I'm your senpai, y'know?  
 **Mihono:** ...  
 **???:** ...You asked for it.  
-**???:** (For starters, I'll knock some sense into this bratty kouhai of mine\! I can come up with something after\!)  
+**???:** (For starters, I'll knock some sense into this bratty kouhai of mine\! I can come up with something after\!\)  
 
 ## 6: Evaluation
 **Mihono:** ...  
 **Mihono:** (This girl, she was collecting noro in secret...)  
 **Mihono:** (The head of the Origami family was doing the same thing, when she was possessed by Tagitsuhime...)  
-**Mihono:** (Whatever her reason, I'd better stop her\!)  
+**Mihono:** (Whatever her reason, I'd better stop her\!\)  
 **???:** It's not in me to waste breath arguing.  
 **???:** Let's go.  
 **Mihono:** -\!\?  
-**Mihono:** (That was so fast... And she hits hard too\!)  
+**Mihono:** (That was so fast... And she hits hard too\!\)  
 **???:** HAAA\!\!  
 **Mihono:** Grh\!  
-**Mihono:** (She's... Really strong\!)  
+**Mihono:** (She's... Really strong\!\)  
 **???:** (...She's got some muscle. But, eh, that's how it is.)  
 **???:** ...Alright, I get the gist of it.  
 **Mihono:** Of what?  
@@ -396,7 +396,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Akira:** ...Ohh, you're with Mokusa too. That's perfect.  
 **Akira:** I'm juggling what Mokusa and President Hashima want from me. Things've been getting annoying, so I was going it alone, and this one spotted me.  
 **Hana:** ...Is that how it went.  
-**Hana:** (President Hashima likely told her to do the same thing she told Mihono... So what did Mokusa want her to do?)  
+**Hana:** (President Hashima likely told her to do the same thing she told Mihono... So what did Mokusa want her to do?\)  
 **Hana:** (Well, she probably wouldn't give me an answer even if I asked.)  
 **Akira:** That's my story, so when they wake up, I'm counting on you to help explain.  
 **Hana:** Please try explaining things yourself before you get into a fight...  
@@ -417,7 +417,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Mihono:** Sure, we'd be glad to have you, Inago-san\!  
 **Akira:** Akira's fine, Mihono.  
 **Mihono:** Okay\! Akira-san\!  
-**Mihono:** (Still... Why was she taking that noro? Was that part of President Hashima's orders too?)  
+**Mihono:** (Still... Why was she taking that noro? Was that part of President Hashima's orders too?\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/-fV4ehWn5Gw"></iframe>](:Iframe)  
 
 ## 7: Inago Akira, the Toji

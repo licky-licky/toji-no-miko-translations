@@ -89,13 +89,13 @@ Approximately six hours after Maki and Suzuka were separated from the rest of th
 **Maki:** Good...... Then, let's make this count\!\! URAAAAAAAHHH-\!\!  
 **Suzuka:** YAAAAAAAHHH-\!\!  
 **Yume:** YOU TWO\! I'M HERE TO SAVE YOU\!  
-**Suzuka:** ...Ehh? (Am I hallucinating from the fatigue...\!\?)  
+**Suzuka:** ...Ehh? (Am I hallucinating from the fatigue...\!\?\)  
 **Yomi:** Sorry we kept you waiting. You're safe now. There's a team of guards close behind us.  
 **Yume:** The hero always shows up at the last minute, you know\! They're not always a girl though\!  
 **Maki:** ...Yomi and Yume\!\? What're you doing here...\!\?  
 **Yomi:** We came to rescue you two, on Yukari-sama's orders.  
 **Yume:** That's how it is\! --Still, you two got beat up pretty bad, huh\!  
-**Yume:** You've got a long way to go if all it took was some aradama for you to end up like this, Onee-san\~.  
+**Yume:** You've got a long way to go if all it took was some aradama for you to end up like this, Onee-san\~\.  
 **Maki:** Sh... Shut up...\! Did you come here to save us or humiliate us; make up your mind...\!  
 **Yume:** Ahaha\! Seems like you're feeling better already if you can talk back like that\!  
 **Yume:** Anyway, just leave the rest to me\!  
@@ -122,7 +122,7 @@ Several hours before Yomi and Yume met up with Maki and Suzuka.
 **Yukari:** Maki and Suzuka are both very valuable. I wouldn't allow them to be lost here.  
 **Yukari:** --Yomi, Yume. Continue forward, suppressing all aradama in your way. Rescue Maki and Suzuka.  
 **Yomi:** --Yes. Please count on us.  
-**Yume:** This'll be a piece of cake for me\~. By the way, Yukari-sama, after this is over, I want a match with you as my reward-\!  
+**Yume:** This'll be a piece of cake for me\~\. By the way, Yukari-sama, after this is over, I want a match with you as my reward-\!  
 
 ## 6: Searching for Their Comrades
 --Several hours before Yomi and Yume met up with Maki and Suzuka.

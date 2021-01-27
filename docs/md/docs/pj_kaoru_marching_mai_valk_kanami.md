@@ -27,7 +27,7 @@ pj kaoru/marching mai/valk kanami
 **Ellen:** If that's what we've decided on, then leave the hotel reservations to me-\! I'll call a friend of mine-\!  
 **Kiyoka:** A friend who will reserve us a hotel room...?  
 **Kaoru:** She's got a lot of weird friends, so don't think too hard about it.  
-**Kaoru:** I'm all filled up\~.  
+**Kaoru:** I'm all filled up\~\.  
 **Ellen:** You sound like an old man, Kaoru.  
 **Kiyoka:** But, it really was delicious. You'll have to thank your friend for me, Ellen-san, for telling us about this restaurant\!  
 **Ellen:** I'll be sure to let them know-\! Now then, about the hotel... It's this way.  
@@ -89,7 +89,7 @@ pj kaoru/marching mai/valk kanami
 **Mai:** ...Alright then. I'll take on the role of the drum major\!  
 **Mai:** So now, we'll begin practicing.  
 **Mai:** ......  
-**Kanami:** (Here I do it like this, and then like this... Okay\!)  
+**Kanami:** (Here I do it like this, and then like this... Okay\!\)  
 **Mihono:** (Here's where I move over here...)  
 **Nagae Futaba:** Hey\!\?  
 **Mihono/Futaba:** UWAH\!\?  
@@ -111,7 +111,7 @@ pj kaoru/marching mai/valk kanami
 **Futaba:** I'll pass\!  
 **Mai:** Everyone's gone, so now I need to do my own practice.  
 **Mai:** ......  
-**Mai:** (They're all practicing their hardest. I have to try even harder too\!)  
+**Mai:** (They're all practicing their hardest. I have to try even harder too\!\)  
 **Mai:** --I messed up\! I won't make it like this... One more try\!  
 **Mihono:** Ughh, I messed up a bunch, Kanamiii. I made a lot of trouble for Mai too.  
 **Kanami:** But still, you've gotten a lot better, Mihono-chan.  
@@ -145,10 +145,10 @@ At the marching band's main performance.
 **Kanami:** That's why I just know this'll go great. So let's have fun with it\!  
 **Mai:** Okay\!  
 **Fukuda Sawano:** (There's so many people here to watch. Though, if we just do it like we practiced...)  
-**Futaba:** (Yeah, yeah, all that practice is paying off\!)  
-**Mihono:** (Here's where I have to not bump into Futaba... Okay\!)  
-**Kanami:** (You can really tell how much everybody practiced\! I'm not about to let them show me up either\!)  
-**Mai:** (That's amazing...\! Everyone's performance is even better than what they could do in practice\!)  
+**Futaba:** (Yeah, yeah, all that practice is paying off\!\)  
+**Mihono:** (Here's where I have to not bump into Futaba... Okay\!\)  
+**Kanami:** (You can really tell how much everybody practiced\! I'm not about to let them show me up either\!\)  
+**Mai:** (That's amazing...\! Everyone's performance is even better than what they could do in practice\!\)  
 **Mai:** Nice work, everyone\! Our performance was fantastic\!  
 **Mihono:** That was so nerve-wracking\!  
 **Futaba:** So many people came to see us\!  
@@ -210,7 +210,7 @@ At the marching band's main performance.
 **Ellen:** We haven't overlooked a thing\! We're coming up with the greatest costume plans for all of you\!  
 **Kaoru:** You're doing it for me too\!\?  
 **Ellen:** Well of course I am\!  
-**Kanami:** (A valkyrie... I can't wait to see what the costume looks like\!)  
+**Kanami:** (A valkyrie... I can't wait to see what the costume looks like\!\)  
 Kanami's promotional photos... The day of shooting.
 
   

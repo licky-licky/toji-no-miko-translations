@@ -31,7 +31,7 @@ One day, after school, Mihono was called into the office.
 **Yui:** Mfufu\~, so basically, this means I'll get to see all of you dressed up like cute idols, right? In that case, it gets a total OK from me\!  
 **Kiyoka:** (E... Everyone looks like they're kind of enjoying this...)  
 **Kiyoka:** (But, just imagining singing and dancing in front of people is enough to make my heart pound...)  
-**Kiyoka:** (There's still time before the cultural festival though... If I practice a lot, even I should be fine, right...?)  
+**Kiyoka:** (There's still time before the cultural festival though... If I practice a lot, even I should be fine, right...?\)  
 **Mihono:** Alright then, let's get started right away\! We'll practice singing first\!  
 **Kofuki:** So wait, why's Mihocchi acting like we all decided she'd be leader?  
 **Mihono:** Heheh. That's because I want to be the center of our idol group\! That means I've gotta be the leader, right?  
@@ -48,7 +48,7 @@ One day, after school, Mihono was called into the office.
 **Kiyoka:** Ehh\!\? A-Already\!\?  
 **Kofuki:** Why bother doing anything we don't have to-? You're making more work for me here too.  
 **Kiyoka:** (I-I still don't feel prepared for this at all either...)  
-**Kiyoka:** (How is this going to go for us...?)  
+**Kiyoka:** (How is this going to go for us...?\)  
 
 ## 2: We're Now in Special Training\!
 Mihono and the others spent days doing idol activites alongside their usual aradama suppression missions.
@@ -94,7 +94,7 @@ Mihono and the others spent days doing idol activites alongside their usual arad
 **Kiyoka:** You want me to arrange everyone's outfits?  
 **Mihono:** Yeah. Our outfits for this were provided by the Five Traditions, but they said we're allowed to make some changes to the designs.  
 **Mihono:** Since you know a lot about fashion and stuff, I really wanted you to be in charge of it... But, what do you think?  
-**Kiyoka:** Nnn\~...  
+**Kiyoka:** Nnn\~\...  
 **Kiyoka:** (Right now, I can't be useful when it comes to singing or dancing. So, if I can at least help with the outfits...)  
 **Kiyoka:** Alright... If you're fine with me doing it, I'll handle them.  
 **Mihono:** Really? Thanks a bunch\!  
@@ -215,7 +215,7 @@ The next day--
 **Kanami:** You want to see our performance?  
 **Mihono:** Yeah. I'm just picturing how shiny you guys must look up on stage.  
 **Mihono:** I bet you'd look pretty amazing.  
-**Kanami:** Nnn\~... Then, how about we do a live show together next time?  
+**Kanami:** Nnn\~\... Then, how about we do a live show together next time?  
 **Kanami:** We might be rivals in the main performance, but I want you to see us on stage too\!  
 **Mihono:** A show together... Yeah, that sounds good\!  
 **Mihono:** Maybe we're on different teams, but we still feel the same about wanting to make people smile. Let's both try our hardest and make this show the best\!  
@@ -233,7 +233,7 @@ The next day--
 **Tsugumi:** This is some fairly hard choreography, isn't it.  
 **Mihono:** You're doing good, we're getting the motions right\! Okay, now for the last set\!  
 **Mihono:** Alright, that's it for today's lesson\! Great work-\!  
-**Yui:** Nice job\~. Phew, it's really starting to feel like we're in special training mode here.  
+**Yui:** Nice job\~\. Phew, it's really starting to feel like we're in special training mode here.  
 **Mirja:** We can't show Etou Kanami and the others a poor performance. It's not unreasonable that the practice would become harder.  
 **Mihono:** That's right, we've gotta practice a lot so we can get even better\!  
 **Mihono:** But, I was thinking, it'd be nice if we had some kind of "ace up our sleeve" that'd boost up our performance.  
@@ -249,10 +249,10 @@ The next day--
 **Tsugumi:** I suppose you can't help it.  
 **Kiyoka:** Those two left...  
 **Mihono:** Yeah... But, it's not like Fukki's wrong, since we don't even know if we can come up with an "ace up our sleeve".  
-**Mihono:** Though, if we just keep going like this and don't make it in time for the cultural festival... Nngh\~...  
+**Mihono:** Though, if we just keep going like this and don't make it in time for the cultural festival... Nngh\~\...  
 **Mihono:** (Maybe we just aren't cut out to be idols after all...)  
-**Mihono:** (No... That can't be right\!)  
-**Mihono:** (Kanami said watching our performance made her feel better. There's got to be some way for us to make people smile\!)  
+**Mihono:** (No... That can't be right\!\)  
+**Mihono:** (Kanami said watching our performance made her feel better. There's got to be some way for us to make people smile\!\)  
 When the next day's lessons were starting.
 
   
@@ -296,7 +296,7 @@ And so the day of Mihono and Kanami's teams' joint-live arrived.
 
   
 **Yui:** Ooh, there's a whole lot of people here\!  
-**Kiyoka:** I-It's making me nervous\~.  
+**Kiyoka:** I-It's making me nervous\~\.  
 **Mihono:** I'm counting on you today, Kanami.  
 **Kanami:** I'm counting on you too, Mihono-chan. Let's both make this a great live show\!  
 **Hiyori:** It's time to show the results of all the practice we've been doing. Let's give it our all, everyone.  
@@ -317,7 +317,7 @@ And so the day of Mihono and Kanami's teams' joint-live arrived.
 **Kanami:** Thanks\! You're up next, Mihono-chan\!  
 **Mirja:** Asakura Mihono, about the dance involving jin'i, what should we do?  
 **Mirja:** In practice, we were never able to maintain the dance until the end. As our leader, I leave it to you whether or not we use it in our performance.  
-**Mihono:** Hmm... Nnnn\~...\!  
+**Mihono:** Hmm... Nnnn\~\...\!  
 **Kofuki:** Oi, we're up already\!  
 **Mihono:** Nnn\~\~, this time, we'll dance without using jin'i\!  
 **Mihono:** We can't bring down the whole joint-live if we screw it up.  
@@ -326,14 +326,14 @@ And so the day of Mihono and Kanami's teams' joint-live arrived.
 Mihono-chan and the others headed out before the audience, and their performance began.
 
   
-**Mihono:** (Huh...?)  
-**Chie:** (We are making mistakes, but... Hasn't our dancing improved since our first live...?)  
+**Mihono:** (Huh...?\)  
+**Chie:** (We are making mistakes, but... Hasn't our dancing improved since our first live...?\)  
 **Kiyoka:** (Maybe this is because... of what we learned practicing dancing using jin'i.)  
 **Kofuki:** (Haha, my body's moving really good. This'll work.)  
 **Yui:** (Rather than just dancing like we usually do...)  
 **Mirja:** (As you'd expect from applying our combat data to our choreography, these movements are now optimized for us.)  
 **Tsugumi:** (If it could give off this much of a different impression, it was well worth providing the data.)  
-**Mihono:** (All our breathing is in sync too\! Okaaay...\!)  
+**Mihono:** (All our breathing is in sync too\! Okaaay...\!\)  
 **Kanami:** Ah, Mihono-chan and everybody are back. Nice work-\!  
 **Mihono:** Thanks, Kanami\! But... The audience seemed a little more into it when you guys were up there.  
 **Kanami:** That's not true at all\! They were just as excited to see you\!  
@@ -355,9 +355,9 @@ Mihono-chan and the others headed out before the audience, and their performance
 **Kanami:** You didn't know, Mihono-chan? This is...  
 **Ellen:** Stop, Kanamin\! They'll know in a minute, so it'll be more fun if we don't say anything\!  
 **Mirja:** What do you mean by that?  
-**Ellen:** I'm sure this'll be a good surprise\~.  
+**Ellen:** I'm sure this'll be a good surprise\~\.  
 **Kiyoka:** What do you think they're up to, Hono-chan?  
-**Mihono:** Hmm\~... Maybe Kanami's team's going to keep their live show going over here?  
+**Mihono:** Hmm\~\... Maybe Kanami's team's going to keep their live show going over here?  
 **Kofuki:** That's all you can come up with\!\? The poster said it's a band event\!  
 **Yume:** Huh-? What're you onee-sans here for?  
 **Mihono:** Eh... Y-Yume-san?  
@@ -409,7 +409,7 @@ Mihono-chan and the others headed out before the audience, and their performance
 **Maki:** There isn't a lot of time before the main event, Asakura Mihono. Let's both of us aim to make it the ultimate show.  
 **Mihono:** Okay... Thanks a lot\!  
 **Mihono:** (What was I getting so down in the dumps over... If I want to beat somebody tough, all I have to do is train harder than ever.)  
-**Mihono:** (Alright\~, I'm gonna head back to school now and work even harder-\!)  
+**Mihono:** (Alright\~, I'm gonna head back to school now and work even harder-\!\)  
 
 ## 8: In Order to Surpass the Best
 **Kanami:** What's up, Mihono-chan? You're in a real hurry.  
@@ -451,7 +451,7 @@ On the first day of the training camp--
   
 **Ellen:** Okay, attention, everyone\! Please try matching my actions\!  
 **Ellen:** Wave your hands even wider... Good\! With that, let's take a rest.  
-**Yui:** Phwahh\~. That lesson was pretty hard.  
+**Yui:** Phwahh\~\. That lesson was pretty hard.  
 **Chie:** It really is a big help having Ellen-san as our dance coach.  
 **Ellen:** You're all so serious about this, so I feel even more energized than usual\! Let's both support and teach each other new things\!  
 **Kofuki:** Aghh, I'm beat. What about you, Mihocchi? You feeling it?  
@@ -532,7 +532,7 @@ After the training camp was over, Mihono went straight to report to Maki.
 And so the day of the cultural festival came--
 
   
-**Kanami:** Wow\~... There's just so many stalls and attractions set up\!  
+**Kanami:** Wow\~\... There's just so many stalls and attractions set up\!  
 **Mihono:** I know\! Everything's so lively that I'm having fun just looking around.  
 **Kanami:** I'm glad we had a bit of spare time here-. Otherwise I wouldn't have gotten to tour around with you, Mihono-chan.  
 **Mihono:** We went in that haunted house, and we had yakisoba from that stand together.  
@@ -587,7 +587,7 @@ And so the day of the cultural festival came--
 **Kanami:** Let's go, Mihono-chan\!  
 **Mihono:** Yeah\!  
 **Kofuki:** Phew... Man, that was a hunt.  
-**Kiyoka:** It doesn't seem like any of the civilians were hurt, so that's good\~.  
+**Kiyoka:** It doesn't seem like any of the civilians were hurt, so that's good\~\.  
 **Sanae:** I wonder if any aradama are left. With this many of us here, it was over in a flash.  
 **Hiyori:** That's for sure. Though... Was it because we're all prepared for the show? Everyone's movements were sharper than usual.  
 **Ellen:** Leave it to Hiyoyon to notice something like that\! Actually, these clothes that we're wearing were designed by Grandpa\!  
@@ -655,7 +655,7 @@ And so the day of the cultural festival came--
 **Ellen:** I think we have what it takes to be idols\! Should we all debut together?  
 **Yui:** Would that get us up close and personal with real idols\!\?  
 **Mirja:** When that time comes, we can leave Yamashiro Yui out of it.  
-**Yui:** You're so mean\~.  
+**Yui:** You're so mean\~\.  
 **Kiyoka:** Fufu.  
 **Kiyoka:** ...I was really nervous, but now that it's over, it was fun.  
 **Chie:** You tried harder than everyone, didn't you, Kiyoka-chan.  

@@ -45,7 +45,7 @@ Kohagura Ellen Episodes
 **Ellen:** Baked and non-baked, souffle and tarts, there's every cake you can imagine\! Let's charge right in, everyone\~\!\!  
 **Kaoru:** Go get your fill.  
 **Kanami:** Eh? Kaoru-chan, are you not having any?  
-**Kaoru:** I'll watch our seats. Ellen\~, get some coffee for me\~.  
+**Kaoru:** I'll watch our seats. Ellen\~, get some coffee for me\~\.  
 **Kanami:** Ellen-chan already raced in ahead of everyone...  
 **Kaoru:** Tch, too late, huh...  
 **Kanami:** Anyway, I'm going too-\!  
@@ -76,7 +76,7 @@ Kohagura Ellen Episodes
 **Ellen:** I really enjoyed it too, of course\! Eating the cakes I love with the people I love; today I'm feeling 100% happy\!  
 **Ellen:** ...Just, for a little bit... Let me rest...  
 **Kaoru:** Then I'll go get some cake and coffee.  
-**Kaoru:** They're probably putting out new cakes around now, in the wake of Ellen's rampage\~.  
+**Kaoru:** They're probably putting out new cakes around now, in the wake of Ellen's rampage\~\.  
 **Hiyori:** You mean... Were you just waiting around knowing this would happen...?  
 
 ## 3: A Few Minutes of Vacation
@@ -94,12 +94,12 @@ Kohagura Ellen Episodes
 **Kaoru:** Sounds delicious... I wanna eat it, but it'll be embarrassing to order.  
 **Ellen:** You're lewd, Kaoru.  
 **Kaoru:** You're the one who said it first.  
-**Ellen:** I just said what it's called\~.  
+**Ellen:** I just said what it's called\~\.  
 **Kaoru:** ......  
 **Ellen:** Oh\! Sana-sensei's calling\! Hello, what is it?  
 **Ellen:** ...Eh? An emergency assignment? So Kanamin and Hiyoyon made it to Izu, and we're supposed to meet up with and test them?  
 **Kaoru:** Well there goes our Izu sightseeing tour. Only got a few minutes out of it.  
-**Nene:** Ne\~...  
+**Nene:** Ne\~\...  
 **Ellen:** There's no helping it. Accepting those two is more important than us getting a day off.  
 **Kaoru:** Oh yeah, so what about the investigation team?  
 **Ellen:** We just have to trust they can take care of themselves.  
@@ -116,7 +116,7 @@ Kohagura Ellen Episodes
 **Ellen:** Partner? You mean Kaoru?  
 **Ellen:** I invite her every time, but of course she always refuses, saying it "Sounds lame\~".  
 **Miyako:** I see. But isn't that normal?  
-**Ellen:** I guess? I think Kaoru gets a little abnormally annoyed with everything though\~.  
+**Ellen:** I guess? I think Kaoru gets a little abnormally annoyed with everything though\~\.  
 **Miyako:** Well, you have a real passion for researching developments into new anti-aradama technology.  
 **Miyako:** Especially "suppression methods that don't involve the use of toji". I don't think many toji in active duty would have such an interest in that field.  
 **Ellen:** ...  
@@ -157,7 +157,7 @@ Kohagura Ellen Episodes
 **Mimi:** 'Kay...  
 **Ellen:** Then, I'm going\! I'll be right back-\!  
 **Mimi:** ...But that's so boring. I figured Ellen would have said it's fine for me to go...  
-**Mimi:** I know\~. I'll sneak out and beat the aradama.  
+**Mimi:** I know\~\. I'll sneak out and beat the aradama.  
 **Mimi:** She said not to, but I bet Ellen'll be so surprised and praise me a lot\~\!  
 **Mimi:** ...Ah, Ellen's over there\! Which means that bad aradama must be around too...  
 **Mimi:** ...Eh?  
@@ -175,7 +175,7 @@ Kohagura Ellen Episodes
 **Ellen:** Don't cry, Mimimin. I could never hate you.  
 **Ellen:** I was just really worried. I'm glad you're safe.  
 **Mimi:** ...You're an amazing toji, Ellen... You looked so cool when you were fighting.  
-**Ellen:** Didn't I tell you, Mimimin? That I'd show you my true power\~.  
+**Ellen:** Didn't I tell you, Mimimin? That I'd show you my true power\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/BHI45rWeMrA"></iframe>](:Iframe)  
 
 ## [New Year's Ellen: Start]: Hanetsuki Competition\!

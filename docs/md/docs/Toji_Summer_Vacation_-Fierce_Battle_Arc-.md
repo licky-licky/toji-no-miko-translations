@@ -6,13 +6,13 @@ Toji Summer Vacation -Fierce Battle Arc-
 ## 1: What Wakes in the Summer
 **Yume:** Wow\~, it's the sea\~\! Hey, hey, Yomi onee-san\! Look, it's the sea, the sea\~\!  
 **Yomi:** Yes, it's the sea. However, we're on alert right now.  
-**Yume:** Come on\~, act a little more excited\~. Yukari-sama\~, how long do we have to wait for\~?  
+**Yume:** Come on\~, act a little more excited\~\. Yukari-sama\~, how long do we have to wait for\~?  
 **Yukari:** Only a little longer. Maki and Suzuka should be back from inspecting the site soon.  
 **Yume:** But weren't all the aradama beaten yesterday? So there's no reason for us to be here, right? I keep hearing there's not enough people, so we didn't have to come all this way...  
-**Yume:** Since they already took care of everything, we should just play on the beach. Can't we? Yukari-sama\~.  
+**Yume:** Since they already took care of everything, we should just play on the beach. Can't we? Yukari-sama\~\.  
 **Maki:** ...Yume, we don't have time to play around, you know?  
 **Suzuka:** That's right. We're still here on a mission.  
-**Yume:** Booo-, that's so boring\~.  
+**Yume:** Booo-, that's so boring\~\.  
 **Yukari:** Maki, Suzuka, you're back. What did the Special Ritual Squad have to say?  
 **Maki:** Yes. As you know, the aradama were suppressed, and their cleanup work was finished sometime yesterday.  
 **Maki:** However, not long ago, a lecturer from Minoseki, Tanaka Taeko, sent in an interesting report--  
@@ -27,7 +27,7 @@ Toji Summer Vacation -Fierce Battle Arc-
 **Suzuka:** By that you mean, you'll be coming too...\! Yes, I understand\!  
 **Maki:** Yomi, Yume, are you prepared?  
 **Yomi:** Yes. I can go at any time.  
-**Yume:** Ehh\~, just when I thought I'd get to play on the beach\~.  
+**Yume:** Ehh\~, just when I thought I'd get to play on the beach\~\.  
 **Maki:** Yume, you're still going on about that--  
 **Yukari:** Leave her be, Maki. Yume, after this mission is over, you can play as much as you like.  
 **Yume:** No way-\!\? Really\!\?  
@@ -51,7 +51,7 @@ Toji Summer Vacation -Fierce Battle Arc-
 **Kaoru:** ...So, why're you here again?  
 **Emily:** Uhh... Wh-What's the harm in it\!  
 **Emily:** With this many of you toji around, you should have no trouble keeping me safe\!  
-**Emily:** (Fu Fu Fu...\! To think, so many toji I've had my eyes on would gather in one place like this-- I'd never let this opportunity to gather data up close and personal escape me\!)  
+**Emily:** (Fu Fu Fu...\! To think, so many toji I've had my eyes on would gather in one place like this-- I'd never let this opportunity to gather data up close and personal escape me\!\)  
 **Ellen:** Oh... That's quite the evil look in your eyes. What do you think, Kaoru? Should we bury her in the beach again?  
 **Emily:** No-\! Never do that again\!  
 **Mirja:** ...At any rate, why do you think these mass outbreaks of aradama are occurring around this mountain specifically?  
@@ -96,7 +96,7 @@ Toji Summer Vacation -Fierce Battle Arc-
 **Yukari:** You can't allow your mind to wander on a battlefield. Whatever the aradama's intent, we toji are here to defeat them. Think of nothing but fulfilling that objective.  
 **Maki:** Yes ma'am\! Suzuka, I'm counting on you\!  
 **Suzuka:** Of course, leave it to me.  
-**Yume:** Ooh\~, they're getting into it\~.  
+**Yume:** Ooh\~, they're getting into it\~\.  
 **Yume:** Hey-, Yukari-sama-\! Since we're here together, why don't we have a contest between the two of us to see who can beat the most aradama\!  
 **Yume:** And if I win, you'll buy me a watermelon afterwards\! A big round one\! You're fine with that, right-?  
 **Yukari:** ...Fine, I have no issue with that. But only on the condition that you obey my orders. Those are the terms of our contest.  
@@ -163,7 +163,7 @@ Toji Summer Vacation -Fierce Battle Arc-
 
 ## 5: Origami Yukari's Seriousness
 **Yukari:** ...Seems like all aradama in this area have been eliminated.  
-**Yume:** Yu\~kari-sama\~. How many aradama have you gotten so far?  
+**Yume:** Yu\~kari-sama\~\. How many aradama have you gotten so far?  
 **Yukari:** Forty or fifty.  
 **Yume:** Wait, are you guessing\!\? Come on, take this contest seriously.  
 **Yume:** If you don't know exactly how much, how're we supposed to know who won?  
@@ -257,7 +257,7 @@ Toji Summer Vacation -Fierce Battle Arc-
 **Yume:** Ehh, then...? My contest with Yukari-sama...?  
 **Yomi:** If we don't know the numbers, then we can't declare a winner.  
 **Yume:** No way\~\!  
-**Yume:** Awww\~... I tried my hardest too... I really... Wanted that watermelon...  
+**Yume:** Awww\~\... I tried my hardest too... I really... Wanted that watermelon...  
 **Yukari:** Yume, don't be so down. You can buy what you want when we get back. I'll allow it.  
 **Yume:** Ehh\!\? Seriously\!\? Alright\!  
 **Yume:** Hey, Onee-sans-\! Let's play split the watermelon later\!  

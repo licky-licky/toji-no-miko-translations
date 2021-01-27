@@ -129,7 +129,7 @@ On the day of filming.
 **Sanae:** Ah... L-Let's get going\!  
 **Mirja:** Are you not going to check the script?  
 **Sanae:** No, I'll be okay even if I don't.  
-**Mirja:** (Her trembling has stopped. Is she the type who grows stronger when it comes time to act?)  
+**Mirja:** (Her trembling has stopped. Is she the type who grows stronger when it comes time to act?\)  
 **Mirja:** Let's go, Iwakura Sanae.  
 **Sanae:** Yes\!  
 **Staff:** Alright now... Ready-, start\!  
@@ -144,7 +144,7 @@ On the day of filming.
 **Mirja:** (Iwakura Sanae comes rushing in... I fight back with the candlestick I'm holding.)  
 **Sanae:** Unyaa\!\?  
 **Mirja:** It's afraid of the flames...? Then\!  
-**Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!)  
+**Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!\)  
 **Sanae:** UNYAAAAAAAAAA\!\! I'LL REMEMBER THIS, NYAAAAA\!\!  
 **Mirja:** ... It ran away? ...What is happening in this mansion...?  
 **Staff:** Okaaay, that's good.  
@@ -243,12 +243,12 @@ On the day of filming.
 **Aradama:** GUGGGIIIII\!  
 **Hikari:** You won't get away-- This will finish it\!  
 **Kanami:** These stage girls, they're all so amazing, aren't they\! They fight differently from a toji, but I'm enjoying myself just watching them go\!  
-**Yui:** Ahh... You can't help but be captivated by them, can you\~.  
+**Yui:** Ahh... You can't help but be captivated by them, can you\~\.  
 **Yui:** Would you call it their posturing? Every one of the motions they go through grabs hold tight of my heart... It's so good\!  
 **Kanami:** Yeah, I know just what you mean\! Ahh, even if only for a little bit, I want to spar with all the stage girls\!  
 **Karen:** Kanami-chan, Kanami-chan, what's "spar" mean?  
 **Kanami:** Ah, sparring is when you face off... It's a practice match\!  
-**Karen:** A practice match, huh\~. I think I might wanna have one too\!  
+**Karen:** A practice match, huh\~\. I think I might wanna have one too\!  
 **Futaba:** It'd be useful reference material for sword fights on stage, wouldn't it.  
 **Kaoruko:** Sure would. Though, I'm not about to join you.  
 **Kanami:** Sure\! You only have to join in if you want to\! I don't think it's good to force training in.  

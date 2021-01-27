@@ -164,7 +164,7 @@
 **Yume:** I know what to do by now. You worry too much, Suzuka-onee-san.  
 **Maki:** Good, then let's keep going.  
 **Yume:** Okaaay\! Just you wait, Yukari-sama-\!  
-**Yume:** (...It's okay. It doesn't hurt that bad. I can handle it. There's no way I was just going to sit tight in the hospital...\!\!)  
+**Yume:** (...It's okay. It doesn't hurt that bad. I can handle it. There's no way I was just going to sit tight in the hospital...\!\!\)  
 
 ## 11: Let's Talk (1)
 **Ichikishima:** ...I have grown tired of running.  

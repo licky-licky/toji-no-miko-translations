@@ -203,5 +203,5 @@ Several months after the mission at the movie studio, on the movie's opening day
 **Maki:** She what...?  
 **Yume:** Let's get to the movie theater already. I want some popcorn\! Come on, come on\! Let's go\!  
 **Suzuka:** Come along, Maki-san.  
-**Kazumi:** (Maki-sama. I... I'll gladly watch this movie as often as I can\!)  
+**Kazumi:** (Maki-sama. I... I'll gladly watch this movie as often as I can\!\)  
 > :ToCPrevNext

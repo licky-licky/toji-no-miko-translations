@@ -8,7 +8,7 @@ https://streamable.com/xn6i7s
 ## [Pirate - Yui: Start]: After the Mission, We're Pirates\!
 **Aradama:** GGGII...\!  
 **Ellen:** --YAAH\!  
-**Yui:** Great work as always, Ellen-san\! You look so cool swinging your okatana around; I can't keep my eyes off you\~.  
+**Yui:** Great work as always, Ellen-san\! You look so cool swinging your okatana around; I can't keep my eyes off you\~\.  
 **Ellen:** You're not going to make anything happen like that, Yuiyui. But thanks all the same.  
 **Yui:** Cool older girls are a treasure of their own\!  
 **Kiyoka:** Yui-chan\!\? There's an aradama coming after you\!  
@@ -26,7 +26,7 @@ https://streamable.com/xn6i7s
 **Yui:** You've got it all wrong. I'll be there at all times to protect my lovable investigation team from any perverts out there. It's a great idea\!  
 **Ellen:** You sure do come up with some unique ideas, Yuiyui.  
 **Yui:** I knew you'd understand\! I love you, Ellen-san\!  
-**Ellen:** Yui\~. I love you too.  
+**Ellen:** Yui\~\. I love you too.  
 **Kiyoka:** E-Ellen-san... Please, for our sakes, don't encourage Yui-chan too much...  
 **Ellen:** It would be a good idea though, if you didn't have to worry about Yuiyui's own health and safety. But there wouldn't be any time for Yuiyui herself to rest.  
 **Yui:** Keeping an eye on good looking girls would fill me up with power, so I think it has a chance to work\!  

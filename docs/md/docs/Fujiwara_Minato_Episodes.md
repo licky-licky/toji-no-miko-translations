@@ -44,7 +44,7 @@ The next day.
 
 ## 2: What I Like
 **Minato:** Excuse meee, anyone around...? Alright\! Let's get cooking\!  
-**Minato:** Hmhmhmm\~.  
+**Minato:** Hmhmhmm\~\.  
 **Minato:** Mmm\~, the cup yakisoba's good to go\! Just have to wait 3 minutes now\!  
 **Minato:** Nobody can fight on an empty stomach.  
 **Minato:** It's tough training with Yukari, so I've gotta eat up first\!  
@@ -67,8 +67,8 @@ The next day.
 **Minato:** Then...\!  
 **Yukari:** However, that doesn't change your promise. Our training should be most important to you right now, shouldn't it?  
 **Minato:** Ugh, I can't deny that...  
-**Minato:** (What should I do; at this rate the yakisoba will cool off and quickly lose its flavor...\!\!)  
-**Minato:** (And I don't want to eat any gross yakisoba\! If it comes down to it...\!)  
+**Minato:** (What should I do; at this rate the yakisoba will cool off and quickly lose its flavor...\!\!\)  
+**Minato:** (And I don't want to eat any gross yakisoba\! If it comes down to it...\!\)  
 **Minato:** Yukari... Sorry about this\!  
 **Yukari:** Mrgh\! ...(chew chew)  
 **Minato:** Alright, now's my chance...\! (slurrrrrrrrrp)  
@@ -190,7 +190,7 @@ The next day.
 **Minato:** If you win\! Alright, you're on.  
 **Yukari:** ...Fufu, they get along so well.  
 **Minato Joins - Part 1:** The Sea and Mountains in April  
-**Minato:** Yeaaaay\! It's the sea, it's the sea\~\! Even though it's still spring back in Kamakura, it feels like summer out here. Now if we could just find someone selling shaved ice, this'd be perfect\~.  
+**Minato:** Yeaaaay\! It's the sea, it's the sea\~\! Even though it's still spring back in Kamakura, it feels like summer out here. Now if we could just find someone selling shaved ice, this'd be perfect\~\.  
 **Kagari:** Minato-senpai, I'm sure you're aware, but we came here to suppress aradama. Not to sightsee.  
 **Yukari:** Kagari is right. We need to eliminate the aradama first.  
 **Minato:** I knowww...  
@@ -245,7 +245,7 @@ The next day.
 **Minato:** Ehh, but we've been running around so much, and you want us to keep climbing? I'm too tired to move an inch-\! I just wanna head down the mountain and fool around already-\!  
 **Kagari:** If you have the energy to spare fooling around, you can make your way up this mountain. Go on, follow Yukari-sama.  
 **Minato:** Fineee...  
-**Minato:** Ahh\~, finally, back at the beach-\! I wasn't sure if we'd really find a way down after climbing to the top of the mountain, but Yukari was right like always\~.  
+**Minato:** Ahh\~, finally, back at the beach-\! I wasn't sure if we'd really find a way down after climbing to the top of the mountain, but Yukari was right like always\~\.  
 **Kagari:** And we even found the shortest path right to the beach... Minato-senpai's desire to fool around must have been strong enough for the heavens to answer.  
 **Yukari:** At any rate, we made it safely down the mountain, so feel free to use our remaining time here as you wish.  
 **Minato:** Yesss-\! Last one in the water's a rotten egg\!  

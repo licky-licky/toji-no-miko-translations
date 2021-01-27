@@ -21,10 +21,10 @@ Etou Kanami Episodes
 **Kanami:** Reaching the finals means getting to participate in the tournament, so nobody wants to lose here\! Let's do our best\!  
 **Kanami:** The strongest toji from every school bringing all kinds of styles together to fight... Who could pass that up\~\!  
 **Mihono:** Ugh... Just one more match and I would've safely guaranteed my way into the tournament... But of course I'm already up against the last boss...  
-**Mihono:** I really wanted to save Kanami for the finals\~.  
+**Mihono:** I really wanted to save Kanami for the finals\~\.  
 **Kanami:** Winning or losing doesn't matter in the finals, so we could've had a friendly fight. But this way makes it so much more exciting\!  
 **Mihono:** (...She says that, but I'm pretty sure Kanami's stronger than me by a long shot...)  
-**Mihono:** (Kanami's always so carefree. Meanwhile, I'm freaking out over here... But\!)  
+**Mihono:** (Kanami's always so carefree. Meanwhile, I'm freaking out over here... But\!\)  
 **Mihono:** I didn't come all this way to lose\! I want to make it to the tournament too\! So let's go\!  
 **Kanami:** Let's do it\! Let's have fun together\!  
 **Mihono:** ...\! Yeah\!  
@@ -32,20 +32,20 @@ Etou Kanami Episodes
 **Mihono/Kanami:** ......  
 **Referee:** --Begin\!  
 **Kanami:** (Right... No, left\! I can dodge it...)  
-**Kanami:** (No way\! I mistimed her attack\!\?)  
-**Kanami:** (Amazing. Mihono-chan's swordsmanship... I've never seen anything like this rhythm\! She's throwing off all my predictions\!)  
-**Kanami:** (What kind of tactic will she use next? Block, dodge, attack... What's next?)  
-**Kanami:** (I want to see it all. I want you to show me everything, Mihono-chan\!)  
-**Mihono:** (Whoa\!\? Kanami's got a really dirty grin on her face\!)  
-**Mihono:** (But... I get it. --I'm enjoying this too\!)  
+**Kanami:** (No way\! I mistimed her attack\!\?\)  
+**Kanami:** (Amazing. Mihono-chan's swordsmanship... I've never seen anything like this rhythm\! She's throwing off all my predictions\!\)  
+**Kanami:** (What kind of tactic will she use next? Block, dodge, attack... What's next?\)  
+**Kanami:** (I want to see it all. I want you to show me everything, Mihono-chan\!\)  
+**Mihono:** (Whoa\!\? Kanami's got a really dirty grin on her face\!\)  
+**Mihono:** (But... I get it. --I'm enjoying this too\!\)  
 **Mihono:** (I always used to think the difference between us was so great that she never had to try.)  
 **Mihono:** (That her carefree attitude meant she'd just drag on the fight and end it whenever she wanted to.)  
-**Mihono:** (But that's wrong. Kanami has always been giving it everything she's got... All so she can enjoy this moment\!)  
-**Mihono:** (I want to surprise Kanami even more with my skill... I want to beat Kanami\!)  
+**Mihono:** (But that's wrong. Kanami has always been giving it everything she's got... All so she can enjoy this moment\!\)  
+**Mihono:** (I want to surprise Kanami even more with my skill... I want to beat Kanami\!\)  
 **Referee:** That's enough\!  
 **Kanami:** .....Phew\~\!  
 **Mihono:** I lost\~\~\~\~\!  
-**Kanami:** I had no idea which of us would win right up till the end\! That was such a good match\~.  
+**Kanami:** I had no idea which of us would win right up till the end\! That was such a good match\~\.  
 **Mihono:** But I let it end... This sucks. This really really sucks.  
 **Kanami:** Mihono-chan...  
 **Mihono:** ...Still... That was so much fun\!  
@@ -63,7 +63,7 @@ Etou Kanami Episodes
 **Kanami:** Ahh, today's lessons really wore me out. I'm feeling hungry-\!  
 **Mai:** I brought some cookies with me. Do you want them?  
 **Kanami:** Eh, really\!\? Then let's eat them together in my room\!  
-**Mai:** I'm coming in\~.  
+**Mai:** I'm coming in\~\.  
 **Mai:** Oh? Did you get a new plushie?  
 **Kanami:** Ah\! That's "Eruption Angel Fabulous-san", from the recent anime "Hell Angel Marvelous-chan"\!  
 **Kanami:** Isn't she cute\!  
@@ -77,7 +77,7 @@ Etou Kanami Episodes
 **Kanami:** You think so? She might look a little too ugly for you now, but I bet if you watched the anime you'd fall in love\!  
 **Mai:** Ufufu, I'm getting a little interested with the way you keep insisting, Kanami-chan.  
 **Kanami:** You should try it\!  
-**Kanami:** By the way, can we eat those cookies now? My stomach's at its limit\~.  
+**Kanami:** By the way, can we eat those cookies now? My stomach's at its limit\~\.  
 **Mai:** Of course\!  
 **Kanami:** Hooray-\!  
 **Kanami:** ...Mmm\! They're as good as ever\!  
@@ -108,7 +108,7 @@ Etou Kanami Episodes
 **Kanami:** But if my opponent is trying so hard and I'm not...  
 **Kanami:** Isn't that really disrespectful? It's been bothering me.  
 **Kanami:** That's why, I want to get stronger... But I can't bring myself to ask for it.  
-**Kihiro:** Hmm, hmm\~. I see, I see\~.  
+**Kihiro:** Hmm, hmm\~\. I see, I see\~\.  
 **Kihiro:** However\! If you had to ask if you'd fooled or disrespected anyone, my answer's a big NO\!  
 **Kihiro:** Holding back is simply one of the many options a fight gives you.  
 **Kihiro:** It's only natural for the strong to have options\! And the weak are of course limited in what they can do.  
@@ -168,14 +168,14 @@ Etou Kanami Episodes
 **Sawano:** By immediately applying the knowledge you've learned like that, that would make you a first class reader, in a sense.  
 **Sawano:** ...That's just second-hand knowledge, though.  
 **Kanami:** Ehehe, thank you. I'll come back if there's anything else I want to learn\!  
-**Sawano:** Of course, I'd be happy to help anytime\~.  
+**Sawano:** Of course, I'd be happy to help anytime\~\.  
 
 ## 5: Test Score
 **Mihono:** Kaaaanami-\! How'd you do on the test?  
 **Kanami:** I tried pretty hard this time\!  
 **Mihono:** Hehe, someone's confident\! Meanwhile, Rika lied to me-.  
 **Mihono:** She kept crying about how she had a bad feeling, but then her score was as great as ever\!  
-**Subara Rika:** I wasn't lying\~. I really thought I did terrible on this test.  
+**Subara Rika:** I wasn't lying\~\. I really thought I did terrible on this test.  
 **Mihono:** Ahh-\! Ahh-\! I don't wanna hear it-\! I only talk to people on my level\~\!  
 **Mihono:** Like, let's see what Kanami got... Wait...  
 **Mihono:** Huhhh\!\? What the\!\?  
@@ -196,7 +196,7 @@ Etou Kanami Episodes
 **Rika:** From that reaction, Mihono-chan must be bad at cooking too.  
 **Kanami:** Ah, but I did screw up my cooking recently\!  
 **Kanami:** I put out a pot to boil for 5 minutes and thought I could fit in some mental training, but...  
-**Kanami:** Next thing I knew the stove was almost on fire\! I gotta remember not to think about swordfighting when I'm cooking\~.  
+**Kanami:** Next thing I knew the stove was almost on fire\! I gotta remember not to think about swordfighting when I'm cooking\~\.  
 **Rika:** Of course it had something to do with swordfighting. Kanami-chan's obsessed with it, after all.  
 **Mihono:** So if I don't get at least that obsessed, I'll never beat Kanami...  
 **Mihono:** Rika, to be like Kanami, I'm going to have to focus more and more on swordfighting\! If there's a will... There's a way\!  
@@ -220,11 +220,11 @@ Etou Kanami Episodes
 **Kanami:** I'll explain that later\! Mai-chan, please be our referee\!  
 **Mai:** O-Okay... Then, begin\!  
 **Kanami:** ...  
-**Sawano:** (She isn't launching an attack...? In that case, I'll go to her\!)  
+**Sawano:** (She isn't launching an attack...? In that case, I'll go to her\!\)  
 **Sawano:** HAA\!  
 **Kanami:** ...  
-**Sawano:** (Eh\!\? She vanished\!\?)  
-**Sawano:** (Behind me\!\? In a split second\!\?)  
+**Sawano:** (Eh\!\? She vanished\!\?\)  
+**Sawano:** (Behind me\!\? In a split second\!\?\)  
 **Kanami:** YAAAA-\!  
 **Sawano:** Kh... HAAAAA\!  
 --That night, in Kanami's dreams.
@@ -257,15 +257,15 @@ Etou Kanami Episodes
 **Kanami:** Ehehe, sorry for asking you something so weird out of nowhere. When I woke up this morning, I just had this on my mind.  
 **Mai:** I don't quite understand, but... Alright. And if you're that eager about it, then I'm going to come at you with all I've got\!  
 **Kanami:** Thanks, Mai-chan\! Then, let's get started\!  
-**Mai:** (Here she comes...\!)  
+**Mai:** (Here she comes...\!\)  
 **Kanami:** (Stare...)  
-**Mai:** (Wait? Kanami-chan is acting differently than usual...?)  
-**Mai:** (But, if that's the case, I might be able to fight against her...\!)  
+**Mai:** (Wait? Kanami-chan is acting differently than usual...?\)  
+**Mai:** (But, if that's the case, I might be able to fight against her...\!\)  
 **Kanami:** (Ah, Mai-chan's stance changed. Woww, the way she's angling her sword is beautiful. It looks flexible at a glance, but I can tell she's holding it firm from her center.)  
 **Kanami:** (Oh, she closed the distance between us just a little bit\! I get it... She's looking to see how I'll react. Then, if I move like this...)  
 **Mai:** (Kanami-chan lowered her body...\! Is she preparing to charge? Then, I'll...)  
-**Kanami:** (Mai-chan took in a deep breath...\! Maybe she's looking to set up a counter? But, in that stance, what would it look like...?)  
-**Kanami:** (Mmmm, I can't picture it at all... But... In that case, I just have to see for myself\!)  
+**Kanami:** (Mai-chan took in a deep breath...\! Maybe she's looking to set up a counter? But, in that stance, what would it look like...?\)  
+**Kanami:** (Mmmm, I can't picture it at all... But... In that case, I just have to see for myself\!\)  
 **Mai:** (There it is\! Kanami-chan moves so fast\! But, I should be able to--)  
 **Mai:** YAAAA\!  
 **Mai:** Aww, I lost... You're too tough for me after all, Kanami-chan...  
@@ -280,9 +280,9 @@ Etou Kanami Episodes
 **Mai:** Then, on the other hand, I'll try moving like you did, Kanami-chan.  
 **Kanami:** You're the best, Mai-chan-\!  
 **Kanami:** (Look close. Listen well. Focus on your senses.)  
-**Kanami:** (Just by keeping that in mind, swordfighting gets so much more interesting...\!)  
+**Kanami:** (Just by keeping that in mind, swordfighting gets so much more interesting...\!\)  
 **Kanami:** (But, why did I suddenly think to try doing that? I feel like someone told me about it, but...)  
-**Kanami:** (Well, whoever they are, I've got to thank them someday\!)  
+**Kanami:** (Well, whoever they are, I've got to thank them someday\!\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/eNoknnmG1eI"></iframe>](:Iframe)  
 
 ## [Swimsuit 19: Start]: Please, Mai-chan\!
@@ -393,7 +393,7 @@ One day, Kanami was having tea with Mikoto and the rest.
 ## [Railgun - Kanami: End]: It Could Be That Kind of Power\!
 **Yume:** A power that uses a TV remote, huh-.  
 **Kanami:** Remotes turn things on and off and can change the channels, but does that have anything to do with it?  
-**Yume:** Hmm\~...  
+**Yume:** Hmm\~\...  
 **Yume:** Ah, I got it\! It's a power to make machines do whatever you want\!  
 **Misaki:** Bzzt-. Tsubakuro-san, that's wrongg.  
 **Yume:** Ehh-, but I was sure that was it-\!  
@@ -408,11 +408,11 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Mikoto:** ...A beam? What made you think that??  
 **Kanami:** I was thinking, instead of a signal coming out the end of the remote to turn things off and on, it could shoot out a beam like, "Bibibibi-\!\"  
 **Kanami:** Kind of like, like this\!  
-**Misaki:** Fufufu, Etou-san. Now that you've learned the secret of my power, I won't be letting you off so easy\~.  
+**Misaki:** Fufufu, Etou-san. Now that you've learned the secret of my power, I won't be letting you off so easy\~\.  
 **Misaki:** Take thiis, bibibibibibi-\!  
 **Kanami:** Wahh\! Save me, Shirai-san\!  
 **Kuroko:** This way\! Etou-san\!  
-**Misaki:** I can shoot a beam with lots of different effects, so you can't escape my beams\~.  
+**Misaki:** I can shoot a beam with lots of different effects, so you can't escape my beams\~\.  
 **Misaki:** Take this, and that\! Ahahahaha\!  
 **Kanami:** And basically, Shokuhou-san's power is to control a beam that changes depending on the buttons she pushes\!  
 **Yume:** Kanami-onee-san, that whole thing you acted out... What was that?  
@@ -438,12 +438,12 @@ One day, Kanami was having tea with Mikoto and the rest.
 **Aradama:** GUGGGIIIII\!  
 **Hikari:** You won't get away-- This will finish it\!  
 **Kanami:** These stage girls, they're all so amazing, aren't they\! They fight differently from a toji, but I'm enjoying myself just watching them go\!  
-**Yui:** Ahh... You can't help but be captivated by them, can you\~.  
+**Yui:** Ahh... You can't help but be captivated by them, can you\~\.  
 **Yui:** Would you call it their posturing? Every one of the motions they go through grabs hold tight of my heart... It's so good\!  
 **Kanami:** Yeah, I know just what you mean\! Ahh, even if only for a little bit, I want to spar with all the stage girls\!  
 **Karen:** Kanami-chan, Kanami-chan, what's "spar" mean?  
 **Kanami:** Ah, sparring is when you face off... It's a practice match\!  
-**Karen:** A practice match, huh\~. I think I might wanna have one too\!  
+**Karen:** A practice match, huh\~\. I think I might wanna have one too\!  
 **Futaba:** It'd be useful reference material for sword fights on stage, wouldn't it.  
 **Kaoruko:** Sure would. Though, I'm not about to join you.  
 **Kanami:** Sure\! You only have to join in if you want to\! I don't think it's good to force training in.  
@@ -544,7 +544,7 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 **Ellen:** We haven't overlooked a thing\! We're coming up with the greatest costume plans for all of you\!  
 **Kaoru:** You're doing it for me too\!\?  
 **Ellen:** Well of course I am\!  
-**Kanami:** (A valkyrie... I can't wait to see what the costume looks like\!)  
+**Kanami:** (A valkyrie... I can't wait to see what the costume looks like\!\)  
 Kanami's promotional photos... The day of shooting.
 
   
@@ -635,7 +635,7 @@ Kanami's promotional photos... The day of shooting.
 **Kanami:** Sayaka-chan, this steak and sushi here are good too\! It's hard to believe this is actually part of a game\!  
 **Sayaka:** Mm, it's really delicious... I feel like I could eat this forever.  
 **Kanami:** That's for sure. [chew chew] Mmmm, so good\! Can I have seconds, please-\!  
-**Kanami:** Phew\~. My stomach's so full I can't eat another bite\!  
+**Kanami:** Phew\~\. My stomach's so full I can't eat another bite\!  
 **Sayaka:** Me too. I feel full. I want to bring some back for Mai and everyone.  
 **Kanami:** Good idea\! Excuse me-, could we get this cake to go?  
 **Kanami:** Hm? When that sound plays, does that mean the game's over? But the cake isn't boxed up yet-\!  
@@ -736,18 +736,18 @@ Kanami's promotional photos... The day of shooting.
 **Yui:** Ah, you three were in here\!  
 **Yui:** Happy Halloween\~\! Kanami-chan, Hiyori-chan, annnd, Mai-chan\! Trick or treat\~?  
 **Mai:** Here, Yui-chan, have a bite of this.  
-**Yui:** Oh\! Did you make this, Mai-chan? I'll have some\~. Mmm\~, so good\!  
+**Yui:** Oh\! Did you make this, Mai-chan? I'll have some\~\. Mmm\~, so good\!  
 **Kanami:** Yui-chan, were you looking for us for something?  
 **Yui:** I'm passing the word on from Kiyoka-chan. The costume party we're having is going to be at an amusement park.  
 **Yui:** So, anybody who wants to get seriously dressed up, meet in an hour out in front of school\!  
 **Kanami:** Ehh, that's so cool\! Let's go, Hiyori-chan, Mai-chan\!  
 **Mai:** We might as well.  
 **Hiyori:** So, when Kiyoka said we could rent our costumes, she meant from the amusement park?  
-**Yui:** I've got to make the rounds and let the other girls know, so I'll be seeing you later\~.  
+**Yui:** I've got to make the rounds and let the other girls know, so I'll be seeing you later\~\.  
 **Yui:** And, if you see anybody, be sure to tell them too, okay\~?  
 **Kanami:** We got it-. Thanks, Yui-chan\!  
 **Mai:** How about we get going then?  
-**Kanami:** Ah, sure\! Though, we still have some time left, so I want to have at least one more slice of pie\~.  
+**Kanami:** Ah, sure\! Though, we still have some time left, so I want to have at least one more slice of pie\~\.  
 **Mai:** Of course you can.  
 **Kanami:** The sweets you make are just addictively good, Mai-chan\! Makes me want to have some every single day\! Anyway-- down the hatch-.  
 
@@ -781,7 +781,7 @@ Kanami's promotional photos... The day of shooting.
 **Hiyori:** Wha\!\?  
 **Kanami:** Like this?  
 **Hiyori:** ...Ka-Kanami\!\? Th-That's too close.  
-**Yui:** Niiice going, Kanami-chan\~.  
+**Yui:** Niiice going, Kanami-chan\~\.  
 **Hiyori:** Doing this kind of thing is nice every now and then.  
 **Kanami:** Yeah. We should all go together for Halloween again next year\!  
 **Kanami:** Ah, but before that, there's the cultural festival, Christmas, New Year's, Valentines. There's a lot of stuff that could be fun.  
@@ -917,7 +917,7 @@ Easter day.
 **Sanae:** This is where you use the equation from before. You put this in here...  
 **Kanami:** Put this, here...?  
 **Sanae:** That's it.  
-**Sanae:** (Etou-san is good at picking things up... Is she just not good at sitting through lectures?)  
+**Sanae:** (Etou-san is good at picking things up... Is she just not good at sitting through lectures?\)  
 **Mayumi:** Hmm...  
 **Sanae:** Was there something you didn't get?  
 **Mayumi:** Yes, right here\! But, please let me think on it a little more for myself.  
@@ -948,7 +948,7 @@ Easter day.
 **Kanami:** They could at least give us a little bit of a break\!  
 **Mai:** I think, even now, they might still be taking into account the rate of missions you're sent on for your makeup classes. Especially since you two often get assigned to suppress aradama.  
 **Kanami:** Even still\!\?  
-**Mihono:** That's too much\~...  
+**Mihono:** That's too much\~\...  
 **Mai:** Maybe you're right. But, if you score well on your tests, I think there's a chance you'd have less makeup classes?  
 **Mai:** If you two both try your best, I think you can get even better grades.  
 **Kanami:** Mmm... On tests, huh...  
@@ -980,7 +980,7 @@ Easter day.
 **Kanami:** Ah, Mai-chan. The customers at the table in the back want another serving of rice. Big helpings for two people\!  
 **Mai:** Alright. Big helpings.  
 **Kanami:** Oh, there's new customers\!  
-**Kanami/Mai:** Welcome\~.  
+**Kanami/Mai:** Welcome\~\.  
 **Kanami:** I'll take you to your seats, so please wait a moment.  
 **Kanami:** Phew... Past 2 o'clock, you finally start seeing less customers stopping by.  
 **Mai:** Mmhm. When there was no end in sight at 1:00, I wasn't sure what we'd do, but we somehow made it...  
@@ -1021,10 +1021,10 @@ Easter day.
 **Fate:** ...I'll give it my full strength\!  
 **Fate:** YAAAAAAAAAAAAAAAA\!\!  
 **Kanami:** --\!  
-**Kanami:** (Uwahh\! She was just right in front of me, but she vanished in a second\!)  
-**Kanami:** (She's seriously fast\!)  
+**Kanami:** (Uwahh\! She was just right in front of me, but she vanished in a second\!\)  
+**Kanami:** (She's seriously fast\!\)  
 **Kanami:** (But...)  
-**Kanami:** (Her swordfighting comes so head on. So that's how Fate-chan is\!)  
+**Kanami:** (Her swordfighting comes so head on. So that's how Fate-chan is\!\)  
 **Kanami:** I'll go at you next, Fate-chan\!  
 **Fate:** Okay\!  
 **Sayaka:** ...That's enough.  

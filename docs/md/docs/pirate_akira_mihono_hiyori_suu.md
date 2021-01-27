@@ -86,7 +86,7 @@ https://streamable.com/cq5bjh
 **Akira:** You don't gotta apologize.  
 **Suu:** I'm sorry... Ah, ah, I'm sorry...\! Then, I'll begin now, if that's okay...\!  
 **Akira:** Sure... Whenever you're ready. Just take it easy.  
-**Akira:** (...Is it my highlights that're no good? The jacket? What's the problem... How I talk?)  
+**Akira:** (...Is it my highlights that're no good? The jacket? What's the problem... How I talk?\)  
 **Akira:** (But I don't wanna change any of it...)  
 (Very low quality video)
 
@@ -134,9 +134,9 @@ https://streamable.com/bos4qz
 ## [Pirate - Mihono: End]: The Treasure Comes After we Take Down Their Pirate Flag\!
 **Mihono:** Wawah\!\?  
 **Mihono:** It's great and all I made it over to this ship without Kiyoka and them noticing, but... Bringing down their pirate flag is actually tough...\!  
-**Yui:** Fu fu fu\~. And what about you, Mihono-chan? You sure you didn't want to stop us from bringing down your pirate flag?  
+**Yui:** Fu fu fu\~\. And what about you, Mihono-chan? You sure you didn't want to stop us from bringing down your pirate flag?  
 **Mihono:** Eh... Our ship-- Are Kiyoka and Ellen-san there already\!\?  
-**Mihono:** Wait... Nobody's there. Yuiii\~.  
+**Mihono:** Wait... Nobody's there. Yuiii\~\.  
 **Yui:** If you take down our flag, we have to give you the treasure map-. So I'll tell a lie if I have to.  
 **Mihono:** But, that's not enough to make me give up\!  
 **Akira:** Me and Yomi'll take 'em head on, dealing with anybody coming off of Yui's ship.  
@@ -151,7 +151,7 @@ https://streamable.com/bos4qz
 **Mihono:** I thought I'd get in all sneaky and bring your flag down though...  
 **Yui:** If that was... your sneaking, being a spy or a ninja really isn't for you, Mihono-chan.  
 **Yui:** I kept hearing "Ahh\!\" and "Crap\!\"   
-**Mihono:** No way\~... I thought I was doing perfect though.  
+**Mihono:** No way\~\... I thought I was doing perfect though.  
 **Mihono:** But still, so long as I keep pulling the rope hard--  
 **Akira:** That's it\! Keep it up just like that, Mihono\!  
 **Mihono:** EIIII---\!\!  
@@ -188,7 +188,7 @@ https://streamable.com/bos4qz
 **Ellen:** You sure do know your stuff, Inamin.  
 **Ellen:** Everyone else can't wait to try it, so, will you two be joining in?  
 **Hiyori:** Sure. Can't exactly... be the only one going back early.  
-**Ellen:** Fufu, thanks for that\~.  
+**Ellen:** Fufu, thanks for that\~\.  
 **Hiyori:** What's this attraction like?  
 **Ellen:** From the sound of it, we're all pirates searching for treasure. You can steal maps from other pirates too... the other people competing to get the treasure, so there's different ways to play.  
 **Hiyori:** You can steal maps from the other players?  
@@ -261,7 +261,7 @@ https://streamable.com/bos4qz
 **Suu:** GYAH\! D-D-Don't come this way, aradama\!  
 **Suu:** I mean, Shichinosato-san\!\? Aradama\! There's an aradama\!\? Hurry up hurry up\!  
 **Kofuki:** I've got my own to play with here for now\! Either wait it out or do something yourself\!  
-**Suu:** Come onnn\~. You said to leave all the aradama to you; that's why I joined your team\~\!  
+**Suu:** Come onnn\~\. You said to leave all the aradama to you; that's why I joined your team\~\!  
 **Aradama:** KSHAAAAAAA...\!\!  
 **Suu:** ...I-It's coming\!\?  
 **Suu:** Uwah\!\? Uwahh\!\?  
@@ -284,7 +284,7 @@ https://streamable.com/bos4qz
 **Hiyori:** So that's why Ellen and Kiyoka said they'd start searching after they collect all the maps.  
 **Kofuki:** What a waste of time... Let's just go to the point marked on the map we've got, and if that's not it, we're done-.  
 **Suu:** ......  
-**Suu:** (She really... doesn't seem interested in anything besides aradama. Does Shichinosato-san not have any hobbies or anything?)  
+**Suu:** (She really... doesn't seem interested in anything besides aradama. Does Shichinosato-san not have any hobbies or anything?\)  
 **Kofuki:** ...Nn?  
 **Kofuki:** What, you got a problem with that?  
 **Suu:** No-\! I think that could work too...\!  
@@ -295,7 +295,7 @@ https://streamable.com/bos4qz
 ## [Pirate - Suu: End]: This Was Supposed to Be All Fun and Games...\!
 **Hiyori:** So if we find... a pendant from an ancient pirate treasure before time runs out, we win?  
 **Suu:** Yes. It looks like you also get points for stealing other team's maps, but getting a pendant is worth the most.  
-**Kofuki:** Aghh... Instead of treasure, could we get some aradama-chan in here\~.  
+**Kofuki:** Aghh... Instead of treasure, could we get some aradama-chan in here\~\.  
 **Suu:** No, no, no, no, finding the treasure would be a million times better...\! And besides, didn't you beat plenty of aradama today-?  
 **Kofuki:** There were too many of you here, so I got even less to play with-. I'm not even close to satisfied...  
 **Suu:** Ehh...  
@@ -324,7 +324,7 @@ https://streamable.com/bos4qz
 **Suu:** In that case... sure.  
 **Kiyoka:** You can't give in to her, Inami-san.  
 **Suu:** Ah...\!  
-**Suu:** (I don't even want to be on missions with her in the first place... Am I getting dragged into Shichinosato-san's pace little by little\!\?)  
-**Suu:** (I have to hold tight onto myself...\!)  
+**Suu:** (I don't even want to be on missions with her in the first place... Am I getting dragged into Shichinosato-san's pace little by little\!\?\)  
+**Suu:** (I have to hold tight onto myself...\!\)  
 **Suu:** (Though I'm not even sure if I can...)  
 > :ToCPrevNext

@@ -120,7 +120,7 @@ Human Egg
 **Mirja:** Yes. Last night, it should have been plainly evident that Itomi Sayaka, as Humpty Dumpty, was more valuable than Juujou Hiyori, whose role has not been identified.  
 **Mirja:** In spite of that, Musumi Kiyoka expressly asked which of them the Rabbit should protect. If she were an Egg, that would be a slightly unnatural thing to say.  
 **Kiyoka:** Ah, no, that was... I was just a little curious what everyone wanted to do, so I asked...  
-**Mihono:** Ahh\~\! That's super suspicious\! I think maybe I'll vote for Kiyoka next time\~. Hey, you guys think so too, right?  
+**Mihono:** Ahh\~\! That's super suspicious\! I think maybe I'll vote for Kiyoka next time\~\. Hey, you guys think so too, right?  
 **Hiyori:** I don't really have a problem with that, but... Ellen. What do you think about what Mihono just said?  
 **Ellen:** Hmm. I don't mind doing some "Kiyoka cracking", but I can't say Mihomiho's leaving a great impression either.  
 **Mai:** Right... What Mihono-chan said now sounded like she might have been acting as a Human to lead us into "cracking Kiyoka"...  

@@ -76,7 +76,7 @@ Spending Time at the Amusement Park, the Toji Way
 **Kanami:** Why don't we go in the haunted house? It's a different kind of thrill than a rollercoaster.  
 **Hiyori:** A different thrill...? That sounds profound. Let's go in.  
 **Hiyori:** It was all bark and no bite, that haunted house.  
-**Kanami:** Hiyori-chaaaan\~... A haunted house isn't the kind of attraction you go in to fight the ghosts\!  
+**Kanami:** Hiyori-chaaaan\~\... A haunted house isn't the kind of attraction you go in to fight the ghosts\!  
 **Hiyori:** It's not?  
 **Kanami:** You're supposed to get scared when you see the ghosts, but you shouted "There you are, ghost\!\" and tried to beat them. You're the one who scared me.  
 **Hiyori:** But, if they're going to threaten us, it's our right to fight back.  
@@ -133,7 +133,7 @@ At that time, the two from the elite guard were--
 **Maki:** Wh-When did you take that picture\!\? If anybody else saw me like that...  
 **Suzuka:** And with this, I have Maki-san's weakness in the palm of my hand.  
 **Maki:** You wouldn't\!  
-**Suzuka:** Ufufu, I'm only joking\~.  
+**Suzuka:** Ufufu, I'm only joking\~\.  
 **Kiyoka:** They're like completely different people from when they're fighting...  
 **Kanami:** Yeah, they look like they're having a good time. Why don't we try calling out to them and joining up?  
 **Mirja:** Etou Kanami, that wouldn't be very tactful of you. The two of them must rarely get to spend time like this together, so we shouldn't disturb them.  
@@ -204,7 +204,7 @@ At the same time, Maki and Suzuka were walking nearby--
 **Kiyoka:** Offering...? What do you mean?  
 **Mirja:** When making a prayer, you vow to give up something you enjoy. The idea is that through abstinence, your prayer becomes stronger.  
 **Yui:** I see\~\! That's sort of like it\! I must be feeling superstitious.  
-**Yui:** ...Hey, cut it out, you two. You don't have to go feeling all sorry for my sake\~.  
+**Yui:** ...Hey, cut it out, you two. You don't have to go feeling all sorry for my sake\~\.  
 **Yui:** After all, there's not a doubt in my mind my sister's going to get better\!  
 **Yui:** So once she gets out of the hospital, let's all go to an amusement park together\!  
 **Kiyoka:** --Sure\!  

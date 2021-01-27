@@ -6,7 +6,7 @@ china yui episode
 ## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting?  
 **Mihono:** I'm all for it\~\! There's still a lot more shops I haven't been to yet. Do you two wanna come with me?  
-**Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~.  
+**Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~\.  
 **Yui:** Date\~\! Date\~\! Chinatown date\~\!  
 **Mihono:** You're sure in a good mood, Yui.  
 **Yui:** You know I am\! Taking a beauty like you on a date through Chinatown; that's the kind of classic date course I've been dreaming of\!  
@@ -30,7 +30,7 @@ china yui episode
 **Mihono:** Ah, look, look\! In that general store next door\! They've got cute panda things you can wear\!  
 **Yui:** Ah, wait, Mihono-chaaan\!  
 **Mihono:** Tadahhh\! Check it out\! See this panda hat I got\! Does it look good?  
-**Yui:** Mmm\~\! It's good; so good\~\! Next up, let's try this Chinese hat\~\! Uwah\~\! This one looks good too\~.  
+**Yui:** Mmm\~\! It's good; so good\~\! Next up, let's try this Chinese hat\~\! Uwah\~\! This one looks good too\~\.  
 **Tsugumi:** ...  
 **Tsugumi:** Um, would it be alright if we stopped for a moment?  
 **Yui:** Hmmm? What's the matter, Tsugumi-san? Hahahn\~, now are you feeling jealous of me with Mihono-chan...  

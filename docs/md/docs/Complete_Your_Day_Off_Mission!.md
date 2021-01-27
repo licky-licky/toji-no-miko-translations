@@ -36,7 +36,7 @@ Covers both fall events.
 **Yume:** See, see\~? I said you were overthinking it, didn't I?  
 **Yume:** Oh yeah\! Can you take that day off too, Yukari-sama? Then we can all have fun together\!  
 **Yukari:** Unfortunately, I have a pile of duties steadily accumulating that need to be dealt with. You'll all have to enjoy yourselves without me.  
-**Yume:** Well that sucks\~. But at least the four of us are together, right\!  
+**Yume:** Well that sucks\~\. But at least the four of us are together, right\!  
 **Suzuka:** Yes, I'm glad we could clear up that it wasn't all some big mistake at least. Though...  
 **Yomi:** Will it really be alright for all of us to be absent on the same day?  
 **Suzuka:** We can have our time off whenever, so wouldn't it be best if we adjusted the schedule now?  
@@ -149,7 +149,7 @@ On the day everyone had off--
 **Yomi:** Understood. When it comes to observing girls eating crepes, what should I be looking for specifically...  
 **Yui:** Just trust in your instincts, and when you see a girl who grabs your attention, look verrry closely at her behavior and expressions\!  
 **Yomi:** My instincts... I see.  
-**Yui:** Ah-, that one's so cute\! No, wait\! Her friend next to her's good looking too\~. I don't believe it, are they twins\~? That's adorable\~\!  
+**Yui:** Ah-, that one's so cute\! No, wait\! Her friend next to her's good looking too\~\. I don't believe it, are they twins\~? That's adorable\~\!  
 **Yomi:** Stare...  
 **Yui:** So what do you think, Satsuki-san? Can't get enough of those glittering "Which crepe should I eat" eyes, can you\~?  
 **Yui:** Just seeing that is enough to keep me coming back to Harajuku\!  
@@ -163,14 +163,14 @@ On the day everyone had off--
 **Yui:** Sorry that took a minute. Here you go\! I only have pocket change on me, so I had to buy the cheapest cream crepe though.  
 **Yomi:** Thank you for your consideration.  
 **Yomi:** Chew, chew... This is simple, but very delicious.  
-**Yui:** That's great\~. I feel like I'm dreaming, getting to see Satsuki-san eating up close like this\! Ahhh\~ I'm being healed\~.  
+**Yui:** That's great\~\. I feel like I'm dreaming, getting to see Satsuki-san eating up close like this\! Ahhh\~ I'm being healed\~\.  
 **Yui:** This is what time off is all about\! Thanks to you, I had the best vacation. Now I'm refreshed and ready to give my all starting tomorrow\!  
-**Yomi:** (Yamashiro-san seems to have fully enjoyed her day off, but is this actually what Yukari-sama asked me to do...?)  
+**Yomi:** (Yamashiro-san seems to have fully enjoyed her day off, but is this actually what Yukari-sama asked me to do...?\)  
 
 ## 5: Help Arrives\!
 **Yui:** Satsuki-san, it's time for the next attraction: observing the girls standing in line at the bubble tea stand\! Let's go\!  
 **Yomi:** Understood.  
-**Yui:** You know, with the streets this packed, there's cuties every where you turn. Fun huh\~.  
+**Yui:** You know, with the streets this packed, there's cuties every where you turn. Fun huh\~\.  
 **Yomi:** (I'm not sure if the way Yamashiro-san enjoys her day off will satisfy what Yukari-sama asked of me...)  
 **Yui:** Wait-\! Those two cute girls that were together just now...  
 **Yomi:** Ah, Yamashiro-san, please don't leave me behind.  
@@ -180,7 +180,7 @@ On the day everyone had off--
 **Yui:** I know, it's like I won the lottery today\~\! I'm about to start tearing up\! So, so? What're you two doing in Harajuku?  
 **Mai:** Sayaka-chan and I had the day off, so we thought we'd go shopping here.  
 **Sayaka:** We drank bubble tea too.  
-**Yui:** Nnn\~ I can't get enough of it\~ This "girls day out" feeling\! I can't believe I also managed to run into you two today\~.  
+**Yui:** Nnn\~ I can't get enough of it\~ This "girls day out" feeling\! I can't believe I also managed to run into you two today\~\.  
 **Sayaka:** Also...?  
 **Yomi:** Good, I caught up with you. Yamashiro-san, why did you run away?  
 **Sayaka:** Satsuki Yomi...  
@@ -188,7 +188,7 @@ On the day everyone had off--
 **Mai:** You two are an unusual pair. What were you up to?  
 **Yomi:** Today, I was having Yamashiro-san teach me meaningful ways to spend my day off.  
 **Sayaka:** Teaching you how to spend your day off...?  
-**Yui:** Satsuki-san said she wanted to know how to have fun in her free time, so I'm coaching her in my way of enjoying Harajuku to the fullest\~.  
+**Yui:** Satsuki-san said she wanted to know how to have fun in her free time, so I'm coaching her in my way of enjoying Harajuku to the fullest\~\.  
 **Mai:** Coaching? What did you teach her? I want to know too.  
 **Yui:** Stuff like sitting in front of a crepe stand and observing the cute girls going by\!  
 **Sayaka:** Observing...?  
@@ -239,7 +239,7 @@ On the day everyone had off--
 **Yomi:** I see, a place with more nature? It's true that Harajuku is so crowded it's difficult for me to calm down. I agree that we should move somewhere quieter.  
 **Yui:** In that case, where would be good\~? When I think of cute girls in the great outdoors, it's gotta be the beach\!  
 **Sayaka:** Yui, it's November...  
-**Yui:** Shoot. But I wanted to see all of you in swimsuits\~.  
+**Yui:** Shoot. But I wanted to see all of you in swimsuits\~\.  
 **Kofuki:** Huh? What're you guys doing all hanging out here?  
 **Yui:** Whoa\! Even Kofuki-san's here now\! That's it\! You should come mess around with us, Kofuki-san\!  
 **Kofuki:** Mess around? I just got done doing that with some aradama-chan, so I'm headed back to Kamakura.  
@@ -268,7 +268,7 @@ On the day everyone had off--
 **Yomi:** ...Even if you ask me to, it's difficult to repeat it now.  
 **Yui:** In front of a backdrop of autumn leavings, the seductive look of a slightly lost Satsuki-san\! This works too\~\! A rare shot that can only be found this time of year\!  
 **Yui:** Okay, okay\~, it's your turn now, Mai-chan, Sayaka-chan\! Try gathering up the leaves on the ground, and then whooshing them all up in the air\~\!  
-**Mai:** Eh? Ummm\~... Like, this?  
+**Mai:** Eh? Ummm\~\... Like, this?  
 **Sayaka:** The leaves falling down... They're pretty.  
 **Yomi:** The ground and the air are filled with such pretty colors. It's beautiful.  
 **Yui:** Mmmm\~, that's good, that's good\~\! Beautiful leaves and beautiful girls\! Kofuki-san, you need to get in here too\~\!  
@@ -315,7 +315,7 @@ The day after their time off--
 **Yomi:** Thank you.  
 **Yume:** Yomi onee-san, let me have some of those later.  
 **Maki:** Didn't you buy cookies for yourself, Yume?  
-**Yume:** They were too good, so I already ate them all\! Anyway, let's talk about our trip\~. What was your favorite part of the park?  
+**Yume:** They were too good, so I already ate them all\! Anyway, let's talk about our trip\~\. What was your favorite part of the park?  
 **Suzuka:** In my case, I won't forget the go kart competition we had.  
 **Yume:** Maki onee-san was stepping on the gas so hard it sounded like her kart was going to break.  
 **Maki:** Y-Yume\! You didn't have to tell them that\!  
@@ -331,7 +331,7 @@ The day after their time off--
 **Yukari:** ...I see. You recorded not just the beauty of the scenery, but the flavor of the dango. This is a fine report.  
 **Yomi:** Does this satisfy your conditions for my assignment?  
 **Yukari:** Yes. Admiring the changing of the seasons through observing the fall leaves, and sampling the regional delicacies. I believe you fully enjoyed your day off.  
-**Yume:** Ehh, you went to see the fall leaves? What the heck, that's no fair that only Yomi onee-san got to go\! You should've let me go with you\~.  
+**Yume:** Ehh, you went to see the fall leaves? What the heck, that's no fair that only Yomi onee-san got to go\! You should've let me go with you\~\.  
 **Maki:** Yomi, do you mind if we read through that report too?  
 **Yomi:** No, go ahead.  
 **Suzuka:** Hmm. So this is what you meant by your mission. It sounds like it was a lovely time, going leaf viewing.  

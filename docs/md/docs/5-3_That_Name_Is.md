@@ -84,13 +84,13 @@
 **Makoto:** I beg of you, Mihono-san. Whatever may happen to you from here, we of the Hitakami faction will protect you.  
 **Mihono:** ......  
 **Mihono:** (I think it's a good thing that they'll reduce the amount of toji getting hurt, and, if I help them, Makoto-san's saying she'll help me with Kanayamahime...)  
-**Mihono:** (There's nothing wrong with it. I shouldn't be hesitating so much about this... Just, something doesn't feel right... But, what...?)  
+**Mihono:** (There's nothing wrong with it. I shouldn't be hesitating so much about this... Just, something doesn't feel right... But, what...?\)  
 **Mirja:** Yes. In that time, I would like to find more on Inago Akira, Hitakami Makoto, and, the other one...  
 **Mihono:** Yuuki. Toribane Yuuki.  
 **Mirja:** Toribane Yuuki, was it. I'm going to gather information on these three.  
 **Mihono:** (Oh yeah... Back then, Mirja-san seemed like she was suspicious of the Hitakamis...)  
 **Mihono:** (Maybe that's why I can't bring myself to trust them now...)  
-**Mihono:** (All the things she's been saying sound good, but, is it really all good...?)  
+**Mihono:** (All the things she's been saying sound good, but, is it really all good...?\)  
 **Akira:** Mihono. I'm asking you too. Help Makocchan out with this.  
 **Yuuki:** Please. Mihono-san.  
 **Mihono:** ...I do want to help... but... You're hiding something, aren't you...? Something that would sound bad...  
@@ -193,7 +193,7 @@
 **Kofuki:** That'd probably be me and her.  
 **Kofuki:** We were in her lab last night when she came in wanting to help dispose aradama. Right?  
 **Tsugumi:** Yes. And, that's when she recieved a message about a new mission. The location was in Tohoku. She had said she knew the toji she would be partnered with.  
-**Mirja:** (...A mission in Tohoku, along with toji she knows?)  
+**Mirja:** (...A mission in Tohoku, along with toji she knows?\)  
 **Mirja:** Did she say the names of those toji?  
 **Kofuki:** Nah, not that I remember hearing. What about you?  
 **Tsugumi:** I don't know either.  
@@ -318,7 +318,7 @@
 ## 6: Mirja and Kofuki
 **Mirja:** They're appearing one after another...\!  
 **Mirja:** (Musumi Kiyoka and Yamashiro Yui are pushing the fight, with Setouchi Chie going around supporting them.)  
-**Mirja:** (In which case...\!)  
+**Mirja:** (In which case...\!\)  
 **Mirja:** Shichinosato Kofuki\! You and I will respond to enemies approaching from the sides and rear\!  
 **Mirja:** We'll start by holding off the enemies to the rear\!  
 **Kofuki:** Guess we've gotta\!  
@@ -349,8 +349,8 @@
 **Kofuki:** Might as well. With a college student paying, I'm hoping to see some snacks we can't usually afford to get.  
 **Hitakami Toji G:** There you are\!\! How dare you do that to the others... You won't get away with this\!  
 **Kofuki:** ...And here comes another one. Just how many have they got?  
-**Mirja:** (Just as Shichinosato Kofuki is saying, there are far too many of them. Just how many toji did they have on alert?)  
-**Mirja:** (They shouldn't have anticipated our coming. In which case... Who were these toji expecting?)  
+**Mirja:** (Just as Shichinosato Kofuki is saying, there are far too many of them. Just how many toji did they have on alert?\)  
+**Mirja:** (They shouldn't have anticipated our coming. In which case... Who were these toji expecting?\)  
 **Mirja:** There's little use in thinking it over now though.  
 **Mirja:** We'll take them all out\! Stick with me\!  
 **Kofuki:** Yeah, yeah\! I got it already\!  

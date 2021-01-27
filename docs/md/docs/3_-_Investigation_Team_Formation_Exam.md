@@ -23,7 +23,7 @@
 **Chie:** ...That about sums it up, right, President Hashima?  
 **Mihono:** Chii-nee, you're like a walking wikipedia\!  
 **Chie:** Mihono-chan...? This is common knowledge?  
-**Mihono:** (Humming\~)  
+**Mihono:** (Humming\~\)  
 **Ema:** It seems Asakura-san needs to study a little harder.  
 **Ema:** Setting that aside, in recent years, the number of aradama incidents in the center of the Kanto region have greatly increased. The reason behind this is thought to be what's known as the Akabane swords.  
 **Ema:** Now, in this case, the presidents of the Five Traditions have been given permission to supervise a special joint task force investigating the Akabane swords.  
@@ -35,7 +35,7 @@
 **Ema:** Hm...? Ah... I'm so sorry, I completely forgot. Let's see, this is Heijou Institute's Musumi Kiyoka-san.  
 **Ema:** She's the toji that Heijou Institute's president Gojou Iroha is providing for the investigation team.  
 **Kiyoka:** Ah, um...... Pleased to, meet you.  
-**Mihono:** (U-Uh... She... She's got no presence at all, does she\!\?)  
+**Mihono:** (U-Uh... She... She's got no presence at all, does she\!\?\)  
 
 ## 2: Aptitude Test (1)
 One of The Five Traditions under the Origami Family, Renpu Girl's School--
@@ -124,9 +124,9 @@ One of The Five Traditions under the Origami Family, Renpu Girl's School--
 
 ## 7: Mirja Touchdown (1)
 **Chie:** Shichinosato-san\! Don't push too far ahead\! Mihono-chan\! You're losing focus; fall back for now\! Just stay behind me, Kiyoka-chan\!  
-**Chie:** (What should I do... I have to keep everyone safe, but I can't keep up with them all...\!)  
+**Chie:** (What should I do... I have to keep everyone safe, but I can't keep up with them all...\!\)  
 **Mihono:** Look out, Musumi-san\!  
-**Chie:** (Oh no, Kiyoka-chan...\!\? I only took my eyes off her for a moment...\!)  
+**Chie:** (Oh no, Kiyoka-chan...\!\? I only took my eyes off her for a moment...\!\)  
 **Aradama:** GRRRRUUUU...\!  
 **Kiyoka:** KYAA\! S-Stay back\! Don't come near me\! Go away\!  
 *slash*
@@ -138,7 +138,7 @@ One of The Five Traditions under the Origami Family, Renpu Girl's School--
   
 **Kiyoka:** Pant... Pant... I don't want... To do this anymore...  
 **Chie:** Thank goodness, she's safe...  
-**Chie:** (Kiyoka-chan managed to take care of that one... But, any more than this... I can't count on Kiyoka-chan to keep fighting in this condition\!)  
+**Chie:** (Kiyoka-chan managed to take care of that one... But, any more than this... I can't count on Kiyoka-chan to keep fighting in this condition\!\)  
 *helicopter sounds*
 
   
@@ -153,7 +153,7 @@ One of The Five Traditions under the Origami Family, Renpu Girl's School--
 **Kiyoka:** Ah- Y-Y-Yes\!\?  
 **Mirja:** You hang back\! Any aradama the other three let through are yours to finish off\! Prioritize the ones already weakened\!  
 **Kiyoka:** I-I'll try\!  
-**Chie:** (Who is she? She seems so experienced... No, I can't think about that now. Getting through this is all that matters\!)  
+**Chie:** (Who is she? She seems so experienced... No, I can't think about that now. Getting through this is all that matters\!\)  
 
 ## 8: Mirja Touchdown (2)
 **Chie:** Thank you, you saved us. I don't know how that fight would have turned out under my instructions...  

@@ -247,7 +247,7 @@ At the same time.
 **Makoto:** Fufu. Bit by bit, Yuuki-chan might be coming to speak more like you, Akira-chan.  
 **Akira:** Seriously...? Oi, Yuuki. You don't gotta go out of your way to copy me.  
 **Yuuki:** It's not that I was trying to copy you... It just happened to slip out.  
-**Akira:** Sigh\~... Well, it's fine.  
+**Akira:** Sigh\~\... Well, it's fine.  
 **Akira:** More importantly, how many failed tamayori toji are we at now...?  
 **Akira:** The ones up top are working out their alibis and hiding who's doing it, so we can't even pin down who's to blame.  
 **Makoto:** We can't have the girls who were experimented on remain in that state forever. We'll have to cure them, no matter what.  

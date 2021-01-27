@@ -13,12 +13,12 @@ Inami Suu Episodes
 **Suu:** (I should have known... It's Hokuto-san after all. Of course we would end up training...)  
 **Hokuto:** Suu\! You're losing focus\!  
 **Suu:** R-Right\!  
-**Suu:** (How could she tell\!\? But still, my arms are heavy, my legs hurt, I'm straining my back; I can't do this\! I seriously can't do this\!\!)  
+**Suu:** (How could she tell\!\? But still, my arms are heavy, my legs hurt, I'm straining my back; I can't do this\! I seriously can't do this\!\!\)  
 **Suu:** H-Hokuto-san, I might need a break soon, I think...  
 **Hokuto:** You've only done a hundred swings so far\!  
 **Suu:** Isn't a hundred plenty\!\?  
 **Hokuto:** Not yet\!  
-**Suu:** (Th-This is bad... If Hokuto-san doesn't get stopped, someone's going to die\! I'm going to die\!)  
+**Suu:** (Th-This is bad... If Hokuto-san doesn't get stopped, someone's going to die\! I'm going to die\!\)  
 **Suu:** Um, how many practice swings do I have to do for this regimen...?  
 **Hokuto:** Don't concern yourself with how many swings you should do, Suu. Swinging until you can no longer raise your arms is your warm-up.  
 **Suu:** My warm-up\!\?  
@@ -59,7 +59,7 @@ Inami Suu Episodes
 **Yomi:** Please participate.  
 **Suu:** ......Okay.  
 **Yomi:** Please apply utsushi.  
-**Suu:** I-I can't do it anymore\~...  
+**Suu:** I-I can't do it anymore\~\...  
 **Yomi:** This is only your seventh time.  
 **Suu:** I-I seriously can't do it anymore\!  
 **Yomi:** So, once again, you were unable to reach sixteen.  
@@ -124,7 +124,7 @@ Inami Suu Episodes
 **Yume:** Why're you calling me Tsubakuro-sama?  
 **Suu:** No no, you see, the difference between someone like me and you, Tsubakuro-sama, is night and day; I'm like a grain of rice in comparison-\!  
 **Yume:** Really? Actually... Have I met you somewhere before?  
-**Suu:** (S-So she doesn't remember me after all... But, that's actually pretty lucky\! I might be able to trick her like this\!\!)  
+**Suu:** (S-So she doesn't remember me after all... But, that's actually pretty lucky\! I might be able to trick her like this\!\!\)  
 **Suu:** There's no way we've met before\!  
 **Yume:** Hmm. Well, whatever.  
 **Yume:** More importantly, hurry up and finish that program thingy already. Yomi-onee-san is going to come play with me\!  
@@ -189,7 +189,7 @@ Inami Suu Episodes
 **Suu:** I'll treasure it, Hokuto-san\! ...It's so cute, isn't it, Kanami-san\!  
 **Kanami:** Yeah, it's really cute\!  
 **Hokuto:** ......R-Right.  
-**Hokuto:** (I can't see it as anything but a weird doll... Is this what's cute?)  
+**Hokuto:** (I can't see it as anything but a weird doll... Is this what's cute?\)  
 
 ## [Suu Joins: Start]: How Many Can You Apply?
 **Hokuto:** By the way, Suu, how many times can you apply utsushi now?  
@@ -263,9 +263,9 @@ Inami Suu Episodes
 **Hokuto:** Then... We'll keep going\! HAAAAAAAAA\!  
 **Suu:** KH-\!  
 **Hokuto:** This makes nine\!  
-**Suu:** ([pant pant] My utsushi is about at its limit... I can't keep this up\!)  
+**Suu:** ([pant pant] My utsushi is about at its limit... I can't keep this up\!\)  
 **Suu:** I can be... I can be stronger\!  
-**Hokuto:** (Her fighting spirit is different from before...\!)  
+**Hokuto:** (Her fighting spirit is different from before...\!\)  
 **Hokuto:** Come on then, Suu\!  
 **Suu:** HAAAAAAAAAAAAAAAAAAA\!  
 **Hokuto:** A good attack... But\!  
@@ -286,7 +286,7 @@ Inami Suu Episodes
 **Suu:** GYAH\! D-D-Don't come this way, aradama\!  
 **Suu:** I mean, Shichinosato-san\!\? Aradama\! There's an aradama\!\? Hurry up hurry up\!  
 **Kofuki:** I've got my own to play with here for now\! Either wait it out or do something yourself\!  
-**Suu:** Come onnn\~. You said to leave all the aradama to you; that's why I joined your team\~\!  
+**Suu:** Come onnn\~\. You said to leave all the aradama to you; that's why I joined your team\~\!  
 **Aradama:** KSHAAAAAAA...\!\!  
 **Suu:** ...I-It's coming\!\?  
 **Suu:** Uwah\!\? Uwahh\!\?  
@@ -309,7 +309,7 @@ Inami Suu Episodes
 **Hiyori:** So that's why Ellen and Kiyoka said they'd start searching after they collect all the maps.  
 **Kofuki:** What a waste of time... Let's just go to the point marked on the map we've got, and if that's not it, we're done-.  
 **Suu:** ......  
-**Suu:** (She really... doesn't seem interested in anything besides aradama. Does Shichinosato-san not have any hobbies or anything?)  
+**Suu:** (She really... doesn't seem interested in anything besides aradama. Does Shichinosato-san not have any hobbies or anything?\)  
 **Kofuki:** ...Nn?  
 **Kofuki:** What, you got a problem with that?  
 **Suu:** No-\! I think that could work too...\!  
@@ -320,7 +320,7 @@ Inami Suu Episodes
 ## [Pirate - Suu: End]: This Was Supposed to Be All Fun and Games...\!
 **Hiyori:** So if we find... a pendant from an ancient pirate treasure before time runs out, we win?  
 **Suu:** Yes. It looks like you also get points for stealing other team's maps, but getting a pendant is worth the most.  
-**Kofuki:** Aghh... Instead of treasure, could we get some aradama-chan in here\~.  
+**Kofuki:** Aghh... Instead of treasure, could we get some aradama-chan in here\~\.  
 **Suu:** No, no, no, no, finding the treasure would be a million times better...\! And besides, didn't you beat plenty of aradama today-?  
 **Kofuki:** There were too many of you here, so I got even less to play with-. I'm not even close to satisfied...  
 **Suu:** Ehh...  
@@ -349,7 +349,7 @@ Inami Suu Episodes
 **Suu:** In that case... sure.  
 **Kiyoka:** You can't give in to her, Inami-san.  
 **Suu:** Ah...\!  
-**Suu:** (I don't even want to be on missions with her in the first place... Am I getting dragged into Shichinosato-san's pace little by little\!\?)  
-**Suu:** (I have to hold tight onto myself...\!)  
+**Suu:** (I don't even want to be on missions with her in the first place... Am I getting dragged into Shichinosato-san's pace little by little\!\?\)  
+**Suu:** (I have to hold tight onto myself...\!\)  
 **Suu:** (Though I'm not even sure if I can...)  
 > :ToCPrevNext

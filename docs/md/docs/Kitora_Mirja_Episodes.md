@@ -36,17 +36,17 @@ On the day of a fight against aradama---
 **Jun:** Last one\! Letting it on by\!  
 **Suzumoto Hana:** Taking care of it\! Haaa\!  
 **Aradama:** GYAAAAAAA\!  
-**Kinuka:** Fufu, would you look at that\~. That's the result of thinking your tactics and strategies through\~.  
+**Kinuka:** Fufu, would you look at that\~\. That's the result of thinking your tactics and strategies through\~\.  
 **Uraga Nao:** Do you really think it's that easy? Most couldn't manage it. Something like that requires a lot of trust between everyone to work.  
 **Nao:** I know I wouldn't be able to support a lone guard like that. Frankly, I think Mirja's the only one who could pull off such a risky strategy.  
 **Kinuka:** Well, what's wrong with that\! She's in Kitora Squad, after all\!  
 **Kinuka:** So long as she's there, Nakano-san can be used to her fullest potential\! Am I wrong?  
 **Nao:** ...Hey, Mizushina-san?  
-**Kinuka:** Ah, Nao-san, you're still in work mode, I see\~.  
+**Kinuka:** Ah, Nao-san, you're still in work mode, I see\~\.  
 **Nao:** Why do you... You keep sending unorthodox girls for Mirja to work with... What's your goal here?  
-**Kinuka:** Fufu, you know me\~. It's all for my cute little sister's sake, of course\!  
+**Kinuka:** Fufu, you know me\~\. It's all for my cute little sister's sake, of course\!  
 **Kinuka:** I want Mirja's squad to get even stronger. To turn them into the safest and most capable place for my sister to join. That's my secret plan\!  
-**Kinuka:** Anyway, I'm done for the day\~.  
+**Kinuka:** Anyway, I'm done for the day\~\.  
 
 ## 2: What Makes Up Mirja
 **???:** Kitora Mirja-senpai\!  
@@ -82,7 +82,7 @@ On the day of a fight against aradama---
 ## 3:　What's Got You in a Trance?
 **Mirja:** Yes, the mountings of Shintougo Kunimitsu are a complete set, or so I've heard. For Kunimitsu, who specialized in daggers, to make a tachi, makes this an extremely peculiar item. Please handle it with the utmost care.  
 **Nagasaki Sumi:** ...Ah, u-understood\! I'll take good care of it\!  
-**Sumi:** (Which country is this assistant from...? She's so beautiful... It's making me really nervous\!)  
+**Sumi:** (Which country is this assistant from...? She's so beautiful... It's making me really nervous\!\)  
 **Mirja:** We look forward to seeing you again.  
 **Mihono:** Thanks for coming by-\!  
 **Mihono:** This is crazy, Mirja-san\! Customers just keep coming in one after another\!  
@@ -103,11 +103,11 @@ On the day of a fight against aradama---
 **Mihono:** Y-Yes\!\?  
 **Mirja:** I will take care of the customers. You should head into the back with the others and help Aoto Youji-san take inventory.  
 **Mihono:** Uh, okay\!  
-**Hina:** Mihono-chan\! If my pa's slacking off, give him a good kick for me\! ...So now, Mirja-san\~.  
+**Hina:** Mihono-chan\! If my pa's slacking off, give him a good kick for me\! ...So now, Mirja-san\~\.  
 **Hina:** What's got you so interested?  
 **Mirja:** There are materials here collected from across the country. Guards, braids, hilts, scabbards... I can't take my eyes off them.  
 **Mirja:** Not just for okatana, but there are so many standard swords here as well. This is my first time seeing so many in one place. I feel deeply moved.  
-**Hina:** Oh\! Hun, you've got a real eye for detail\~.  
+**Hina:** Oh\! Hun, you've got a real eye for detail\~\.  
 **Hina:** You get it, you get it\! Lately everything's been trending towards "if it's not an okatana, it's not a sword", but we've got an interest in plain old Japanese swordsmithing too\!  
 **Hina:** Though the Sword Administration's got their thumb on most okatana, so most everything you see on the market is just made of standard steel. But these are real works of art, and they've still got their own value as weapons\!  
 **Hina:** Hun, I wonder if you can handle your "swords" too?  
@@ -152,10 +152,10 @@ On the day of a fight against aradama---
 **Kinuka:** Well that's based off the model the army's special forces use, which was originally thought up with guns in mind.  
 **Kinuka:** So there's a new wave of complaints coming up about how it doesn't really suit a practical situation for toji...  
 **Mirja:** But aren't things fine as they are now?  
-**Nao:** You of all people shouldn't say that, Mirja\~. Doesn't your squad disregard the standard formation as much as possible? As far as I can tell, that doesn't add up\~?  
+**Nao:** You of all people shouldn't say that, Mirja\~\. Doesn't your squad disregard the standard formation as much as possible? As far as I can tell, that doesn't add up\~?  
 **Mirja:** That's where you're wrong. I simply adjust each toji's responsibilities to suit their strengths as the situation needs it.  
 **Mirja:** And you're one to talk about disregarding theory, Uraga Nao. You tend to favor a strategy of encircling aradama, don't you?  
-**Nao:** Because I know I can always win like that\~. Anyway, there aren't many commanders as capable as you that can pull off your attitude in battle, you know\~.  
+**Nao:** Because I know I can always win like that\~\. Anyway, there aren't many commanders as capable as you that can pull off your attitude in battle, you know\~\.  
 **Mizushina:** Take it easy, you two. Look, the point I was trying to make is\~ Hmm... How can I make this clear?  
 **Mizushina:** Ah, I know just the thing\! I'll explain it through oranges\!  
 **Mizushina:** Ta-da-da-dah\! First, I'll write "attacker" on this one, and on its flank goes the "sub-attacker"... And after that... Huh? Where'd I put the attacker?  
@@ -225,7 +225,7 @@ On the day of a fight against aradama---
 **Mirja:** In that case, while it's necessary to adapt to the needs of every situation, we can form our battle plan around you, Tsubakuro Yume.  
 **Suzuka:** I don't mind, but what do you two think?  
 **Ellen:** I don't have any problem with it either.  
-**Yume:** Then that settles it\! You better watch me close\~.  
+**Yume:** Then that settles it\! You better watch me close\~\.  
 **Mirja:** Good. Now, why don't we return to the sweets shop. We also have a job to do there.  
 **Yume:** Before we start working, let's snack on some cake.  
 **Mirja:** Certainly; the cakes they make do have exceptional flavor.  
@@ -258,7 +258,7 @@ On the day of a fight against aradama---
 **Kiyoka:** Okay. I think they'll be happy with this.  
 **Kiyoka:** Anyway, I'll see you later. Please do your best working both here and with your toji duties.  
 **Mirja:** Kohagura Ellen. It's about time you started helping with our work here too.  
-**Ellen:** You seem like you're having no problem taking care of things by yourself, but I'll go get ready\~.  
+**Ellen:** You seem like you're having no problem taking care of things by yourself, but I'll go get ready\~\.  
 **Mirja:** (Whether it be as a toji or as staff of this cake shop, I feel that I've done a good job today.)  
 **Mirja:** No, the day isn't over yet. I can't let my guard down.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/vrh9FfXuL1I"></iframe>](:Iframe)  
@@ -387,7 +387,7 @@ On the day of filming.
 **Sanae:** Ah... L-Let's get going\!  
 **Mirja:** Are you not going to check the script?  
 **Sanae:** No, I'll be okay even if I don't.  
-**Mirja:** (Her trembling has stopped. Is she the type who grows stronger when it comes time to act?)  
+**Mirja:** (Her trembling has stopped. Is she the type who grows stronger when it comes time to act?\)  
 **Mirja:** Let's go, Iwakura Sanae.  
 **Sanae:** Yes\!  
 **Staff:** Alright now... Ready-, start\!  
@@ -402,7 +402,7 @@ On the day of filming.
 **Mirja:** (Iwakura Sanae comes rushing in... I fight back with the candlestick I'm holding.)  
 **Sanae:** Unyaa\!\?  
 **Mirja:** It's afraid of the flames...? Then\!  
-**Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!)  
+**Mirja:** (Throwing the candlestick, while she's frightened by the flames, I take the knife I had hidden...\!\)  
 **Sanae:** UNYAAAAAAAAAA\!\! I'LL REMEMBER THIS, NYAAAAA\!\!  
 **Mirja:** ... It ran away? ...What is happening in this mansion...?  
 **Staff:** Okaaay, that's good.  
@@ -577,7 +577,7 @@ https://streamable.com/nprbpr
 **Keiko:** Eh\!\?  
 **Kihiro:** But you're right that we have little in common with Miss Yamashiro here\! ...What seems to be the matter, Miss Haji?  
 **Keiko:** I-It's... nothing.  
-**Keiko:** (Deepened... our friendship...?)  
+**Keiko:** (Deepened... our friendship...?\)  
 **Mirja:** So then, did you need me for something?  
 **Yui:** Yes\! Though, I'm not really the one looking for you; that's these two\!  
 **Kihiro:** What are you saying, Miss Yamashiro\! With you offering your assistance, we're all of one heart and mind\!  
@@ -603,7 +603,7 @@ https://streamable.com/nprbpr
 **Keiko:** Um, but... Is this really okay? I feel like we didn't tell her the important part...  
 **Yui:** Don't worry about it, Keiko-san\! We don't have to tell her about "that" until just before we start\!  
 **Yui:** Mufufu\~\! Ahh\~, now I don't know how I'll wait for the day after tomorrow\~\!  
-**Keiko:** (Is this really fine...?)  
+**Keiko:** (Is this really fine...?\)  
 
 ## [Race Queen - Mirja: End]: Day of the Unveiling
 **Yui:** Mirja-san\! Can I be next to you on the way there? You don't mind, right\!  

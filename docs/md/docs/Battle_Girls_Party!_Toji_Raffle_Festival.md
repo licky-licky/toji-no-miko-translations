@@ -28,7 +28,7 @@ Battle Girls Party! Toji Raffle Festival
 **Kanami:** Konohana-san, who's leading the committee, said to come up with something that could "satisfactorily conclude the year".  
 **Ellen:** I want to make a bigger attraction than the main event\! We can't lose to Hanahana\!  
 **Kaoru:** How're we supposed to stand out more than the main event though?  
-**Hashi Keiko:** (H-Huh? Why does it seem like everyone already knows each other?)  
+**Hashi Keiko:** (H-Huh? Why does it seem like everyone already knows each other?\)  
 **Keiko:** (I'm being left out... I can't join the conversation... It's too much for an outsider like me...)  
 **Mihono:** Wait wait, stooop\!  
 **Kaoru:** Nn? What's up, Mihono? If you have to go to the bathroom, hurry it up.  
@@ -61,7 +61,7 @@ Battle Girls Party! Toji Raffle Festival
 **Mihono:** Right? Mai's really good at cooking\!  
 **Kanami:** She can make cookies and all kinds of stuff, and they're all super tasty.  
 **Keiko:** Not only are you a toji, but you're also good at cooking... You're amazing, Yanase-san...\!  
-**Mai:** I-It's not that amazing\~.  
+**Mai:** I-It's not that amazing\~\.  
 **Keiko:** ...This is so good that, maybe, we could make everyone compete for Yanase-san's cooking...  
 **Kaoru:** Now there's an eccentric idea.  
 **Ellen:** But it sounds like fun too\!  
@@ -221,7 +221,7 @@ Battle Girls Party! Toji Raffle Festival
 **Kaoru:** So... Please\!  
 **Mihono:** You've been working so hard getting things ready, Kaoru-san... So sure\!  
 **Mihono:** If I get the time off, I'll give it to you\!  
-**Kaoru:** (...Just as planned\!)  
+**Kaoru:** (...Just as planned\!\)  
 **Kaoru:** And Chie and Mai agreed. Too easy. Ah\! Heyyy, Ellen\!  
 **Ellen:** Kaoru-\! What is it?  
 **Kaoru:** If you get the time off from the raffle competition, give it to me.  
@@ -315,7 +315,7 @@ On the day of the End of the School Year Recognition Party--
 **Mihono:** And, from the half she got, most of them were dresses. It's pretty crazy how many of them are in there.  
 **Mihono:** Kanami could totally open a dress store after this\!  
 **Mai:** What did you get from the raffle, Mihono-chan?  
-**Mihono:** Listen to this, Mai\~. Things were going good at first, but the second half of my draws were a total bust\~.  
+**Mihono:** Listen to this, Mai\~\. Things were going good at first, but the second half of my draws were a total bust\~\.  
 **Mihono:** And whenever I won something from the raffle, it was all dresses too... How'd you do, Mai?  
 **Mai:** Actually... I won the all-you-can-eat desserts\!  
 **Ellen:** I'm so jealous, Maimai\!  
@@ -339,7 +339,7 @@ On the day of the End of the School Year Recognition Party--
 **Kaoru:** Monitoring... Am I gonna have to do this on top of my normal missions...  
 **Ellen:** How'd it go, Kaoru?  
 **Kaoru:** For now... I'm just going to eat.  
-**Ellen:** Uh oh, it can't be good news then. Kaoru, maybe changing into your dress will make you feel better\~.  
+**Ellen:** Uh oh, it can't be good news then. Kaoru, maybe changing into your dress will make you feel better\~\.  
 **Kaoru:** I didn't get a dress.  
 **Ellen:** That's alright\! I thought you might not, so I asked Kanamin for one\!  
 **Kaoru:** Sigh, I can't do this. If I don't eat, I can't do this.  

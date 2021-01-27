@@ -28,7 +28,7 @@
 **Kanami:** It's been a while since we all got to gather round and have some of Mai-chan's sweets, hasn't it\! I think I'll go with this one\!  
 **Kanami:** Wha- this is chocolate mint flavored\!\? Mm, it's actually not bad\! I think I understand why Hiyori-chan gets so worked up about it\!  
 **Sayaka/Mai/Ellen:** ............  
-**Kaoru:** Sigh\~... Kanami. Do you seriously think we haven't noticed?  
+**Kaoru:** Sigh\~\... Kanami. Do you seriously think we haven't noticed?  
 **Kanami:** Huh? Ahh, you mean this other cookie? Ahaha\! So you spotted me secretly grabbing two, huh\~\!  
 **Mai:** Please, just stop, Kanami-chan...  
 **Ellen:** We all understand, Kanamin. Just how hard this is for you.  

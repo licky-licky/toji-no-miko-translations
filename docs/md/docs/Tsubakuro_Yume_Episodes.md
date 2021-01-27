@@ -75,7 +75,7 @@ Tsubakuro Yume Episodes
 **Wakako:** Without any hesitation\!\?  
 **Yume:** Eh-\! So Kazumi onee-san likes Maki onee-san\!  
 **Yume:** --Now back to you, Wakako onee-san. Who do you like? Is it someone I know?  
-**Yume:** If you don't say who, I'll use my position as the fourth seat of the elite guard to get you fired\~.  
+**Yume:** If you don't say who, I'll use my position as the fourth seat of the elite guard to get you fired\~\.  
 **Wakako:** Ughh...\!\?  
 **Wakako:** (I'd rather die than say who, but to get fired over such a reason...)  
 **Maki:** --Hey, Yume\! Stop bothering them\!  
@@ -146,7 +146,7 @@ Tsubakuro Yume Episodes
 **Furisode Part 1:** Yume's First Shrine Visit of the Year  
 **Yume:** Whoa\~, there's so many people. Do we really have to wait in line here?  
 **Suzuka:** My, weren't you the one saying you wanted to make your first shrine visit of the year?  
-**Yume:** I did, but\~... I just wanted to go with you onee-sans.  
+**Yume:** I did, but\~\... I just wanted to go with you onee-sans.  
 **Maki:** In that case, do you want to come back later? I get the feeling we'll freeze standing in line with all these people.  
 **Yomi:** I can go buy something to warm us. Ah, they're handing out sweet sake over there.  
 **Maki:** Sweet sake...? That sure would warm us right up.  
@@ -156,19 +156,19 @@ Tsubakuro Yume Episodes
 **Yume:** That's not what I meant\! It's not that I don't want it; it's you onee-sans who can't have it\!  
 **Suzuka:** But I don't dislike sweet sake?  
 **Yume:** You don't understand... Aghh, the shrine visit\!  Let's just do the shrine visit already, before more people show up\!  
-**Yume:** Sigh\~, we're finally done\~.  
+**Yume:** Sigh\~, we're finally done\~\.  
 **Yomi:** Was that really enough? You hardly prayed for more than three seconds.  
 **Yume:** That's all I needed. I didn't want to wish for anything from the gods anyway.  
-**Yume:** Anyhow, Maki-onee-san and Suzuka-onee-san sure are taking their time\~.  
+**Yume:** Anyhow, Maki-onee-san and Suzuka-onee-san sure are taking their time\~\.  
 **Yomi:** About those two, they asked me to tell you they went looking to buy charms.  
 **Yume:** Charms? ...Hehe, then this works out great. Come with me for a minute, Yomi onee-san\!   
 **Yume:** Now's our chance to get something to eat from the stalls\!  
 **Yomi:** We're buying something from the stalls?  
 **Yume:** Yup\! What should we get\~? Do you know what Maki-onee-san and Suzuka-onee-san like?    
 **Yomi:** I don't. Come to think of it, what do they like to eat?  
-**Yume:** Yomi-onee-san, I can't count on you for anything\~. Oh well, maybe strawberry mochi will work\~.  
+**Yume:** Yomi-onee-san, I can't count on you for anything\~\. Oh well, maybe strawberry mochi will work\~\.  
 **Yomi:** I don't think anyone is selling strawberry mochi... Why did you want to know what the two of them like to eat?  
-**Yume:** Hehehe, that's a secret for now\~... Oh, I got a great idea\! I'll just buy some of everything, and you can help me carry it all, Yomi onee-san.  
+**Yume:** Hehehe, that's a secret for now\~\... Oh, I got a great idea\! I'll just buy some of everything, and you can help me carry it all, Yomi onee-san.  
 **Maki:** Sorry for the wait... Why do you have all that?  
 **Suzuka:** Your arms are full with... Is that food?  
 **Yume:** Yup. I'm giving all these to you onee-sans, as a gift.  
@@ -182,12 +182,12 @@ Tsubakuro Yume Episodes
 **Maki:** You're right. Sorry Yume. I didn't mean to make fun of you.  
 **Yume:** I'm talking about something serious here, okay?  
 **Maki:** I know. I'll hear what you have to say. So Yume, what are you thanking us for?   
-**Yume:** Geez, you're so dense\~.  
+**Yume:** Geez, you're so dense\~\.  
 **Yume:** It's because of you onee-sans that I got to do my first shrine visit this year\!  
 **Yume:** That's why, thanks. It's really fun, visiting the shrine with you\!  
 **Maki:** ...I see, I'm having fun too, Yume.  
 **Suzuka:** And I as well.  
-**Yume:** That's good then\~. Here\! Have as much as you want\!  
+**Yume:** That's good then\~\. Here\! Have as much as you want\!  
 **Suzuka:** Since Yume went out of her way to buy all this for us, why don't we find somewhere quiet to enjoy it.  
 **Yume:** I actually wanted to secretly buy the things you liked, but... I didn't know what to get, so I just bought a whole lot of stuff.  
 **Suzuka:** Fufu, that's very like you. Thank you, Yume.  
@@ -204,9 +204,9 @@ Tsubakuro Yume Episodes
 **Yomi:** Isn't there anything you want to do this year, Tsubakuro-san?  
 **Yume:** What I want to do...? Oh yeah\! Seeing the autumn leaves\!  
 **Yomi:** Understood. We can all go together.  
-**Yume:** And, what else\~. I still have to beat Yukari-sama, so a whole bunch of people can see how great I am\!  
+**Yume:** And, what else\~\. I still have to beat Yukari-sama, so a whole bunch of people can see how great I am\!  
 **Yomi:** There's a lot you want to do, isn't there. Shouldn't you have wished to the gods about it then?  
-**Yume:** Ehh\~? I don't have to do that\~. Cause... The four of us can make it all happen together\!  
+**Yume:** Ehh\~? I don't have to do that\~\. Cause... The four of us can make it all happen together\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Q19Fa9VDWgg"></iframe>](:Iframe)  
 
 ## [VRS Equipment - Yume: Start]: Nothing to It but to Do It\!
@@ -309,7 +309,7 @@ Tsubakuro Yume Episodes
 **Yume:** Oh yeah. After we put on our hostess clothes, we were going to help out, but, what should we do?  
 **Ryokan Proprietress:** The work I'll have you do is nothing more than simple cleaning of the rooms, and a check over their furnishings.  
 **Ryokan Proprietress:** We have people hired to take care of the full cleaning, but this is one last check before the guests come through. Whoever is in charge will show you how it's done, so please work along with them.  
-**Yume:** Okaaay\~.  
+**Yume:** Okaaay\~\.  
 
 ## [Hostess - Yume: End]: For the Special Menu\!
 **Yume:** I thought meeting guests and showing them their rooms felt like what a real hostess would do, but I didn't think, after we did it a couple times, they'd ask us to go pick vegetables next.  
@@ -417,7 +417,7 @@ The next day--
 **Yume:** ...No good yet, huh. So I've gotta beat Yukari-sama after all...  
 **Maki:** H-Hey, Yume? That's not what I meant...  
 **Yume:** I'm gonna go over there real quick, Maki-onee-san.  
-**Yume:** Yukari-sama\~.  
+**Yume:** Yukari-sama\~\.  
 **Yukari:** Yume? What do you need?  
 **Yume:** Have a fight with me.  
 **Yukari:** I don't have time to entertain you now. Though... If we can do it here, I'll keep you company.  
@@ -442,7 +442,7 @@ The next day--
 **Yume:** But still...  
 **Yukari:** ...Yume. You put up a fine attack. I'll play with you again, so stay diligent.  
 **Yume:** Okay\!  
-**Yume:** (Ahh, that was so fun\! I'll get even stronger next time, and then I'll even beat Yukari-sama\!)  
+**Yume:** (Ahh, that was so fun\! I'll get even stronger next time, and then I'll even beat Yukari-sama\!\)  
 **Yume:** ...I'm really glad I joined the elite guard\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/QcrxhLnr7t8"></iframe>](:Iframe)  
 
@@ -579,7 +579,7 @@ The next day--
 **Aradama:** BGYAAAAAAAAAAAAAAA\!  
 **Yume:** You're in the way\!  
 **Fate:** (Yume-san... She actually is defeating aradama while fighting me.)  
-**Fate:** (Showing others what makes her strong... Is that really so important to Yume-san?)  
+**Fate:** (Showing others what makes her strong... Is that really so important to Yume-san?\)  
 **Yume:** C'mon, c'mon\! What's wrong, Fate-chan\!  
 **Fate:** --\! YAAAAAAAAAAAAAAAAAAAAAAA\!\!  
 **Aradama:** ooooo...  

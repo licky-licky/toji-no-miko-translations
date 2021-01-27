@@ -55,15 +55,15 @@
 **Mihono:** So, we should just focus on tracking down Akabane swords right now?  
 **Kofuki:** I'm all for it. Wherever those swords are, there's bound to be aradama-chans swarming around.  
 **Kofuki:** Sounds way better than a wild goose chase, doesn't it?  
-**Kiyoka:** Sigh\~... That means there's lots more fighting in store for us, isn't there...  
+**Kiyoka:** Sigh\~\... That means there's lots more fighting in store for us, isn't there...  
 **Kofuki:** Don't worry about it. I'll take care of every last aradama-chan. You guys just hang back and relax.  
 **Chie:** You know we can't do that. We're all going to work together out there.  
-**Kofuki:** I mean it\! I don't want you ruining any of my fun\~.  
+**Kofuki:** I mean it\! I don't want you ruining any of my fun\~\.  
 *Chie starts drawing her okatana*
 
   
 **Chie:** Ufufu, we're all going to work together, aren't we?  
-**Kofuki:** Seriiiously\~...  
+**Kofuki:** Seriiiously\~\...  
 **Chie:** We're ALL going to work together, aren't we?  
 **Kofuki:** Tch... Fine, whatever.  
 **Chie:** Ufufu. Your onee-san's happy you're being so understanding.  
@@ -138,7 +138,7 @@
   
 **Chie:** .........  
 **Chie:** (This shouldn't be happening; I still can't get through to Mokusa. It's clear that something's wrong.)  
-**Chie:** (I have a bad feeling about all this... What's going on over there?)  
+**Chie:** (I have a bad feeling about all this... What's going on over there?\)  
 At the same time, at the Mokusa hideout--
 
   

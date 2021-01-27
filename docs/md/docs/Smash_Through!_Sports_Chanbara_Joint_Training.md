@@ -57,7 +57,7 @@ Smash Through! Sports Chanbara Joint Training
 **Uraga Nao:** You're fine with that, Itomi-san\!\?  
 **Kofuki:** Tch... Getting my ass kicked for nothing by Sayaka would be annoying too... Chichie, I'll pin her down.  
 **Chie:** Okay\! ...Hey, and my name isn't Chichie\!  
-**Nao:** Mashiko-san, you get in formation too\~... I'm begging you\~.  
+**Nao:** Mashiko-san, you get in formation too\~\... I'm begging you\~\.  
 **Kinuka:** Let's review our strategy while we move. The basic aim is to protect me until we reach the time limit.  
 **Kinuka:** Naturally, if we can have our talented fighter, Etou-san, keep up a relentless attack and match our opponent's offensive, I think it will likely lead to our victory.  
 **Kinuka:** But it will mean you'll end up taking on multiple enemies.  
@@ -131,7 +131,7 @@ Smash Through! Sports Chanbara Joint Training
 **Tsugumi:** I'm somewhat baffled by her dodge then... I was sure I was in her blind spot.  
 **Sanae:** Maybe we should have expected it... Or we should come up with some counter strategy, shouldn't we.  
 **Kanami:** This is fun, but we can't keep it going forever-- Time to decide this\!  
-**Mihono:** (Now\!)  
+**Mihono:** (Now\!\)  
 **Mihono:** YAA\!  
 **Kinuka:** ...Hyaa-\!  
 **Mihono:** Yuii...  
@@ -156,11 +156,11 @@ Smash Through! Sports Chanbara Joint Training
 **Kanami:** ...\! I'm not about to lose, though\!  
 **Sanae:** You won't get me so easy either... See\!  
 **Kanami:** Kh, I'm getting completely... blocked out here.  
-**Kanami:** (They're not giving me... Much room to work with. But--\!)  
+**Kanami:** (They're not giving me... Much room to work with. But--\!\)  
 **Sanae:** ...Ah.  
 **Kanami:** Now it's just a fight between me and Hiyori-chan--  
 **Sanae:** ...\!  
-**Sanae:** (Juujou-san... It's all on you\!)  
+**Sanae:** (Juujou-san... It's all on you\!\)  
 **Hiyori:** I know-- And it's over, Kanami.  
 **Kanami:** \!\?  
 **Kanami:** Ah-, she got me-. I got too focused on Iwakura-san that I couldn't react elsewhere.  
@@ -173,7 +173,7 @@ Smash Through! Sports Chanbara Joint Training
 **Mai:** We're still okay, Mihono-chan\! They managed to bring down Kanami-chan, so we still have a chance.  
 **Mai:** (But, as for time... there might not be much left.)  
 **Mirja:** I won't let you come any further.  
-**Mihono:** (Right now, I'm the only one who has a chance to go after Mizushina-san--\!)  
+**Mihono:** (Right now, I'm the only one who has a chance to go after Mizushina-san--\!\)  
 **Kinuka:** ...\!  
 **Yui:** Okaay-, there's no touching allowed here-.  
 **Mihono:** Ahh-, geez\~\!   
@@ -193,7 +193,7 @@ Smash Through! Sports Chanbara Joint Training
 **Mihono:** ...Huh\!\?  
 **Mirja:** Ah...\! Yamashiro Yui... Guard Mizushina Kinuka right now\!  
 **Yui:** I-I'm on it... Mirja-san\!  
-**Yui:** That was way too risky; don't scare me like that\~. Though, I love an older girl who can be a little daring\!  
+**Yui:** That was way too risky; don't scare me like that\~\. Though, I love an older girl who can be a little daring\!  
 **Kinuka:** Strategizing does need us to be daring at times...  
 **Mirja:** However, it seems it was unnecessary after all. Having reached the time limit, this is our victory.  
 **Mihono:** No wayyy\~, this is hard to swallow for a bunch of reasons\!  
@@ -356,7 +356,7 @@ Smash Through! Sports Chanbara Joint Training
 **Tsugumi:** It does sound like fun, doesn't it-.  
 **Yui:** Of course it does\! I was getting so excited about it last night that I could barely sleep.  
 **Yui:** From the sound of things, Kanami-chan and Mai-chan got there ahead of us, so we should race on over there too\!  
-**Yui:** I just can't calm down anymore\~. The pool is seriously like visiting heaven\!  
+**Yui:** I just can't calm down anymore\~\. The pool is seriously like visiting heaven\!  
 
 ## [Yui: End]: This is What I Wanted to Do\!
 **Yui:** We've arrived at the floating island attraction\! I will now explain the rules\!  
@@ -380,15 +380,15 @@ Smash Through! Sports Chanbara Joint Training
 **Yui:** Watch out, Tsugumi-san\! Come and lean your body into me\!  
 **Tsugumi:** Thanks for supporting me, Yamashiro-san.  
 **Yui:** I should be the one thanking you hereee.  
-**Yui:** (The perfectly legitimate reason I invented to press up against girls on the floating islands is a huge success\!)  
-**Yui:** (Ahh, this is bad. I'm enjoying this so much it hurts\! I wish time could stop here forever\!)  
+**Yui:** (The perfectly legitimate reason I invented to press up against girls on the floating islands is a huge success\!\)  
+**Yui:** (Ahh, this is bad. I'm enjoying this so much it hurts\! I wish time could stop here forever\!\)  
 **Yui:** Uhehe, uheheheheh\!  
 **Tsugumi:** What's the matter, Yamashiro-san?  
 **Yui:** Nothing at all, just that the wonderfulness of the pool is getting to mee.  
 **Tsugumi:** True, I'm having a better time than I thought I would.  
 **Tsugumi:** ...Yamashiro-san, thank you for asking me to come with you.  
 **Yui:** Tsugumi-san smiled...  
-**Yui:** (Wait? The mood here... If I confessed to her right now, doesn't it seem like she'd accept?)  
+**Yui:** (Wait? The mood here... If I confessed to her right now, doesn't it seem like she'd accept?\)  
 **Yui:** Tsugumi-san, I-- PHWAGH\!\?  
 **Tsugumi:** The water hoses have started up.  
 **Yui:** Did you really have to give me a cold shower nowwwwww\!\?  

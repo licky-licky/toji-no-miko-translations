@@ -67,7 +67,7 @@ https://streamable.com/d0td76
 **Kanami:** Sayaka-chan, this steak and sushi here are good too\! It's hard to believe this is actually part of a game\!  
 **Sayaka:** Mm, it's really delicious... I feel like I could eat this forever.  
 **Kanami:** That's for sure. [chew chew] Mmmm, so good\! Can I have seconds, please-\!  
-**Kanami:** Phew\~. My stomach's so full I can't eat another bite\!  
+**Kanami:** Phew\~\. My stomach's so full I can't eat another bite\!  
 **Sayaka:** Me too. I feel full. I want to bring some back for Mai and everyone.  
 **Kanami:** Good idea\! Excuse me-, could we get this cake to go?  
 **Kanami:** Hm? When that sound plays, does that mean the game's over? But the cake isn't boxed up yet-\!  
@@ -139,7 +139,7 @@ https://streamable.com/fyfbpt
 December 25th.
 
   
-**Suzuka:** Merry Christmas, to all you good girls and boys\! These are presents from the Origami family. Please, come right up and have one\~.  
+**Suzuka:** Merry Christmas, to all you good girls and boys\! These are presents from the Origami family. Please, come right up and have one\~\.  
 **Boy 1:** Ehh-\! Can I really have one?  
 **Child's Mother:** Thank you very much.  
 **Boy 2:** Santa-onee-san\! Please give me a present too\!  
@@ -305,7 +305,7 @@ The day of the pool cleaning.
 **Tsugumi:** For the time being, you and I should proceed with the cleaning.  
 **Akira:** Sure thing\!  
 **Akira:** We'll get a lead on 'em before they show up\!  
-**Tsugumi:** (How exactly do you get a lead on someone in cleaning a pool...?)  
+**Tsugumi:** (How exactly do you get a lead on someone in cleaning a pool...?\)  
 **Akira:** Hahahahahaha\! Bring on the hose\!  
 **Akira:** I'm gonna keep raining down water, so keep up\!  
 **Tsugumi:** Right. Then, I'll brush off the grime at the bottom.  

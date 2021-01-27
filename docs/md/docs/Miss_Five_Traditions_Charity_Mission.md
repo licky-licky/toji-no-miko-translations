@@ -61,7 +61,7 @@ Miss Five Traditions Charity Mission
 **Kanami:** It's fine\! Yui-chan, could you give me a copy of that picture?  
 **Yui:** Sure thing\! I'll give you one too, Hiyori-chan\!  
 **Hiyori:** F-Fine...  
-**Yui:** Now, who should I take pictures of next\~.  
+**Yui:** Now, who should I take pictures of next\~\.  
 **Hiyori:** She just follows wherever her desires take her, doesn't she... Was it really a good idea giving her the camera?  
 **Kanami:** Ahaha.  
 **Kanami:** Oh, that reminds me, Yume-chan.  
@@ -88,27 +88,27 @@ Miss Five Traditions Charity Mission
 **Yui:** Alright, I got a nice shot\!  
 **Mihono:** (I can hear everybody all energetic like that, and yet...)  
 **Yomi:** ...  
-**Mihono:** (Why did I end up next to Satsuki-san\!\?)  
-**Mihono:** (I mean, that's fine and all\! The problem is... How am I supposed to get Satsuki-san to lighten up and talk about something\!\?)  
+**Mihono:** (Why did I end up next to Satsuki-san\!\?\)  
+**Mihono:** (I mean, that's fine and all\! The problem is... How am I supposed to get Satsuki-san to lighten up and talk about something\!\?\)  
 **Yomi:** ......  
-**Mihono:** (I can't just keep quiet; I've gotta try something... Where there's a will, there's a way\!)  
+**Mihono:** (I can't just keep quiet; I've gotta try something... Where there's a will, there's a way\!\)  
 **Mihono:** I-It's cool that the two of us got chosen for Miss Five Traditions, wasn't it. I totally thought I wasn't going to get picked.  
 **Yomi:** Yes.  
-**Mihono:** (Yes\!\? What's she even mean by "Yes"\!\?)  
+**Mihono:** (Yes\!\? What's she even mean by "Yes"\!\?\)  
 **Mihono:** ("Yes it's cool that we got chosen?" Or, "Yes I didn't think I would get chosen either?")  
 **Yomi:** ...  
 **Mihono:** (I can't tell anything from looking at her face...)  
 **Mihono:** E-Everybody sure is excited, huh\!  
 **Yomi:** Yes.  
 **Mihono:** ......  
-**Mihono:** (I-I'm already out of topics... No, I've still gotta keep the conversation going\!)  
+**Mihono:** (I-I'm already out of topics... No, I've still gotta keep the conversation going\!\)  
 **Mihono:** N-Nice, weather, huh...  
 **Yomi:** Yes.  
-**Mihono:** (......Another "Yes"\!\? Help me, Kanami\!\! Let my thoughts reach you\!)  
+**Mihono:** (......Another "Yes"\!\? Help me, Kanami\!\! Let my thoughts reach you\!\)  
 **Kanami:** ...?  
-**Mihono:** (Kanami\!)  
+**Mihono:** (Kanami\!\)  
 **Kanami:** You look like you're having fun with Satsuki-san, Mihono-chan.  
-**Mihono:** (They didn't reach her at all\!)  
+**Mihono:** (They didn't reach her at all\!\)  
 **Mihono:** Y-You think? We were just talking about what we liked...  
 **Yomi:** (We weren't talking about what we liked though...)  
 **Yume:** Yomi-onee-san likes omusubi.  
@@ -338,7 +338,7 @@ Elsewhere--
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
 ## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
-**Akira:** Oiii, Yomi\! Here, over here\~.  
+**Akira:** Oiii, Yomi\! Here, over here\~\.  
 **Yomi:** I could tell where you were without you having to shout.  
 **Akira:** You just looked like you were kinda spacing out over there. Anyway, ready to go?  
 **Yomi:** I was wondering where you were taking me. A cakery?  

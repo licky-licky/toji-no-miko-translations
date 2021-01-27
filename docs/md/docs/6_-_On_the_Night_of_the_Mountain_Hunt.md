@@ -7,11 +7,11 @@
 **Mirja:** It's time for the operation to begin. According to the elite guard's orders, we are to search the southwest side of the mountain.  
 **Mirja:** Satsuki Yomi-san, of the elite guard, will be on lookout duty. If we receive a report from her, we are to go to the scene immediately.  
 **Kofuki:** Hehh, Satsuki's Yomi-senpai-sama's on lookout, huh... Kuku... I'm getting all worked up... I can't wait...  
-**Kofuki:** (Gimme lots of friends to play with, Yomi-senpai. Kuku... I love you, my aradama-chan...\!)  
+**Kofuki:** (Gimme lots of friends to play with, Yomi-senpai. Kuku... I love you, my aradama-chan...\!\)  
 **Mirja:** What's the matter? You seem unusually excited.  
 **Kofuki:** Huhh? This is gonna be better than anything you've ever seen\! We get to slash and bash and smash our hearts out\! The whole mountain's gonna be an all you can eat buffet\!  
 **Mihono:** Kofuki-san...? Weren't you paying attention? We're looking for the two escaped toji, remember...?  
-**Kofuki:** Dumbass\~. You guys don't have a clue yet\!  
+**Kofuki:** Dumbass\~\. You guys don't have a clue yet\!  
 ...30 minutes later, in the mountains of Izu.
 
   
@@ -156,7 +156,7 @@
 **Kiyoka:** I'm so... Useless. I was... Abandoned by Koryuu Kagemitsu. That's why, all of this, is my fault...  
 **Mihono:** Kiyoka\! Get back\!  
 **Kiyoka:** Eh...\!\?  
-**Kiyoka:** (Oh no... I got lost in thought...\!)  
+**Kiyoka:** (Oh no... I got lost in thought...\!\)  
 *Suzuka cuts Mihono*
 
   

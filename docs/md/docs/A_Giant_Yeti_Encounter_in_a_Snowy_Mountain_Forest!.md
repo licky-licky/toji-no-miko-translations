@@ -40,7 +40,7 @@ A Giant Yeti Encounter in a Snowy Mountain Forest!
 **Tsugumi:** You're awfully cranky today... At times like this, what would be best to cheer you up...  
 **Yui:** Kofuki-san, the cold is annoying you, right? Then don't worry; at the bottom of the mountain is a hot spring we can get all heated up in together\!  
 **Kofuki:** I don't wanna\!  
-**Yui:** Ehh, why not? A hot spring'll get your heart and body feeling all warm and fluffy\! It'll pull you out of that bad mood in a second\~.  
+**Yui:** Ehh, why not? A hot spring'll get your heart and body feeling all warm and fluffy\! It'll pull you out of that bad mood in a second\~\.  
 **Tsugumi:** You're wrong, Yamashiro-san. What Shichinosato-san is sulking about is that she didn't get to play enough.  
 **Kofuki:** "Didn't get to play enough", what am I, a little kid\!\?  
 **Mihono:** AH-\!  
@@ -118,7 +118,7 @@ A Giant Yeti Encounter in a Snowy Mountain Forest!
 **Kofuki:** Quit grabbing at me.  
 **Yui:** Ehh, but you let Tsugumi-san get close, so what's the difference?  
 **Tsugumi:** Shichinosato-san is fundamentally a catlike person. If you chase her she'll hiss at you, which is why it's best to wait for her to come to you.  
-**Yui:** Really\! That's useful information\! But I'm no good at waiting, you know\~.  
+**Yui:** Really\! That's useful information\! But I'm no good at waiting, you know\~\.  
 **Yui:** Aghh, that's it\~\! I can't take any more of this doing nothing waiting around for the blizzard to stop\! Everyone, the time has come to use our last resort\!  
 **Tsugumi:** A last resort in enduring the blizzard?  
 **Yui:** That's right, we'll all get naked and hug each other for warmth\!  
@@ -163,7 +163,7 @@ A Giant Yeti Encounter in a Snowy Mountain Forest!
 **Mihono:** I'm really sorry, Mirja-san\! I've never thought that about you normally...\!  
 **Mirja:** That innocent concern of yours doesn't make this any better. A two meter tall hairy giant...  
 **Chie:** A-Anyway, now that we know the way down the mountain, we should get going while the weather's cleared up.  
-**Yui:** That's right\! And when we get down the mountain, hot spring\~ hot spring\~.  
+**Yui:** That's right\! And when we get down the mountain, hot spring\~ hot spring\~\.  
 **Mirja:** I learned when I was searching for our route that this area of the mountain is actually directly behind a ski resort. It seems to be a popular location for snowboarding.  
 **Kiyoka:** Snowboarding\! That sounds fun.  
 **Tsugumi:** In that case, why don't we try some snowboarding before heading home\! Allow me to observe just how much stamina you all have left after being stranded in a blizzard.  
@@ -191,7 +191,7 @@ A Giant Yeti Encounter in a Snowy Mountain Forest!
 **Tsugumi:** But we were all going to go snowboarding before we left.  
 **Kofuki:** Oi-\! Just shut up about that\!  
 **Maki:** Oh, so you still had the energy to fool around. Then I'll have to ask you to join this training. You can share with the others what you learned fighting in the snow.  
-**Yume:** I like it, I like it\! With you onee-sans around, this'll get more fun\~. Let's fight already\!  
+**Yume:** I like it, I like it\! With you onee-sans around, this'll get more fun\~\. Let's fight already\!  
 **Kofuki:** You know... Would it kill you to read the mood a little...?  
 **Tsugumi:** Now now, Shichinosato-san, there's nothing to worry about. I thought something like this might happen and prepared these.  
 **Kofuki:** Huh? What's that? I already don't like where this is going.  

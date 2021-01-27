@@ -7,7 +7,7 @@ A Big Brawl! The Christmas Royale
 **Ellen:** Everyone in school... They're looking excited, aren't they?  
 **Kaoru:** Well yeah. Exams just finished, and it'll be Christmas soon. They're all getting into it.  
 **Nene:** Ne-\!  
-**Ellen:** Awww\~...  
+**Ellen:** Awww\~\...  
 **Kaoru:** What's with you? Normally you'd be all "Christmas\!\" and dancing around.  
 **Ellen:** Christmas is the problem\! Hear me out, Kaoru.  
 **Ellen:** This year, everyone in my family has some other important business stopping them from getting together on the 25th...  
@@ -136,7 +136,7 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Ordinary Toji A:** They might be the elite guard, but there's only two of them... If we all rush them, someone will be able to break through for sure\!  
 **Ordinary Toji B:** We don't have to beat them either... So long as one of us can grab that star--  
 **Ordinary Toji C:** Let's all go together-\!\!  
-**Yume:** Too easy. I can't even call that a warmup\~. If that's all you've got, you're just gonna annoy me making me fight you.  
+**Yume:** Too easy. I can't even call that a warmup\~\. If that's all you've got, you're just gonna annoy me making me fight you.  
 **Suzuka:** You shouldn't speak to them like that. This is an exercise in improving their technique. You need to face them as proper opponents  
 **Yume:** Fineee. You can take a break, you know, Suzuka onee-san.  
 **Suzuka:** Fufu, I'm afraid I can't accept that offer, but I'd welcome seeing you try your best, Yume.  
@@ -247,7 +247,7 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Suzuka:** They seem to be coming up with their own plans.  
 **Yume:** I got it\! Since I'm bored, I'll see if Maki onee-san will play with me\!  
 **Suzuka:** I supposed this might happen. I'll handle things while you're gone.  
-**Yume:** Hey, hey, fight me, Maki onee-san\! I was about to die of boredom over there\~.  
+**Yume:** Hey, hey, fight me, Maki onee-san\! I was about to die of boredom over there\~\.  
 **Maki:** You know we can't do that now. You and I both have our duties here.  
 **Yume:** Boo. You just have to stay near Yukari-sama\!  
 **Yume:** Ah\! I just thought of something good. Yukari-sama\~? If I can protect the star, I want you to grant my wish\!  
@@ -256,19 +256,19 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Yume:** You mean it\!\? Hooray-\! I wonder what I should wish for\~?  
 **Yomi:** Wasn't that nice of her, Tsubakuro-san.  
 **Yume:** Yeah\! It's my Christmas present\~, my Christmas present\~\!  
-**Yume:** (Come to think of it, doesn't something happen around Christmas?)  
+**Yume:** (Come to think of it, doesn't something happen around Christmas?\)  
 **Yume:** ...Ah\! It's Yomi onee-san's...\!  
-**Yume:** (Yomi onee-san's birthday\! I remember hearing it's on Christmas Eve\!)  
+**Yume:** (Yomi onee-san's birthday\! I remember hearing it's on Christmas Eve\!\)  
 **Yomi:** My... What?  
 **Yume:** It's nothing, nothing at all-\!  
-**Yume:** (I'll make Yomi onee-san all surprised by giving her a birthday present out of nowhere\~\!)  
-**Yume:** (What should I get for her\~. What would make Yomi onee-san happy...)  
+**Yume:** (I'll make Yomi onee-san all surprised by giving her a birthday present out of nowhere\~\!\)  
+**Yume:** (What should I get for her\~\. What would make Yomi onee-san happy...)  
 **Yume:** \!\!  
 **Yume:** Hey, hey, Yomi onee-san, you love rice, right? You were eating a lot of rice balls the other day.  
 **Yomi:** ...Yes. Though, why are you asking?  
 **Yume:** No reason, I just remembered is all.  
 **Yomi:** ......  
-**Yume:** I should get back to the tree now\! Nobody's gonna get that star from me, just you watch\~.  
+**Yume:** I should get back to the tree now\! Nobody's gonna get that star from me, just you watch\~\.  
 **Yukari:** Yume is looking especially motivated now.  
 **Maki:** You made the right call, Yukari-sama.  
 **Yomi:** Yes. Now it will be harder than ever for those participating to take that star.  
@@ -291,7 +291,7 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Chie:** Eh?  
 **Mihono:** ...Chii-nee\!  
 **Mihono:** Phew... I made it\!  
-**Yume:** Ooh, that was a pretty good move\! I wasn't expecting you to step in\~.  
+**Yume:** Ooh, that was a pretty good move\! I wasn't expecting you to step in\~\.  
 **Mihono:** Chii-nee... Let's get out of here for now\!  
 **Chie:** Ah...  
 **Mihono:** I grabbed your hand pretty hard back there. Was I too rough?  
@@ -353,7 +353,7 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Mai:** I'm sort of the same way.  
 **Ellen:** If we try our hardest, I'm sure things will turn out for the best for one of us.  
 **Ellen:** Let's all work hard and not worry about who's going to win\!  
-**Yume:** Fufu\~. It's looking like I'll be the one getting the star after all.  
+**Yume:** Fufu\~\. It's looking like I'll be the one getting the star after all.  
 **Suzuka:** You shouldn't have said that, Yume. Now they're here.  
 **Mai:** Hyaah-\!  
 **Yume:** I'll play with both of you at once\!  
@@ -375,8 +375,8 @@ And now, the 24th of December. The day of the Five Traditions Unified Christmas 
 **Sayaka:** \!  
 **Yume:** Don't go anywhere, Sayaka-chan\! I'll deal with this onee-san later... Haaah-\!\!  
 **Ellen:** ......  
-**Suzuka:** (She's grinning? To begin with, why would she come to take Yume's attack head on like that?)  
-**Suzuka:** (That's right... When she fought her last time, Yume used hachimanriki like this to knock her... Ah\!)  
+**Suzuka:** (She's grinning? To begin with, why would she come to take Yume's attack head on like that?\)  
+**Suzuka:** (That's right... When she fought her last time, Yume used hachimanriki like this to knock her... Ah\!\)  
 **Suzuka:** You can't do that... Yume\! If you hit her away--  
 **Yume:** Huh?  
 **Ellen:** Just like I wanted, thanks a bunch\!  

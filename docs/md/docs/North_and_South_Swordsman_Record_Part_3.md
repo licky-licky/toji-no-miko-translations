@@ -15,12 +15,12 @@ North and South Swordsman Record Part 3
 **Suu:** But I think I'm definitely not needed here... Sigh... It's scary; I don't want to fight any aradama.  
 **Kiyoka:** I understand the way you're feeling. Me too... I don't want to have to fight if I can help it.  
 **Suu:** ...Musumi-san\!  
-**Suu:** (They give me support and they help me out; maybe I can depend on people from Heijou...?)  
+**Suu:** (They give me support and they help me out; maybe I can depend on people from Heijou...?\)  
 **Suu:** I'll keep being in your care then\!  
 **Kiyoka:** Nn? ...Mmhm, likewise.  
 **Tsugumi:** Shichinosato-san, I'm relying on you to get me aradama data.  
 **Kofuki:** Yeah, count on it.  
-**Suu:** (Ah... Thinking about this the other way around, with all these strong people here, doesn't that make this a really safe mission?)  
+**Suu:** (Ah... Thinking about this the other way around, with all these strong people here, doesn't that make this a really safe mission?\)  
 **Suu:** Shichinosato-san's started looking all excited too.  
 **Kiyoka:** That's usually how she is before we go on a mission.  
 **Kofuki:** You better be letting me play with some aradama-chan tough enough to be worth it, okay?  
@@ -28,7 +28,7 @@ North and South Swordsman Record Part 3
 **Maki:** The site you're going to has a high number of outbreaks.  
 **Sayaka:** Understood.  
 **Suu:** Ahhhhh... Why do you want to go to the most dangerous places?  
-**Suu:** (I just don't get it... Are Shichinosato-san and Itomi-san actually space aliens or something...?)  
+**Suu:** (I just don't get it... Are Shichinosato-san and Itomi-san actually space aliens or something...?\)  
 **Hokuto:** Don't make that face. If it comes down to it, I'll be there to save you.  
 **Suu:** Hokuto-san... I won't leave your side\!\!  
 **Hokuto:** Then we wouldn't be able to fight, would we...?  
@@ -36,7 +36,7 @@ North and South Swordsman Record Part 3
 **Hokuto:** I am. It's rare to join a mission alongside a select group of top fighters. There's nothing to dislike about it.  
 **Kiyoka:** I am feeling a little nervous, but let's try our best to keep up, Asahina-san, Inami-san.  
 **Hokuto:** Of course. It looks like we're about to start. Let's go.  
-**Suu:** Ahhh\~...  
+**Suu:** Ahhh\~\...  
 
 ## 2: That's Why I Said I Didn't Want to Do This...
 **Hokuto:** YAAH\!  
@@ -74,7 +74,7 @@ Elsewhere, Hokuto and the others were--
 **Hokuto:** I only did what I was capable of.  
 **Hokuto:** (Itomi Sayaka, Juujou Hiyori... They really are strong.)  
 **Hokuto:** (It's not that I think I'll get the chance to become that strong just by completing missions with them, but, a toji's strength... There might be no limit to it.)  
-**Hokuto:** (Though... Why are there this many talented individuals in one group to begin with?)  
+**Hokuto:** (Though... Why are there this many talented individuals in one group to begin with?\)  
 **Screaming Voice:** EEEEEEKK\!\?  
 **Screaming Voice:** SOMEBODY HELP MEEEEEEEEEE...\!  
 **Hiyori:** Just now; that's...\!  
@@ -108,8 +108,8 @@ Elsewhere, Hokuto and the others were--
 **Tsugumi:** I understand. Raw data gathered from aradama will be biased, so it's vital to see the aradama moving about up close like this as well.  
 **Tsugumi:** Today is looking to be an auspicious day, with all the aradama I've gotten to see and the data to collect.  
 **Suu:** Ah.  
-**Suu:** (This person too... She's dangerous after all\!)  
-**Suu:** (I don't know how many times I've thought this now, but... Let this be over already-\!)  
+**Suu:** (This person too... She's dangerous after all\!\)  
+**Suu:** (I don't know how many times I've thought this now, but... Let this be over already-\!\)  
 **Kiyoka:** I'm leading this aradama over towards you\!  
 **Kofuki:** Sure\! Don't worry about beating 'em, just keep sending more and more aradama-chan my way\!  
 **Kiyoka:** We're only doing it like this for today, okay?  

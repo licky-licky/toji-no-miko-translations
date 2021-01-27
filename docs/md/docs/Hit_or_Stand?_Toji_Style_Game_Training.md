@@ -39,13 +39,13 @@ Hit or Stand? Toji Style Game Training
 **Maki:** Those who fail will face extra lessons, continuing their training until they've made up for all the points they couldn't collect.  
 **Maki:** And afterwards, they'll be cleaning this facility.  
 **Mai:** (I wonder if they're already testing our judgment from the games we choose...)  
-**Kiyoka:** (Cleaning too... I don't want to have to take extra lessons... What will Kofuki-san and Yanase-san choose to do...?)  
+**Kiyoka:** (Cleaning too... I don't want to have to take extra lessons... What will Kofuki-san and Yanase-san choose to do...?\)  
 **Kofuki:** Yawn... This is taking forever.  
 **Kiyoka:** K-Kofuki-san\! You shouldn't yawn in front of them\!  
 **Suzuka:** You realize, it's too late to be giving her that advice.  
 **Maki:** Shichinosato Kofuki...? Is our explanation boring you?  
 **Kofuki:** Duh. This'd put anybody to sleep.  
-**Kiyoka:** (Ahh\! Kofuki-san\! You can't talk to them like that...\!)  
+**Kiyoka:** (Ahh\! Kofuki-san\! You can't talk to them like that...\!\)  
 **Suzuka:** Maki-san. It seems our explanation is unnecessary, so why don't we begin?  
 **Maki:** I agree, Suzuka. In that case... Everyone, your training starts now\!  
 **Kiyoka:** At least they didn't get mad...  
@@ -250,7 +250,7 @@ Hit or Stand? Toji Style Game Training
 **Kiyoka:** When you were comparing how we play blackjack to how we fight\!  
 **Kofuki:** You were in the middle of doing me, weren't you?  
 **Kofuki:** Ahh... Oh yeah, I was. But I'm done talking about that stuff now.  
-**Kiyoka:** Come on\~.  
+**Kiyoka:** Come on\~\.  
 **Mai:** Now now, that's enough talking.  
 **Mai:** It's time to play blackjack, Shichinosato-san, Musumi-san.  
 **Kofuki:** I'm all warmed up now. I'm gonna win it this time\!  
@@ -324,7 +324,7 @@ Several days later--
 **Kofuki:** Seriously, nothing beats aradama-chan. So, how'd it go, Kiyoka? Did you get her?  
 **Tsugumi:** Yes, she got me good. I never expected her to make a face like that. Here are your drinks. This one is for you, Shichinosato-san.  
 **Kiyoka:** Ah, oh, thank you.  
-**Kiyoka:** (I didn't make any face, but I guess she believed it? ...Actually, this drink, it has a weird color to it... What is it exactly...\!\?\!\??)  
+**Kiyoka:** (I didn't make any face, but I guess she believed it? ...Actually, this drink, it has a weird color to it... What is it exactly...\!\?\!\??\)  
 **Kofuki:** Bleh, this's awful\!  
 **Tsugumi:** Is it? I blended fish oil, dried sardines, oyster, and other marine products into milk. I've had an interest in it lately.  
 **Kofuki:** Don't put fish in milk\! Shit, you made me drink something messed up again\!  

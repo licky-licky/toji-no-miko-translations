@@ -7,7 +7,7 @@ Chain Story Archives Part 0.5.1
 **Minato:** Sigh... Not much time left in our New Year's break, huh. I didn't get to mess around anywhere near as much as I wanted... Hey, Kagari, wanna go have some fun somewhere?  
 **Kagari:** Why would I go with you, Minato-senpai... Besides, I have my work to do for the Origami family, so no thank you.  
 **Minato:** Ehh-, then what about if I invite Yukari too? That way you'd have to come along with us. When should we go? Hey-, when do you have some free time?  
-**Kagari:** (Sigh, she always forces things to go her way... Honestly, why does she feel the need to involve herself in others' business like this?)  
+**Kagari:** (Sigh, she always forces things to go her way... Honestly, why does she feel the need to involve herself in others' business like this?\)  
 **Yukari:** Minato, I hate to tell you this, but we won't have any time to enjoy ourselves. Starting tomorrow, at Yuzuki-senpai's proposal, we of Renpu Senior High School's Unit One will be undergoing a training camp.  
 **Kagari:** A training camp\!\?  
 The next day.
@@ -18,9 +18,9 @@ The next day.
 **Yukari:** The two of them are busy with a mission and won't be attending. I thought I told you that yesterday.  
 **Minato:** Ahaha, you did? I might've been too distracted figuring out what snacks to bring to listen.  
 **Kagari:** (Sigh... She isn't showing an ounce of stress. Well, it's not as if Minato-senpai's the only one like that...)  
-**Sagami Yukina:** Sana, will you look at this\! Aren't these pajamas so cute? I bought them just for today, after I heard I would be staying the night with Yukari-onee-sama\~.  
+**Sagami Yukina:** Sana, will you look at this\! Aren't these pajamas so cute? I bought them just for today, after I heard I would be staying the night with Yukari-onee-sama\~\.  
 **Arami Sana:** Whoa-, that's super frilly... I bet it'd look great on you, Yukina-senpai.  
-**Yukina:** Wouldn't it\~? Fufu, tonight I'll be sleeping in this, holding hands with Yukari-onee-sama\~. I can't wait\~\!  
+**Yukina:** Wouldn't it\~? Fufu, tonight I'll be sleeping in this, holding hands with Yukari-onee-sama\~\. I can't wait\~\!  
 **Yukina:** Hiiragi-san, just so you know, the futon next to Yukari-onee-sama belongs to me\! I'm not letting you have it no matter what.  
 **Kagari:** Sigh... Sorry to spoil your fun, but Yukari-sama has said she will be sleeping in her own private room.  
 **Yukina:** What did you say\!\? Don't tell me, you're the one who put Yukari-onee-sama up to this...  
@@ -31,7 +31,7 @@ The next day.
 **Minato:** Hmm, then, how about we make a trade? You let me borrow that game you're bringing and it's a deal.  
 **Sana:** Eh-\!\? But I just bought this game\! I was only bringing it 'cause I thought I'd be able to 100% it during the camp-\!  
 **Kagari:** (Sigh... None of them are taking this seriously at all.)  
-**Kagari:** (This training camp is an important step in preparing our unit to be strong enough should a great disaster happen... Do they not understand our purpose here?)  
+**Kagari:** (This training camp is an important step in preparing our unit to be strong enough should a great disaster happen... Do they not understand our purpose here?\)  
 **Kagari:** (No, they must understand it. It's just that, when the time comes, the weight of their duties isn't as heavy as the one I must do. That's why they can be so carefree...)  
 **Minato:** Yukari, Yuzuki-senpai, here we go-\! TAAAAAAA-\!  
 **Kagari:** (I wasn't sure how things would turn out at first, but I should have expected this from Minato-senpai. The moment we began to practice, she became so serious it was like looking at a different person.)  
@@ -65,7 +65,7 @@ The next day.
 **Sana:** It's all good. Sweets go in a different stomach, right? Besides, if we have to, Minato-senpai and me'll take responsibility and eat all of it\!  
 **Kagari:** Really now... Do you know where Sagami-san went, by the way? I haven't seen her since we came in.  
 **Sana:** If you're looking for Yukina-senpai, she's over at the counter there.  
-**Yukina:** Fufufu\~. Fish broiled in soy sauce, chopped burdock, spinach in tofu salad with white miso dressing; since Yukari-onee-sama loves Japanese style dishes, she'll be so happy.  
+**Yukina:** Fufufu\~\. Fish broiled in soy sauce, chopped burdock, spinach in tofu salad with white miso dressing; since Yukari-onee-sama loves Japanese style dishes, she'll be so happy.  
 **Kagari:** Wait, Sagami-san, aren't these all pre-packaged side dishes? The mission we were given was to work together, from buying the ingredients to cooking dinner. Just buying them pre-packaged is missing the point.  
 **Yukina:** Well, if I tried to work with you two, we'd never finish even if we had all the time in the world.  
 **Kagari:** But it's our objective here to do something about that. Let's first think up a menu together... Sana, please stop buying any more snacks.  
@@ -118,13 +118,13 @@ The next day.
 **Yukari:** At any rate, we don't have much time to prepare dinner, so starting now let's all work together regardless of class.  
 **Kagari/Yukina/Sana:** Right.  
 **Yukari:** Kagari, I'll be getting the broth together, so come help me.  
-**Yukina:** Yukari-onee-samaa, if you need help, I'll do it for youu\~.  
+**Yukina:** Yukari-onee-samaa, if you need help, I'll do it for youu\~\.  
 **Kagari:** I don't feel quite right leaving you in charge of the flavor. I know the way they make it in the Origami househould, so I'll help with this.  
 **Yukina:** What's with you\!\? I just want to cook with Onee-sama too, okay\!  
 **Minato:** Yukina, if you're free, come help me out. We'll chop up the leftover veggies together.  
 **Yukina:** Why do I have to be with Minato-senpai...  
 **Yukari:** Yukina, right now, what we need to do is cooperate to finish making dinner. Please go lend Minato a hand.  
-**Yukina:** If you're the one asking me, Onee-sama, then I'll do my best\~.  
+**Yukina:** If you're the one asking me, Onee-sama, then I'll do my best\~\.  
 **Minato:** Hey, now you're looking motivated. So then, Yukina, let's have a contest to see who can chop them up the fastest\!  
 **Yukina:** Why would we compete... Still, if that's how it is, then there's no way I'll lose.  
 **Kagari:** (Incredible, as soon as everyone decided on a goal and began to cooperate, the cooking is quickly coming along... That's the effect teamwork has...)  

@@ -65,7 +65,7 @@ Team vs Team in the White Day Wars
 **Sayaka:** Mai, the cookies...  
 **Mai:** We'll have to leave them now and finish cooking later, okay?  
 **Sayaka:** Okay\!  
-**Kamo Chinami:** So those four went and started baking sweets? Looking pretty girly in here\~. I could start taking notes\!  
+**Kamo Chinami:** So those four went and started baking sweets? Looking pretty girly in here\~\. I could start taking notes\!  
 **Chinami:** --Ahh\! That reminds me, Chinatsu-chan and Hoozuki-chan asked me for some White Day lessons\! I'd better go see them as soon as these aradama are dealt with\!  
 
 ## 3: Chinami-sensei's White Day Lecture
@@ -96,7 +96,7 @@ Team vs Team in the White Day Wars
 **Chinami:** Okay\! I'll count on you\! And, Kanami-chan and Mihono-chan? Is it okay if I tag along with your team?  
 **Kanami:** Of course\! We'd love to have you\!  
 **Saaya:** ...The White Day Wars. It seems like there's already a huge stockpile of candy and marshmallows gathered from aradama.  
-**Saaya:** But I'd like to give everyone a taste of something a little better. I'll just add a special ingredient\~.  
+**Saaya:** But I'd like to give everyone a taste of something a little better. I'll just add a special ingredient\~\.  
 
 ## 4: After the Sour Konbu Culprit\!
 **Kanami:** We sure pulled in a lot of candy and marshmallows, huh. It takes a while for just two people to move around.  
@@ -121,7 +121,7 @@ Team vs Team in the White Day Wars
 **Kanami:** Saaya-san\! Answer us\! Why are you mixing sour konbu in with the candies\!\? That's really mean for a prank\!  
 **Saaya:** P-Prank\!\? Sweets and sour konbu go hand in hand like perfect matrimony\! Don't you feel the same way\!\?  
 **Mihono:** ...M-Mattremoney?  
-**Saaya:** It means marriage in French\~. When the two combine, their flavors enhance each other.  
+**Saaya:** It means marriage in French\~\. When the two combine, their flavors enhance each other.  
 **Saaya:** I was only giving everyone a taste of something better\!  
 **Kanami:** ...Saaya-san, please listen carefully. Candy and sour konbu don't go together at all.  
 **Saaya:** Hmph\! That's not true...\! Everyone knows sweet and sour things have high affinity for each other...  
@@ -141,19 +141,19 @@ Team vs Team in the White Day Wars
 **Kanami:** That's a bigger issue\! We can deal with Saaya-san later; let's hurry\!  
 
 ## 5: Kotatsu Roundtable
-**Uraga Nao:** Ahh\~, reunited with Kotatsu-san at last\~. If an aradama showed up right now, I don't know that I'd be able to escape from under here again\~.  
-**Mizushina Kinuka:** That's no good\~. But kotatsu have magic that makes you powerless the moment you enter them, after all\~.  
-**Nao:** You get it, Mizushina-san\~. Here, eat some oranges.  
-**Kinuka:** Don't go pushing unpeeled oranges in my face\! But thank you, I will\~.  
-**Kinuka:** Anyway, everybody sure seems to be getting all worked up over these White Day Wars\~. Not like it has anything to do with us tucked away in here though\~.  
-**Nao:** But it's doing a nice job of raising morale, isn't it\~. Speaking of which, what are the rankings like now?  
+**Uraga Nao:** Ahh\~, reunited with Kotatsu-san at last\~\. If an aradama showed up right now, I don't know that I'd be able to escape from under here again\~\.  
+**Mizushina Kinuka:** That's no good\~\. But kotatsu have magic that makes you powerless the moment you enter them, after all\~\.  
+**Nao:** You get it, Mizushina-san\~\. Here, eat some oranges.  
+**Kinuka:** Don't go pushing unpeeled oranges in my face\! But thank you, I will\~\.  
+**Kinuka:** Anyway, everybody sure seems to be getting all worked up over these White Day Wars\~\. Not like it has anything to do with us tucked away in here though\~\.  
+**Nao:** But it's doing a nice job of raising morale, isn't it\~\. Speaking of which, what are the rankings like now?  
 **Kinuka:** Let's see. Seems like first place is still Shichinosato-san and Ban-san. Their lead just keeps pulling farther ahead of the others.  
 **Kinuka:** Shichinosato-san seems to be in unusually good condition to be going at those aradama so enthusiastically. Could they be doping?  
 **Kinuka:** In second place is Kohagura-san's team. Though with the slacker Mashiko-san with her, they seem to be struggling to compete.  
-**Nao:** That girl never changes. Though, when it comes to a volunteer event like this, I can sort of understand how she feels\~.  
-**Nao:** And I can't exactly say the prize is worth the effort either\~.  
+**Nao:** That girl never changes. Though, when it comes to a volunteer event like this, I can sort of understand how she feels\~\.  
+**Nao:** And I can't exactly say the prize is worth the effort either\~\.  
 **Kinuka:** Uraga-san, you know what the winner gets?  
-**Nao:** Ara, you mean you don't know, Mizushina-san? If you come in first... Ah, your phone's ringing\~.  
+**Nao:** Ara, you mean you don't know, Mizushina-san? If you come in first... Ah, your phone's ringing\~\.  
 **Kinuka:** ...Understood\! We'll be there right away.  
 **Kinuka:** --That was an urgent request. More aradama have appeared. Uraga-san, it seems we're needed.  
 **Nao:** I see, a swarm of aradama have been sighted in northeastern Izu. Reports from the scene say there could be up to one hundred of them. Several larger aradama were seen as well.  
@@ -219,7 +219,7 @@ Team vs Team in the White Day Wars
 **Kanami:** They're finally publishing the results of the White Day Wars. I'm getting goosebumps...  
 **Mihono:** Thanks to Kiyoka joining us, we managed to haul in tons of sweets towards the end\! We might've pulled off a big reversal...\!  
 **Kiyoka:** Hono-chan, I helped you out, so you have to let me see your confession after, remember?  
-**Mihono:** I-I don't know what you're talking about\~...  
+**Mihono:** I-I don't know what you're talking about\~\...  
 **Tsugumi:** We held first place through most of the competition, but I'm not sure about the results... Shichinosato-san only went after larger aradama in the second half, so our numbers could have fallen behind...  
 **Tsugumi:** Even after my sweets gave you a boost too...  
 **Kofuki:** It's not like I care about this ranking stuff anyway. I got to kill a ton of aradama, so I'm satisfied.  

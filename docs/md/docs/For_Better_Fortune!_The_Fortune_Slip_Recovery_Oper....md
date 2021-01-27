@@ -28,7 +28,7 @@ For Better Fortune! The Fortune Slip Recovery Oper...
 **Mihono:** Pant, pant... I got it, but... It feels like there's way less in here than there used to be...\!  
 **Mihono:** Ah, Yui? What's up?  
 **Yui:** You're never going to believe this\! I'm out on a walk with Kiyoka-chan right now, and we ran into an aradama, and I beat it, but, that aradama had a fortune slip for some reason. And it was a great blessing too\~\!  
-**Yui:** I'm so lucky\~, it sounds like this year I'll be getting way closer with Kiyoka-chan\~.  
+**Yui:** I'm so lucky\~, it sounds like this year I'll be getting way closer with Kiyoka-chan\~\.  
 **Mihono:** THAT'S... THAT'S MY FORTUNE SLIIIIP\~\!\!  
 **Yui:** I get why you'd be jealous\~\! You want it too, don't you\! A blessing with Kiyoka-chan\! But, there's nothing you could do to make me hand this over, Mihono-chan...  
 **Yui:** Ah, wait... If you're willing to do anything, then...\! If you just do one little favor for me, I might think about letting you have this blessing, you know?  
@@ -57,7 +57,7 @@ For Better Fortune! The Fortune Slip Recovery Oper...
 **Yui:** Are you sure? How exactly do you know what I'm imagining anyway? What were you imagining, Kiyoka-chan?  
 **Kiyoka:** Fwaah\!\?\!\? I-I don't know\!\!  
 **Mihono:** What are you two still standing around talking for? Chii-nee's waiting for us, so let's go-\!  
-**Yui:** Okaaay\~.  
+**Yui:** Okaaay\~\.  
 **Mihono:** Chii-nee, I'm really sorry I left you here for so long\!  
 **Chie:** We were okay. Anyway, did you get the fortune slips back?  
 **Mihono:** Yui and Kiyoka helped out, so we managed to get a lot of them\! Here you go, Grandpa.  

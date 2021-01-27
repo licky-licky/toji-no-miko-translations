@@ -26,7 +26,7 @@
 May 2019.
 
   
-**Mihono:** M-Makeup lessons are over\~... Good work today, Kanami\~.  
+**Mihono:** M-Makeup lessons are over\~\... Good work today, Kanami\~\.  
 **Mihono:** Also, thanks for helping us study, Mai.  
 **Mai:** This is about all I can do, so don't think anything of it, Mihono-chan.  
 **Mai:** We'll all go up a year together, for sure.  
@@ -260,7 +260,7 @@ May 2019.
 **Kiyoka:** Of course\!  
 **Mihono:** What're you two talking about, Kiyoka-?  
 **Kiyoka:** Nothing at all, Hono-chan\! Anyway, aren't you looking forward to the hot springs\!  
-**Mihono:** Yeah\! Hot springs\~, hot springs\~.  
+**Mihono:** Yeah\! Hot springs\~, hot springs\~\.  
 **Mirja:** ......  
 **Mirja:** Was this for the best, Setouchi Chie? Asakura Mihono is...  
 **Chie:** After suddenly getting a lot stronger, she can't get her mental balance right, can she.  
@@ -285,18 +285,18 @@ May 2019.
 **Mihono:** Uhh... I can't really remember much about it.  
 **Kofuki:** Well, dreams are like that. You'll stop having them sooner or later.  
 **Mihono:** ...Yeah, you're right.  
-**Mihono:** (You'll stop having them sooner or later... Yeah, that's all there is to dreams\!)  
+**Mihono:** (You'll stop having them sooner or later... Yeah, that's all there is to dreams\!\)  
 **Mihono:** Okaaay\! I'm gonna get in the hot springs and sleep nice and sound tonight\!  
 
 ## 7: Cracking Glass
 **Mihono:** (Ahh... It's this again.)  
-**Mihono:** (Who is that anyway... Why are they going to the fire...?)  
+**Mihono:** (Who is that anyway... Why are they going to the fire...?\)  
 **Asakura Mihono?:** ......  
-**Mihono:** (Eh, it's me\!\?)  
+**Mihono:** (Eh, it's me\!\?\)  
 **Mihono:** Gh, agh\! It burns...\!  
 **Mihono:** U-Ugh... Aghh\!  
-**Mihono:** (The fire... It's coming into my body... I can feel it burning everywhere from the inside too...\!)  
-**Mihono:** (It burns... It's burning...\! Like I'm really burning alive...\!)  
+**Mihono:** (The fire... It's coming into my body... I can feel it burning everywhere from the inside too...\!\)  
+**Mihono:** (It burns... It's burning...\! Like I'm really burning alive...\!\)  
 **Mihono:** UWAAAAAAAAGGGHHHHHH\!  
 **Mihono:** -\!\!  
 **Mihono:** [pant, pant]... What was that dream just now...  
@@ -351,7 +351,7 @@ May 2019.
 **Mirja:** That's right. I used kantougan to examine it as well, and it didn't have any such ability.  
 **Mirja:** (That reminds me, when I visited Asakura Mihono's grandfather, Mr. Yoshizumi, he seemed to believe that the tip of Kashuu Kiyomitsu was embedded in Asakura Mihono's body...)  
 **Mirja:** (If that wasn't a supposition, but the truth... Asakura Mihono would be someone joined with an okatana. Which would mean she is constantly at the risk of her power running rampant.)  
-**Mirja:** (Even so, at the very least, she must have been controlling it up until now. What would have caused that to change...?)  
+**Mirja:** (Even so, at the very least, she must have been controlling it up until now. What would have caused that to change...?\)  
 **Chie:** Mirja?  
 **Mirja:** ...Asakura Mihono. You are forbidden from fighting with your full strength.  
 **Mirja:** At least, until our research on Kashuu Kiyomitsu makes progress, please refrain from using Kashuu Kiyomitsu's power.  
@@ -368,7 +368,7 @@ May 2019.
 **Mihono:** ...  
 **Mihono:** (Chii-nee and Mirja-san, they're both worried about me...)  
 **Mihono:** (But... Kashuu Kiyomitsu, it's the okatana my mother left me. I've been fighting with it all this time...)  
-**Mihono:** (There's no way my partner could be something bad\!)  
+**Mihono:** (There's no way my partner could be something bad\!\)  
 **Mihono:** ...I got it.  
 **Mihono:** But, I can't just wait for the investigation to find something. I want to do something about it too\!  
 **Mirja:** You want to do something...? I see. In that case, why not train to control Kashuu Kiyomitsu's power?  
@@ -399,7 +399,7 @@ May 2019.
 **Kaoru:** Yep. She's serious deep down, but she always manages to show up late-.  
 **Mihono:** If she's a delinquent, is she just skipping?  
 **Kaoru:** Nah, she's an honest kind of person, so even if she's late, she still makes sure to show up. It's just, somehow, she always gets caught up in trouble.  
-**Mihono:** (She's a delinquent, but she's honest, but she shows up late a lot... Why does that sound familiar...?)  
+**Mihono:** (She's a delinquent, but she's honest, but she shows up late a lot... Why does that sound familiar...?\)  
 **Kaoru:** Though, it'd be pretty sad if we ended up late ourselves cause we were talking about her, so let's get out there.  
 **Mihono:** Ah, right\!  
 **Sayaka:** HA-\!  
@@ -408,7 +408,7 @@ May 2019.
 **Mihono:** That's for sure\! ...YAAA\!  
 **Kaoru:** Ohh, you're doing great, Mihono. How's things with your okatana?  
 **Mihono:** Uhh... Yeah, it seems okay.  
-**Mihono:** (Like Kaoru-san said, I might be doing great\! Kashuu Kiyomitsu isn't showing any signs of going rampant, so I'll try holding onto this feeling\!)  
+**Mihono:** (Like Kaoru-san said, I might be doing great\! Kashuu Kiyomitsu isn't showing any signs of going rampant, so I'll try holding onto this feeling\!\)  
 **Mihono:** Is that sound a motorcycle...?  
 **Kaoru:** Huh, she got here faster than I expected.  
 **Sayaka:** A Minoseki... and Ayanokouji toji?  
@@ -453,7 +453,7 @@ May 2019.
 **Aradama:** GUOOOOOOOO\!\!  
 **Mihono:** YAAAAA\!  
 **Kaoru:** (She's struggling a bit? Feels like her concentration is falling off.)  
-**Kaoru:** (...Nn?)  
+**Kaoru:** (...Nn?\)  
 **Sayaka:** Kaoru, there's more aradama again.  
 **Kaoru:** What are these, reinforcements...?  
 **Akira:** What should we do, Kaoru?  

@@ -22,7 +22,7 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Beachgoer C:** Let's get out of here\! We gotta find a place to hide\!  
 **Mihono:** Aradama in the town...?  
 **Taeko:** I'll confirm this with the Special Ritual Squad\! I hate to ask you, but could you three make sure everything's okay in town?  
-**Mihono:** Ughh\~ Why'd this have to happen nowww\~... Alright\! We'll be right there\!  
+**Mihono:** Ughh\~ Why'd this have to happen nowww\~\... Alright\! We'll be right there\!  
 **Kiyoka:** Eh, ah...  
 **Mirja:** Musumi Kiyoka, we have to hurry\!  
 **Kiyoka:** O-Okay...\!  
@@ -30,7 +30,7 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Passerby 2:** Eek\! Anybodyyy\!  
 **Aradama:** GUUOOOOO...\!  
 **Mihono:** There they are\! Aradama\!  
-**Kiyoka:** Uuu... They really areee\~... And there's a lot of them too...  
+**Kiyoka:** Uuu... They really areee\~\... And there's a lot of them too...  
 **Mirja:** We won't have time to wait for support... We'll have to suppress them here\!  
 **Aradama:** GUAAAAAAAA...  
 **Mihono:** Phew... That's the last of them, I think?  
@@ -44,8 +44,8 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Riot Officer:** About that... They're also lacking toji able to respond here in any hurry, so forming a unit of reinforcements could take some time...  
 **Mihono:** Mirja-san, we should go into the mountains to help stop the aradama\! We can't risk the chance of them attacking people on the beach\!  
 **Mirja:** You're right. Then, we will be mobilizing as of now. Our objective is locating the sites of the aradama outbreak, and eliminating them.  
-**Kiyoka:** O-Okay\~...  
-**Kiyoka:** (Awww... My summer vacation\~...)  
+**Kiyoka:** O-Okay\~\...  
+**Kiyoka:** (Awww... My summer vacation\~\...)  
 **???:** Fu Fu Fu...\! I didn't expect to encounter them here... This is my chance to gather data on the investigation team members\!  
 
 ## 2: A Call for Relief and a Hole in the Beach
@@ -109,7 +109,7 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Kiyoka:** Huh...?  
 **Aradama:** GUOOOOOO\!  
 **Kiyoka:** It's got me...\!  
-**Kiyoka:** (I can't... It's no use...\!)  
+**Kiyoka:** (I can't... It's no use...\!\)  
 **Aradama:** Gwaaaaa...\!  
 **Hiyori:** What do you think you're doing\!\? Don't look away from your enemy\!  
 **Kiyoka:** Eh...? Is that you, Juujou-san...\!\?  
@@ -127,7 +127,7 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Mai:** Right\! And it's not just us; all the regular beachgoers wouldn't be able to enjoy themselves either\!  
 **Kiyoka:** Juujou-san, Itomi-san, and Yanase-san...\!  
 **Kiyoka:** (That's right, everyone else is going through this too... I'm not the only one who came here to have a good time... Somehow, I hadn't realized that...)  
-**Kiyoka:** (But I can't keep just complaining about it\!)  
+**Kiyoka:** (But I can't keep just complaining about it\!\)  
 **Kiyoka:** Hah-- Yaaaaa-\!  
 **Aradama:** GWAAAaaaaaa...  
 **Mirja:** Fu, you've finally gotten serious.  

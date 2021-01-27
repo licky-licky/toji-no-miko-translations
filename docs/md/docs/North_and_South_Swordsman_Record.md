@@ -16,7 +16,7 @@ As this event came in 3 parts, it's separated into 3 videos.
 **Suu:** You don't know how lucky we are we got tickets for such good seats. That's all thanks to you applying for the lottery for us, Hokuto-san\!  
 **Suu:** Ah, what did you think, anyway? About Garden's mini-live concert\!  
 **Hokuto:** This was my first time seeing an idol concert, so it felt very fresh...  
-**Suu:** I'm glad you liked it then\~. I'll give you the CD and scarf towel I bought in case I could turn someone into a future fan\!  
+**Suu:** I'm glad you liked it then\~\. I'll give you the CD and scarf towel I bought in case I could turn someone into a future fan\!  
 **Hokuto:** Ah... Thank you. You really like those girls, don't you. I hadn't heard of these idols at all before though.  
 **Suu:** Garden still has that feeling like, only those in the know know how good they are, so I'm not surprised-.  
 **Suu:** Early on, the two of them both wanted to go solo, so they couldn't get along. Garden back then... You could say it was more of a wasteland.  
@@ -58,14 +58,14 @@ As this event came in 3 parts, it's separated into 3 videos.
 **Hokuto:** We're going... Suu.  
 **Suu:** C-Can't we at least wait for the toji in charge of the area to show up? Let's do that\!  
 **Hokuto:** We can't. We mustn't turn a blind eye to aradama. Even if I have to go alone... I'm going.  
-**Suu:** Ahh-, fine\~\~... I-I got it. I got it, okay, so please, don't go off on your ownnn...\!  
+**Suu:** Ahh-, fine\~\~\... I-I got it. I got it, okay, so please, don't go off on your ownnn...\!  
 **Hokuto:** Thank you. Let's hurry.  
 **Hokuto:** HAA\!  
 **Aradama:** ......  
 **Hokuto:** Kh... There are too many people... This could be bad.  
 **Suu:** Hokutoo-saaaan... I can't go on any more-.  
 **Hokuto:** Once backup arrives, this will be easier... Just hold out a little longer. You can still use utsushi, can't you?  
-**Suu:** You said that a while ago\~\~...  
+**Suu:** You said that a while ago\~\~\...  
 **Aradama:** ...GUGGGGI\!  
 **Suu:** Awawawa... There's a really big one coming our way-\!\?  
 **Sanae:** We're here to support you\!  
@@ -200,8 +200,8 @@ Before the start of the Renpu Heijou Joint-Training.
 **Yume:** What do we have to do?  
 **Yomi:** We need to instruct everyone gathered here on the details of their training. Though, I believe Shidou-san and Konohana-san will handle most of that...  
 **Yume:** Then, you don't need me, do you? If I don't get to fight all the strong people I want, then I want to go home-\!  
-**Suu:** (I don't want to get involved with Tsubakuro-san... No, I don't want anything to do with anyone from the elite guard\!)  
-**Suu:** (Back then... When we met in Okinawa, they were way too scary...\!)  
+**Suu:** (I don't want to get involved with Tsubakuro-san... No, I don't want anything to do with anyone from the elite guard\!\)  
+**Suu:** (Back then... When we met in Okinawa, they were way too scary...\!\)  
 **Maki:** Well if it isn't Asahina Hokuto and Inami Suu.  
 **Suu:** HYAAU\!\?  
 **Maki:** ? What's wrong with her?  
@@ -216,8 +216,8 @@ Before the start of the Renpu Heijou Joint-Training.
 **Maki:** If there's an increase in aradama appearances, the amount of missions will go up too. In which case, you won't only be fighting with the companions you're used to.  
 **Maki:** With that situation in mind, you'll be divided into groups by lottery. Don't go swapping your results after you draw them.  
 **Maki:** Twenty minutes after the groups are assembled, we'll carry out group battles\!  
-**Suu:** (Hokuto-san, Hokuto-san\! Please let me be with Hokuto-san\!)  
-**Suu:** (Also, please don't let me be with anyone scary...\!\!)  
+**Suu:** (Hokuto-san, Hokuto-san\! Please let me be with Hokuto-san\!\)  
+**Suu:** (Also, please don't let me be with anyone scary...\!\!\)  
 **Hokuto:** This is how it goes sometimes.  
 **Suu:** Right, I'm so glad... God granted my prayers\!  
 **Suu:** Or at least, half of them...  
@@ -283,20 +283,20 @@ Before the start of the Renpu Heijou Joint-Training.
 **Kiyoka:** ...But, didn't you say you understood that before?  
 **Hokuto:** ......  
 **Suu:** (Ah-... I think Hokuto-san's mad... I'm not even the one who made her mad, but I'm feeling sort of uneasy.)  
-**Suu:** (I wish that someone would step in and reconcile this... Even someone from the elite guard would be fine, just, won't someone stop them?)  
+**Suu:** (I wish that someone would step in and reconcile this... Even someone from the elite guard would be fine, just, won't someone stop them?\)  
 **Yume:** Nn-? Huh, Onee-san?  
 **Suu:** Ah, I didn't mean it after all\!  
 **Yume:** Didn't mean what?  
 **Suu:** ...It's nothing.  
 **Yume:** I think I might've seen you before. Did we meet somewhere, Onee-san?  
 **Suu:** Ehh-... Ahh-... Umm-... Uhh-...  
-**Suu:** (What should I do, what should I do... Maybe it'd be fine if I said honestly, we met last year in Okinawa? But, but, if I pretend like she's got the wrong person, maybe she'll lose interest and go away\!\?)  
+**Suu:** (What should I do, what should I do... Maybe it'd be fine if I said honestly, we met last year in Okinawa? But, but, if I pretend like she's got the wrong person, maybe she'll lose interest and go away\!\?\)  
 **Yume:** I can't tell what you mean when you just say "Uhh-...", Onee-san.  
 **Suu:** Th-There's no way we could have met anywhere before, Tsubakuro-sama...  
 **Yume:** Why're you calling me Tsubakuro-sama even though I'm younger? Wait, this feels familiar for some reason...  
 **Suu:** AWAWA...\! Umm, umm... It looks like you elite guard are having another tough day of work, huh\!  
 **Yume:** Not really-... There's nothing to do, so I'm just bored. It's not like I get to fight anybody strong either-.  
-**Yume:** I'm tired of this, so I'm going to go play with Yukari-sama\! Bye bye\~.  
+**Yume:** I'm tired of this, so I'm going to go play with Yukari-sama\! Bye bye\~\.  
 **Suu:** Tsubakuro-san... You're as free spirited as ever... I'm jealous...  
 **Announcer:** We are beginning the next match, so will the following groups please prepare straight away.  
 
@@ -366,12 +366,12 @@ Before the start of the Renpu Heijou Joint-Training.
 **Suu:** But I think I'm definitely not needed here... Sigh... It's scary; I don't want to fight any aradama.  
 **Kiyoka:** I understand the way you're feeling. Me too... I don't want to have to fight if I can help it.  
 **Suu:** ...Musumi-san\!  
-**Suu:** (They give me support and they help me out; maybe I can depend on people from Heijou...?)  
+**Suu:** (They give me support and they help me out; maybe I can depend on people from Heijou...?\)  
 **Suu:** I'll keep being in your care then\!  
 **Kiyoka:** Nn? ...Mmhm, likewise.  
 **Tsugumi:** Shichinosato-san, I'm relying on you to get me aradama data.  
 **Kofuki:** Yeah, count on it.  
-**Suu:** (Ah... Thinking about this the other way around, with all these strong people here, doesn't that make this a really safe mission?)  
+**Suu:** (Ah... Thinking about this the other way around, with all these strong people here, doesn't that make this a really safe mission?\)  
 **Suu:** Shichinosato-san's started looking all excited too.  
 **Kiyoka:** That's usually how she is before we go on a mission.  
 **Kofuki:** You better be letting me play with some aradama-chan tough enough to be worth it, okay?  
@@ -379,7 +379,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Maki:** The site you're going to has a high number of outbreaks.  
 **Sayaka:** Understood.  
 **Suu:** Ahhhhh... Why do you want to go to the most dangerous places?  
-**Suu:** (I just don't get it... Are Shichinosato-san and Itomi-san actually space aliens or something...?)  
+**Suu:** (I just don't get it... Are Shichinosato-san and Itomi-san actually space aliens or something...?\)  
 **Hokuto:** Don't make that face. If it comes down to it, I'll be there to save you.  
 **Suu:** Hokuto-san... I won't leave your side\!\!  
 **Hokuto:** Then we wouldn't be able to fight, would we...?  
@@ -387,7 +387,7 @@ Before the start of the Renpu Heijou Joint-Training.
 **Hokuto:** I am. It's rare to join a mission alongside a select group of top fighters. There's nothing to dislike about it.  
 **Kiyoka:** I am feeling a little nervous, but let's try our best to keep up, Asahina-san, Inami-san.  
 **Hokuto:** Of course. It looks like we're about to start. Let's go.  
-**Suu:** Ahhh\~...  
+**Suu:** Ahhh\~\...  
 
 ## 8: That's Why I Said I Didn't Want to Do This...
 **Hokuto:** YAAH\!  
@@ -425,7 +425,7 @@ Elsewhere, Hokuto and the others were--
 **Hokuto:** I only did what I was capable of.  
 **Hokuto:** (Itomi Sayaka, Juujou Hiyori... They really are strong.)  
 **Hokuto:** (It's not that I think I'll get the chance to become that strong just by completing missions with them, but, a toji's strength... There might be no limit to it.)  
-**Hokuto:** (Though... Why are there this many talented individuals in one group to begin with?)  
+**Hokuto:** (Though... Why are there this many talented individuals in one group to begin with?\)  
 **Screaming Voice:** EEEEEEKK\!\?  
 **Screaming Voice:** SOMEBODY HELP MEEEEEEEEEE...\!  
 **Hiyori:** Just now; that's...\!  
@@ -459,8 +459,8 @@ Elsewhere, Hokuto and the others were--
 **Tsugumi:** I understand. Raw data gathered from aradama will be biased, so it's vital to see the aradama moving about up close like this as well.  
 **Tsugumi:** Today is looking to be an auspicious day, with all the aradama I've gotten to see and the data to collect.  
 **Suu:** Ah.  
-**Suu:** (This person too... She's dangerous after all\!)  
-**Suu:** (I don't know how many times I've thought this now, but... Let this be over already-\!)  
+**Suu:** (This person too... She's dangerous after all\!\)  
+**Suu:** (I don't know how many times I've thought this now, but... Let this be over already-\!\)  
 **Kiyoka:** I'm leading this aradama over towards you\!  
 **Kofuki:** Sure\! Don't worry about beating 'em, just keep sending more and more aradama-chan my way\!  
 **Kiyoka:** We're only doing it like this for today, okay?  

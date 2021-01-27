@@ -13,7 +13,7 @@ https://mega.nz/file/9IJiFQwa#fyo_xuN0A3K8HX4Lcphtl-KMabHlB-PBMnLAWGmX0X8
 **Hiyori:** You did? Though it sounds just like something you'd do.  
 **Kanami:** Ah, Hiyori-chan. What's up?  
 **Hiyori:** What do you mean, "What's up?" You're the one who said to meet here so we could spar now.  
-**Kanami:** Oh yeah\! Then, let's get right to it\! I'll catch up with you later, Mai-chan\~.  
+**Kanami:** Oh yeah\! Then, let's get right to it\! I'll catch up with you later, Mai-chan\~\.  
 **Mai:** Okay. Be sure not to get hurt, you two.  
 **Mai:** ......  
 **Mahiru:** Mai-chan?  
@@ -65,7 +65,7 @@ https://mega.nz/file/lNQ1zYzR#aLAw1bVW8AeuquMf6OidutCAUkSJcGy2apIy0d4vQZY
 **Mai:** It was. Though, I don't know if I'll be able to put it into practice straight away.  
 **Mahiru:** It would be difficult to use your okatana the same way I use my weapon, wouldn't it.  
 **Mai:** I think it's incredible enough that you can use that weapon like a baton, Tsuyuzaki-san\!  
-**Mahiru:** You keep flattering me so much, Mai-chan\~.  
+**Mahiru:** You keep flattering me so much, Mai-chan\~\.  
 **Mai:** Ah, by the way. Before we started training, you told me the two of us were alike?  
 **Mahiru:** Yeah, about that. I sort of had the feeling that the relationship between you, Kanami-chan, and Hiyori-chan was similar to us.  
 **Mahiru:** I told you earlier, but, I'm roommates with Karen-chan, and I love her and we've always been together.  
@@ -82,7 +82,7 @@ https://mega.nz/file/lNQ1zYzR#aLAw1bVW8AeuquMf6OidutCAUkSJcGy2apIy0d4vQZY
 **Mai:** You're like our reliable big sister.  
 **Mahiru:** Well, I am a big sister. I have a little sister and brother at home. Maybe it's because of them, but I always find myself wanting to help others.  
 **Mai:** Ah, I have two little sisters myself.  
-**Mahiru:** We're the same\~.  
+**Mahiru:** We're the same\~\.  
 **Mahiru:** I don't mind going out of my way to help people, or I guess I should say, I just feel like I need to do something.  
 **Mahiru:** I used to help even more with Karen-chan in the past. Like helping her get out of bed in the mornings.  
 **Mai:** I can't help myself from taking care of things for my friends either. Though, sometimes they say I'm being overprotective...  
@@ -96,7 +96,7 @@ https://mega.nz/file/lNQ1zYzR#aLAw1bVW8AeuquMf6OidutCAUkSJcGy2apIy0d4vQZY
 **Mahiru:** If you could keep everything in order yourself, Hikari-chan, I wouldn't argue. Can you?  
 **Hikari:** Nn...  
 **Karen:** I want you to help with that, Mahiru-chan. Without you around, our room would look like a disaster zone.  
-**Mahiru:** You and Hikari-chan should make sure to tidy up after yourselves, Karen-chan\~.  
+**Mahiru:** You and Hikari-chan should make sure to tidy up after yourselves, Karen-chan\~\.  
 **Kanami:** Hey, Mai-chan. I've got something I want to ask from you.  
 **Mai:** Like what? I'm all ears.  
 **Kanami:** I was eating the sweets Daiba-san made earlier. And I started wanting to have some of your cookies.  

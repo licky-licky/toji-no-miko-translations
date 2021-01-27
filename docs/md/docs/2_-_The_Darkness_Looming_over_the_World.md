@@ -13,13 +13,13 @@
 **Mihono:** ...Hmm\~, I don't feel mad about it though?  
 **Chie:** ...Why not?  
 **Mihono:** Why not...? Well I never even noticed, so I wouldn't have found out unless you told me.  
-**Mihono:** Wouldn't it be weirder if I got mad about something I didn't know? In fact, it's more like I think it's pretty cool how you managed to keep all that a secret, Chii-nee\~.  
+**Mihono:** Wouldn't it be weirder if I got mad about something I didn't know? In fact, it's more like I think it's pretty cool how you managed to keep all that a secret, Chii-nee\~\.  
 **Kiyoka:** As for me... I know you're a good person, Setouchi-san. If someone like you has to tell a lie, I'm sure you're doing it for a good reason...  
 **Kiyoka:** That's why I won't really... I won't hold it against you\!  
 **Chie:** And what if being a good person was just another part of my act?  
 **Kiyoka:** Even then, I wouldn't mind... Even if you were acting, the fact remains that you were so kind to me... That's enough for me.  
 **Chie:** You two... Thanks.  
-**Mihono:** C'mon, quit worrying about it already\! You're such a downer, Chii-nee\~. Besides, everyone's got a secret or two they haven't told anybody, right?  
+**Mihono:** C'mon, quit worrying about it already\! You're such a downer, Chii-nee\~\. Besides, everyone's got a secret or two they haven't told anybody, right?  
 **Mihono:** Like, don't tell her, but my stomach was rumbling earlier and I couldn't help myself, so I ate Fukki's pudding.  
 **Kofuki:** Ohhh\~? So you were behind that, huh?  
 **Mihono:** Geh, Fukki-\!\? You heard that\!\?  
@@ -29,10 +29,10 @@
 **Kofuki:** Well course I did. When you steal the pudding somebody was really looking forward to, you should expect to get what's coming to you\!  
 **Mihono:** I-I'm so sorry\! I'll buy you two puddings as payback, so forgive me\!  
 **Kofuki:** Three. If that's too much, then we can do this the really hard way.  
-**Mihono:** Ughh\~... Fine... If that gets me off the hook... I'll buy you three puddings.  
+**Mihono:** Ughh\~\... Fine... If that gets me off the hook... I'll buy you three puddings.  
 **Kofuki:** Heh, you get to live another day. And make sure you don't forget this one. People hold serious grudges when you eat what's theirs\!  
 **Mihono:** G-Got iiit...  
-**Mihono:** Aghh\~... Talk about false charges.  
+**Mihono:** Aghh\~\... Talk about false charges.  
 **Kiyoka:** I don't think you get to call that false charges, Hono-chan.  
 **Mihono:** Ch-Changing the subject\! When we were here last time, it was pretty crazy with all the aradama around, wasn't it\!  
 *aradama appears*
@@ -134,16 +134,16 @@
 **???:** Ah-\! Look at all the cuties who came in\! Would you by any chance be the investigation team\!\?  
 **Chie:** We are, but... Who are you?  
 **???:** I knew it\! When I saw all your uniforms were different, it was like a lightbulb went off in my head\!  
-**???:** Ahhh\~... You're all so cute though\! Just looking at you, I can't help but sigh\! I just want to give you all a big hug\!  
+**???:** Ahhh\~\... You're all so cute though\! Just looking at you, I can't help but sigh\! I just want to give you all a big hug\!  
 **???:** Ohh, oh yeah, I should introduce myself first\!  
 **Yui:** Second year middle schooler from Ayanokouji, Yamashiro Yui. I've been assigned by President Souraku to join your investigation team\!  
 **Mirja:** By President Souraku?  
 **Yui:** Yep, yep. I was following in your footsteps and just got here. But who'd have thought I'd meet you this soon? I'm so lucky-\!  
 **Yui:** President Souraku told me to follow your instructions, Mirja-san\! I've got a good idea of the situation already, so please order me to do whatever you want\!  
 **Mirja:** To be more specific, what's your understanding of our situation?  
-**Yui:** Let's see\~... President Souraku and this Mokusa organization started working together for some goal... Which one of you's Setouchi-san?  
+**Yui:** Let's see\~\... President Souraku and this Mokusa organization started working together for some goal... Which one of you's Setouchi-san?  
 **Chie:** That would be me.  
-**Yui:** Ahhh\~... That beautiful older girl vibe is just dreamy\! But, leaving that aside for now, I know you're a member of Mokusa too.  
+**Yui:** Ahhh\~\... That beautiful older girl vibe is just dreamy\! But, leaving that aside for now, I know you're a member of Mokusa too.  
 **Mirja:** President Souraku knew about Mokusa? Come to think of it, she did speak with President Maniwa...  
 **Mirja:** But even we only recently learned Setouchi Chie was a member of Mokusa. How did you find out? Did President Souraku tell you that as well?  
 **Youji:** Well, that'd be because I told her. We've been talking about all kinds of things.  

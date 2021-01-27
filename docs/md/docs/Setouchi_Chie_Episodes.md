@@ -82,7 +82,7 @@ In the research lab of Osafune Girls' Academy...
 **Mihono:** Huh? Well of course I would; it's really important to me. I tied it to my bed back at the dorms, like a protection charm.  
 **Mihono:** We suddenly got pulled into this investigation team though, so I didn't have a chance to bring it with me.  
 **Mihono:** Wait, you mean you didn't see it when you were in my room, Chii-nee?  
-**Chie:** O-Oh, I, uh... Sorry, I must not have noticed\~. Maybe I was just distracted by how cute your sleeping face looked, Mihono-chan?  
+**Chie:** O-Oh, I, uh... Sorry, I must not have noticed\~\. Maybe I was just distracted by how cute your sleeping face looked, Mihono-chan?  
 
 ## 4: Sing\! My Fellow Toji
 **Mihono:** Since everyone's got nothing better to do, let's start the karaoke tournament\~\!  
@@ -95,7 +95,7 @@ In the research lab of Osafune Girls' Academy...
 **Mihono:** Fukki's not getting into it... I wish Mirja-san could have joined us too.  
 **Kiyoka:** Being the captain keeps her busy. Um, here, you're up first, Hono-chan.  
 **Mihono:** I'm on it\!  
-**Mihono:** Everyone's such good singers\~. Miyako-san knows so many western songs, Kiyoka did all those trendy songs, and Fukki... Well, you just kept singing the same one over and over again. Four whole times.  
+**Mihono:** Everyone's such good singers\~\. Miyako-san knows so many western songs, Kiyoka did all those trendy songs, and Fukki... Well, you just kept singing the same one over and over again. Four whole times.  
 **Kofuki:** It's the only one I know\! You got a problem with that\!\?  
 **Kiyoka:** That only leaves Chie-san. From the start, all she's been doing is picking out songs for Hono-chan. Does she not plan on singing?  
 **Mihono:** Ah... You're right... I didn't get to choose a single song\! Everyone else did it, so you sing too, Chii-nee\!  
@@ -123,7 +123,7 @@ In the research lab of Osafune Girls' Academy...
 **Chie:** Mmhm, you're so strong, Kiyoka-chan. But I feel so safe with Mihono-chan watching over me. It's like you don't need my support anymore.  
 **Mihono:** Really\!\? We can take care of ourselves now\! It's official\!  
 **Kiyoka:** Th-That's troubling though... At the very least, if I could still stay in the back...  
-**Chie:** Okay, okay, you two have outgrown your onee-san\~. Now let's clean things up here. Mihono-chan, you were scratched, so take care of that.  
+**Chie:** Okay, okay, you two have outgrown your onee-san\~\. Now let's clean things up here. Mihono-chan, you were scratched, so take care of that.  
 **Mihono:** Fukki-\! Give me a bandage\! A bandage\!  
 **Kofuki:** Huh\!\? Use one of your own\!  
 **Kiyoka:** Sorry, I used up the last of ours...  
@@ -147,7 +147,7 @@ In the research lab of Osafune Girls' Academy...
 **Mirja:** .....  
 **Chie:** ......  
 **Mirja:** ...It seems your duties as an onee-san aren't over yet.  
-**Chie:** Fufu... I guess not\~.  
+**Chie:** Fufu... I guess not\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UrOq6F25WZg"></iframe>](:Iframe)  
 
 ## [Swimsuit 19: Start]: Shirie
@@ -314,7 +314,7 @@ In the research lab of Osafune Girls' Academy...
 **Kazari:** I want to get some Kamakura Great Buddha candy and something else. Come to think of it, we've been eating different things all day, haven't we?  
 **Chie:** Isn't that fine? Savoring tasty foods is one of the goals of sightseeing.  
 **Chie:** But the shops might be closing up for the day soon, so we should hurry.  
-**Ruiko/Kazari:** Okaaay\~.  
+**Ruiko/Kazari:** Okaaay\~\.  
 
 ## [Railgun - Chie: End]: Lets Make Lovely Flower Decorations with Onee-san
 **Ruiko:** I want to do something to thank her, you know? Not just for taking us around Kamakura yesterday, but for everything Setouchi-san's been doing for us.  
@@ -349,8 +349,8 @@ In the research lab of Osafune Girls' Academy...
 **Ruiko:** That's great-... I was worried for a minute there.  
 **Kazari:** ? What are you talking about, Saten-san.  
 **Ruiko:** Ehh-...  
-**Chie:** Now then, how about we make another one for Saten-san\~.  
-**Kazari:** Sure\~.  
+**Chie:** Now then, how about we make another one for Saten-san\~\.  
+**Kazari:** Sure\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/FpDzSMNFIXE"></iframe>](:Iframe)  
 
 ## [Dress - Chie: Start]: Taking a Breather
@@ -481,7 +481,7 @@ In the research lab of Osafune Girls' Academy...
 **Sakura:** There's something I'm having trouble with...  
 **Chie:** Mmhm?  
 **Sakura:** ...No, I shouldn't be asking you after all. I can't go into much detail about it...  
-**Chie:** (Was what's bothering her the reason she avoided me before?)  
+**Chie:** (Was what's bothering her the reason she avoided me before?\)  
 **Chie:** ...You said you're having trouble with something, but, do you know exactly what it is?  
 **Sakura:** ...I do.  
 **Chie:** (If I had to guess... She's avoiding getting involved with other people? But, she's trying to talk about it with me...)  

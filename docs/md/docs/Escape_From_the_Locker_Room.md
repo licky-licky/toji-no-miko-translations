@@ -141,10 +141,10 @@ Escape From the Locker Room
 **Kanami:** Mai-chan... We came here to put on our swimsuits anyway, so this really isn't all that different\!  
 **Mai:** Ehhh...  
 **Mai:** (...Is it though? I feel like it's still wrong...)  
-**Yui:** Ahh\~... If this is the last thing I see before I die, I'll die satisfied...  
+**Yui:** Ahh\~\... If this is the last thing I see before I die, I'll die satisfied...  
 **Mirja:** I want to say this is the same as her usual self, but... Even Yamashiro Yui is in poor condition.  
 **Sayaka:** It's open...\! Mai, Kanami, Hiyori\!  
-**Mai:** Sayaka-chan\! Ahh\~... I'm so glad to see you.  
+**Mai:** Sayaka-chan\! Ahh\~\... I'm so glad to see you.  
 **Kofuki:** So hot... What is this, a sauna? Everybody still alive\~?  
 **Kofuki:** ...Wait, what're you all looking like that for\!\? Well, I guess if it's this hot, what else can you do.  
 **Kofuki:** We brought you stuff to drink. You'd better be grateful\!  
@@ -179,7 +179,7 @@ Escape From the Locker Room
 **Sayaka:** After I meet with my friend, I'll come buy some for sure.  
 **Sayaka:** (If I eat these with Mai, I know it'll taste even better...)  
 **Sayaka:** In a few minutes... it'll be 8 o'clock. The fireworks will be over soon too. Today is already...  
-**Sayaka:** (Will I not get to go around the festival with Mai...?)  
+**Sayaka:** (Will I not get to go around the festival with Mai...?\)  
 **Mai:** Sayaka-chan... I'm sorry\! I didn't think I would be this late.  
 **Sayaka:** Mai...\!  
 **Mai:** My phone ran out of batteries too, so I couldn't contact you. Ahh, thank goodness I found you.  
@@ -197,7 +197,7 @@ Escape From the Locker Room
 **Mai:** These are baby castella? Then, I'll have some. --Mmm, they're sweet and delicious.  
 **Sayaka:** They're soft and covered in lots of maple syrup... I feel like I could eat any amount of them... Ohm.  
 **Mai:** You really seem to like them. I don't eat them very often myself, but I do like them too.  
-**Mai:** (It shouldn't be that hard to make baby castella. Maybe I'll make them for her as a snack next time?)  
+**Mai:** (It shouldn't be that hard to make baby castella. Maybe I'll make them for her as a snack next time?\)  
 **Sayaka:** There were still... more places I wanted to see with you though.  
 **Mai:** Lots of them have already started closing up their stalls, haven't they.  
 **Sayaka:** But, I'm glad I got to see the festival with you, Mai.  

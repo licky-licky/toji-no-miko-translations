@@ -47,10 +47,10 @@ https://streamable.com/47tku
 ## [Renpu High: End]: Dream Come True
 **Minato:** Ahh\~, the three of us skipping practice and going home together feels all fresh and exciting\! Want to stop by somewhere?  
 **Kagari:** Yukari-sama and I will be practicing as soon as we return to the Origami household. Please don't treat us like your accomplices, Minato-senpai.  
-**Minato:** Come on, don't be such a stick in the mud\~. We never go home early together\! There's this super cool secret spot I found that I'll show you.  
+**Minato:** Come on, don't be such a stick in the mud\~\. We never go home early together\! There's this super cool secret spot I found that I'll show you.  
 **Yukari:** Secret spot? And where is that?  
 **Minato:** You'll have to wait and see. C'mon, let's go\!  
-**Minato:** You two are so slow\~. If you keep it up, the sun's gonna go down\~\!  
+**Minato:** You two are so slow\~\. If you keep it up, the sun's gonna go down\~\!  
 **Kagari:** Pant, pant. You're taking us up quite the mountain trail.  
 **Yukari:** Minato, can't we leave it at this and go home for today? I have a strange feeling about this.  
 **Minato:** Hey, Yukari, what's this feeling about anyway? You've been acting kinda weird since this morning. Come on and tell us.  

@@ -38,7 +38,7 @@ Full Summer Beach Lounge Rescue Team!
 **Mihono:** Yeah, yeah\! Great going, Itomi-san\! Now it's getting exciting\!  
 **Mihono:** And we should be able to sell the watermelon used in the performance for cheap, so it all works out.  
 **Sayaka:** It's because of the idea you came up with, Mihono. ...It really is a great idea.  
-**Mihono:** Hey\~, you don't have to give me all the praise\~. I'll go next, splitting the watermelon all cool-\!  
+**Mihono:** Hey\~, you don't have to give me all the praise\~\. I'll go next, splitting the watermelon all cool-\!  
 **Kofuki:** ......  
 **Chie:** Mihono-chan's watermelon splitting performance is starting to generate some attention.  
 **Kaoru:** Seems like it. Still though, where'd they hear about us splitting watermelons from?  

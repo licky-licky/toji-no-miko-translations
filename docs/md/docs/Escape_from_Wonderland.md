@@ -81,7 +81,7 @@ Escape from Wonderland
 **Ellen:** Seems like the aradama must have taken our hint.  
 **Suzuka:** The spectrum finder is still getting a reading... This won't be settled so easily.  
 **Suzuka:** Let's gather all the hints we can.  
-**Yume:** Aha, this is more fun than regular aradama fighting\~.  
+**Yume:** Aha, this is more fun than regular aradama fighting\~\.  
 **Hint 1:** "Don't let them get in the way of our rampage\!\"  
 **Hint 2:** "If only they weren't around\!\"  
 **Hint 3:** "Our natural enemy\!\"  
@@ -358,7 +358,7 @@ Throughout the story so far, there are hints to the traitor's identity.
 **Ellen:** But it was fun, wasn't it? We have to thank Yukari-sama for allowing Hanahana and Yumecchi to join in too\!  
 **Suzuka:** So you did get Yukari-sama's approval.  
 **Yume:** Well, it wasn't that bad of a way to spend some time.  
-**Kiyoka:** (Yukari-sama approved of this... She's actually pretty free spirited, isn't she?)  
+**Kiyoka:** (Yukari-sama approved of this... She's actually pretty free spirited, isn't she?\)  
 **Mihono:** Ah, the movie\! Kiyoka, Fukki, if we leave now, we can still make it\! Let's go\!  
 **Kofuki:** Oh yeah, we were gonna do that.  
 **Chie:** Ah, hang on\! Here, free vouchers for the cafeteria. It's your prize for clearing within the time limit.  

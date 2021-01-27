@@ -132,7 +132,7 @@ Itomi Sayaka Episodes
 ## 4: What I Don't Want to Lose
 **Yukina:** Sayaka... The greatest vessel I have ever found. Once I inject you with the noro in this ampoule, you will be complete.  
 **Yukina:** You will feel nothing, think of nothing... You'll simply remove all those who would oppose Yukari-sama.  
-**Sayaka:** (Nothing... What about Mai...?)  
+**Sayaka:** (Nothing... What about Mai...?\)  
 **Sayaka:** ......No\!  
 **Yukina:** Sayaka\!\? Why are you resisting...\!\?  
 **Sayaka:** ...I always did what you said. But...  

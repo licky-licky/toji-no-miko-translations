@@ -154,11 +154,11 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Kiyoka:** Don't let it get you down, Hono-chan. We're going back now, but you two have a wonderful stay at a ryokan booked for you, don't you?  
 **Sanae:** That's right; didn't you write in the guide all the things you wanted to do in your room together? I'm sure you'll still have lots of fun from here\!  
 **Mihono:** ...You're right\! This is no time for me to be down in the dumps\!  
-**Yume:** Thanks to you onee-sans, I got to have a really fun New Year's Eve\~. Have fun at the hot springs, okay?  
+**Yume:** Thanks to you onee-sans, I got to have a really fun New Year's Eve\~\. Have fun at the hot springs, okay?  
 **Mihono:** Wow, this room is so pretty looking\! Getting this whole big room just for me and Chii-nee is so deluxe-\!  
 **Chie:** Isn't it? Let's take a short rest here, then go to the hot springs. It seems like they let you reserve open air baths too.  
 **Mihono:** Whoa-\! I'm getting excited for it now\! And dinner will be waiting for us after we get out of the baths, so there's still lots of fun to have together\!  
-**Mihono:** Ahh-, I ate my fill back there. The hot springs felt so good after eating too. I'm feeling nice\~.  
+**Mihono:** Ahh-, I ate my fill back there. The hot springs felt so good after eating too. I'm feeling nice\~\.  
 **Mihono:** So, uh, next on the schedule is... An end of the year card tournament with Chii-nee\!  
 **Chie:** Fufu, you're just full of energy, aren't you.  
 **Chie:** Mihono-chan, the year isn't quite over yet, but thank you for spending it with me.  
@@ -173,24 +173,24 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Mihono:** Ehh\!\? You will?  
 **Chie:** Fufu, of course I will. It's a show of my appreciation for all the fun places you took me to. Here, lie down.  
 **Mihono:** If you say so, then...  
-**Mihono:** ...Ahh... That feels so good\~.  
+**Mihono:** ...Ahh... That feels so good\~\.  
 **Mihono:** Chii-nee, your hands are so waaarm.  
 **Chie:** Fufu, just lie back and relax.  
-**Mihono:** Sure... Fuaahh... It's like my back is melting; it's too good\~.  
-**Mihono:** Haa\~... That feels nice...  
-**Mihono:** Fuah\~... Nnn\~... Zzz...  
+**Mihono:** Sure... Fuaahh... It's like my back is melting; it's too good\~\.  
+**Mihono:** Haa\~\... That feels nice...  
+**Mihono:** Fuah\~\... Nnn\~\... Zzz...  
 **Chie:** Oh, Mihono-chan? Fufu, she's sleeping now.  
 **Chie:** ...Her face is so innocent when she's asleep. I wonder what she's dreaming about.  
 **Mihono:** [mumble mumble]... Chii-nee... We're going here next...\! Chii-nee... Ngh...  
 **Chie:** Even in her dreams, she's still leading me around. Thank you very much for taking me on a pleasant journey, Mihono-chan.  
-**Chie:** Yawn\~. Looking at how happily Mihono-chan's sleeping is making me feel drowsy too.  
+**Chie:** Yawn\~\. Looking at how happily Mihono-chan's sleeping is making me feel drowsy too.  
 **Chie:** It doesn't look like we'll be able to do a countdown to the new year, so I'll just lie down and we can sleep together.  
 **Chie:** [sleep breathing]...  
 **Mihono:** [sleep mumbling]...  
 **Mihono:** Nn...?  
 **Mihono:** WAHH------\!\!  
-**Mihono:** (No way-\! I fell asleep\!\?)  
-**Mihono:** (What do I do now; we might not make it for the most important part of this trip--\!\!)  
+**Mihono:** (No way-\! I fell asleep\!\?\)  
+**Mihono:** (What do I do now; we might not make it for the most important part of this trip--\!\!\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/XL33MXyxw44?t=994"></iframe>](:Iframe)  
 
 ## 5: Will We Make to the Main Event\!\?
@@ -198,7 +198,7 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Mihono:** Chii-nee, get up\! If we don't get out there soon, the first sunrise'll happen\!  
 **Chie:** If you want to see the sunrise, we can do it from the window here, you know.  
 **Mihono:** There's someplace I want to go with you no matter what though\! I want us to see the first sunrise from there-\!  
-**Chie:** (It's been on my mind ever since yesterday, but why is Mihono-chan acting so frantic? Does she have some special reason...?)  
+**Chie:** (It's been on my mind ever since yesterday, but why is Mihono-chan acting so frantic? Does she have some special reason...?\)  
 **Chie:** Alright then. If you really want to go, let's go see the first sunrise together.  
 **Mihono:** Uuu, I was prepared for this, but it's still freezing... Are you doing okay, Chii-nee? Sorry, for forcing you to come out in the cold with me.  
 **Chie:** I'm just fine. But, look at you, your hands are all red. Here, why not use my gloves?  

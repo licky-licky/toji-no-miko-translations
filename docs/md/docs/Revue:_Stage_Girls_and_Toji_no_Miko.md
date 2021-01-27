@@ -14,7 +14,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Tsugumi:** Three, two, one...  
 **Maki:** That's wrong, all wrong\! Ban Tsugumi, stop the music\! Yume, Mashiko Kaoru, Shichinosato Kofuki\!  
 **Maki:** You weren't keeping the pace\! We're starting again, from the top\!  
-**Yume:** Ehh\~, againnn? I'm bored of this already\~.  
+**Yume:** Ehh\~, againnn? I'm bored of this already\~\.  
 **Kaoru:** I thought I'd get a break from dealing with aradama here, but this might be worse...  
 **Kofuki:** Hey, how long're we gonna keep doing this for? Isn't this good enough already?  
 **Maki:** Until you can deliver a perfect performance for Yukari-sama, of course.  
@@ -182,7 +182,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Maki:** In focusing too heavily on acting as miko for our dance, we've lost sight of being toji.  
 **Maki:** ...A theater pro really does see things differently. I'm glad I asked you.  
 **Claudine:** I could have told you that much...  
-**Suzuka:** (As expected, Tendou-san made a convincing argument. Though... I wonder what has Saijou-san looking so bothered?)  
+**Suzuka:** (As expected, Tendou-san made a convincing argument. Though... I wonder what has Saijou-san looking so bothered?\)  
 **Suzuka:** (Her hostile attitude toward Tendou-san seems somewhat familiar...)  
 **Yume:** Hmmm. Hey, Yomi-onee-san?  
 **Yomi:** What is it, Tsubakuro-san?  
@@ -329,7 +329,7 @@ On the day the dance performance would be shown to the public.
   
 **Maki:** (Everything's gone well so far... All that's left is the closing act... It'll be fine.)  
 **Maki:** (We've shared our mental image, like the stage girls suggested.)  
-**Maki:** (All we need is to...\!)  
+**Maki:** (All we need is to...\!\)  
 **Cheers:** HURRAAAAHHHH\!  
 
 ## 6: Collecting Suzudaru Cats\!
@@ -341,20 +341,20 @@ On the day the dance performance would be shown to the public.
 **Mahiru:** Ah, that reminds me. I wanted to ask you something. Does Suzudaru Cat exist in your world too?  
 **Mai:** Suzudaru Cat? Hmm, I haven't heard of it. How about you, Kanami-chan?  
 **Kanami:** I've never heard of it either.  
-**Mahiru:** I don't believe it\~... A world without Suzudaru Cat...  
+**Mahiru:** I don't believe it\~\... A world without Suzudaru Cat...  
 **Hiyori:** What kind of cat is it?  
 **Yume:** Hey, hey. What're you talking about?  
 **Karen:** Yume-chan, Yomi-chan. We were just talking about how, isn't it weird how some things are different between our worlds?  
-**Mahiru:** Ah\! It's Suzudaru Cat\! So you have it in your world after all; thank goodness\~.  
+**Mahiru:** Ah\! It's Suzudaru Cat\! So you have it in your world after all; thank goodness\~\.  
 **Yomi:** What do you mean, Suzudaru Cat?  
-**Mahiru:** Eh\!\? You're holding it right there\~.  
+**Mahiru:** Eh\!\? You're holding it right there\~\.  
 **Yume:** Huhh. So this thing's called Suzudaru Cat?  
 **Yume:** It dropped off of an aradama just now.  
 **Mai:** An aradama?  
 **Kanami:** That's Suzudaru Cat...?  
 **Kanami:** Woww... It's too cute, Mahiru-chan\! There's this sort of unexplainable charm to it\!  
 **Mahiru:** Isn't there? Suzudaru Cat has that kind of cuteness you just can't describe-\!  
-**Mahiru:** Ahhh, I'm glad I found someone who can understand Suzudaru Cat's greatness\~.  
+**Mahiru:** Ahhh, I'm glad I found someone who can understand Suzudaru Cat's greatness\~\.  
 **Karen:** I'm happy for you, Mahiru-chan.  
 **Mai:** You like those kind of mascot characters, don't you, Kanami-chan?  
 **Kanami:** Yeah, I love them\!  
@@ -382,7 +382,7 @@ On the day the dance performance would be shown to the public.
 **Hiyori:** You did? Though it sounds just like something you'd do.  
 **Kanami:** Ah, Hiyori-chan. What's up?  
 **Hiyori:** What do you mean, "What's up?" You're the one who said to meet here so we can spar now.  
-**Kanami:** Oh yeah\! Then, let's get right to it, Hiyori-chan\! I'll catch up with you later, Mai-chan\~.  
+**Kanami:** Oh yeah\! Then, let's get right to it, Hiyori-chan\! I'll catch up with you later, Mai-chan\~\.  
 **Mai:** Okay. Be sure not to get hurt, you two.  
 **Mai:** ......  
 **Mahiru:** Mai-chan?  
@@ -433,12 +433,12 @@ On the day the dance performance would be shown to the public.
 **Aradama:** GUGGGIIIII\!  
 **Hikari:** You won't get away-- This will finish it\!  
 **Kanami:** These stage girls, they're all so amazing, aren't they\! They fight differently from a toji, but I'm enjoying myself just watching them go\!  
-**Yui:** Ahh... You can't help but be captivated by them, can you\~.  
+**Yui:** Ahh... You can't help but be captivated by them, can you\~\.  
 **Yui:** Would you call it their posturing? Every one of the motions they go through grabs hold tight of my heart... It's so good\!  
 **Kanami:** Yeah, I know just what you mean\! Ahh, even if only for a little bit, I want to spar with all the stage girls\!  
 **Karen:** Kanami-chan, Kanami-chan, what's "spar" mean?  
 **Kanami:** Ah, sparring is when you face off... It's a practice match\!  
-**Karen:** A practice match, huh\~. I think I might wanna have one too\!  
+**Karen:** A practice match, huh\~\. I think I might wanna have one too\!  
 **Futaba:** It'd be useful reference material for sword fights on stage, wouldn't it.  
 **Kaoruko:** Sure would. Though, I'm not about to join you.  
 **Kanami:** Sure\! You only have to join in if you want to\! I don't think it's good to force training in.  
