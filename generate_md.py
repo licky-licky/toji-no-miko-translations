@@ -116,7 +116,7 @@ def generate_toc():
     episodes = []       # character episodes
     others = []         # everything else 
     for md in os.listdir('./docs/md/docs'):
-        if (md[0].isnumeric() and md[2] == '-') or 'Prologue' in md:
+        if (md[0].isnumeric() and md[2] == '-') and ('Darkness_Looming' not in md and 'Time_Limit' not in md) or 'Prologue' in md :
             part1.append(md)
         elif md[0].isnumeric():
             other_parts.append(md[0])
@@ -167,6 +167,8 @@ def generate_toc():
 
 
 def generate_file(title, data):
+    if title == '2 - The Darkness Looming over the World' or 'Time Limit' in title:
+        title = '2-' + title.replace(' - ', ' ')
     mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_').replace('#','No.') + '.md', title=title.replace('~', '\~'))
     for line in data.splitlines():
         line = line.replace('~', '\~')
