@@ -2,13 +2,13 @@
 Translations for Toji no Miko: KInT and more
 ============================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xHJb-ZBPdnsuwvXS0pL-Wj"></iframe>](:Iframe)  
-Someone kindly subbed recordings of all translations relating to the game here. I highly recommend watching these over reading the raw text. You can also navigate from below. Each section for the game translations has an individual playlist at the top, and I try to include links to the respective videos in every pastebin.
+Someone kindly subbed recordings of all translations relating to the game here\. I highly recommend watching these over reading the raw text\. You can also navigate from below\. Each section for the game translations has an individual playlist at the top, and I try to include links to the respective videos in every pastebin\.
 
   
 -------------------------------------------------------------------------------------------------------------------------------------
 
   
-First off, a visual overview of Toji no Miko as a series (as of June 2020) to give you an idea of how everything fits into place.
+First off, a visual overview of Toji no Miko as a series (as of June 2020\) to give you an idea of how everything fits into place\.
 
   
 https://i.imgur.com/iCO24n6.png
@@ -26,14 +26,14 @@ Ryukyu Kenpu Roku
 https://drive.google.com/drive/folders/1Qf9VrwnQAjP5yh7XZKUv3EtqEMYPkpW1
 
   
-"On a certain day, in August 2017, Asahina Hokuto, third year middle school student of the Heijou Institute, and Inami Suu, first year middle school student of Renpu Girls' School, land at Naha Airport. They are here to participate in an operational test of the newly developed Storm Armor, produced through the collaborative efforts of both the Sword Administration Bureau and United States military. On that same day, another toji arrives in Okinawa: Tsubakuro Yume, sixth year elementary school student of Ayanokouji Martial Arts School. The girls have no knowledge of and share no connection with each other. For now. This is a record of the hidden conflict these girls encounter, caught in a scheme involving the Storm Armor, as Hokuto, Suu, and Yume, as well as the elite guard and Mokusa, cross swords. This story, taking place one year before the events of the anime, is Toji no Miko's first novelization\!\"  
+\"On a certain day, in August 2017, Asahina Hokuto, third year middle school student of the Heijou Institute, and Inami Suu, first year middle school student of Renpu Girls' School, land at Naha Airport\. They are here to participate in an operational test of the newly developed Storm Armor, produced through the collaborative efforts of both the Sword Administration Bureau and United States military\. On that same day, another toji arrives in Okinawa: Tsubakuro Yume, sixth year elementary school student of Ayanokouji Martial Arts School\. The girls have no knowledge of and share no connection with each other\. For now\. This is a record of the hidden conflict these girls encounter, caught in a scheme involving the Storm Armor, as Hokuto, Suu, and Yume, as well as the elite guard and Mokusa, cross swords\. This story, taking place one year before the events of the anime, is Toji no Miko's first novelization\!\"  
 ------ DRAMA CD ------
 
   
 https://mega.nz/folder/yvBBUAYD#t0KpE55s8jbPuR_a3-ByHg
 
   
-All in one folder, with individual links below. All of these are canon to the anime timeline.
+All in one folder, with individual links below\. All of these are canon to the anime timeline\.
 
   
 Concept Works Drama CD
@@ -42,7 +42,7 @@ Concept Works Drama CD
 https://mega.nz/file/SnhnhCDC#nHcBmwCzJ6Jd7Ew6_ptSi2kcDJ_MXhM8ob7MN_KqyAs
 
   
-"Spring's Arrival", a short story from the early days when the elite guard was first fully formed.
+\"Spring's Arrival\", a short story from the early days when the elite guard was first fully formed\.
 
   
 Anime Drama CD 1/3
@@ -51,40 +51,40 @@ Anime Drama CD 1/3
 https://mega.nz/file/Xzo2QKaR#JxLJp6PpCH3vcKzhaRpHs4PVABsvmao7NH4nI24TVR4
 
   
-**Episode 0.5:** "Before the Storm"  
-**Episode 2.5:** "The Pursuers' Interlude"  
-**Episode 3.5:** "Some Short Pause in the Raging Torrent"  
-**Episode 7.5:** "Fierce and Wild Endurance Showdown"  
-**Episode 8.5:** "Mai-chan's Cookie Classroom"  
+**Episode 0\.5:** \"Before the Storm\"  
+**Episode 2\.5:** \"The Pursuers' Interlude\"  
+**Episode 3\.5:** \"Some Short Pause in the Raging Torrent\"  
+**Episode 7\.5:** \"Fierce and Wild Endurance Showdown\"  
+**Episode 8\.5:** \"Mai-chan's Cookie Classroom\"  
 Anime Drama CD 2/3
 
   
 https://mega.nz/file/Lmx32ZaB#CA4PudFzpnm3XX-fxdpk8E5nioRJxfJmso0JhVCq-6o
 
   
-**Episode 8.5:** "Before the Festival"  
-**Episode 12.5:** "Chocolate Mint Hiyori"  
-**Episode 14.5:** "So These Are the Japanese 'Imoutos'"  
-**Episode 15.5:** "Tojis' Mission Surprise"  
-**Episode 16.5:** "Uchizato Ayumu, Secret Training"  
+**Episode 8\.5:** \"Before the Festival\"  
+**Episode 12\.5:** \"Chocolate Mint Hiyori\"  
+**Episode 14\.5:** \"So These Are the Japanese 'Imoutos'\"  
+**Episode 15\.5:** \"Tojis' Mission Surprise\"  
+**Episode 16\.5:** \"Uchizato Ayumu, Secret Training\"  
 Anime Drama CD 3/3
 
   
 https://mega.nz/file/7yoEAC7L#hWmiiNF1RBGyathzrnjE6zOsVPsyiJZNTUU19aKDkZg
 
   
-**Episode 17.1:** "Breakout\! The Fight for the Right to Challenge Origami Yukari"  
-**Episode 17.2:** "Juujou Hiyori's Small Concern"  
-**Episode 18.1:** "Nene Will Be Back"  
-**Episode 18.2:** "If We Could Be Like Then Again, for Christmas Eve"  
-**Episode 24.1:** "A New Beginning"  
+**Episode 17\.1:** \"Breakout\! The Fight for the Right to Challenge Origami Yukari\"  
+**Episode 17\.2:** \"Juujou Hiyori's Small Concern\"  
+**Episode 18\.1:** \"Nene Will Be Back\"  
+**Episode 18\.2:** \"If We Could Be Like Then Again, for Christmas Eve\"  
+**Episode 24\.1:** \"A New Beginning\"  
 Nagori Kachou
 
   
 https://mega.nz/file/rro3DJAA#P43-uUzLZekWFthFJnVnClCx-8PoGrDeCaJPVS19ikM
 
   
-"Half a year has passed since the 'Great Year-End Disaster'. One day, in early summer, Hiyori and Kanami are tasked with a special mission. Without being briefed on its details, they find waiting at their destination the former elite guard, currently the special defense team, Shidou Maki and Konohana Suzuka."
+\"Half a year has passed since the 'Great Year-End Disaster'\. One day, in early summer, Hiyori and Kanami are tasked with a special mission\. Without being briefed on its details, they find waiting at their destination the former elite guard, currently the special defense team, Shidou Maki and Konohana Suzuka\.\"
 
   
 Kotei Rakuen
@@ -93,25 +93,24 @@ Kotei Rakuen
 https://mega.nz/file/nqwn1Bwa#pCH63OZ9pHlQCAIo68txJXTyZzOeea37dBGUZGJrNtM
 
   
-"While she is conducting a solo investigation into an aradama, contact is lost with Ellen. Upon hearing the news from the General Countermeasures Director, Sana, Kaoru immediately moves to go on the search, but--"
+\"While she is conducting a solo investigation into an aradama, contact is lost with Ellen\. Upon hearing the news from the General Countermeasures Director, Sana, Kaoru immediately moves to go on the search, but--\"
 
   
 ------ MIHONO'S GAME ------
 
   
-[---MAIN STORY---]
 
-  
+## [---MAIN STORY---]
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wy5MTXXVR4yMTynzFWOeIM"></iframe>](:Iframe)  
-**Now for the real reason you're here, translations for the the saga of the coolest toji, "Toji no Miko:** Kizamishi Issen no Tomoshibi."   
-The main story is fully voiced, though events and character episodes typically aren't. Ideally, you watched the anime beforehand, and while the game covers a similar timeline up to a point, it's worth reading all the way through for the new perspectives and changed events.
+**Now for the real reason you're here, translations for the the saga of the coolest toji, \"Toji no Miko:** Kizamishi Issen no Tomoshibi\.\"   
+The main story is fully voiced, though events and character episodes typically aren't\. Ideally, you watched the anime beforehand, and while the game covers a similar timeline up to a point, it's worth reading all the way through for the new perspectives and changed events\.
 
   
 **[-----Part 1:** Formation  
 Trusting in her friend, the meeting waiting as she gives chase is--
 
   
-A "promise" is born. A story begins.
+A \"promise\" is born\. A story begins\.
 
   
 Prologue - The Beginning
@@ -169,7 +168,7 @@ https://pastebin.com/CqpWT76U
 To protect what matters most, the future they intently pursued is--
 
   
-"Determination" cuts through. A story of another destiny.
+\"Determination\" cuts through\. A story of another destiny\.
 
   
 
@@ -231,7 +230,7 @@ https://pastebin.com/4n5EdGHY
 Does the strength exist to cut everything off for a greater cause-- 
 
   
-"Resolve" is put in action. A story of counter-revolution.
+\"Resolve\" is put in action\. A story of counter-revolution\.
 
   
 
@@ -283,7 +282,7 @@ https://pastebin.com/4FLiDQiB
 At the end of a bloody battle, the answer they arrive at is-- 
 
   
-"Feelings" come to a head. A story of conquest.
+\"Feelings\" come to a head\. A story of conquest\.
 
   
 
@@ -326,10 +325,10 @@ https://pastebin.com/wANyuJGs
 https://pastebin.com/Ac0PkHaG
 
   
-[--Chain Story Archives Part 2.5
+[--Chain Story Archives Part 2\.5
 
   
-(A canon side-story added during Part 4, taking place during the timeskip in Part 2. Unvoiced, but it's important for introducing Inago Akira and her relationship with Mihono.)
+(A canon side-story added during Part 4, taking place during the timeskip in Part 2\. Unvoiced, but it's important for introducing Inago Akira and her relationship with Mihono\.\)
 
   
 https://pastebin.com/zvJVzHbp
@@ -339,7 +338,7 @@ https://pastebin.com/zvJVzHbp
 In the days shining after the break of dawn, what dark shadow begins to writhe--
 
   
-A clash of "justice". A story of determination.
+A clash of \"justice\"\. A story of determination\.
 
   
 
@@ -374,11 +373,10 @@ https://pastebin.com/wWncyRed
   
 
 ## 7 - Awakening
-[---TOJI EPISODES---]
 
-  
+## [---TOJI EPISODES---]
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xiXaTtuCbIE6_HVzweFFCu"></iframe>](:Iframe)  
-Includes voiced birthday lines that you won't find here.
+Includes voiced birthday lines that you won't find here\.
 
   
 - Asakura Mihono:  
@@ -489,11 +487,10 @@ https://pastebin.com/DP0ZZXZW
 https://pastebin.com/G0U9Ncxe
 
   
-[---EVENTS---]
 
-  
+## [---EVENTS---]
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wWrZaFZoSz3smnYfuckvBL"></iframe>](:Iframe)  
-Includes voiced holiday lines that you won't find here.
+Includes voiced holiday lines that you won't find here\.
 
   
 - Team vs Team in the White Day Wars
@@ -618,7 +615,7 @@ https://pastebin.com/3gfipzTT
 https://pastebin.com/TGajJBrP
 
   
-- Hit or Stand? Toji Style Game Training
+- Hit or Stand\? Toji Style Game Training
 
   
 https://pastebin.com/GPRPgDXD
@@ -792,7 +789,7 @@ https://pastebin.com/ja3PfXaZ
 https://pastebin.com/v1qrdTVq
 
   
-- Chain Story Archives Part 2.5
+- Chain Story Archives Part 2\.5
 
   
 https://pastebin.com/zvJVzHbp
@@ -895,13 +892,13 @@ https://pastebin.com/cVMRB6HY
 https://pastebin.com/P1xHR2Xx
 
   
-- Joint Raid Event #10 (AKA Hirona Episode 6)
+- Joint Raid Event #10 (AKA Hirona Episode 6\)
 
   
 https://pastebin.com/e1nXrM4w
 
   
-- Chain Story Archives Part 0.5.1
+- Chain Story Archives Part 0\.5\.1
 
   
 https://pastebin.com/gFuh0xi1

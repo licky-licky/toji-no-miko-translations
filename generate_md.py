@@ -1,4 +1,4 @@
-import json, os
+import json, os, re
 from mdutils.mdutils import MdUtils
 from mdutils.tools.TextUtils import TextUtils
 from mdutils.tools.Header import Header
@@ -171,20 +171,23 @@ def generate_file(title, data):
         title = '2-' + title.replace(' - ', ' ')
     mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_').replace('#','No.') + '.md', title=title.replace('~', '\~'))
     for line in data.splitlines():
-        line = line.replace('~', '\~')
-        line = line.replace('!', '\!')
-        line = line.replace('!?', '!\?')
-        line = line.replace('!"', '!\\"')
-        line = line.replace('***', '\*\*\*')
-        line = line.replace('!?)', '\!\?\)')
-        line = line.replace('!)', '!\)')
-        line = line.replace('!?)', '\!\?\)')
-        line = line.replace('~.', '~\.')
-        line = line.replace('?)', '?\)')
-        line = line.replace('~)', '~\)')
-        line = line.replace('~?', '~\?')
+        # line = line.replace('~', '\~')
+        # line = line.replace('!', '\!')
+        # line = line.replace('!?', '!\?')
+        # line = line.replace('!"', '!\\"')
+        # line = line.replace('***', '\*\*\*')
+        # line = line.replace('!?)', '\!\?\)')
+        # line = line.replace('!)', '!\)')
+        # line = line.replace('!?)', '\!\?\)')
+        # line = line.replace('~.', '~\.')
+        # line = line.replace('?)', '?\)')
+        # line = line.replace('~)', '~\)')
+        # line = line.replace('~?', '~\?')
+        if 'https://' not in line:
+            line = re.sub(r"([~\?\!\)\.\"])", r"\\\1", line)
+            line = line.replace('***', '\*\*\*')
 
-        if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line and ']:' in line)) or (line[0].isnumeric() and (':' in line or '-' in line))):
+        if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line and (']:' in line or ']' in line))) or (line[0].isnumeric() and (':' in line or '-' in line))):
             mdFile.write(Header.atx_level_2(line))
         elif ':' in line and 'http' not in line:
             pos = line.find(':')
