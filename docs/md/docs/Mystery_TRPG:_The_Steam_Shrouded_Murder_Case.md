@@ -2,8 +2,9 @@
 Mystery TRPG: The Steam Shrouded Murder Case
 ============================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/MV1WLV8-IJo"></iframe>](:Iframe)  
+[Another mystery event, there was a contest to guess the killer before the final chapter unlocked\.]
 
-## [Another mystery event, there was a contest to guess the killer before the final chapter unlocked\.]
+  
 
 ## 1: Do You Want to Play a Mystery TRPG\?
 **Maki:** With all the help everyone gave, we were able to suppress the aradama on schedule\. Thanks again\.  

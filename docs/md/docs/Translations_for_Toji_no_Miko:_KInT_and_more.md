@@ -99,8 +99,9 @@ https://mega.nz/file/nqwn1Bwa#pCH63OZ9pHlQCAIo68txJXTyZzOeea37dBGUZGJrNtM
 ------ MIHONO'S GAME ------
 
   
+[---MAIN STORY---]
 
-## [---MAIN STORY---]
+  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wy5MTXXVR4yMTynzFWOeIM"></iframe>](:Iframe)  
 **Now for the real reason you're here, translations for the the saga of the coolest toji, \"Toji no Miko:** Kizamishi Issen no Tomoshibi\.\"   
 The main story is fully voiced, though events and character episodes typically aren't\. Ideally, you watched the anime beforehand, and while the game covers a similar timeline up to a point, it's worth reading all the way through for the new perspectives and changed events\.
@@ -373,8 +374,9 @@ https://pastebin.com/wWncyRed
   
 
 ## 7 - Awakening
+[---TOJI EPISODES---]
 
-## [---TOJI EPISODES---]
+  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xiXaTtuCbIE6_HVzweFFCu"></iframe>](:Iframe)  
 Includes voiced birthday lines that you won't find here\.
 
@@ -487,8 +489,9 @@ https://pastebin.com/DP0ZZXZW
 https://pastebin.com/G0U9Ncxe
 
   
+[---EVENTS---]
 
-## [---EVENTS---]
+  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wWrZaFZoSz3smnYfuckvBL"></iframe>](:Iframe)  
 Includes voiced holiday lines that you won't find here\.
 

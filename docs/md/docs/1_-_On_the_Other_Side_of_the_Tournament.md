@@ -25,12 +25,15 @@ In the streets of Kamakura, outside the tournament venue set on the Origami fami
 *sounds of crashing and running*
 
   
+[There's aradama\!]
 
-## [There's aradama\!]
+  
+[I'll call the police\.\.\.]
 
-## [I'll call the police\.\.\.]
+  
+[Get out of here first, you idiot\!]
 
-## [Get out of here first, you idiot\!]
+  
 **Kofuki:** Tch\! What's going on here\!\? Kamakura's right in the Origami family's lap\.\.\. Hell, their house is right over there\! Those are some dumbass aradama\!  
 **Sayaka:** \.\.\.You can badmouth them after\. We have to stop them\.  
 **Kofuki:** You don't have to tell me\! So long as I get to kill some aradama, I'll be there\!  

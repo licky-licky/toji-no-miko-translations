@@ -371,8 +371,9 @@ On the day the dance performance would be shown to the public\.
 **Hiyori:** Did you say something, Hikari\?  
 **Hikari:** \.\.\.I didn't say anything\.  
 **Kanami:** Come on, let's go ask everyone to start collecting Suzudaru Cats from the aradama\!  
+[WARNING\. I didn't actually roll Mai so I only ever happened to see part 1]
 
-## [WARNING\. I didn't actually roll Mai so I only ever happened to see part 1]
+  
 **Stage Girl Mai:** Start: Two Triangles  
 **Kanami:** I can't wait to spar with all these stage girls\! If I miss this, I'll never get another chance\.  
 **Kanami:** You know, I've wanted to spar with them ever since we came here and saw them fighting those aradama\.  

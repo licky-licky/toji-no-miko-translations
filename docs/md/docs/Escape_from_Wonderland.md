@@ -2,8 +2,9 @@
 Escape from Wonderland
 ======================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/5On4WnD5fIA"></iframe>](:Iframe)  
+[This event came accompanied with hint cards you got for progressing through the maps\. They're all at the bottom of each segment\.]
 
-## [This event came accompanied with hint cards you got for progressing through the maps\. They're all at the bottom of each segment\.]
+  
 
 ## 1: The Photo Room
 **\?\?\?:** \.\.\.Kaoru, come on and wake up\.\.\.  

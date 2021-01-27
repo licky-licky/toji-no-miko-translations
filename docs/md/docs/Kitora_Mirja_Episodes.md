@@ -559,8 +559,9 @@ On a day off\.\.\.
 **Mayumi:** They did; I'm famished at this point\. Even though it's a dream\. It's a strange feeling, isn't it\?  
 **Mirja:** I feel the same\. What do you say we find something to eat close by\?  
 **Mayumi:** I'm all for it\!  
+[very low quality video]
 
-## [very low quality video]
+  
 https://streamable.com/nprbpr
 
   

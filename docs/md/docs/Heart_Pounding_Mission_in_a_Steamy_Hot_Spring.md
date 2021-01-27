@@ -4,8 +4,9 @@ Heart Pounding Mission in a Steamy Hot Spring
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/2WIMe2c68W4"></iframe>](:Iframe)  
 
 ## 1: Being Too Polite Would be Impolite 
+[Every chapter title is an onsen related idiom\. It's hard to get across, so I went with whatever works\.]
 
-## [Every chapter title is an onsen related idiom\. It's hard to get across, so I went with whatever works\.]
+  
 **Chie:** I'm sorry to call you out here so suddenly, Ellen-san, Yui-chan\.  
 **Yui:** Don't worry about a thing\! For you, Chie-san, I'd come running through hell or high water\!  
 **Ellen:** That's right, Chie\.  

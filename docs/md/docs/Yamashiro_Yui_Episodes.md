@@ -213,8 +213,9 @@ Yamashiro Yui Episodes
 **Yui:** KI-YO-KA-CHWAAAN-\!　I'M- HERE- TO- HELP-, WITH YOUR KIMONO\!  
 **Kiyoka:** GYAAAAAAAAAAAA\!\!  
 **New Year's 2:** It's Fine, Isn't It\!  
+[This needs a TL note\. In period dramas, there's a cliched scene where the evil governor will tug the sash of a woman in a kimono, causing her to spin around as she comes undressed\. You've probably seen something like it, but Yui is doing the whole act and really hamming it up\.]
 
-## [This needs a TL note\. In period dramas, there's a cliched scene where the evil governor will tug the sash of a woman in a kimono, causing her to spin around as she comes undressed\. You've probably seen something like it, but Yui is doing the whole act and really hamming it up\.]
+  
 **Kiyoka:** Yui-chan, why are you here\.\.\.\.  
 **Yui:** Ｉ’ｍ　ｈｅｒｅ, 　ｔｏ　ｈｅｌｐ　ｙｏｕ，　ｇｅｔ　ｃｈａｎｇｅｄ－！  
 **Kiyoka:** Why are you talking so weird\!\?  
