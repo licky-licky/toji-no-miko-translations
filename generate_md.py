@@ -171,20 +171,10 @@ def generate_toc():
 def generate_file(title, data):
     if title == '2 - The Darkness Looming over the World' or 'Time Limit' in title:
         title = '2-' + title.replace(' - ', ' ')
-    mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_').replace('#','No.') + '.md', title=title.replace('~', '\~'))
+
+    mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_').replace('#','No.').replace('?', '_') + '.md', title=title.replace('~', '\~'))
+    
     for line in data.splitlines():
-        # line = line.replace('~', '\~')
-        # line = line.replace('!', '\!')
-        # line = line.replace('!?', '!\?')
-        # line = line.replace('!"', '!\\"')
-        # line = line.replace('***', '\*\*\*')
-        # line = line.replace('!?)', '\!\?\)')
-        # line = line.replace('!)', '!\)')
-        # line = line.replace('!?)', '\!\?\)')
-        # line = line.replace('~.', '~\.')
-        # line = line.replace('?)', '?\)')
-        # line = line.replace('~)', '~\)')
-        # line = line.replace('~?', '~\?')
         if 'https://' not in line:
             line = re.sub(r"([~\?\!\)\.\"])", r"\\\1", line)
             line = line.replace('***', '\*\*\*')
