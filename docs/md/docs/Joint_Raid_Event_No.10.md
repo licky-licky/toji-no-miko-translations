@@ -112,6 +112,6 @@ Several hours later--
 **Hirona:** \.\.\.What about you, Yuuki-saan\?  
 **Yuuki:** Well, sure I am\. If I had to put it like Akira-nee-sama, it's hardcore\. I have hardcore hopes for you\!  
 **Hirona:** Hardcore-\? Fufu\.\.\.\.\.\. I'll try my beest\.  
-**Yuuki:** If anything else comes up, let us know, okay\? I'm about to go to bed\.\.\. [yawn]\.  
+**Yuuki:** If anything else comes up, let us know, okay\? I'm about to go to bed\.\.\. [yawn\]\.  
 **Hirona:** Okaay, goodniight\.  
 > :ToCPrevNext

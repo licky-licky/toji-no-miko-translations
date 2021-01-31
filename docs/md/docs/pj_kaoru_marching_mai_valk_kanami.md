@@ -3,7 +3,7 @@ pj kaoru/marching mai/valk kanami
 =================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/U_8Z9M9PWSk"></iframe>](:Iframe)  
 
-## [Pajama - Kaoru: Start]: Isn't It Fine Every Once in a While\?
+## [Pajama - Kaoru: Start\]: Isn't It Fine Every Once in a While\?
 **Ellen:** That's the last one\! It's coming your way, Kiyoka\!  
 **Kiyoka:** Right\!  
 **Ellen:** Good\! Nice work\!  
@@ -39,7 +39,7 @@ pj kaoru/marching mai/valk kanami
 **Kiyoka:** Umm, you mean\.\.\. that high class looking hotel\?  
 **Ellen:** Yes\!  
 
-## [Pajama - Kaoru: End]: Pajama Party\!
+## [Pajama - Kaoru: End\]: Pajama Party\!
 **Ellen:** Tah-dah-\! We all have matching pajamas\!  
 **Kiyoka:** These pajamas are cute\! Though\.\.\.  
 **Kiyoka:** (Since we're wearing the same pajamas, the difference in chest size is\.\.\.\)  
@@ -76,7 +76,7 @@ pj kaoru/marching mai/valk kanami
 **Kiyoka:** Why do you look like you're having the most fun with this, Kaoru-san\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/VNAKMkkvBJE"></iframe>](:Iframe)  
 
-## [Marching - Mai: Start]: Minoseki's Marching Band
+## [Marching - Mai: Start\]: Minoseki's Marching Band
 **Mai:** Excuse me\.  
 **Ema:** I've been waiting to see you, Yanase-san\.  
 **Ema:** Actually, we've gotten a request for the Minoseki Academy's toji to perform in a marching band\.  
@@ -124,7 +124,7 @@ pj kaoru/marching mai/valk kanami
 **Kanami:** I had a feeling you'd say something like that\! I'll go with you\.  
 **Mihono:** Okay\!  
 
-## [Marching - Mai: End]: What They Saw
+## [Marching - Mai: End\]: What They Saw
 At the marching band's main performance\.
 
   
@@ -161,7 +161,7 @@ At the marching band's main performance\.
 **Mai:** You did, Kanami-chan\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/KlIqfSZ3Cl8"></iframe>](:Iframe)  
 
-## [Valkyrie - Kanami: Start]: Let's Do a Survey
+## [Valkyrie - Kanami: Start\]: Let's Do a Survey
 **Kanami:** Promotional photos\?  
 **Mai:** Yep, promotional photos\.  
 **Mai:** They say it's to extend the scope of activities for those who were chosen in the Miss Five Traditions contest, so we'll all be taking them\.  
@@ -197,7 +197,7 @@ At the marching band's main performance\.
 **Hiyori:** Me either\.  
 **Hiyori:** Since I'll be having my photos taken at Mai's studio\.  
 
-## [Valkyrie - Kanami: End]: All in the Same Boat\?
+## [Valkyrie - Kanami: End\]: All in the Same Boat\?
 **Ellen:** We got the results back from Kanamin's survey\!  
 **Kanami:** It's so tense\.\.\.\!  
 **Ellen:** They all put up a good fight, but\.\.\. The winner in the end was the valkyrie costume\!  

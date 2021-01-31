@@ -107,13 +107,13 @@ Iwakura Sanae Episodes
 **Sanae:** (\.\.\.She's not just stoic\. For her to have that kind of determination\.\.\.\)  
 **Sanae:** I now understand why you're doing this\.  
 **Sanae:** But, I'm still going to treat you the same as always\. I couldn't hate you, Juujou-san\.  
-**Hiyori:** \.\.\.I don't get it\. [muttered]  
+**Hiyori:** \.\.\.I don't get it\. [muttered\]  
 **Hiyori:** \.\.\.Suit yourself\. I'm going back to training\.  
 **Hiyori:** \.\.\.HNPH\!  
 **Sanae:** (She handles her sword without it wavering in the slightest\.\.\. It's like the embodiment of Juujou-san's unshakable conviction\.\)  
 **Sanae:** (Her stance seems a little overbearing\.\.\. But that could just be the shape in which her strength shows itself\.\)  
 **Sanae:** (Like I spoke to Shidou-senpai about; strength and conviction\.\.\. Both things I still don't have\.\)  
-**Sanae:** I can't help but admire her\.\.\. [whispered]  
+**Sanae:** I can't help but admire her\.\.\. [whispered\]  
 **Sanae:** (Juujou-san is so driven, but she's still the same age as us\. Someday\.\.\. I want to see her act more her age too\.\)  
 **Sanae:** (It'd be nice if I could get close enough to her that she'd let her guard down around me\.\.\.\)  
 --The next day\.
@@ -206,7 +206,7 @@ The referee signals the two who advanced to the finals to bow\. The match is abo
   
 **Sanae:** (Juujou-san\! You can do it--\!\)  
 
-## [Sanae Joins: Start]: The Curious Transfer Student
+## [Sanae Joins: Start\]: The Curious Transfer Student
 **Sanae:** (As the curtain closed on the tournament, with Shidou-senpai winning her second consecutive championship, around the time when spring was ending\.\.\. That's when she arrived\.\)  
 **Sanae:** (A transfer student, a little outside of the usual season\.\.\. Despite that, her skill as a toji was outstandingly superior\. Everyone could plainly see it\.\)  
 **Sanae:** (That was what made all of us interested in Juujou Hiyori-san\.\)  
@@ -243,7 +243,7 @@ The referee signals the two who advanced to the finals to bow\. The match is abo
 **Sanae:** Mmmm, it's not that I want to agree with you, but I'm going to try and do everything I can\.  
 **Sanae:** (After all, if I just had the right chance, I might be able to shorten the distance between myself and Juujou-san\.\)  
 
-## [Sanae Joins: End]: Distance of the Heart
+## [Sanae Joins: End\]: Distance of the Heart
 **Sanae:** Thank you for being my partner in practical training earlier, Juujou-san\. I learned a whole lot from getting to cross okatana with you\.  
 **Sanae:** Though, you were so fast I could barely keep up with you\.  
 **Hiyori:** \.\.\.What do you want from me\?  
@@ -282,7 +282,7 @@ The referee signals the two who advanced to the finals to bow\. The match is abo
 **Sanae:** They say faith can move mountains, so I'll just have to keep going slow and steady\. Mm\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/HguM1_W3fqw"></iframe>](:Iframe)  
 
-## [Halloween 19 - Sanae: Start]: I'm a Bakeneko
+## [Halloween 19 - Sanae: Start\]: I'm a Bakeneko
 **Hiyori:** You're going to be starring in a movie\?  
 **Sanae:** I-I am\.  
 **Sanae:** Umm, do you remember when Itomi-san was a stuntman for a movie that one time\?  
@@ -314,7 +314,7 @@ The referee signals the two who advanced to the finals to bow\. The match is abo
 **Sanae:** That sounds perfect\! You have to send me pictures, okay\! I want to see shots of you and Etou-san together\!  
 **Hiyori:** Why do they have to be me with Kanami\!\?  
 
-## [Halloween 19 - Sanae: End]: On to the Filming\!
+## [Halloween 19 - Sanae: End\]: On to the Filming\!
 The day of the film shoot\.
 
   
@@ -337,11 +337,11 @@ The day of the film shoot\.
 **Sanae:** I-It's already starting\!\?  
 **Sayaka:** You can do it, Sanae\.  
 **Sanae:** Y-Yeah\.\.\. I'll do what I can\!  
-**Sanae:** \.\.\.[gulp]  
+**Sanae:** \.\.\.[gulp\]  
 **Sanae:** (Right now, Kitora-san will be coming up from the first floor, so I have to frighten her\.\.\.\)  
 **Mirja:** I-Is somebody there\?  
 **Sanae:** (Ahh, I'm so nervous I can't stop myself from smiling\.\.\.\! I have to stiffen up my face some more\.\.\.\!\)  
-**Mirja:** [pant, pant]\.\.\.  
+**Mirja:** [pant, pant\]\.\.\.  
 **Sanae:** (Mirja-san's raising the sense of tension\.\.\. She's a good actor\.\.\.\)  
 **Sanae:** (I-I'll have to try and keep up with her performance\.\.\. One, two, and three\.\.\.\!\)  
 **Sanae:** UNYAAAAAA\!  

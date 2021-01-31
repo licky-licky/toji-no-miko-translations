@@ -146,7 +146,7 @@ Chain Story Archives Part 2.5.3
 **Hana:** They seriously did a number on the both of us\.  
 **Mai:** Suzumoto-san, and Yamashiro-san too\!\? Are you two okay\.\.\.\?  
 **Hana:** Doesn't feel like I'm doing that great\.  
-	[ambulance siren]
+	[ambulance siren\]
 
   
 **Yui:** Ah, sounds like our ride is here, Hana-san\.  

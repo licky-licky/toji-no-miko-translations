@@ -208,7 +208,7 @@ Revue: The Mystery of the Reappearing Aradama
 **Nene:** Nene\~\.\.\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/LkYpstF7b2U"></iframe>](:Iframe)  
 
-## [Stage Girl: Start]: We'll Starlight\!
+## [Stage Girl: Start\]: We'll Starlight\!
 **Hiyori:** HAAA\!  
 **Aradama:** GYAAAA\!  
 **Karen:** (stare\)\.\.\.  
@@ -241,7 +241,7 @@ Revue: The Mystery of the Reappearing Aradama
 **Karen:** With that settled\.\.\.  
 **Hiyori:** Let's begin\!  
 
-## [Stage Girl: End]: Don't Forget, Okay\?
+## [Stage Girl: End\]: Don't Forget, Okay\?
 **Hiyori:** A staircase\.\.\.\? The stage really does build up on its own\.  
 **Karen:** I'm not really sure how it works though\! YAAAAAA\!\!  
 **Hiyori:** Hmph\! Don't think you'll find an opening that easy\!  

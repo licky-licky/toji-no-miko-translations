@@ -20,7 +20,7 @@ Let's All BBQ in the Great Outdoors!
 **Chie:** If everyone would just do as I tell them\.\.\. Everything would turn out fine, you know\.\.\.\?  
 **Ellen:** But so long as you don't go overboard, barbecuing is just as simple as cooking it\.  
 **Nao:** You're right, there are lots of things you can easily barbecue, but to get the tastiest results, you can't stop working the spatula, you see\~\?  
-**Mihono:** Uraga-san, are you like a hot pot boss but for the barbecue\? [Someone who gets very bossy when cooking at a hot pot\.]  
+**Mihono:** Uraga-san, are you like a hot pot boss but for the barbecue\? [Someone who gets very bossy when cooking at a hot pot\.\]  
 **Mirja:** She is\. However, she's a hot pot boss as well, so she's both boss of the hot pot and barbecue\.  
 **Nao:** Hey, you keep giving them the wrong idea\~\. I'm not the boss of anything\~\. Just someone who wants to cook stuff as delicious as it can be\.  
 **Mihono:** With a barbecue boss here, my meat's going to be the best it can be\.\.\. Ehehe\.  

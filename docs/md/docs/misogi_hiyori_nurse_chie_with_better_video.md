@@ -5,7 +5,7 @@ https://streamable.com/k1r6uh
 
   
 
-## [Ceremonial Dress - Misogi: Start]: Isolation
+## [Ceremonial Dress - Misogi: Start\]: Isolation
 **Hiyori:** (When did this start, I wonder\? When I became conscious of my loneliness\.\)  
 **Hiyori:** (At the very least, I didn't used to be like this\. Because, back then, all I could ever think of was getting stronger\.\)  
 **Hiyori:** To take the duty my mother left behind into my own hands\.\.\.  
@@ -39,7 +39,7 @@ https://streamable.com/u1ps17
 
   
 
-## [Ceremonial Dress - Misogi: End]: Growth
+## [Ceremonial Dress - Misogi: End\]: Growth
 **Hiyori:** (It was after I met Kanami and the others that, before I knew it, it had become unusual for me to be alone\.\)  
 **Hiyori:** (So is that the reason\? Why, when I'm by myself, I started feeling my loneliness\.\)  
 **Hiyori:** (After feeling that, I wanted to ask myself\.\)  
@@ -79,7 +79,7 @@ https://streamable.com/98r1o2
 
   
 
-## [Nurse - Chie: Start]: I'm Worried After All
+## [Nurse - Chie: Start\]: I'm Worried After All
 **Mihono:** You're going to be in a practical exercise for medical courses\?  
 **Chie:** That's right\. It's part of a lecture I took that sounded interesting\. Which is why I won't be there for the investigation team on the day of the exercise\.  
 **Mirja:** I understand\.  
@@ -115,7 +115,7 @@ https://streamable.com/jbri0b
 
   
 
-## [Nurse - Chie: End]: It's Alright
+## [Nurse - Chie: End\]: It's Alright
 **Sakura:** \.\.\.I'm Hamatsuka Sakura, from the medical department\. I'm glad to be working with you today\.  
 **Chie:** And I am too, Hamatsuka-san\. I'm Setouchi Chie\.  
 **Chie:** It's nice to meet you\.\.\. Though, this isn't the first time we've met, is it\?  

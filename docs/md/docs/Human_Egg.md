@@ -2,7 +2,7 @@
 Human Egg
 =========
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/xkR1G_BHzCI"></iframe>](:Iframe)  
-[Like last year's Escape from Wonderland event, there was an official competition to guess the identities of all players before the final story update\.]
+[Like last year's Escape from Wonderland event, there was an official competition to guess the identities of all players before the final story update\.\]
 
   
 

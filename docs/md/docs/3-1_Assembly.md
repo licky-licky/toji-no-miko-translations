@@ -237,7 +237,7 @@
 **Chie:** Ufufu, that's Yui-chan alright\.  
 **Yui:** Ahaha, I guess that's me for you, so I'll introduce myself again\. Let's get along\~\!  
 **Mihono:** Same here, we're glad to have you\!  
-**Akane:** One last thing\. With everything being reorganized, your investigation team has been officially designated [YOUR TEAM NAME HERE]\. I expect good results from you girls\.  
+**Akane:** One last thing\. With everything being reorganized, your investigation team has been officially designated [YOUR TEAM NAME HERE\]\. I expect good results from you girls\.  
 **Akane:** That's all, you're dismissed\.  
 **Other:** Yui's Excuse  
 **Hana:** Really, I can't believe you\.\.\. You think you can get out of letting Kofuki-san nearly cut my head off with just \"Teehee\!\"\?  

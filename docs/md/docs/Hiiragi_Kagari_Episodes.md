@@ -82,7 +82,7 @@ Hiiragi Kagari Episodes
 
 ## 3: The Distance Between the Two
 **Kagari:** Nn\.\.\. Where am I\.\.\.\?  
-**Ema:** [sleeping]  
+**Ema:** [sleeping\]  
 **Kagari:** Ema-senpai\?  
 **Kagari:** (That's right, Yukari-sama told me to take the day off\.\.\. And I went along with Minato-senpai and Ema-senpai on their hot springs trip\.\.\.\)  
 **Ema:** Nnn\.\.\.  
@@ -181,7 +181,7 @@ Roughly one week after Kagari began attending Renpu Middle School\.\.\.
 **Yukari:** (She has her duty as a Hiiragi\.\.\. That must be part of why she keeps others at a distance\.\)  
 **Yukari:** (For me to tell her to make friends, when I'm part of the ones responsible\.\.\.\)  
 **Yukari:** (Even so, I can't leave her like this\.\)  
-**Yukari:** If I can't, then surely Minato could guide her in the right direction\. [mumbled]  
+**Yukari:** If I can't, then surely Minato could guide her in the right direction\. [mumbled\]  
 **Kagari:** Yukari-sama\? I didn't quite hear that\?  
 **Yukari:** I only meant to say, I want you to meet with my friends shortly\.  
 **Kagari:** I am informed of your friends, so there's no need for me to actually meet with them\.\.\.  

@@ -99,7 +99,7 @@ https://mega.nz/file/nqwn1Bwa#pCH63OZ9pHlQCAIo68txJXTyZzOeea37dBGUZGJrNtM
 ------ MIHONO'S GAME ------
 
   
-[---MAIN STORY---]
+[---MAIN STORY---\]
 
   
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wy5MTXXVR4yMTynzFWOeIM"></iframe>](:Iframe)  
@@ -374,7 +374,7 @@ https://pastebin.com/wWncyRed
   
 
 ## 7 - Awakening
-[---TOJI EPISODES---]
+[---TOJI EPISODES---\]
 
   
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xiXaTtuCbIE6_HVzweFFCu"></iframe>](:Iframe)  
@@ -489,7 +489,7 @@ https://pastebin.com/DP0ZZXZW
 https://pastebin.com/G0U9Ncxe
 
   
-[---EVENTS---]
+[---EVENTS---\]
 
   
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9wWrZaFZoSz3smnYfuckvBL"></iframe>](:Iframe)  

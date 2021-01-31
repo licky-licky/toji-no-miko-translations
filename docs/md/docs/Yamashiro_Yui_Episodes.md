@@ -213,7 +213,7 @@ Yamashiro Yui Episodes
 **Yui:** KI-YO-KA-CHWAAAN-\!　I'M- HERE- TO- HELP-, WITH YOUR KIMONO\!  
 **Kiyoka:** GYAAAAAAAAAAAA\!\!  
 **New Year's 2:** It's Fine, Isn't It\!  
-[This needs a TL note\. In period dramas, there's a cliched scene where the evil governor will tug the sash of a woman in a kimono, causing her to spin around as she comes undressed\. You've probably seen something like it, but Yui is doing the whole act and really hamming it up\.]
+[This needs a TL note\. In period dramas, there's a cliched scene where the evil governor will tug the sash of a woman in a kimono, causing her to spin around as she comes undressed\. You've probably seen something like it, but Yui is doing the whole act and really hamming it up\.\]
 
   
 **Kiyoka:** Yui-chan, why are you here\.\.\.\.  
@@ -251,7 +251,7 @@ Yamashiro Yui Episodes
 **Kiyoka:** I don't want your help\!\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/WUlpqEzhjx0"></iframe>](:Iframe)  
 
-## [Swimsuit 19: Start]: The Pool is Heaven
+## [Swimsuit 19: Start\]: The Pool is Heaven
 **Yui:** Tsugumi-san, want to come to the pool with me next Sunday\?  
 **Tsugumi:** Just the two of us, Yamashiro-san\?  
 **Yui:** You're fine with it just being you and me\!\? You're so adventurous, Tsugumi-san-\!\!  
@@ -285,7 +285,7 @@ Yamashiro Yui Episodes
 **Yui:** From the sound of things, Kanami-chan and Mai-chan got there ahead of us, so we should race on over there too\!  
 **Yui:** I just can't calm down anymore\~\. The pool is seriously like visiting heaven\!  
 
-## [Swimsuit 19: End]: This is What I Wanted to Do\!
+## [Swimsuit 19: End\]: This is What I Wanted to Do\!
 **Yui:** We've arrived at the floating island attraction\! I will now explain the rules\!  
 **Kanami:** The rules\?  
 **Yui:** The difficulty of this attraction is designed for normal people, but we're toji\!  
@@ -325,7 +325,7 @@ Yamashiro Yui Episodes
 **Yui:** But, I still had a lot of fun\. Let's go again, Tsugumi-san\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/f-Eb7Fydp_U"></iframe>](:Iframe)  
 
-## [Yuusha 2 Yui: Start]: Little Sister and Big Sister
+## [Yuusha 2 Yui: Start\]: Little Sister and Big Sister
 Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 
   
@@ -342,7 +342,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Yui:** (This is different from what I feel with everyone in the investigation team\.\.\. Could this be, my motherly instincts\!\?\)  
 **Itsuki:** Yui-san\?  
 **Yui:** It's nothing at all, nothing at all\.  
-**Yui:** [inhale]\.\.\. [exhale]\.\.\. Okay\! While we're moving around together, you can feel free to think of me as your big sister\!  
+**Yui:** [inhale\]\.\.\. [exhale\]\.\.\. Okay\! While we're moving around together, you can feel free to think of me as your big sister\!  
 **Itsuki:** You'll be my big sister, Yui-san\?  
 **Yui:** I might not look like it, but I have a real little sister, which makes me a real big sister\.  
 **Itsuki:** If she has a big sister like you, your little sister must be having fun every day\.  
@@ -356,12 +356,12 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Itsuki:** Yes, Onee-chan's pretty amazing\!  
 **Yui:** Fuhehe, you're so cuteee\.\.\.  
 **Itsuki:** Yui-san\?  
-**Yui:** [drool]\.\.\. Oops\.  
+**Yui:** [drool\]\.\.\. Oops\.  
 **Yui:** (Control yourself\! I've gotta make big sister moves in front of Itsuki-chan\!\)  
 **Yui:** Aradama\!\? Itsuki-chan, get ready for battle\!  
 **Itsuki:** Right\!  
 
-## [Yuusha 2 Yui: End]: There's No Such Thing As a Little Sister Who Hates Her Big Sister
+## [Yuusha 2 Yui: End\]: There's No Such Thing As a Little Sister Who Hates Her Big Sister
 **Yui:** YAAAAAAAAAAA\!  
 **Aradama:** GUOOOOOOOOOOOO\!  
 **Yui:** It's a real pain with this many of them\! Are you doing okay, Itsuki-chan\!\?  
@@ -399,7 +399,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Itsuki:** Right\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/pR7T3znqc5E"></iframe>](:Iframe)  
 
-## [Misogi - Yui: Start]: A Different Possibility
+## [Misogi - Yui: Start\]: A Different Possibility
 **Tsugumi:** Good work, Yamashiro-san\. That's all I need from you for today\.  
 **Yui:** Wait, are you sure\?  
 **Tsugumi:** Yes\. I need to set some aside for Shichinosato-san, after all\.  
@@ -438,7 +438,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Yui:** The elite guard\.\.\.  
 **Yui:** I guess I'll ask Suzuka-san, since she's from Ayanokouji Martial Arts School too\.  
 
-## [Misogi - Yui: End]: Things Are Best the Way They Are\!
+## [Misogi - Yui: End\]: Things Are Best the Way They Are\!
 **Yui:** Hello\! Is Suzuka-san home at the moment\!  
 **Suzuka:** \.\.\.This isn't my home, I'll have you know\. Was there something you needed\?  
 **Yui:** Actually, there's something I wanted to talk to you about\.\.\.  
@@ -492,7 +492,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Yui:** Right\! Yamashiro Yui's going at it in full spirit for another day\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
 
-## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
+## [China - Yui: Start\]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting\?  
 **Mihono:** I'm all for it\~\! There's still a lot more shops I haven't been to yet\. Do you two wanna come with me\?  
 **Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~\.  
@@ -514,7 +514,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Mihono:** Ehh-- Starting with me\!\? If you just tell me we're going on a date like that, I don't have time to get my heart ready\.\.\.  
 **Yui:** Don't you worry about that, Honey\. I'll escort you around just right\. Why don't we find somewhere to get some delicious sweets first\?  
 **Yui:** This place sells the apricot seed soft serve that's the talk of Chinatown\! I don't have much pocket money on me today, so let's share one between us\. Here, open wide\.  
-**Mihono:** Ahhn\. [chew chew]\.\.\. It's yummy-\!\!  
+**Mihono:** Ahhn\. [chew chew\]\.\.\. It's yummy-\!\!  
 **Yui:** Alright, now it's your turn, Mihono-chan\! I'll say \"ahh\", and you\.\.\.  
 **Mihono:** Ah, look, look\! In that general store next door\! They've got cute panda things you can wear\!  
 **Yui:** Ah, wait, Mihono-chaaan\!  
@@ -530,7 +530,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Yui:** Uuu\~, when you put it like that, I'm losing confidence\. Could I have a little time to think this over\?  
 **Yui:** Get ahold of yourself, Yui\. Remember the strongest Chinatown fantasy date plan you fantasized about over and over day after day\. Chinatown\.\.\. Chinatown\.\.\. When I think of an ideal date in Chinatown, it's gotta be\.\.\.  
 
-## [China - Yui: End]: A Practice Run\!\? Yui's Fantasy Chinatown Date\!
+## [China - Yui: End\]: A Practice Run\!\? Yui's Fantasy Chinatown Date\!
 **Yui:** Chinatown date\.\.\. Chinatown date\.\.\. When I think of situations for the Chinatown date I've been dreaming of, there's\.\.\.  
 **Yui:** That'll do\~\!\!\!\!\!  
 **Mihono:** You look like a lightbulb went off in your head, Yui\.  
@@ -538,7 +538,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Yui:** Anyway, let's get back into it, and swap partners\! I'll need you to be play my girlfriend now, Tsugumi-san\!  
 **Tsugumi:** (Sigh, of course it would come to this\. Though, I was the one who asked what a date was to start, so I can't back out now, can I\.\.\.\)  
 **Tsugumi:** Understood\. Then, please go easy on me\.  
-**Yui:** Just leave that to me\! Anyway, let's start right off by holding hands\! [squeeze\~]\. Woww, Tsugumi-san, your hands are so soft and warm\~\!  
+**Yui:** Just leave that to me\! Anyway, let's start right off by holding hands\! [squeeze\~\]\. Woww, Tsugumi-san, your hands are so soft and warm\~\!  
 **Tsugumi:** Y-Yamashiro-san\! What are you doing\? You got too close all of a sudden\!  
 **Yui:** See, I remembered\. When you think of a date, it means the two of you are closer than friends\! That means, the two of us need to have a closeness deeper than friendship\.  
 **Tsugumi:** Deeper than friendship\.\.\. Is that so\.  
@@ -578,7 +578,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Tsugumi:** A three girl date\.\.\.\? Can you really call an outing with three people a date\? Sigh\.\.\. I'm understanding the definition less and less\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/mM0jQ11E1pE"></iframe>](:Iframe)  
 
-## [Pirate - Yui: Start]: After the Mission, We're Pirates\!
+## [Pirate - Yui: Start\]: After the Mission, We're Pirates\!
 **Aradama:** GGGII\.\.\.\!  
 **Ellen:** --YAAH\!  
 **Yui:** Great work as always, Ellen-san\! You look so cool swinging your okatana around; I can't keep my eyes off you\~\.  
@@ -616,7 +616,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Ellen:** I think they'll be fine with it, but I'll check with them just in case\.  
 **Mihono:** Ah, thanks for that\! We'll go on ahead and meet up with Akira-san then\!  
 
-## [Pirate - Yui: Start]: Captain Yui's Treasures
+## [Pirate - Yui: Start\]: Captain Yui's Treasures
 **Yui:** Welcome to my band of pirates, Ellen-san, Kiyoka-chan\! We're going to find the treasure for sure\!  
 **Ellen:** Aye aye sir\! Captain Yui\! We'll have the treasure in our hands\!  
 **Kiyoka:** You're really getting into this, Ellen-san\!\?  

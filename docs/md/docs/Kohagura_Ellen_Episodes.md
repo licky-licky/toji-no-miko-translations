@@ -178,7 +178,7 @@ Kohagura Ellen Episodes
 **Ellen:** Didn't I tell you, Mimimin\? That I'd show you my true power\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/BHI45rWeMrA"></iframe>](:Iframe)  
 
-## [New Year's Ellen: Start]: Hanetsuki Competition\!
+## [New Year's Ellen: Start\]: Hanetsuki Competition\!
 **Kanami:** The crowd of people here for their first shrine visit sure is huge\.  
 **Ellen:** But it's also a part of the season here in Japan\. It's fun waiting around in all the commotion\.  
 **Kaoru:** And here I thought I'd get to laze around at home through New Year's-\.  
@@ -194,7 +194,7 @@ Kohagura Ellen Episodes
 **Mai:** Since I'm here at the shrine, I thought I would buy some protective charms for my family, then bring them back home\.  
 **Ellen:** That sounds nice too\. Hmm, I can't make up my mind\. Isn't there some kind of special event you do at New Year's\?  
 **Kaoru:** It's not really an event, but what if we do that\?  
-**Kanami:** Ah\! We could play hanetsuki\! 	[Hanetsuki is a game similar to badminton, traditionally played at New Year's]  
+**Kanami:** Ah\! We could play hanetsuki\! 	[Hanetsuki is a game similar to badminton, traditionally played at New Year's\]  
 **Ellen:** Looks like fun\! Let's do it\!  
 **Hiyori:** I'll pass\. You can have fun on your--  
 **Kaoru:** Don't you know, Eternal\? Playing hanetsuki is considered an act of prayer for a girl's development\.  
@@ -218,11 +218,11 @@ Kohagura Ellen Episodes
 **Kanami:** Give it your best shot, you two\~\!  
 **Ellen:** Hiyoyon, here I go-\? Let's start\! There-\!  
 
-## [New Year's Ellen: End]: Fun Together\!
+## [New Year's Ellen: End\]: Fun Together\!
 **Hiyori:** HA-\!  
 **Ellen:** Not bad, Hiyoyon\! HO-\!  
 **Kanami:** That's crazy\! They've been going for so long now\. Other people who came to the shrine are starting to watch too\.  
-**Kaoru:** Yep, that's Hiyori alright\. It's like she's becoming one with the hagoita\. [Flat paddle used in hanetsuki]  
+**Kaoru:** Yep, that's Hiyori alright\. It's like she's becoming one with the hagoita\. [Flat paddle used in hanetsuki\]  
 **Hiyori:** Kaoru\.\.\. Could you\.\.\. Shut up-\!  
 **Ellen:** How about this\? HA-\!\!  
 **Hiyori:** \.\.\.Kh\!  
@@ -252,7 +252,7 @@ Kohagura Ellen Episodes
 **Ellen:** Alll-right, let's all have another fun year together\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/j47iC8Z6kho"></iframe>](:Iframe)  
 
-## [Casual '20 - Ellen: Start]: The Pair's New Year's Eve
+## [Casual '20 - Ellen: Start\]: The Pair's New Year's Eve
 **Aradama:** GUOOOOO\.\.\.  
 **Kaoru:** They're still coming\? Oi, Aradama, could you at least take it easy on New Year's Eve\.\.\.  
 **Ellen:** Kaoru, complaining to the aradama won't do you any good\. We're nearly through with this year's missions\. Let's give it one last push\!  
@@ -296,7 +296,7 @@ Kohagura Ellen Episodes
 **Nene:** Nee\.  
 **Ellen:** Come on and cheer up, Kaoru, Nene\. I've got a good idea\!  
 
-## [Casual '20 - Ellen: End]: The Happy New Year Plan
+## [Casual '20 - Ellen: End\]: The Happy New Year Plan
 **Kanami:** Ellen-chan, Kaoru-chan, Happy New Year\!  
 **Hiyori:** Leave it to Ellen to have a room at a fancy hotel like this for a party\.  
 **Ellen:** Kanamin, Hiyoyon, thanks for coming\. And, Happy New Year to you too\.  
@@ -314,12 +314,12 @@ Kohagura Ellen Episodes
 **Ellen:** It's still going to take a while, so let's have some tea while we wait\! Here, Kaoru, some warm milk tea for you\.  
 **Kaoru:** Fwahh\~, that's good stuff\. Sitting out in the cold until the sun came up wasn't gonna happen, but I feel like I could wait for hours like this\.  
 **Kaoru:** The heater's working, the sofa's sucking me in\.\.\. Yawnn\.\.\. Getting sleepy\.\.\.  
-**Kaoru:** [snooze\.\.\.]  
+**Kaoru:** [snooze\.\.\.\]  
 **Nene:** Nenee\.\.\.  
 **Kanami:** Kaoru-chan fell asleep just sitting down, huh\.  
 **Hiyori:** She must be tired, since she was working missions all the way to New Year's Eve\.  
 **Ellen:** How about we let her sleep like this until the sunrise\.  
-**Kaoru:** [sleepy breathing\.\.\.]  
+**Kaoru:** [sleepy breathing\.\.\.\]  
 **Ellen:** Kaoru, wake up now\. The sun's just about to come up\.  
 **Kaoru:** \.\.\.Nn\? Feels like Ellen's voice is right in my ear\.\.\.  
 **Kaoru:** Ah-- I must've passed out on your lap at some point\.  

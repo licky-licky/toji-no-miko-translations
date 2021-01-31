@@ -197,7 +197,7 @@ Juujou Hiyori Episodes
 **Hiyori:** You just get back to work\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/LkYpstF7b2U"></iframe>](:Iframe)  
 
-## [Stage Girl: Start]: We'll Starlight\!
+## [Stage Girl: Start\]: We'll Starlight\!
 **Hiyori:** HAAA\!  
 **Aradama:** GYAAAA\!  
 **Karen:** (stare\)\.\.\.  
@@ -230,7 +230,7 @@ Juujou Hiyori Episodes
 **Karen:** With that settled\.\.\.  
 **Hiyori:** Let's begin\!  
 
-## [Stage Girl: End]: Don't Forget, Okay\?
+## [Stage Girl: End\]: Don't Forget, Okay\?
 **Hiyori:** A staircase\.\.\.\? The stage really does build up on its own\.  
 **Karen:** I'm not really sure how it works though\! YAAAAAA\!\!  
 **Hiyori:** Hmph\! Don't think you'll find an opening that easy\!  
@@ -267,7 +267,7 @@ Juujou Hiyori Episodes
 **Karen:** Okay\! I'll never forget it, Hiyori-chan\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Wlln5tvZrb0"></iframe>](:Iframe)  
 
-## [Ceremonial Dress - Misogi: Start]: Isolation
+## [Ceremonial Dress - Misogi: Start\]: Isolation
 **Hiyori:** (When did this start, I wonder\? When I became conscious of my loneliness\.\)  
 **Hiyori:** (At the very least, I didn't used to be like this\. Because, back then, all I could ever think of was getting stronger\.\)  
 **Hiyori:** To take the duty my mother left behind into my own hands\.\.\.  
@@ -298,7 +298,7 @@ Juujou Hiyori Episodes
 **Hiyori:** I can keep going\.\.\.\! I'm not done here yet\.\.\.\!  
 **Hiyori:** (That's right\.\.\. Until I met Kanami and the others, and began spending time with them\.\.\.\)  
 
-## [Ceremonial Dress - Misogi: End]: Growth
+## [Ceremonial Dress - Misogi: End\]: Growth
 **Hiyori:** (It was after I met Kanami and the others that, before I knew it, it had become unusual for me to be alone\.\)  
 **Hiyori:** (So is that the reason\? Why, when I'm by myself, I started feeling my loneliness\.\)  
 **Hiyori:** (After feeling that, I wanted to ask myself\.\)  
@@ -336,7 +336,7 @@ Juujou Hiyori Episodes
 **Hiyori:** (With this, I won't regret these days I spend with Kanami and the rest\. No matter what may come, I won't regret it\.\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Vm_3KVXqxvE"></iframe>](:Iframe)  
 
-## [Yuusha 2: Hiyori: Start]: Toji and Heroes-- The Stoic Pair
+## [Yuusha 2: Hiyori: Start\]: Toji and Heroes-- The Stoic Pair
 **Sonoko:** We'll see you off from here\~\.  
 **Kanami:** Hiyori-chan, I know your aradama mission with Karin-chan will be a bit of a long trip, but do what you can\.  
 **Hiyori:** Sure, you don't have to worry\.  
@@ -374,7 +374,7 @@ Juujou Hiyori Episodes
 **Karin:** I-Isn't that just normal\.\.\.\? That kind of attitude\. All of you too, if you came to our world and had the strength to fight our enemies, you'd do it, wouldn't you\?  
 **Hiyori:** That's true\. I'd hope so\.  
 
-## [Yuusha 2: Hiyori: End]: Niboshi and Chocolate Mint
+## [Yuusha 2: Hiyori: End\]: Niboshi and Chocolate Mint
 **Karin:** TORYAAA-\! --HAAH\!  
 **Aradama:** AAAAaaaa\.\.\.  
 **Karin:** Now, Hiyori\!  
@@ -383,14 +383,14 @@ Juujou Hiyori Episodes
 **Hiyori:** Judging from the report, there should be a few more of them, but we don't seem likely to make contact with any more around here\.  
 **Hiyori:** Why don't we move positions some while keeping on the alert\.  
 **Karin:** Alright\. We should rehydrate now, while we have the opportunity\.  
-**Hiyori:** Good idea\. [gulp gulp]\.\.\.  
+**Hiyori:** Good idea\. [gulp gulp\]\.\.\.  
 **Karin:** I'll take some supplements too\.\.\.  
 **Hiyori:** \!\?  
 **Hiyori:** (Just how many does she have\!\?\)  
 **Hiyori:** \.\.\.Hey, why are you taking so many supplements\?  
 **Karin:** It's a part of keeping my body in healthy condition, of course\. If I were getting sick often, I wouldn't be able to function as a Hero\.  
 **Hiyori:** You have a point, but can't you get the nutrition you need from proper meals\?  
-**Karin:** \.\.\.I do eat proper meals too, whenever possible\. [crunch crunch]\.\.\.  
+**Karin:** \.\.\.I do eat proper meals too, whenever possible\. [crunch crunch\]\.\.\.  
 **Hiyori:** \.\.\.And after supplements, you pull out niboshi\.  
 **Karin:** You see, niboshi doesn't just give you calcium, but also a whole host of vitamins, DPA, and EHA\.  
 **Karin:** And, since all the varieties of niboshi means you'll never get tired of it, it wouldn't be unreasonable to call it the perfect food\.  
@@ -398,7 +398,7 @@ Juujou Hiyori Episodes
 **Karin:** Sonoko's the only one who calls me that, okay\.\.\.\!  
 **Karin:** Here, do you want some too\?  
 **Hiyori:** I guess I'll have some\. Prioritizing your health is just as important for a toji\.  
-**Hiyori:** [crunch crunch]\.\.\. These are good\.  
+**Hiyori:** [crunch crunch\]\.\.\. These are good\.  
 **Karin:** Aren't they\? I'm glad I got paired with someone who can understand the quality of niboshi\.  
 **Hiyori:** I do like Japanese foods\. I eat niboshi too, from time to time\.  
 **Karin:** What's your favorite food, Hiyori\?  
@@ -426,7 +426,7 @@ Juujou Hiyori Episodes
 **Karin:** Hey\.\.\. They aren't all chocolate mint, are they\?  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/FUwv5IZDyA4"></iframe>](:Iframe)  
 
-## [Fantasy - Hiyori: Start]: Welcome to the World of Fantasy
+## [Fantasy - Hiyori: Start\]: Welcome to the World of Fantasy
 **Tsugumi:** Thank you for participating in today's test of our new training simulation system, Juujou-san, Morishita-san\.  
 **Hiyori:** I don't mind helping, but\.\.\. Why is Morishita-san here\? She's from the equipment department, isn't she\?  
 **Kihiro:** That would be to seek out inspiration, Miss Juujou\!  
@@ -458,7 +458,7 @@ Juujou Hiyori Episodes
 **Hiyori:** Y-Yeah\.\.\.  
 **Hiyori:** (\.\.\.\.\.\.I'm not so sure about this\.\)  
 
-## [Fantasy - Hiyori: End]: Cheering Drone\!
+## [Fantasy - Hiyori: End\]: Cheering Drone\!
 **Aradama:** GYAAGYAA\!  
 **Hiyori:** Gh\.\.\. Their attack power keeps going up\.\.\.\!  
 **Kihiro:** At times like these, leave it to me\! Activate magic: Cheering Drone\!  
@@ -497,7 +497,7 @@ Juujou Hiyori Episodes
 **Hiyori:** (I get the feeling two people who should never team up just got put together\.\.\.\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/61uP0-QaIpA"></iframe>](:Iframe)  
 
-## [Pirate - Hiyori: Start]: Inami and Shichinosato and\.\.\.
+## [Pirate - Hiyori: Start\]: Inami and Shichinosato and\.\.\.
 **Aradama:** KSHAAAAAA\.\.\.\!\!  
 **Suu:** \.\.\.I-It's here\!\?  
 **Hiyori:** (There's no way she'll beat it hunched over in fear like that--\)  
@@ -542,7 +542,7 @@ Juujou Hiyori Episodes
 **Kofuki:** Tch\.\.\. Guess if I've gotta\.  
 **Suu:** Ehh\.\.\. As long as there aren't any aradama, I'm not like that\! \.\.\.I won't lose the map, okay\!\?  
 
-## [Pirate - Hiyori: End]: This Might Not Be So Bad Every Now and Then\.\.\. Huh
+## [Pirate - Hiyori: End\]: This Might Not Be So Bad Every Now and Then\.\.\. Huh
 **Suu:** I didn't think the cave drawing on the map would take us to a big stalactite cave facility, and they even had a boat for us\. This has to be it--  
 **Suu:** --HYAUU\!\?  
 **Kofuki:** Don't shout like that outta nowhere\.\.\. You made me jump\.  

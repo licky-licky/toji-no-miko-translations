@@ -30,7 +30,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Mai:** Let's get everything ready for the bento\! Since we're having a picnic and all, I can get a little extravagant\.  
 **Mai:** Karaage, ginger fried pork, hijiki kinpira\. With this many brown colored foods, I should add a side dish of boiled spinach with soy sauce, tamagoyaki with tomatoes, and some Chinese style cucumber salad\!  
 **Mai:** After that\.\.\. Kanami-chan's favorite: natto over rice\! \.\.\.I can't make that now though\.\.\. Oh, right\! I can just set the rice cooker for tomorrow morning\.\.\. There\!  
-**Mai:** Fufu\~\. Mr\. Teru Teru Bozu, I'll be needing your help tomorrow\~\. [teru teru bozu are simple dolls made to pray for a sunny day]  
+**Mai:** Fufu\~\. Mr\. Teru Teru Bozu, I'll be needing your help tomorrow\~\. [teru teru bozu are simple dolls made to pray for a sunny day\]  
 --The day of the picnic\.
 
   
@@ -86,7 +86,7 @@ There's an Anomaly in the Seasonal Rain Front...
 **Yui:** Kanami-chan\.\.\. I love you\!  
 **Kofuki:** Get off of her\. It's wet and gross enough as it is without you making things more muggy\.  
 **Yui:** This isn't muggy at all\! Actually, it's pretty cold after the rain\.\.\.  
-**Yui:** I just made a sound unbecoming of a maiden\! [her stomach growled]  
+**Yui:** I just made a sound unbecoming of a maiden\! [her stomach growled\]  
 **Hiyori:** Who are you calling a maiden\.  
 **Yui:** No matter how you look at me, I'm a maiden, aren't I\!\? Anywayyy, my heart might be full, but my stomach right now\.\.\.  
 **Mai:** I did bring a bento box with me\.\.\. Would you like to have some\?  

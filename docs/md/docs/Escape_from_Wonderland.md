@@ -2,7 +2,7 @@
 Escape from Wonderland
 ======================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/5On4WnD5fIA"></iframe>](:Iframe)  
-[This event came accompanied with hint cards you got for progressing through the maps\. They're all at the bottom of each segment\.]
+[This event came accompanied with hint cards you got for progressing through the maps\. They're all at the bottom of each segment\.\]
 
   
 
@@ -38,7 +38,7 @@ Escape from Wonderland
 **Ellen:** Then, we're going to have to figure out how to leave this place\!  
 **Ellen:** The only way out of the room is through this locked door\. There has to be a key around here somewhere\.  
 **Mirja:** I don't see any key, however\.\.\. There is a photograph on the table\.  
-**[Q0]:** (There is a photo of Kaoru, Mihono, Kiyoka, Kofuki, Yume, Ellen, Mirja, and Suzuka\.\.\.\)  
+**[Q0\]:** (There is a photo of Kaoru, Mihono, Kiyoka, Kofuki, Yume, Ellen, Mirja, and Suzuka\.\.\.\)  
 **Mirja:** On the backside there is the letter \"Q\"\.\.\. Does it mean \"Question\"\?  
 **Yume:** Are they saying we have to answer the question if we want to leave the room\?  
 **Ellen:** Oh\! It's an escape room game\!  
@@ -97,7 +97,7 @@ Escape from Wonderland
 **Letter from the White Rabbit:** Help us, Miss Toji\! Defeat the aradama, and protect Wonderland\!  
 **Suzuka:** Aradama have appeared in Wonderland, and they've brought toji in to help\.\.\. I suppose that's the story here\.  
 **Suzuka:** What does the question say\?  
-**[Q1]:** Two Dumptys, Five Tweedle Dums and Tweedle Dees, and six Humptys chased the eight White Rabbits\.  
+**[Q1\]:** Two Dumptys, Five Tweedle Dums and Tweedle Dees, and six Humptys chased the eight White Rabbits\.  
 **Yume:** \"Two Dumptys, Five Tweedle Dums and Tweedle Dees, and six Humptys chased the eight White Rabbits\"\.\.\.\?  
 **Suzuka:** Why are Humpty and Dumpty written separately\.\.\.\?  
 **Yume:** Did you figure something out, Suzuka-onee-san\?  
@@ -143,7 +143,7 @@ Escape from Wonderland
 
 ## 3: The Treasure Room
 **Ellen:** The answer is \"Buddy\"\!  
-**Ellen:** [White rabbit] is \"White Rabbit\"\! And there were eight of them, so we pick out the eighth letter: \"b\"\!  
+**Ellen:** [White rabbit\] is \"White Rabbit\"\! And there were eight of them, so we pick out the eighth letter: \"b\"\!  
 **Ellen:** If we keep picking out letters of the alphabet like that, then line them up in order, we get\.\.\. Buddy\!  
 **Yume:** \.\.\.\.\.\.  
 **Suzuka:** What is it, Yume\? You're pouting like something's the matter\.  
@@ -152,7 +152,7 @@ Escape from Wonderland
 **Kiyoka:** In this room too, they left two letters for us\. Let's see\.\.\.  
 **Letter from the White Rabbit:** Ahh\!\? My treasures were scattered all about\!\!  
 **Kiyoka:** Treasures\.\.\.\? Is the question this time about finding treasures\?  
-**[Q2]:** MITSU TSUGU tsu ha SUI YASU no JIN ZEN GIRI ru no ya ECHI KANE ki  
+**[Q2\]:** MITSU TSUGU tsu ha SUI YASU no JIN ZEN GIRI ru no ya ECHI KANE ki  
 **Kiyoka:** Umm, \"mitsu tsugu tsu\"\.\.\.\?  
 **Yume:** Let me have it, Onee-san\! \.\.\.The heck is this\!\?  
 **Mihono:** I want to see too, Tsubakuro-san\! \.\.\.Whoa, my head hurts\.  
@@ -205,7 +205,7 @@ Escape from Wonderland
 **Kofuki:** You're overthinking it\. They told us we could eat them, so what's wrong with it\?  
 **Suzuka:** They did not say we could eat them\. Mashiko-san, what is the question this time\?  
 **Kaoru:** It's right here\.  
-**[Q3]:** A: eaiohinebtehexo B: tlewtohaercherm C: ascfasttloatnto  
+**[Q3\]:** A: eaiohinebtehexo B: tlewtohaercherm C: ascfasttloatnto  
 **Mihono:** \"Eaiohinebtehexo\"\.\.\.  
 **Kofuki:** \"Tlewtohaercherm\"\.\.\.  
 **Yume:** \"Ascfasttloatnto\"\?  
@@ -271,7 +271,8 @@ Escape from Wonderland
 **Kofuki:** What, is that all of them\?  
 **Yume:** They were way too weak\! I didn't get to have any fun at all\.  
 **Yume:** And anyway, they didn't give us a hint card either; we got a letter instead\.  
-**[R]:** There is a traitor among you\. Listen to the white rabbit to find who can stop them\!  
+
+## [R\]: There is a traitor among you\. Listen to the white rabbit to find who can stop them\!
 **Suzuka:** This means\.\.\.  
 **Kiyoka:** One of us in here is a traitor\.\.\.\?  
 **Mihono:** W-Well it's not me\!\?  
@@ -375,7 +376,7 @@ Throughout the story so far, there are hints to the traitor's identity\.
 **Everyone:** Out of the question\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/tSsi3HMt5qU"></iframe>](:Iframe)  
 
-## [Fairytale Mihono: Start]: Off to Wonderland
+## [Fairytale Mihono: Start\]: Off to Wonderland
 **Mihono:** \.\.\.\.\.\.I don't get it at allll\. Help me, Chii-nee\.\.\.  
 **Chie:** Okay, okay, which problem don't you understand\?  
 **Mihono:** \.\.\.From here, to here\.  
@@ -408,7 +409,7 @@ Throughout the story so far, there are hints to the traitor's identity\.
 **Mihono:** \.\.\.Huh\?  
 **Mihono:** GYAAAAAAAAAAAAAAAAAAAAA\!\!  
 
-## [Fairytale Mihono: End]: Which Me is the Real Me\?
+## [Fairytale Mihono: End\]: Which Me is the Real Me\?
 **Mihono:** I'M-FALL-ING-DO-WWWN--\!\!  
 **Chie:** Good morning, Mihono-chan\.  
 **Mihono:** EEEEEEE\!\?  

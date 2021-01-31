@@ -2,7 +2,7 @@
 Mystery TRPG: The Steam Shrouded Murder Case
 ============================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/MV1WLV8-IJo"></iframe>](:Iframe)  
-[Another mystery event, there was a contest to guess the killer before the final chapter unlocked\.]
+[Another mystery event, there was a contest to guess the killer before the final chapter unlocked\.\]
 
   
 

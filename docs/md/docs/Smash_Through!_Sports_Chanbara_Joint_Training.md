@@ -102,8 +102,8 @@ Smash Through! Sports Chanbara Joint Training
 **Ellen:** So much for our surprise attack-\. Mirja, are we okay to go\?  
 **Mirja:** Yes, I sent a message to the administrators that Etou Kanami has encountered the corresponding team\.  
 **Sanae:** They're messaging to start the battle\.\.\.\! Yanase-san\?  
-**Mai:** Mihono-chan and I will go after that senpai\.\.\. [whispered]  
-**Mihono:** Ah, sure\! [whispered]  
+**Mai:** Mihono-chan and I will go after that senpai\.\.\. [whispered\]  
+**Mihono:** Ah, sure\! [whispered\]  
 **Mirja:** Yamashiro Yui\.  
 **Yui:** I'm already on it\! Our hearts are connected, Mirja-san\!  
 **Sanae:** Juujou-san, you take Etou-san\. Ban-san, please back me up\.  
@@ -256,7 +256,7 @@ Smash Through! Sports Chanbara Joint Training
 **Ellen:** That's the spirit\! The day's only just getting started, so let's enjoy it to our heart's content\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/eNoknnmG1eI"></iframe>](:Iframe)  
 
-## [Kanami: Start]: Please, Mai-chan\!
+## [Kanami: Start\]: Please, Mai-chan\!
 **Kanami:** Let's go to the pool together, Mai-chan\!  
 **Kanami:** You know about our next day off\.\.\.\? Well, it sounds like everybody else doesn't have to do any missions then either\!  
 **Mai:** That's a real stroke of luck\!  
@@ -287,7 +287,7 @@ Smash Through! Sports Chanbara Joint Training
 **Kanami:** Oh yeah\! Good thinking, Mai-chan\!  
 **Kanami:** Alright\! As soon as we get to the pool, we'll go down a water slide\!  
 
-## [Kanami: End]: A Heartpounding Water Slide\!\?
+## [Kanami: End\]: A Heartpounding Water Slide\!\?
 **Attendant:** Okay, the next person can come on up-\. Are the two of you riding together\? Or will you go separately\?  
 **Kanami:** Oh, we can ride down together\.  
 **Kanami:** What should we do, Mai-chan\?  
@@ -324,7 +324,7 @@ Smash Through! Sports Chanbara Joint Training
 **Mai:** Alright\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/WUlpqEzhjx0"></iframe>](:Iframe)  
 
-## [Yui: Start]: The Pool is Heaven
+## [Yui: Start\]: The Pool is Heaven
 **Yui:** Tsugumi-san, want to come to the pool with me next Sunday\?  
 **Tsugumi:** Just the two of us, Yamashiro-san\?  
 **Yui:** You're fine with it just being you and me\!\? You're so adventurous, Tsugumi-san-\!\!  
@@ -358,7 +358,7 @@ Smash Through! Sports Chanbara Joint Training
 **Yui:** From the sound of things, Kanami-chan and Mai-chan got there ahead of us, so we should race on over there too\!  
 **Yui:** I just can't calm down anymore\~\. The pool is seriously like visiting heaven\!  
 
-## [Yui: End]: This is What I Wanted to Do\!
+## [Yui: End\]: This is What I Wanted to Do\!
 **Yui:** We've arrived at the floating island attraction\! I will now explain the rules\!  
 **Kanami:** The rules\?  
 **Yui:** The difficulty of this attraction is designed for normal people, but we're toji\!  

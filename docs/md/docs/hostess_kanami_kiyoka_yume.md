@@ -5,7 +5,7 @@ https://streamable.com/po6vi2
 
   
 
-## [Hostess - Kanami: Start]: So Long as My Workplace Experience is With Mai-chan\!
+## [Hostess - Kanami: Start\]: So Long as My Workplace Experience is With Mai-chan\!
 **Kanami:** \.\.\.We're finally done with makeup lessons\. Ahh, I'm beat\.  
 **Mihono:** Having to do makeup lessons right after class ends is just mean\.\.\. That's when school's supposed to be over\.  
 **Mai:** Fufu\. Kanami-chan, Mihono-chan\. You're working hard\.  
@@ -41,7 +41,7 @@ https://streamable.com/po6vi2
 **Mihono:** Sure\! You're not gonna beat me-\.  
 **Kanami:** Me neither\!  
 
-## [Hostess - Kanami: End]: A Little About Our Future
+## [Hostess - Kanami: End\]: A Little About Our Future
 **Kanami:** Ah, Mai-chan\. The customers at the table in the back want another serving of rice\. Big helpings for two people\!  
 **Mai:** Alright\. Big helpings\.  
 **Kanami:** Oh, there's new customers\!  
@@ -79,7 +79,7 @@ https://streamable.com/kftrtt
 
   
 
-## [Hostess - Kiyoka: Start]: I'm a Little Bit Nervous for Now\.\.\.
+## [Hostess - Kiyoka: Start\]: I'm a Little Bit Nervous for Now\.\.\.
 **Kiyoka:** \.\.\.\.\.\.  
 **Mirja:** Everyone did well on today's mission\. You should all be sure to get some rest\.  
 **Mihono:** It was rough, going through another day of that many of them-\.  
@@ -119,7 +119,7 @@ https://streamable.com/kftrtt
 **Kiyoka:** You did, so thanks\.  
 **Mihono:** You're welcome then\!  
 
-## [Hostess - Kiyoka: End]: Hopefully it Goes Well
+## [Hostess - Kiyoka: End\]: Hopefully it Goes Well
 **Kiyoka:** Umm, this meal was for the room to the left of the one before--  
 **Mihono:** H-Help me, Kiyokaaaaaaaaa\!\!  
 **Kiyoka:** \.\.\.Hyau\!\? What's the matter, Hono-chan\!\?  
@@ -156,7 +156,7 @@ https://streamable.com/8e41cz
 
   
 
-## [Hostess - Yume: Start]: Yume's Work Experience\!
+## [Hostess - Yume: Start\]: Yume's Work Experience\!
 **Maki:** \.\.\.\.\.\.  
 **Maki:** \.\.\.Sigh\.  
 **Suzuka:** \.\.\.Why not relax some\?  
@@ -191,7 +191,7 @@ https://streamable.com/8e41cz
 **Ryokan Proprietress:** We have people hired to take care of the full cleaning, but this is one last check before the guests come through\. Whoever is in charge will show you how it's done, so please work along with them\.  
 **Yume:** Okaaay\~\.  
 
-## [Hostess - Yume: End]: For the Special Menu\!
+## [Hostess - Yume: End\]: For the Special Menu\!
 **Yume:** I thought meeting guests and showing them their rooms felt like what a real hostess would do, but I didn't think, after we did it a couple times, they'd ask us to go pick vegetables next\.  
 **Yomi:** They seem to have a special menu of vegetables grown here on the mountain they own that's served to guests who request it\.  
 **Yume:** You think this is enough we've got-\?  

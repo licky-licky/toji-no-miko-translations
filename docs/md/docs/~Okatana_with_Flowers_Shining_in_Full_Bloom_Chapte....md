@@ -256,7 +256,7 @@ While Mihono was making bucket pudding with Yuuna and the others\.\.\.
 
   
 **Fuu:** Then, Kamakura\!  
-**Karin:** We sure are in Kamakura, but\.\.\. Were you really supposed to use \"Then, Kamakura\!\" at times like this\? 		[When major incidents happened during the Kamakura Shogunate, all samurai would be summoned to Kamakura, and over time this phrase just came to mean \"in case of emergency\"]  
+**Karin:** We sure are in Kamakura, but\.\.\. Were you really supposed to use \"Then, Kamakura\!\" at times like this\? 		[When major incidents happened during the Kamakura Shogunate, all samurai would be summoned to Kamakura, and over time this phrase just came to mean \"in case of emergency\"\]  
 **Fuu:** Don't sweat the small things\! Right now, let's have our fill of Kamakura\!  
 **Itsuki:** Kiyoka-san, Yui-san\. Thank you for taking us to see the sights on such short notice\.  
 **Yui:** If a pretty looking girl like you is asking me to show her around, then I'm all over it\!  
@@ -450,7 +450,7 @@ While Mihono was making bucket pudding with Yuuna and the others\.\.\.
 **Mihono:** Thanks a lot\! Let's go and beat up the next group of aradama right away\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/f-Eb7Fydp_U"></iframe>](:Iframe)  
 
-## [Yuusha 2 Yui: Start]: Little Sister and Big Sister
+## [Yuusha 2 Yui: Start\]: Little Sister and Big Sister
 Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 
   
@@ -467,7 +467,7 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Yui:** (This is different from what I feel with everyone in the investigation team\.\.\. Could this be, my motherly instincts\!\?\)  
 **Itsuki:** Yui-san\?  
 **Yui:** It's nothing at all, nothing at all\.  
-**Yui:** [inhale]\.\.\. [exhale]\.\.\. Okay\! While we're moving around together, you can feel free to think of me as your big sister\!  
+**Yui:** [inhale\]\.\.\. [exhale\]\.\.\. Okay\! While we're moving around together, you can feel free to think of me as your big sister\!  
 **Itsuki:** You'll be my big sister, Yui-san\?  
 **Yui:** I might not look like it, but I have a real little sister, which makes me a real big sister\.  
 **Itsuki:** If she has a big sister like you, your little sister must be having fun every day\.  
@@ -481,12 +481,12 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Itsuki:** Yes, Onee-chan's pretty amazing\!  
 **Yui:** Fuhehe, you're so cuteee\.\.\.  
 **Itsuki:** Yui-san\?  
-**Yui:** [drool]\.\.\. Oops\.  
+**Yui:** [drool\]\.\.\. Oops\.  
 **Yui:** (Control yourself\! I've gotta make big sister moves in front of Itsuki-chan\!\)  
 **Yui:** Aradama\!\? Itsuki-chan, get ready for battle\!  
 **Itsuki:** Right\!  
 
-## [Yuusha 2 Yui: End]: There's No Such Thing As a Little Sister Who Hates Her Big Sister
+## [Yuusha 2 Yui: End\]: There's No Such Thing As a Little Sister Who Hates Her Big Sister
 **Yui:** YAAAAAAAAAAA\!  
 **Aradama:** GUOOOOOOOOOOOO\!  
 **Yui:** It's a real pain with this many of them\! Are you doing okay, Itsuki-chan\!\?  

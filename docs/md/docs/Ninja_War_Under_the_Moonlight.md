@@ -39,7 +39,7 @@ Once again, on the other side--
 **Maki:** There you are\! Skulking around in a place like this; you truly are rats\!  
 **Nagasaki Sumi:** Ahh, we're not rats, we're ninja\.\.\.  
 **Maruyama Akane:** That's right\! We're ninja, so of course we're gonna hide\!  
-**Akane:** A ninja without the nin is just a ja\! [ninja is made up the kanji nin, to hide, and ja, person]  
+**Akane:** A ninja without the nin is just a ja\! [ninja is made up the kanji nin, to hide, and ja, person\]  
 **Mai:** Still, to be discovered so quickly\.\.\. We can't take the Origami ninja lightly\.  
 **Maki:** In the first place, you're all disorganized\.  
 **Maki:** What a shame\.\.\. At this rate, our fun will be over all too soon\.  

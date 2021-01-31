@@ -65,7 +65,7 @@ Toji Notes: -The Heroes of Twenty Years Ago-
 **Minato:** Yukari, Kagari, morning-\! Hey hey, Yukari, do me a favor\! Help me out\!  
 **Yukari:** What is it, Minato\? You're bowing your head awfully desperately first thing in the morning\.  
 **Minato:** Let me copy your homework\! I was so tired from training yesterday that I passed out\. Just let me copy you this one time, okay\? You're cool with that, right, Yukari\?  
-**Kagari:** I remember hearing the same excuse last week\.\.\. [mumbled]  
+**Kagari:** I remember hearing the same excuse last week\.\.\. [mumbled\]  
 **Yukina:** Yukari-onee-samaaaa\~\!  
 **Yukari:** Oh, Yukina\.\.\.  
 **Kagari:** Sigh\.\.\. I'll take her to our classroom, before she gets her hands on Yukari-sama\. Excuse me\.\.\.  

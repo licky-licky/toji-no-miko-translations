@@ -128,7 +128,7 @@ At that time, with Etou Kanami and Origami Yukari, who had gone ahead to Tagitsu
 ## 8: Delaying (2\)
 **Kofuki:** \.\.\.You know, for all that big talk back there, you're still hesitating against other toji\. Your timing's off when you're getting serious\.  
 **Kiyoka:** I-I'm sorry\.\.\.  
-**Kofuki:** Well, since we won, it's all good\! --C'mon, let's catch up to Ahocchi and them\! [aho means dumb]  
+**Kofuki:** Well, since we won, it's all good\! --C'mon, let's catch up to Ahocchi and them\! [aho means dumb\]  
 **Kiyoka:** Ah, you haven't forgotten about the pudding, have you\. Fufu\. You're cute when you get like that, Kofuki-san\.  
 **Kofuki:** Shut up\! Don't eat people's food if you don't want what's coming to you\! That's the way the world works\!  
 

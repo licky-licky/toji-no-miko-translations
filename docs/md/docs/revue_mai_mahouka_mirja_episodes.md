@@ -5,7 +5,7 @@ https://mega.nz/file/9IJiFQwa#fyo_xuN0A3K8HX4Lcphtl-KMabHlB-PBMnLAWGmX0X8
 
   
 
-## [Stage Girl - Mai: Start]: Two Triangles
+## [Stage Girl - Mai: Start\]: Two Triangles
 **Kanami:** I can't wait to spar with all these stage girls\! If I pass this up, I'll never get another chance like it\.  
 **Kanami:** Honestly, ever since we came here and I saw them fighting aradama, I've wanted to spar with them-\.  
 **Mai:** You said the same thing back when you first saw Hiyori-chan at the tournament, didn't you, Kanami-chan\.  
@@ -59,7 +59,7 @@ https://mega.nz/file/lNQ1zYzR#aLAw1bVW8AeuquMf6OidutCAUkSJcGy2apIy0d4vQZY
 
   
 
-## [Stage Girl - Mai: End]: I Love Seeing You Shine Even More
+## [Stage Girl - Mai: End\]: I Love Seeing You Shine Even More
 **Mahiru:** Phew\.\.\. I worked up a good sweat\.  
 **Mahiru:** How was that\? I hope it was helpful getting to see it up close at least\.  
 **Mai:** It was\. Though, I don't know if I'll be able to put it into practice straight away\.  
@@ -107,7 +107,7 @@ https://mega.nz/file/NM4zwCSI#e4j4XEndiYI-su2D4RvkAVQQEo9R8QnWAYoP7N47CGo
 
   
 
-## [Mahouka - Mirja: Start]: Mirja and Mayumi
+## [Mahouka - Mirja: Start\]: Mirja and Mayumi
 **Mirja:** \.\.\.I see, so that's what kind of magic you have, Saegusa Mayumi\.  
 **Mayumi:** That's it\. At the Nine Schools Competition, I finished with a perfect bullseye\. With a \"bang\!\"  
 **Mirja:** Going back, what is this Nine Schools Competition\?  
@@ -143,7 +143,7 @@ https://mega.nz/file/5F5XSRBI#Qs4mPScbyWpABXm4FlDDqfKWd8HAgIzgppqgSK2W1-g
 
   
 
-## [Mahouka - Mirja: Start]: Elven Sniper
+## [Mahouka - Mirja: Start\]: Elven Sniper
 **Mirja:** Now then, Saegusa Mayumi\. The two types of magic you explained to me before\.\.\. Magic Bullet Shooter and Multi-Scope\.  
 **Mirja:** With those two, we should be able to suppress aradama with ease\.  
 **Mirja:** After all, you are capable of carrying out a one-sided assault on aradama from distance without needing to enter their range\.  

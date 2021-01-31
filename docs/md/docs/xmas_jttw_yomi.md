@@ -5,7 +5,7 @@ https://streamable.com/sjz3ki
 
   
 
-## [Xmas' 19 - Yomi: Start]: An Unpredictable Present
+## [Xmas' 19 - Yomi: Start\]: An Unpredictable Present
 **Yomi:** A Christmas Eve party\.\.\.\?  
 **Suzuka:** Yes, all toji from the Five Traditions are gathering for a big occasion, and of course, we of the elite guard have been invited as well\.  
 **Yomi:** I see\. I have some business I want to take care of before the end of the year, so please go without me\.  
@@ -42,7 +42,7 @@ https://streamable.com/1w9itp
 
   
 
-## [Xmas' 19 - Yomi: End]: The Fun of Giving
+## [Xmas' 19 - Yomi: End\]: The Fun of Giving
 **Kiyoka:** Still though, Christmas style onigi\.\.\. Ah-\! Omusubi\! How do you think those should look\?  
 **Ellen:** For cakes, something called a Buche de Noel is popular\. It's a roll cake decorated to look like a log of wood\.  
 **Yomi:** I see, a log of wood\.\.\. If it were a sushi roll, I could make it look that way\.  
@@ -90,7 +90,7 @@ https://streamable.com/ftmkdq
 
   
 
-## [Journey to the West - Yomi: Start]: What Is Tsubakuro-san Going to Do\?
+## [Journey to the West - Yomi: Start\]: What Is Tsubakuro-san Going to Do\?
 **Yukari:** Satsuki\. Konohana will be joining me at this evening's conference\. I won't be needing an escort\. You'll be assisting Shidou instead\.  
 **Yomi:** Understood\.  
 **Suzuka:** Maki-san\. If there's an urgent request for aid, please do all you can\.  
@@ -127,7 +127,7 @@ https://streamable.com/l9z6n9
 
   
 
-## [Journey to the West - Yomi: End]: It Might Be Nice to Continue Our Journey
+## [Journey to the West - Yomi: End\]: It Might Be Nice to Continue Our Journey
 **Maki:** Hey\.\.\. Yomi\. What are we doing here, anyway\.\.\.  
 **Yomi:** What are you saying now, Pigsy\? I'm Sandy\. And we have to defeat these bandits to rescue our master\.  
 **Maki:** Didn't think you'd get so into this\.\.\. Uh, Sandy\.  

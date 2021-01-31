@@ -67,7 +67,7 @@ In the middle of January\.
 **Kagari:** \.\.\.\"Great fortune\"\.  
 **Minato:** Ahaha, we're the same\!  
 **Kagari:** \.\.\.  
-**Yukari:** You shouldn't look so upset, getting a great fortune, Kagari\.\.\. [achoo]\.  
+**Yukari:** You shouldn't look so upset, getting a great fortune, Kagari\.\.\. [achoo\]\.  
 **Yukari:** It's gotten a little chilly, hasn't it\?  
 **Yukina:** Yukari-onee-sama\!\? It'd be awful if you caught a cold\! I'll go buy you something warm to drink\!  
 **Sana:** \.\.\.I'll go too\. Yukina-senpai on her own probably won't get anything for anybody besides Yukari-senpai\.  

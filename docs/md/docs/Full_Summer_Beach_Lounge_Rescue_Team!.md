@@ -101,7 +101,7 @@ Full Summer Beach Lounge Rescue Team!
 **Tsugumi:** I'll have some stomach medicine ready in secret later on\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/7xz_k03cXQA"></iframe>](:Iframe)  
 
-## [Sayaka: Start]: Do Your Best, Enjoy Yourself\!
+## [Sayaka: Start\]: Do Your Best, Enjoy Yourself\!
 **Sayaka:** \.\.\.Sorry I made you wait\.  
 **Kaoru:** Oh-, you made it\. Now everybody's here\.  
 **Nene:** Ne-\!  
@@ -129,7 +129,7 @@ Full Summer Beach Lounge Rescue Team!
 **Sayaka:** \.\.\.There's so many things to try; I don't know what to do\.  
 **Ellen:** We can do anything you want, Saaya\. Let's start with one side and enjoy ourselves\!  
 
-## [Sayaka: End]: Will You, Ride With Me\?
+## [Sayaka: End\]: Will You, Ride With Me\?
 **Attendant:** Okay, the next person can go-\.  
 **Ellen:** Oh, it's your turn, Saaya\!  
 **Sayaka:** I just have to slide\?  
@@ -165,13 +165,13 @@ Full Summer Beach Lounge Rescue Team!
 **Sayaka:** I'm glad\. I think I'll have a lot to tell Mai about the pool\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UrOq6F25WZg"></iframe>](:Iframe)  
 
-## [Chie: Start]: Shirie
+## [Chie: Start\]: Shirie
 **Kofuki:** You've got a fat ass too, huh, Chichie\.  
 **Chie:** \.\.\.\.\.\.  
 **Chie:** I'm sorry, Kofuki-chan\. I didn't quite hear you just now\.  
 **Chie:** Do you think you could say that again\?  
 **Kofuki:** I said your ass is fat too, Chichie\.  
-**Kofuki:** Is that what they call childbearing hips\? What'd you eat to get it that fat, Shirie\? 	[Much like chichi means tits, shiri means ass]  
+**Kofuki:** Is that what they call childbearing hips\? What'd you eat to get it that fat, Shirie\? 	[Much like chichi means tits, shiri means ass\]  
 **Chie:** Kofuki-chan\!\!  
 **Kofuki:** What're you getting mad for\!\? I was just making a simple observation\!\!  
 **Chie:** This is one of those things you should keep to yourself\!  
@@ -197,7 +197,7 @@ Full Summer Beach Lounge Rescue Team!
 **Chie:** There we go\.  
 **Chie:** \.\.\.Hmm\? I felt something strange at my waist\.\.\.  
 
-## [Chie: End]: Don't Make Others Angry
+## [Chie: End\]: Don't Make Others Angry
 **Kofuki:** Crap, she noticed\!  
 **Chie:** \.\.\.\.\.\.Kofuki-chan\?  
 **Chie:** What are you doing there\?  

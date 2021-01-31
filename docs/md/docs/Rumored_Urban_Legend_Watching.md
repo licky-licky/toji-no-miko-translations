@@ -218,7 +218,7 @@ The next day--
 **Nene:** Nene\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Qn8sW115TSU"></iframe>](:Iframe)  
 
-## [Railgun - Kofuki: Start]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!
+## [Railgun - Kofuki: Start\]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!
 **Ruiko:** Shichinosato-san\! Is it really true that Renpu Girls' Academy is researching human aradamas behind closed doors\!\?  
 **Kofuki:** The hell are you talking about\?  
 **Ruiko:** It's a rumor I've been hearing from all the toji\!  
@@ -254,7 +254,7 @@ The next day--
 **Tsugumi:** Honestly\.\.\. My name is Ban Tsugumi\. You wanted to look in on our research, didn't you\? Make yourselves at home\.  
 **Ruiko:** I-I thought you'd be mad at us\.\.\.  
 
-## [Railgun - Kofuki: End]: Take it Easy With Gathering Rumors
+## [Railgun - Kofuki: End\]: Take it Easy With Gathering Rumors
 **Ruiko:** When you suddenly popped out at us, I was thinking, \"We're gonna get turned into human aradama experiments\!\"  
 **Tsugumi:** Human aradama\.\.\. Ahh, it's about that rumor, isn't it\.  
 **Ruiko:** You know about it\!\?  

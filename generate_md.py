@@ -176,7 +176,7 @@ def generate_file(title, data):
     
     for line in data.splitlines():
         if 'https://' not in line:
-            line = re.sub(r"([~\?\!\)\.\"])", r"\\\1", line)
+            line = re.sub(r"([~\?\!\)\.\"\]])", r"\\\1", line)
             line = line.replace('***', '\*\*\*')
 
         if line and (('[' == line[0] and ('Q' != line[1] and not line[2].isnumeric() and '[R]' not in line and (']:' in line or (']' in line and ':' in line)))) or (line[0].isnumeric() and (':' in line or '-' in line))):

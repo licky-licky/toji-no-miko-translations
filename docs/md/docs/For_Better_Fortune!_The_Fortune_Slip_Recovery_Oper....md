@@ -64,7 +64,7 @@ For Better Fortune! The Fortune Slip Recovery Oper...
 **Yoshizumi:** Sorry to work you like that\. We should be able to get enough to all the visitors waiting now\.  
 **Kiyoka:** Isn't that great, Mihono-chan\?  
 **Mihono:** Yeah\! Oh, these are for you, Yui, Kiyoka, Chii-nee\!  
-**Yui:** Thanks\! Ooh, a hagoita\! And it's painted all cute too\! [Hagoita are paddles used in hanetsuki, which is like badminton]  
+**Yui:** Thanks\! Ooh, a hagoita\! And it's painted all cute too\! [Hagoita are paddles used in hanetsuki, which is like badminton\]  
 **Mihono:** Yeah, our shrine makes hagoita\! \.\.\.I suck at art though, so it's mostly Futaba and Sawano who did these\. Ehehe\.  
 **Kiyoka:** I've never played hanetsuki before, but I'd like to try\!  
 **Chie:** In that case, why don't we all play together\!  

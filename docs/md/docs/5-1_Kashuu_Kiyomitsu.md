@@ -52,7 +52,7 @@ May 2019\.
 **Mai:** Now that you mention it\.\.\. In the time while you and Hiyori-chan were gone, a lot of things changed, didn't they\.  
 **Kanami:** Yeah\! I couldn't believe it when I heard Yukari-sama had retired and Akane-sama took over as the bureau director of the Sword Administration Bureau\!  
 **Mai:** And then, changes closer to us would be, the investigation team, wouldn't it\?  
-**Mihono:** [slurrrp]\.\.\. Eh\? Ah, you mean, us getting attached to the Origami family\?  
+**Mihono:** [slurrrp\]\.\.\. Eh\? Ah, you mean, us getting attached to the Origami family\?  
 **Kanami:** I'm surprised you even got your own investigation room at Renpu Girls' School\!  
 **Mihono:** I was really happy about that\. We never had anything like it before, so it's like, the investigation team's home base\! It's exciting\.  
 **Kanami:** And also, you've gotten a heck of a lot stronger, Mihono-chan\.  
@@ -299,17 +299,17 @@ May 2019\.
 **Mihono:** (It burns\.\.\. It's burning\.\.\.\! Like I'm really burning alive\.\.\.\!\)  
 **Mihono:** UWAAAAAAAAGGGHHHHHH\!  
 **Mihono:** -\!\!  
-**Mihono:** [pant, pant]\.\.\. What was that dream just now\.\.\.  
+**Mihono:** [pant, pant\]\.\.\. What was that dream just now\.\.\.  
 **Mihono:** I was being burned by the flames\.\.\.\? I don't get it\.\.\.  
 **Mihono:** \.\.\.Ughh, I'm soaked with sweat\.\.\.  
 **Mihono:** This is so gross\.\.\. I should get changed and get some water\.\.\.  
-**Mihono:** [gulp, gulp]\.\.\. Phew\. I think I can go back to bed now\.  
+**Mihono:** [gulp, gulp\]\.\.\. Phew\. I think I can go back to bed now\.  
 **Mihono:** It'd be nice if I didn't see that dream this time though\.\.\.  
 **Mihono:** \.\.\.Huh\? The glass cracked\?  
 **Mihono:** Ah\.\.\.\!  
 **Mihono:** This is\.\.\. just like when I'm using Kiyomitsu's power\.\.\.\!\? But, why\.\.\.\? I don't even have my okatana with me\.\.\.\!  
 **Mihono:** Calm down\.\.\. Get it under control\!\!  
-**Mihono:** [Pant pant pant]\.\.\.\!  
+**Mihono:** [Pant pant pant\]\.\.\.\!  
 **Mihono:** What's happening to me\.\.\.\? Why did Kiyomitsu's power come bursting out on its own\!\?  
 
 ## 8: The Reason I Can't Sleep (1\)

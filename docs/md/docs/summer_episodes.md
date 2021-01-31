@@ -5,7 +5,7 @@ https://streamable.com/n46xcn
 
   
 
-## [Summer Uniform - Ellen: Start]: Meeting Up With Kaoru and Nene\~
+## [Summer Uniform - Ellen: Start\]: Meeting Up With Kaoru and Nene\~
 **Kaoru:** Are you guys already getting into it-\?  
 **Nene:** Nene\~\.  
 **Ellen:** Kaoru\~\! I'm glad you made it\~\. Good work on your mission\.  
@@ -30,7 +30,7 @@ https://streamable.com/n46xcn
 **Kaoru:** Then, I'll dig in\. --Ohm\!  
 **Kaoru:** Sho good\.\.\.\!\? I've gotta give Mihono my thanks\.  
 **Ellen:** That's the meat we all fought to get back from the aradama\. So go ahead and savor it\.  
-**Kaoru:** You've been working hard too, huh\. [chew chew]\.\.\.  
+**Kaoru:** You've been working hard too, huh\. [chew chew\]\.\.\.  
 **Kaoru:** I wish this kind of R&R would get turned into one of my duties too\.  
 **Ellen:** That's for sure-\. We could all go have fun at lots of different places\.  
 **Ellen:** Ah, you should try the ones she grilled slow at low temperature too\.  
@@ -46,13 +46,13 @@ https://streamable.com/8my7qs
 
   
 
-## [Summer Uniform - Ellen: End]: After a Mission, You Take a Break\!
+## [Summer Uniform - Ellen: End\]: After a Mission, You Take a Break\!
 **Kaoru:** Having somebody else grill for you isn't bad, but you've gotta try barbecuing your own meat\.  
 **Kaoru:** When it starts sizzling, the sound alone's enough to taste it\.  
 **Nene:** Ne\~\.  
 **Ellen:** That's definitely one way to enjoy it-\.  
 **Kaoru:** The smell when it's grilling's good too\.  
-**Ellen:** [yawn]\.\.\. Nice weather and a full stomach\.\.\. I'm getting sleepy\.  
+**Ellen:** [yawn\]\.\.\. Nice weather and a full stomach\.\.\. I'm getting sleepy\.  
 **Ellen:** Kohagura Ellen, now switching over to comfy mode\~\.  
 **Kaoru:** Skewers are ready; you want one, Ellen\?  
 **Ellen:**  Nnn\.\.\. Getting up's too much work\. I wonder if I caught this from you, Kaoru\?  
@@ -70,7 +70,7 @@ https://streamable.com/8my7qs
 **Ellen:** You really brought the flavor out, Kaoru\.  
 **Kaoru:** Anybody could do it if they tried\.  
 **Kaoru:** \.\.\.Or maybe not\. The stuff Nao cooked was really good\.  
-**Ellen:** [chew chew]\.\.\. But, I like it this way\.  
+**Ellen:** [chew chew\]\.\.\. But, I like it this way\.  
 **Kaoru:** Well, that's good to hear then\.  
 **Kaoru:** Ahh\.\.\. Now that I've had my fill, I'm getting sleepy too\.  
 **Ellen:** Want to take a nap with me\? They say \"a sleeping child is a growing child\"\.  
@@ -89,7 +89,7 @@ https://streamable.com/8301e2
 
   
 
-## [Summer Uniform - Mihono: Start]: Because of the Horizon Alliance\?
+## [Summer Uniform - Mihono: Start\]: Because of the Horizon Alliance\?
 **Mihono:** Tomorrow's barbecue is going to be great, huh, Kiyoka\.  
 **Kiyoka:** Yeah\. Though, it's a little sad we couldn't have everyone from the investigation team come along to refresh themselves\.  
 **Mihono:** We can't always get everyone together at once\. There's missions to take care of\.  
@@ -125,7 +125,7 @@ https://streamable.com/rz2csa
 
   
 
-## [Summer Uniform - Mihono: End]: Isn't Meat Best After All
+## [Summer Uniform - Mihono: End\]: Isn't Meat Best After All
 The day of the barbecue--
 
   
@@ -157,14 +157,14 @@ The day of the barbecue--
 **Mihono:** So you get it\! Meat's definitely good for growing\! Boobs are meat too, right\!  
 **Kiyoka:** Then, let's quickly eat up the meat you're grilling now\!  
 **Mihono:** Eh\?  
-**Kiyoka:** Eat faster, Hono-chan\.\.\. [chew chew]\.  
+**Kiyoka:** Eat faster, Hono-chan\.\.\. [chew chew\]\.  
 **Kiyoka:** Mirja-san and Uraga-san are putting something on their baguettes now\.  
 **Mihono:** Uh\.\.\. Kiyoka\? I think we should slow down and enjoy the taste a little more\.\.\.  
 **Kiyoka:** Okay\.\.\. It sure is tasty, huh\!  
 **Mihono:** It's tasty, so let's eat it more slowly\.\.\.  
 **Kiyoka:** We can't do that; if we don't eat fast, we won't be able to eat all the same foods\.  
 **Mihono:** Kgh\.\.\.  
-**Mihono:** A-Alright, Kiyoka\! [chew chew]\.\.\.\!  
+**Mihono:** A-Alright, Kiyoka\! [chew chew\]\.\.\.\!  
 **Mihono:** (Kiyoka\.\.\. She's way too eager about Alliance stuff\.\.\. I mean, sometimes she puts on too much pressure\!\)  
 **Mihono:** (All I wanted was to really savor the meat\~\!\)  
 **Chie:** Fufu, look at Mihono-chan and Kiyoka-chan scarfing down the meat\.  
@@ -173,7 +173,7 @@ https://streamable.com/sk4o2p
 
   
 
-## [Summer Uniform - Hiyori: Start]: Getting Out of the Rain
+## [Summer Uniform - Hiyori: Start\]: Getting Out of the Rain
 **Kanami:** Uwah-\!\? It's pouring rain, Hiyori-chan\! I should've brought my umbrella\.\.\.  
 **Hiyori:** You know, this wouldn't be a problem if you came prepared\.  
 **Hiyori:** What do you want to do\? My umbrella's a little small, but do you want to try it\?  
@@ -209,7 +209,7 @@ https://streamable.com/zxsaxd
 
   
 
-## [Summer Uniform - Hiyori: End]: Summer's Coming
+## [Summer Uniform - Hiyori: End\]: Summer's Coming
 **Kanami:** Look, Hiyori-chan\! There's a big rainbow\!  
 **Hiyori:** We saw a pretty rainbow then too\.\.\. But this one's beautiful all the same\.  
 **Hiyori:** Red, orange, yellow, green, blue, indigo, violet\.\.\. Isn't it rare to see one where all seven colors are that clear\?  
@@ -245,7 +245,7 @@ https://streamable.com/t222j3
 
   
 
-## [Yukata - Kaoru: Start]: Let's Test Our Courage\!
+## [Yukata - Kaoru: Start\]: Let's Test Our Courage\!
 **Ellen:** Alright then, let's get this test of courage underway\! We made lots to draw, so everyone take turns drawing them and pair up\!  
 **Yui:** Guhehehe, I can't wait to go\.  
 **Kiyoka:** I just hope I'm together with Kofuki-san\.\.\. Ah, mine's number 3\.  
@@ -280,13 +280,13 @@ https://streamable.com/hfbgc9
 
   
 
-## [Yukata - Kaoru: End]: Tell Me You're Lying
+## [Yukata - Kaoru: End\]: Tell Me You're Lying
 **Mihono:** \.\.\.No way, there's no way there's a graveyard this far in the mountains\. You just came up with that now, right\?  
 **Kaoru:** You'd think so, wouldn't you\?  
 **Kaoru:** But, this is a true story\. If you think I'm lying, you can check with Ellen\.  
 **Mihono:** You say that, but\.\.\.  
 **Kaoru:** (Maybe if I give one more push she'll buy it\? What's something good\.\.\. Oh\.\)  
-**Kaoru:** See, look over there\. There's a Jizo statue, right\?		[Jizo is a deity that is a savior of souls and also a protector of travelers\. Statues are often found in graveyards, but also along roadsides\.]  
+**Kaoru:** See, look over there\. There's a Jizo statue, right\?		[Jizo is a deity that is a savior of souls and also a protector of travelers\. Statues are often found in graveyards, but also along roadsides\.\]  
 **Kaoru:** That's a leftover from when this place was a graveyard\.  
 **Mihono:** It's true\.\.\. Then, this place really is\.\.\.  
 **Mihono:** Eep\!\?  
@@ -296,7 +296,7 @@ https://streamable.com/hfbgc9
 **Kaoru:** But, y'know, mountains come with a lot of trouble\. Like\.\.\. landslides and stuff\.  
 **Mihono:** Th-Then\.\.\.  
 **Kaoru:** Yeah\. That's why they decided to move away from this graveyard\. There was this really bad landslide\.\.\. And, apparently, they couldn't even check on all the graves\.  
-**Mihono:** \.\.\.[gulp]\.  
+**Mihono:** \.\.\.[gulp\]\.  
 **Kaoru:** \.\.\.Which means, some might've been left buried\. Just under your feet right now, there could be a dead body\.  
 **Mihono/Ellen:** GYAAAAAAAAAAAAAAAAAAAA\!\!  
 **Kaoru:** Uwah\!\? What're you doing here, Ellen\!\!  

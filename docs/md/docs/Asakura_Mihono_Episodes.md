@@ -178,7 +178,7 @@ Asakura Mihono Episodes
 **Mihono:** Why'd you think that\!\?  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/datvCWUrKKc"></iframe>](:Iframe)  
 
-## [Ceremonial Dress - Misogi: Start]: First Mission as a Toji
+## [Ceremonial Dress - Misogi: Start\]: First Mission as a Toji
 --This was at the time of Asakura Mihono's first assignment to suppress aradama\.
 
   
@@ -212,7 +212,7 @@ Asakura Mihono Episodes
 **Mihono:** (I wanted to fight to keep everybody safe and smiling\.\.\. That's what I became a toji for\.\.\.\)  
 **Mihono:** (But, I'm just\.\.\.\)  
 
-## [Ceremonial Dress - Misogi: End]: Where There's a Will, There's a Way
+## [Ceremonial Dress - Misogi: End\]: Where There's a Will, There's a Way
 **Mihono:** (A few months passed since my first mission as a toji\. Ever since then, I helped suppress a lot of aradama\.\)  
 **Mihono:** (But, while I watched Kanami start to contribute even more than all our senpai, like always, I was still useless\.\.\.\)  
 **Mihono:** Ah, Grandpa\? It's me, Mihono\.  
@@ -246,7 +246,7 @@ Asakura Mihono Episodes
 **Mihono:** Cause where there's a will, there's a way\! Isn't that right, Mom\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/tSsi3HMt5qU"></iframe>](:Iframe)  
 
-## [Fairytale Mihono: Start]: Off to Wonderland
+## [Fairytale Mihono: Start\]: Off to Wonderland
 **Mihono:** \.\.\.\.\.\.I don't get it at allll\. Help me, Chii-nee\.\.\.  
 **Chie:** Okay, okay, which problem don't you understand\?  
 **Mihono:** \.\.\.From here, to here\.  
@@ -279,7 +279,7 @@ Asakura Mihono Episodes
 **Mihono:** \.\.\.Huh\?  
 **Mihono:** GYAAAAAAAAAAAAAAAAAAAAA\!\!  
 
-## [Fairytale Mihono: End]: Which Me is the Real Me\?
+## [Fairytale Mihono: End\]: Which Me is the Real Me\?
 **Mihono:** I'M-FALL-ING-DO-WWWN--\!\!  
 **Chie:** Good morning, Mihono-chan\.  
 **Mihono:** EEEEEEE\!\?  
@@ -316,7 +316,7 @@ Asakura Mihono Episodes
 **Chie:** What are you saying\? Fufufu, you're so funny, Mihono-chan\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/EgIu3T30SHE"></iframe>](:Iframe)  
 
-## [Casual 20 - Mihono: Start]: Planning a New Year's Trip
+## [Casual 20 - Mihono: Start\]: Planning a New Year's Trip
 Several days before New Year's Eve\.
 
   
@@ -351,7 +351,7 @@ Several days before New Year's Eve\.
 **Mihono:** I get it\! I think that's a great way of looking at it\. It might give us better fortune from watching the sunrise, so I I'll try putting watching the sunset into our plan too\!  
 **Mihono:** Okaaay, now just to find the perfect place to watch the sunset with Chii-nee\!  
 
-## [Casual 20 - Mihono: End]: At the Year's Final Sunset\.\.\.
+## [Casual 20 - Mihono: End\]: At the Year's Final Sunset\.\.\.
 On New Year's Eve\. Partway through Mihono and Chie's trip together, they happened to meet Kiyoka, Sanae, and Yume, and all went to watch the sunset from an observation tower together\.
 
   
@@ -403,11 +403,11 @@ On New Year's Eve\. Partway through Mihono and Chie's trip together, they happen
 **Kiyoka:** Fufu, in that case, I'll take one for you now\. Hono-chan, hug up nice and close against Setouchi-san\. Press your cheeks together too, and it'll look extra lovey dovey\!  
 **Mihono:** I-I can't do that out of nowhere-\! It'd be embarrassing, right, Chii-nee\?  
 **Chie:** Well, it is a little embarrassing, but since we are on a big trip, it might be nice to have photos like this too\.  
-**Mihono:** I guess so\.\.\. Then, when in Rome\! [hug-]\!  
+**Mihono:** I guess so\.\.\. Then, when in Rome\! [hug-\]\!  
 **Kiyoka:** Yeah, that pose looks perfect\! I'm taking the picture now\. Say cheese\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/fhciZ41akJA"></iframe>](:Iframe)  
 
-## [Dress 20 - Mihono: Start]: I Want to Throw a Thank You Party\!
+## [Dress 20 - Mihono: Start\]: I Want to Throw a Thank You Party\!
 **Mihono:** Let's throw a thank you party for the Miss Five Traditions competition\! Everybody tried really hard, so, no matter how it turns out, let's thank them\!  
 **Mihono:** Or something like that\!  
 **Kofuki:** Fine by me\?  
@@ -443,7 +443,7 @@ On New Year's Eve\. Partway through Mihono and Chie's trip together, they happen
 **Mai:** Thank you\. I'm looking forward to seeing the dresses\.  
 **Sayaka:** Mm\.  
 
-## [Dress 20 - Mihono: End]: Earrings and a Necklace
+## [Dress 20 - Mihono: End\]: Earrings and a Necklace
 **Kiyoka:** Hono-chan, I'm going on ahead\.  
 **Mihono:** Okay-, I'll be out in a minute\.  
 **Kiyoka:** Alright\!  
@@ -478,7 +478,7 @@ On New Year's Eve\. Partway through Mihono and Chie's trip together, they happen
 **Mihono:** Ehehe, I'm glad to hear it then\! Okay-, let's all go out to the party\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/75s9LlmOAs4"></iframe>](:Iframe)  
 
-## [Summer Uniform - Mihono: Start]: Because of the Horizon Alliance\?
+## [Summer Uniform - Mihono: Start\]: Because of the Horizon Alliance\?
 **Mihono:** Tomorrow's barbecue is going to be great, huh, Kiyoka\.  
 **Kiyoka:** Yeah\. Though, it's a little sad we couldn't have everyone from the investigation team come along to refresh themselves\.  
 **Mihono:** We can't always get everyone together at once\. There's missions to take care of\.  
@@ -511,7 +511,7 @@ On New Year's Eve\. Partway through Mihono and Chie's trip together, they happen
 **Mihono:** The weather forecast said it'd be sunny, so it'll be perfect for barbecuing\!  
 **Mihono:** Ahh, I wish it were tomorrow already-\.  
 
-## [Summer Uniform - Mihono: End]: Isn't Meat Best After All
+## [Summer Uniform - Mihono: End\]: Isn't Meat Best After All
 The day of the barbecue--
 
   
@@ -543,14 +543,14 @@ The day of the barbecue--
 **Mihono:** So you get it\! Meat's definitely good for growing\! Boobs are meat too, right\!  
 **Kiyoka:** Then, let's quickly eat up the meat you're grilling now\!  
 **Mihono:** Eh\?  
-**Kiyoka:** Eat faster, Hono-chan\.\.\. [chew chew]\.  
+**Kiyoka:** Eat faster, Hono-chan\.\.\. [chew chew\]\.  
 **Kiyoka:** Mirja-san and Uraga-san are putting something on their baguettes now\.  
 **Mihono:** Uh\.\.\. Kiyoka\? I think we should slow down and enjoy the taste a little more\.\.\.  
 **Kiyoka:** Okay\.\.\. It sure is tasty, huh\!  
 **Mihono:** It's tasty, so let's eat it more slowly\.\.\.  
 **Kiyoka:** We can't do that; if we don't eat fast, we won't be able to eat all the same foods\.  
 **Mihono:** Kgh\.\.\.  
-**Mihono:** A-Alright, Kiyoka\! [chew chew]\.\.\.\!  
+**Mihono:** A-Alright, Kiyoka\! [chew chew\]\.\.\.\!  
 **Mihono:** (Kiyoka\.\.\. She's way too eager about Alliance stuff\.\.\. I mean, sometimes she puts on too much pressure\!\)  
 **Mihono:** (All I wanted was to really savor the meat\~\!\)  
 **Chie:** Fufu, look at Mihono-chan and Kiyoka-chan scarfing down the meat\.  
@@ -562,7 +562,7 @@ https://streamable.com/bos4qz
 
   
 
-## [Pirate - Mihono: Start]: Our Reward's A Treasure Hunt at the Amusement Park\!
+## [Pirate - Mihono: Start\]: Our Reward's A Treasure Hunt at the Amusement Park\!
 **Aradama:** GGGIII\.\.\.\!  
 **Mihono:** Ehh\.\.\. There's more aradama this way\!\? They're small, but, this many is\.\.\.\!  
 **Yomi:** Asakura-san, please focus on the aradama to the front\.  
@@ -598,7 +598,7 @@ https://streamable.com/bos4qz
 **Yui:** That's one thing to look forward to, but what I really want to see to is everybody dressed like pirates\! I'll burn it deep into my eyes and plenty of photos on my phone\~\!  
 **Mihono:** Yeah, yeah\! Besides the treasure hunt, it's going to be so fun fighting in pirate cosplay for the flags-\.  
 
-## [Pirate - Mihono: End]: The Treasure Comes After we Take Down Their Pirate Flag\!
+## [Pirate - Mihono: End\]: The Treasure Comes After we Take Down Their Pirate Flag\!
 **Mihono:** Wawah\!\?  
 **Mihono:** It's great and all I made it over to this ship without Kiyoka and them noticing, but\.\.\. Bringing down their pirate flag is actually tough\.\.\.\!  
 **Yui:** Fu fu fu\~\. And what about you, Mihono-chan\? You sure you didn't want to stop us from bringing down your pirate flag\?  

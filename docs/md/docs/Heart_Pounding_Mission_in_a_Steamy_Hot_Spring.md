@@ -4,7 +4,7 @@ Heart Pounding Mission in a Steamy Hot Spring
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/2WIMe2c68W4"></iframe>](:Iframe)  
 
 ## 1: Being Too Polite Would be Impolite 
-[Every chapter title is an onsen related idiom\. It's hard to get across, so I went with whatever works\.]
+[Every chapter title is an onsen related idiom\. It's hard to get across, so I went with whatever works\.\]
 
   
 **Chie:** I'm sorry to call you out here so suddenly, Ellen-san, Yui-chan\.  
@@ -218,9 +218,9 @@ Heart Pounding Mission in a Steamy Hot Spring
 **Chie:** Fufu, we can take care of them together and then all join in back at the hot spring\.  
 **Ellen:** Sounds nice, Chie\! Nothing takes off the fatigue like a hot spring\!  
 **Yui:** Hooray-\! They say good things come in pairs, and I see plenty of pairs around me\!   
-**Chie:** [peaceful sleeping]\.\.\.  
-**Ellen:** [heavier sleeping]\.\.\.  
-**Yui:** [homosexual sleeping]\.\.\.  
+**Chie:** [peaceful sleeping\]\.\.\.  
+**Ellen:** [heavier sleeping\]\.\.\.  
+**Yui:** [homosexual sleeping\]\.\.\.  
 **Mihono:** They're all asleep\.  
 **Kaoru:** They had to march their way through a mountain in the snow\. They must be worn out\.  
 **Kiyoka:** \.\.\.Yui-chan was actually tired\.  

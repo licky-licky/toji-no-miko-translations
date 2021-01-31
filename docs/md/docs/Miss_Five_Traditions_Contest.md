@@ -110,7 +110,7 @@ At that moment\.
 **Kofuki:** That good enough for you\? Aghh-, so lame\.  
 **Mihono:** Uwah-\.\.\. Fukki, you didn't even try at all, did you\.  
 **Chie:** It was very like her though\.\.\. Ah, Kiyoka-chan's performance is next\.  
-**Kiyoka:** [inhale, exhale]\.\.\. [inhale, exhale]\.\.\.  
+**Kiyoka:** [inhale, exhale\]\.\.\. [inhale, exhale\]\.\.\.  
 **Kiyoka:** (Thanks to Kofuki-san, I feel like I can be a little braver\.\.\.\)  
 **Kiyoka:** (If my friends are here with me, then I know, even I can do it\.\.\.\!\)  
 **Kiyoka:** Here I go\.\.\.\!  
@@ -299,7 +299,7 @@ After all the judging had been concluded, the toji each waited for the results t
 **Mihono:** Ah-, now that I'm thinking about it, my heart won't stop pounding\. I can't wait to see the results-\!  
 **Chie:** Fufu, I know what you mean\.\.\. Oh\?  
 **Chie:** Look, outside\. A girl is pushing a motorcycle up\.  
-**Akira:** [pant, pant]\.\.\. I'm here, damnit\.\.\.  
+**Akira:** [pant, pant\]\.\.\. I'm here, damnit\.\.\.  
 **Akira:** Though, it'll for sure be over at this point\.\.\. Aghh-\.\.\.  
 **Yume:** Hmmm, I wonder if I showed off enough to the judges\.  
 **Maki:** Sure you did\. Though, while appealing to the judges is important for getting chosen to be \"Miss Five Traditions\", your general accomplishments as a toji are also taken into account\.  
@@ -322,7 +322,7 @@ You will decide who becomes Miss Five Traditions\! By all means, please vote for
 **Announcer:** Please continue to support the toji from here on out\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/fhciZ41akJA"></iframe>](:Iframe)  
 
-## [Dress 20 - Mihono: Start]: I Want to Throw a Thank You Party\!
+## [Dress 20 - Mihono: Start\]: I Want to Throw a Thank You Party\!
 **Mihono:** Let's throw a thank you party for the Miss Five Traditions competition\! Everybody tried really hard, so, no matter how it turns out, let's thank them\!  
 **Mihono:** Or something like that\!  
 **Kofuki:** Fine by me\?  
@@ -358,7 +358,7 @@ You will decide who becomes Miss Five Traditions\! By all means, please vote for
 **Mai:** Thank you\. I'm looking forward to seeing the dresses\.  
 **Sayaka:** Mm\.  
 
-## [Dress 20 - Mihono: End]: Earrings and a Necklace
+## [Dress 20 - Mihono: End\]: Earrings and a Necklace
 **Kiyoka:** Hono-chan, I'm going on ahead\.  
 **Mihono:** Okay-, I'll be out in a minute\.  
 **Kiyoka:** Alright\!  

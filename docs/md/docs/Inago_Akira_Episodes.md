@@ -41,7 +41,7 @@ Inago Akira Episodes
 **Akira:** I'm not letting you get away next time, y'hear\!  
 
 ## 2: Prone to Happenings
-**Akira:** Give me another good ride today\~\! 	[Delinquents do a thing where they replace characters in words with homonyms that have negative connotations or are just messier looking\. So for example, Akira says \"yoroshiku/let's get along\", but the \"shi\" is the kanji for death and \"ku\" is the kanji for suffering\.]  
+**Akira:** Give me another good ride today\~\! 	[Delinquents do a thing where they replace characters in words with homonyms that have negative connotations or are just messier looking\. So for example, Akira says \"yoroshiku/let's get along\", but the \"shi\" is the kanji for death and \"ku\" is the kanji for suffering\.\]  
 **Old Lady:** \.\.\.Oh my, what should I do\. There's too many cars going by\.\.\.  
 **Akira:** -\!  
 **Akira:** Oi\! Hey you, granny\!  
@@ -193,7 +193,7 @@ Inago Akira Episodes
 **Futaba:** H-Hang in there, Mihono\!  
 **Akira:** Huh\?  
 
-## [Akira Joins: Start]: A Hero Arrives Late
+## [Akira Joins: Start\]: A Hero Arrives Late
 **Aradama:** GAAAAAAAAAAAAAAAA\!\!  
 **Mihono:** \.\.\.\! Hey-\!\!  
 **Mihono:** Pant\.\.\. Pant\.\.\.  
@@ -227,7 +227,7 @@ Inago Akira Episodes
 **Akira:** Yep\. It ran its heart out racing over here\.\.\. Want to get on it for a bit\?  
 **Mihono:** Can I\!\?  
 
-## [Akira Joins: End]: Soon Enough
+## [Akira Joins: End\]: Soon Enough
 **Mihono:** Can I really\!\? Your bike's so cool, Akira-san\!  
 **Akira:** Hey, you get it, don't you\.  
 **Mihono:** Yeah\!  
@@ -261,7 +261,7 @@ Inago Akira Episodes
 **Akira:** 'Course\! It's a promise\! Don't you forget it\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/aiA2svZtMos"></iframe>](:Iframe)  
 
-## [Dress 20 - Akira: Start]: No Way I'd Be Late
+## [Dress 20 - Akira: Start\]: No Way I'd Be Late
 **Yomi:** Akira\.  
 **Akira:** Nn\? Ahh, there you are, Yomi\. It's not often you're the one calling me up\.  
 **Yomi:** Yukari-sama will be hosting a recognition party for the Miss Five Traditions event\.  
@@ -297,7 +297,7 @@ The day of the party\.
 **Sawano:** Ah\.  
 **Sawano:** Inago-san\.\.\. So she remembered my name\.  
 
-## [Dress 20 - Akira: End]: Grape Juice
+## [Dress 20 - Akira: End\]: Grape Juice
 **Akira:** Phew, made it\.  
 **Yomi:** As late as usual\.  
 **Akira:** Geh, Yomi\!\?  
@@ -338,7 +338,7 @@ https://streamable.com/cq5bjh
 
   
 
-## [Pirate - Akira: Start]:  We Can Enjoy the Perks Sometimes, Right\?
+## [Pirate - Akira: Start\]:  We Can Enjoy the Perks Sometimes, Right\?
 **Aradama:** GGGGGII\.\.\.\!  
 **Mihono:** Akira-san\! Now's your chance\!  
 **Akira:** Sure, leave it to me\!  
@@ -375,7 +375,7 @@ https://streamable.com/cq5bjh
 **Mihono:** Yeah\! It's totally more exciting\!  
 **Yomi:** There is a time limit, so please don't forget that, you two\.  
 
-## [Pirate - Akira: End]: Alriiight, We're Boarding\!
+## [Pirate - Akira: End\]: Alriiight, We're Boarding\!
 **Akira:** Yo, wanna have a little fun with us\?  
 **Akira:** Give us a minute and we'll get your flag down\.  
 **Yomi:** That's how this will be, so excuse us\.  

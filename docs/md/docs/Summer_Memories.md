@@ -89,7 +89,7 @@ Summer Memories
 **Kiyoka:** After you became a Myouga toji and came back\.\.\. I wasn't sure if we'd ever get to have fun like this again\.\.\.  
 **Kiyoka:** That's why, I really am happy\.\.\.  
 **Yui:** Kiyoka-chan\.\.\.  
-**Kiyoka:** [sniffle\.\.\.]  
+**Kiyoka:** [sniffle\.\.\.\]  
 **Kiyoka:** Sorry, I'll be fine now\.  
 **Yui:** Thanks for that, Kiyoka-chan\.  
 **Kiyoka:** Yeah\.  

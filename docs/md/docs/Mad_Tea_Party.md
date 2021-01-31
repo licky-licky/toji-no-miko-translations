@@ -64,7 +64,7 @@ The day of the tea party\.
 ## 2: The March Hare's Tea Party
 **Ellen:** Good, now the teapot and cups are all set out again\!  
 **Sayaka:** \.\.\.It's perfect\. They're lined up pretty\.  
-[stomach growls]
+[stomach growls\]
 
   
 **Sayaka:** \.\.\.Mai\?  

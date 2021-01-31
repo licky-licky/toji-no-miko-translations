@@ -132,7 +132,7 @@ Take Back a Twinkling Christmas Eve!
 **Youji:** Oh right, what happened on your end, missy\?  
 **Mirja:** With Sekka\? I found it, and had it restored and polished\. Like you said, it's an okatana with a dreamlike beauty\.\.\.  
 **Youji:** Ohh\! Well I'm glad to hear it\.  
-**Mirja:** Unfortunately, I wasn't chosen by Sekka, but other members of [your unit name here] are able to make use of it\.  
+**Mirja:** Unfortunately, I wasn't chosen by Sekka, but other members of [your unit name here\] are able to make use of it\.  
 **Youji:** At least that worked out\. Ah, right, bring it by here sometime and I'll make some special mountings for it\.  
 **Mirja:** I'd appreciate that\.  
 **Youji:** You might only have it for a short while, but you'll want to use Sekka the best you can\!  

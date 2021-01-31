@@ -203,7 +203,7 @@ Musumi Kiyoka Episodes
 **Mihono:** (I've never seen Kiyoka like this before\. I'm still sort of reeling\.\.\.\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/6_yDBybZI3Y"></iframe>](:Iframe)  
 
-## [Bride '19: Start]: Undercover Investigation (Kiyoka's Case\)
+## [Bride '19: Start\]: Undercover Investigation (Kiyoka's Case\)
 **Yui:** Ehhh\!\? Aradama showed up at the wedding chapel again\!\?  
 **Kiyoka:** Mm, it sounds like it\.  
 **Kiyoka:** Apparently another ring was stolen, so maybe it's the same aradama from before\?  
@@ -214,8 +214,8 @@ Musumi Kiyoka Episodes
 **Yui:** Kiyoka-chan, your smile's looking a little forced, isn't it-\?  
 **Kiyoka/Yui:** An undercover investigation\?  
 **Chapel Staff:** That's right\. If one of you acts as a decoy, we can find where the aradama hid the ring, right\?  
-**Yui:** \.\.\.Did you know about this\? [whispered]  
-**Kiyoka:** No, they only said we'd learn the details when we arrived\.\.\. [whispered]  
+**Yui:** \.\.\.Did you know about this\? [whispered\]  
+**Kiyoka:** No, they only said we'd learn the details when we arrived\.\.\. [whispered\]  
 **Chapel Staff:** Um\.\.\.\?  
 **Yui:** Ah, it's nothing\! That'll be just fine with us\! Please, just let us handle everything\!  
 **Chapel Staff:** We'll be counting on you then\. So\.\.\. Which of you will wear the wedding dress\?  
@@ -244,7 +244,7 @@ Musumi Kiyoka Episodes
 **Chapel Staff:** Oh, of course\! I'll get you one right away\!  
 **Yui:** Now everything's ready to go\.\.\.\! All that's left is\.\.\. To wait for Kiyoka-chan\!\!  
 
-## [Bride '19: End]: Shutter Chance\!
+## [Bride '19: End\]: Shutter Chance\!
 **Kiyoka:** Yui-chan really never came\.\.\.  
 **Kiyoka:** There wasn't any sign of her trying to unlock the door, so she wasn't lying\.  
 **Kiyoka:** Sigh, I should have trusted her more\.\.\. I was rude to Yui-chan, wasn't I\.\.\.  
@@ -279,7 +279,7 @@ Musumi Kiyoka Episodes
 **Kiyoka:** I don't want that either----\!\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/H9uezyeVchU"></iframe>](:Iframe)  
 
-## [Yuusha 2: Kiyoka: Start]: To Boost Up Our Girl Power\!
+## [Yuusha 2: Kiyoka: Start\]: To Boost Up Our Girl Power\!
 **Kiyoka:** This time, the two of us will be suppressing aradama as a pair\. You might not be able to rely on me for much\.\.\. But I look forward to working with you\.  
 **Fuu:** That's not true at all\. I'll be counting on you, Kiyoka\.  
 **Kiyoka:** \.\.\.\.\.\.  
@@ -319,7 +319,7 @@ Musumi Kiyoka Episodes
 **Kiyoka:** Okay\!  
 **Itsuki:** Th-They'll be fine\.\.\. Probably\?  
 
-## [Yuusha 2: Kiyoka: End]: The Key to Raising One's Girl Power is\.\.\.
+## [Yuusha 2: Kiyoka: End\]: The Key to Raising One's Girl Power is\.\.\.
 **Tougou:** Hey, Itsuki-chan\? We just ate a little while ago, so why are Fuu-senpai and Kiyoka-chan sitting in front of bowls of udon\?  
 **Itsuki:** That's because\.\.\.  
 **Fuu:** There's lots of things that can boost your girl power, like practicing cooking and stuff, but the most effective method is udon\!  
@@ -331,10 +331,10 @@ Musumi Kiyoka Episodes
 **Kiyoka:** Udon is loved on that kind of level in the world you came from\!\?  
 **Fuu:** Sure; udon is at the very tip top of gourmet food\. Come on, while it's still hot\!  
 **Kiyoka:** I-I'll give it a try\.\.\.\!  
-**Fuu:** [chew chew]\.\.\. Even in this world, udon's still the best\! \.\.\.It's filling me up\!  
+**Fuu:** [chew chew\]\.\.\. Even in this world, udon's still the best\! \.\.\.It's filling me up\!  
 **Kiyoka:** Yes\.\.\. It's very tasty, isn't it\!  
 **Fuu:** I think I'll just keep going on into seconds\.\.\.\?  
-**Kiyoka:** [chew chew]\.\.\. A-Already\!\? I-I have to\.\.\. try harder too-\!  
+**Kiyoka:** [chew chew\]\.\.\. A-Already\!\? I-I have to\.\.\. try harder too-\!  
 **Tougou:** Ahh\.\.\. You can't do that, Kiyoka-chan\. If you try to have as many helpings as Fuu-senpai\.\.\.  
 **Fuu:** Thank you for coming along to the Inubouzaki Fuu-style Girl Power Boosting Special Training\.  
 **Kiyoka:** I'm sorry, but\.\.\. Fuu-san\? We ate udon and then exercised together, but I don't feel like I've gotten any more girl power yet\.\.\.  
@@ -372,7 +372,7 @@ Musumi Kiyoka Episodes
 **Fuu:** Mmhm\. That's the spirit\. You can do it, Kiyoka\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/F1HUf5KE_sc"></iframe>](:Iframe)  
 
-## [Hostess - Kiyoka: Start]: I'm a Little Bit Nervous for Now\.\.\.
+## [Hostess - Kiyoka: Start\]: I'm a Little Bit Nervous for Now\.\.\.
 **Kiyoka:** \.\.\.\.\.\.  
 **Mirja:** Everyone did well on today's mission\. You should all be sure to get some rest\.  
 **Mihono:** It was rough, going through another day of that many of them-\.  
@@ -412,7 +412,7 @@ Musumi Kiyoka Episodes
 **Kiyoka:** You did, so thanks\.  
 **Mihono:** You're welcome then\!  
 
-## [Hostess - Kiyoka: End]: Hopefully it Goes Well
+## [Hostess - Kiyoka: End\]: Hopefully it Goes Well
 **Kiyoka:** Umm, this meal was for the room to the left of the one before--  
 **Mihono:** H-Help me, Kiyokaaaaaaaaa\!\!  
 **Kiyoka:** \.\.\.Hyau\!\? What's the matter, Hono-chan\!\?  

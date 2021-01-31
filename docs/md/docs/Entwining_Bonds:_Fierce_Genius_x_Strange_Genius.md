@@ -82,7 +82,7 @@ Entwining Bonds: Fierce Genius x Strange Genius
 **Yume:** EHH---\!\? What do you mean\? Nobody said anything like that to me\! Where is it\? Where's it supposed to come out\!\?  
 **Yomi:** Ah, I'm sorry, I'm being called for something, so you'll have to excuse me\. Anyway, have a nice night, Tsubakuro-san\.\.\.  
 **Yume:** EHHHHH-\!\? Hang on, Yomi-onee-san\! \.\.\.\.\.\.She hung up\.  
-**Yume:** W-Well, stuff like ghosts isn't scary or anything\! Cause, I'm super strong and all\. There's nothing I can't beat\.\.\. \.\.\.Ah-- But, can you beat a ghost with an okatana\?		[Minor trivia, Yume's okatana, Nikkari Ao'e, actually got its name for a legend in which it killed a ghost]  
+**Yume:** W-Well, stuff like ghosts isn't scary or anything\! Cause, I'm super strong and all\. There's nothing I can't beat\.\.\. \.\.\.Ah-- But, can you beat a ghost with an okatana\?		[Minor trivia, Yume's okatana, Nikkari Ao'e, actually got its name for a legend in which it killed a ghost\]  
 **Yume:** I didn't notice it, but it's completely dark outside\. \.\.\.I can't take this anymore\! I don't wanna stay here all alone by myself until morning--\!  
 **Yume:** Oh, I got it\! Sayaka-chan might be scared all by herself\. Since I'm so strong, I'll go and help Sayaka-chan out\.  
 **Yume:** I'll bring my snacks, and my cards, and othello with me\.\.\. Okay, here I go\!  
@@ -112,7 +112,7 @@ Entwining Bonds: Fierce Genius x Strange Genius
 **Sayaka:** I win\.\.\.  
 **Yume:** Mmgh\.\.\. That's only cause I got a little distracted talking to you now\! We're playing again\! I'm not stopping until I win\!  
 **Sayaka:** That's fine, but\.\.\. I'm a little tired\.\.\. I'll take a short rest\.\.\.  
-**Sayaka:** [snooze]\.\.\.  
+**Sayaka:** [snooze\]\.\.\.  
 **Yume:** Ehh-, hey, Sayaka-chan\! Wait\.\.\. She's really asleep now\.  
 **Yume:** Well, if you're gonna be like that, then I guess I'll have to let you borrow my futon\!  
 **Yume:** Yawn\~, looking at Sayaka-chan while she's sleeping is making me feel sleepy too\.\.\. Nn\.\.\.  

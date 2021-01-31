@@ -79,7 +79,7 @@ The night turns into morning\. At a temporary outpost constructed near Kashima's
 **Maki:** Right, we won't\. That's the spirit, Yume\.  
 
 ## 4: What Happens Now (1\)
-Meanwhile, with the investigation team, the members of [YOUR NAME HERE] were--
+Meanwhile, with the investigation team, the members of [YOUR NAME HERE\] were--
 
   
 **Kiyoka:** What exactly should we be doing from now on\?  
@@ -161,10 +161,10 @@ Meanwhile, with the investigation team, the members of [YOUR NAME HERE] were--
 **Hiyori:** \.\.\.\.\.\.\.\.\.\.\.\.  
 
 ## 8: Master's Words
-**Kanami:** [snooze]\.\.\.  
+**Kanami:** [snooze\]\.\.\.  
 **Sayaka:** Kanami fell asleep right away\.\.\.  
 **Mai:** She must have been exhausted after all\.  
-**Kanami:** [snooze]\.\.\.\.\.\.  
+**Kanami:** [snooze\]\.\.\.\.\.\.  
 **Mai:** But, from the look on her sleeping face, she must be enjoying herself\. Like she's having a nice dream\.  
 **Kanami:** Owww\.\.\.  
 **Minato:** Okay\. That makes 7 to 3; it's my win\!  
@@ -398,7 +398,7 @@ At that time, with the investigation team--
 **Kanami:** If you can't hold it in by yourself, then just let it all out\! I'll cut it down for you\!  
 **Kanami:** Every last bit of it-- I'll cut it all down\!  
 **Kanami:** Didn't I tell you I'd take half of it too\.\.\.\? Please, just trust me more\.\.\.\!  
-**Kanami:** [sobbing]  
+**Kanami:** [sobbing\]  
 **Hiyori:** Grgh\!\! Ah\.\.\. GUAGH\.\.\.\!\!  
 **Hiyori:** AAGGGHHHH\!\!\!  
 **Mai:** Tagitsuhime\!\? Why\.\.\.\?  

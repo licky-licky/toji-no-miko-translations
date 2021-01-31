@@ -5,7 +5,7 @@ https://streamable.com/egrfhq
 
   
 
-## [VR Suit - Kanami: Start]: Trip to Unreality
+## [VR Suit - Kanami: Start\]: Trip to Unreality
 **Tsugumi:** Etou-san, Itomi-san\. Thank you for going out of your way to stop by the lab today\.  
 **Kanami:** What was it you wanted Sayaka-chan and me to do\?  
 **Tsugumi:** I'm actually working with a new game utilizing the VR technology in development here in the lab\.\.\. And, we were looking for play testers\.  
@@ -48,7 +48,7 @@ https://streamable.com/d0td76
 
   
 
-## [VR Suit - Kanami: End]: Clear Reward
+## [VR Suit - Kanami: End\]: Clear Reward
 **Kanami:** Whoa\! You can take down enemies with a laser gun\. This is so fun\~\!  
 **Sayaka:** Mm\. Fighting without an okatana\.\.\. It feels new\.  
 **Kanami:** You're really good at this, Sayaka-chan\.  
@@ -62,11 +62,11 @@ https://streamable.com/d0td76
 **Sayaka:** Amazing\.\.\. There's an impressive feast\.\.\.  
 **Kanami:** Is it really okay for us to have all this\?  
 **Townsperson:** Of course\! You can have as much of the cakes you didn't get to eat earlier as you want too\. Please, take your time\.  
-**Kanami:** If you say so, then I won't hold back\. Let's dig in-\! [munch munch]\.\.\. No way\! This is as tasty as real cake\!  
+**Kanami:** If you say so, then I won't hold back\. Let's dig in-\! [munch munch\]\.\.\. No way\! This is as tasty as real cake\!  
 **Sayaka:** It really is\. \.\.\.It's sweet and delicious\.  
 **Kanami:** Sayaka-chan, this steak and sushi here are good too\! It's hard to believe this is actually part of a game\!  
 **Sayaka:** Mm, it's really delicious\.\.\. I feel like I could eat this forever\.  
-**Kanami:** That's for sure\. [chew chew] Mmmm, so good\! Can I have seconds, please-\!  
+**Kanami:** That's for sure\. [chew chew\] Mmmm, so good\! Can I have seconds, please-\!  
 **Kanami:** Phew\~\. My stomach's so full I can't eat another bite\!  
 **Sayaka:** Me too\. I feel full\. I want to bring some back for Mai and everyone\.  
 **Kanami:** Good idea\! Excuse me-, could we get this cake to go\?  
@@ -84,16 +84,16 @@ https://streamable.com/d0td76
 **Kanami:** Oh, huh-\.  
 **Mai:** Sayaka-chan, Kanami-chan, there you are\.  
 **Kanami:** Mai-chan\! Why are you here\?  
-**Sayaka:** [sniff sniff]\.\.\. I smell Mai's cookies\.  
+**Sayaka:** [sniff sniff\]\.\.\. I smell Mai's cookies\.  
 **Mai:** Fufufu, you got it right, Sayaka-chan\. I baked some cookies and thought we could have them together, so I came to find you\.  
 **Kanami:** Yay-, I'm glad to hear it\! Who'd have thought Mai-chan would bring cookies at just the right time\! I'll have some-\!  
-**Sayaka:** I'm glad too\. Mai, I'll have some\. [munch much]\.\.\. They're tasty\!  
+**Sayaka:** I'm glad too\. Mai, I'll have some\. [munch much\]\.\.\. They're tasty\!  
 **Kanami:** Yeah, yeah\! The cake in the game was tasty too, but your cookies really are the tastiest after all, Mai-chan-\!  
 https://streamable.com/625w4s
 
   
 
-## [Xmas' 19 - Suzuka: Start]: A Place to Hide a Present
+## [Xmas' 19 - Suzuka: Start\]: A Place to Hide a Present
 **Maki:** Suzuka, did something happen for you to call me over here\?  
 **Suzuka:** I'm sorry to do this when things are so busy at the end of the year\. But actually, I'd like to discuss something with you\.  
 **Maki:** Discuss what\?  
@@ -135,7 +135,7 @@ https://streamable.com/fyfbpt
 
   
 
-## [Xmas' 19 - Suzuka: End]: Present For You
+## [Xmas' 19 - Suzuka: End\]: Present For You
 December 25th\.
 
   
@@ -176,7 +176,7 @@ https://streamable.com/6wrqf7
 
   
 
-## [Dress 20 - Akira: Start]: No Way I'd Be Late
+## [Dress 20 - Akira: Start\]: No Way I'd Be Late
 **Yomi:** Akira\.  
 **Akira:** Nn\? Ahh, there you are, Yomi\. It's not often you're the one calling me up\.  
 **Yomi:** Yukari-sama will be hosting a recognition party for the Miss Five Traditions event\.  
@@ -215,7 +215,7 @@ https://streamable.com/pix5zg
 
   
 
-## [Dress 20 - Akira: End]: Grape Juice
+## [Dress 20 - Akira: End\]: Grape Juice
 **Akira:** Phew, made it\.  
 **Yomi:** As late as usual\.  
 **Akira:** Geh, Yomi\!\?  
@@ -253,7 +253,7 @@ https://streamable.com/f70ac8
 
   
 
-## [Summer Uniform 20 - Tsugumi: Start]:
+## [Summer Uniform 20 - Tsugumi: Start\]:
 **Tsugumi:** We'll be\.\.\. cleaning the pool\?  
 **Yomi:** Yes\. President Takatsu ordered us \"to clean it up\.\"  
 **Tsugumi:** Roger that-\.  
@@ -294,7 +294,7 @@ https://streamable.com/f70ac8
 **Tsugumi:** I spread the word for now, but\.\.\. How many will actually be there\?  
 **Tsugumi:** I'll have to wait and see tomorrow\.  
 
-## [Summer Uniform 20 - Tsugumi: End]:
+## [Summer Uniform 20 - Tsugumi: End\]:
 The day of the pool cleaning\.
 
   
@@ -332,7 +332,7 @@ https://streamable.com/okvt7l
 
   
 
-## [Renpu Summer Uniform - Yomi: Start]: Yomi and Akira
+## [Renpu Summer Uniform - Yomi: Start\]: Yomi and Akira
 **Yomi:** I thought then that, someday, I wanted to be helpful to that person\.  
 **Akira:** \.\.\.  
 **Yomi:** Sorry I made you wait\. It's been a while, Akira\.  
@@ -369,7 +369,7 @@ https://streamable.com/okvt7l
 **Yomi:** \.\.\.  
 **Yomi:** \.\.\.That's something I can't promise\.  
 
-## [Renpu Summer Uniform - Yomi: End]: Someday
+## [Renpu Summer Uniform - Yomi: End\]: Someday
 **Tsugumi:** Preparations for the experiment are finished\.  
 **Yukina:** You've done well\.  
 **Yukina:** Though, from here on the details of the experiment are highly classified\. You need to leave\.  
@@ -391,7 +391,7 @@ https://streamable.com/okvt7l
 **Yomi:** Yes ma'am\!  
 **Yomi:** YAAAAAAAAAAAAA\!  
 **Aradama:** OOOOOO\.\.\.  
-**Yomi:** [pant pant\.\.\.]  
+**Yomi:** [pant pant\.\.\.\]  
 **Yukina:** Next\!  
 **Researcher:** Maybe we should let her rest for a minute\.\.\.  
 **Yukina:** When I tell you next, bring out the next one\!  

@@ -274,7 +274,7 @@ The Case of the Disappearing Wedding Rings
 **Tsugumi:** Unbelievable\.\.\. There's just no keeping up with Yamashiro-san, is there\.  
 **Yui:** E-EHHHH\~\!\? Wait, please let go of me-\! Agh-, I almost had it too\~\!  
 
-## [Bride Kiyoka: Start]: Undercover Investigation (Kiyoka's Case\)
+## [Bride Kiyoka: Start\]: Undercover Investigation (Kiyoka's Case\)
 **Yui:** Ehhh\!\? Aradama showed up at the wedding chapel again\!\?  
 **Kiyoka:** Mm, it sounds like it\.  
 **Kiyoka:** Apparently another ring was stolen, so maybe it's the same aradama from before\?  
@@ -285,8 +285,8 @@ The Case of the Disappearing Wedding Rings
 **Yui:** Kiyoka-chan, your smile's looking a little forced, isn't it-\?  
 **Kiyoka/Yui:** An undercover investigation\?  
 **Chapel Staff:** That's right\. If one of you acts as a decoy, we can find where the aradama hid the ring, right\?  
-**Yui:** \.\.\.Did you know about this\? [whispered]  
-**Kiyoka:** No, they only said we'd learn the details when we arrived\.\.\. [whispered]  
+**Yui:** \.\.\.Did you know about this\? [whispered\]  
+**Kiyoka:** No, they only said we'd learn the details when we arrived\.\.\. [whispered\]  
 **Chapel Staff:** Um\.\.\.\?  
 **Yui:** Ah, it's nothing\! That'll be just fine with us\! Please, just let us handle everything\!  
 **Chapel Staff:** We'll be counting on you then\. So\.\.\. Which of you will wear the wedding dress\?  
@@ -315,7 +315,7 @@ The Case of the Disappearing Wedding Rings
 **Chapel Staff:** Oh, of course\! I'll get you one right away\!  
 **Yui:** Now everything's ready to go\.\.\.\! All that's left is\.\.\. To wait for Kiyoka-chan\!\!  
 
-## [Bride Kiyoka: End]: Shutter Chance\!
+## [Bride Kiyoka: End\]: Shutter Chance\!
 **Kiyoka:** Yui-chan really never came\.\.\.  
 **Kiyoka:** There wasn't any sign of her trying to unlock the door, so she wasn't lying\.  
 **Kiyoka:** Sigh, I should have trusted her more\.\.\. I was rude to Yui-chan, wasn't I\.\.\.  
@@ -349,7 +349,7 @@ The Case of the Disappearing Wedding Rings
 **Yui:** Relax, the only record of your panties is safe in my memories\.  
 **Kiyoka:** I don't want that either----\!\!  
 
-## [Bride Suzuka: Start]: Undercover Investigation (Suzuka's Case\)
+## [Bride Suzuka: Start\]: Undercover Investigation (Suzuka's Case\)
 **Maki:** An undercover investigation\?  
 **Suzuka:** Yes, we will be going undercover\.  
 **Suzuka:** Another report has come in from that wedding chapel of an aradama stealing a wedding ring\.  
@@ -382,7 +382,7 @@ The Case of the Disappearing Wedding Rings
 **Chapel Staff:** No, it's a perfect fit\.  
 **Suzuka:** Thank you very much\.\.\. Don't tell anyone I asked that, will you\?  
 
-## [Bride Suzuka: End]: You're Late, You know\?
+## [Bride Suzuka: End\]: You're Late, You know\?
 **Suzuka:** I said I would search for Maki-san, but it's difficult to cover such a large area\.  
 **Suzuka:** Oh\? Over there, that's\.\.\. Yomi-san, Ban-san\. So you two were stationed here\.  
 **Yomi:** Yes\.  
@@ -423,7 +423,7 @@ The Case of the Disappearing Wedding Rings
 **Maki:** No, I didn't mean that\.\.\. You look good\.  
 **Suzuka:** Ah\.\.\. Fufu, I'm glad to hear that, Maki-san\.  
 
-## [Bride Yomi: Start]: Undercover Investigation (Yomi's Case\)
+## [Bride Yomi: Start\]: Undercover Investigation (Yomi's Case\)
 **Yomi:** There was another person who had their ring stolen by aradama\?  
 **Chapel Staff:** Yes\.\.\.  
 **Yume:** I get it\.\.\. That means we've got a thief to catch, Yomi-onee-san\!  
@@ -454,7 +454,7 @@ The Case of the Disappearing Wedding Rings
 **Yomi:** For\.\.\. sure\?  
 **Yume:** Yeah\!  
 
-## [Bride Yomi: End]: Please Don't Look
+## [Bride Yomi: End\]: Please Don't Look
 **Yume:** Is she ready yet-, is Yomi-onee-san ready yet-\?  
 **Yomi:** \.\.\.Sorry for taking so long\.  
 **Yume:** Ah, I've been waiting forever, Yomi-on--  

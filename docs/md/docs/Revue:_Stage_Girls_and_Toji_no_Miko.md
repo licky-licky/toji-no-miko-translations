@@ -103,7 +103,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **\?\?\? (Karen\):** Thanks for the help\! Those monster looking things came out of nowhere, and we didn't know what to do\!  
 **Kanami:** We were just doing our job\. We're toji, after all\.  
 **Kanami:** And anyway, how'd you beat the aradama\!\? That's not an okatana, right\!\?  
-**\?\?\? (Karen\):** Otakara\? [treasure]  
+**\?\?\? (Karen\):** Otakara\? [treasure\]  
 **\?\?\? (Nana\):** Not treasure, Karen-chan\. She said an \"okatana\"\.  
 **\?\?\? (Juuna\):** An okatana\.\.\. Some type of sword\? Like the ones you have, right\?  
 **\?\?\? (Karen\):** Banana\! And Junjun too\!  
@@ -201,7 +201,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Claudine:** There's only someone I'm going to surpass\. Without fail\.  
 **Claudine:** Oh, right, about getting opinions on your performance\. Since you have the chance, why not ask all of us\?  
 **Suzuka:** Of course, we will--  
-**Tsugumi:** Shichinosato-san, here comes another wave\. We may need to break out the flag for this one\. [Referring to a flag Japanese fishermen will hoist after catching a huge haul]  
+**Tsugumi:** Shichinosato-san, here comes another wave\. We may need to break out the flag for this one\. [Referring to a flag Japanese fishermen will hoist after catching a huge haul\]  
 **Kofuki:** Was that supposed to be a joke\!\?  
 **Kofuki:** And besides, they're all mine\! Nobody's taking them from me\!\!  
 **Maki:** Suzuka\! Yomi\! Yume\! We're moving in too\!  
@@ -295,7 +295,7 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Kanami:** Now we can go back home, Hiyori-chan\!  
 **Hiyori:** \.\.\.Can we really go back though\? I don't even remember how we got here in the first place\.\.\.  
 **Mai:** Come to think of it, just how much time has passed since we came here\?  
-**Kaoru:** It might be like Urashima Tarou when we get back\. [a fairytale about a man who spends time in an underwater kingdom and finds a century has passed when he returns]  
+**Kaoru:** It might be like Urashima Tarou when we get back\. [a fairytale about a man who spends time in an underwater kingdom and finds a century has passed when he returns\]  
 **Karen:** Hey, Kanami-chan and them can get back fine, can't they\?  
 **Giraffe:** Of course, I will dutifully return them home\.  
 **Maki:** That's good to hear\.  
@@ -367,11 +367,11 @@ On the day the dance performance would be shown to the public\.
 **Kanami:** Of course\! I'm not about to take them all for myself\! Let's share them with everyone\! Hiyori-chan, you're fine with that too, right\?  
 **Hiyori:** I-I never said I wanted any, did I\?  
 **Kanami:** But they're so cute\. I know I'll come to like them soon enough\.  
-**Hikari:** Mr\. White is even more amazing though\.\.\. [mumbled]  
+**Hikari:** Mr\. White is even more amazing though\.\.\. [mumbled\]  
 **Hiyori:** Did you say something, Hikari\?  
 **Hikari:** \.\.\.I didn't say anything\.  
 **Kanami:** Come on, let's go ask everyone to start collecting Suzudaru Cats from the aradama\!  
-[WARNING\. I didn't actually roll Mai so I only ever happened to see part 1]
+[WARNING\. I didn't actually roll Mai so I only ever happened to see part 1\]
 
   
 **Stage Girl Mai:** Start: Two Triangles  
@@ -426,7 +426,7 @@ On the day the dance performance would be shown to the public\.
 **Mahiru:** Ah, but I would appreciate it if you go a little easy on me after all\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqlN1QeE1o"></iframe>](:Iframe)  
 
-## [Stage Girl - Kanami: Start]: Somebody I Want to Spar With\!
+## [Stage Girl - Kanami: Start\]: Somebody I Want to Spar With\!
 **Maya:** Now then, I'll have you leave the stage\. --HAAH\!  
 **Karen:** YAH\!  
 **Karen:** Nice\! I beat it-\.  
@@ -459,7 +459,7 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 **Hikari:** \.\.\.You're watching my movements closely\.  
 **Kanami:** That's good\! Show me more and more, Hikari-chan, of the way that you fight\!  
 
-## [Stage Girl - Kanami: End]: It Is All for the Sake of Starlight\!
+## [Stage Girl - Kanami: End\]: It Is All for the Sake of Starlight\!
 **Hikari:** \.\.\.There-\!  
 **Kanami:** \!\? That was a little risky just now\!  
 **Kanami:** You're using the spring in your body to get even sharper with your strikes\! That was a great thrust\!  

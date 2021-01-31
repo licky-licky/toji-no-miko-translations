@@ -94,7 +94,7 @@ That night\.\.\. Kiyoka and the others received an urgent dispatch to an abandon
 **Kiyoka:** Actually, it's more like\.\.\. Y-Y\.\.\. Y-Y-You're\!\? You're melting\!\!\!\?\?\?\?  
 **Two Aradama:**  Kiyoka\.\.\.a\!  
 **Kiyoka:** \.\.\.KYAAAAAAAA\!  
-**Kiyoka:** [pant, pant]\.\.\. Juujou-san, Iwakura-san\.\.\. They turned into aradama\. Uuu\.\.\. I just don't know what's going on anymore\.\.\.  
+**Kiyoka:** [pant, pant\]\.\.\. Juujou-san, Iwakura-san\.\.\. They turned into aradama\. Uuu\.\.\. I just don't know what's going on anymore\.\.\.  
 
 ## 3: If You're the Real One\.\.\. Then Answer This\!
 **Hiyori:** \.\.\.\.\.\.  
@@ -110,7 +110,7 @@ That night\.\.\. Kiyoka and the others received an urgent dispatch to an abandon
 **Hiyori:** Kanami\?  
 **Kanami:** \.\.\.Kanami\?  
 **Sanae:** Something's not right about her\.\.\. Back up, Juujou-san\!  
-**Kanami:** [sizzle, sizzle sizzle]\.\.\.  
+**Kanami:** [sizzle, sizzle sizzle\]\.\.\.  
 **Aradama:** Ki\.\.\.ki\.\.\. SHAAAA\!  
 **Hiyori:** What the\.\.\. Kanami turned into an aradama\!\?  
 **Sanae:** Is this the strange aradama Shidou-senpai told us about\!\?  
@@ -218,7 +218,7 @@ That night\.\.\. Kiyoka and the others received an urgent dispatch to an abandon
 **Maki:** Well, you're not wrong\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/HT3YdcAAc3c"></iframe>](:Iframe)  
 
-## [Halloween 19 - Sayaka: Start]: A Request Offer
+## [Halloween 19 - Sayaka: Start\]: A Request Offer
 **Mirja:** I've been looking for you, Itomi Sayaka\. Do you remember the director from that historical film\?  
 **Sayaka:** I remember\.  
 **Mirja:** As it turns out, that director has sent in another offer\. He requested you, myself, and Iwakura Sanae\.  
@@ -254,7 +254,7 @@ That night\.\.\. Kiyoka and the others received an urgent dispatch to an abandon
 **Sayaka:** Don't worry\. I know you can do it, Sanae\.  
 **Sanae:** Alright, thank you\.  
 
-## [Halloween 19 - Sayaka: End]: The Scream is Vital\.\.\.\?
+## [Halloween 19 - Sayaka: End\]: The Scream is Vital\.\.\.\?
 On the day of the film shoot\.
 
   
@@ -296,7 +296,7 @@ The apprentice nun visited the ruined mansion to search for the black cat in que
 **Mirja:** Fufu, you're right about that\. Let's go see what they have then\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/HguM1_W3fqw"></iframe>](:Iframe)  
 
-## [Halloween 19 - Sanae: Start]: I'm a Bakeneko
+## [Halloween 19 - Sanae: Start\]: I'm a Bakeneko
 **Hiyori:** You're going to be starring in a movie\?  
 **Sanae:** I-I am\.  
 **Sanae:** Umm, do you remember when Itomi-san was a stuntman for a movie that one time\?  
@@ -328,7 +328,7 @@ The apprentice nun visited the ruined mansion to search for the black cat in que
 **Sanae:** That sounds perfect\! You have to send me pictures, okay\! I want to see shots of you and Etou-san together\!  
 **Hiyori:** Why do they have to be me with Kanami\!\?  
 
-## [Halloween 19 - Sanae: End]: On to the Filming\!
+## [Halloween 19 - Sanae: End\]: On to the Filming\!
 The day of the film shoot\.
 
   
@@ -351,11 +351,11 @@ The day of the film shoot\.
 **Sanae:** I-It's already starting\!\?  
 **Sayaka:** You can do it, Sanae\.  
 **Sanae:** Y-Yeah\.\.\. I'll do what I can\!  
-**Sanae:** \.\.\.[gulp]  
+**Sanae:** \.\.\.[gulp\]  
 **Sanae:** (Right now, Kitora-san will be coming up from the first floor, so I have to frighten her\.\.\.\)  
 **Mirja:** I-Is somebody there\?  
 **Sanae:** (Ahh, I'm so nervous I can't stop myself from smiling\.\.\.\! I have to stiffen up my face some more\.\.\.\!\)  
-**Mirja:** [pant, pant]\.\.\.  
+**Mirja:** [pant, pant\]\.\.\.  
 **Sanae:** (Mirja-san's raising the sense of tension\.\.\. She's a good actor\.\.\.\)  
 **Sanae:** (I-I'll have to try and keep up with her performance\.\.\. One, two, and three\.\.\.\!\)  
 **Sanae:** UNYAAAAAA\!  
@@ -368,7 +368,7 @@ The day of the film shoot\.
 **Sanae:** Sure\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Y6ff2yewfcQ"></iframe>](:Iframe)  
 
-## [Halloween 19 - Mirja: Start]: Kaiju Mirja\?
+## [Halloween 19 - Mirja: Start\]: Kaiju Mirja\?
 **Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  
 **Mirja:** Calm yourself, Yamashiro Yui\. Do you remember before, when Itomi Sayaka appeared in that film\?  
 **Kofuki:** Oh yeah, that happened, didn't it\. It was that time with the historical drama thing, right\?  
@@ -403,7 +403,7 @@ The day of the film shoot\.
 **Kofuki:** Well, either way, give it your best shot\. I'll be looking forward to it\.  
 **Mirja:** \.\.\.Yes, I'll make every effort\.  
 
-## [Halloween 19 - Mirja: End]: Sister Mirja\!
+## [Halloween 19 - Mirja: End\]: Sister Mirja\!
 On the day of filming\.
 
   

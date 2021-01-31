@@ -5,7 +5,7 @@ https://streamable.com/yxrua4
 
   
 
-## [Special Defense Team - Suzuka: Start]: Suzuka of the Special Defense Team
+## [Special Defense Team - Suzuka: Start\]: Suzuka of the Special Defense Team
 **Suzuka:** Now then, I'll go about explaining our next mission\.  
 **Maki:** We're suppressing aradama, right\?  
 **Suzuka:** Yes, it will be a bit of a trip\. It's been some time since you and I took an assignment together, Maki-san\.  
@@ -37,7 +37,7 @@ https://streamable.com/vsfdyz
 
   
 
-## [Special Defense Team - Suzuka: End]: In Harmony
+## [Special Defense Team - Suzuka: End\]: In Harmony
 **Suzuka:** Nn\.\.\.  
 **Suzuka:** (It's still dark out, and yet I'm awake now\.\.\. Oh\?\)  
 **Suzuka:** (Maki-san is looking outside\.\.\.\?\)  
@@ -73,7 +73,7 @@ https://streamable.com/u8h7xr
 
   
 
-## [Journey to the West - Maki: Start]: A Different Way of Using It
+## [Journey to the West - Maki: Start\]: A Different Way of Using It
 **Maki:** \.\.\.  
 **Suzuka:** Maki-san\? Why the troubled face\?  
 **Maki:** Oh, Suzuka\.  
@@ -109,7 +109,7 @@ https://streamable.com/htxmmh
 
   
 
-## [Journey to the West - Maki: End]: We'll All Do It Next Time
+## [Journey to the West - Maki: End\]: We'll All Do It Next Time
 **Tsugumi:** Now then, we'll begin the action\. Is everyone ready\?  
 **Maki:** No problems here\. What about you, Suzuka\?  
 **Suzuka:** I'm fine as well\.  

@@ -35,7 +35,7 @@ Entwining Bonds: Honest Heart x Acrobatics
 **Mihono:** Oh yeah, you're right\! I'm gonna give it my all then\!  
 **Ellen:** Alright, match up with me, and let's go\!  
 **Ellen:** Mihomiho, you did good work back there\. We managed to clear them out together\.  
-**Mihono:** [Pant\.\.\. pant\.\.\.] Ellen-san, I'm sorry\. I couldn't move around all that great at all\.\.\.  
+**Mihono:** [Pant\.\.\. pant\.\.\.\] Ellen-san, I'm sorry\. I couldn't move around all that great at all\.\.\.  
 **Mihono:** I bet that, if you were fighting with Kaoru-san, this would have been nothing for you\.\.\.  
 **Ellen:** It's nothing for you to feel depressed over\. You must be tired after fighting so much, so why don't we end today's lesson here\?  
 **Mihono:** Okay\. Thanks a lot for helping me today\. I'm going to do a little more training on my own\.  

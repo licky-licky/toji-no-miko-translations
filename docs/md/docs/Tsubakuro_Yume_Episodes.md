@@ -209,8 +209,8 @@ Tsubakuro Yume Episodes
 **Yume:** Ehh\~\? I don't have to do that\~\. Cause\.\.\. The four of us can make it all happen together\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Q19Fa9VDWgg"></iframe>](:Iframe)  
 
-## [VRS Equipment - Yume: Start]: Nothing to It but to Do It\!
-**Maki:** [mumble mumble mumble]\.\.\.   
+## [VRS Equipment - Yume: Start\]: Nothing to It but to Do It\!
+**Maki:** [mumble mumble mumble\]\.\.\.   
 **Yume:** Geez, Maki-onee-san, how long're you going to keep reading the instructions for\?   
 **Maki:** Just give me a bit more time, Yume\. I want to thoroughly drill myself on all the game commands, just in case a bug occurs in the game world\.  
 **Tsugumi:** Shidou-san, I understand why you might feel unsure of using cutting edge technology, but I can assure you, this VR game Kitora-san and I helped to develop is perfectly safe\. You have nothing to worry about\.  
@@ -243,7 +243,7 @@ Tsubakuro Yume Episodes
 **Yume:** No way\! I'm falling\!\?  
 **Yume:** Uhh, when this happens, what was I supposed to do\? What do I do, Maki-onee-san\!\? I'm gonna fall all the way down\!  
 
-## [VRS Equipment - Yume: End]: Seriousness Pays Off
+## [VRS Equipment - Yume: End\]: Seriousness Pays Off
 **Maki:** Yume\! Are you okay\!\? Yume-\!\!  
 **Yume:** Wahhh, what should I do\! I'm falling all the way down---\!  
 **Yume:** Maki-onee-chan, save me-\!  
@@ -276,7 +276,7 @@ Tsubakuro Yume Episodes
 **Yume:** Still, it's really amazing that you can do this here too\! I'm glad I came here with someone who'd read the whole manual\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/l-T5v0sq5no"></iframe>](:Iframe)  
 
-## [Hostess - Yume: Start]: Yume's Work Experience\!
+## [Hostess - Yume: Start\]: Yume's Work Experience\!
 **Maki:** \.\.\.\.\.\.  
 **Maki:** \.\.\.Sigh\.  
 **Suzuka:** \.\.\.Why not relax some\?  
@@ -311,7 +311,7 @@ Tsubakuro Yume Episodes
 **Ryokan Proprietress:** We have people hired to take care of the full cleaning, but this is one last check before the guests come through\. Whoever is in charge will show you how it's done, so please work along with them\.  
 **Yume:** Okaaay\~\.  
 
-## [Hostess - Yume: End]: For the Special Menu\!
+## [Hostess - Yume: End\]: For the Special Menu\!
 **Yume:** I thought meeting guests and showing them their rooms felt like what a real hostess would do, but I didn't think, after we did it a couple times, they'd ask us to go pick vegetables next\.  
 **Yomi:** They seem to have a special menu of vegetables grown here on the mountain they own that's served to guests who request it\.  
 **Yume:** You think this is enough we've got-\?  
@@ -347,7 +347,7 @@ The next day--
 **Yume:** Someday for sure\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/51zzPZJO6kY"></iframe>](:Iframe)  
 
-## [Misogi - Yume: Start]: Why Won't You Let Me\!
+## [Misogi - Yume: Start\]: Why Won't You Let Me\!
 **Yume:** Maki-onee-san\.  
 **Maki:** Nn\? Oh, it's you, Yume\.  
 **Maki:** Sorry, but I don't have a lot of time right now\. If this'll take long, can we save it for later\?  
@@ -393,7 +393,7 @@ The next day--
 **Suzuka:** \.\.\.R-Right, I'll keep that in mind\.  
 **Yume:** All that's left is Maki-onee-san\.\.\. and Yukari-sama\. If I beat Yukari-sama, everybody'll know I'm strong\.  
 
-## [Misogi - Yume: End]: I'll Get Even Stronger\!
+## [Misogi - Yume: End\]: I'll Get Even Stronger\!
 **Maki:** I'm back\.  
 **Yume:** I was waiting for you, Maki-onee-san\.  
 **Maki:** Yume\.\.\.\? Oh right, before I left to suppress that aradama, you were saying something\.  
@@ -446,7 +446,7 @@ The next day--
 **Yume:** \.\.\.I'm really glad I joined the elite guard\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/QcrxhLnr7t8"></iframe>](:Iframe)  
 
-## [1,001 Nights - Yume: Start]: A Request
+## [1,001 Nights - Yume: Start\]: A Request
 **Maki:** Excuse us, Yukari-sama\.  
 **Yukari:** You're here\. I have a request for you from the Sword Administration Bureau\.  
 **Suzuka:** A request\?  
@@ -478,7 +478,7 @@ The next day--
 **Yume:** Eh\.\.\.\!\?  
 **Yume:** Instead of listening to some boring speeches at a ceremony, we're dancing\?  
 
-## [1,001 Nights - Yume: End]: A Promise for Next Time 
+## [1,001 Nights - Yume: End\]: A Promise for Next Time 
 --The day of the event\.
 
   
@@ -514,7 +514,7 @@ The next day--
 **Yume:** Yeah\! I want us all to do this again\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/0OSG6EeTdH8"></iframe>](:Iframe)  
 
-## [Mahou Shoujo - Yume: Start]: Let's Go Together\!
+## [Mahou Shoujo - Yume: Start\]: Let's Go Together\!
 **Yume:** Where'd she go\.\.\. Ah, there you are\! Fate-chan\!  
 **Fate:** Yume-san\?  
 **Yume:** Huh\? What're you doing with Maki-onee-san\?  
@@ -553,7 +553,7 @@ The next day--
 **Tsugumi:** Tsubakuro-san is a toji too\. Please have faith in her\.  
 **Fate:** \.\.\.Okay\.  
 
-## [Mahou Shoujo - Yume: End]: It's Not Like That\!\?
+## [Mahou Shoujo - Yume: End\]: It's Not Like That\!\?
 **Aradama:** GUOOOOOOOOOOOOOO\!\!  
 **Yume:** YAAH\!  
 **Aradama:** Oooo\.\.\.  

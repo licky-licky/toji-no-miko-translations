@@ -319,7 +319,7 @@ Pair vs Pair! The New Year's Karuta Competiti...
 **Kanami:** A prize\!\?  
 **Hiyori:** Wait, we don't need anything like that\. The legend was enough for us\.  
 **Yukari:** You shouldn't act so reserved\. Go ahead and open this box\.  
-**Kanami:** Wow-, it's full of gorgeous furisode\! [Furisode are formal long-sleeved kimono]  
+**Kanami:** Wow-, it's full of gorgeous furisode\! [Furisode are formal long-sleeved kimono\]  
 **Mirja:** These are\.\.\.\! Each of them is exceptionally valuable one-of-a-kind quality\.  
 **Hiyori:** We can't take something that special\.\.\.  
 **Yukari:** I told you not to act reserved\. You may take as many as you like\. There's no reason for you to complain, is there\?  

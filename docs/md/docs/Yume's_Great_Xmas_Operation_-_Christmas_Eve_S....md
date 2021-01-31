@@ -227,7 +227,7 @@ On the day of the party\.
 **Suzuka:** (This year's Christmas Eve will be a fine thing to remember\. I'll have to offer my gratitude to Santa Claus\.\.\.\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/evNvCiMwU_E"></iframe>](:Iframe)  
 
-## [Xmas' 19 - Tsugumi: Start]: With Our Caroling
+## [Xmas' 19 - Tsugumi: Start\]: With Our Caroling
 **Mihono:** Wow-\! Come take a look\! There's so many tasty looking cakes\!  
 **Kofuki:** Whoa\! This pudding looks good as hell\!  
 **Mirja:** Asakura Mihono, Shichinosato Kofuki, we did not come here today to eat cakes\.  
@@ -260,7 +260,7 @@ On the day of the party\.
 **Kofuki:** So, where do we start with practicing carols now\?   
 **Tsugumi:** First, to understand what position we're starting from, why don't we sing through our songs\?  
 **Mihono:** Okaaay\! Then, I'll put on the background music CD, so let's sing along with it\!  
-**Mihono/Tsugumi/Kofuki:** [singing]  
+**Mihono/Tsugumi/Kofuki:** [singing\]  
 **Tsugumi:** Hmm, I'm sorry to say this, but we don't exactly have the voices of angels, do we\.  
 **Kofuki:** With the two of you going all into falsetto, we weren't getting anywhere near enough volume\!  
 **Tsugumi:** That's true; because we're singing in a different register than usual, we may need to train our throats more\.  
@@ -268,7 +268,7 @@ On the day of the party\.
 **Mihono:** A-A special medicine\!\?  
 **Kofuki:** I've got a real bad feeling about where this is going\.\.\.  
 
-## [Xmas' 19 - Tsugumi: End]: Harmony Resounding Through the Holy Night
+## [Xmas' 19 - Tsugumi: End\]: Harmony Resounding Through the Holy Night
 The next day\.
 
   
@@ -278,7 +278,7 @@ The next day\.
 **Kofuki:** There's no way that's going in my mouth, alright\!  
 **Mihono:** I-I practiced real hard by myself yesterday to bring my voice out, so I'll be fine without having to have one of those\.\.\. Or something\.  
 **Tsugumi:** I see\. I was fairly proud of how these turned out too\.\.\.  
-**Yui:** [sniff sniff]\.\.\. Something sweet is in the air\.\.\. And so I followed my nose, and it led me to a meetup of my sweet honeys\! My intuition's super on the mark\~\!  
+**Yui:** [sniff sniff\]\.\.\. Something sweet is in the air\.\.\. And so I followed my nose, and it led me to a meetup of my sweet honeys\! My intuition's super on the mark\~\!  
 **Tsugumi:** Yamashiro-san\. You came at the perfect time\. Would you like to have a snack\?  
 **Yui:** Can I\!\?  Ah\! Are these sweets you made yourself, Tsugumi-san\!\?  
 **Tsugumi:** Yes\. I tried creating special-made lozenges that were gentle on the throat, but the others said they didn't need them\.\.\.  
@@ -291,7 +291,7 @@ The next day\.
 **Tsugumi:** Hmhm, the effects are already showing in such a short timeframe\. It seems I can call this highly successful\.  
 **Yui:** Ahh\~\! I want to shout\! Shout my heart out\! AHHHH\~\~\~\~\~\~\~\~\~\~\!  
 **Mihono:** Sh-She's so loud\! Yui's singing is making the windows rattle-\! Tsuguki-san's lozenges might actually be amazing\!  
-**Yui:** Whoa; what's going on\! I can sing kobushi so well now it's funny\~\! Give me any enka song and I feel like I could sing it\! HAA\~\~\~\~\~\~\~\~\~\!		[Kobushi is a technique used in singing enka, where a single syllable is sung while moving between several different notes in succession]  
+**Yui:** Whoa; what's going on\! I can sing kobushi so well now it's funny\~\! Give me any enka song and I feel like I could sing it\! HAA\~\~\~\~\~\~\~\~\~\!		[Kobushi is a technique used in singing enka, where a single syllable is sung while moving between several different notes in succession\]  
 **Yui:** Ahh\~\! I want to sing out across the sea of Japan\! My body's itching to try it\~\! I can't take it anymore\! I'm on my way\!  
 **Mihono:** And she's gone\.\.\.  
 **Tsugumi:** She sure is\.\.\. Though, thanks to Yamashiro-san's sudden appearance, I was able to prove the potency of these lozenges\. Now, you two, try some as well\!  

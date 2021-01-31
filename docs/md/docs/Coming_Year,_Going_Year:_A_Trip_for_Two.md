@@ -181,12 +181,12 @@ Part 5 was dubbed live on stream\. There's a link above it if you want to read a
 **Mihono:** Fuah\~\.\.\. Nnn\~\.\.\. Zzz\.\.\.  
 **Chie:** Oh, Mihono-chan\? Fufu, she's sleeping now\.  
 **Chie:** \.\.\.Her face is so innocent when she's asleep\. I wonder what she's dreaming about\.  
-**Mihono:** [mumble mumble]\.\.\. Chii-nee\.\.\. We're going here next\.\.\.\! Chii-nee\.\.\. Ngh\.\.\.  
+**Mihono:** [mumble mumble\]\.\.\. Chii-nee\.\.\. We're going here next\.\.\.\! Chii-nee\.\.\. Ngh\.\.\.  
 **Chie:** Even in her dreams, she's still leading me around\. Thank you very much for taking me on a pleasant journey, Mihono-chan\.  
 **Chie:** Yawn\~\. Looking at how happily Mihono-chan's sleeping is making me feel drowsy too\.  
 **Chie:** It doesn't look like we'll be able to do a countdown to the new year, so I'll just lie down and we can sleep together\.  
-**Chie:** [sleep breathing]\.\.\.  
-**Mihono:** [sleep mumbling]\.\.\.  
+**Chie:** [sleep breathing\]\.\.\.  
+**Mihono:** [sleep mumbling\]\.\.\.  
 **Mihono:** Nn\.\.\.\?  
 **Mihono:** WAHH------\!\!  
 **Mihono:** (No way-\! I fell asleep\!\?\)  
@@ -236,7 +236,7 @@ Part 5 was dubbed live on stream\. There's a link above it if you want to read a
 **Mihono/Chie:** This year, and the next year, and every year after that, please let us stay happily together\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/EgIu3T30SHE"></iframe>](:Iframe)  
 
-## [Casual 20 - Mihono: Start]: Planning a New Year's Trip
+## [Casual 20 - Mihono: Start\]: Planning a New Year's Trip
 Several days before New Year's Eve\.
 
   
@@ -271,7 +271,7 @@ Several days before New Year's Eve\.
 **Mihono:** I get it\! I think that's a great way of looking at it\. It might give us better fortune from watching the sunrise, so I I'll try putting watching the sunset into our plan too\!  
 **Mihono:** Okaaay, now just to find the perfect place to watch the sunset with Chii-nee\!  
 
-## [Casual 20 - Mihono: End]: At the Year's Final Sunset\.\.\.
+## [Casual 20 - Mihono: End\]: At the Year's Final Sunset\.\.\.
 On New Year's Eve\. Partway through Mihono and Chie's trip together, they happened to meet Kiyoka, Sanae, and Yume, and all went to watch the sunset from an observation tower together\.
 
   
@@ -323,6 +323,6 @@ On New Year's Eve\. Partway through Mihono and Chie's trip together, they happen
 **Kiyoka:** Fufu, in that case, I'll take one for you now\. Hono-chan, hug up nice and close against Setouchi-san\. Press your cheeks together too, and it'll look extra lovey dovey\!  
 **Mihono:** I-I can't do that out of nowhere-\! It'd be embarrassing, right, Chii-nee\?  
 **Chie:** Well, it is a little embarrassing, but since we are on a big trip, it might be nice to have photos like this too\.  
-**Mihono:** I guess so\.\.\. Then, when in Rome\! [hug-]\!  
+**Mihono:** I guess so\.\.\. Then, when in Rome\! [hug-\]\!  
 **Kiyoka:** Yeah, that pose looks perfect\! I'm taking the picture now\. Say cheese\!  
 > :ToCPrevNext

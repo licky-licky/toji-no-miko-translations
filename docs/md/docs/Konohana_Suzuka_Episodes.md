@@ -147,7 +147,7 @@ Konohana Suzuka Episodes
 **Suzuka:** Hm\? Were you saying something, Wakako\?  
 **Wakako:** N-N-No\! Pay no attention to me\.  
 
-## [Bride '19: Start]: Undercover Investigation (Suzuka's Case\)
+## [Bride '19: Start\]: Undercover Investigation (Suzuka's Case\)
 **Maki:** An undercover investigation\?  
 **Suzuka:** Yes, we will be going undercover\.  
 **Suzuka:** Another report has come in from that wedding chapel of an aradama stealing a wedding ring\.  
@@ -180,7 +180,7 @@ Konohana Suzuka Episodes
 **Chapel Staff:** No, it's a perfect fit\.  
 **Suzuka:** Thank you very much\.\.\. Don't tell anyone I asked that, will you\?  
 
-## [Bride '19: End]: You're Late, You know\?
+## [Bride '19: End\]: You're Late, You know\?
 **Suzuka:** I said I would search for Maki-san, but it's difficult to cover such a large area\.  
 **Suzuka:** Oh\? Over there, that's\.\.\. Yomi-san, Ban-san\. So you two were stationed here\.  
 **Yomi:** Yes\.  
@@ -222,7 +222,7 @@ Konohana Suzuka Episodes
 **Suzuka:** Ah\.\.\. Fufu, I'm glad to hear that, Maki-san\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/MB7eNdGUsHU"></iframe>](:Iframe)  
 
-## [Valentines Suzuka: Start]: A Similar Pair\?
+## [Valentines Suzuka: Start\]: A Similar Pair\?
 **Mirja:** As of now, there is only one more confirmed target in the shopping mall\. Do you see it on the spectrum finder\?  
 **Aradama:** \.\.\.Ggii\.  
 **Suzuka:** There it is\.  
@@ -260,7 +260,7 @@ Konohana Suzuka Episodes
 **Mirja:** Thank you for answering such a trivial question of mine\.  
 **Suzuka:** It was nothing\. Now then, why don't we make our way back\.  
 
-## [Valentines Suzuka: End]: The Reason Behind Her Enthusiasm
+## [Valentines Suzuka: End\]: The Reason Behind Her Enthusiasm
 **Patissier:** Sure, that would be fine\. I can teach you some relatively simple tricks to making delicious chocolate even at home\.  
 **Suzuka:** Thank you very much\. It won't be an issue for you to teach them to me, will it\?  
 **Patissier:** Well, it shouldn't be a problem so long as you don't go spreading online that it was our shop that taught it to you\.  
@@ -297,7 +297,7 @@ Konohana Suzuka Episodes
 **Yume:** You really are acting kinda suspicious today, Suzuka-onee-san\~\.\.\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/gTpQZtWj_rg"></iframe>](:Iframe)  
 
-## [Xmas' 19 - Suzuka: Start]: A Place to Hide a Present
+## [Xmas' 19 - Suzuka: Start\]: A Place to Hide a Present
 **Maki:** Suzuka, did something happen for you to call me over here\?  
 **Suzuka:** I'm sorry to do this when things are so busy at the end of the year\. But actually, I'd like to discuss something with you\.  
 **Maki:** Discuss what\?  
@@ -336,7 +336,7 @@ Konohana Suzuka Episodes
 **Yomi:** Konohana-san\? Is something wrong\?  
 **Suzuka:** (Fufu, I've come up with an excellent idea of how to hide Yomi-san's present\.\)  
 
-## [Xmas' 19 - Suzuka: End]: Present For You
+## [Xmas' 19 - Suzuka: End\]: Present For You
 December 25th\.
 
   
@@ -375,7 +375,7 @@ December 25th\.
 **Suzuka:** We were very lucky to keep it a secret until today\. I suppose you hide a tree in a forest, and a present among gifts\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/t74NJwnCerI"></iframe>](:Iframe)  
 
-## [Special Defense Team - Suzuka: Start]: Suzuka of the Special Defense Team
+## [Special Defense Team - Suzuka: Start\]: Suzuka of the Special Defense Team
 **Suzuka:** Now then, I'll go about explaining our next mission\.  
 **Maki:** We're suppressing aradama, right\?  
 **Suzuka:** Yes, it will be a bit of a trip\. It's been some time since you and I took an assignment together, Maki-san\.  
@@ -404,7 +404,7 @@ December 25th\.
 **Maki:** \.\.\.You're right\. Alright, Suzuka\.  
 **Maki:** I'll go rest too\.  
 
-## [Special Defense Team - Suzuka: End]: In Harmony
+## [Special Defense Team - Suzuka: End\]: In Harmony
 **Suzuka:** Nn\.\.\.  
 **Suzuka:** (It's still dark out, and yet I'm awake now\.\.\. Oh\?\)  
 **Suzuka:** (Maki-san is looking outside\.\.\.\?\)  

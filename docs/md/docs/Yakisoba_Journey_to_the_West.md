@@ -199,7 +199,7 @@ After the Tagitsuhime incident, the members of the elite guard began working as 
 **Sanae:** Huh\? Juujou-san\!  
 **Hiyori:** Iwakura-san\. I didn't think I'd see you here\.  
 **Sanae:** I know\. I was here buying kashiwa mochi from the dumpling seller over there\.  
-**Hiyori:** Kashiwa mochi, huh\.\.\. That's right, it's almost Boy's Day\.	[Boy's Day is one of the several holidays during Golden Week\. Kashiwa mochi are traditionally served then\.]  
+**Hiyori:** Kashiwa mochi, huh\.\.\. That's right, it's almost Boy's Day\.	[Boy's Day is one of the several holidays during Golden Week\. Kashiwa mochi are traditionally served then\.\]  
 **Sanae:** Last year, with it being just before the tournament, I didn't have any time get kashiwa mochi, so I thought, this year for sure\!  
 **Sanae:** It happens so fast, doesn't it\. It's nearly been a full year since that tournament\.  
 **Hiyori:** Yeah, the tournament is as soon as Golden Week is over\.\.\.  
@@ -211,7 +211,7 @@ After the Tagitsuhime incident, the members of the elite guard began working as 
 **Hiyori:** I was\.  
 **Sanae:** I just finished up with my practice too\. I was thinking, I might have lost to Juujou-san in the qualifiers, but I want to somehow catch up to her by the main tournament\.\.\.  
 **Hiyori:** I see\.\.\. \.\.\.Nn\? What's that long herb you're holding\.\.\.\?  
-**Sanae:** Oh, it's an iris\. Bathing in a bath with iris petals on Boy's Day is supposed to cleanse evil spirits, and they say it's good for victory too\.	[Boy's Day was also known as Iris Day, as it's when the irises go in bloom\. The kanji for iris can be read as shoubu, for contest, and bathing with iris petals is a tradition for the reasons Sanae listed\.]  
+**Sanae:** Oh, it's an iris\. Bathing in a bath with iris petals on Boy's Day is supposed to cleanse evil spirits, and they say it's good for victory too\.	[Boy's Day was also known as Iris Day, as it's when the irises go in bloom\. The kanji for iris can be read as shoubu, for contest, and bathing with iris petals is a tradition for the reasons Sanae listed\.\]  
 **Sanae:** I thought I would use it in the bath at the dorm, as a little superstition for the tournament, but also to pray for everyone's safety\.  
 **Sanae:** You should be sure to bathe with them too, Juujou-san, to help ward off evil\.  
 **Hiyori:** Ahh, that did happen, didn't it\.  

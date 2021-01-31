@@ -101,7 +101,7 @@ On a Nice Cool Evening! Yukata at the Summer Festi...
 **Yume:** Pinky swear, and whoever lies, they get a needle in their eye\~\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/jdKVXQRmnJ0"></iframe>](:Iframe)  
 
-## [Yukata Yomi: Start]: We Mustn't Get Lost
+## [Yukata Yomi: Start\]: We Mustn't Get Lost
 **Yume:** That yukata really matches you, Yomi-onee-san\. It looks good-\.  
 **Yomi:** Thank you very much\. I'm thankful for President Souraku's good judgment\.  
 **Yomi:** You look very good in yours as well, Tsubakuro-san\.  
@@ -134,7 +134,7 @@ On a Nice Cool Evening! Yukata at the Summer Festi...
 **Yomi:** Yes, I'll feel better this way\. Let's go join them\.  
 **Yume:** Okay\!  
 
-## [Yukata Yomi: End]: Someday, in Memory
+## [Yukata Yomi: End\]: Someday, in Memory
 **Yume:** Ah, there's this thing with all these little balls floating in the water\! Hey hey, what is this\?  
 **Suzuka:** I'm not quite sure what all these balls are for\.\.\.  
 **Yomi:** They're for super ball scooping\.  

@@ -3,7 +3,7 @@ misogi + dress mai
 ==================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/d4UPDxCWrUY"></iframe>](:Iframe)  
 
-## [Misogi- Mai: Start]: My First Shock
+## [Misogi- Mai: Start\]: My First Shock
 --After being accepted to Minoseki Academy\.
 
   
@@ -47,7 +47,7 @@ misogi + dress mai
 **Friend B:** You say that, but isn't the truth that you just wound up having a crush on her\?  
 **Mai:** I do not\!\! Don't go making assumptions like that\!\!  
 
-## [Misogi- Mai: End]: The Name of This Feeling is Admiration
+## [Misogi- Mai: End\]: The Name of This Feeling is Admiration
 **Friend A:** Eh, Mai\.\.\.\?  
 **Mai:** I-I'm sorry\! There's something the teacher asked me to take care of\!  
 **Kanami:** \.\.\.  
@@ -87,7 +87,7 @@ misogi + dress mai
 **Mai:** Mmhm\! Let's all work hard enough that we won't lose to Kanami-chan\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/aNyvrlT3j5M"></iframe>](:Iframe)  
 
-## [Dress - Mai: Start]: Nene's Madness
+## [Dress - Mai: Start\]: Nene's Madness
 **Kaoru:** Gulp, gulp, gulp\.\.\. Phwaa\! Gimme another glass of grape juice\!  
 **Nene:** Ne-\!  
 **Mai:** Kaoru-chan, I think you've had enough grape juice\.\.\.  
@@ -119,7 +119,7 @@ misogi + dress mai
 **Nene:** Ne\!  
 **Kaoru:** Stop it, Nene\! That's my meat\!  
 
-## [Dress - Mai: End]: Dress Close Call
+## [Dress - Mai: End\]: Dress Close Call
 **Kaoru:** Hey\! Gimme my meat back\!  
 **Nene:** Ne-\?  
 **Mai:** K-Kaoru-chan, it's not that important\.\.\.  

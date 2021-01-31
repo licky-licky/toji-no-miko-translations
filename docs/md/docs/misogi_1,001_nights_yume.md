@@ -3,7 +3,7 @@ misogi/1,001 nights yume
 ========================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/51zzPZJO6kY"></iframe>](:Iframe)  
 
-## [Misogi - Yume: Start]: Why Won't You Let Me\!
+## [Misogi - Yume: Start\]: Why Won't You Let Me\!
 **Yume:** Maki-onee-san\.  
 **Maki:** Nn\? Oh, it's you, Yume\.  
 **Maki:** Sorry, but I don't have a lot of time right now\. If this'll take long, can we save it for later\?  
@@ -49,7 +49,7 @@ misogi/1,001 nights yume
 **Suzuka:** \.\.\.R-Right, I'll keep that in mind\.  
 **Yume:** All that's left is Maki-onee-san\.\.\. and Yukari-sama\. If I beat Yukari-sama, everybody'll know I'm strong\.  
 
-## [Misogi - Yume: End]: I'll Get Even Stronger\!
+## [Misogi - Yume: End\]: I'll Get Even Stronger\!
 **Maki:** I'm back\.  
 **Yume:** I was waiting for you, Maki-onee-san\.  
 **Maki:** Yume\.\.\.\? Oh right, before I left to suppress that aradama, you were saying something\.  
@@ -102,7 +102,7 @@ misogi/1,001 nights yume
 **Yume:** \.\.\.I'm really glad I joined the elite guard\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/QcrxhLnr7t8"></iframe>](:Iframe)  
 
-## [1,001 Nights - Yume: Start]: A Request
+## [1,001 Nights - Yume: Start\]: A Request
 **Maki:** Excuse us, Yukari-sama\.  
 **Yukari:** You're here\. I have a request for you from the Sword Administration Bureau\.  
 **Suzuka:** A request\?  
@@ -134,7 +134,7 @@ misogi/1,001 nights yume
 **Yume:** Eh\.\.\.\!\?  
 **Yume:** Instead of listening to some boring speeches at a ceremony, we're dancing\?  
 
-## [1,001 Nights - Yume: End]: A Promise for Next Time 
+## [1,001 Nights - Yume: End\]: A Promise for Next Time 
 --The day of the event\.
 
   

@@ -72,7 +72,7 @@ Take Back Everyone's Feelings! Chocolate Reco...
 **Maki:** Sorry\. It just somehow felt like a waste to eat yours\.  
 **Suzuka:** It wasn't something you needed to be so appreciative of\.  
 **Maki:** That's not true\. What you gave me was special\. It was handmade, after all\.  
-**Suzuka:** \.\.\.Honestly\. There you go again\. [muttered]  
+**Suzuka:** \.\.\.Honestly\. There you go again\. [muttered\]  
 **Suzuka:** If that's how you feel, then do your best to find it\.  
 **Maki:** Of course, I will\.  
 **Kiyoka:** \.\.\.I did it\! Ah, this one's all wrapped up\.  

@@ -45,7 +45,7 @@
 **Mihono:** It found aradama nearby\!\? Show it to me\.\.\.\! It's coming from\.\.\. Over by\.\.\. It looks like Yoyogi Park\! Hurry\! We have to get everyone together and go\!  
 
 ## 3: Team-Up\? (1\)
-**Local Broadcast:** [This is an emergency broadcast\.\.\. Currently, aradama have been reported on Takeshita street\. Do not approach the area until the riot squad arrives\. Police officers, please follow the toji's instructions and help evacuate the area immediately\.]  
+**Local Broadcast:** [This is an emergency broadcast\.\.\. Currently, aradama have been reported on Takeshita street\. Do not approach the area until the riot squad arrives\. Police officers, please follow the toji's instructions and help evacuate the area immediately\.\]  
 **Mihono:** They finally made a broadcast\! Local toji should be coming to help soon\!  
 **Chie:** It's still up to us to hold out until they get here, though\!  
 **Kofuki:** Heh\! Then I'm gonna have my fill before they show up and spoil the fun\!  

@@ -5,7 +5,7 @@ https://streamable.com/hi1gq6
 
   
 
-## [Casual '20 - Ellen: Start]: The Pair's New Year's Eve
+## [Casual '20 - Ellen: Start\]: The Pair's New Year's Eve
 **Aradama:** GUOOOOO\.\.\.  
 **Kaoru:** They're still coming\? Oi, Aradama, could you at least take it easy on New Year's Eve\.\.\.  
 **Ellen:** Kaoru, complaining to the aradama won't do you any good\. We're nearly through with this year's missions\. Let's give it one last push\!  
@@ -52,7 +52,7 @@ https://streamable.com/oc5x9e
 
   
 
-## [Casual '20 - Ellen: End]: The Happy New Year Plan
+## [Casual '20 - Ellen: End\]: The Happy New Year Plan
 **Kanami:** Ellen-chan, Kaoru-chan, Happy New Year\!  
 **Hiyori:** Leave it to Ellen to have a room at a fancy hotel like this for a party\.  
 **Ellen:** Kanamin, Hiyoyon, thanks for coming\. And, Happy New Year to you too\.  
@@ -70,12 +70,12 @@ https://streamable.com/oc5x9e
 **Ellen:** It's still going to take a while, so let's have some tea while we wait\! Here, Kaoru, some warm milk tea for you\.  
 **Kaoru:** Fwahh\~, that's good stuff\. Sitting out in the cold until the sun came up wasn't gonna happen, but I feel like I could wait for hours like this\.  
 **Kaoru:** The heater's working, the sofa's sucking me in\.\.\. Yawnn\.\.\. Getting sleepy\.\.\.  
-**Kaoru:** [snooze\.\.\.]  
+**Kaoru:** [snooze\.\.\.\]  
 **Nene:** Nenee\.\.\.  
 **Kanami:** Kaoru-chan fell asleep just sitting down, huh\.  
 **Hiyori:** She must be tired, since she was working missions all the way to New Year's Eve\.  
 **Ellen:** How about we let her sleep like this until the sunrise\.  
-**Kaoru:** [sleepy breathing\.\.\.]  
+**Kaoru:** [sleepy breathing\.\.\.\]  
 **Ellen:** Kaoru, wake up now\. The sun's just about to come up\.  
 **Kaoru:** \.\.\.Nn\? Feels like Ellen's voice is right in my ear\.\.\.  
 **Kaoru:** Ah-- I must've passed out on your lap at some point\.  
@@ -92,7 +92,7 @@ https://streamable.com/0y92j2
 
   
 
-## [Dress '20 - Yukari: Start]: Recognition Party Put in Motion
+## [Dress '20 - Yukari: Start\]: Recognition Party Put in Motion
 **Yume:** I wanna have a party\!  
 **Yukari:** A party\?  
 **Maki:** Where's this coming from all of a sudden, Yume\?  
@@ -124,7 +124,7 @@ https://streamable.com/0y92j2
 **Yuzuki:** It's bound to happen\.  
 **Yukari:** Then, I'm relying on you for the day of\.  
 
-## [Dress '20 - Yukari: End]: Recognition Party
+## [Dress '20 - Yukari: End\]: Recognition Party
 **Maki:** Yukari-sama, we've finished organizing the tables\.  
 **Yukari:** And the food\?  
 **Yomi:** There are no issues\.  
@@ -164,7 +164,7 @@ https://streamable.com/4kbh9k
 
   
 
-## [Fantasy - Hiyori: Start]: Welcome to the World of Fantasy
+## [Fantasy - Hiyori: Start\]: Welcome to the World of Fantasy
 **Tsugumi:** Thank you for participating in today's test of our new training simulation system, Juujou-san, Morishita-san\.  
 **Hiyori:** I don't mind helping, but\.\.\. Why is Morishita-san here\? She's from the equipment department, isn't she\?  
 **Kihiro:** That would be to seek out inspiration, Miss Juujou\!  
@@ -196,7 +196,7 @@ https://streamable.com/4kbh9k
 **Hiyori:** Y-Yeah\.\.\.  
 **Hiyori:** (\.\.\.\.\.\.I'm not so sure about this\.\)  
 
-## [Fantasy - Hiyori: End]: Cheering Drone\!
+## [Fantasy - Hiyori: End\]: Cheering Drone\!
 **Aradama:** GYAAGYAA\!  
 **Hiyori:** Gh\.\.\. Their attack power keeps going up\.\.\.\!  
 **Kihiro:** At times like these, leave it to me\! Activate magic: Cheering Drone\!  

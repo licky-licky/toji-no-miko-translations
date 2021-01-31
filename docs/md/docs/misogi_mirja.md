@@ -5,7 +5,7 @@ https://streamable.com/4royp3
 
   
 
-## [Misogi - Mirja: Start]: Fix Eyes on the Sword
+## [Misogi - Mirja: Start\]: Fix Eyes on the Sword
 **Mirja:** (This happened when I was still part of Ayanokouji Martial Arts School's middle school division-- That is to say, several years ago\.\)  
 **Mirja:** (As my grandfather and father, both swordsmiths, shared with me their skills in polishing swords, I polished one Akabane sword\.\)  
 **Mirja:** (What I honed then is the okatana I have with me now: Jikkyuu Mitsutada\.\)  
@@ -49,7 +49,7 @@ https://streamable.com/w941jg
 
   
 
-## [Misogi - Mirja: Start]: What Must Be Polished is You Yourself
+## [Misogi - Mirja: Start\]: What Must Be Polished is You Yourself
 **Mirja:** We'll be in trouble if it comes out from blind spots behind the trees\!  
 **Mirja:** Let's move out into the open and engage from there\. Fortunately, the aradama appears to be pursuing us\.  
 **Mirja:** (I won't show as shameful a performance as last time\. I'm focused\.\)  

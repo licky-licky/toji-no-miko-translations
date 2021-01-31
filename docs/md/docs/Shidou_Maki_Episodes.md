@@ -123,7 +123,7 @@ Shidou Maki Episodes
 **Maki:** \.\.\.You have a point there\. I'll be more careful from now on\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/AuF8ZqOvA9Y"></iframe>](:Iframe)  
 
-## [VRS Equipment - Maki: Start]: Just to Be Sure
+## [VRS Equipment - Maki: Start\]: Just to Be Sure
 **Yume:** Found you, Maki-onee-san\!  
 **Maki:** Yume, what do you need\? I thought you had the day off today\.  
 **Yume:** Don't you have it off too, Maki-onee-san\? Hey hey-, since we have free time, don't you want to play a game together\?  
@@ -163,7 +163,7 @@ Shidou Maki Episodes
 **Maki:** \.\.\.No use\. She's not responding\. Ban Tsugumi said it was safe here, but it's still too dangerous to explore an unknown world on your own\.  
 **Maki:** I need to calm down and deal with the situation\. At times like this, you need to\.\.\.  
 
-## [VRS Equipment - Maki: End]: What Suits Me Best
+## [VRS Equipment - Maki: End\]: What Suits Me Best
 **Maki:** Heeey, Yume\! Where did you go\? Say something back\. Yume-\!  
 **Maki:** Hm, that sound\. The battle stage must be starting\. If I follow the enemies, maybe I'll join up with Yume\. I'll focus on the battle for now\.  
 **Maki:** If I remember right, the command to bring out the laser gun was\.\.\. Okay, I got it\. Now I just point it at the enemies on the opposite building\.\.\.  
@@ -204,7 +204,7 @@ Shidou Maki Episodes
 **Maki:** Right, sure thing\. By that time, I'll master my way around a laser gun\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/WNtGgHguxrw"></iframe>](:Iframe)  
 
-## [SDDT - Maki: Start]: Maki of the Special Defense Team
+## [SDDT - Maki: Start\]: Maki of the Special Defense Team
 **Maki:** Hmph\! \.\.\.Hmph\!  
 **Yume:** Ah, I finally found you, Maki-onee-san\!  
 **Maki:** \.\.\.Nn\? What do you need, Yume\?  
@@ -236,7 +236,7 @@ Shidou Maki Episodes
 **Maki:** Seems like she wants a souvenir\.  
 **Suzuka:** Of course she would\. I'll look into it\.  
 
-## [SDDT - Maki: End]: Like a Hero
+## [SDDT - Maki: End\]: Like a Hero
 **Maki:** HAAAAAAAAAAAA\!\!  
 **Aradama:** oooo\.\.\.  
 **Maki:** There's more of them than I was expecting\.\.\. Was it a mistake to split up from Suzuka\.\.\.\?  
@@ -248,7 +248,7 @@ Shidou Maki Episodes
 **Maki:** The situation'll just keep getting worse as it is\. I'll regroup with Suzuka so we can rethink our strategy\.  
 **Suzuka:** YAAAAAAAAAAAAAAA\!\!  
 **Aradama:** \.\.\.  
-**Suzuka:** [pant, pant]\.\.\. These numbers may be too much after all\.  
+**Suzuka:** [pant, pant\]\.\.\. These numbers may be too much after all\.  
 **Suzuka:** I should regroup with Maki-san for now\.\.\.  
 **Aradama:** OOOOOOOOOOOOOOO\!\!  
 **Suzuka:** Kh\.\.\. For me to have let my guard down here\.\.\.\!\!  
@@ -277,7 +277,7 @@ Shidou Maki Episodes
 **Suzuka:** Fufu, allow me to lead the way\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/-wO5Ngjj1-g"></iframe>](:Iframe)  
 
-## [Journey to the West - Maki: Start]: A Different Way of Using It
+## [Journey to the West - Maki: Start\]: A Different Way of Using It
 **Maki:** \.\.\.  
 **Suzuka:** Maki-san\? Why the troubled face\?  
 **Maki:** Oh, Suzuka\.  
@@ -310,7 +310,7 @@ Shidou Maki Episodes
 **Tsugumi:** Were there any you wanted to play in particular\? If not, I can assign you to what fits\.  
 **Suzuka:** That would be fine\. We'll be in your care\.  
 
-## [Journey to the West - Maki: End]: We'll All Do It Next Time
+## [Journey to the West - Maki: End\]: We'll All Do It Next Time
 **Tsugumi:** Now then, we'll begin the action\. Is everyone ready\?  
 **Maki:** No problems here\. What about you, Suzuka\?  
 **Suzuka:** I'm fine as well\.  

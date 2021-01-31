@@ -203,7 +203,7 @@ Etou Kanami Episodes
 **Rika:** Mihono-chan\.\.\. Looking at your score, shouldn't you put that effort into studying\?  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/bXYlq8dSvxI"></iframe>](:Iframe)  
 
-## [Ceremonial Dress - Misogi: Start]: Master's Teachings
+## [Ceremonial Dress - Misogi: Start\]: Master's Teachings
 --A while before the tournament took place\.
 
   
@@ -248,7 +248,7 @@ Etou Kanami Episodes
 **Minato:** If you keep that in mind, you could learn even more than you already are, okay\?  
 **Kanami:** Look close, listen well, focus on your senses\.\.\. Okay\! Thanks, Master\!  
 
-## [Ceremonial Dress - Misogi: End]: The Essentials of Swordsmanship
+## [Ceremonial Dress - Misogi: End\]: The Essentials of Swordsmanship
 **Mai:** Eh\? You want to have a serious match with me\?  
 **Kanami:** Yeah\! Please, Mai-chan\!  
 **Mai:** You know I don't mind, but, where is this coming from\?  
@@ -285,7 +285,7 @@ Etou Kanami Episodes
 **Kanami:** (Well, whoever they are, I've got to thank them someday\!\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/eNoknnmG1eI"></iframe>](:Iframe)  
 
-## [Swimsuit 19: Start]: Please, Mai-chan\!
+## [Swimsuit 19: Start\]: Please, Mai-chan\!
 **Kanami:** Let's go to the pool together, Mai-chan\!  
 **Kanami:** You know about our next day off\.\.\.\? Well, it sounds like everybody else doesn't have to do any missions then either\!  
 **Mai:** That's a real stroke of luck\!  
@@ -316,7 +316,7 @@ Etou Kanami Episodes
 **Kanami:** Oh yeah\! Good thinking, Mai-chan\!  
 **Kanami:** Alright\! As soon as we get to the pool, we'll go down a water slide\!  
 
-## [Swimsuit 19: End]: A Heartpounding Water Slide\!\?
+## [Swimsuit 19: End\]: A Heartpounding Water Slide\!\?
 **Attendant:** Okay, the next person can come on up-\. Are the two of you riding together\? Or will you go separately\?  
 **Kanami:** Oh, we can ride down together\.  
 **Kanami:** What should we do, Mai-chan\?  
@@ -353,7 +353,7 @@ Etou Kanami Episodes
 **Mai:** Alright\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/JHZISRWAzhM"></iframe>](:Iframe)  
 
-## [Railgun - Kanami: Start]: The Mysterious Use of the Remote
+## [Railgun - Kanami: Start\]: The Mysterious Use of the Remote
 One day, Kanami was having tea with Mikoto and the rest\.
 
   
@@ -365,7 +365,7 @@ One day, Kanami was having tea with Mikoto and the rest\.
 **Mikoto:** And also, I'm used to living here too\. You do a lot for us\. And just having to shoot aradama with electricity is easy for me\.  
 **Kanami:** I'm glad to hear it\. What about you, Shokuhou-san\? Is anything bothering you\?  
 **Misaki:** I'm doing just fine too\. It's pretty fresh, this lifestyle over heree\.  
---[clatter]
+--[clatter\]
 
   
 **Kanami:** Shokuhou-san, you dropped something just now\. \.\.\.Is this a remote\?  
@@ -390,7 +390,7 @@ One day, Kanami was having tea with Mikoto and the rest\.
 **Kuroko:** Anyone in Academy City, whether or not they were aware of the full details, would have heard of just what power a level 5 like Shokuhou Misaki has\.  
 **Kanami:** I guess that makes sense, since she has a strong power\. But still, what kind of power could it be\?  
 
-## [Railgun - Kanami: End]: It Could Be That Kind of Power\!
+## [Railgun - Kanami: End\]: It Could Be That Kind of Power\!
 **Yume:** A power that uses a TV remote, huh-\.  
 **Kanami:** Remotes turn things on and off and can change the channels, but does that have anything to do with it\?  
 **Yume:** Hmm\~\.\.\.  
@@ -431,7 +431,7 @@ One day, Kanami was having tea with Mikoto and the rest\.
 **Kanami:** But still, what's that remote for anyway\?  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqlN1QeE1o"></iframe>](:Iframe)  
 
-## [Stage Girl - Kanami: Start]: Somebody I Want to Spar With\!
+## [Stage Girl - Kanami: Start\]: Somebody I Want to Spar With\!
 **Maya:** Now then, I'll have you leave the stage\. --HAAH\!  
 **Karen:** YAH\!  
 **Karen:** Nice\! I beat it-\.  
@@ -464,7 +464,7 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 **Hikari:** \.\.\.You're watching my movements closely\.  
 **Kanami:** That's good\! Show me more and more, Hikari-chan, of the way that you fight\!  
 
-## [Stage Girl - Kanami: End]: It Is All for the Sake of Starlight\!
+## [Stage Girl - Kanami: End\]: It Is All for the Sake of Starlight\!
 **Hikari:** \.\.\.There-\!  
 **Kanami:** \!\? That was a little risky just now\!  
 **Kanami:** You're using the spring in your body to get even sharper with your strikes\! That was a great thrust\!  
@@ -495,7 +495,7 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 **Hikari:** This kind of seems like it could take a while\.\.\. But, I'll be in your care\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/KlIqfSZ3Cl8"></iframe>](:Iframe)  
 
-## [Valkyrie - Kanami: Start]: Let's Do a Survey
+## [Valkyrie - Kanami: Start\]: Let's Do a Survey
 **Kanami:** Promotional photos\?  
 **Mai:** Yep, promotional photos\.  
 **Mai:** They say it's to extend the scope of activities for those who were chosen in the Miss Five Traditions contest, so we'll all be taking them\.  
@@ -531,7 +531,7 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 **Hiyori:** Me either\.  
 **Hiyori:** Since I'll be having my photos taken at Mai's studio\.  
 
-## [Valkyrie - Kanami: End]: All in the Same Boat\?
+## [Valkyrie - Kanami: End\]: All in the Same Boat\?
 **Ellen:** We got the results back from Kanamin's survey\!  
 **Kanami:** It's so tense\.\.\.\!  
 **Ellen:** They all put up a good fight, but\.\.\. The winner in the end was the valkyrie costume\!  
@@ -576,7 +576,7 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Kaoru:** (Do I gotta cosplay for my promotional shots too\.\.\.\? Sigh\.\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/eY-_-MB4L7A"></iframe>](:Iframe)  
 
-## [VR Suit - Kanami: Start]: Trip to Unreality
+## [VR Suit - Kanami: Start\]: Trip to Unreality
 **Tsugumi:** Etou-san, Itomi-san\. Thank you for going out of your way to stop by the lab today\.  
 **Kanami:** What was it you wanted Sayaka-chan and me to do\?  
 **Tsugumi:** I'm actually working with a new game utilizing the VR technology in development here in the lab\.\.\. And, we were looking for play testers\.  
@@ -616,7 +616,7 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Sayaka:** Is this the battle stage Tsugumi talked about\? I'll try my best, for everyone in the city and for the cream puffs\.  
 **Kanami:** Ughhh, that's right, but\.\.\. There's all these good looking cakes right in front of us-\!  
 
-## [VR Suit - Kanami: End]: Clear Reward
+## [VR Suit - Kanami: End\]: Clear Reward
 **Kanami:** Whoa\! You can take down enemies with a laser gun\. This is so fun\~\!  
 **Sayaka:** Mm\. Fighting without an okatana\.\.\. It feels new\.  
 **Kanami:** You're really good at this, Sayaka-chan\.  
@@ -630,11 +630,11 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Sayaka:** Amazing\.\.\. There's an impressive feast\.\.\.  
 **Kanami:** Is it really okay for us to have all this\?  
 **Townsperson:** Of course\! You can have as much of the cakes you didn't get to eat earlier as you want too\. Please, take your time\.  
-**Kanami:** If you say so, then I won't hold back\. Let's dig in-\! [munch munch]\.\.\. No way\! This is as tasty as real cake\!  
+**Kanami:** If you say so, then I won't hold back\. Let's dig in-\! [munch munch\]\.\.\. No way\! This is as tasty as real cake\!  
 **Sayaka:** It really is\. \.\.\.It's sweet and delicious\.  
 **Kanami:** Sayaka-chan, this steak and sushi here are good too\! It's hard to believe this is actually part of a game\!  
 **Sayaka:** Mm, it's really delicious\.\.\. I feel like I could eat this forever\.  
-**Kanami:** That's for sure\. [chew chew] Mmmm, so good\! Can I have seconds, please-\!  
+**Kanami:** That's for sure\. [chew chew\] Mmmm, so good\! Can I have seconds, please-\!  
 **Kanami:** Phew\~\. My stomach's so full I can't eat another bite\!  
 **Sayaka:** Me too\. I feel full\. I want to bring some back for Mai and everyone\.  
 **Kanami:** Good idea\! Excuse me-, could we get this cake to go\?  
@@ -652,14 +652,14 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Kanami:** Oh, huh-\.  
 **Mai:** Sayaka-chan, Kanami-chan, there you are\.  
 **Kanami:** Mai-chan\! Why are you here\?  
-**Sayaka:** [sniff sniff]\.\.\. I smell Mai's cookies\.  
+**Sayaka:** [sniff sniff\]\.\.\. I smell Mai's cookies\.  
 **Mai:** Fufufu, you got it right, Sayaka-chan\. I baked some cookies and thought we could have them together, so I came to find you\.  
 **Kanami:** Yay-, I'm glad to hear it\! Who'd have thought Mai-chan would bring cookies at just the right time\! I'll have some-\!  
-**Sayaka:** I'm glad too\. Mai, I'll have some\. [munch much]\.\.\. They're tasty\!  
+**Sayaka:** I'm glad too\. Mai, I'll have some\. [munch much\]\.\.\. They're tasty\!  
 **Kanami:** Yeah, yeah\! The cake in the game was tasty too, but your cookies really are the tastiest after all, Mai-chan-\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/zv49ocfI1Eo"></iframe>](:Iframe)  
 
-## [London - Kanami: Start]: I Want to Go on a Trip
+## [London - Kanami: Start\]: I Want to Go on a Trip
 **Kanami:** Hiyori-chan\!  
 **Hiyori:** Nn\? Oh, it's you, Kanami\.  
 **Kanami:** So you were on this assignment too, Hiyori-chan\.  
@@ -689,7 +689,7 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Hiyori:** Wh-What\!\?  
 **Hiyori:** What do you mean, stuff like Sherlock Holmes\!\?  
 
-## [London - Kanami: End]: Stuff Like Holmes\.\.\.\?
+## [London - Kanami: End\]: Stuff Like Holmes\.\.\.\?
 **Kanami:** Phew, we somehow managed to jump across to this trolley, Hiyori-chan\.  
 **Hiyori:** Right\. The jewels we're after are on the inside\.  
 **Kanami:** Yeah\! But\.\.\. They're bound to have Scotland Yard's finest on security, so we'd better be careful\.  
@@ -722,7 +722,7 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Kanami:** Okay, Hiyori-chan\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/SLmEfJhjktU"></iframe>](:Iframe)  
 
-## [Halloween '19 - Kanami: Start]: Starting Halloween with Sweet Pie
+## [Halloween '19 - Kanami: Start\]: Starting Halloween with Sweet Pie
 **Kanami:** Mmm, Mai-chan's pumpkin pie is so good\~\!  
 **Mai:** I'm glad you like it, Kanami-chan\.  
 **Kanami:** Did you bring this pie over to Sayaka-chan and them\? She said she was filming a movie with Kitora-san, right\?  
@@ -751,7 +751,7 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Mai:** Of course you can\.  
 **Kanami:** The sweets you make are just addictively good, Mai-chan\! Makes me want to have some every single day\! Anyway-- down the hatch-\.  
 
-## [Halloween '19 - Kanami: End]: Dressing Up Might be Fun\!
+## [Halloween '19 - Kanami: End\]: Dressing Up Might be Fun\!
 **Kanami:** I can't wait to see what everyone's costumes are like\.  
 **Hiyori:** Come to think of it, what's everybody else dressing up as\? They said they had this and that\.  
 **Kanami:** Ellen-chan said she'd be dressing up like a wolf, didn't she\? Yui-chan, do you know\? For Kiyoka-chan and everybody\.  
@@ -788,7 +788,7 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Hiyori:** There sure is\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/wCKVDULo_UY"></iframe>](:Iframe)  
 
-## [Easter - Kanami: Start]: Attempting the Egg Hunt\!
+## [Easter - Kanami: Start\]: Attempting the Egg Hunt\!
 **Ellen:** Kanamin\! Want to do an egg hunt with everyone, to celebrate Easter\?  
 **Kanami:** An egg hunt\? What's that\?  
 **Ellen:** It's a fun event you do on Easter day\. You hide colorful painted eggs in the park, and everyone competes to find them\!  
@@ -819,7 +819,7 @@ Kanami's promotional photos\.\.\. The day of shooting\.
 **Kanami:** Ah, Tsugumi-saaan\! \.\.\.She already left\. I wonder what she did to them\.  
 **Sayaka:** \.\.\.I wonder if it's okay\.\.\.  
 
-## [Easter - Kanami: End]: In a Fervor\! The Spring Egg Hunt
+## [Easter - Kanami: End\]: In a Fervor\! The Spring Egg Hunt
 Easter day\.
 
   
@@ -868,7 +868,7 @@ Easter day\.
 **Kanami:** Don't go sounding proud about it now-\! Help us, Tsugumi-san-\!\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/U1jobRU1Nr4"></iframe>](:Iframe)  
 
-## [Summer Uniform 20 - Kanami: Start]: In Danger of Failing\!\?
+## [Summer Uniform 20 - Kanami: Start\]: In Danger of Failing\!\?
 **Kanami:** Help me, Hiyori-chan\! At this rate, I'm gonna fail\!  
 **Hiyori:** \.\.\.\.\.\.Sigh\.  
 **Hiyori:** That's not going to be possible\. Go find someone else\.  
@@ -901,7 +901,7 @@ Easter day\.
 **Hiyori:** Go and make sure you do what she tells you\.  
 **Kanami:** Thanks, Hiyori-chan\!  
 
-## [Summer Uniform 20 - Kanami: End]: Help me, Iwakura-sensei\!
+## [Summer Uniform 20 - Kanami: End\]: Help me, Iwakura-sensei\!
 **Kanami:** Thanks for having me, Iwakura-san\!  
 **Sanae:** Mm, I'm glad to help, Etou-san\. And also, there's one more girl joining us\.\.\.  
 **Mayumi:** My name is Hasui Mayumi, from Ayanokouji Martial Arts School's middle school toji preparatory course\!  
@@ -927,7 +927,7 @@ Easter day\.
 **Kanami:** And you do this here\.\.\. I did it\!  
 **Mayumi:** I solved it as well\!  
 **Sanae:** Can I take a look at it, you two\? Let's see\.\.\.  
-**Kanami/Mayumi:** [badump badump]  
+**Kanami/Mayumi:** [badump badump\]  
 **Sanae:** Mmhm, you both got it right\.  
 **Kanami:** Hooray-\! Thanks so much, Iwakura-san\! Now I think I can get around failing the next test\!  
 **Sanae:** No, this is all because you tried so hard, Etou-san\. And you too, Hasui-san, good work\.  
@@ -940,7 +940,7 @@ Easter day\.
 **Kanami:** Sure\! I'm looking forward to seeing your swordfighting too, Hasui-san, Iwakura-san\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/_0ke0wRCknw"></iframe>](:Iframe)  
 
-## [Hostess - Kanami: Start]: So Long as My Workplace Experience is With Mai-chan\!
+## [Hostess - Kanami: Start\]: So Long as My Workplace Experience is With Mai-chan\!
 **Kanami:** \.\.\.We're finally done with makeup lessons\. Ahh, I'm beat\.  
 **Mihono:** Having to do makeup lessons right after class ends is just mean\.\.\. That's when school's supposed to be over\.  
 **Mai:** Fufu\. Kanami-chan, Mihono-chan\. You're working hard\.  
@@ -976,7 +976,7 @@ Easter day\.
 **Mihono:** Sure\! You're not gonna beat me-\.  
 **Kanami:** Me neither\!  
 
-## [Hostess - Kanami: End]: A Little About Our Future
+## [Hostess - Kanami: End\]: A Little About Our Future
 **Kanami:** Ah, Mai-chan\. The customers at the table in the back want another serving of rice\. Big helpings for two people\!  
 **Mai:** Alright\. Big helpings\.  
 **Kanami:** Oh, there's new customers\!  
@@ -1012,7 +1012,7 @@ Easter day\.
 **Kanami:** Of course I would\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/m5rpY-umfYk"></iframe>](:Iframe)  
 
-## [Mahou Shoujo - Kanami: Start]: Were You Going Easy\?
+## [Mahou Shoujo - Kanami: Start\]: Were You Going Easy\?
 **Sayaka:** Are you ready\?  
 **Kanami:** Sure, Sayaka-chan\.  
 **Fate:** I'm ready to go too, Sayaka-san\.  
@@ -1028,8 +1028,8 @@ Easter day\.
 **Kanami:** I'll go at you next, Fate-chan\!  
 **Fate:** Okay\!  
 **Sayaka:** \.\.\.That's enough\.  
-**Fate:** [pant pant]\.\.\.  
-**Kanami:** [pant pant]\.\.\. Ahh\.  
+**Fate:** [pant pant\]\.\.\.  
+**Kanami:** [pant pant\]\.\.\. Ahh\.  
 **Kanami:** That was so fun, Fate-chan\!  
 **Fate:** You were smiling, Kanami-san\.  
 **Kanami:** Eh\?  
@@ -1046,7 +1046,7 @@ Easter day\.
 **Fate:** \.\.\.I'd like to help out too\. Would that be a problem\?  
 **Kanami:** No, that'd be great\! Let's go, Sayaka-chan\! Fate-chan\!  
 
-## [Mahou Shoujo - Kanami: End]: Go Ahead
+## [Mahou Shoujo - Kanami: End\]: Go Ahead
 **Fate:** YAAAAAAAAAAAAA\!\!  
 **Kanami:** Let me finish it off\!\!  
 **Aradama:** GGII\.\.\.  
@@ -1059,8 +1059,8 @@ Easter day\.
 **Kanami:** What sets Fate-chan apart is her speed, right\?  
 **Kanami:** So, if I could capture that with jin'i, I might be able to borrow what makes Fate-chan so good\.  
 **Sayaka:** You're right, Kanami\. I want to try learning from her too\.  
-**Sayaka:** [stare]\.\.\.  
-**Kanami:** [stare]\.\.\.  
+**Sayaka:** [stare\]\.\.\.  
+**Kanami:** [stare\]\.\.\.  
 **Fate:** Kanami-san\? Sayaka-san\?  
 **Fate:** We still haven't finished defeating all of them, so isn't it dangerous to be looking away from your opponent\?  
 **Kanami:** Y-Yeah, that's true\! Let's get focused, Sayaka-chan\!  

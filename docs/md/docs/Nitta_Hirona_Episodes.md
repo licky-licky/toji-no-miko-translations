@@ -5,7 +5,7 @@ Nitta Hirona Episodes
 
 ## 1: The Type I'm No Good With
 **Mimi:** Hirona-onee-san\! Come play with Mimi-\!  
-**Hirona:** \.\.\.\.\.\.Sigh, this again\. [muttered]  
+**Hirona:** \.\.\.\.\.\.Sigh, this again\. [muttered\]  
 **Mimi:** Huh\? Maybe she didn't hear me\? Are your ears feeling stuffed up\? Hey, Hirona-onee-san\?  
 **Hirona:** \.\.\.I can hear youuu\.  
 **Mimi:** I'm glad you can hear me then\!  
@@ -145,7 +145,7 @@ That evening\.\.\.
 **Hitakami Toji 1:** Thanks\.  
 **Hirona:** (You don't have to sound so relieved\.\.\. I wouldn't turn on anyone in a normal suppression assignment\.\)  
 **Hirona:** \.\.\.Well, I can do this more efficiently on my own thoughhh\.  
-**Hirona:** [pant pant]\.\.\.  
+**Hirona:** [pant pant\]\.\.\.  
 **Aradama:** GYAAAAAAAAAAA\!  
 **Hirona:** --\! HAAHH\!\!  
 **Aradama:** GYOHHHHHHHHHH\!  
@@ -153,7 +153,7 @@ That evening\.\.\.
 **Hirona:** (This is as hard as you'd expect\.\.\. I wonder how those two are doing\.\.\.\)  
 **Aradama:** OOOOOOOOO\!  
 **Hirona:** Kgh\!\?  
-**Hirona:** [pant pant]\.\.\.  
+**Hirona:** [pant pant\]\.\.\.  
 **Hirona:** This isn't the time to worry about others, is ittt\.\.  
 **Hirona:** (I really won't be able to keep fighting any longer\.\.\. I'd like to find some way of escaping, but\.\.\.\)  
 **Hirona:** \.\.\.The problem is, which do I go withhh\.  
@@ -283,7 +283,7 @@ That evening\.\.\.
 **Yuuki:** Okay\! If you'll have me\!  
 **Hirona:** (It might be inefficient\.\.\. but I think training like this is what's right for Yuuki-san\.\)  
 
-## [Hirona Joins: Start]: Time For a Contest\!
+## [Hirona Joins: Start\]: Time For a Contest\!
 **Yuuki:** The three of us haven't gone on a mission for a while, have we, Akira-nee-sama, Hirona-san\!  
 **Akira:** Yeah, now that you mention it, that's right\.  
 **Akira:** It's mostly the same for me, but Hirona's not around a lot\.  
@@ -304,7 +304,7 @@ That evening\.\.\.
 **Hirona:** I'd like to save my energy for when it really matteeers\.  
 **Akira:** Hahh\!\? Then I'm gonna work you whether you like it or not\!  
 **Akira:** Yuuki, Hirona\! We're making this a competition to see who gets the most aradama\! Last place buys dinner\!  
-**Yuuki:** We're competing\!\? Bring it on\!		[Yuuki uses Akira's catchphrase]  
+**Yuuki:** We're competing\!\? Bring it on\!		[Yuuki uses Akira's catchphrase\]  
 **Hirona:** \.\.\.If Yuuki-san is fine with it, it's okay with me too\.  
 **Akira:** No backing out then\!  
 **Akira:** I'm not about to let you beat me, Yuuki\! Hirona\!  
@@ -315,7 +315,7 @@ That evening\.\.\.
 **Hirona:** You two are working very hard\.  
 **Hirona:** \.\.\.Then, I'll go at it efficiently too\.  
 
-## [Hirona Joins: End]: Fighting Efficiently
+## [Hirona Joins: End\]: Fighting Efficiently
 **Hirona:** \.\.\.The aradama readings sure are going away surprisingly quickly\.  
 **Hirona:** Though\.\.\.  
 **Hirona:** The biggest reading is this way\.  

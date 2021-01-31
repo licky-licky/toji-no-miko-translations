@@ -2,7 +2,7 @@
 mai swimsuit 20 episode
 =======================
 
-## [Swimsuit 20 - Mai: Start]: Am I Being\.\.\. A Bit Overly Helpful\?
+## [Swimsuit 20 - Mai: Start\]: Am I Being\.\.\. A Bit Overly Helpful\?
 **Mai:** Sayaka-chan\. Are you getting things ready for tomorrow\? If you'd like, I can help you\?  
 **Sayaka:** I got ready yesterday\. I put what I needed in my bag, just in case\.  
 **Mai:** Sayaka-chan, that's great\!  
@@ -37,7 +37,7 @@ mai swimsuit 20 episode
 **Mai:** That's fine\. I'll give you a call\. And, if that doesn't wake you up, I'll come get you up myself\.  
 **Sayaka:** Please do that\. Thanks\.  
 
-## [Swimsuit 20 - Mai: End]: Swim Ring Tubing\!
+## [Swimsuit 20 - Mai: End\]: Swim Ring Tubing\!
 **Mihono:** That was good-\. Why is it that meat tastes so much better eating under a big blue sky\?  
 **Mihono:** Ah, and of course, the yakisoba you and Mai made was really yummy too, Chii-nee\!  
 **Chie:** I'm glad you liked it\. Ah, Mihono-chan\. If you want to go play, you have to wait a little after you eat, alright\?  

@@ -113,7 +113,7 @@ One of The Five Traditions under the Origami Family, Renpu Girl's School--
 *alarms flash*
 
   
-**Announcer:** [Confirmed sighting of multiple aradama trespassing on the western end of the campus\.]  
+**Announcer:** [Confirmed sighting of multiple aradama trespassing on the western end of the campus\.\]  
 **Ema:** The campus\.\.\.\? What does that mean\? Why would aradama be\.\.\. I don't believe it\.  
 **Ema:** (\.\.\.\! You didn't, did you, Yukina\!\? Even for you, this is\.\.\.\)  
 **Mihono:** President\! We'll take care of it\! I'm pretty sure we can get there faster than anyone right now\! Let's go, Musumi-san\!  

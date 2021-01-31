@@ -263,7 +263,7 @@ On the day of a fight against aradama---
 **Mirja:** No, the day isn't over yet\. I can't let my guard down\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/vrh9FfXuL1I"></iframe>](:Iframe)  
 
-## [New Year's Mirja: Start] Mirja's First Shrine Visit of the Year
+## [New Year's Mirja: Start\] Mirja's First Shrine Visit of the Year
 **Mirja:** As one would expect, there are a great number of people out for New Year's Day\. Let's all take caution so that no one gets lost\.  
 **Yui:** Okay\! You got it, Mirja-san\!  
 **Mirja:** \.\.\.I don't see anyone besides you, Yamashiro Yui\. What happened to the others\?  
@@ -285,7 +285,7 @@ On the day of a fight against aradama---
 **Yui:** From my own research\!  
 **Yui:** And so, for the sake of our future together, we should go draw our fortunes first\!  
 **Yui:** \.\.\.Mirja-san, isn't it kind of like we're on a date together\?  Kyaa\! I said it\!  
-**Mirja:** Is the short performance over now\? If so, let's draw our fortune slips\.	[The term Mirja uses, koshibai, literally small play, refers to plays that were too small to be performed in theaters and were traditionally held at shrines\.]  
+**Mirja:** Is the short performance over now\? If so, let's draw our fortune slips\.	[The term Mirja uses, koshibai, literally small play, refers to plays that were too small to be performed in theaters and were traditionally held at shrines\.\]  
 **Mirja:** Hm, mine reads \"great fortune\"\. That's how it is then\.  
 **Yui:** You got a great fortune, Mirja-san\? Since I'm a fortune drawing pro, I'll do it too\!  
 **Yui:** There-\! \.\.\.Wait, \"great misfortune\"\!\?  
@@ -301,7 +301,7 @@ On the day of a fight against aradama---
 **Mirja:** \.\.\.Achoo\. It's getting slightly colder, isn't it\. After you've deposited your great misfortune slip, let's go warm ourselves up some\.  
 **Yui:** Eh-\!\? You're going to warm me up\.\.\. Where are you planning on taking me\!\?  
 
-## [New Year's Mirja: End]: Prayer
+## [New Year's Mirja: End\]: Prayer
 **Mirja:** Sweet sake truly does warm you up, doesn't it\.  
 **Yui:** It sure does-\. Sweet sake sure does warm you up-\.  
 **Mirja:** \? What's the matter\? You're making a strange face\.  
@@ -335,7 +335,7 @@ On the day of a fight against aradama---
 **Mirja:** I hope that this will be another good year\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Y6ff2yewfcQ"></iframe>](:Iframe)  
 
-## [Halloween 19 - Mirja: Start]: Kaiju Mirja\?
+## [Halloween 19 - Mirja: Start\]: Kaiju Mirja\?
 **Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  
 **Mirja:** Calm yourself, Yamashiro Yui\. Do you remember before, when Itomi Sayaka appeared in that film\?  
 **Kofuki:** Oh yeah, that happened, didn't it\. It was that time with the historical drama thing, right\?  
@@ -370,7 +370,7 @@ On the day of a fight against aradama---
 **Kofuki:** Well, either way, give it your best shot\. I'll be looking forward to it\.  
 **Mirja:** \.\.\.Yes, I'll make every effort\.  
 
-## [Halloween 19 - Mirja: End]: Sister Mirja\!
+## [Halloween 19 - Mirja: End\]: Sister Mirja\!
 On the day of filming\.
 
   
@@ -421,7 +421,7 @@ On the day of filming\.
 **Sanae:** Sure\! Please do\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/vMJ0ViPK_JA"></iframe>](:Iframe)  
 
-## [Swimsuit 20 - Mirja: Start]: Stroll
+## [Swimsuit 20 - Mirja: Start\]: Stroll
 On a day off\.\.\.
 
   
@@ -455,7 +455,7 @@ On a day off\.\.\.
 **Yui:** Do you not want to\.\.\.\?  
 **Mirja:** No, it is what we came here for, so I'll enjoy myself as well\.  
 
-## [Swimsuit 20 - Mirja: End]: A Short Rest
+## [Swimsuit 20 - Mirja: End\]: A Short Rest
 **Yui:** YAHOOO-\!  
 **Yui:** Phew\.\.\. This feels so good\.\.\.  
 **Yui:** Mirja-saaan\! Hurry up and come in the river\!  
@@ -492,7 +492,7 @@ On a day off\.\.\.
 **Yui:** Wait for meee\~\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/f6NzJE7uOCo"></iframe>](:Iframe)  
 
-## [Mahouka - Mirja: Start]: Mirja and Mayumi
+## [Mahouka - Mirja: Start\]: Mirja and Mayumi
 **Mirja:** \.\.\.I see, so that's what kind of magic you have, Saegusa Mayumi\.  
 **Mayumi:** That's it\. At the Nine Schools Competition, I finished with a perfect bullseye\. With a \"bang\!\"  
 **Mirja:** Going back, what is this Nine Schools Competition\?  
@@ -525,7 +525,7 @@ On a day off\.\.\.
 **Mirja:** Though, Saegusa Mayumi\. If I had left Asakura Mihono with you, I don't believe you would let anything go wrong either\.  
 **Mayumi:** I'm honored to hear it\. Well, let's get going\.  
 
-## [Mahouka - Mirja: End]: Elven Sniper
+## [Mahouka - Mirja: End\]: Elven Sniper
 **Mirja:** Now then, Saegusa Mayumi\. The two types of magic you explained to me before\.\.\. Magic Bullet Shooter and Multi-Scope\.  
 **Mirja:** With those two, we should be able to suppress aradama with ease\.  
 **Mirja:** After all, you are capable of carrying out a one-sided assault on aradama from distance without needing to enter their range\.  
@@ -559,14 +559,14 @@ On a day off\.\.\.
 **Mayumi:** They did; I'm famished at this point\. Even though it's a dream\. It's a strange feeling, isn't it\?  
 **Mirja:** I feel the same\. What do you say we find something to eat close by\?  
 **Mayumi:** I'm all for it\!  
-[very low quality video]
+[very low quality video\]
 
   
 https://streamable.com/nprbpr
 
   
 
-## [Race Queen - Mirja: Start]: A Favor
+## [Race Queen - Mirja: Start\]: A Favor
 **Yui:** My intuition's telling me she should be around here\.\.\.  
 **Yui:** Ah, found her\! Miiirja-saaan\~\!  
 **Mirja:** Yamashiro Yui\? As well as\.\.\.  
@@ -606,7 +606,7 @@ https://streamable.com/nprbpr
 **Yui:** Mufufu\~\! Ahh\~, now I don't know how I'll wait for the day after tomorrow\~\!  
 **Keiko:** (Is this really fine\.\.\.\?\)  
 
-## [Race Queen - Mirja: End]: Day of the Unveiling
+## [Race Queen - Mirja: End\]: Day of the Unveiling
 **Yui:** Mirja-san\! Can I be next to you on the way there\? You don't mind, right\!  
 **Mirja:** Do what you want\.  
 **Mirja:** More importantly, Morishita Kihiro\. Let's go over once more what will happen when we get there\.  

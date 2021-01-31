@@ -3,7 +3,7 @@ misogi yui + shinsengumi sayaka
 ===============================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/pR7T3znqc5E"></iframe>](:Iframe)  
 
-## [Misogi - Yui: Start]: A Different Possibility
+## [Misogi - Yui: Start\]: A Different Possibility
 **Tsugumi:** Good work, Yamashiro-san\. That's all I need from you for today\.  
 **Yui:** Wait, are you sure\?  
 **Tsugumi:** Yes\. I need to set some aside for Shichinosato-san, after all\.  
@@ -42,7 +42,7 @@ misogi yui + shinsengumi sayaka
 **Yui:** The elite guard\.\.\.  
 **Yui:** I guess I'll ask Suzuka-san, since she's from Ayanokouji Martial Arts School too\.  
 
-## [Misogi - Yui: End]: Things Are Best the Way They Are\!
+## [Misogi - Yui: End\]: Things Are Best the Way They Are\!
 **Yui:** Hello\! Is Suzuka-san home at the moment\!  
 **Suzuka:** \.\.\.This isn't my home, I'll have you know\. Was there something you needed\?  
 **Yui:** Actually, there's something I wanted to talk to you about\.\.\.  
@@ -96,7 +96,7 @@ misogi yui + shinsengumi sayaka
 **Yui:** Right\! Yamashiro Yui's going at it in full spirit for another day\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UdyV4xZkk2E"></iframe>](:Iframe)  
 
-## [Shinsengumi - Sayaka: Start]: A Sudden Acting Offer
+## [Shinsengumi - Sayaka: Start\]: A Sudden Acting Offer
 **Kofuki:** Hey, why're we stopping by this place anyway\?  
 **Sayaka:** \.\.\.I've been here before\.  
 **Mirja:** That's correct\. They said they were experiencing trouble, and made a polite appeal, or rather, a request to us\.  
@@ -135,7 +135,7 @@ misogi yui + shinsengumi sayaka
 **Kofuki:** That's just cause, if I went back, it's not like there's anything to do there either\.   
 **Mirja:** I see\. At any rate, the filming should be beginning shortly\.   
 
-## [Shinsengumi - Sayaka: End]: A True to Life Take
+## [Shinsengumi - Sayaka: End\]: A True to Life Take
 **Film Director:** \.\.\.Action, start\!  
 **Soldier Actor:** This is the Shinsengumi; we'll be taking you outlaw ronin in\! Don't think you'll get away\!  
 **Sayaka:** (After they say that line\.\.\. I jump\.\)  

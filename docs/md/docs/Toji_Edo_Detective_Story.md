@@ -33,7 +33,7 @@ Toji Edo Detective Story
 **Novice Toji B:** Wow\.\.\. They all went down, before I could blink\.  
 **Novice Toji C:** That's just how strong Shidou-senpai is\!  
 **Maki:** Did they drop something just now\?  
-**Kazumi:** Koban, it seems\. More than likely a prop used in the filming here\. [Koban are the golden oval coins used in feudal Japan]  
+**Kazumi:** Koban, it seems\. More than likely a prop used in the filming here\. [Koban are the golden oval coins used in feudal Japan\]  
 **Maki:** Just to be safe, I'll bring these back with us\.  
 **Kazumi:** Then, I will guide the other girls through recovering the noro\.  
 **Maki:** Of course, thanks\.  

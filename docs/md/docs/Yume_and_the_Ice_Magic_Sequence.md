@@ -43,10 +43,10 @@ Several days after realizing this world was a dream\.\.\.
 **Suzuka:** I'm sure that Ban-san has prepared some sort of safety mechanism, but, if worse comes to worst, we can't be certain it won't have an effect on your body or mind\.  
 **Yume:** Ehhh\.  
 **Hiyori:** Flying in the air does sound incredible, but I think this dream has a lot of limitations to it\.  
-**Hiyori:** Even if we wish for it, the aradama won't just up and vanish in an instant\. \.\.\.[chomp]  
+**Hiyori:** Even if we wish for it, the aradama won't just up and vanish in an instant\. \.\.\.[chomp\]  
 **Yume:** What's that you've got there, Onee-san\?  
-**Hiyori:** Chocolate mint ice cream\.\.\. [chomp]  
-**Shizuku:** \.\.\.[chomp]\. Though, I know the feeling of wanting to try something since it's a dream\. The magic we use can't do everything, after all\.  
+**Hiyori:** Chocolate mint ice cream\.\.\. [chomp\]  
+**Shizuku:** \.\.\.[chomp\]\. Though, I know the feeling of wanting to try something since it's a dream\. The magic we use can't do everything, after all\.  
 **Yume:** \.\.\.I don't really want to hear anything from you onee-sans while you're all satisfied eating your dream ice cream though-\.  
 **Hiyori:** \.\.\.Ngh\.  
 **Miyuki:** Fufu, it seems she's struck a sore spot, Hiyori-san\.  
@@ -59,7 +59,7 @@ Several days after realizing this world was a dream\.\.\.
 **Kanami:** Ah\.\.\. Yume-chan\!\?  
 **Maki:** Wait\.\.\. Yume\!  
 
-## 2: Chasing Yume		[Like in the event's title, Yume isn't written in kanji here, so it could mean both Yume and dreams]
+## 2: Chasing Yume		[Like in the event's title, Yume isn't written in kanji here, so it could mean both Yume and dreams\]
 **Mayumi:** This here\. It looks like Tsubakuro-san dropped it earlier\. I think it's some sort of character keyring\.  
 **Kanami:** That's the mascot character, Ichigo Daifuku Neko\.  
 **Honoka:** Ah, now that you mention it, it looks like it has a strawberry daifuku motif\. It's cute\.\.\.  
@@ -178,7 +178,7 @@ https://streamable.com/px59ch
 
   
 
-## [Mahouka - Suzuka: Start]: Erika's Single Day Experience
+## [Mahouka - Suzuka: Start\]: Erika's Single Day Experience
 **Erika:** Hey hey, Suzuka\. What do you normally do\?  
 **Suzuka:** What I\.\.\. normally do\?  
 **Erika:** Yeah, like, most days\.  
@@ -217,7 +217,7 @@ https://streamable.com/is4tkp
 
   
 
-## [Mahouka - Suzuka: End]: Suzuka and Erika
+## [Mahouka - Suzuka: End\]: Suzuka and Erika
 **Erika:** Hey, Suzuka\.  
 **Erika:** We spent all morning with our eyes glued to papers, but what'll we do in the afternoon\?  
 **Suzuka:** This afternoon, we'll be going out to suppress aradama\.  

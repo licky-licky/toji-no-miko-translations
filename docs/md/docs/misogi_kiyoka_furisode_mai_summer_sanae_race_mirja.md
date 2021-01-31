@@ -5,7 +5,7 @@ https://streamable.com/0sio32
 
   
 
-## [Misogi - Kiyoka: Start]: I'll Protect You\!
+## [Misogi - Kiyoka: Start\]: I'll Protect You\!
 --This was something that happened on a mission a few months ago\.
 
   
@@ -16,7 +16,7 @@ https://streamable.com/0sio32
 **Mirja:** (Losing control of Shichinosato Kofuki will hurt us\. Asakura Mihono is\.\.\.\)  
 **Mihono:** Geez, there's way too manyyy\! I chop one\.\.\. and another\.\.\. and there's just\.\.\. more\!  
 **Mirja:** (She still has strength left\. What about Musumi Kiyoka\?\)  
-**Kiyoka:** [pant\.\.\. pant\.\.\.\!]  
+**Kiyoka:** [pant\.\.\. pant\.\.\.\!\]  
 **Mirja:** (\.\.\.So Musumi Kiyoka is reaching her limit\.\)  
 **Mirja:** \.\.\.Could we talk for a moment, Setouchi Chie\?  
 **Chie:** \.\.\.  
@@ -43,7 +43,7 @@ https://streamable.com/0sio32
 **Kiyoka:** \.\.\.When you say that, it feels like it'll really be okay\.  
 **Chie:** But\.\.\. sorry\.\.\. right now\.\.\. I need some\.\.\.  
 **Kiyoka:** Chie-san\?  
-**Chie:** [pant\.\.\. pant\.\.\. pant\.\.\.]  
+**Chie:** [pant\.\.\. pant\.\.\. pant\.\.\.\]  
 **Kiyoka:** You're burning up\!\?  
 **Kiyoka:** (She was fighting like this\.\.\. Chie-san really is incredible\.\)  
 **Kiyoka:** \.\.\.No, that's not it\. It's because I'm so weak\.\.\. Chie-san had to push herself so hard for me\.\.\.  
@@ -51,7 +51,7 @@ https://streamable.com/0sio32
 **Kiyoka:** \.\.\.Don't overwork yourself, Chie-san\. I'll try my best\.  
 **Kiyoka:** Until we meet back up with the others\.\.\. I'll protect you\!  
 
-## [Misogi - Kiyoka: End]: A Little Confidence
+## [Misogi - Kiyoka: End\]: A Little Confidence
 **Kiyoka:** YAAAAAAAAAAAAAHH\!\!  
 **Kiyoka:** Are you okay, Chie-san\?  
 **Chie:** Yes, thank you, Kiyoka-chan\.  
@@ -80,7 +80,7 @@ https://streamable.com/0sio32
 **Mihono:** You had one\!\? I didn't notice at all\!  
 **Chie:** I'm your onee-san\. I can't go making you worry about me, can I\?  
 **Chie:** And, I had Kiyoka-chan making sure I was safe, so I was absolutely fine\.  
-**Kiyoka:** [crying]\.\.\.  
+**Kiyoka:** [crying\]\.\.\.  
 **Chie:** Kiyoka-chan\!\? Why are you crying\!\?  
 **Kofuki:** Was it that scary being off alone with Chichie\!\?  
 **Kiyoka:** That's not it\.\.\. Since Chie-san wasn't feeling well, I-I had to protect her\.\.\. When it was over, I felt so relieved\.\.\. The tears won't\.\.\.  
@@ -94,7 +94,7 @@ https://streamable.com/db273h
 
   
 
-## [Furisode 21 - Mai: Start]: Let's Make Our First Shrine Visit\!
+## [Furisode 21 - Mai: Start\]: Let's Make Our First Shrine Visit\!
 **Mai:** By the way, do you all have any plans for New Year's\?  
 **Kaoru:** Just to sleep it off for now\.  
 **Ellen:** Kaoru, if all you ever do is sleep, aren't you going to get fat\? I'm planning on spending mine with my family\!  
@@ -126,7 +126,7 @@ https://streamable.com/db273h
 **Mai:** It's fine; this much is nothing\. I'm looking forward to our first shrine visit\.  
 **Sayaka:** Mm\.  
 
-## [Furisode 21 - Mai: End]: Please Make it Happen\!
+## [Furisode 21 - Mai: End\]: Please Make it Happen\!
 The day of their first shrine visit\.
 
   
@@ -170,7 +170,7 @@ https://streamable.com/rofrz3
 
   
 
-## [Summer Dress - Sanae: Start]: The Rain Comes Down
+## [Summer Dress - Sanae: Start\]: The Rain Comes Down
 **Aradama:** GYAOOOOOOOOOOOOO\!  
 **Sanae:** Konohana-san\! I cornered the aradama\!  
 **Sanae:** Please finish it off\!  
@@ -210,7 +210,7 @@ https://streamable.com/9sl2wk
 
   
 
-## [Summer Dress - Sanae: End]: Looking Good With Sunflowers
+## [Summer Dress - Sanae: End\]: Looking Good With Sunflowers
 **Sanae:** I found it, Konohana-san\! That store's ramen is famous for its deliciousness\!  
 **Suzuka:** Ramen\?  
 **Sanae:** Yeah\!  
@@ -249,7 +249,7 @@ https://streamable.com/jflgvk
 
   
 
-## [Race Queen - Mirja: Start]: A Favor
+## [Race Queen - Mirja: Start\]: A Favor
 **Yui:** My intuition's telling me she should be around here\.\.\.  
 **Yui:** Ah, found her\! Miiirja-saaan\~\!  
 **Mirja:** Yamashiro Yui\? As well as\.\.\.  
@@ -289,7 +289,7 @@ https://streamable.com/jflgvk
 **Yui:** Mufufu\~\! Ahh\~, now I don't know how I'll wait for the day after tomorrow\~\!  
 **Keiko:** (Is this really fine\.\.\.\?\)  
 
-## [Race Queen - Mirja: End]: Day of the Unveiling
+## [Race Queen - Mirja: End\]: Day of the Unveiling
 **Yui:** Mirja-san\! Can I be next to you on the way there\? You don't mind, right\!  
 **Mirja:** Do what you want\.  
 **Mirja:** More importantly, Morishita Kihiro\. Let's go over once more what will happen when we get there\.  

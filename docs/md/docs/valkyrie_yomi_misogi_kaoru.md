@@ -3,7 +3,7 @@ valkyrie yomi/misogi kaoru
 ==========================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
-## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
+## [Valkyrie - Yomi: Start\]: A Sudden Call from Akira
 **Akira:** Oiii, Yomi\! Here, over here\~\.  
 **Yomi:** I could tell where you were without you having to shout\.  
 **Akira:** You just looked like you were kinda spacing out over there\. Anyway, ready to go\?  
@@ -35,7 +35,7 @@ valkyrie yomi/misogi kaoru
 **Akira:** I'll have the same thing you're drinking then\.  
 **Akira:** Ah, when you get the photos back, lemme see\. Those'll be fun to look through for sure\.  
 
-## [Valkyrie - Yomi: End]: This One is My Favorite
+## [Valkyrie - Yomi: End\]: This One is My Favorite
 **Akira:** Yo\! It's rare for you to call me to hang out\.  
 **Yomi:** I got the photos back from that photo shoot we spoke about the other day\.  
 **Yomi:** I think they'll be published online soon, but I had heard you were coming by on an assignment\.  
@@ -67,7 +67,7 @@ valkyrie yomi/misogi kaoru
 **Akira:** Alright\.\.\. I've gotta stick to it too\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/A4RipDwmT9Y"></iframe>](:Iframe)  
 
-## [Misogi - Kaoru: Start]: A Little About the Past
+## [Misogi - Kaoru: Start\]: A Little About the Past
 **Kaoru:** Today's kinda hot, isn't it-\.\.\. My water bottle's already run dry\.\.\.  
 **Nene:** Ne\~\~\.\.\.  
 **Ellen:** I only have a little bit left in mine, but, want to drink it, Kaoru\?  
@@ -75,7 +75,7 @@ valkyrie yomi/misogi kaoru
 **Ellen:** Should we make a trip back to town then\? We'd be losing a lot of time though\.  
 **Chie:** Ellen-san, Kaoru-san\. It's alright\. I brought lots of drinks with me\.  
 **Ellen:** Chie, thank you so much\!  
-**Kaoru:** It's nice somebody came prepared\. You really saved us\. [gulp gulp]\.\.\. Phwah\. Can't thank you enough\.  
+**Kaoru:** It's nice somebody came prepared\. You really saved us\. [gulp gulp\]\.\.\. Phwah\. Can't thank you enough\.  
 **Chie:** It's just a part of me acting as everyone's onee-san\.  
 **Ellen:** Have you been an onee-san ever since you were a little girl, Chie\?  
 **Chie:** When I was little, I spent most of my time together with Mihono-chan, so it's true that back then I wanted to try hard to act as an onee-san\.  
@@ -109,7 +109,7 @@ valkyrie yomi/misogi kaoru
 **Kaoru:** Guess we'd better hurry-\.  
 **Nene:** Nene\~\!  
 
-## [Misogi - Kaoru: End]: Together With Nene
+## [Misogi - Kaoru: End\]: Together With Nene
 **Ellen:** Kaoru\! Behind you\!  
 **Aradama:** KSHAAAAAA\!  
 **Kaoru:** \!\?  

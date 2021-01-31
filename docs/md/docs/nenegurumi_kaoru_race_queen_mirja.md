@@ -5,13 +5,13 @@ https://streamable.com/1pyro9
 
   
 
-## [Nenegurumi - Kaoru: Start]: Let's Sell Nenegurumis
+## [Nenegurumi - Kaoru: Start\]: Let's Sell Nenegurumis
 **Sana:** Oh, you're here, Kaoru\.  
 **Kaoru:** You're the one who called me, right\? So, what'd you need\?  
 **Kaoru:** You're not about to push another annoying mission on me, are you\?  
 **Sana:** We've decided to start selling Nenegurumis\.  
 **Kaoru:** Huhh\? What the heck's a \"Nenegurumi\"\?  
-**Sana:** A Nene nuigurumi, so, Nenegurumi\.		[Nuigurumi are just stuffed toys/dolls, and I'm not punning around with the name]  
+**Sana:** A Nene nuigurumi, so, Nenegurumi\.		[Nuigurumi are just stuffed toys/dolls, and I'm not punning around with the name\]  
 **Kaoru:** Just leaving it at that\!\?  
 **Kaoru:** \.\.\.So, what do need me for with these Nenegurumis\? You want to use Nene as a model\?  
 **Sana:** No, we already went ahead and made them\. Here's one\.  
@@ -41,7 +41,7 @@ https://streamable.com/psmsg9
 
   
 
-## [Nenegurumi - Kaoru: End]: Poster Girl
+## [Nenegurumi - Kaoru: End\]: Poster Girl
 The Nenegurumi Shop, 3 hours before opening\.
 
   
@@ -65,13 +65,13 @@ The Nenegurumi Shop, 2 hours before opening\.
 **Kaoru:** \.\.\.\.\.\.\.\.\.\.\.\.  
 **Kaoru:** Just big enough\.\.\. Yeah\. How's it feel\.\.\. Yep, nice and fluffy\.  
 **Kaoru:** Ooph\.\.\. Ahhh\. Well what do ya know, so this is where they were keeping heaven\.\.\.  
-**Kaoru:** \.\.\.[snooze]\.  
+**Kaoru:** \.\.\.[snooze\]\.  
 The Nenegurumi Shop, 1 hour before opening\.
 
   
 **Minaki:** Looks like we might actually make it in time for the opening, Kaorucchi\!  
 **Minaki:** \.\.\.Kaorucchi\?  
-**Kaoru:** \.\.\.[snooze]\.  
+**Kaoru:** \.\.\.[snooze\]\.  
 **Minaki:** Kaorucchi, you look like the Nenegurumi's hugging you\. So heartwarming\.  
 **Minaki:** \.\.\.Hey, wake up, Kaorucchi\!  I can't finish the displays by myself\!\?  
 **Kaoru:** Mmmnnm\.\.\.  
@@ -89,15 +89,15 @@ The Nenegurumi Shop, now open\.
 **Minaki:** Thanks, Ellencchi\~\! With you here, we made it safe in time for the store to open\~\!  
 **Ellen:** You're welcome\! And, more importantly, before Kaoru wakes up, let's sell and sell till we're sold out\!  
 **Minaki:** Sure\!  
-**Kaoru:** \.\.\.\.\.\.\.\.\.[snooze]\.  
-[very low quality video]
+**Kaoru:** \.\.\.\.\.\.\.\.\.[snooze\]\.  
+[very low quality video\]
 
   
 https://streamable.com/nprbpr
 
   
 
-## [Race Queen - Mirja: Start]: A Favor
+## [Race Queen - Mirja: Start\]: A Favor
 **Yui:** My intuition's telling me she should be around here\.\.\.  
 **Yui:** Ah, found her\! Miiirja-saaan\~\!  
 **Mirja:** Yamashiro Yui\? As well as\.\.\.  
@@ -137,7 +137,7 @@ https://streamable.com/nprbpr
 **Yui:** Mufufu\~\! Ahh\~, now I don't know how I'll wait for the day after tomorrow\~\!  
 **Keiko:** (Is this really fine\.\.\.\?\)  
 
-## [Race Queen - Mirja: End]: Day of the Unveiling
+## [Race Queen - Mirja: End\]: Day of the Unveiling
 **Yui:** Mirja-san\! Can I be next to you on the way there\? You don't mind, right\!  
 **Mirja:** Do what you want\.  
 **Mirja:** More importantly, Morishita Kihiro\. Let's go over once more what will happen when we get there\.  

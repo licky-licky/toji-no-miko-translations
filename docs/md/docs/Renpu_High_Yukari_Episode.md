@@ -5,7 +5,7 @@ https://streamable.com/wuarv
 
   
 
-## [Renpu High: Start]: Marshmallows
+## [Renpu High: Start\]: Marshmallows
 **Minato:** Yukari, Kagari, morning-\!  
 **Yukari:** Morning, Minato\.  
 **Kagari:** Good morning\.  
@@ -44,7 +44,7 @@ https://streamable.com/47tku
 
   
 
-## [Renpu High: End]: Dream Come True
+## [Renpu High: End\]: Dream Come True
 **Minato:** Ahh\~, the three of us skipping practice and going home together feels all fresh and exciting\! Want to stop by somewhere\?  
 **Kagari:** Yukari-sama and I will be practicing as soon as we return to the Origami household\. Please don't treat us like your accomplices, Minato-senpai\.  
 **Minato:** Come on, don't be such a stick in the mud\~\. We never go home early together\! There's this super cool secret spot I found that I'll show you\.  

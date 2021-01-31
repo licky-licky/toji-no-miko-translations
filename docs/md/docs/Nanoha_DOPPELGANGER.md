@@ -2,7 +2,7 @@
 Nanoha DOPPELGANGER
 ===================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/YyVH-T2QEjM"></iframe>](:Iframe)  
-[As per usual for collabs, the countdowns are voiced\. Unusually, the game decided to combine both parts of the event into one, so I have them all here even if the numbering is off\.]
+[As per usual for collabs, the countdowns are voiced\. Unusually, the game decided to combine both parts of the event into one, so I have them all here even if the numbering is off\.\]
 
   
 https://streamable.com/fohx1q
@@ -70,9 +70,9 @@ https://streamable.com/bdo8of
 **Suu:** Ah, I'm good\.  
 **Sayaka:** Eh\?  
 **Suu:** Err, I mean\! Uhh, uhh\.\.\.  
-**Suu:** (I know she said to treat her normal, but Sayaka-chan is Renpu's deadly professional\!\)		[Suu calls Sayaka 'Hissatsu Shigotonin', a reference to a famous period drama about an assassin for hire]  
+**Suu:** (I know she said to treat her normal, but Sayaka-chan is Renpu's deadly professional\!\)		[Suu calls Sayaka 'Hissatsu Shigotonin', a reference to a famous period drama about an assassin for hire\]  
 **Suu:** (I really am kind of bad at dealing with her\.\.\. I'll just try not to offend her here\.\.\.\)  
-**Suu:** Talking about doppelgangers, it's like that, right\? How, you meet three people just like you, and they might try to sue\.		[There is a very lame pun here about how, if you meet \"au to\" 3 people just like you, you're out \"au to\"]  
+**Suu:** Talking about doppelgangers, it's like that, right\? How, you meet three people just like you, and they might try to sue\.		[There is a very lame pun here about how, if you meet \"au to\" 3 people just like you, you're out \"au to\"\]  
 **Suu:** Get it\?  
 **Kanami/Sayaka/Kiyoka:** \.\.\.\.\.\.  
 **Suu:** Haha, hahaha\.\.\.  
@@ -407,7 +407,7 @@ https://streamable.com/bdo8of
 **Hayate:** I'll back you up, Suu-san\!  
 **Suu:** Thanks, Hayate-chan\!  
 **Suu:** HAHH\!\!  
-**Suu:** [pant pant]\.\.\.  
+**Suu:** [pant pant\]\.\.\.  
 **Hokuto Mimic:** \.\.\.  
 **Suu:** --\!\? There's an aradama mimicking Hokuto-san\!\?  
 **Hokuto Mimic:** \.\.\.\!  
@@ -416,7 +416,7 @@ https://streamable.com/bdo8of
 **Suu:** Gh\!  
 **Suu:** (My utsushi\.\.\. This is the sixth time\.\.\.\)  
 **Suu:** But, for just this aradama\.\.\. Don't you dare\.\.\. COPY HOKUTO-SAAAAAAAAAAAAAAN\!\!  
-**Suu:** [pant pant]\.\.\.  
+**Suu:** [pant pant\]\.\.\.  
 **Suu:** Just how many of them are there\.\.\.\?  
 **Suu:** (What do we do; I'll get beaten at this rate\.\.\. For Sayaka-san to help me, she'll have to\.\.\.\)  
 **Yume Mimic:** Aha\! Ahahaha\!  
@@ -641,7 +641,7 @@ https://streamable.com/bdo8of
 **Akira:** Huh\? What're you talking about\.\.\.  
 **Yume:** You're the only one who doesn't look like she's gonna eat, so it's fine, right\?  
 **Akira:** Hahh\!\?  
-**Yume:** [om nom]\.\.\. Mm, so good\!  
+**Yume:** [om nom\]\.\.\. Mm, so good\!  
 **Akira:** A-Ahh\.\.\.\.\.\.  
 **Akira:** \.\.\.You're gonna pay for that\.  
 **Akira:** I'm not letting this one go\.  
@@ -693,7 +693,7 @@ https://streamable.com/bdo8of
 **Tsugumi:** Tsubakuro-san says it's fine, so there shouldn't be an issue\.  
 **Tsugumi:** I suppose our job is just at the start then-\.  
 **Nanoha:** At the start\?  
-**Tsugumi:** [whisper whisper whisper]  
+**Tsugumi:** [whisper whisper whisper\]  
 **Nanoha:** Ehhh\!\?  
 **Hayate:** That team looks like they're having fun\. Let's give it our best shot too\!  
 **Akira:** I'm uh, sorry this turned into a whole thing\. This all wouldn'tve happened if I'd just eaten the cake straight away\.  

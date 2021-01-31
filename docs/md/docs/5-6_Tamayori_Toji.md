@@ -5,7 +5,7 @@
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/wxoW5kSmmK0"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/mVtIG7h23b4"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/hJHhqoL6TpM"></iframe>](:Iframe)  
-[The chapter had a staggered release, so the video is in 4 parts\.]
+[The chapter had a staggered release, so the video is in 4 parts\.\]
 
   
 
@@ -50,7 +50,7 @@ Several days later--
 **Mihono:** \.\.\.Thanks a bunch\.  
 **Mihono:** \.\.\.\.\.\.Itsh hot\!  
 **Tsugumi:** Please take your time with it\.  
-**Mihono:** Yeh\.\.\. [blow- blow-]  
+**Mihono:** Yeh\.\.\. [blow- blow-\]  
 **Yui:** Augh\!\?  
 **Mihono:** Ah--\!\?  
 **Mihono:** Yui\!\? What happened; are you alright\!\?  
@@ -63,7 +63,7 @@ Several days later--
 **Tsugumi:** Asakura-san\!\?  
 **Tsugumi:** Please try to calm down\! If you lose control here\.\.\.\!  
 **Mihono:** It's okay\.\.\. I don't want to get locked up either\.\.\. This, isn't that bad\.\.\.  
-**Mihono:** [pant\.\.\. pant\.\.\.]  
+**Mihono:** [pant\.\.\. pant\.\.\.\]  
 **Tsugumi:** Asakura-san\. Do you want to leave your seat\? If you're at risk of rampaging even while acting as an operator\.\.\.  
 **Mihono:** \.\.\.It's fine\. No matter where I am, this'll probably be the same\.  
 **Tsugumi:** \.\.\.Is that so\.  
@@ -237,7 +237,7 @@ Several days later--
 **Akira:** --\!\? Did something happen with Yuuki\!\?  
 **Makoto:** She's caught a cold\.  
 **Akira:** \.\.\.Huh\?  
-**Yuuki:** [cough cough]\.\.\. I was careless and let myself get sick\.\.\.  
+**Yuuki:** [cough cough\]\.\.\. I was careless and let myself get sick\.\.\.  
 **Yuuki:** I was thinking I had somehow been feeling tired lately\.\.\.  
 **Makoto:** There's no need for you to worry over it, Yuuki-chan\. Please just have a nice long rest\.  
 **Makoto:** Once you're better, I'll be depending on you again\.  

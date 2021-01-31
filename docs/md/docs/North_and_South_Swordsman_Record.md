@@ -10,7 +10,7 @@ As this event came in 3 parts, it's separated into 3 videos\.
 
 ## 1: In Order to Overcome These Hardships\!
 **Inami Suu:** Hakobune Noa-chan\.\.\. She's gotten better at MCing since last time, and when I went to shake her hand, she even remembered me\!  
-**Suu:** And Sonomiya Eden-san winked at me too; this seriously made all the painful missions I've had to go through up till now worth it-\! 	[The kanji in their names are puns on Noah's Ark and the Garden of Eden]  
+**Suu:** And Sonomiya Eden-san winked at me too; this seriously made all the painful missions I've had to go through up till now worth it-\! 	[The kanji in their names are puns on Noah's Ark and the Garden of Eden\]  
 **Asahina Hokuto:** \.\.\.\.\.\.Right\.  
 **Suu:** They're trying so hard\.\.\.  
 **Suu:** You don't know how lucky we are we got tickets for such good seats\. That's all thanks to you applying for the lottery for us, Hokuto-san\!  

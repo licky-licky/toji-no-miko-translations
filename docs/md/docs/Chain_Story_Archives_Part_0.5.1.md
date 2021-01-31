@@ -91,7 +91,7 @@ The next day\.
 **Minato:** Yikes-, it's looking even more tense in there than when the training camp started, isn't it\.  
 **Yuzuki:** I'd planned on staying quiet and seeing how things progressed, but wouldn't it be best to step in soon\?  
 **Yukari:** Still, if we simply help them out here, they won't have improved on anything\. We should hold off a little longer\.\.\.  
-	[Minato's stomach growls]
+	[Minato's stomach growls\]
 
   
 **Kagari:** Is somebody there\? Please stop hiding and come out\.  
@@ -131,7 +131,7 @@ The next day\.
 **Minato:** Whoa-, there's a kotatsu waiting for us-\!  
 **Yuzuki:** While everyone was preparing dinner, Sana and I got one ready\. It looks like the hotpot is done too, so before we begin eating, let's hear an overview of today's efforts from our captain\.  
 **Yukari:** You all did well our first day of the training camp\. Our objective at this camp is to improve our teamwork, and\.\.\.  
-	[Minato's stomach growls]
+	[Minato's stomach growls\]
 
   
 **Minato:** Yukari-, I can't take it anymore\! Can't we talk about this while we're eating\? Let's eat already-\.  
@@ -139,7 +139,7 @@ The next day\.
 **Yukari:** Though, Minato may have the right idea here\. Everyone, go ahead and eat up so you can be ready for tomorrow's practice\.  
 **Kagari/Yukina/Sana:** Let's eat\.  
 **Minato:** Mmm\~, so good\~\! You can't have winter without a hotpot, am I right\?  
-**Sana:** Hafu, hafu*\.\.\. That's right\! Ah, the bits of radish Yukina-senpai chopped up all small soaked up the flavor and taste really good\.	[*The sound people make while eating something good, but hot, trying to breathe in through their mouth to cool it down\. Onomatopoeia is hard\.]  
+**Sana:** Hafu, hafu*\.\.\. That's right\! Ah, the bits of radish Yukina-senpai chopped up all small soaked up the flavor and taste really good\.	[*The sound people make while eating something good, but hot, trying to breathe in through their mouth to cool it down\. Onomatopoeia is hard\.\]  
 **Yukina:** Of course they do, because I'm the one who chopped them up\. Hafu, hafu\.\.\. Oh, these slices of fish are delicious too\!  
 **Kagari:** Those would be the fish Sana chopped up by mistake\. It turned out for the best not using it to make nimono\.  
 **Sana:** Eheheh, I guess I was right for getting it wrong then\.  

@@ -5,7 +5,7 @@ https://streamable.com/0lxsgf
 
   
 
-## [Bride - Tsugumi: Start]: Undercover Investigation (Tsugumi's Case\)
+## [Bride - Tsugumi: Start\]: Undercover Investigation (Tsugumi's Case\)
 **Tsugumi:** Shichinosato-san, we have a mission\.  
 **Kofuki:** Where's the aradama-chan at\!\? I'll take care of all of 'em\!\!  
 **Tsugumi:** Yes, I can tell you're excited\.  
@@ -39,7 +39,7 @@ https://streamable.com/0lxsgf
 **Tsugumi:** Let's do just one\. Now, ready\.\.\.  
 **Tsugumi/Kofuki:** Rock paper scissors shoot\!  
 
-## [Bride - Tsugumi: End]: I Hope You Remember This\.\.\.
+## [Bride - Tsugumi: End\]: I Hope You Remember This\.\.\.
 **Chapel Staff:** The\.\.\. undercover investigation\?  
 **Kofuki:** Yeah, so get a wedding dress for her, and make sure it's the cutest one you've got\!  
 **Chapel Staff:** You'd like a cute wedding dress\.\.\.\?  
@@ -75,7 +75,7 @@ https://streamable.com/v024ow
 
   
 
-## [Journey to the West - Yui: Start]: Yui's Scheme
+## [Journey to the West - Yui: Start\]: Yui's Scheme
 **Yui:** \.\.\.\.\.\.\.\.\.So that's what I was thinking\.\.\.  
 **Tsugumi:** I see\.  
 **Yui:** How about it\?  
@@ -113,7 +113,7 @@ https://streamable.com/v024ow
 **Mihono:** Sure\!  
 **Yui:** Guhehehehehe\.  
 
-## [Journey to the West - Yui: End]: The Scheme's Outcome
+## [Journey to the West - Yui: End\]: The Scheme's Outcome
 **Mihono:** She said she was getting data for the future\.\.\. But this is the same as usual VR, huh, Chii-nee\.  
 **Chie:** That's true\.\.\. Tsugumi-chan, what exactly should we be doing\?  
 **Tsugumi:** Today, we'll be testing undressing\.  
@@ -135,7 +135,7 @@ Several hours ago\.
 **Mihono:** Wait for me, Chii-nee\! I'm going too\!  
 **Yui:** Ah, I'll just, go in later, okay-\?  
 **Yui:** \.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.\.Alright\!  
-**Yui:** [pant pant pant pant]\! In my hands, I've got Chie-san's clothes\!  
+**Yui:** [pant pant pant pant\]\! In my hands, I've got Chie-san's clothes\!  
 **Yui:** I never thought this plan would go so smoothly\.\.\.\!  
 **Yui:** This is what Chie-san's clothes feel like\.\.\. Like grabbing onto thin air\.\.\. What about the smell\.\.\.\!  
 **Yui:** There's no smell\!\!  
@@ -153,7 +153,7 @@ https://streamable.com/sn9k1d
 
   
 
-## [Mahouka - Minato: Start]: Three Lost People
+## [Mahouka - Minato: Start\]: Three Lost People
 **Honoka:** Heeeey\! Kanami-\? Mihono-\?  
 **Honoka:** \.\.\.\.\.\.\.\.\.\.\.\.  
 **Honoka:** Nnnn, they're not answering, Shizuku\.  
@@ -188,7 +188,7 @@ https://streamable.com/sn9k1d
 **Minato:** I'll be fine\. I figure I'll see my friends soon enough, and we might run into them when we're looking for your friends too\.  
 **Honoka:** I got it\. Then, let's search together\!  
 
-## [Mahouka - Minato: End]: Ideal Dream
+## [Mahouka - Minato: End\]: Ideal Dream
 **Minato:** Hmmm, we aren't finding anybody\.  
 **Honoka:** You're not wrong\.\.\.  
 **Honoka:** We've been looking for a while now, but, where could they have gone\.\.\.  

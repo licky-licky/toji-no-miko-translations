@@ -84,7 +84,7 @@ Miss Five Traditions Charity Mission
 **Yui:** This pair's looking good too\! Seeing them so earnest together's the best\!  
 **Kaoru:** \.\.\.Shut up, Yui-\. Let me sleep in peace-\.  
 **Yui:** Sorry about that-\.  
-**Kaoru:** Seriously\.\.\. [snooze]\.  
+**Kaoru:** Seriously\.\.\. [snooze\]\.  
 **Yui:** Alright, I got a nice shot\!  
 **Mihono:** (I can hear everybody all energetic like that, and yet\.\.\.\)  
 **Yomi:** \.\.\.  
@@ -337,7 +337,7 @@ Elsewhere--
 **Yume:** Yeah\! Being Miss Five Traditions might actually be pretty fun\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
-## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
+## [Valkyrie - Yomi: Start\]: A Sudden Call from Akira
 **Akira:** Oiii, Yomi\! Here, over here\~\.  
 **Yomi:** I could tell where you were without you having to shout\.  
 **Akira:** You just looked like you were kinda spacing out over there\. Anyway, ready to go\?  
@@ -369,7 +369,7 @@ Elsewhere--
 **Akira:** I'll have the same thing you're drinking then\.  
 **Akira:** Ah, when you get the photos back, lemme see\. Those'll be fun to look through for sure\.  
 
-## [Valkyrie - Yomi: End]: This One is My Favorite
+## [Valkyrie - Yomi: End\]: This One is My Favorite
 **Akira:** Yo\! It's rare for you to call me to hang out\.  
 **Yomi:** I got the photos back from that photo shoot we spoke about the other day\.  
 **Yomi:** I think they'll be published online soon, but I had heard you were coming by on an assignment\.  

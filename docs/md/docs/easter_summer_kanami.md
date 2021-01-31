@@ -5,7 +5,7 @@ https://streamable.com/p9gd8o
 
   
 
-## [Easter - Kanami: Start]: Attempting the Egg Hunt\!
+## [Easter - Kanami: Start\]: Attempting the Egg Hunt\!
 **Ellen:** Kanamin\! Want to do an egg hunt with everyone, to celebrate Easter\?  
 **Kanami:** An egg hunt\? What's that\?  
 **Ellen:** It's a fun event you do on Easter day\. You hide colorful painted eggs in the park, and everyone competes to find them\!  
@@ -39,7 +39,7 @@ https://streamable.com/y22f2e
 
   
 
-## [Easter - Kanami: End]: In a Fervor\! The Spring Egg Hunt
+## [Easter - Kanami: End\]: In a Fervor\! The Spring Egg Hunt
 Easter day\.
 
   
@@ -90,7 +90,7 @@ https://streamable.com/gdfgyo
 
   
 
-## [Summer Uniform 20 - Kanami: Start]: In Danger of Failing\!\?
+## [Summer Uniform 20 - Kanami: Start\]: In Danger of Failing\!\?
 **Kanami:** Help me, Hiyori-chan\! At this rate, I'm gonna fail\!  
 **Hiyori:** \.\.\.\.\.\.Sigh\.  
 **Hiyori:** That's not going to be possible\. Go find someone else\.  
@@ -126,7 +126,7 @@ https://streamable.com/2zf060
 
   
 
-## [Summer Uniform 20 - Kanami: End]: Help me, Iwakura-sensei\!
+## [Summer Uniform 20 - Kanami: End\]: Help me, Iwakura-sensei\!
 **Kanami:** Thanks for having me, Iwakura-san\!  
 **Sanae:** Mm, I'm glad to help, Etou-san\. And also, there's one more girl joining us\.\.\.  
 **Mayumi:** My name is Hasui Mayumi, from Ayanokouji Martial Arts School's middle school toji preparatory course\!  
@@ -152,7 +152,7 @@ https://streamable.com/2zf060
 **Kanami:** And you do this here\.\.\. I did it\!  
 **Mayumi:** I solved it as well\!  
 **Sanae:** Can I take a look at it, you two\? Let's see\.\.\.  
-**Kanami/Mayumi:** [badump badump]  
+**Kanami/Mayumi:** [badump badump\]  
 **Sanae:** Mmhm, you both got it right\.  
 **Kanami:** Hooray-\! Thanks so much, Iwakura-san\! Now I think I can get around failing the next test\!  
 **Sanae:** No, this is all because you tried so hard, Etou-san\. And you too, Hasui-san, good work\.  

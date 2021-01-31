@@ -9,7 +9,7 @@
 **Akira:** Yeah, I got it\! Makocchan and Yuuki, you get back\! I'll give Mihono a whack\.  
 **Yuuki:** Understood\! Please save Mihono-san\!  
 **Makoto:** Please do, Akira-chan\.  
-**Mihono:** [pant\.\.\. pant\.\.\.] Akira-san\.\.\. sorry, I went and\.\.\. screwed this up\.\.\.  
+**Mihono:** [pant\.\.\. pant\.\.\.\] Akira-san\.\.\. sorry, I went and\.\.\. screwed this up\.\.\.  
 **Akira:** Just keep quiet\. I'll get this over with quick\.  
 **Mihono:** \.\.\.Right\.  
 **Akira:** ORAAAAAAAAA\!\!  
@@ -402,7 +402,7 @@
 **Mihono:** AH-\!\?\?  
 
 ## 9: Flight Through the Mountains (2\)
-**Mihono:** [pant, pant\.\.\.] I managed to beat them somehow, but, without using Kiyomitsu's power, any more than this could be tough\.\.\.  
+**Mihono:** [pant, pant\.\.\.\] I managed to beat them somehow, but, without using Kiyomitsu's power, any more than this could be tough\.\.\.  
 **Mihono:** Ah\. I guess it's Kanayamahime's power, not Kiyomitsu's\.\.\.  
 **Mihono:** Why'd it all have to turn out like this\. I'm sorry for doing everything on my own, Chii-nee\. Mirja-san made sure to warn me and everything too\.\.\.  
 **Mihono:** Lately, all I've been doing is causing trouble for everyone\. Ever since then\.\.\.  

@@ -175,7 +175,7 @@ Chinese Pandas Bringing Good Fortune
 **Mihono:** Yeah\! Good things'll happen for sure\! I can't wait\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
 
-## [China - Yui: Start]: The Chinatown Date I've Longed For\!\?
+## [China - Yui: Start\]: The Chinatown Date I've Longed For\!\?
 **Tsugumi:** We've safely eliminated the aradama, so while we're here, why don't we take a stroll around Chinatown until the sun starts setting\?  
 **Mihono:** I'm all for it\~\! There's still a lot more shops I haven't been to yet\. Do you two wanna come with me\?  
 **Yui:** Of course I do\!　It's a Chinatown date with two good looking girls at my side\! This makes fighting off those aradama all worth it\~\.  
@@ -197,7 +197,7 @@ Chinese Pandas Bringing Good Fortune
 **Mihono:** Ehh-- Starting with me\!\? If you just tell me we're going on a date like that, I don't have time to get my heart ready\.\.\.  
 **Yui:** Don't you worry about that, Honey\. I'll escort you around just right\. Why don't we find somewhere to get some delicious sweets first\?  
 **Yui:** This place sells the apricot seed soft serve that's the talk of Chinatown\! I don't have much pocket money on me today, so let's share one between us\. Here, open wide\.  
-**Mihono:** Ahhn\. [chew chew]\.\.\. It's yummy-\!\!  
+**Mihono:** Ahhn\. [chew chew\]\.\.\. It's yummy-\!\!  
 **Yui:** Alright, now it's your turn, Mihono-chan\! I'll say \"ahh\", and you\.\.\.  
 **Mihono:** Ah, look, look\! In that general store next door\! They've got cute panda things you can wear\!  
 **Yui:** Ah, wait, Mihono-chaaan\!  
@@ -213,7 +213,7 @@ Chinese Pandas Bringing Good Fortune
 **Yui:** Uuu\~, when you put it like that, I'm losing confidence\. Could I have a little time to think this over\?  
 **Yui:** Get ahold of yourself, Yui\. Remember the strongest Chinatown fantasy date plan you fantasized about over and over day after day\. Chinatown\.\.\. Chinatown\.\.\. When I think of an ideal date in Chinatown, it's gotta be\.\.\.  
 
-## [China - Yui: End]: A Practice Run\!\? Yui's Fantasy Chinatown Date\!
+## [China - Yui: End\]: A Practice Run\!\? Yui's Fantasy Chinatown Date\!
 **Yui:** Chinatown date\.\.\. Chinatown date\.\.\. When I think of situations for the Chinatown date I've been dreaming of, there's\.\.\.  
 **Yui:** That'll do\~\!\!\!\!\!  
 **Mihono:** You look like a lightbulb went off in your head, Yui\.  
@@ -221,7 +221,7 @@ Chinese Pandas Bringing Good Fortune
 **Yui:** Anyway, let's get back into it, and swap partners\! I'll need you to be play my girlfriend now, Tsugumi-san\!  
 **Tsugumi:** (Sigh, of course it would come to this\. Though, I was the one who asked what a date was to start, so I can't back out now, can I\.\.\.\)  
 **Tsugumi:** Understood\. Then, please go easy on me\.  
-**Yui:** Just leave that to me\! Anyway, let's start right off by holding hands\! [squeeze\~]\. Woww, Tsugumi-san, your hands are so soft and warm\~\!  
+**Yui:** Just leave that to me\! Anyway, let's start right off by holding hands\! [squeeze\~\]\. Woww, Tsugumi-san, your hands are so soft and warm\~\!  
 **Tsugumi:** Y-Yamashiro-san\! What are you doing\? You got too close all of a sudden\!  
 **Yui:** See, I remembered\. When you think of a date, it means the two of you are closer than friends\! That means, the two of us need to have a closeness deeper than friendship\.  
 **Tsugumi:** Deeper than friendship\.\.\. Is that so\.  

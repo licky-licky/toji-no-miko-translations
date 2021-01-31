@@ -49,7 +49,7 @@ Debug Mission Capriccio
 **Yume:** Ahaha, what's with this, it's crazy\! Isn't this weird-\! Can I really beat them up too\?  
 **Mirja:** Regardless of their appearance, they came to attack us, so we should eliminate them as enemies\. HAAAAAH\!  
 **Hiyori:** TAAAA-\!  
-**Hiyori:** [Pant, pant]\.\.\. I beat them all over here too, but\.\.\. Nobody said we'd fight something this ridiculous\!  
+**Hiyori:** [Pant, pant\]\.\.\. I beat them all over here too, but\.\.\. Nobody said we'd fight something this ridiculous\!  
 **Yomi:** Given how unexpected it is, it's highly likely this is a bug\. There may be many of them, but we'll need to defeat them quickly and report it back to the research lab\.  
 **Yomi:** HAAAAAH\!  
 **Maki:** Phew\. Looks like we've finally cleared them all out\. Good work everyone, handling one battle after another\.  
@@ -68,7 +68,7 @@ Debug Mission Capriccio
 **Tsugumi:** At any rate, it's certainly an unexpected bug\. Please tell me about it in greater detail\.  
 **Yume:** A whooole bunch of enemies who looked just like onee-san here came after us-\!  
 **Yomi:** This is just an estimation from what I saw, but there were at least around 500 of them\.  
-**Mirja:** No, speaking more precisely, there were 777 Shichinosato Kofukis\.		[There's a 7 in Shichinosato]  
+**Mirja:** No, speaking more precisely, there were 777 Shichinosato Kofukis\.		[There's a 7 in Shichinosato\]  
 **Kofuki:** Where'd you even pull a number that specific from\!  
 **Mirja:** I only confirmed it with my observational ability\.\.\.  
 **Tsugumi:** Measurements made with Kitora-san's kantougan\.\.\. That should be accurate then\.  
@@ -130,8 +130,8 @@ Debug Mission Capriccio
 **Yume:** I'll do all I can to save Maki-onee-san\! So I'm going\!  
 
 ## 4: Who's Behind All This\!\?
-**Maki:** Still more\.\.\. [pant\.\.\. pant\.\.\.] TAAAAAAAHH\!  
-**Hiyori:** [pant\.\.\. pant\.\.\.]  Alright, I can see the end of them\. This'll finish it-\! YAAAAAHH\!  
+**Maki:** Still more\.\.\. [pant\.\.\. pant\.\.\.\] TAAAAAAAHH\!  
+**Hiyori:** [pant\.\.\. pant\.\.\.\]  Alright, I can see the end of them\. This'll finish it-\! YAAAAAHH\!  
 **Yomi:** Shidou-san, Juujou-san\. Sorry to keep you waiting\.  
 **Maki:** You all came back in\!  
 **Yume:** Hey, Maki-onee-san, you're hurt\! Are you feeling okay\?  
@@ -219,7 +219,7 @@ Debug Mission Capriccio
 **Mirja:** That's right\. While it's a relief that the issue was safely resolved, it will take time to make the system ready for practical use\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/AuF8ZqOvA9Y"></iframe>](:Iframe)  
 
-## [VRS Equipment - Maki: Start]: Just to Be Sure
+## [VRS Equipment - Maki: Start\]: Just to Be Sure
 **Yume:** Found you, Maki-onee-san\!  
 **Maki:** Yume, what do you need\? I thought you had the day off today\.  
 **Yume:** Don't you have it off too, Maki-onee-san\? Hey hey-, since we have free time, don't you want to play a game together\?  
@@ -259,7 +259,7 @@ Debug Mission Capriccio
 **Maki:** \.\.\.No use\. She's not responding\. Ban Tsugumi said it was safe here, but it's still too dangerous to explore an unknown world on your own\.  
 **Maki:** I need to calm down and deal with the situation\. At times like this, you need to\.\.\.  
 
-## [VRS Equipment - Maki: End]: What Suits Me Best
+## [VRS Equipment - Maki: End\]: What Suits Me Best
 **Maki:** Heeey, Yume\! Where did you go\? Say something back\. Yume-\!  
 **Maki:** Hm, that sound\. The battle stage must be starting\. If I follow the enemies, maybe I'll join up with Yume\. I'll focus on the battle for now\.  
 **Maki:** If I remember right, the command to bring out the laser gun was\.\.\. Okay, I got it\. Now I just point it at the enemies on the opposite building\.\.\.  
@@ -300,8 +300,8 @@ Debug Mission Capriccio
 **Maki:** Right, sure thing\. By that time, I'll master my way around a laser gun\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Q19Fa9VDWgg"></iframe>](:Iframe)  
 
-## [VRS Equipment - Yume: Start]: Nothing to It but to Do It\!
-**Maki:** [mumble mumble mumble]\.\.\.   
+## [VRS Equipment - Yume: Start\]: Nothing to It but to Do It\!
+**Maki:** [mumble mumble mumble\]\.\.\.   
 **Yume:** Geez, Maki-onee-san, how long're you going to keep reading the instructions for\?   
 **Maki:** Just give me a bit more time, Yume\. I want to thoroughly drill myself on all the game commands, just in case a bug occurs in the game world\.  
 **Tsugumi:** Shidou-san, I understand why you might feel unsure of using cutting edge technology, but I can assure you, this VR game Kitora-san and I helped to develop is perfectly safe\. You have nothing to worry about\.  
@@ -334,7 +334,7 @@ Debug Mission Capriccio
 **Yume:** No way\! I'm falling\!\?  
 **Yume:** Uhh, when this happens, what was I supposed to do\? What do I do, Maki-onee-san\!\? I'm gonna fall all the way down\!  
 
-## [VRS Equipment - Yume: End]: Seriousness Pays Off
+## [VRS Equipment - Yume: End\]: Seriousness Pays Off
 **Maki:** Yume\! Are you okay\!\? Yume-\!\!  
 **Yume:** Wahhh, what should I do\! I'm falling all the way down---\!  
 **Yume:** Maki-onee-chan, save me-\!  

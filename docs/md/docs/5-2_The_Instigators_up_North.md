@@ -34,7 +34,7 @@
 **Chie:** If it's Makoto, I think it might be alright, but\.\.\.  
 **Mirja:** \.\.\.  
 **Mihono:** What's Hitakami-san like, Chii-nee\?  
-**Chie:** A yamato nadeshiko\. If I wanted to describe Makoto, there's no phrase that fits her better\. 	[Just look up yamato nadeshiko to see a list of adjectives, but it's essentially the epitome of traits that make up an ideal Japanese woman\.]  
+**Chie:** A yamato nadeshiko\. If I wanted to describe Makoto, there's no phrase that fits her better\. 	[Just look up yamato nadeshiko to see a list of adjectives, but it's essentially the epitome of traits that make up an ideal Japanese woman\.\]  
 **Chie:** She's gentle, and ladylike, and intelligent\.\.\. Though, she could be stubborn too\.  
 **Chie:** On top of that, she had real skill as a toji\.  
 **Mirja:** This toji, Hitakami Makoto, she didn't participate in the tournament, did she\?  
@@ -232,13 +232,13 @@ At that time--
 **Tsugumi:** That was quite the empowered strike\.\.\. It looked to be a high level of hachimanriki\.  
 **Kofuki:** Who gives a shit about levels and whatever right now\!\? Oi, Mihocchi\! What do you want me to do\!\?  
 **Mihono:** It's okay\.\.\. It's okay\.\.\. Letting some power out, I think it's calming down\.\.\.  
-**Mihono:** [pant, pant\.\.\.]  
+**Mihono:** [pant, pant\.\.\.\]  
 **Kofuki:** \.\.\.Did she get it under control\?  
 **Tsugumi:** \.\.\.It looks like she did\.  
 **Kofuki:** Mihocchi, can I come over to you now\?  
 **Mihono:** \.\.\.Yeah, it's fine\. I'm sorry, for making you worry\.  
 **Tsugumi:** Have some milk\.  
-**Mihono:** Thanks a lot\. [gulp gulp\.\.\.] Phew\.  
+**Mihono:** Thanks a lot\. [gulp gulp\.\.\.\] Phew\.  
 **Tsugumi:** Did it calm you down\? It's from Shichinosato-san's special stock, so I can vouch for the taste\.  
 **Kofuki:** Who said you could go take from that\! \.\.\.Well, it's fine this time, I guess\.  
 **Mihono:** Ahaha\. This is pretty tasty\.  
@@ -307,7 +307,7 @@ At that time--
 **Yuuki:** It's Makoto-onee-sama's family home\! It's so large it might surprise you\.  
 **Mihono:** Huh-\!  
 **Mihono:** -\! Akira-san, Yuuki\! There's something there\.\.\.  
-**\?\?\?:** GRRRRRR\.\.\.\!		[All other aradama use katakana for growls\. This one alternates between katakana and hiragana\.]  
+**\?\?\?:** GRRRRRR\.\.\.\!		[All other aradama use katakana for growls\. This one alternates between katakana and hiragana\.\]  
 **Mihono:** What is that\.\.\.\? An animal\.\.\. Or, an aradama\.\.\.\?  
 **Akira:** \.\.\.\!  
 **Akira:** Yuuki\. Take Mihono and go on ahead\.  
@@ -322,7 +322,7 @@ At that time--
 **Akira:** You've had your share of misfortune too\.\.\. I'm gonna have you quiet down for now\.  
 
 ## 7: To Tohoku (2\)
-**\?\?\?:** \.\.\.[whimper]\.\.\.  
+**\?\?\?:** \.\.\.[whimper\]\.\.\.  
 **Akira:** \.\.\.Sorry\.  
 **Akira:** Just gonna tie you to this tree while I can\.\.\. Alright\. I'll have somebody come pick you up\.  
 **Akira:** Damnit, if only Hirona was around\. There's hardly anybody we can count on here\.\.\.  

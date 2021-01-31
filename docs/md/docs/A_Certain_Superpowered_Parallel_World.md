@@ -494,7 +494,7 @@ After supressing the aradama--
 **Misaki:** Do your best, everyone\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/JHZISRWAzhM"></iframe>](:Iframe)  
 
-## [Railgun - Kanami: Start]: The Mysterious Use of the Remote
+## [Railgun - Kanami: Start\]: The Mysterious Use of the Remote
 One day, Kanami was having tea with Mikoto and the rest\.
 
   
@@ -506,7 +506,7 @@ One day, Kanami was having tea with Mikoto and the rest\.
 **Mikoto:** And also, I'm used to living here too\. You do a lot for us\. And just having to shoot aradama with electricity is easy for me\.  
 **Kanami:** I'm glad to hear it\. What about you, Shokuhou-san\? Is anything bothering you\?  
 **Misaki:** I'm doing just fine too\. It's pretty fresh, this lifestyle over heree\.  
---[clatter]
+--[clatter\]
 
   
 **Kanami:** Shokuhou-san, you dropped something just now\. \.\.\.Is this a remote\?  
@@ -531,7 +531,7 @@ One day, Kanami was having tea with Mikoto and the rest\.
 **Kuroko:** Anyone in Academy City, whether or not they were aware of the full details, would have heard of just what power a level 5 like Shokuhou Misaki has\.  
 **Kanami:** I guess that makes sense, since she has a strong power\. But still, what kind of power could it be\?  
 
-## [Railgun - Kanami: End]: It Could Be That Kind of Power\!
+## [Railgun - Kanami: End\]: It Could Be That Kind of Power\!
 **Yume:** A power that uses a TV remote, huh-\.  
 **Kanami:** Remotes turn things on and off and can change the channels, but does that have anything to do with it\?  
 **Yume:** Hmm\~\.\.\.  
@@ -572,7 +572,7 @@ One day, Kanami was having tea with Mikoto and the rest\.
 **Kanami:** But still, what's that remote for anyway\?  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UMDuFWf-sOc"></iframe>](:Iframe)  
 
-## [Railgun - Chie: Start]: Sightseeing Kamakura with Onee-san
+## [Railgun - Chie: Start\]: Sightseeing Kamakura with Onee-san
 **Ruiko:** I was thinking this seeing it up close, but, doesn't the Great Buddha of Kamakura seem kind of hunched over\?  
 **Chie:** Now that you mention it, it is, isn't it\. Maybe it's to make it easier for visitors to see his face\?  
 **Kazari:** Ah, that sounds like it could be the reason why\.  
@@ -601,7 +601,7 @@ One day, Kanami was having tea with Mikoto and the rest\.
 **Chie:** But the shops might be closing up for the day soon, so we should hurry\.  
 **Ruiko/Kazari:** Okaaay\~\.  
 
-## [Railgun - Chie: End]: Lets Make Lovely Flower Decorations with Onee-san
+## [Railgun - Chie: End\]: Lets Make Lovely Flower Decorations with Onee-san
 **Ruiko:** I want to do something to thank her, you know\? Not just for taking us around Kamakura yesterday, but for everything Setouchi-san's been doing for us\.  
 **Kazari:** Me too\. Though, I can't come up with any good ideas\.  
 **Chie:** Ah, do you two have some spare time right now\? There's something I'd like your help with\.  

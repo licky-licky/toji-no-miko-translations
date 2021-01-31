@@ -191,7 +191,7 @@ Inami Suu Episodes
 **Hokuto:** \.\.\.\.\.\.R-Right\.  
 **Hokuto:** (I can't see it as anything but a weird doll\.\.\. Is this what's cute\?\)  
 
-## [Suu Joins: Start]: How Many Can You Apply\?
+## [Suu Joins: Start\]: How Many Can You Apply\?
 **Hokuto:** By the way, Suu, how many times can you apply utsushi now\?  
 **Suu:** You want to know how many utsushis I can do\?  
 **Hokuto:** Yes, and whether it's gone up or not\.\.\. I'm curious\.  
@@ -226,7 +226,7 @@ Inami Suu Episodes
 **Hokuto:** We'll do whatever you want\. I'll go out with you\.  
 **Suu:** Huhhhhhhhhhhhhh\!\?  
 
-## [Suu Joins: End]: Date Then Match\!
+## [Suu Joins: End\]: Date Then Match\!
 **Suu:** Here, this way\! It's over here, Hokuto-san\! The ice cream here is so good\!  
 **Suu:** Here, say ahhh\!  
 **Hokuto:** Ahhh\.\.\.\? I can feed myself\.\.\. Oh, it's nice and not too sweet\.  
@@ -263,7 +263,7 @@ Inami Suu Episodes
 **Hokuto:** Then\.\.\. We'll keep going\! HAAAAAAAAA\!  
 **Suu:** KH-\!  
 **Hokuto:** This makes nine\!  
-**Suu:** ([pant pant] My utsushi is about at its limit\.\.\. I can't keep this up\!\)  
+**Suu:** ([pant pant\] My utsushi is about at its limit\.\.\. I can't keep this up\!\)  
 **Suu:** I can be\.\.\. I can be stronger\!  
 **Hokuto:** (Her fighting spirit is different from before\.\.\.\!\)  
 **Hokuto:** Come on then, Suu\!  
@@ -281,7 +281,7 @@ Inami Suu Episodes
 **Suu:** B-But I don't want that-\!\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ee9V9yy0uqk"></iframe>](:Iframe)  
 
-## [Pirate - Suu: Start]: After Eliminating the Aradama--
+## [Pirate - Suu: Start\]: After Eliminating the Aradama--
 **Aradama:** AAAAA\.\.\.  
 **Suu:** GYAH\! D-D-Don't come this way, aradama\!  
 **Suu:** I mean, Shichinosato-san\!\? Aradama\! There's an aradama\!\? Hurry up hurry up\!  
@@ -317,7 +317,7 @@ Inami Suu Episodes
 **Kofuki:** Oi\.\.\. Wait a sec\. She didn't even look at the map; where's she think she's going\?  
 **Hiyori:** \.\.\.Guess we should go after her\.  
 
-## [Pirate - Suu: End]: This Was Supposed to Be All Fun and Games\.\.\.\!
+## [Pirate - Suu: End\]: This Was Supposed to Be All Fun and Games\.\.\.\!
 **Hiyori:** So if we find\.\.\. a pendant from an ancient pirate treasure before time runs out, we win\?  
 **Suu:** Yes\. It looks like you also get points for stealing other team's maps, but getting a pendant is worth the most\.  
 **Kofuki:** Aghh\.\.\. Instead of treasure, could we get some aradama-chan in here\~\.  

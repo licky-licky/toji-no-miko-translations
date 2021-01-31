@@ -5,7 +5,7 @@ https://streamable.com/bnvyn8
 
   
 
-## [London - Kanami: Start]: I Want to Go on a Trip
+## [London - Kanami: Start\]: I Want to Go on a Trip
 **Kanami:** Hiyori-chan\!  
 **Hiyori:** Nn\? Oh, it's you, Kanami\.  
 **Kanami:** So you were on this assignment too, Hiyori-chan\.  
@@ -38,7 +38,7 @@ https://streamable.com/q8wc5e
 
   
 
-## [London - Kanami: End]: Stuff Like Holmes\.\.\.\?
+## [London - Kanami: End\]: Stuff Like Holmes\.\.\.\?
 **Kanami:** Phew, we somehow managed to jump across to this trolley, Hiyori-chan\.  
 **Hiyori:** Right\. The jewels we're after are on the inside\.  
 **Kanami:** Yeah\! But\.\.\. They're bound to have Scotland Yard's finest on security, so we'd better be careful\.  
@@ -73,7 +73,7 @@ https://streamable.com/apx74v
 
   
 
-## [Halloween '19 - Kanami: Start]: Starting Halloween with Sweet Pie
+## [Halloween '19 - Kanami: Start\]: Starting Halloween with Sweet Pie
 **Kanami:** Mmm, Mai-chan's pumpkin pie is so good\~\!  
 **Mai:** I'm glad you like it, Kanami-chan\.  
 **Kanami:** Did you bring this pie over to Sayaka-chan and them\? She said she was filming a movie with Kitora-san, right\?  
@@ -105,7 +105,7 @@ https://streamable.com/t8t9c5
 
   
 
-## [Halloween '19 - Kanami: End]: Dressing Up Might be Fun\!
+## [Halloween '19 - Kanami: End\]: Dressing Up Might be Fun\!
 **Kanami:** I can't wait to see what everyone's costumes are like\.  
 **Hiyori:** Come to think of it, what's everybody else dressing up as\? They said they had this and that\.  
 **Kanami:** Ellen-chan said she'd be dressing up like a wolf, didn't she\? Yui-chan, do you know\? For Kiyoka-chan and everybody\.  

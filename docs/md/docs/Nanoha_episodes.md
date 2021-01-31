@@ -5,7 +5,7 @@ https://pastebin.com/cVMRB6HY
 
   
 
-## [Mahou Shoujo - Kanami: Start]: Were You Going Easy\?
+## [Mahou Shoujo - Kanami: Start\]: Were You Going Easy\?
 **Sayaka:** Are you ready\?  
 **Kanami:** Sure, Sayaka-chan\.  
 **Fate:** I'm ready to go too, Sayaka-san\.  
@@ -21,8 +21,8 @@ https://pastebin.com/cVMRB6HY
 **Kanami:** I'll go at you next, Fate-chan\!  
 **Fate:** Okay\!  
 **Sayaka:** \.\.\.That's enough\.  
-**Fate:** [pant pant]\.\.\.  
-**Kanami:** [pant pant]\.\.\. Ahh\.  
+**Fate:** [pant pant\]\.\.\.  
+**Kanami:** [pant pant\]\.\.\. Ahh\.  
 **Kanami:** That was so fun, Fate-chan\!  
 **Fate:** You were smiling, Kanami-san\.  
 **Kanami:** Eh\?  
@@ -39,7 +39,7 @@ https://pastebin.com/cVMRB6HY
 **Fate:** \.\.\.I'd like to help out too\. Would that be a problem\?  
 **Kanami:** No, that'd be great\! Let's go, Sayaka-chan\! Fate-chan\!  
 
-## [Mahou Shoujo - Kanami: End]: Go Ahead
+## [Mahou Shoujo - Kanami: End\]: Go Ahead
 **Fate:** YAAAAAAAAAAAAA\!\!  
 **Kanami:** Let me finish it off\!\!  
 **Aradama:** GGII\.\.\.  
@@ -52,8 +52,8 @@ https://pastebin.com/cVMRB6HY
 **Kanami:** What sets Fate-chan apart is her speed, right\?  
 **Kanami:** So, if I could capture that with jin'i, I might be able to borrow what makes Fate-chan so good\.  
 **Sayaka:** You're right, Kanami\. I want to try learning from her too\.  
-**Sayaka:** [stare]\.\.\.  
-**Kanami:** [stare]\.\.\.  
+**Sayaka:** [stare\]\.\.\.  
+**Kanami:** [stare\]\.\.\.  
 **Fate:** Kanami-san\? Sayaka-san\?  
 **Fate:** We still haven't finished defeating all of them, so isn't it dangerous to be looking away from your opponent\?  
 **Kanami:** Y-Yeah, that's true\! Let's get focused, Sayaka-chan\!  
@@ -76,7 +76,7 @@ https://pastebin.com/cVMRB6HY
 **Fate:** \.\.\.Okay\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/x09jCgS9Qss"></iframe>](:Iframe)  
 
-## [Mahou Shoujo - Yomi: Start]: Similar to Someone
+## [Mahou Shoujo - Yomi: Start\]: Similar to Someone
 **Aradama:** OOOOOOOOOOOOOOOOO\!\!  
 **Yomi:** So they were here after all\.  
 **Nanoha:** I'll support you, Yomi-san\! Bind\!   
@@ -108,7 +108,7 @@ https://pastebin.com/cVMRB6HY
 **Nanoha:** Ah, please wait for me\!  
 **Nanoha:** (Hmm, but who was it though\?\)  
 
-## [Mahou Shoujo - Yomi: End]: Yomi and Nanoha
+## [Mahou Shoujo - Yomi: End\]: Yomi and Nanoha
 **Aradama:** Oooooo\.\.\.  
 **Yomi:** \.\.\.Phew\.  
 **Yomi:** That aradama seems to have been the last of them\. Thank you for accompanying me\.  
@@ -149,7 +149,7 @@ https://pastebin.com/cVMRB6HY
 **Nanoha:** Sure, Yomi-san\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/imReN1M24ss"></iframe>](:Iframe)  
 
-## [Mahou Shoujo - Tsugumi: Start]: Tsugumi-san Can Do Anything
+## [Mahou Shoujo - Tsugumi: Start\]: Tsugumi-san Can Do Anything
 **Announcement:** --An outbreak of aradama has been confirmed\. Please follow instructions from officials and evacuate immediately\.  
 **Announcement:** I repeat--  
 **Tsugumi:** Okay\.\.\. Alright, I see\. Thank you\.  
@@ -181,7 +181,7 @@ https://pastebin.com/cVMRB6HY
 **Tsugumi:** It wouldn't be good for us to be too leisurely and leave all the work to Tsubakuro-san and Harlaown-san\.  
 **Nanoha:** That's true\!  
 
-## [Mahou Shoujo - Tsugumi: End]: Tsugumi-san is Strange
+## [Mahou Shoujo - Tsugumi: End\]: Tsugumi-san is Strange
 **Aradama:** GYAOOOOOOOOOOOOO\!  
 **Nanoha:** Soul Shooter\!  
 **Aradama:** ooo\.\.\.  
@@ -218,7 +218,7 @@ https://pastebin.com/cVMRB6HY
 **Nanoha:** Right\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/0OSG6EeTdH8"></iframe>](:Iframe)  
 
-## [Mahou Shoujo - Yume: Start]: Let's Go Together\!
+## [Mahou Shoujo - Yume: Start\]: Let's Go Together\!
 **Yume:** Where'd she go\.\.\. Ah, there you are\! Fate-chan\!  
 **Fate:** Yume-san\?  
 **Yume:** Huh\? What're you doing with Maki-onee-san\?  
@@ -257,7 +257,7 @@ https://pastebin.com/cVMRB6HY
 **Tsugumi:** Tsubakuro-san is a toji too\. Please have faith in her\.  
 **Fate:** \.\.\.Okay\.  
 
-## [Mahou Shoujo - Yume: End]: It's Not Like That\!\?
+## [Mahou Shoujo - Yume: End\]: It's Not Like That\!\?
 **Aradama:** GUOOOOOOOOOOOOOO\!\!  
 **Yume:** YAAH\!  
 **Aradama:** Oooo\.\.\.  

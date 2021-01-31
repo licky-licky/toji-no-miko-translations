@@ -214,7 +214,7 @@ Yanase Mai Episodes
 **Mai:** \.\.\.I understand\. I'll try having a little more faith in myself\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/d4UPDxCWrUY"></iframe>](:Iframe)  
 
-## [Misogi- Mai: Start]: My First Shock
+## [Misogi- Mai: Start\]: My First Shock
 --After being accepted to Minoseki Academy\.
 
   
@@ -258,7 +258,7 @@ Yanase Mai Episodes
 **Friend B:** You say that, but isn't the truth that you just wound up having a crush on her\?  
 **Mai:** I do not\!\! Don't go making assumptions like that\!\!  
 
-## [Misogi- Mai: End]: The Name of This Feeling is Admiration
+## [Misogi- Mai: End\]: The Name of This Feeling is Admiration
 **Friend A:** Eh, Mai\.\.\.\?  
 **Mai:** I-I'm sorry\! There's something the teacher asked me to take care of\!  
 **Kanami:** \.\.\.  
@@ -298,7 +298,7 @@ Yanase Mai Episodes
 **Mai:** Mmhm\! Let's all work hard enough that we won't lose to Kanami-chan\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/aNyvrlT3j5M"></iframe>](:Iframe)  
 
-## [Dress - Mai: Start]: Nene's Madness
+## [Dress - Mai: Start\]: Nene's Madness
 **Kaoru:** Gulp, gulp, gulp\.\.\. Phwaa\! Gimme another glass of grape juice\!  
 **Nene:** Ne-\!  
 **Mai:** Kaoru-chan, I think you've had enough grape juice\.\.\.  
@@ -330,7 +330,7 @@ Yanase Mai Episodes
 **Nene:** Ne\!  
 **Kaoru:** Stop it, Nene\! That's my meat\!  
 
-## [Dress - Mai: End]: Dress Close Call
+## [Dress - Mai: End\]: Dress Close Call
 **Kaoru:** Hey\! Gimme my meat back\!  
 **Nene:** Ne-\?  
 **Mai:** K-Kaoru-chan, it's not that important\.\.\.  
@@ -364,7 +364,7 @@ Yanase Mai Episodes
 **Nene:** Ne\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/VNAKMkkvBJE"></iframe>](:Iframe)  
 
-## [Marching - Mai: Start]: Minoseki's Marching Band
+## [Marching - Mai: Start\]: Minoseki's Marching Band
 **Mai:** Excuse me\.  
 **Ema:** I've been waiting to see you, Yanase-san\.  
 **Ema:** Actually, we've gotten a request for the Minoseki Academy's toji to perform in a marching band\.  
@@ -412,7 +412,7 @@ Yanase Mai Episodes
 **Kanami:** I had a feeling you'd say something like that\! I'll go with you\.  
 **Mihono:** Okay\!  
 
-## [Marching - Mai: End]: What They Saw
+## [Marching - Mai: End\]: What They Saw
 At the marching band's main performance\.
 
   
@@ -449,7 +449,7 @@ At the marching band's main performance\.
 **Mai:** You did, Kanami-chan\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/fx9_2ljRfcY"></iframe>](:Iframe)  
 
-## [Swimsuit 20 - Mai: Start]: Am I Being\.\.\. A Bit Overly Helpful\?
+## [Swimsuit 20 - Mai: Start\]: Am I Being\.\.\. A Bit Overly Helpful\?
 **Mai:** Sayaka-chan\. Are you getting things ready for tomorrow\? If you'd like, I can help you\?  
 **Sayaka:** I got ready yesterday\. I put what I needed in my bag, just in case\.  
 **Mai:** Sayaka-chan, that's great\!  
@@ -484,7 +484,7 @@ At the marching band's main performance\.
 **Mai:** That's fine\. I'll give you a call\. And, if that doesn't wake you up, I'll come get you up myself\.  
 **Sayaka:** Please do that\. Thanks\.  
 
-## [Swimsuit 20 - Mai: End]: Swim Ring Tubing\!
+## [Swimsuit 20 - Mai: End\]: Swim Ring Tubing\!
 **Mihono:** That was good-\. Why is it that meat tastes so much better eating under a big blue sky\?  
 **Mihono:** Ah, and of course, the yakisoba you and Mai made was really yummy too, Chii-nee\!  
 **Chie:** I'm glad you liked it\. Ah, Mihono-chan\. If you want to go play, you have to wait a little after you eat, alright\?  
@@ -519,7 +519,7 @@ At the marching band's main performance\.
 **Mai:** Besides, I had a lot of fun doing it too\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Vh6dekDJVps"></iframe>](:Iframe)  
 
-## [Stage Girl - Mai: Start]: Two Triangles
+## [Stage Girl - Mai: Start\]: Two Triangles
 **Kanami:** I can't wait to spar with all these stage girls\! If I pass this up, I'll never get another chance like it\.  
 **Kanami:** Honestly, ever since we came here and I saw them fighting aradama, I've wanted to spar with them-\.  
 **Mai:** You said the same thing back when you first saw Hiyori-chan at the tournament, didn't you, Kanami-chan\.  
@@ -570,7 +570,7 @@ At the marching band's main performance\.
 **Mai:** Here I come\!  
 **Mahiru:** Ah, but I would appreciate it if you'd go a little easy on me after all\.  
 
-## [Stage Girl - Mai: End]: I Love Seeing You Shine Even More
+## [Stage Girl - Mai: End\]: I Love Seeing You Shine Even More
 **Mahiru:** Phew\.\.\. I worked up a good sweat\.  
 **Mahiru:** How was that\? I hope it was helpful getting to see it up close at least\.  
 **Mai:** It was\. Though, I don't know if I'll be able to put it into practice straight away\.  

@@ -150,13 +150,13 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** Fufu\.\.\. I guess not\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UrOq6F25WZg"></iframe>](:Iframe)  
 
-## [Swimsuit 19: Start]: Shirie
+## [Swimsuit 19: Start\]: Shirie
 **Kofuki:** You've got a fat ass too, huh, Chichie\.  
 **Chie:** \.\.\.\.\.\.  
 **Chie:** I'm sorry, Kofuki-chan\. I didn't quite hear you just now\.  
 **Chie:** Do you think you could say that again\?  
 **Kofuki:** I said your ass is fat too, Chichie\.  
-**Kofuki:** Is that what they call childbearing hips\? What'd you eat to get it that fat, Shirie\? 	[Much like chichi means tits, shiri means ass]  
+**Kofuki:** Is that what they call childbearing hips\? What'd you eat to get it that fat, Shirie\? 	[Much like chichi means tits, shiri means ass\]  
 **Chie:** Kofuki-chan\!\!  
 **Kofuki:** What're you getting mad for\!\? I was just making a simple observation\!\!  
 **Chie:** This is one of those things you should keep to yourself\!  
@@ -182,7 +182,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** There we go\.  
 **Chie:** \.\.\.Hmm\? I felt something strange at my waist\.\.\.  
 
-## [Swimsuit 19: End]: Don't Make Others Angry
+## [Swimsuit 19: End\]: Don't Make Others Angry
 **Kofuki:** Crap, she noticed\!  
 **Chie:** \.\.\.\.\.\.Kofuki-chan\?  
 **Chie:** What are you doing there\?  
@@ -212,7 +212,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Kofuki:** (I'll just stick to messing with her tits from now on\.\.\.\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ECgV1cc_IOw"></iframe>](:Iframe)  
 
-## [Misogi - Chie: Start] The Torn Ribbon
+## [Misogi - Chie: Start\] The Torn Ribbon
 **Aradama:** KEEEEEEEEE\!  
 **Chie:** HAAAAAA\!  
 **Mihono:** Alriiight\! There's no more aradama around, so I think we're probably done here now\!  
@@ -247,7 +247,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** But, I do have other ribbons too\.\.\. Sorry\.  
 **Kiyoka:** Even if you have more, that's still fine\! On the next day we have off, let's go buy one together\!  
 
-## [Misogi - Chie: End]: Growing Treasures
+## [Misogi - Chie: End\]: Growing Treasures
 **Kiyoka:** Chie-san, how about this ribbon\? I think it would look good on you\.\.\.  
 **Chie:** I do think it's fine, but\.\.\. Don't you think it's a little too cute for me\?  
 **Kofuki:** How about this one then\? This one's not cute, which is perfect for you\.  
@@ -288,7 +288,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** The ribbon I got from the others\.\.\. And this ribbon too, and the torn ribbon as well\.\.\. These are all my treasures\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UMDuFWf-sOc"></iframe>](:Iframe)  
 
-## [Railgun - Chie: Start]: Sightseeing Kamakura with Onee-san
+## [Railgun - Chie: Start\]: Sightseeing Kamakura with Onee-san
 **Ruiko:** I was thinking this seeing it up close, but, doesn't the Great Buddha of Kamakura seem kind of hunched over\?  
 **Chie:** Now that you mention it, it is, isn't it\. Maybe it's to make it easier for visitors to see his face\?  
 **Kazari:** Ah, that sounds like it could be the reason why\.  
@@ -317,7 +317,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** But the shops might be closing up for the day soon, so we should hurry\.  
 **Ruiko/Kazari:** Okaaay\~\.  
 
-## [Railgun - Chie: End]: Lets Make Lovely Flower Decorations with Onee-san
+## [Railgun - Chie: End\]: Lets Make Lovely Flower Decorations with Onee-san
 **Ruiko:** I want to do something to thank her, you know\? Not just for taking us around Kamakura yesterday, but for everything Setouchi-san's been doing for us\.  
 **Kazari:** Me too\. Though, I can't come up with any good ideas\.  
 **Chie:** Ah, do you two have some spare time right now\? There's something I'd like your help with\.  
@@ -354,7 +354,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Kazari:** Sure\~\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/FpDzSMNFIXE"></iframe>](:Iframe)  
 
-## [Dress - Chie: Start]: Taking a Breather
+## [Dress - Chie: Start\]: Taking a Breather
 **Chie:** Nnn\.\.\.\! They're finally done drawing raffle tickets-\. I can take a break at last\.  
 **Chie:** I wonder if there's any food left\?  
 **Ellen:** Thanks for helping out, Chie\!  
@@ -386,7 +386,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** The cream's so fluffy\.\.\. I feel like I could just keep on eating these\.  
 **Ellen:** Yes\! It's like it melts in your mouth\!  
 
-## [Dress - Chie: End]: Because I'm Her Onee-san
+## [Dress - Chie: End\]: Because I'm Her Onee-san
 **Chie:** Phew\.\.\. I think I overate a tad\.  
 **Mihono:** Heyyy\! Chii-nee\!  
 **Chie:** Mihono-chan, and\.\.\. Etou-san\? Is something wrong\?  
@@ -421,7 +421,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** Of course\. After all, I am her onee-san\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/-FnEpWyIfT4"></iframe>](:Iframe)  
 
-## [Nurse - Chie: Start]: I'm Worried After All
+## [Nurse - Chie: Start\]: I'm Worried After All
 **Mihono:** You're going to be in a practical exercise for medical courses\?  
 **Chie:** That's right\. It's part of a lecture I took that sounded interesting\. Which is why I won't be there for the investigation team on the day of the exercise\.  
 **Mirja:** I understand\.  
@@ -454,7 +454,7 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** Mirja, I'm sure it won't be easy on you, but do your best looking after them\.  
 **Mirja:** \.\.\.I know, I will\.  
 
-## [Nurse - Chie: End]: It's Alright
+## [Nurse - Chie: End\]: It's Alright
 **Sakura:** \.\.\.I'm Hamatsuka Sakura, from the medical department\. I'm glad to be working with you today\.  
 **Chie:** And I am too, Hamatsuka-san\. I'm Setouchi Chie\.  
 **Chie:** It's nice to meet you\.\.\. Though, this isn't the first time we've met, is it\?  

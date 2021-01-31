@@ -21,7 +21,7 @@
 **Fuu:** That's our udon alright\! So then, let's start by having some Sanuki udon\!  
 **Yomi:** I've procured enough udon for all of you from a local shop famous for their Sanuki udon\. Here you are\.  
 **Heroes:** Let's give it a try-\!  
-**Fuu:** [slurrrp]\.\.\.\!\? It's\.\.\.  
+**Fuu:** [slurrrp\]\.\.\.\!\? It's\.\.\.  
 **Karin:** It's good, but\.\.\. Something's different, isn't it\?  
 **Sonoko:** I think it doesn't have enough body to it\~\?  
 **Yomi:** I think the udon here is plenty delicious, though it may have lost some flavor compared to what you might find in its place of origin\.  
@@ -36,7 +36,7 @@
 **Tougou:** You shouldn't be so imposing, Sonocchi\. We can't go all the way to Akita and Gunma only to eat some udon\.  
 **Yomi:** We are working on a strict schedule, but that wouldn't be so unreasonable\.  
 **Yomi:** If tomorrow would be fine with you, do you want to go\?  
-**Fuu:** [SLURRRRRP]\! Please take us, Satsuki-san\! Tomorrow, the Hero Club sets out on their udon journey\!  
+**Fuu:** [SLURRRRRP\]\! Please take us, Satsuki-san\! Tomorrow, the Hero Club sets out on their udon journey\!  
 **Fuu:** Anyway, we'll have to stock up on energy\! Let's get seconds\!  
 **Itsuki:** Onee-chan, that's your third\.\.\.  
 The next day, the Heroes and the toji gathered before the break of dawn\.
@@ -47,7 +47,7 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Tougou:** If anyone wants any, here you are\.  
 **Sonoko:** I do I do\~\.  
 **Ellen:** Oh\! Is it alright for me to have some botamochi too\?  
-**Ellen:** [chew chew]\.\.\. Mmm, it's delicious\!  
+**Ellen:** [chew chew\]\.\.\. Mmm, it's delicious\!  
 **Tougou:** That golden colored hair, those blue eyes, and\.\.\. That well pronounced English\! Are you perhaps a \"westerner\"\!\?  
 **Ellen:** My mama is American\. I'm Kohagura Ellen, a first year at Osafune Girls' Academy\!  
 **Ellen:** I wanted to spend some time with you Heroes, so I'm tagging along on the udon tour\! Let's have some fun today\!  
@@ -116,19 +116,19 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Ellen:** It's delicious\!  
 **Karin:** This sesame sauce pairs with it pretty well too\.  
 **Itsuki:** Yes\! It tastes very good\!  
-**Fuu:** [slurrrp]-\! These cold noodles go down easy after all the exercise we just did\!  
+**Fuu:** [slurrrp\]-\! These cold noodles go down easy after all the exercise we just did\!  
 **Fuu:** I'll have another\!  
-**Fuu:** [slurrrp]-\!  
+**Fuu:** [slurrrp\]-\!  
 **Fuu:** With the way the taste changes, between this slightly sweet sesame sauce and the soy sauce, I feel like I could eat as many bowls as they put in front of me\!  
 **Fuu:** I'll have another\!  
-**Fuu:** [slurrrp]-\!  
+**Fuu:** [slurrrp\]-\!  
 **Fuu:** Good thing they have this tempura here as a palate cleanser\! It helps reset the appetite\!  
 **Fuu:** I'll have another\!  
 **Fuu:** I'll have another\!  
 **Hiyori:** Y-You're going to keep on eating\.\.\.\? Where are the noodles disappearing to\?  
 **Ellen:** Maybe they're being converted into hero energy\?  
 **Ellen:** Either way, she has such a healthy appetite\! She's a big eating fighter\!   
-**Fuu:** [slurrrp]-\! Another\!  
+**Fuu:** [slurrrp\]-\! Another\!  
 **Itsuki:** I'm sorry about her, Onee-chan is just\.\.\.  
 
 ## 3: Akita: The Supreme Inaniwa Udon
@@ -200,7 +200,7 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Ellen:** It is the source of their power, after all\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Vm_3KVXqxvE"></iframe>](:Iframe)  
 
-## [Yuusha 2: Hiyori: Start]: Toji and Heroes-- The Stoic Pair
+## [Yuusha 2: Hiyori: Start\]: Toji and Heroes-- The Stoic Pair
 **Sonoko:** We'll see you off from here\~\.  
 **Kanami:** Hiyori-chan, I know your aradama mission with Karin-chan will be a bit of a long trip, but do what you can\.  
 **Hiyori:** Sure, you don't have to worry\.  
@@ -238,7 +238,7 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Karin:** I-Isn't that just normal\.\.\.\? That kind of attitude\. All of you too, if you came to our world and had the strength to fight our enemies, you'd do it, wouldn't you\?  
 **Hiyori:** That's true\. I'd hope so\.  
 
-## [Yuusha 2: Hiyori: End]: Niboshi and Chocolate Mint
+## [Yuusha 2: Hiyori: End\]: Niboshi and Chocolate Mint
 **Karin:** TORYAAA-\! --HAAH\!  
 **Aradama:** AAAAaaaa\.\.\.  
 **Karin:** Now, Hiyori\!  
@@ -247,14 +247,14 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Hiyori:** Judging from the report, there should be a few more of them, but we don't seem likely to make contact with any more around here\.  
 **Hiyori:** Why don't we move positions some while keeping on the alert\.  
 **Karin:** Alright\. We should rehydrate now, while we have the opportunity\.  
-**Hiyori:** Good idea\. [gulp gulp]\.\.\.  
+**Hiyori:** Good idea\. [gulp gulp\]\.\.\.  
 **Karin:** I'll take some supplements too\.\.\.  
 **Hiyori:** \!\?  
 **Hiyori:** (Just how many does she have\!\?\)  
 **Hiyori:** \.\.\.Hey, why are you taking so many supplements\?  
 **Karin:** It's a part of keeping my body in healthy condition, of course\. If I were getting sick often, I wouldn't be able to function as a Hero\.  
 **Hiyori:** You have a point, but can't you get the nutrition you need from proper meals\?  
-**Karin:** \.\.\.I do eat proper meals too, whenever possible\. [crunch crunch]\.\.\.  
+**Karin:** \.\.\.I do eat proper meals too, whenever possible\. [crunch crunch\]\.\.\.  
 **Hiyori:** \.\.\.And after supplements, you pull out niboshi\.  
 **Karin:** You see, niboshi doesn't just give you calcium, but also a whole host of vitamins, DPA, and EHA\.  
 **Karin:** And, since all the varieties of niboshi means you'll never get tired of it, it wouldn't be unreasonable to call it the perfect food\.  
@@ -262,7 +262,7 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Karin:** Sonoko's the only one who calls me that, okay\.\.\.\!  
 **Karin:** Here, do you want some too\?  
 **Hiyori:** I guess I'll have some\. Prioritizing your health is just as important for a toji\.  
-**Hiyori:** [crunch crunch]\.\.\. These are good\.  
+**Hiyori:** [crunch crunch\]\.\.\. These are good\.  
 **Karin:** Aren't they\? I'm glad I got paired with someone who can understand the quality of niboshi\.  
 **Hiyori:** I do like Japanese foods\. I eat niboshi too, from time to time\.  
 **Karin:** What's your favorite food, Hiyori\?  
@@ -290,7 +290,7 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Karin:** Hey\.\.\. They aren't all chocolate mint, are they\?  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/H9uezyeVchU"></iframe>](:Iframe)  
 
-## [Yuusha 2: Kiyoka: Start]: To Boost Up Our Girl Power\!
+## [Yuusha 2: Kiyoka: Start\]: To Boost Up Our Girl Power\!
 **Kiyoka:** This time, the two of us will be suppressing aradama as a pair\. You might not be able to rely on me for much\.\.\. But I look forward to working with you\.  
 **Fuu:** That's not true at all\. I'll be counting on you, Kiyoka\.  
 **Kiyoka:** \.\.\.\.\.\.  
@@ -330,7 +330,7 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Kiyoka:** Okay\!  
 **Itsuki:** Th-They'll be fine\.\.\. Probably\?  
 
-## [Yuusha 2: Kiyoka: End]: The Key to Raising One's Girl Power is\.\.\.
+## [Yuusha 2: Kiyoka: End\]: The Key to Raising One's Girl Power is\.\.\.
 **Tougou:** Hey, Itsuki-chan\? We just ate a little while ago, so why are Fuu-senpai and Kiyoka-chan sitting in front of bowls of udon\?  
 **Itsuki:** That's because\.\.\.  
 **Fuu:** There's lots of things that can boost your girl power, like practicing cooking and stuff, but the most effective method is udon\!  
@@ -342,10 +342,10 @@ The next day, the Heroes and the toji gathered before the break of dawn\.
 **Kiyoka:** Udon is loved on that kind of level in the world you came from\!\?  
 **Fuu:** Sure; udon is at the very tip top of gourmet food\. Come on, while it's still hot\!  
 **Kiyoka:** I-I'll give it a try\.\.\.\!  
-**Fuu:** [chew chew]\.\.\. Even in this world, udon's still the best\! \.\.\.It's filling me up\!  
+**Fuu:** [chew chew\]\.\.\. Even in this world, udon's still the best\! \.\.\.It's filling me up\!  
 **Kiyoka:** Yes\.\.\. It's very tasty, isn't it\!  
 **Fuu:** I think I'll just keep going on into seconds\.\.\.\?  
-**Kiyoka:** [chew chew]\.\.\. A-Already\!\? I-I have to\.\.\. try harder too-\!  
+**Kiyoka:** [chew chew\]\.\.\. A-Already\!\? I-I have to\.\.\. try harder too-\!  
 **Tougou:** Ahh\.\.\. You can't do that, Kiyoka-chan\. If you try to have as many helpings as Fuu-senpai\.\.\.  
 **Fuu:** Thank you for coming along to the Inubouzaki Fuu-style Girl Power Boosting Special Training\.  
 **Kiyoka:** I'm sorry, but\.\.\. Fuu-san\? We ate udon and then exercised together, but I don't feel like I've gotten any more girl power yet\.\.\.  

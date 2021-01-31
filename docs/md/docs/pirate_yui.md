@@ -5,7 +5,7 @@ https://streamable.com/xn6i7s
 
   
 
-## [Pirate - Yui: Start]: After the Mission, We're Pirates\!
+## [Pirate - Yui: Start\]: After the Mission, We're Pirates\!
 **Aradama:** GGGII\.\.\.\!  
 **Ellen:** --YAAH\!  
 **Yui:** Great work as always, Ellen-san\! You look so cool swinging your okatana around; I can't keep my eyes off you\~\.  
@@ -46,7 +46,7 @@ https://streamable.com/4wmjuf
 
   
 
-## [Pirate - Yui: Start]: Captain Yui's Treasures
+## [Pirate - Yui: Start\]: Captain Yui's Treasures
 **Yui:** Welcome to my band of pirates, Ellen-san, Kiyoka-chan\! We're going to find the treasure for sure\!  
 **Ellen:** Aye aye sir\! Captain Yui\! We'll have the treasure in our hands\!  
 **Kiyoka:** You're really getting into this, Ellen-san\!\?  

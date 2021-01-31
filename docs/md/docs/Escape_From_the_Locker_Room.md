@@ -84,7 +84,7 @@ Escape From the Locker Room
 **Hiyori:** It doesn't seem like there's anything in the locker room we can use\.\.\. Maybe our best bet is just to sit tight and wait for help to get here\.  
 **Mirja:** Considering our situation, it would be wise to preserve our stamina as best as possible\.  
 **Mirja:** Though, there's little we can do besides stay still and avoid the areas where sunlight shines in\.  
-**Mai:** [gulp gulp]\.\.\. Phew\. The water is pretty warm at this point, but, if you drink some, you'll feel better\.  
+**Mai:** [gulp gulp\]\.\.\. Phew\. The water is pretty warm at this point, but, if you drink some, you'll feel better\.  
 **Mai:** We don't have that much left, though you shouldn't push yourselves too hard, so don't hold back if you need it\.  
 **Kanami:** Okay\. And also, Mai-chan, could I have some cookies too\?  
 **Mai:** \.\.\.I think your throat would feel dry after eating them, but, so long as you don't mind that\.  
@@ -107,7 +107,7 @@ Escape From the Locker Room
 **Kanami:** Do you want a drink too, Hiyori-chan\?  
 **Hiyori:** \.\.\.Sure\. I'll have just a few sips\.  
 **Kanami:** I never thought I'd be this grateful for some water, huh-\.  
-**Hiyori:** [gulp gulp]\.\.\. It's not something you'd normally pay attention to\.  
+**Hiyori:** [gulp gulp\]\.\.\. It's not something you'd normally pay attention to\.  
 **Hiyori:** \.\.\.\.\.\.  
 **Mai:** \.\.\.\.\.\.  
 **Kanami:** Let's keep this up and pull through\! I'm sure we only have to wait a little bit longer\!  
@@ -149,7 +149,7 @@ Escape From the Locker Room
 **Kofuki:** \.\.\.Wait, what're you all looking like that for\!\? Well, I guess if it's this hot, what else can you do\.  
 **Kofuki:** We brought you stuff to drink\. You'd better be grateful\!  
 **Mirja:** We're in your debt\.\.\. Shichinosato Kofuki, Itomi Sayaka\.  
-**Akira:** [gulp gulp gulp]\.\.\. Ahh\. Who'd have thought some ice cold water'd be this tasty\. Seriously\.\.\. You saved our asses\.  
+**Akira:** [gulp gulp gulp\]\.\.\. Ahh\. Who'd have thought some ice cold water'd be this tasty\. Seriously\.\.\. You saved our asses\.  
 **Sayaka:** Kanami and everyone else, you should drink too\.  
 **Kanami:** Sure\!  
 **Hiyori:** We were right at our limit\.\.\.  
@@ -247,7 +247,7 @@ https://streamable.com/sut446
 
   
 
-## [Swimsuit 20 - Mirja: Start]: Stroll
+## [Swimsuit 20 - Mirja: Start\]: Stroll
 On a day off\.\.\.
 
   
@@ -284,7 +284,7 @@ https://streamable.com/sig5hu
 
   
 
-## [Swimsuit 20 - Mirja: End]: A Short Rest
+## [Swimsuit 20 - Mirja: End\]: A Short Rest
 **Yui:** YAHOOO-\!  
 **Yui:** Phew\.\.\. This feels so good\.\.\.  
 **Yui:** Mirja-saaan\! Hurry up and come in the river\!  

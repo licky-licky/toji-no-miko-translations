@@ -3,7 +3,7 @@ misogi chie
 ===========
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ECgV1cc_IOw"></iframe>](:Iframe)  
 
-## [Misogi - Chie: Start] The Torn Ribbon
+## [Misogi - Chie: Start\] The Torn Ribbon
 **Aradama:** KEEEEEEEEE\!  
 **Chie:** HAAAAAA\!  
 **Mihono:** Alriiight\! There's no more aradama around, so I think we're probably done here now\!  
@@ -38,7 +38,7 @@ misogi chie
 **Chie:** But, I do have other ribbons too\.\.\. Sorry\.  
 **Kiyoka:** Even if you have more, that's still fine\! On the next day we have off, let's go buy one together\!  
 
-## [Misogi - Chie: End]: Growing Treasures
+## [Misogi - Chie: End\]: Growing Treasures
 **Kiyoka:** Chie-san, how about this ribbon\? I think it would look good on you\.\.\.  
 **Chie:** I do think it's fine, but\.\.\. Don't you think it's a little too cute for me\?  
 **Kofuki:** How about this one then\? This one's not cute, which is perfect for you\.  

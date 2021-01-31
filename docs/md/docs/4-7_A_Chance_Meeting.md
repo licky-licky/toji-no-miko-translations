@@ -65,7 +65,7 @@ As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 **Kanami:** \.\.\.I knew you did\.  
 **Kanami:** YAH\!  
 **Tagitsu:** Nn\.\.\.\!\?  
-**Kanami:** In Shinkage-ryu, a thrust is considered a dead sword\. There's nothing beyond that; this is my final strike\.		[Thrusting is considering a \"dead sword\" because of its lack of concern for what comes after\. It leaves you open and unable to respond\. Kanami calls it her final strike to show her determination that, whatever comes after, she's resolved to accept it\.]  
+**Kanami:** In Shinkage-ryu, a thrust is considered a dead sword\. There's nothing beyond that; this is my final strike\.		[Thrusting is considering a \"dead sword\" because of its lack of concern for what comes after\. It leaves you open and unable to respond\. Kanami calls it her final strike to show her determination that, whatever comes after, she's resolved to accept it\.\]  
 **Kanami:** I can't give you everything\. Neither can Hiyori-chan\. But in exchange, you can have half my life\.  
 **Hiyori:** Kanami\!\?  
 **Kanami:** I promised, didn't I\? That I'd take half of it\.  
@@ -143,7 +143,7 @@ As Etou Kanami met with Fujiwara Minato, Juujou Hiyori was--
 **Friedman:** The passport to the outside world originally belonged to them\.  
 **Friedman:** Could we not be good neighbors to them, who have no other place to go\?  
 **Ellen:** If they saw Kaoru and Nene, they'd realize\. I'm sure we can come to understand each other\!  
-**Kaoru:** [snooze]\.\.\.\.\.\.  
+**Kaoru:** [snooze\]\.\.\.\.\.\.  
 **Nene:** Ne-\.\.\.  
 **Sana:** Damnit, Kaoru-\! Where're you slacking off now\!\?  
 **Kaoru:** Ahh\.\.\. I'm in the middle of an afternoon nap-- No, that's not it\. I'm in the middle of guard duty\.  

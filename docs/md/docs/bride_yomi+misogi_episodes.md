@@ -5,7 +5,7 @@ https://streamable.com/wuht4
 
   
 
-## [Bride Yomi: Start]: Undercover Investigation (Yomi's Case\)
+## [Bride Yomi: Start\]: Undercover Investigation (Yomi's Case\)
 **Yomi:** There was another person who had their ring stolen by aradama\?  
 **Chapel Staff:** Yes\.\.\.  
 **Yume:** I get it\.\.\. That means we've got a thief to catch, Yomi-onee-san\!  
@@ -39,7 +39,7 @@ https://streamable.com/rzqc4
 
   
 
-## [Bride Yomi: End]: Please Don't Look
+## [Bride Yomi: End\]: Please Don't Look
 **Yume:** Is she ready yet-, is Yomi-onee-san ready yet-\?  
 **Yomi:** \.\.\.Sorry for taking so long\.  
 **Yume:** Ah, I've been waiting forever, Yomi-on--  
@@ -81,7 +81,7 @@ https://streamable.com/5iebk
 
   
 
-## [Ceremonial Dress - Misogi: Start]: Yomi's Weak Point
+## [Ceremonial Dress - Misogi: Start\]: Yomi's Weak Point
 **Tsugumi:** Are you ready to start\?  
 **Yomi:** I am ready at any time\.\.\. Let's begin disposing of the aradama\.  
 **Aradama:** GAAAAAAA\!\!  
@@ -125,7 +125,7 @@ https://streamable.com/jwnn0
 
   
 
-## [Ceremonial Dress - Misogi: End]: To One Day Repay Her
+## [Ceremonial Dress - Misogi: End\]: To One Day Repay Her
 **Yomi:** It happened when I was in elementary school\.\.\. I was involved in an aradama incident\.  
 **Yume:** Was it something like\.\.\. The aradama back then was the same kind as the one at the lab\?  
 **Yomi:** \.\.\.How did you know that\?  
@@ -183,7 +183,7 @@ https://streamable.com/jwnn0
 **Bull Type Aradama:** OOUUUUUUU\!\!  
 **Yume:** Yomi-onee-san\!\?  
 **Yomi:** (If I lose focus, I could be crushed\.\.\. However, as I am now, I can stop these attacks\.\.\.\)  
-**Yomi:** [Inhale\.\.\. Exhale\.\.\.]  
+**Yomi:** [Inhale\.\.\. Exhale\.\.\.\]  
 **Yomi:** \.\.\.HAA\!  
 **Bull Type Aradama:** GYAAAAAOOOOOO\!\!  
 **Yume:** You did it-\! See, it went just like I said it would, right\?  
@@ -195,7 +195,7 @@ https://streamable.com/hj6lm
 
   
 
-## [Ceremonial Dress - Misogi: Start]: Isolation
+## [Ceremonial Dress - Misogi: Start\]: Isolation
 **Hiyori:** (When did this start, I wonder\? When I became conscious of my loneliness\.\)  
 **Hiyori:** (At the very least, I didn't used to be like this\. Because, back then, all I could ever think of was getting stronger\.\)  
 **Hiyori:** To take the duty my mother left behind into my own hands\.\.\.  
@@ -226,7 +226,7 @@ https://streamable.com/hj6lm
 **Hiyori:** I can keep going\.\.\.\! I'm not done here yet\.\.\.\!  
 **Hiyori:** (That's right\.\.\. Until I met Kanami and the others, and began spending time with them\.\.\.\)  
 
-## [Ceremonial Dress - Misogi: End]: Growth
+## [Ceremonial Dress - Misogi: End\]: Growth
 **Hiyori:** (It was after I met Kanami and the others that, before I knew it, it had become unusual for me to be alone\.\)  
 **Hiyori:** (So is that the reason\? Why, when I'm by myself, I started feeling my loneliness\.\)  
 **Hiyori:** (After feeling that, I wanted to ask myself\.\)  
@@ -269,7 +269,7 @@ https://streamable.com/kyahp
 
   
 
-## [Ceremonial Dress - Misogi: Start]: Master's Teachings
+## [Ceremonial Dress - Misogi: Start\]: Master's Teachings
 --A while before the tournament took place\.
 
   
@@ -317,7 +317,7 @@ https://streamable.com/kq33o
 
   
 
-## [Ceremonial Dress - Misogi: End]: The Essentials of Swordsmanship
+## [Ceremonial Dress - Misogi: End\]: The Essentials of Swordsmanship
 **Mai:** Eh\? You want to have a serious match with me\?  
 **Kanami:** Yeah\! Please, Mai-chan\!  
 **Mai:** You know I don't mind, but, where is this coming from\?  
@@ -359,7 +359,7 @@ https://streamable.com/8c30b
 
   
 
-## [Ceremonial Dress - Misogi: Start]: Lacking the Words
+## [Ceremonial Dress - Misogi: Start\]: Lacking the Words
 **Toji A:** What now\.\.\. Yanase-san, Itomi-san\! Many more aradama are coming this way\.\.\.\!  
 **Mai:** It might be frightening, but no matter how many there are, what we need to do hasn't changed\.  
 **Mai:** Everyone finished evacuating, so let's hold our formation and take them out\.  
@@ -409,7 +409,7 @@ https://streamable.com/u67qu
 
   
 
-## [Ceremonial Dress - Misogi: End]: Feeling the Same
+## [Ceremonial Dress - Misogi: End\]: Feeling the Same
 **Sayaka:** M-Mai\.\.\.  
 **Mai:** Wh-What is it, Sayaka-chan\?  
 **Sayaka:** I'll stop the aradama that are coming from the sea\.  

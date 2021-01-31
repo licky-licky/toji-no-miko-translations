@@ -8,7 +8,7 @@ https://streamable.com/an75qe
 
   
 
-## [Xmas' 20 - Kagari: Start]: Let's Not
+## [Xmas' 20 - Kagari: Start\]: Let's Not
 **Minato:** Let's throw a Christmas party\!  
 **Kagari:** Let's not\.  
 **Minato:** Ehh, come on, Kagari-\.  
@@ -36,7 +36,7 @@ https://streamable.com/an75qe
 **Minato:** It's cold though\!  
 **Minato:** It's been getting colder lately\.\.\. Wonder if it'll snow on Christmas\?  
 
-## [Xmas' 20 - Kagari: End]: A White Christmas
+## [Xmas' 20 - Kagari: End\]: A White Christmas
 On Christmas\.
 
   
@@ -73,7 +73,7 @@ https://streamable.com/oapotx
 
   
 
-## [Xmas' 20 - Maki: Start]: Looking for a Christmas Cake
+## [Xmas' 20 - Maki: Start\]: Looking for a Christmas Cake
 **Maki:** \.\.\.  
 **Maki:** \.\.\.\.\.\.\.\.\.\.\.\.  
 **Yume:** Maki-onee-san, how long're you planning on doing this for-\?  
@@ -103,7 +103,7 @@ https://streamable.com/oapotx
 **Maki:** Oh yeah\.\.\. You're right\.  
 **Maki:** I'll look for another cake Yomi'll be happy with\.  
 
-## [Xmas' 20 - Maki: Start]: With a Special Someone
+## [Xmas' 20 - Maki: Start\]: With a Special Someone
 **Maki:** Still though, a different cake\.\.\. What can I get\?  
 **Ellen:** Makimaki\! You look like something's bothering you; what're you up to\?  
 **Maki:** Kohagura\? Actually\.\.\.  
@@ -140,7 +140,7 @@ https://streamable.com/4jhac8
 
   
 
-## [Xmas' 20 - Mihono: Start]: The Investigation Team's Christmas Party (Preparations\)
+## [Xmas' 20 - Mihono: Start\]: The Investigation Team's Christmas Party (Preparations\)
 **Mihono:** Jingle bells\~, jingle bells\~\.  
 **Mirja:** Stop singing and put your hands to work\. We won't finish getting ready for the Christmas party at this rate\.  
 **Mihono:** Okaaay\!  
@@ -157,7 +157,7 @@ https://streamable.com/4jhac8
 **Mihono:** It smelled so good walking past the store, so I tried some croquettes, and they were really yummy\! So I decided to get chicken from there\.  
 **Mihono:** Their croquettes, meatcakes, ham cutlets\.\.\. They all tasted good\.  
 **Mihono:** The meatcakes were so juicy, and the ham cutlets were really thick\!  
-**Kofuki:** [gulp] Just hearing you talk about them's making me hungry\.\.\. Wait, hold up\. I don't remember eating any croquettes\?  
+**Kofuki:** [gulp\] Just hearing you talk about them's making me hungry\.\.\. Wait, hold up\. I don't remember eating any croquettes\?  
 **Mihono:** Cause I didn't buy any\.  
 **Mihono:** I mean, wouldn't croquettes for Christmas be weird\?  
 **Kofuki:** If they're tasty, then buy 'em too\!  
@@ -170,7 +170,7 @@ https://streamable.com/4jhac8
 **Kofuki:** While we're at it, let's order a buncha stuff besides chicken\. We gotta get croquettes and meatcakes and ham cutlets\!  
 **Chie:** Don't go deciding that on your own\.\.\. That's nothing but fried food\. I think I'd better prepare lots of vegetables for us\.  
 
-## [Xmas' 20 - Mihono: Start]: The Investigation Team's Christmas Party
+## [Xmas' 20 - Mihono: Start\]: The Investigation Team's Christmas Party
 On Christmas Day\.
 
   
@@ -189,8 +189,8 @@ On Christmas Day\.
 **Kofuki:** How am I supposed to know\!  
 **Kofuki:** Anyway, the next one's coming\! Quit messing around\!  
 **Mihono:** Alright\!  
-**Mihono:** [snooze]\.\.\.  
-**Kofuki:** Orah, next one\.\.\. [snooze]  
+**Mihono:** [snooze\]\.\.\.  
+**Kofuki:** Orah, next one\.\.\. [snooze\]  
 **Chie:** Just when we got things set up, they all fell asleep\.  
 **Mirja:** They had a tough mission\. It's understandable\.  
 **Yui:** Uhehe, uhehe\.\.\.  
@@ -207,7 +207,7 @@ https://streamable.com/1b7b8n
 
   
 
-## [Xmas' 20 - Sanae: Start]: What Should I Go With\?
+## [Xmas' 20 - Sanae: Start\]: What Should I Go With\?
 **Sanae:** A Christmas party\?  
 **Hiyori:** Yeah, Kanami and everyone invited me, but, do you want to come too, Iwakura-san\?  
 **Sanae:** Thanks for the invitation, Juujou-san\.  
@@ -237,7 +237,7 @@ https://streamable.com/1b7b8n
 **Kiyoka:** Don't mention it\! Good luck finding the right present\!  
 **Sanae:** Yeah\.  
 
-## [Xmas' 20 - Sanae: End]: I Don't Feel Like I Can Lose
+## [Xmas' 20 - Sanae: End\]: I Don't Feel Like I Can Lose
 **Aradama:** OOOOOOOOOOOOOOOO\!\!  
 **Man:** UWAHHHHHHH\!\?  
 **Sanae:** HAAAAAAAAAAAAAAAAA\!\!  
@@ -270,7 +270,7 @@ https://streamable.com/1b7b8n
 **Sanae:** Though\.\.\. I wonder why\. I don't feel like I could lose right now\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/6vDEoQfMR6o"></iframe>](:Iframe)  
 
-## [Xmas' 20 - Suu: Start]: That's Not It\!
+## [Xmas' 20 - Suu: Start\]: That's Not It\!
 **Suu:** Eh\!\? You're going to be coming here for Christmas\?  
 **Hokuto:** I am\.  
 **Suu:** That's great\! Where should we go hang out\?  
@@ -304,7 +304,7 @@ On Christmas Day\.
 **Hokuto:** Right\.\.\. We're going, Suu\!  
 **Suu:** Sure\!  
 
-## [Xmas' 20 - Suu: End]: Aren't You Glad You Worked Hard\?
+## [Xmas' 20 - Suu: End\]: Aren't You Glad You Worked Hard\?
 **Aradama:** FSHUUUUUUUUUUUUUUUUU\!  
 **Suu:** Geh, they're spider types\!\?  
 **Hokuto:** Is there something wrong with spider types\?  
@@ -325,7 +325,7 @@ On Christmas Day\.
 **Aradama:** FSHAAAAAAAAAA\!\!  
 **Suu:** I can handle this much\.\.\.\! YAAAAAAAAAAAAAAAAAAAA\!\!  
 **Aradama:** Aaaa\.\.\.  
-**Suu:** [pant pant]\.\.\. Now for the next ones\!  
+**Suu:** [pant pant\]\.\.\. Now for the next ones\!  
 **Hokuto:** (Suu\.\.\. You've grown even more than I expected\.\.\. You might have slacked off a little, but you really are trying\.\)  
 **Hokuto:** You did well, Suu\.  
 **Suu:** You did great too, Hokuto-san\!  

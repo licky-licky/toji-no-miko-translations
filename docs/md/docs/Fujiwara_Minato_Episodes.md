@@ -259,7 +259,7 @@ The next day\.
 **Minato:** That's the spirit, Yukari\! This is how things ought to be\! Kagari, Yukari, let's get this started-\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/nqyOMfDau7o"></iframe>](:Iframe)  
 
-## [Mahouka - Minato: Start]: Three Lost People
+## [Mahouka - Minato: Start\]: Three Lost People
 **Honoka:** Heeeey\! Kanami-\? Mihono-\?  
 **Honoka:** \.\.\.\.\.\.\.\.\.\.\.\.  
 **Honoka:** Nnnn, they're not answering, Shizuku\.  
@@ -294,7 +294,7 @@ The next day\.
 **Minato:** I'll be fine\. I figure I'll see my friends soon enough, and we might run into them when we're looking for your friends too\.  
 **Honoka:** I got it\. Then, let's search together\!  
 
-## [Mahouka - Minato: End]: Ideal Dream
+## [Mahouka - Minato: End\]: Ideal Dream
 **Minato:** Hmmm, we aren't finding anybody\.  
 **Honoka:** You're not wrong\.\.\.  
 **Honoka:** We've been looking for a while now, but, where could they have gone\.\.\.  

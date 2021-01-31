@@ -5,7 +5,7 @@ https://streamable.com/guvtv
 
   
 
-## [New Year's Mirja: Start] Mirja's First Shrine Visit of the Year
+## [New Year's Mirja: Start\] Mirja's First Shrine Visit of the Year
 **Mirja:** As one would expect, there are a great number of people out for New Year's Day\. Let's all take caution so that no one gets lost\.  
 **Yui:** Okay\! You got it, Mirja-san\!  
 **Mirja:** \.\.\.I don't see anyone besides you, Yamashiro Yui\. What happened to the others\?  
@@ -27,7 +27,7 @@ https://streamable.com/guvtv
 **Yui:** From my own research\!  
 **Yui:** And so, for the sake of our future together, we should go draw our fortunes first\!  
 **Yui:** \.\.\.Mirja-san, isn't it kind of like we're on a date together\?  Kyaa\! I said it\!  
-**Mirja:** Is the short performance over now\? If so, let's draw our fortune slips\.	[The term Mirja uses, koshibai, literally small play, refers to plays that were too small to be performed in theaters and were traditionally held at shrines\.]  
+**Mirja:** Is the short performance over now\? If so, let's draw our fortune slips\.	[The term Mirja uses, koshibai, literally small play, refers to plays that were too small to be performed in theaters and were traditionally held at shrines\.\]  
 **Mirja:** Hm, mine reads \"great fortune\"\. That's how it is then\.  
 **Yui:** You got a great fortune, Mirja-san\? Since I'm a fortune drawing pro, I'll do it too\!  
 **Yui:** There-\! \.\.\.Wait, \"great misfortune\"\!\?  
@@ -46,7 +46,7 @@ https://streamable.com/apso0
 
   
 
-## [New Year's Mirja: End]: Prayer
+## [New Year's Mirja: End\]: Prayer
 **Mirja:** Sweet sake truly does warm you up, doesn't it\.  
 **Yui:** It sure does-\. Sweet sake sure does warm you up-\.  
 **Mirja:** \? What's the matter\? You're making a strange face\.  
@@ -82,7 +82,7 @@ https://streamable.com/9r9dv
 
   
 
-## [New Year's Ellen: Start]: Hanetsuki Competition\!
+## [New Year's Ellen: Start\]: Hanetsuki Competition\!
 **Kanami:** The crowd of people here for their first shrine visit sure is huge\.  
 **Ellen:** But it's also a part of the season here in Japan\. It's fun waiting around in all the commotion\.  
 **Kaoru:** And here I thought I'd get to laze around at home through New Year's-\.  
@@ -98,7 +98,7 @@ https://streamable.com/9r9dv
 **Mai:** Since I'm here at the shrine, I thought I would buy some protective charms for my family, then bring them back home\.  
 **Ellen:** That sounds nice too\. Hmm, I can't make up my mind\. Isn't there some kind of special event you do at New Year's\?  
 **Kaoru:** It's not really an event, but what if we do that\?  
-**Kanami:** Ah\! We could play hanetsuki\! 	[Hanetsuki is a game similar to badminton, traditionally played at New Year's]  
+**Kanami:** Ah\! We could play hanetsuki\! 	[Hanetsuki is a game similar to badminton, traditionally played at New Year's\]  
 **Ellen:** Looks like fun\! Let's do it\!  
 **Hiyori:** I'll pass\. You can have fun on your--  
 **Kaoru:** Don't you know, Eternal\? Playing hanetsuki is considered an act of prayer for a girl's development\.  
@@ -125,11 +125,11 @@ https://streamable.com/ny1wt
 
   
 
-## [New Year's Ellen: End]: Fun Together\!
+## [New Year's Ellen: End\]: Fun Together\!
 **Hiyori:** HA-\!  
 **Ellen:** Not bad, Hiyoyon\! HO-\!  
 **Kanami:** That's crazy\! They've been going for so long now\. Other people who came to the shrine are starting to watch too\.  
-**Kaoru:** Yep, that's Hiyori alright\. It's like she's becoming one with the hagoita\. [Flat paddle used in hanetsuki]  
+**Kaoru:** Yep, that's Hiyori alright\. It's like she's becoming one with the hagoita\. [Flat paddle used in hanetsuki\]  
 **Hiyori:** Kaoru\.\.\. Could you\.\.\. Shut up-\!  
 **Ellen:** How about this\? HA-\!\!  
 **Hiyori:** \.\.\.Kh\!  
@@ -161,7 +161,7 @@ https://streamable.com/zvfow
 
   
 
-## [Valentines Suzuka: Start]: A Similar Pair\?
+## [Valentines Suzuka: Start\]: A Similar Pair\?
 **Mirja:** As of now, there is only one more confirmed target in the shopping mall\. Do you see it on the spectrum finder\?  
 **Aradama:** \.\.\.Ggii\.  
 **Suzuka:** There it is\.  
@@ -202,7 +202,7 @@ https://streamable.com/rmyw5
 
   
 
-## [Valentines Suzuka: End]: The Reason Behind Her Enthusiasm
+## [Valentines Suzuka: End\]: The Reason Behind Her Enthusiasm
 **Patissier:** Sure, that would be fine\. I can teach you some relatively simple tricks to making delicious chocolate even at home\.  
 **Suzuka:** Thank you very much\. It won't be an issue for you to teach them to me, will it\?  
 **Patissier:** Well, it shouldn't be a problem so long as you don't go spreading online that it was our shop that taught it to you\.  

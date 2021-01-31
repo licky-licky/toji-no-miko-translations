@@ -226,7 +226,7 @@ One day, in May\. After the tournament, yet another month has passed\. The toji 
 **Kaoru:** Everywhere you go, they're short on people, but we've got it real bad here\. Wouldn't it be best if you just officially transferred to us\?  
 **Kaoru:** You'd get to fight all the aradama you want\. They totally ignore the Labor Standards Act, so you'd get worked you to the bone till you're run ragged\.  
 **Tsugumi:** 1107 hours\. Mashiko Kaoru solicits Shichinosato Kofuki to join the Special Raid Unit, while criticizing the organization\.  
-**Kofuki:** But, if I can't see Ahocchi's Miho side\.\.\. Ah, I messed it up\!		[Aho means dumb, and it's just a play on the nicknames]  
+**Kofuki:** But, if I can't see Ahocchi's Miho side\.\.\. Ah, I messed it up\!		[Aho means dumb, and it's just a play on the nicknames\]  
 **Kofuki:** I'd get lonely, not getting to see Mihocchi's aho side\! So I'll pass on that for now\!  
 **Kaoru:** Sayaka's value's going way up too\. If we added you to us, we'd be unstoppable\.  
 **Kaoru:** And then, as the captain, my value'd go up as well, and I might even get promoted out of here\.  
@@ -255,9 +255,9 @@ One day, in May\. After the tournament, yet another month has passed\. The toji 
 **Sayaka:** It would be good if you could learn to be a little more like Kofuki, Kaoru\.  
 **Kaoru:** I'm best suited to be a boss for capable recruits like you two\! That's how the Special Raid Unit should work\! Right, Nene\?  
 **Kaoru:** \.\.\.Huh\? Nene\?  
-**Tsugumi:** [fluff fluff]\.\.\. [fluff fluff]\.\.\.  
+**Tsugumi:** [fluff fluff\]\.\.\. [fluff fluff\]\.\.\.  
 **Nene:** Nenne-\! Nenne-\! Nenenenne-\!  
-**Tsugumi:** [fluff fluff]\.\.\. [fluff fluff]\.\.\. [fluff fluff fluff]\.\.\.   
+**Tsugumi:** [fluff fluff\]\.\.\. [fluff fluff\]\.\.\. [fluff fluff fluff\]\.\.\.   
 **Nene:** Nenenenene-\!  
 **Tsugumi:** Aradama Nene shows a tendency of preferring to be touched to the side of the abdomen rather than straight on\.\.\.  
 **Kaoru:** What are you even doing playing around with Nene\?  

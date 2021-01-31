@@ -205,7 +205,7 @@ Itomi Sayaka Episodes
 **Cat:** Meow  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/A8mB5sp3tpA"></iframe>](:Iframe)  
 
-## [Ceremonial Dress - Misogi: Start]: Lacking the Words
+## [Ceremonial Dress - Misogi: Start\]: Lacking the Words
 **Toji A:** What now\.\.\. Yanase-san, Itomi-san\! Many more aradama are coming this way\.\.\.\!  
 **Mai:** It might be frightening, but no matter how many there are, what we need to do hasn't changed\.  
 **Mai:** Everyone finished evacuating, so let's hold our formation and take them out\.  
@@ -252,7 +252,7 @@ Itomi Sayaka Episodes
 **Sayaka:** Thank you\. I'm going to go see Mai\.  
 **Sayaka:** Orders to suppress aradama\.\.\. I have to go\.  
 
-## [Ceremonial Dress - Misogi: End]: Feeling the Same
+## [Ceremonial Dress - Misogi: End\]: Feeling the Same
 **Sayaka:** M-Mai\.\.\.  
 **Mai:** Wh-What is it, Sayaka-chan\?  
 **Sayaka:** I'll stop the aradama that are coming from the sea\.  
@@ -291,7 +291,7 @@ Itomi Sayaka Episodes
 **Sayaka:** I\.\.\. I feel the same way\. Let's do our best, Mai\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/7xz_k03cXQA"></iframe>](:Iframe)  
 
-## [Swimsuit 19: Start]: Do Your Best, Enjoy Yourself\!
+## [Swimsuit 19: Start\]: Do Your Best, Enjoy Yourself\!
 **Sayaka:** \.\.\.Sorry I made you wait\.  
 **Kaoru:** Oh-, you made it\. Now everybody's here\.  
 **Nene:** Ne-\!  
@@ -319,7 +319,7 @@ Itomi Sayaka Episodes
 **Sayaka:** \.\.\.There's so many things to try; I don't know what to do\.  
 **Ellen:** We can do anything you want, Saaya\. Let's start with one side and enjoy ourselves\!  
 
-## [Swimsuit 19: End]: Will You, Ride With Me\?
+## [Swimsuit 19: End\]: Will You, Ride With Me\?
 **Attendant:** Okay, the next person can go-\.  
 **Ellen:** Oh, it's your turn, Saaya\!  
 **Sayaka:** I just have to slide\?  
@@ -355,7 +355,7 @@ Itomi Sayaka Episodes
 **Sayaka:** I'm glad\. I think I'll have a lot to tell Mai about the pool\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UdyV4xZkk2E"></iframe>](:Iframe)  
 
-## [Shinsengumi - Sayaka: Start]: A Sudden Acting Offer
+## [Shinsengumi - Sayaka: Start\]: A Sudden Acting Offer
 **Kofuki:** Hey, why're we stopping by this place anyway\?  
 **Sayaka:** \.\.\.I've been here before\.  
 **Mirja:** That's correct\. They said they were experiencing trouble, and made a polite appeal, or rather, a request to us\.  
@@ -394,7 +394,7 @@ Itomi Sayaka Episodes
 **Kofuki:** That's just cause, if I went back, it's not like there's anything to do there either\.   
 **Mirja:** I see\. At any rate, the filming should be beginning shortly\.   
 
-## [Shinsengumi - Sayaka: End]: A True to Life Take
+## [Shinsengumi - Sayaka: End\]: A True to Life Take
 **Film Director:** \.\.\.Action, start\!  
 **Soldier Actor:** This is the Shinsengumi; we'll be taking you outlaw ronin in\! Don't think you'll get away\!  
 **Sayaka:** (After they say that line\.\.\. I jump\.\)  

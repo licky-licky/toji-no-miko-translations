@@ -5,7 +5,7 @@ https://streamable.com/w12v21
 
   
 
-## [Ceremonial Dress Misogi - Ellen: Start]: Let's Go On a Trip to Change the World\!
+## [Ceremonial Dress Misogi - Ellen: Start\]: Let's Go On a Trip to Change the World\!
 **Ellen:** Hmm, hm hm hm hmm\~\. Hm hmm hm hm hmm\~\! \.\.\.It's done\!  
 **Ellen:** My Nene drawing is finished\! That's another one that turned out very cute\!  
 **Ellen:** I'll show it to the people of the world right away\. \.\.\.Okay, it's uploaded\! Now to spread it on social media\.\.\. Wow\!  
@@ -37,7 +37,7 @@ https://streamable.com/w12v21
 **Ellen:** \.\.\.\.\.\.  
 **Kaoru:** She still sucks at drawing, huh\. I can't even tell what that's supposed to be\.  
 
-## [Ceremonial Dress Misogi - Ellen: End]: I've Done It\!
+## [Ceremonial Dress Misogi - Ellen: End\]: I've Done It\!
 **Ellen:** It's Okinawa-\!  
 **Kaoru:** Nobody told me we were making a 2 days 1 night trip across Japan\.\.\.  
 **Nene:** Ne-\.\.\.  
@@ -84,7 +84,7 @@ https://streamable.com/nehhrm
 
   
 
-## [Furisode 21 - Hiyori: Start]: Picking Out Furisode
+## [Furisode 21 - Hiyori: Start\]: Picking Out Furisode
 **Hiyori:** You know\.\.\. It's crazy how many furisode there are\.  
 **Ellen:** Keep the praise coming, Hiyoyon\! I worked hard to get all these together\!  
 **Hiyori:** I wasn't really meaning to praise you; it's just impressive seeing this many laid out\.  
@@ -104,7 +104,7 @@ https://streamable.com/nehhrm
 **Ellen:** Yes\! Out of all the furisode here, that one's the most expensive\!  
 **Hiyori:** Huh\?  
 **Hiyori:** \.\.\.B-By the way, just how much did it cost\.\.\.\?  
-**Ellen:** [whisper whisper whisper]\.\.\.  
+**Ellen:** [whisper whisper whisper\]\.\.\.  
 **Hiyori:** Seriously\!\?  
 **Kanami:** Uwah\!\? Eh\? How much was it\!\?  
 **Hiyori:** \.\.\.You're better off not knowing, Kanami\. I'm picking something else, Ellen\.  
@@ -112,7 +112,7 @@ https://streamable.com/nehhrm
 **Kaoru:** I'm getting scared to actually pick one of these\.\.\.  
 **Kanami:** Now I have to know\! Tell it to me, Ellen-chan\!  
 **Hiyori:** Don't, Kanami\! You're going to regret hearing it\!  
-**Ellen:** [whisper whisper whisper]\.\.\.  
+**Ellen:** [whisper whisper whisper\]\.\.\.  
 **Kanami:** \.\.\.\.\.\.I shouldn't have asked\.  
 **Hiyori:** That's what I told you\.\.\.  
 **Hiyori:** But still, we have to choose one of these to wear\.\.\. Let's pick one and be prepared for the worst, Kanami\!  
@@ -120,7 +120,7 @@ https://streamable.com/nehhrm
 **Ellen:** Hahaha\! This is fun, Kaoru\!  
 **Kaoru:** Only for you, maybe\.  
 
-## [Furisode 21 - Hiyori: End]: Is Winter a Special Case\?
+## [Furisode 21 - Hiyori: End\]: Is Winter a Special Case\?
 **Hiyori:** \.\.\.It's completely packed here\.  
 **Kaoru:** Geh, are we seriously getting in that line\? Who knows how many hours it'll be before we make it to the shrine\.  
 **Ellen:** We'd be spending a whole lot of time doing nothing, wouldn't we\.  
@@ -137,7 +137,7 @@ https://streamable.com/nehhrm
 **Kanami:** I told Mai-chan we'll meet up with her later\.  
 **Hiyori:** Oh\. Then, what are we doing now\?  
 **Kanami:** I dunno\.\.\.  
-**Kanami:** Ah\.  [Kanami's stomach rumbles]  
+**Kanami:** Ah\.  [Kanami's stomach rumbles\]  
 **Hiyori:** Guess we're going with that\.  
 **Hiyori:** Takoyaki, yakisoba, and\.\.\. There's lots of different stalls set up\. What do you want, Kanami\?  
 **Kanami:** Mmm, I'm not sure\.\.\. I think I want to have takoyaki\. Steamy hot takoyaki\! I'll be right back\!  
@@ -165,7 +165,7 @@ https://streamable.com/apxfpg
 
   
 
-## [Taisho Romance Military Uniform - Yui: Start]: Click\!
+## [Taisho Romance Military Uniform - Yui: Start\]: Click\!
 **Yui:** \.\.\.\.\.\.\.\.\.\.\.\.  
 **Yui:** I wish the whole investigation team would cosplay for me\.\.\.  
 **Kiyoka:** \.\.\.What are you saying now\?  
@@ -196,7 +196,7 @@ https://streamable.com/apxfpg
 **Director:** How does that sound\?  
 **Yui:** We'll help-\!\!  
 
-## [Taisho Romance Military Uniform - Yui: End]: There's No Moe\!
+## [Taisho Romance Military Uniform - Yui: End\]: There's No Moe\!
 **Yui:** Please, Mirja-san\! Chie-san\! Help film this movie with me\!  
 **Chie:** Mmm\.\.\. Sorry, Yui-chan\. I have coursework I have to take care of\.  
 **Mirja:** Now would be difficult for me as well\. Please ask someone else to help\.  

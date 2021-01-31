@@ -200,7 +200,7 @@ Mashiko Kaoru Episodes
 **Ellen:** Go, Kaoru\~\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/qSMb2Ua4TwY"></iframe>](:Iframe)  
 
-## [Yukata - Kaoru: Start]: Let's Test Our Courage\!
+## [Yukata - Kaoru: Start\]: Let's Test Our Courage\!
 **Ellen:** Alright then, let's get this test of courage underway\! We made lots to draw, so everyone take turns drawing them and pair up\!  
 **Yui:** Guhehehe, I can't wait to go\.  
 **Kiyoka:** I just hope I'm together with Kofuki-san\.\.\. Ah, mine's number 3\.  
@@ -232,13 +232,13 @@ Mashiko Kaoru Episodes
 **Kaoru:** This place used to be a graveyard\.  
 **Mihono:** \.\.\.\.\.\.Eh\?  
 
-## [Yukata - Kaoru: End]: Tell Me You're Lying
+## [Yukata - Kaoru: End\]: Tell Me You're Lying
 **Mihono:** \.\.\.No way, there's no way there's a graveyard this far in the mountains\. You just came up with that now, right\?  
 **Kaoru:** You'd think so, wouldn't you\?  
 **Kaoru:** But, this is a true story\. If you think I'm lying, you can check with Ellen\.  
 **Mihono:** You say that, but\.\.\.  
 **Kaoru:** (Maybe if I give one more push she'll buy it\? What's something good\.\.\. Oh\.\)  
-**Kaoru:** See, look over there\. There's a Jizo statue, right\?		[Jizo is a deity that is a savior of souls and also a protector of travelers\. Statues are often found in graveyards, but also along roadsides\.]  
+**Kaoru:** See, look over there\. There's a Jizo statue, right\?		[Jizo is a deity that is a savior of souls and also a protector of travelers\. Statues are often found in graveyards, but also along roadsides\.\]  
 **Kaoru:** That's a leftover from when this place was a graveyard\.  
 **Mihono:** It's true\.\.\. Then, this place really is\.\.\.  
 **Mihono:** Eep\!\?  
@@ -248,7 +248,7 @@ Mashiko Kaoru Episodes
 **Kaoru:** But, y'know, mountains come with a lot of trouble\. Like\.\.\. landslides and stuff\.  
 **Mihono:** Th-Then\.\.\.  
 **Kaoru:** Yeah\. That's why they decided to move away from this graveyard\. There was this really bad landslide\.\.\. And, apparently, they couldn't even check on all the graves\.  
-**Mihono:** \.\.\.[gulp]\.  
+**Mihono:** \.\.\.[gulp\]\.  
 **Kaoru:** \.\.\.Which means, some might've been left buried\. Just under your feet right now, there could be a dead body\.  
 **Mihono/Ellen:** GYAAAAAAAAAAAAAAAAAAAA\!\!  
 **Kaoru:** Uwah\!\? What're you doing here, Ellen\!\!  
@@ -274,7 +274,7 @@ Mashiko Kaoru Episodes
 **Kaoru/Mihono:** HIEEEEEEEEEEEEEEEEEE\!\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/A4RipDwmT9Y"></iframe>](:Iframe)  
 
-## [Misogi - Kaoru: Start]: A Little About the Past
+## [Misogi - Kaoru: Start\]: A Little About the Past
 **Kaoru:** Today's kinda hot, isn't it-\.\.\. My water bottle's already run dry\.\.\.  
 **Nene:** Ne\~\~\.\.\.  
 **Ellen:** I only have a little bit left in mine, but, want to drink it, Kaoru\?  
@@ -282,7 +282,7 @@ Mashiko Kaoru Episodes
 **Ellen:** Should we make a trip back to town then\? We'd be losing a lot of time though\.  
 **Chie:** Ellen-san, Kaoru-san\. It's alright\. I brought lots of drinks with me\.  
 **Ellen:** Chie, thank you so much\!  
-**Kaoru:** It's nice somebody came prepared\. You really saved us\. [gulp gulp]\.\.\. Phwah\. Can't thank you enough\.  
+**Kaoru:** It's nice somebody came prepared\. You really saved us\. [gulp gulp\]\.\.\. Phwah\. Can't thank you enough\.  
 **Chie:** It's just a part of me acting as everyone's onee-san\.  
 **Ellen:** Have you been an onee-san ever since you were a little girl, Chie\?  
 **Chie:** When I was little, I spent most of my time together with Mihono-chan, so it's true that back then I wanted to try hard to act as an onee-san\.  
@@ -316,7 +316,7 @@ Mashiko Kaoru Episodes
 **Kaoru:** Guess we'd better hurry-\.  
 **Nene:** Nene\~\!  
 
-## [Misogi - Kaoru: End]: Together With Nene
+## [Misogi - Kaoru: End\]: Together With Nene
 **Ellen:** Kaoru\! Behind you\!  
 **Aradama:** KSHAAAAAA\!  
 **Kaoru:** \!\?  
@@ -360,7 +360,7 @@ Mashiko Kaoru Episodes
 **Nene:** Nene-\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/U_8Z9M9PWSk"></iframe>](:Iframe)  
 
-## [Pajama - Kaoru: Start]: Isn't It Fine Every Once in a While\?
+## [Pajama - Kaoru: Start\]: Isn't It Fine Every Once in a While\?
 **Ellen:** That's the last one\! It's coming your way, Kiyoka\!  
 **Kiyoka:** Right\!  
 **Ellen:** Good\! Nice work\!  
@@ -396,7 +396,7 @@ Mashiko Kaoru Episodes
 **Kiyoka:** Umm, you mean\.\.\. that high class looking hotel\?  
 **Ellen:** Yes\!  
 
-## [Pajama - Kaoru: End]: Pajama Party\!
+## [Pajama - Kaoru: End\]: Pajama Party\!
 **Ellen:** Tah-dah-\! We all have matching pajamas\!  
 **Kiyoka:** These pajamas are cute\! Though\.\.\.  
 **Kiyoka:** (Since we're wearing the same pajamas, the difference in chest size is\.\.\.\)  
@@ -433,13 +433,13 @@ Mashiko Kaoru Episodes
 **Kiyoka:** Why do you look like you're having the most fun with this, Kaoru-san\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/SB5mF34N1ZY"></iframe>](:Iframe)  
 
-## [Nenegurumi - Kaoru: Start]: Let's Sell Nenegurumis
+## [Nenegurumi - Kaoru: Start\]: Let's Sell Nenegurumis
 **Sana:** Oh, you're here, Kaoru\.  
 **Kaoru:** You're the one who called me, right\? So, what'd you need\?  
 **Kaoru:** You're not about to push another annoying mission on me, are you\?  
 **Sana:** We've decided to start selling Nenegurumis\.  
 **Kaoru:** Huhh\? What the heck's a \"Nenegurumi\"\?  
-**Sana:** A Nene nuigurumi, so, Nenegurumi\.		[Nuigurumi are just stuffed toys/dolls, and I'm not punning around with the name]  
+**Sana:** A Nene nuigurumi, so, Nenegurumi\.		[Nuigurumi are just stuffed toys/dolls, and I'm not punning around with the name\]  
 **Kaoru:** Just leaving it at that\!\?  
 **Kaoru:** \.\.\.So, what do need me for with these Nenegurumis\? You want to use Nene as a model\?  
 **Sana:** No, we already went ahead and made them\. Here's one\.  
@@ -466,7 +466,7 @@ Mashiko Kaoru Episodes
 **Minaki:** Thanks a lot, Kaorucchi\! Let's sell a bunch\!  
 **Kaoru:** \.\.\.If we have to\.  
 
-## [Nenegurumi - Kaoru: End]: Poster Girl
+## [Nenegurumi - Kaoru: End\]: Poster Girl
 The Nenegurumi Shop, 3 hours before opening\.
 
   
@@ -490,13 +490,13 @@ The Nenegurumi Shop, 2 hours before opening\.
 **Kaoru:** \.\.\.\.\.\.\.\.\.\.\.\.  
 **Kaoru:** Just big enough\.\.\. Yeah\. How's it feel\.\.\. Yep, nice and fluffy\.  
 **Kaoru:** Ooph\.\.\. Ahhh\. Well what do ya know, so this is where they were keeping heaven\.\.\.  
-**Kaoru:** \.\.\.[snooze]\.  
+**Kaoru:** \.\.\.[snooze\]\.  
 The Nenegurumi Shop, 1 hour before opening\.
 
   
 **Minaki:** Looks like we might actually make it in time for the opening, Kaorucchi\!  
 **Minaki:** \.\.\.Kaorucchi\?  
-**Kaoru:** \.\.\.[snooze]\.  
+**Kaoru:** \.\.\.[snooze\]\.  
 **Minaki:** Kaorucchi, you look like the Nenegurumi's hugging you\. So heartwarming\.  
 **Minaki:** \.\.\.Hey, wake up, Kaorucchi\!  I can't finish the displays by myself\!\?  
 **Kaoru:** Mmmnnm\.\.\.  
@@ -514,5 +514,5 @@ The Nenegurumi Shop, now open\.
 **Minaki:** Thanks, Ellencchi\~\! With you here, we made it safe in time for the store to open\~\!  
 **Ellen:** You're welcome\! And, more importantly, before Kaoru wakes up, let's sell and sell till we're sold out\!  
 **Minaki:** Sure\!  
-**Kaoru:** \.\.\.\.\.\.\.\.\.[snooze]\.  
+**Kaoru:** \.\.\.\.\.\.\.\.\.[snooze\]\.  
 > :ToCPrevNext

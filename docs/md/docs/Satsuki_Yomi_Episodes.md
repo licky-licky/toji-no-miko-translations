@@ -112,7 +112,7 @@ Satsuki Yomi Episodes
 **Yomi:** (munch munch\.\.\. munch munch much\.\.\.\)  
 **Yume:** Oh\? What're you eating, Yomi onee-san\?  
 **Yomi:** Omusubi\.　(munch munch\.\.\.\)  
-**Yume:** Onigiri\? [both are rice balls]  
+**Yume:** Onigiri\? [both are rice balls\]  
 **Yomi:** This isn't onigiri\. It's omusubi\. (munch munch\.\.\.\)  
 **Yume:** Same difference\. You're pretty picky\.  
 **Yomi:** Would you like one too, Tsubakuro-san\? (munch munch\.\.\.\)  
@@ -160,7 +160,7 @@ Satsuki Yomi Episodes
 **Yomi:** President Takatsu\.\.\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/JQrHdhn4Raw"></iframe>](:Iframe)  
 
-## [Bride Yomi: Start]: Undercover Investigation (Yomi's Case\)
+## [Bride Yomi: Start\]: Undercover Investigation (Yomi's Case\)
 **Yomi:** There was another person who had their ring stolen by aradama\?  
 **Chapel Staff:** Yes\.\.\.  
 **Yume:** I get it\.\.\. That means we've got a thief to catch, Yomi-onee-san\!  
@@ -191,7 +191,7 @@ Satsuki Yomi Episodes
 **Yomi:** For\.\.\. sure\?  
 **Yume:** Yeah\!  
 
-## [Bride Yomi: End]: Please Don't Look
+## [Bride Yomi: End\]: Please Don't Look
 **Yume:** Is she ready yet-, is Yomi-onee-san ready yet-\?  
 **Yomi:** \.\.\.Sorry for taking so long\.  
 **Yume:** Ah, I've been waiting forever, Yomi-on--  
@@ -228,7 +228,7 @@ Satsuki Yomi Episodes
 **Yomi:** I should have firmly refused\.\.\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/SNBCw7znJRI"></iframe>](:Iframe)  
 
-## [Ceremonial Dress - Misogi: Start]: Yomi's Weak Point
+## [Ceremonial Dress - Misogi: Start\]: Yomi's Weak Point
 **Tsugumi:** Are you ready to start\?  
 **Yomi:** I am ready at any time\.\.\. Let's begin disposing of the aradama\.  
 **Aradama:** GAAAAAAA\!\!  
@@ -269,7 +269,7 @@ Satsuki Yomi Episodes
 **Yume:** Yeah\! Tell me all about it\!  
 **Yomi:** It happened when I was in elementary school\.\.\. I was involved in an aradama incident\.  
 
-## [Ceremonial Dress - Misogi: End]: To One Day Repay Her
+## [Ceremonial Dress - Misogi: End\]: To One Day Repay Her
 **Yomi:** It happened when I was in elementary school\.\.\. I was involved in an aradama incident\.  
 **Yume:** Was it something like\.\.\. The aradama back then was the same kind as the one at the lab\?  
 **Yomi:** \.\.\.How did you know that\?  
@@ -327,14 +327,14 @@ Satsuki Yomi Episodes
 **Bull Type Aradama:** OOUUUUUUU\!\!  
 **Yume:** Yomi-onee-san\!\?  
 **Yomi:** (If I lose focus, I could be crushed\.\.\. However, as I am now, I can stop these attacks\.\.\.\)  
-**Yomi:** [Inhale\.\.\. Exhale\.\.\.]  
+**Yomi:** [Inhale\.\.\. Exhale\.\.\.\]  
 **Yomi:** \.\.\.HAA\!  
 **Bull Type Aradama:** GYAAAAAOOOOOO\!\!  
 **Yume:** You did it-\! See, it went just like I said it would, right\?  
 **Yomi:** \.\.\.You were right\. Thank you very much, Tsubakuro-san\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/jdKVXQRmnJ0"></iframe>](:Iframe)  
 
-## [Yukata Yomi: Start]: We Mustn't Get Lost
+## [Yukata Yomi: Start\]: We Mustn't Get Lost
 **Yume:** That yukata really matches you, Yomi-onee-san\. It looks good-\.  
 **Yomi:** Thank you very much\. I'm thankful for President Souraku's good judgment\.  
 **Yomi:** You look very good in yours as well, Tsubakuro-san\.  
@@ -367,7 +367,7 @@ Satsuki Yomi Episodes
 **Yomi:** Yes, I'll feel better this way\. Let's go join them\.  
 **Yume:** Okay\!  
 
-## [Yukata Yomi: End]: Someday, in Memory
+## [Yukata Yomi: End\]: Someday, in Memory
 **Yume:** Ah, there's this thing with all these little balls floating in the water\! Hey hey, what is this\?  
 **Suzuka:** I'm not quite sure what all these balls are for\.\.\.  
 **Yomi:** They're for super ball scooping\.  
@@ -410,7 +410,7 @@ Satsuki Yomi Episodes
 **Yomi:** Yes, very much so\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe>](:Iframe)  
 
-## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
+## [Valkyrie - Yomi: Start\]: A Sudden Call from Akira
 **Akira:** Oiii, Yomi\! Here, over here\~\.  
 **Yomi:** I could tell where you were without you having to shout\.  
 **Akira:** You just looked like you were kinda spacing out over there\. Anyway, ready to go\?  
@@ -442,7 +442,7 @@ Satsuki Yomi Episodes
 **Akira:** I'll have the same thing you're drinking then\.  
 **Akira:** Ah, when you get the photos back, lemme see\. Those'll be fun to look through for sure\.  
 
-## [Valkyrie - Yomi: End]: This One is My Favorite
+## [Valkyrie - Yomi: End\]: This One is My Favorite
 **Akira:** Yo\! It's rare for you to call me to hang out\.  
 **Yomi:** I got the photos back from that photo shoot we spoke about the other day\.  
 **Yomi:** I think they'll be published online soon, but I had heard you were coming by on an assignment\.  
@@ -474,7 +474,7 @@ Satsuki Yomi Episodes
 **Akira:** Alright\.\.\. I've gotta stick to it too\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/AD0Bdd24GGM"></iframe>](:Iframe)  
 
-## [Xmas' 19 - Yomi: Start]: An Unpredictable Present
+## [Xmas' 19 - Yomi: Start\]: An Unpredictable Present
 **Yomi:** A Christmas Eve party\.\.\.\?  
 **Suzuka:** Yes, all toji from the Five Traditions are gathering for a big occasion, and of course, we of the elite guard have been invited as well\.  
 **Yomi:** I see\. I have some business I want to take care of before the end of the year, so please go without me\.  
@@ -508,7 +508,7 @@ Satsuki Yomi Episodes
 **Kiyoka/Ellen:** Eh\?  
 **Yomi:** It's omusubi bento\.  
 
-## [Xmas' 19 - Yomi: End]: The Fun of Giving
+## [Xmas' 19 - Yomi: End\]: The Fun of Giving
 **Kiyoka:** Still though, Christmas style onigi\.\.\. Ah-\! Omusubi\! How do you think those should look\?  
 **Ellen:** For cakes, something called a Buche de Noel is popular\. It's a roll cake decorated to look like a log of wood\.  
 **Yomi:** I see, a log of wood\.\.\. If it were a sushi roll, I could make it look that way\.  
@@ -554,7 +554,7 @@ The day of the Christmas Eve party\.
 **Yomi:** (The happy face of the person who receives it\.\.\. That's the fun of giving presents, isn't it\.\.\.\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UDpu_4zvXrw"></iframe>](:Iframe)  
 
-## [Journey to the West - Yomi: Start]: What Is Tsubakuro-san Going to Do\?
+## [Journey to the West - Yomi: Start\]: What Is Tsubakuro-san Going to Do\?
 **Yukari:** Satsuki\. Konohana will be joining me at this evening's conference\. I won't be needing an escort\. You'll be assisting Shidou instead\.  
 **Yomi:** Understood\.  
 **Suzuka:** Maki-san\. If there's an urgent request for aid, please do all you can\.  
@@ -588,7 +588,7 @@ A few days later\.
 **Suzuka:** Well, we're lucky to be spending some time together, though it's only for a few hours\.  
 **Yomi:** That's true\. I'm slightly looking forward to it\.  
 
-## [Journey to the West - Yomi: End]: It Might Be Nice to Continue Our Journey
+## [Journey to the West - Yomi: End\]: It Might Be Nice to Continue Our Journey
 **Maki:** Hey\.\.\. Yomi\. What are we doing here, anyway\.\.\.  
 **Yomi:** What are you saying now, Pigsy\? I'm Sandy\. And we have to defeat these bandits to rescue our master\.  
 **Maki:** Didn't think you'd get so into this\.\.\. Uh, Sandy\.  
@@ -623,7 +623,7 @@ A few days later\.
 **Yume:** Yeah, I'm getting excited for next time\~\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/53qQY9kGizE"></iframe>](:Iframe)  
 
-## [Renpu Summer Uniform - Yomi: Start]: Yomi and Akira
+## [Renpu Summer Uniform - Yomi: Start\]: Yomi and Akira
 **Yomi:** I thought then that, someday, I wanted to be helpful to that person\.  
 **Akira:** \.\.\.  
 **Yomi:** Sorry I made you wait\. It's been a while, Akira\.  
@@ -660,7 +660,7 @@ A few days later\.
 **Yomi:** \.\.\.  
 **Yomi:** \.\.\.That's something I can't promise\.  
 
-## [Renpu Summer Uniform - Yomi: End]: Someday
+## [Renpu Summer Uniform - Yomi: End\]: Someday
 **Tsugumi:** Preparations for the experiment are finished\.  
 **Yukina:** You've done well\.  
 **Yukina:** Though, from here on the details of the experiment are highly classified\. You need to leave\.  
@@ -682,7 +682,7 @@ A few days later\.
 **Yomi:** Yes ma'am\!  
 **Yomi:** YAAAAAAAAAAAAA\!  
 **Aradama:** OOOOOO\.\.\.  
-**Yomi:** [pant pant\.\.\.]  
+**Yomi:** [pant pant\.\.\.\]  
 **Yukina:** Next\!  
 **Researcher:** Maybe we should let her rest for a minute\.\.\.  
 **Yukina:** When I tell you next, bring out the next one\!  
@@ -708,7 +708,7 @@ A few days later\.
 **Yomi:** (So long as\.\.\. someday, I can help her\.\)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/x09jCgS9Qss"></iframe>](:Iframe)  
 
-## [Mahou Shoujo - Yomi: Start]: Similar to Someone
+## [Mahou Shoujo - Yomi: Start\]: Similar to Someone
 **Aradama:** OOOOOOOOOOOOOOOOO\!\!  
 **Yomi:** So they were here after all\.  
 **Nanoha:** I'll support you, Yomi-san\! Bind\!   
@@ -740,7 +740,7 @@ A few days later\.
 **Nanoha:** Ah, please wait for me\!  
 **Nanoha:** (Hmm, but who was it though\?\)  
 
-## [Mahou Shoujo - Yomi: End]: Yomi and Nanoha
+## [Mahou Shoujo - Yomi: End\]: Yomi and Nanoha
 **Aradama:** Oooooo\.\.\.  
 **Yomi:** \.\.\.Phew\.  
 **Yomi:** That aradama seems to have been the last of them\. Thank you for accompanying me\.  

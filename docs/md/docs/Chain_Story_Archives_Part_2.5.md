@@ -1,7 +1,7 @@
 
 Chain Story Archives Part 2.5
 =============================
-[Due to this event being released across 3 months, there are 3 separate videos]
+[Due to this event being released across 3 months, there are 3 separate videos\]
 
   
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/dRw4QiWULI0"></iframe>](:Iframe)  
@@ -563,7 +563,7 @@ Not long after Tagitsuhime, fleeing to the netherworld, spread aradama-- special
 **Hana:** They seriously did a number on the both of us\.  
 **Mai:** Suzumoto-san, and Yamashiro-san too\!\? Are you two okay\.\.\.\?  
 **Hana:** Doesn't feel like I'm doing that great\.  
-	[ambulance siren]
+	[ambulance siren\]
 
   
 **Yui:** Ah, sounds like our ride is here, Hana-san\.  

@@ -3,7 +3,7 @@ Maki/Mirja/Kofuki/Kanami episodes
 =================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/WNtGgHguxrw"></iframe>](:Iframe)  
 
-## [SDDT - Maki: Start]: Maki of the Special Defense Team
+## [SDDT - Maki: Start\]: Maki of the Special Defense Team
 **Maki:** Hmph\! \.\.\.Hmph\!  
 **Yume:** Ah, I finally found you, Maki-onee-san\!  
 **Maki:** \.\.\.Nn\? What do you need, Yume\?  
@@ -35,7 +35,7 @@ Maki/Mirja/Kofuki/Kanami episodes
 **Maki:** Seems like she wants a souvenir\.  
 **Suzuka:** Of course she would\. I'll look into it\.  
 
-## [SDDT - Maki: End]: Like a Hero
+## [SDDT - Maki: End\]: Like a Hero
 **Maki:** HAAAAAAAAAAAA\!\!  
 **Aradama:** oooo\.\.\.  
 **Maki:** There's more of them than I was expecting\.\.\. Was it a mistake to split up from Suzuka\.\.\.\?  
@@ -47,7 +47,7 @@ Maki/Mirja/Kofuki/Kanami episodes
 **Maki:** The situation'll just keep getting worse as it is\. I'll regroup with Suzuka so we can rethink our strategy\.  
 **Suzuka:** YAAAAAAAAAAAAAAA\!\!  
 **Aradama:** \.\.\.  
-**Suzuka:** [pant, pant]\.\.\. These numbers may be too much after all\.  
+**Suzuka:** [pant, pant\]\.\.\. These numbers may be too much after all\.  
 **Suzuka:** I should regroup with Maki-san for now\.\.\.  
 **Aradama:** OOOOOOOOOOOOOOO\!\!  
 **Suzuka:** Kh\.\.\. For me to have let my guard down here\.\.\.\!\!  
@@ -76,7 +76,7 @@ Maki/Mirja/Kofuki/Kanami episodes
 **Suzuka:** Fufu, allow me to lead the way\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Y6ff2yewfcQ"></iframe>](:Iframe)  
 
-## [Halloween 19 - Mirja: Start]: Kaiju Mirja\?
+## [Halloween 19 - Mirja: Start\]: Kaiju Mirja\?
 **Yui:** Mirja-san, are you going to be debuting on the silver screen\!\?  
 **Mirja:** Calm yourself, Yamashiro Yui\. Do you remember before, when Itomi Sayaka appeared in that film\?  
 **Kofuki:** Oh yeah, that happened, didn't it\. It was that time with the historical drama thing, right\?  
@@ -111,7 +111,7 @@ Maki/Mirja/Kofuki/Kanami episodes
 **Kofuki:** Well, either way, give it your best shot\. I'll be looking forward to it\.  
 **Mirja:** \.\.\.Yes, I'll make every effort\.  
 
-## [Halloween 19 - Mirja: End]: Sister Mirja\!
+## [Halloween 19 - Mirja: End\]: Sister Mirja\!
 On the day of filming\.
 
   
@@ -162,7 +162,7 @@ On the day of filming\.
 **Sanae:** Sure\! Please do\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/SIh8DzG3-h8"></iframe>](:Iframe)  
 
-## [Aradama Hoodie - Kofuki: Start]: Pissing Me Off
+## [Aradama Hoodie - Kofuki: Start\]: Pissing Me Off
 **Kofuki:** GYAAAAAAAAAAAAAAAAAAAAAA\!\!  
 **Mihono:** \!\? Just now, that was\.\.\.  
 **Tsugumi:** Yes, that was the shrill scream of Shichinosato-san just now\.  
@@ -197,7 +197,7 @@ On the day of filming\.
 **Kofuki:** Clothes shopping\? I haven't been in a while, so that sounds good\.  
 **Mihono:** Nice\! You should come too, Tsugumi-san\! It's a date\!  
 
-## [Aradama Hoodie - Kofuki: End]: On To the Shopping\!
+## [Aradama Hoodie - Kofuki: End\]: On To the Shopping\!
 **Mihono:** And with that, we're here, Harajuku\!  
 **Kofuki:** Yawwn\.\.\. I'm tired\.  
 **Tsugumi:** That's because you were asleep on the train\. Here, have some of this and you'll be wide awake\.  
@@ -214,20 +214,20 @@ On the day of filming\.
 **Kofuki:** I just pick out whatever\. Cruise around the shops and buy stuff\.\.\.  
 **Kofuki:** See, like that\? Ohm\.  
 **Mihono:** You say, \"like that\", but\.\.\. Where'd you find these hoodies\?  
-**Kofuki:** They were in the middle of the store, remember\? [chew chew]  
+**Kofuki:** They were in the middle of the store, remember\? [chew chew\]  
 **Mihono:** I didn't see it\.\.\. Nnn, this kind of thing's pretty cute too\.  
 **Kofuki:** It looks good on you, Mihocchi\. This's good\.  
 **Mihono:** Thanks, Fukki\.  
 **Tsugumi:** It's somewhat embarrassing the way we all match though, isn't it\?  
-**Kofuki:** You think so\? [chew chew] Mm-\!  
+**Kofuki:** You think so\? [chew chew\] Mm-\!  
 **Mihono:** \.\.\.That crepe must be yummy, huh\.  
-**Kofuki:** \.\.\.[grin] Mihocchi, you want a bite\?  
+**Kofuki:** \.\.\.[grin\] Mihocchi, you want a bite\?  
 **Mihono:** Can I\?  
 **Kofuki:** Sure, but you get one bite, alright\? Here\.\.\. Open wide\.  
 **Mihono:** Ahh-\.\.\. Nngh\!\?  
 **Mihono:** Hey, Fukki\! Weren't you gonna let me have some\!\?  
 **Kofuki:** Ahahahahaha\! If you wanted to eat some, then go buy it yourself, Mihocchi\.  
-**Tsugumi:** Ohm\. \.\.\.[chew chew] I see, it is fairly good\.  
+**Tsugumi:** Ohm\. \.\.\.[chew chew\] I see, it is fairly good\.  
 **Kofuki:** Hey, don't you go eating it\!  
 **Mihono:** Now's my chance\.\.\. Mmm-, so good\!  
 **Kofuki:** Mihocchi too\!\? Ahh, damnit\! Gimme back the bits you ate\!  
@@ -236,7 +236,7 @@ On the day of filming\.
 **Kofuki:** Like you can talk when you're the one who went and ate it-\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqlN1QeE1o"></iframe>](:Iframe)  
 
-## [Stage Girl - Kanami: Start]: Somebody I Want to Spar With\!
+## [Stage Girl - Kanami: Start\]: Somebody I Want to Spar With\!
 **Maya:** Now then, I'll have you leave the stage\. --HAAH\!  
 **Karen:** YAH\!  
 **Karen:** Nice\! I beat it-\.  
@@ -269,7 +269,7 @@ Hikari Slipping through my firmly raised hands, the vow we made that day fell in
 **Hikari:** \.\.\.You're watching my movements closely\.  
 **Kanami:** That's good\! Show me more and more, Hikari-chan, of the way that you fight\!  
 
-## [Stage Girl - Kanami: End]: It Is All for the Sake of Starlight\!
+## [Stage Girl - Kanami: End\]: It Is All for the Sake of Starlight\!
 **Hikari:** \.\.\.There-\!  
 **Kanami:** \!\? That was a little risky just now\!  
 **Kanami:** You're using the spring in your body to get even sharper with your strikes\! That was a great thrust\!  

@@ -222,7 +222,7 @@ Several hours before the tournament began--
 **Yukari:** Those who cannot recognize their inexperience, have no room to grow from it\.\.\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/sMZQqm5pL1U"></iframe>](:Iframe)  
 
-## [Renpu High: Start]: Marshmallows
+## [Renpu High: Start\]: Marshmallows
 **Minato:** Yukari, Kagari, morning-\!  
 **Yukari:** Morning, Minato\.  
 **Kagari:** Good morning\.  
@@ -258,7 +258,7 @@ After school that day\.
 **Kagari:** There's something strange about Yukari-sama today, isn't there\?  
 **Minato:** That's what I'm saying\. It always feels like I'm the one sticking close to Yukari, but today it's like it's the other way around\.\.\. I wonder what happened\.\.\. Nn-, I wanna know\!  
 
-## [Renpu High: End]: Dream Come True
+## [Renpu High: End\]: Dream Come True
 **Minato:** Ahh\~, the three of us skipping practice and going home together feels all fresh and exciting\! Want to stop by somewhere\?  
 **Kagari:** Yukari-sama and I will be practicing as soon as we return to the Origami household\. Please don't treat us like your accomplices, Minato-senpai\.  
 **Minato:** Come on, don't be such a stick in the mud\~\. We never go home early together\! There's this super cool secret spot I found that I'll show you\.  
@@ -292,7 +292,7 @@ After school that day\.
 **Yukari:** That's for sure\. I hope we can be spared Minato getting spirited away or the gravel turning to marshmallows, but I'm very glad to see a dream like this come true\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Z23ZqgN4an4"></iframe>](:Iframe)  
 
-## [Dress '20 - Yukari: Start]: Recognition Party Put in Motion
+## [Dress '20 - Yukari: Start\]: Recognition Party Put in Motion
 **Yume:** I wanna have a party\!  
 **Yukari:** A party\?  
 **Maki:** Where's this coming from all of a sudden, Yume\?  
@@ -324,7 +324,7 @@ After school that day\.
 **Yuzuki:** It's bound to happen\.  
 **Yukari:** Then, I'm relying on you for the day of\.  
 
-## [Dress '20 - Yukari: End]: Recognition Party
+## [Dress '20 - Yukari: End\]: Recognition Party
 **Maki:** Yukari-sama, we've finished organizing the tables\.  
 **Yukari:** And the food\?  
 **Yomi:** There are no issues\.  

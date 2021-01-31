@@ -195,7 +195,7 @@ Another day\.\.\.
 **Mihono:** She's having a meltdown\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Qn8sW115TSU"></iframe>](:Iframe)  
 
-## [Railgun - Kofuki: Start]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!
+## [Railgun - Kofuki: Start\]: It's Bizarre\! The Human Aradama of Renpu Girls' Academy\!
 **Ruiko:** Shichinosato-san\! Is it really true that Renpu Girls' Academy is researching human aradamas behind closed doors\!\?  
 **Kofuki:** The hell are you talking about\?  
 **Ruiko:** It's a rumor I've been hearing from all the toji\!  
@@ -231,7 +231,7 @@ Another day\.\.\.
 **Tsugumi:** Honestly\.\.\. My name is Ban Tsugumi\. You wanted to look in on our research, didn't you\? Make yourselves at home\.  
 **Ruiko:** I-I thought you'd be mad at us\.\.\.  
 
-## [Railgun - Kofuki: End]: Take it Easy With Gathering Rumors
+## [Railgun - Kofuki: End\]: Take it Easy With Gathering Rumors
 **Ruiko:** When you suddenly popped out at us, I was thinking, \"We're gonna get turned into human aradama experiments\!\"  
 **Tsugumi:** Human aradama\.\.\. Ahh, it's about that rumor, isn't it\.  
 **Ruiko:** You know about it\!\?  
@@ -267,7 +267,7 @@ Another day\.\.\.
 **Tsugumi:** \.\.\.I notice you didn't say you were going to stop\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/SIh8DzG3-h8"></iframe>](:Iframe)  
 
-## [Aradama Hoodie - Kofuki: Start]: Pissing Me Off
+## [Aradama Hoodie - Kofuki: Start\]: Pissing Me Off
 **Kofuki:** GYAAAAAAAAAAAAAAAAAAAAAA\!\!  
 **Mihono:** \!\? Just now, that was\.\.\.  
 **Tsugumi:** Yes, that was the shrill scream of Shichinosato-san just now\.  
@@ -302,7 +302,7 @@ Another day\.\.\.
 **Kofuki:** Clothes shopping\? I haven't been in a while, so that sounds good\.  
 **Mihono:** Nice\! You should come too, Tsugumi-san\! It's a date\!  
 
-## [Aradama Hoodie - Kofuki: End]: On To the Shopping\!
+## [Aradama Hoodie - Kofuki: End\]: On To the Shopping\!
 **Mihono:** And with that, we're here, Harajuku\!  
 **Kofuki:** Yawwn\.\.\. I'm tired\.  
 **Tsugumi:** That's because you were asleep on the train\. Here, have some of this and you'll be wide awake\.  
@@ -319,20 +319,20 @@ Another day\.\.\.
 **Kofuki:** I just pick out whatever\. Cruise around the shops and buy stuff\.\.\.  
 **Kofuki:** See, like that\? Ohm\.  
 **Mihono:** You say, \"like that\", but\.\.\. Where'd you find these hoodies\?  
-**Kofuki:** They were in the middle of the store, remember\? [chew chew]  
+**Kofuki:** They were in the middle of the store, remember\? [chew chew\]  
 **Mihono:** I didn't see it\.\.\. Nnn, this kind of thing's pretty cute too\.  
 **Kofuki:** It looks good on you, Mihocchi\. This's good\.  
 **Mihono:** Thanks, Fukki\.  
 **Tsugumi:** It's somewhat embarrassing the way we all match though, isn't it\?  
-**Kofuki:** You think so\? [chew chew] Mm-\!  
+**Kofuki:** You think so\? [chew chew\] Mm-\!  
 **Mihono:** \.\.\.That crepe must be yummy, huh\.  
-**Kofuki:** \.\.\.[grin] Mihocchi, you want a bite\?  
+**Kofuki:** \.\.\.[grin\] Mihocchi, you want a bite\?  
 **Mihono:** Can I\?  
 **Kofuki:** Sure, but you get one bite, alright\? Here\.\.\. Open wide\.  
 **Mihono:** Ahh-\.\.\. Nngh\!\?  
 **Mihono:** Hey, Fukki\! Weren't you gonna let me have some\!\?  
 **Kofuki:** Ahahahahaha\! If you wanted to eat some, then go buy it yourself, Mihocchi\.  
-**Tsugumi:** Ohm\. \.\.\.[chew chew] I see, it is fairly good\.  
+**Tsugumi:** Ohm\. \.\.\.[chew chew\] I see, it is fairly good\.  
 **Kofuki:** Hey, don't you go eating it\!  
 **Mihono:** Now's my chance\.\.\. Mmm-, so good\!  
 **Kofuki:** Mihocchi too\!\? Ahh, damnit\! Gimme back the bits you ate\!  
@@ -341,7 +341,7 @@ Another day\.\.\.
 **Kofuki:** Like you can talk when you're the one who went and ate it-\!  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/uHqT2Ku_lgU"></iframe>](:Iframe)  
 
-## [Misogi - Kofuki: Start]:
+## [Misogi - Kofuki: Start\]:
 **Tsugumi:** \.\.\.Let's put an end to things here for today\. Good work, Shichinosato-san\.  
 **Kofuki:** What, done already\?  
 **Tsugumi:** Yes, this is plenty for today\. \.\.\.Here, have some hot milk\.  
@@ -349,7 +349,7 @@ Another day\.\.\.
 **Tsugumi:** Of course not\.  
 **Kofuki:** Thanks for that\.\.\. Oww, hot\! Let it cool down some first\!  
 **Tsugumi:** Huh, had it not cooled off enough yet\? I'm sorry\.  
-**Kofuki:** Damnit\.\.\. [blow- blow-]\.\.\.  
+**Kofuki:** Damnit\.\.\. [blow- blow-\]\.\.\.  
 **Kofuki:** Oh yeah, get this\! Earlier, Mihocchi went and ate my milk pudding, y'know\!\?  
 **Tsugumi:** That sounds like fun\.  
 **Kofuki:** \.\.\.Huh\? You even listening\? What part about getting your pudding eaten sounds fun to you\!  
@@ -374,7 +374,7 @@ Another day\.\.\.
 **Kofuki:** I mean, you say that, but\.\.\.  
 **Kofuki:** \.\.\.Have I really changed\?  
 
-## [Misogi - Kofuki: End]:
+## [Misogi - Kofuki: End\]:
 **Kofuki:** I'm here-\.  
 **Tsugumi:** Oh, you seem to be in a bad mood today\.  
 **Tsugumi:** Did Asakura-san take your milk pudding again\.\.\. No, you didn't get enough sleep, did you\.  

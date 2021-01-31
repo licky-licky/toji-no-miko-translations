@@ -8,7 +8,7 @@ https://streamable.com/cq5bjh
 
   
 
-## [Pirate - Akira: Start]:  We Can Enjoy the Perks Sometimes, Right\?
+## [Pirate - Akira: Start\]:  We Can Enjoy the Perks Sometimes, Right\?
 **Aradama:** GGGGGII\.\.\.\!  
 **Mihono:** Akira-san\! Now's your chance\!  
 **Akira:** Sure, leave it to me\!  
@@ -45,7 +45,7 @@ https://streamable.com/cq5bjh
 **Mihono:** Yeah\! It's totally more exciting\!  
 **Yomi:** There is a time limit, so please don't forget that, you two\.  
 
-## [Pirate - Akira: End]: Alriiight, We're Boarding\!
+## [Pirate - Akira: End\]: Alriiight, We're Boarding\!
 **Akira:** Yo, wanna have a little fun with us\?  
 **Akira:** Give us a minute and we'll get your flag down\.  
 **Yomi:** That's how this will be, so excuse us\.  
@@ -95,7 +95,7 @@ https://streamable.com/bos4qz
 
   
 
-## [Pirate - Mihono: Start]: Our Reward's A Treasure Hunt at the Amusement Park\!
+## [Pirate - Mihono: Start\]: Our Reward's A Treasure Hunt at the Amusement Park\!
 **Aradama:** GGGIII\.\.\.\!  
 **Mihono:** Ehh\.\.\. There's more aradama this way\!\? They're small, but, this many is\.\.\.\!  
 **Yomi:** Asakura-san, please focus on the aradama to the front\.  
@@ -131,7 +131,7 @@ https://streamable.com/bos4qz
 **Yui:** That's one thing to look forward to, but what I really want to see to is everybody dressed like pirates\! I'll burn it deep into my eyes and plenty of photos on my phone\~\!  
 **Mihono:** Yeah, yeah\! Besides the treasure hunt, it's going to be so fun fighting in pirate cosplay for the flags-\.  
 
-## [Pirate - Mihono: End]: The Treasure Comes After we Take Down Their Pirate Flag\!
+## [Pirate - Mihono: End\]: The Treasure Comes After we Take Down Their Pirate Flag\!
 **Mihono:** Wawah\!\?  
 **Mihono:** It's great and all I made it over to this ship without Kiyoka and them noticing, but\.\.\. Bringing down their pirate flag is actually tough\.\.\.\!  
 **Yui:** Fu fu fu\~\. And what about you, Mihono-chan\? You sure you didn't want to stop us from bringing down your pirate flag\?  
@@ -169,7 +169,7 @@ https://streamable.com/bos4qz
 **Kiyoka:** Mm, we should do that\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/61uP0-QaIpA"></iframe>](:Iframe)  
 
-## [Pirate - Hiyori: Start]: Inami and Shichinosato and\.\.\.
+## [Pirate - Hiyori: Start\]: Inami and Shichinosato and\.\.\.
 **Aradama:** KSHAAAAAA\.\.\.\!\!  
 **Suu:** \.\.\.I-It's here\!\?  
 **Hiyori:** (There's no way she'll beat it hunched over in fear like that--\)  
@@ -214,7 +214,7 @@ https://streamable.com/bos4qz
 **Kofuki:** Tch\.\.\. Guess if I've gotta\.  
 **Suu:** Ehh\.\.\. As long as there aren't any aradama, I'm not like that\! \.\.\.I won't lose the map, okay\!\?  
 
-## [Pirate - Hiyori: End]: This Might Not Be So Bad Every Now and Then\.\.\. Huh
+## [Pirate - Hiyori: End\]: This Might Not Be So Bad Every Now and Then\.\.\. Huh
 **Suu:** I didn't think the cave drawing on the map would take us to a big stalactite cave facility, and they even had a boat for us\. This has to be it--  
 **Suu:** --HYAUU\!\?  
 **Kofuki:** Don't shout like that outta nowhere\.\.\. You made me jump\.  
@@ -256,7 +256,7 @@ https://streamable.com/bos4qz
 **Hiyori:** Good grief\.\.\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ee9V9yy0uqk"></iframe>](:Iframe)  
 
-## [Pirate - Suu: Start]: After Eliminating the Aradama--
+## [Pirate - Suu: Start\]: After Eliminating the Aradama--
 **Aradama:** AAAAA\.\.\.  
 **Suu:** GYAH\! D-D-Don't come this way, aradama\!  
 **Suu:** I mean, Shichinosato-san\!\? Aradama\! There's an aradama\!\? Hurry up hurry up\!  
@@ -292,7 +292,7 @@ https://streamable.com/bos4qz
 **Kofuki:** Oi\.\.\. Wait a sec\. She didn't even look at the map; where's she think she's going\?  
 **Hiyori:** \.\.\.Guess we should go after her\.  
 
-## [Pirate - Suu: End]: This Was Supposed to Be All Fun and Games\.\.\.\!
+## [Pirate - Suu: End\]: This Was Supposed to Be All Fun and Games\.\.\.\!
 **Hiyori:** So if we find\.\.\. a pendant from an ancient pirate treasure before time runs out, we win\?  
 **Suu:** Yes\. It looks like you also get points for stealing other team's maps, but getting a pendant is worth the most\.  
 **Kofuki:** Aghh\.\.\. Instead of treasure, could we get some aradama-chan in here\~\.  

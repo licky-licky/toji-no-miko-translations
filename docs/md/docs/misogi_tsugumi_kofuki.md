@@ -5,8 +5,8 @@ https://streamable.com/vvs3hu
 
   
 
-## [Misogi - Tsugumi: Start]: Chasing the Mysteries of Aradama
-**Tsugumi:** [sippp, sippp\.\.\. slurrrp\.\.\.]  
+## [Misogi - Tsugumi: Start\]: Chasing the Mysteries of Aradama
+**Tsugumi:** [sippp, sippp\.\.\. slurrrp\.\.\.\]  
 **Tsugumi:** Mmm, this is no good\.  
 **Kofuki:** Oh, you finally realized how bad that stuff is\? Even if it's nutritious, it tastes like crap\.  
 **Tsugumi:** Hm\? What are you talking about\? These packs are great tasting and perfectly nutritious; the complete portable meal\.  
@@ -42,7 +42,7 @@ https://streamable.com/vvs3hu
 **Tsugumi:** I've already taken care of researching that\. So then, shall we go-\?  
 **Ellen:** Let's go\!  
 
-## [Misogi - Tsugumi: End]: Trial and Error Towards a Dream
+## [Misogi - Tsugumi: End\]: Trial and Error Towards a Dream
 **Tsugumi:** From what a local farmer said, there are frequent cases of aradama stealing their crops\.  
 **Ellen:** There don't seem to be any attacks on people either\. The theory's sounding more and more credible\!  
 **Tsugumi:** Yes\. It's considered impossible for aradama to grow accustomed to humans, but this shows promise, doesn't it-\. I'm feeling inspired now-\.  
@@ -92,7 +92,7 @@ https://streamable.com/tvpstr
 
   
 
-## [Misogi - Kofuki: Start]:
+## [Misogi - Kofuki: Start\]:
 **Tsugumi:** \.\.\.Let's put an end to things here for today\. Good work, Shichinosato-san\.  
 **Kofuki:** What, done already\?  
 **Tsugumi:** Yes, this is plenty for today\. \.\.\.Here, have some hot milk\.  
@@ -100,7 +100,7 @@ https://streamable.com/tvpstr
 **Tsugumi:** Of course not\.  
 **Kofuki:** Thanks for that\.\.\. Oww, hot\! Let it cool down some first\!  
 **Tsugumi:** Huh, had it not cooled off enough yet\? I'm sorry\.  
-**Kofuki:** Damnit\.\.\. [blow- blow-]\.\.\.  
+**Kofuki:** Damnit\.\.\. [blow- blow-\]\.\.\.  
 **Kofuki:** Oh yeah, get this\! Earlier, Mihocchi went and ate my milk pudding, y'know\!\?  
 **Tsugumi:** That sounds like fun\.  
 **Kofuki:** \.\.\.Huh\? You even listening\? What part about getting your pudding eaten sounds fun to you\!  
@@ -125,7 +125,7 @@ https://streamable.com/tvpstr
 **Kofuki:** I mean, you say that, but\.\.\.  
 **Kofuki:** \.\.\.Have I really changed\?  
 
-## [Misogi - Kofuki: End]:
+## [Misogi - Kofuki: End\]:
 **Kofuki:** I'm here-\.  
 **Tsugumi:** Oh, you seem to be in a bad mood today\.  
 **Tsugumi:** Did Asakura-san take your milk pudding again\.\.\. No, you didn't get enough sleep, did you\.  

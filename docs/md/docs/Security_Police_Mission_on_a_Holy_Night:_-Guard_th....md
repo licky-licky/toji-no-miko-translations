@@ -103,7 +103,7 @@ On a day off\.
 
   
 **Mihono:** So anyway, we're here to buy presents for the present exchange-\!  
-**Kiyoka/Suu:** [clap clap clap]\~\!  
+**Kiyoka/Suu:** [clap clap clap\]\~\!  
 **Mihono:** I'm glad Akira-san and Iwakura-san both said they're excited to do it\. Did you two already decide on what you're buying\?  
 **Suu:** I actually have two things in mind\.\.\. Garden or Hell Angel Marvelous-chan; which one do you think I should try and make more fans of\!\?  
 **Mihono:** Wh-Which one\.\.\. What are you gonna do if they go to Akira-san\?  

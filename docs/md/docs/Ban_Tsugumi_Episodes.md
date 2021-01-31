@@ -276,7 +276,7 @@ Our current relationship\? If I had to say, I don't think it's going too badly\.
 **Tsugumi:** If I'm being honest, it's an awfully rough hypothesis\. But, considering the help I've been given, I hope the results will be worth it\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/evNvCiMwU_E"></iframe>](:Iframe)  
 
-## [Xmas' 19 - Tsugumi: Start]: With Our Caroling
+## [Xmas' 19 - Tsugumi: Start\]: With Our Caroling
 **Mihono:** Wow-\! Come take a look\! There's so many tasty looking cakes\!  
 **Kofuki:** Whoa\! This pudding looks good as hell\!  
 **Mirja:** Asakura Mihono, Shichinosato Kofuki, we did not come here today to eat cakes\.  
@@ -309,7 +309,7 @@ Our current relationship\? If I had to say, I don't think it's going too badly\.
 **Kofuki:** So, where do we start with practicing carols now\?   
 **Tsugumi:** First, to understand what position we're starting from, why don't we sing through our songs\?  
 **Mihono:** Okaaay\! Then, I'll put on the background music CD, so let's sing along with it\!  
-**Mihono/Tsugumi/Kofuki:** [singing]  
+**Mihono/Tsugumi/Kofuki:** [singing\]  
 **Tsugumi:** Hmm, I'm sorry to say this, but we don't exactly have the voices of angels, do we\.  
 **Kofuki:** With the two of you going all into falsetto, we weren't getting anywhere near enough volume\!  
 **Tsugumi:** That's true; because we're singing in a different register than usual, we may need to train our throats more\.  
@@ -317,7 +317,7 @@ Our current relationship\? If I had to say, I don't think it's going too badly\.
 **Mihono:** A-A special medicine\!\?  
 **Kofuki:** I've got a real bad feeling about where this is going\.\.\.  
 
-## [Xmas' 19 - Tsugumi: End]: Harmony Resounding Through the Holy Night
+## [Xmas' 19 - Tsugumi: End\]: Harmony Resounding Through the Holy Night
 The next day\.
 
   
@@ -327,7 +327,7 @@ The next day\.
 **Kofuki:** There's no way that's going in my mouth, alright\!  
 **Mihono:** I-I practiced real hard by myself yesterday to bring my voice out, so I'll be fine without having to have one of those\.\.\. Or something\.  
 **Tsugumi:** I see\. I was fairly proud of how these turned out too\.\.\.  
-**Yui:** [sniff sniff]\.\.\. Something sweet is in the air\.\.\. And so I followed my nose, and it led me to a meetup of my sweet honeys\! My intuition's super on the mark\~\!  
+**Yui:** [sniff sniff\]\.\.\. Something sweet is in the air\.\.\. And so I followed my nose, and it led me to a meetup of my sweet honeys\! My intuition's super on the mark\~\!  
 **Tsugumi:** Yamashiro-san\. You came at the perfect time\. Would you like to have a snack\?  
 **Yui:** Can I\!\?  Ah\! Are these sweets you made yourself, Tsugumi-san\!\?  
 **Tsugumi:** Yes\. I tried creating special-made lozenges that were gentle on the throat, but the others said they didn't need them\.\.\.  
@@ -340,7 +340,7 @@ The next day\.
 **Tsugumi:** Hmhm, the effects are already showing in such a short timeframe\. It seems I can call this highly successful\.  
 **Yui:** Ahh\~\! I want to shout\! Shout my heart out\! AHHHH\~\~\~\~\~\~\~\~\~\~\!  
 **Mihono:** Sh-She's so loud\! Yui's singing is making the windows rattle-\! Tsuguki-san's lozenges might actually be amazing\!  
-**Yui:** Whoa; what's going on\! I can sing kobushi so well now it's funny\~\! Give me any enka song and I feel like I could sing it\! HAA\~\~\~\~\~\~\~\~\~\!		[Kobushi is a technique used in singing enka, where a single syllable is sung while moving between several different notes in succession]  
+**Yui:** Whoa; what's going on\! I can sing kobushi so well now it's funny\~\! Give me any enka song and I feel like I could sing it\! HAA\~\~\~\~\~\~\~\~\~\!		[Kobushi is a technique used in singing enka, where a single syllable is sung while moving between several different notes in succession\]  
 **Yui:** Ahh\~\! I want to sing out across the sea of Japan\! My body's itching to try it\~\! I can't take it anymore\! I'm on my way\!  
 **Mihono:** And she's gone\.\.\.  
 **Tsugumi:** She sure is\.\.\. Though, thanks to Yamashiro-san's sudden appearance, I was able to prove the potency of these lozenges\. Now, you two, try some as well\!  
@@ -369,8 +369,8 @@ December 25th\.
 **Tsugumi:** Sure\. Now then, let's go out\. Our choir is taking the stage\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/hYaqFwGk9SI"></iframe>](:Iframe)  
 
-## [Misogi - Tsugumi: Start]: Chasing the Mysteries of Aradama
-**Tsugumi:** [sippp, sippp\.\.\. slurrrp\.\.\.]  
+## [Misogi - Tsugumi: Start\]: Chasing the Mysteries of Aradama
+**Tsugumi:** [sippp, sippp\.\.\. slurrrp\.\.\.\]  
 **Tsugumi:** Mmm, this is no good\.  
 **Kofuki:** Oh, you finally realized how bad that stuff is\? Even if it's nutritious, it tastes like crap\.  
 **Tsugumi:** Hm\? What are you talking about\? These packs are great tasting and perfectly nutritious; the complete portable meal\.  
@@ -406,7 +406,7 @@ December 25th\.
 **Tsugumi:** I've already taken care of researching that\. So then, shall we go-\?  
 **Ellen:** Let's go\!  
 
-## [Misogi - Tsugumi: End]: Trial and Error Towards a Dream
+## [Misogi - Tsugumi: End\]: Trial and Error Towards a Dream
 **Tsugumi:** From what a local farmer said, there are frequent cases of aradama stealing their crops\.  
 **Ellen:** There don't seem to be any attacks on people either\. The theory's sounding more and more credible\!  
 **Tsugumi:** Yes\. It's considered impossible for aradama to grow accustomed to humans, but this shows promise, doesn't it-\. I'm feeling inspired now-\.  
@@ -450,7 +450,7 @@ December 25th\.
 **Ellen:** Of course it is\!  
 **Tsugumi:** Good, this should help me make progress in data gathering\. Now then, on the way back, how about we discuss my idea from earlier-\?  
 
-## [Summer Uniform 20 - Tsugumi: Start]:
+## [Summer Uniform 20 - Tsugumi: Start\]:
 **Tsugumi:** We'll be\.\.\. cleaning the pool\?  
 **Yomi:** Yes\. President Takatsu ordered us \"to clean it up\.\"  
 **Tsugumi:** Roger that-\.  
@@ -491,7 +491,7 @@ December 25th\.
 **Tsugumi:** I spread the word for now, but\.\.\. How many will actually be there\?  
 **Tsugumi:** I'll have to wait and see tomorrow\.  
 
-## [Summer Uniform 20 - Tsugumi: End]:
+## [Summer Uniform 20 - Tsugumi: End\]:
 The day of the pool cleaning\.
 
   
@@ -527,7 +527,7 @@ The day of the pool cleaning\.
 **Akira:** \.\.\.You're tough to get a handle on, y'know\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/imReN1M24ss"></iframe>](:Iframe)  
 
-## [Mahou Shoujo - Tsugumi: Start]: Tsugumi-san Can Do Anything
+## [Mahou Shoujo - Tsugumi: Start\]: Tsugumi-san Can Do Anything
 **Announcement:** --An outbreak of aradama has been confirmed\. Please follow instructions from officials and evacuate immediately\.  
 **Announcement:** I repeat--  
 **Tsugumi:** Okay\.\.\. Alright, I see\. Thank you\.  
@@ -559,7 +559,7 @@ The day of the pool cleaning\.
 **Tsugumi:** It wouldn't be good for us to be too leisurely and leave all the work to Tsubakuro-san and Harlaown-san\.  
 **Nanoha:** That's true\!  
 
-## [Mahou Shoujo - Tsugumi: End]: Tsugumi-san is Strange
+## [Mahou Shoujo - Tsugumi: End\]: Tsugumi-san is Strange
 **Aradama:** GYAOOOOOOOOOOOOO\!  
 **Nanoha:** Soul Shooter\!  
 **Aradama:** ooo\.\.\.  

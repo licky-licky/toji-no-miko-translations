@@ -5,7 +5,7 @@ https://streamable.com/v0eyom
 
   
 
-## [Dress - Chie: Start]: Taking a Breather
+## [Dress - Chie: Start\]: Taking a Breather
 **Chie:** Nnn\.\.\.\! They're finally done drawing raffle tickets-\. I can take a break at last\.  
 **Chie:** I wonder if there's any food left\?  
 **Ellen:** Thanks for helping out, Chie\!  
@@ -40,7 +40,7 @@ https://streamable.com/phvglv
 
   
 
-## [Dress - Chie: End]: Because I'm Her Onee-san
+## [Dress - Chie: End\]: Because I'm Her Onee-san
 **Chie:** Phew\.\.\. I think I overate a tad\.  
 **Mihono:** Heyyy\! Chii-nee\!  
 **Chie:** Mihono-chan, and\.\.\. Etou-san\? Is something wrong\?  
@@ -80,7 +80,7 @@ https://streamable.com/0lf1lv
 
   
 
-## [Nurse - Chie: Start]: I'm Worried After All
+## [Nurse - Chie: Start\]: I'm Worried After All
 **Mihono:** You're going to be in a practical exercise for medical courses\?  
 **Chie:** That's right\. It's part of a lecture I took that sounded interesting\. Which is why I won't be there for the investigation team on the day of the exercise\.  
 **Mirja:** I understand\.  
@@ -113,7 +113,7 @@ https://streamable.com/0lf1lv
 **Chie:** Mirja, I'm sure it won't be easy on you, but do your best looking after them\.  
 **Mirja:** \.\.\.I know, I will\.  
 
-## [Nurse - Chie: End]: It's Alright
+## [Nurse - Chie: End\]: It's Alright
 **Sakura:** \.\.\.I'm Hamatsuka Sakura, from the medical department\. I'm glad to be working with you today\.  
 **Chie:** And I am too, Hamatsuka-san\. I'm Setouchi Chie\.  
 **Chie:** It's nice to meet you\.\.\. Though, this isn't the first time we've met, is it\?  
