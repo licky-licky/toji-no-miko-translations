@@ -20,12 +20,16 @@ export const config = /*#__PURE__*/configuration({
         const nav = Array.from(html.getElementsByClassName('contentnav-0-0-11'))
         for (let i = 0; i < nav.length; i++) {
           const n = nav[i] as HTMLElement
-          n.style.maxHeight = '60vh'
+          n.style.maxHeight = '75vh'
         }
-        const all = Array.from(html.querySelectorAll('*'))
-        for (let i = 0; i < all.length; i++) {
-          const a = all[i] as HTMLElement
-          a.style.scrollBehavior = 'auto'
+        const buttons = Array.from(html.querySelectorAll('[class^="button-"]'))
+        for (let i = 0; i < buttons.length; i++) {
+          const a = buttons[i] as HTMLElement
+          a.style.marginLeft = '0'
+          a.style.marginTop = '12px'
+          const div = a.parentElement
+          if (div !== null)
+            div.style.textAlign = 'left'
         }
       }
     ]
