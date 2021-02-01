@@ -20,7 +20,6 @@ import { GithubSearch } from '/home/runner/work/tnm-translations/tnm-translation
 import { ToCToggle } from '/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { TabSelector } from '/home/runner/work/tnm-translations/tnm-translations/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
 
 const components = {
   '0nQJJvv1ZuA4pDD0rMMbZQ==': ToCPrevNext,
@@ -28,8 +27,7 @@ const components = {
   'pPI0V2tGPE6i7R5rcIMc6Q==': GithubSearch,
   'r15jVe4dUkqL6cmmQXHmOA==': ToCToggle,
   'pzGbPwnVBe064NEWOX4SBA==': DarkModeSwitch,
-  'yGfPl+yTadaka6bBVq9Nzw==': ConfigTransport,
-  'j1URj5ODmqfDYwC7MlV/6g==': TabSelector
+  'yGfPl+yTadaka6bBVq9Nzw==': ConfigTransport
 };
 
 const renderer = getRenderer();
