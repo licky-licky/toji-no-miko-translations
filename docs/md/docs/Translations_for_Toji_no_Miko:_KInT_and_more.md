@@ -2,7 +2,10 @@
 Translations for Toji no Miko: KInT and more
 ============================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/playlist?list=PLk4EUmZ8ni9xHJb-ZBPdnsuwvXS0pL-Wj"></iframe>](:Iframe)  
-Someone kindly subbed recordings of all translations relating to the game here\. I highly recommend watching these over reading the raw text\. You can also navigate from below\. Each section for the game translations has an individual playlist at the top, and I try to include links to the respective videos in every pastebin\.
+https://swordpolishing.github.io/tnm-translations/
+
+  
+If you're here for game translations, above are links to a youtube playlist subbing everything, and a better formatted site than pastebin to read the raw text\. It also links out to individual youtube videos\. I highly recommend watching those, especially in the case of the fully voiced main story\.
 
   
 -------------------------------------------------------------------------------------------------------------------------------------
