@@ -51,7 +51,7 @@
 
 ## 4: The Search is On\! (1\)
 **Mihono:** We got to Choshi in no time\! That's a helicopter for you\!  
-**Kiyoka:** But now, which way should we be going\.\.\.\?　  
+**Kiyoka:** But now, which way should we be going\.\.\.\?  
 **Mirja:** Though we're here to rescue them, we don't have an accurate idea of Ichikishimahime's current position\.  
 **Kofuki:** Ichikishimahime's an aradama-chan, so can't we track her down with the spectrum finder\?  
 **Mirja:** Unfortunately, due to the high concentration of aradama in the area, our spectrum finders won't be of any use\.  

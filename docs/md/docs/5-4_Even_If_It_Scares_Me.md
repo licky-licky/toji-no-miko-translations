@@ -48,7 +48,7 @@ At the same time\.
 
   
 **\?\?\?:** Ah, aghh, ah, aghhh\.\.\.  
-**Kiyoka:** What\.\.\. is that\.\.\.\?　  
+**Kiyoka:** What\.\.\. is that\.\.\.\?  
 **Mirja:** There's an aradama wrapped over her body\.\.\. No; or has her body itself turned into aradama\.\.\.\?  
 **Yui:** When they said the Hitakami faction was doing experiments, is this what they made\.\.\.\?  
 **Hitakami Toji L:** That's\.\.\. one of the failed tamayori subjects\.\.\.\?  

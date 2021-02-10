@@ -19,7 +19,7 @@ Ban Tsugumi Episodes
 **Tsugumi:** Oh, these\? With these, first you place the ingredients and what have you in the blender\.\.\.  
 **Tsugumi:** Sprinkle all the supplements in here as well\.\.\.  
 **Tsugumi:** And there you have it\. All that's left is to fill it into vacuum packs, write the dates, and it's done\.  
-**Mihono:** U-Uhh\.\.\.\?　  
+**Mihono:** U-Uhh\.\.\.\?  
 **Kanami:** Is it some kind of drug for your aradama research\.\.\.\?  
 **Tsugumi:** No, these are my meals for the week\.  
 **Kanami/Mihono:** EHHHH-\!\?  
