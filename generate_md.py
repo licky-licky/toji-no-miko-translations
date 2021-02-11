@@ -52,6 +52,9 @@ def get_events():
         for r in results:
             if r['paste_key'] == translations_paste_key:
                 data = r['data']
+            if "Happy New Year! The Tojis' New Year's and Prayers" in r['title']:
+                events.append(r['paste_key'])
+
         if data:
             for num, line in enumerate(data.splitlines(), 1):
                 if '[---EVENTS---]' in line:
@@ -63,6 +66,8 @@ def get_events():
                 if evt and evt[0] == 'h':
                     events.append(evt.replace('https://pastebin.com/', ''))
             
+            events = events[2:-2] + events[0:2] + events[-2:]
+
             for e in events:
                 for r in results:
                     if r['paste_key'] == e:
