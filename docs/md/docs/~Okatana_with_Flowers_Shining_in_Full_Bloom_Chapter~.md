@@ -1,5 +1,5 @@
 
-\~Okatana with Flowers Shining in Full Bloom Chapte...
+\~Okatana with Flowers Shining in Full Bloom Chapter\~
 ======================================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/PjOQnrdBW6A"></iframe>](:Iframe)  
 

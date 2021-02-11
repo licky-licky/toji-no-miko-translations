@@ -1,6 +1,6 @@
 
-Fall's Main Event! Great Leaf Viewing Operati...
-================================================
+Fall's Main Event! Great Leaf Viewing Operation
+===============================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/fZFiQs-1TKo"></iframe>](:Iframe)  
 Covers both fall events\.
 

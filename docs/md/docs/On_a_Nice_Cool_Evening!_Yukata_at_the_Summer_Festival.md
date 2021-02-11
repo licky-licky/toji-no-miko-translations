@@ -1,5 +1,5 @@
 
-On a Nice Cool Evening! Yukata at the Summer Festi...
+On a Nice Cool Evening! Yukata at the Summer Festival
 =====================================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/PLFKMPY_XHU"></iframe>](:Iframe)  
 

@@ -43,9 +43,8 @@ def part_titles(x):
     }.get(x, 'Part')  
 
 def get_events():
-    with open('result.json', 'r') as res, open('titles.json') as tit:
+    with open('result.json', 'r') as res:
         results = json.load(res)
-        titles = json.load(tit)
         data = ''
         events_line = 0
         events = []
@@ -65,16 +64,15 @@ def get_events():
                     events.append(evt.replace('https://pastebin.com/', ''))
             
             for e in events:
-                for t in titles:
-                    if t['paste_key'] == e:
-                        event_titles.append(t['title'].replace('/', '_').replace(' ', '_').replace('#','No.') + '.md')
+                for r in results:
+                    if r['paste_key'] == e:
+                        event_titles.append(r['title'].replace('/', '_').replace(' ', '_').replace('#','No.') + '.md')
 
         return event_titles
 
 def get_episodes():
-     with open('result.json', 'r') as res, open('titles.json') as tit:
+     with open('result.json', 'r') as res:
         results = json.load(res) 
-        titles = json.load(tit)
         data = ''
         episodes_line = 0
         events_line = 0
@@ -97,9 +95,9 @@ def get_episodes():
                     episodes.append(evt.replace('https://pastebin.com/', ''))
             
             for e in episodes:
-                for t in titles:
-                    if t['paste_key'] == e:
-                        episode_titles.append(t['title'].replace('/', '_').replace(' ', '_').replace('#','No.') + '.md')
+                for r in results:
+                    if r['paste_key'] == e:
+                        episode_titles.append(r['title'].replace('/', '_').replace(' ', '_').replace('#','No.') + '.md')
 
         return episode_titles
 
@@ -210,15 +208,10 @@ def generate_file(title, data):
     
 if __name__ == '__main__':
 
-    with open('result.json', 'r') as res, open('titles.json') as tit:
+    with open('result.json', 'r') as res:
         results = json.load(res)
-        titles = json.load(tit)
         for r in results:
-            for t in titles:
-                if r['paste_key'] == t['paste_key']:
-                    # print(t['title'], r['hits'])
-                    generate_file(t['title'], r['data'])
-
+            generate_file(r['title'], r['data'])
 
     generate_toc()
 

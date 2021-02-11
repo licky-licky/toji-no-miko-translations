@@ -1,6 +1,6 @@
 
-For Better Fortune! The Fortune Slip Recovery Oper...
-=====================================================
+For Better Fortune! The Fortune Slip Recovery Operation
+=======================================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/RRORlbc45gA?t=25m16s"></iframe>](:Iframe)  
 
 ## 1: For Better Fortune\! The Great Fortune Slip Recovery Operation - Prologue

@@ -1,6 +1,6 @@
 
-Pair vs Pair! The New Year's Karuta Competiti...
-================================================
+Pair vs Pair! The New Year's Karuta Competition
+===============================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/RRORlbc45gA"></iframe>](:Iframe)  
 
 ## 1: Shoot for Victory\! New Year's Karuta Competition

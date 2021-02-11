@@ -1,6 +1,6 @@
 
-4-5 The Boundary Between This World and the Nether...
-=====================================================
+4-5 The Boundary Between This World and the Netherworld
+=======================================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/3oHvCRvo1Oo"></iframe>](:Iframe)  
 
 ## 1: Temporary Ceasefire

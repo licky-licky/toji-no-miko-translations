@@ -1,6 +1,6 @@
 
-Happy New Year! The Tojis' New Year's an...
-===========================================
+Happy New Year! The Tojis' New Year's and Prayers [past]
+========================================================
 
 ## 1: An Invitation to a New Year's Shrine Visit
 In the middle of January\.

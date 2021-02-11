@@ -1,6 +1,6 @@
 
-There's an Anomaly in the Seasonal Rain Front...
-================================================
+There's an Anomaly in the Seasonal Rain Front!
+==============================================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Ko4ihFi6A2U"></iframe>](:Iframe)  
 
 ## 1: A Picnic for Two\!
