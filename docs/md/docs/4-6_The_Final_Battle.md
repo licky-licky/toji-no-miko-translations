@@ -184,7 +184,7 @@ At that time, the fighting continued between Juujou Hiyori and Tagitsuhime--
 **Tagitsu:** How peculiar you are\. Do you intend to remain locked here in this moment close to eternity, just to entertain me by clashing swords\?  
 **Kanami:** That's not it; this is for my own enjoyment\! Your swords will teach me it all\! All about you\!  
 **Hiyori:** You're saying Tagitsuhime is having fun with this fight\.\.\.\?  
-**Kanami:** Yeah\! It's the same for me\! Crossing okatana against okatana, getting to spar with everyone\.\.\. It's all a conversation happening through our swords\!　  
+**Kanami:** Yeah\! It's the same for me\! Crossing okatana against okatana, getting to spar with everyone\.\.\. It's all a conversation happening through our swords\!  
 **Hiyori:** This is a conversation too\.\.\.\? So that's how you treat a sword, Kanami\!  
 **Tagitsuhime:** Conversing by sword\.\.\.\?  
 **Hiyori:** Let's go\!  

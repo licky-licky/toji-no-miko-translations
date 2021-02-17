@@ -14,7 +14,7 @@ Shidou Maki Episodes
 **Maki:** What\!\? \.\.\.This one seems difficult\.  
 **Maki:** I'll manage that one by myself\. The rest of you, get rid of the aradama in the surrounding area\.  
 **Subordinate A:** Are you serious\!\? That's too much for anyone to fight alone\!\!  
-**Maki:** Don't worry\. Have faith in me\!　  
+**Maki:** Don't worry\. Have faith in me\!  
 **Maki:** Nice job\. It's thanks to all your efforts that we were able to finish this without casualties\.  
 **Subordinate A:** We only stayed safe because you took care of that dangerous aradama all by yourself, Shidou-san\.  
 **Subordinate B:** Your strength is on a completely different level than ours\. That's why I admire you so much, Shidou-san\.   

@@ -179,8 +179,10 @@ def generate_file(title, data):
     
     for line in data.splitlines():
         if 'https://' not in line:
-            if len(line) > 5 and line[-2] == '?': 
+            if len(line) > 5 and line[-2:] == '?　': 
                 line = line.replace('?　', "?")
+            if len(line) > 5 and line[-2:] == '!　': 
+                line = line.replace('!　', "!")
             line = re.sub(r"([~\?\!\)\.\"\]])", r"\\\1", line)
             line = line.replace('***', '\*\*\*')
 
