@@ -1,8 +1,6 @@
-work in progress
-===========
+> :Buttons
+> > :Button label=Franchise Overview Chart, url=https://i.imgur.com/iCO24n6.png
 
-# Franchise Overview
-https://i.imgur.com/iCO24n6.png
 # Light Novel
 ## Ryukyu Kenpu Roku
 

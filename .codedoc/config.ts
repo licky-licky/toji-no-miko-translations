@@ -13,7 +13,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Tnm Translations'            // --> the base title of your doc pages
+      base: 'TnM Translations'            // --> the base title of your doc pages
     },
     post: [
       (html, file) => {

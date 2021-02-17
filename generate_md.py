@@ -154,16 +154,26 @@ def generate_toc():
     
     toc += '\n> :Collapse label=Episodes\n> \n'
     episodes_in_paste = get_episodes()
-    for ep in episodes_in_paste + list(set(episodes) - set(episodes_in_paste)):
+    all_episodes = episodes_in_paste + list(set(episodes) - set(episodes_in_paste))
+    for ep in all_episodes:
         fn = ep.replace('.md', '')
         title = fn.replace('_', ' ').replace('~', '\~')
         toc += f'> [{title}](/docs/{fn})\n'
 
     toc += '\n> :Collapse label=Events\n> \n'
-    for o in get_events():
+    events = get_events()
+    for o in events:
         fn = o.replace('.md', '')
         title = fn.replace('_', ' ').replace('~', '\~')
         toc += f'> [{title}](/docs/{fn})\n'
+
+    # * Not needed. Probably.
+    # toc += '\n> :Collapse label=Unsorted\n> \n'
+    # all_others = list(set(others) - set(all_episodes + events))
+    # for o in all_others:
+    #     fn = o.replace('.md', '')
+    #     title = fn.replace('_', ' ').replace('~', '\~')
+    #     toc += f'> [{title}](/docs/{fn})\n'
 
     toc += '\n[Other Translations](/other)\n'
 
