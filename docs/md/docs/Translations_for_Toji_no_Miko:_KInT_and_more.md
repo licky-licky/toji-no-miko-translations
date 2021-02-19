@@ -377,6 +377,11 @@ https://pastebin.com/wWncyRed
   
 
 ## 7 - Awakening
+https://pastebin.com/D67evZgF
+
+  
+
+## 8 - One With the Flame
 [---TOJI EPISODES---\]
 
   
