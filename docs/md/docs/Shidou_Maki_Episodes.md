@@ -5,6 +5,7 @@ Shidou Maki Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/AuF8ZqOvA9Y"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/WNtGgHguxrw"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/-wO5Ngjj1-g"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/f98LI_s4H4M"></iframe>](:Iframe)  
 
 ## 1: The Charismatic Toji
 **Maki:** --Aradama sighted\! Engaging in combat\!  
@@ -346,4 +347,69 @@ Several days later\.
 **Yume:** This is so cool-\! It's like you onee-sans are really fighting around in Journey to the West\!  
 **Yume:** And actually, that's no fair\! I want to do that too\! I want to film a whole bunch of me being cool\!  
 **Maki:** Sure\. Then, next time, let's all do it\.  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/f98LI_s4H4M"></iframe>](:Iframe)  
+
+## [Xmas' 20 - Maki: Start\]: Looking for a Christmas Cake
+**Maki:** \.\.\.  
+**Maki:** \.\.\.\.\.\.\.\.\.\.\.\.  
+**Yume:** Maki-onee-san, how long're you planning on doing this for-\?  
+**Maki:** Just give me a little longer, Yume\.  
+**Maki:** This cake has to be a Christmas cake, but at the same time it also has to be Yomi's birthday cake\.  
+**Maki:** Finding a cake that Yomi'll like\.\.\. It's tough\.  
+**Yume:** Oh, okay\.  
+**Maki:** Thinking about what Yomi likes, there's omusubi, but\.\.\.  
+**Yume:** Then, can't we just go with a rice cake\?  
+**Maki:** A rice cake\.\.\. That's true; with a name like that, Yomi'd probably like it\.  
+**Maki:** Okay, let's buy one\!  
+**Maki:** This isn't good, Suzuka\!  
+**Suzuka:** What's the matter\?  
+**Maki:** Rice cakes aren't actually cakes\!  
+**Suzuka:** That's right, they aren't\?  
+**Maki:** \.\.\.You knew about that\?  
+**Suzuka:** Yes\. If you look up the word rice cake, you'll find mochi\.\.\.  
+**Suzuka:** That isn't what you ordered, is it, Maki-san\?  
+**Maki:** Yeah\. What I got was something like puffed up rice in a disc shape\.  
+**Suzuka:** That sounds about right\.  
+**Suzuka:** Honestly, why would you order something like that\?  
+**Maki:** I thought it'd make Yomi happy, as a Christmas cake\.\.\.  
+**Suzuka:** What am I going to do with you\.  
+**Suzuka:** Rice cakes are something you can eat like crackers\.  
+**Suzuka:** All we can do now is prepare a different cake for Yomi-san's birthday\.  
+**Suzuka:** Fortunately, we still have time to spare\.  
+**Maki:** Oh yeah\.\.\. You're right\.  
+**Maki:** I'll look for another cake Yomi'll be happy with\.  
+
+## [Xmas' 20 - Maki: Start\]: With a Special Someone
+**Maki:** Still though, a different cake\.\.\. What can I get\?  
+**Ellen:** Makimaki\! You look like something's bothering you; what're you up to\?  
+**Maki:** Kohagura\? Actually\.\.\.  
+**Ellen:** I see, so you're worried over what to get for Yomiyomi's birthday cake\.  
+**Ellen:** In that case, there's a shop I can recommend to you\!  
+**Maki:** Really\!\?  
+**Ellen:** Yes\! It's been my favorite lately\!  
+**Maki:** That sounds reliable\.  
+**Ellen:** Though, I'll give you a bit of advice\. I'm sure that, whatever cake you get for her, Yomiyomi will be happy\.  
+**Maki:** \.\.\.Could you tell me why you think that\?  
+**Ellen:** Anyone would be happy with whatever someone tried so hard to pick out for them\.  
+**Maki:** \.\.\.  
+**Maki:** You're right; maybe I've been overthinking this a little\. I'll pay that cake shop a visit\.  
+**Ellen:** I hope it'll make your Christmas Day wonderful\!  
+On Christmas Eve\.
+
+  
+**Maki:** HAAAAAAAAAAAAAAAAAA\!\!  
+**Aradama:** \.\.\.  
+**Watanuki Kazumi:** Maki-sama\!  
+**Kazumi:** There's no more readings on the spectrum finder\. That aradama seems to have been the last of them\.  
+**Maki:** Alright\.\.\. Good work, everybody\.  
+**Tojis:** Right\!  
+**Maki:** It's Christmas Eve\. Some of you must have plans\.  
+**Maki:** You should spend the rest of the night with the people special to you\.  
+**Tojis:** Okay\!\!  
+**Kazumi:** Err, Maki-sama, do you have any plans for later\.\.\.\? If you wouldn't mind\.\.\.  
+**Maki:** I have to be at a Christmas and birthday party for Yomi\.  
+**Kazumi:** \.\.\.I see then\.  
+**Kazumi:** I hope you'll enjoy yourself\!  
+**Maki:** Thanks, Kazumi\. I hope you'll have a good Christmas Eve too\.  
+**Kazumi:** \.\.\.Right\!  
 > :ToCPrevNext

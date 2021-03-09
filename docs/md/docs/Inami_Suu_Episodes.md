@@ -3,6 +3,7 @@ Inami Suu Episodes
 ==================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/z_ITNXUtuEE"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/ee9V9yy0uqk"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/6vDEoQfMR6o"></iframe>](:Iframe)  
 
 ## 1: Hokuto's Spartan Training
 **Suu:** Where should I go with Hokuto-san tomorrow\?  
@@ -352,4 +353,71 @@ Inami Suu Episodes
 **Suu:** (I don't even want to be on missions with her in the first place\.\.\. Am I getting dragged into Shichinosato-san's pace little by little\!\?\)  
 **Suu:** (I have to hold tight onto myself\.\.\.\!\)  
 **Suu:** (Though I'm not even sure if I can\.\.\.\)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/6vDEoQfMR6o"></iframe>](:Iframe)  
+
+## [Xmas' 20 - Suu: Start\]: That's Not It\!
+**Suu:** Eh\!\? You're going to be coming here for Christmas\?  
+**Hokuto:** I am\.  
+**Suu:** That's great\! Where should we go hang out\?  
+**Hokuto:** \.\.\.You get it, right\? I'm going there on a mission, not to hang out\.  
+**Suu:** Of course I get it\! But, since it's Christmas and all, we should have some fun together\!  
+**Hokuto:** \.\.\.You're right\.  
+**Hokuto:** Though, we're going to be training too\.  
+**Suu:** Ugh\.\.\. B-But, it's Christmas, right\?  
+**Hokuto:** That doesn't have anything to do with it\. Anyway, I'll be looking forward to it\.  
+**Suu:** \.\.\.\! Okay\!  
+On Christmas Day\.
+
+  
+**Suu:** Ah, my arms and legs feel heavy\.\.\.  
+**Hokuto:** Just after that\?  
+**Suu:** After that\? That was more than hard enough on me\!  
+**Hokuto:** \.\.\.  
+**Hokuto:** Suu, have you been skipping your training\?  
+**Suu:** Urgh\.\.\. I-I haven't been skipping it or anything\?  
+**Hokuto:** Do you mean that\?  
+**Suu:** Uhh\.\.\.  
+**Hokuto:** \.\.\.Suu\?  
+**Suu:** I haven't\!  
+**Suu:** It's just, I might have been going easy on it a little\.\.\.  
+**Hokuto:** Well that explains it\. Maybe I'll have to come up with a more intense routine for you\.  
+**Suu:** More than this\!\?  
+**Hokuto:** If you don't want that, then do it properly\.  
+**Suu:** I got it\.\.\.  
+**Both:** \!\?  
+**Suu:** There's aradama, Hokuto-san\!  
+**Hokuto:** Right\.\.\. We're going, Suu\!  
+**Suu:** Sure\!  
+
+## [Xmas' 20 - Suu: End\]: Aren't You Glad You Worked Hard\?
+**Aradama:** FSHUUUUUUUUUUUUUUUUU\!  
+**Suu:** Geh, they're spider types\!\?  
+**Hokuto:** Is there something wrong with spider types\?  
+**Suu:** It's not something wrong with them, but\.\.\. Don't they give you the creeps\?  
+**Hokuto:** Give me the creeps\? They're just aradama, aren't they\?  
+**Suu:** You're really something, Hokuto-san\.\.\.  
+**Hokuto:** More importantly, I want you to show me how strong you are now, Suu\.   
+**Suu:** Huh\?  
+**Hokuto:** If you can't do something in training, you won't be able to do it in combat either\. This is a good opportunity\.\.\. to judge how much you were slacking off\.  
+**Suu:** I'll try my best\!  
+**Suu:** HAAAAAAAAAAAAAAAAA\!\!  
+**Aradama:** Uuuu\.\.\.  
+**Suu:** Alright\!  
+**Hokuto:** There's another one further in\! Don't let your guard down\!  
+**Suu:** Got it\!  
+**Aradama:** FSHUUUU\.\.\.  
+**Hokuto:** --\! Here it comes\!  
+**Aradama:** FSHAAAAAAAAAA\!\!  
+**Suu:** I can handle this much\.\.\.\! YAAAAAAAAAAAAAAAAAAAA\!\!  
+**Aradama:** Aaaa\.\.\.  
+**Suu:** [pant pant\]\.\.\. Now for the next ones\!  
+**Hokuto:** (Suu\.\.\. You've grown even more than I expected\.\.\. You might have slacked off a little, but you really are trying\.\)  
+**Hokuto:** You did well, Suu\.  
+**Suu:** You did great too, Hokuto-san\!  
+**Woman:** Um\.\.\. Thank you very much\! You two were so strong back there\.  
+**Suu:** Eh, err, not really\.\.\.  
+**Hokuto:** What's wrong\?  
+**Suu:** I didn't think anybody would be thanking me or anything, so I'm a little embarrassed\.\.\.  
+**Hokuto:** \.\.\.It's a good thing you've worked so hard, Suu\.  
+**Suu:** Yeah\!  
 > :ToCPrevNext

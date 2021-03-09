@@ -2,6 +2,8 @@
 Iwakura Sanae Episodes
 ======================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/B53GqQAvhT4"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/HguM1_W3fqw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/yL8kaMSJQzo"></iframe>](:Iframe)  
 
 ## 1: A Gourmet Tour of My Native Gunma
 **Sanae:** With the noro recovery taken care of, our mission here is complete\.  
@@ -352,4 +354,67 @@ The day of the film shoot\.
 **Sanae:** Thanks a lot, Kitora-san\! I can't wait for it to be in theaters\!  
 **Mirja:** I understand the feeling\. When that time comes, let's go and see it together\.  
 **Sanae:** Sure\!  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/yL8kaMSJQzo"></iframe>](:Iframe)  
+
+## [Xmas' 20 - Sanae: Start\]: What Should I Go With\?
+**Sanae:** A Christmas party\?  
+**Hiyori:** Yeah, Kanami and everyone invited me, but, do you want to come too, Iwakura-san\?  
+**Sanae:** Thanks for the invitation, Juujou-san\.  
+**Sanae:** But\.\.\. Is it really okay for me to be there\?  
+**Hiyori:** Of course it is\.  
+**Sanae:** Then, I'd be happy to go\.  
+**Hiyori:** Great\.  
+**Hiyori:** Ahh, that's right\. We're going to be exchanging gifts that day, so be sure to have one ready\.  
+**Sanae:** Okay\!  
+**Sanae:** \.\.\.I said that, but, a gift exchange\?  
+**Sanae:** Etou-san, Juujou-san, Yanase-san, Itomi-san, Kohagura-san, Mashiko-san\.\.\.  
+**Sanae:** Hmm\.\.\. What would be good to give them\? Would it be okay if I just picked out something I liked\?  
+**Kiyoka:** Oh, Sanae-san\?  
+**Sanae:** Musumi-san\.\.\.  
+**Kiyoka:** I didn't expect to see you here\! Are you out shopping\?  
+**Kiyoka:** The investigation team is having a party on Christmas, so I'm here to buy some things\!  
+**Sanae:** I'm sort of in the same boat\.  
+**Sanae:** I'm going to a party with Juujou-san, but they're going to be doing a gift exchange there, so\.\.\.  
+**Sanae:** \.\.\.  
+**Sanae:** Could I ask you for a bit of advice on something, Musumi-san\?  
+**Kiyoka:** Ah, sure, of course\. If I can help\.  
+**Sanae:** You see\.\.\. I'm actually worried about what to get for the gift exchange\. If it were you, what would you buy\?  
+**Kiyoka:** Hmm\.\.\. That is a little tough to pick something out for\.  
+**Kiyoka:** If it were me\.\.\. Let's see\.\.\. I think I'd probably go with something consumable or that you could eat\.  
+**Kiyoka:** Because then, it would be fine no matter who gets it\.  
+**Sanae:** That makes sense\.\.\. Thanks, Musumi-san\.  
+**Kiyoka:** Don't mention it\! Good luck finding the right present\!  
+**Sanae:** Yeah\.  
+
+## [Xmas' 20 - Sanae: End\]: I Don't Feel Like I Can Lose
+**Aradama:** OOOOOOOOOOOOOOOO\!\!  
+**Man:** UWAHHHHHHH\!\?  
+**Sanae:** HAAAAAAAAAAAAAAAAA\!\!  
+**Man:** Th-Thank you\!  
+**Sanae:** Are you hurt anywhere\?  
+**Man:** I-I'm fine\.  
+**Sanae:** Thank goodness\.\.\. Then, please evacuate calmly\!  
+**Sanae:** I'll make sure to protect everyone\!  
+**Man:** Sure, we're counting on you, miss Toji\!  
+**Hiyori:** This turned into one mess of a Christmas\.  
+**Sanae:** Juujou-san\.\.\. There's not much we can do about it; aradama don't care if it's Christmas\.  
+**Sanae:** But, did you finish getting everyone evacuated over there\?  
+**Hiyori:** Yeah\. I came over to help you out, though\.\.\. it looks like things are fine here\.  
+**Sanae:** Just about\. You should go over to see how the others are doing\.  
+**Hiyori:** Got it\.  
+**Hiyori:** Ah, by the way\. When we get back, could I give you my present\?  
+**Sanae:** \.\.\.Eh\?  
+**Hiyori:** We're probably not going to be having a party at this point, but\.\.\. I'm pretty confident in the present I chose\.  
+**Sanae:** \.\.\.Okay\.  
+**Sanae:** Ah, could I ask you what you picked out\?  
+**Hiyori:** Christmas wagashi\.  
+**Hiyori:** There were lots of cute looking ones, so I had a hard time narrowing it down\.  
+**Sanae:** I'll bet\.\.\. I'll look forward to it\.  
+**Sanae:** And then, I'll trade you my gift, Juujou-san\. I went through a lot of ideas, but I settled on a handkerchief\.\.\.  
+**Hiyori:** I'll be sure to take good care of it\.  
+**Hiyori:** Anyway, I'll see you later\.  
+**Sanae:** Okay\!  
+**Aradama:** GYAOOOOOOOOOOOOOOOOOOO\!\!  
+**Sanae:** An aradama\!\?  
+**Sanae:** Though\.\.\. I wonder why\. I don't feel like I could lose right now\!  
 > :ToCPrevNext

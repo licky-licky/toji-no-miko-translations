@@ -1,9 +1,6 @@
 
-5-7 Awakening
-=============
-I can't link the youtube videos here because they trigger the warning for offensive content somehow\. Sorry, but you'll have to get that yourself\.
-
-  
+test
+====
 
 ## 1: To See Her
 **Yui:** Are you there, Hana-san\? It's Yamashiro\.  

@@ -393,6 +393,9 @@ Includes voiced birthday lines that you won't find here\.
 https://pastebin.com/i9sMV7mU
 
   
+https://pastebin.com/36jJGFaX
+
+  
 - Setouchi Chie:  
 https://pastebin.com/j89zitGp
 
@@ -407,6 +410,9 @@ https://pastebin.com/T7FnrPQR
   
 - Kitora Mirja:  
 https://pastebin.com/f67r9tzs
+
+  
+https://pastebin.com/KubvY7Yj
 
   
 - Yamashiro Yui:  
@@ -495,6 +501,9 @@ https://pastebin.com/DP0ZZXZW
 
   
 https://pastebin.com/G0U9Ncxe
+
+  
+https://pastebin.com/e1nXrM4w
 
   
 [---EVENTS---\]
@@ -650,7 +659,7 @@ https://pastebin.com/UJwHSv0T
 https://pastebin.com/1p6YnVqZ
 
   
-- Heart Pounding Mission in a Steamy Hot Spring
+- Heart Pounding Mission in a StXXXmy Hot Spring
 
   
 https://pastebin.com/yedsqNPZ
@@ -899,14 +908,26 @@ https://pastebin.com/YeQZAJPN
 https://pastebin.com/cVMRB6HY
 
   
-**-  Security Police Mission on a Holy Night:** -Guard the Party Venue-   
+**- Security Police Mission on a Holy Night:** -Guard the Party Venue-   
 https://pastebin.com/P1xHR2Xx
 
   
-- Joint Raid Event #10 (AKA Hirona Episode 6\)
+- Happy New Year\! The Tojis' New Year's and Prayers [mystery\] 
 
   
-https://pastebin.com/e1nXrM4w
+https://pastebin.com/ccYtBcin
+
+  
+- Happy New Year\! The Tojis' New Year's and Prayers [past\] 
+
+  
+https://pastebin.com/1LCAZAiZ
+
+  
+- Star Ocean -Encounter With the Toji- 
+
+  
+https://pastebin.com/eg55x2j6
 
   
 - Chain Story Archives Part 0\.5\.1
@@ -915,7 +936,10 @@ https://pastebin.com/e1nXrM4w
 https://pastebin.com/gFuh0xi1
 
   
-298
+episodes 312
+
+  
+everything else 329
 
   
 > :ToCPrevNext

@@ -2,6 +2,7 @@
 Hiiragi Kagari Episodes
 =======================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/1TSJLghLiqQ"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/oPPNp9dWijk"></iframe>](:Iframe)  
 
 ## 1: Mamekan
 **Minato:** Yukari, is Kagari in here\?  
@@ -265,4 +266,66 @@ Roughly one week after Kagari began attending Renpu Middle School\.\.\.
 **Minato:** See, after all that walking, your stomach's growling\. Better eat up now\!  
 **Kagari:** Honestly, it's always the same with you\.\.\. Yukari-sama, please excuse me\.  
 **Yukari:** Minato, thanks for looking after Kagari\. Now I can focus on resting without having to worry about her\.  
+
+## [Xmas' 20 - Kagari: Start\]: Let's Not
+**Minato:** Let's throw a Christmas party\!  
+**Kagari:** Let's not\.  
+**Minato:** Ehh, come on, Kagari-\.  
+**Minato:** It's Christmas and everything, so aren't we missing out not having fun with it\?  
+**Kagari:** \.\.\.Sigh\.  
+**Kagari:** Unlike you, Minato-senpai, Yukari-sama is still busy on Christmas\.  
+**Kagari:** She doesn't have the time to be having a party\.  
+**Minato:** C'mon, don't be like that-\.  
+**Minato:** Yukari's gonna suffocate if she doesn't have some fun\. Right, Yukari\?  
+**Yukari:** Don't you think it's unfair pushing this on me\?  
+**Minato:** Is it\?  
+**Yukari:** Honestly\.\.\.  
+**Yukari:** Kagari, if we work with my schedule, couldn't we fit an hour in\?  
+**Kagari:** Yukari-sama\!\?  
+**Minato:** Awesome\!  
+**Minato:** Alright, I'll go invite everybody then\! Thanks, Yukari\!  
+**Kagari:** These are the only times she works quickly\.\.\. Will this really be alright\?  
+**Yukari:** Sure\. So, you need to enjoy the Christmas party too, Kagari\.  
+**Kagari:** No, I'll just\.\.\.  
+**Yukari:** If you say that you aren't going, Minato would come by almost every day\.  
+**Kagari:** Urgh\.\.\.  
+**Yukari:** Just give up on it\.  
+**Kagari:** \.\.\.Sigh\.  
+**Minato:** That makes Yukari, Kagari, Yuzuki-senpai, Iroha-senpai, Ema, Yukina, Sana, and Akane-chan\.\.\. This'll be a fun Christmas party\!  
+**Minato:** It's cold though\!  
+**Minato:** It's been getting colder lately\.\.\. Wonder if it'll snow on Christmas\?  
+
+## [Xmas' 20 - Kagari: End\]: A White Christmas
+On Christmas\.
+
+  
+**Minato:** HAAAAAAAAAAAAAA\!\!  
+**Aradama:** ooo\.\.\.  
+**Minato:** Come on, why's it we always get missions on days like today\!  
+**Kagari:** Please work your hands more than your mouth, Minato-senpai\.  
+**Kagari:** HAAH\!  
+**Aradama:** \.\.\.  
+**Minato:** I'm doing that just fine\.  
+**Minato:** And besides, you looked like you were getting into setting things up for the party\. Aren't you bummed out\?  
+**Kagari:** Since I said I would do it, I wanted to do it properly\.  
+**Kagari:** That aside, Minato-senpai\. If you want to go to the Christmas party so badly, please take this mission seriously\.  
+**Kagari:** The time you're wasting here is going to take away from that\.  
+**Minato:** You've got a point\! Let's hurry it up, Kagari\!  
+**Kagari:** Does anything ever get you down\.\.\. Ah\.  
+**Kagari:** Snow\?  
+**Kagari:** No wonder it feels so cold\.\.\.  
+**Minato:** What's wrong\.\.\. Hey, it's snowing\!  
+**Minato:** It's a white Christmas, Kagari\!  
+**Kagari:** \.\.\.It is\.  
+**Minato:** Now I'm feeling it\! Let's go, Kagari\!  
+**Kagari:** Alright\!  
+**Kagari:** We never managed to hold the Christmas party in the end\. It only snowed for that brief moment too\.\.\.  
+**Minato:** Hey, there's nothing we could do about it\.  
+**Kagari:** \.\.\.You don't seem that disappointed\?  
+**Minato:** Yeah, I guess not\?  
+**Minato:** Somehow, just getting to see the snow with you's got me satisfied\!  
+**Kagari:** \.\.\.  
+**Kagari:** What's that supposed to mean\?  
+**Minato:** Well, it's all good\. Anyway, let's make sure to throw a Christmas party next year, Kagari\.  
+**Kagari:** I'd rather not be keeping you company again next year, Minato-senpai\.  
 > :ToCPrevNext

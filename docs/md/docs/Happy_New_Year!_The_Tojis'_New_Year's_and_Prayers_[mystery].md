@@ -1,6 +1,7 @@
 
 Happy New Year! The Tojis' New Year's and Prayers [mystery]
 ===========================================================
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/B_fpUNymLSk"></iframe>](:Iframe)  
 [The third annual riddle event, where you could win a prize by guessing the answers correctly on twitter\.\]
 
   
