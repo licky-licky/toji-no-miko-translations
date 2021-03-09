@@ -4,7 +4,8 @@ Star Ocean -Encounter With the Toji-
 https://streamable.com/cnvnsm
 
   
-**-2:** Encounter With the Aradama  
+
+## -2: Encounter With the Aradama
 **Reimi Saionji:** YAH\.\.\.\!  
 **Reimi:** If this isn't working either\.\.\.\!  
 **Rena Lanford:** Reimi-san\! I'll push up front\! Please use that chance to retreat\!  
@@ -25,7 +26,8 @@ https://streamable.com/cnvnsm
 https://streamable.com/ozt89k
 
   
-**-1:** Sci-Fi Technology  
+
+## -1: Sci-Fi Technology
 **Maria Traydor:** Reimi got in touch\. Like we expected, it doesn't seem they were able to defeat an aradama\.  
 **Miki Sauvester:** Well shoot, so they really couldn't beat it\? Hmmm, so that means, we're in trouble here\.\.\. aren't we\.  
 **Maria:** We are\. It's impossible for us to resolve this on our own\. But, we aren't entirely without options\.  
