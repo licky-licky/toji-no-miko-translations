@@ -382,6 +382,9 @@ https://pastebin.com/D67evZgF
   
 
 ## 8 - One With the Flame
+https://pastebin.com/9V5gK1NK
+
+  
 [---TOJI EPISODES---\]
 
   

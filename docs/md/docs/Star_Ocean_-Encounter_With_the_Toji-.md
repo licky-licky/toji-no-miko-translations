@@ -54,7 +54,7 @@ https://streamable.com/ozt89k
 
 ## 1: Tsugumi's Assistants
 **Yukari:** I see you're here, Asakura, Yanase\.  
-**Mihono/Mihono:** Yes ma'am\!  
+**Mihono/Mai:** Yes ma'am\!  
 **Yukari:** Ordinarily, Akane would be the one to tell you this, but she can't make time\. I'll be the one reporting to you instead\.  
 **Yukari:** I'd like for the two of you to help at Ban's laboratory\.  
 **Mai:** At\.\.\. Tsugumi-san's laboratory\?  
