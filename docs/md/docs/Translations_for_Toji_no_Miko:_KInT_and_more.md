@@ -42,7 +42,7 @@ All in one folder, with individual links below\. All of these are canon to the a
 Concept Works Drama CD
 
   
-https://mega.nz/file/SnhnhCDC#nHcBmwCzJ6Jd7Ew6_ptSi2kcDJ_MXhM8ob7MN_KqyAs
+https://mega.nz/file/i6xRESpb#-lmwABoAnjo_nl3dIkL9gVY5cj9Al8JLBLKVBW5vXmY
 
   
 \"Spring's Arrival\", a short story from the early days when the elite guard was first fully formed\.

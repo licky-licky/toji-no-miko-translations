@@ -181,7 +181,10 @@ def generate_file(title, data):
     if title == '2 - The Darkness Looming over the World' or 'Time Limit' in title:
         title = '2-' + title.replace(' - ', ' ')
 
-    mdFile = MdUtils(file_name='./docs/md/docs/' + title.replace('/', '_').replace(' ', '_').replace('#','No.').replace('?', '_') + '.md', title=title.replace('~', '\~'))
+    mdFile = MdUtils(file_name='./docs/md/docs/' + 
+                                title.replace('/', '_').replace(' ', '_').replace('#','No.').replace('?', '_').replace(
+                                    'Adblocker_detected!_Please_consider_disabling_it...', ''
+                                ) + '.md', title=title.replace('~', '\~').replace('Adblocker detected! Please consider disabling it...', ''))
     
     for line in data.splitlines():
         if 'https://' not in line:

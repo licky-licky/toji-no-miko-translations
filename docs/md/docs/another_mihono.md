@@ -81,7 +81,7 @@ Several weeks later\.
 **Kanayamahime:** Mihono\.\.\.   
 **Kanayamahime:** I may have been wrong after all\. To keep only your will safe from Kagutsuchi\.\.\.  
 **Kanayamahime:** Your heart was once so pleasant\.\.\. Now all that remains in it is an all-consuming flame\.  
-**Kanayamahime:** Even still, I\.\.\. I refused to forsake it\. My promise with the Atago\.\.\.  
+**Kanayamahime:** Even still, I\.\.\. I didn't wish to forsake it\. My promise with the Atago\.\.\.  
 **Kanayamahime:** I wished to protect Mihono\.\.\.  
 **Kanayamahime:** To you miko\. Any who can\. Please, stop Mihono\.  
 **Kanayamahime:** Please, one day\.\.\. return Mihono to herself\.\.\.  Accomplish what I could not\.\.\.  
