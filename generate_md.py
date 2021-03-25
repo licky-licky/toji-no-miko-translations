@@ -160,8 +160,8 @@ def generate_toc():
     events = get_events()
     for o in events:
         fn = o.replace('.md', '')
-        title = fn.replace('_', ' ').replace('~', '\~')
-        toc += f'> [{title}](/docs/{fn})\n'
+        title = fn.replace('_', ' ').replace('~', '\~').replace('Adblocker detected! Please consider disabling it...', '')
+        toc += f'> [{title}](/docs/{fn.replace("Adblocker_detected!_Please_consider_disabling_it...", "")})\n'
 
     # * Not needed. Probably.
     # toc += '\n> :Collapse label=Unsorted\n> \n'
