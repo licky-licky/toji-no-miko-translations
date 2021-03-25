@@ -72,7 +72,7 @@ def get_events():
         return event_titles
 
 def get_episodes():
-     with open('result.json', 'r') as res:
+    with open('result.json', 'r') as res:
         results = json.load(res) 
         data = ''
         episodes_line = 0
@@ -153,8 +153,8 @@ def generate_toc():
     all_episodes = episodes_in_paste + list(set(episodes) - set(episodes_in_paste))
     for ep in all_episodes:
         fn = ep.replace('.md', '')
-        title = fn.replace('_', ' ').replace('~', '\~')
-        toc += f'> [{title}](/docs/{fn})\n'
+        title = fn.replace('_', ' ').replace('~', '\~').replace('Adblocker detected! Please consider disabling it...', '')
+        toc += f'> [{title}](/docs/{fn.replace("Adblocker_detected!_Please_consider_disabling_it...", "")})\n'
 
     toc += '\n> :Collapse label=Events\n> \n'
     events = get_events()
@@ -183,8 +183,10 @@ def generate_file(title, data):
 
     mdFile = MdUtils(file_name='./docs/md/docs/' + 
                                 title.replace('/', '_').replace(' ', '_').replace('#','No.').replace('?', '_').replace(
-                                    'Adblocker_detected!_Please_consider_disabling_it...', ''
-                                ) + '.md', title=title.replace('~', '\~').replace('Adblocker detected! Please consider disabling it...', ''))
+                                'Adblocker detected! Please consider disabling it...', ''
+                                ).replace('Adblocker_detected!_Please_consider_disabling_it...', '')
+                                 + '.md', title=title.replace('~', '\~').replace(
+                                'Adblocker detected! Please consider disabling it...', ''))
     
     for line in data.splitlines():
         if 'https://' not in line:

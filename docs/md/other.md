@@ -13,7 +13,7 @@
 "Spring's Arrival", a short story from the early days when the elite guard was first fully formed.
 
 > :Buttons
-> > :Button label=Mega, url=https://mega.nz/file/SnhnhCDC#nHcBmwCzJ6Jd7Ew6_ptSi2kcDJ_MXhM8ob7MN_KqyAs
+> > :Button label=Mega, url=https://mega.nz/file/i6xRESpb#-lmwABoAnjo_nl3dIkL9gVY5cj9Al8JLBLKVBW5vXmY
 
 ## Anime Drama CD 1/3
 - Episode 0.5: "Before the Storm"
