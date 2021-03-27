@@ -151,6 +151,11 @@ def generate_toc():
     toc += '\n> :Collapse label=Episodes\n> \n'
     episodes_in_paste = get_episodes()
     all_episodes = episodes_in_paste + list(set(episodes) - set(episodes_in_paste))
+    for i in range(len(all_episodes)):
+        if all_episodes[i] == 'Christmas_Mihono.md':
+            all_episodes.insert(i+1, 'Joint_Raid_Event_No.13:_Another_Mihono.md')
+            break
+
     for ep in all_episodes:
         fn = ep.replace('.md', '')
         title = fn.replace('_', ' ').replace('~', '\~').replace('Adblocker detected! Please consider disabling it...', '')
