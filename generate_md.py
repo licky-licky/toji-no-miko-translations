@@ -183,8 +183,10 @@ def generate_toc():
 
 
 def generate_file(title, data):
-    if title == '2 - The Darkness Looming over the World' or 'Time Limit' in title:
+    if '2 - The Darkness Looming over the World' in title or 'Time Limit' in title:
+        print(title)
         title = '2-' + title.replace(' - ', ' ')
+        print(title)
 
     mdFile = MdUtils(file_name='./docs/md/docs/' + 
                                 title.replace('/', '_').replace(' ', '_').replace('#','No.').replace('?', '_').replace(
