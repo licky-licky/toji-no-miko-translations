@@ -13,7 +13,7 @@ character_names = [
     'Itomi_Sayaka',
     'Mashiko_Kaoru',
     'Kohagura_Ellen',
-    'Asakura_Mihono'
+    'Asakura_Mihono',
     'Setouchi_Chie',
     'Musumi_Kiyoka',
     'Shichinosato_Kofuki',
