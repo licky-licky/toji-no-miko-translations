@@ -1,9 +1,10 @@
 
 5-7 Awakening
 =============
-I can't link the youtube videos here because they trigger the warning for offensive content somehow\. Sorry, but you'll have to get that yourself\.
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/WgqAjgkSDn0"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/iWoPHaAFP2A"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/t4LfdV9yvZM"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/fKm0GmpGefs"></iframe>](:Iframe)  
 
 ## 1: To See Her
 **Yui:** Are you there, Hana-san\? It's Yamashiro\.  
