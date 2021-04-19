@@ -7,6 +7,7 @@ Yanase Mai Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/VNAKMkkvBJE"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/fx9_2ljRfcY"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Vh6dekDJVps"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/c7_AFOANJ_s"></iframe>](:Iframe)  
 
 ## 1: Pudding Unlike This
 **Kanami:** Mai-chan, we're here\~\! Today's special guest is\.\.\. Mihono-chan\!  
@@ -613,5 +614,78 @@ At the marching band's main performance\.
 **Kanami:** I was eating the sweets Daiba-san made earlier\. And I started wanting to have some of your cookies\.  
 **Kanami:** When we get back, could you make some for me\.\.\.\?  
 **Mai:** Mm, I'll make you some\.  
-**Kanami:** Nice-, thanks-\!  
+**Kanami:** Nice-, thanks-\! 
+
+## [Furisode 21 - Mai: Start\]: Let's Make Our First Shrine Visit\!
+**Mai:** By the way, do you all have any plans for New Year's\?  
+**Kaoru:** Just to sleep it off for now\.  
+**Ellen:** Kaoru, if all you ever do is sleep, aren't you going to get fat\? I'm planning on spending mine with my family\!  
+**Ellen:** Or, I'd like to, but they're all busy, so it'll have to wait till after the first three days are over\.  
+**Hiyori:** I haven't really made any plans in particular\.  
+**Mai:** What about you, Kanami-chan, Sayaka-chan\?  
+**Sayaka:** I'm going to spend it at home with my family\.  
+**Kanami:** I'm doing the same as Sayaka-chan\. Hey, since we're all together, want to do our first shrine visit together too\?  
+**Ellen:** Sounds good\! Let's do it in furisode\!  
+**Kaoru:** Furisode\?  
+**Kaoru:** We don't really have to wear that stuff, do we\? It's annoying\.  
+**Ellen:** No\! That's no good, Kaoru\! If we're doing it, we all have to wear furisode\!  
+**Mai:** I think I agree with Ellen-chan\. I'd like to make our first shrine visit all wearing furisode together\.  
+**Sayaka:** I don't have a furisode\.  
+**Mai:** Eh\?  
+**Kanami:** I don't think I've got one either\.\.\.  
+**Hiyori:** Same here\. It's not that big a deal if we don't wear one, is it\?  
+**Ellen:** No way\! I want everybody wearing one\!  
+**Kaoru:** How old are you\!  
+**Mai:** Ahaha\.\.\.  
+**Ellen:** In that case, how about this\! I'll get furisode for everybody\!  
+**Hiyori:** Is that how badly you want us to wear them\.\.\.  
+**Mai:** Ah, hang on, Ellen-chan\. Won't it be hard for you to prepare enough for everyone\?  
+**Mai:** I think I have one at home that should fit Sayaka-chan's size\. I might have one that fits Kaoru-chan too\.\.\.  
+**Kaoru:** It's fine; Ellen'll get one for me\.  
+**Mai:** Okay\.  
+**Ellen:** That's that then\!  
+**Sayaka:** Thanks, Mai\.  
+**Mai:** It's fine; this much is nothing\. I'm looking forward to our first shrine visit\.  
+**Sayaka:** Mm\.  
+
+## [Furisode 21 - Mai: End\]: Please Make it Happen\!
+The day of their first shrine visit\.
+
+  
+**Mai:** Alright then, let's make our visit\.  
+**Ellen:** What's everybody going to pray for\?  
+**Kaoru:** I did a lot of thinking, but I'm going with: \"Give me a break\.\"  
+**Ellen:** Did you really do a lot of thinking for that\?  
+**Kaoru:** Course I did-\.  
+**Kaoru:** I came up with a bunch of other stuff, like, \"Bring down divine punishment on the president\", or \"Make it so all my traveling is in first class\.\"  
+**Kaoru:** What'd you come up with anyway\?  
+**Ellen:** \"For lots of fun things to happen\!\"  
+**Mai:** That sounds like you, Ellen-chan\.  
+**Hiyori:** We just get dragged along all the time though\.  
+**Ellen:** Still, isn't that fun too, Hiyoyon\?  
+**Hiyori:** \.\.\.  
+**Hiyori:** Well, sometimes\.  
+**Kanami:** So for me, I'll pray\.\.\.  
+**Hiyori:** To fight against tough opponents, right\? You don't even have to say it\.  
+**Kanami:** Close\!  
+**Kanami:** The correct answer was, to fight people from schools of swordfighting I've never fought against before\!  
+**Kaoru:** Nah, that's the same thing\.  
+**Kanami:** Eh, is it\?  
+**Mai:** What are you going to pray for, Sayaka-chan\?  
+**Sayaka:** I'll\.\.\.  
+**Ellen:** Ah, we're the next ones up\!  
+**Mai:** It's our turn\. Tell me after we pay our visit, okay\?  
+**Sayaka:** Okay\.  
+**Mai:** (\.\.\.Our prayers\. Mine is, next year, for all of us to\.\.\.\)  
+**Kaoru:** Alllright, that's over with\! Let's get something to eat\.  
+**Kanami:** Is anywhere open on New Year's\?  
+**Ellen:** I know a great place we can go\!  
+**Mai:** Fufu, they all look like they're enjoying this\.  
+**Sayaka:** Mai, about before\. I prayed for all of us to come make our first shrine visit together again next year\.  
+**Mai:** \.\.\.  
+**Sayaka:** Mai\?  
+**Mai:** You just surprised me a little, is all\. I prayed for the same thing as you\.  
+**Hiyori:** Mai\! Sayaka\! What are you doing; we'll leave you behind\!  
+**Mai:** Let's get going, Sayaka-chan\.  
+**Sayaka:** Okay, Mai\.  
 > :ToCPrevNext

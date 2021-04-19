@@ -5,6 +5,7 @@ Konohana Suzuka Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/MB7eNdGUsHU"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/gTpQZtWj_rg"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/t74NJwnCerI"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/se0e89SO9FY"></iframe>](:Iframe)  
 
 ## 1: Dance of the Ojou-samas
 **Mai:** Good to see you, Konohana-san\.  
@@ -436,4 +437,89 @@ December 25th\.
 **Suzuka:** We've still only brought down two of them\. We'll keep going at this pace\!  
 **Maki:** Of course\!  
 **Suzuka:** (Honestly\.\.\. Your back is so warm\.\)  
+
+## [Misogi - Suzuka: Start\]: Someone I Can't Take My Mind Off Of
+**Yukari:** Shidou, Konohana, I want the both of you to leave to conduct an inspection tomorrow\.  
+**Suzuka:** Will you not be traveling with us, Yukari-sama\?  
+**Yukari:** That's right; there's other business I'll have to attend to\. I'd like for you two to handle this\.  
+**Yukari:** The details will be sent to you later, but essentially\.\.\.  
+**Yukari:** The idea is to have two active duty toji give their perspective on plans made with the railway association to resolve issues dispatching toji to sites of aradama outbreaks\.  
+**Maki:** Yes ma'am\!  
+**Suzuka:** Understood\.  
+**Yukari:** Konohana, after accompanying me to several inspections, you should have an idea of what to do\. Give Shidou your support\.  
+**Suzuka:** Certainly\.  
+**Maki:** I'll be counting on you\.  
+**Suzuka:** (Yukari-sama said to support Maki-san, but, even without me, she likely would have been fine on her own\.\)  
+**Maki:** \.\.\.\.\.\.  
+**Suzuka:** (Shidou Maki\.\.\. Even before facing each other in the finals of the tournament, I was already aware of her\. Being the owner of that okatana, Usumidori\.\)  
+**Suzuka:** (Usumidori has a deep connection to my Kurama-ryu\.\.\. I had expected to inherit it myself one day\. But, it never happened\.\)  
+**Suzuka:** (Ever since then, I think\.\.\. I might have been conscious of her\.\)  
+**Suzuka:** (And-- then came the tournament where I'd been determined to prove my superiority over her\. Only to be defeated in the end\.\.\. What's worse, it happened two years in a row\.\)  
+**Maki:** \.\.\.zuka\?  
+**Suzuka:** (Even now, after following her into the elite guard, I can't help but never want to be outdone by her\.\)  
+**Maki:** Suzuka\. Um\.\.\. It's awkward, with you staring at me not saying anything\.\.\. If something's bothering you, could you tell me\?  
+**Suzuka:** \.\.\.\!\? Ahem\.\.\. I'm very sorry about that\. I was just a bit lost in thought\.  
+**Maki:** Oh\.  
+**Suzuka:** \.\.\.\.\.\.  
+**Maki:** You really helped me out today\. I'm glad you came along\.  
+**Suzuka:** \.\.\.Maki-san\?  
+**Maki:** Suppressing aradama is one thing, but I still can't get used to this inspection stuff\.  
+**Maki:** Even when they go over it for me, I can't come up with a lot more than, \"Ahh, so that's how it is\.\"  
+**Maki:** Compared to me, you're incredible\.  
+**Suzuka:** Wh-Where is all this coming from\?  
+**Maki:** Weren't you asking all the right questions\?  
+**Maki:** If it had been just me, I wouldn't have been able to come back with a report that'd make Yukari-sama happy\.  
+**Suzuka:** \.\.\.That's the entire reason I was here\. There's no reason for you to be concerned about it\.  
+**Suzuka:** More importantly, what are you thinking, flaunting your weakness in front of me like that\?  
+**Maki:** \.\.\.What do you mean\?  
+**Suzuka:** I'm shocked is all\. You used to be so stubborn, and yet you seem to have grown awfully open minded\.  
+**Maki:** You're good with situations like those, right\? Since you know how to look at things from different angles\.  
+**Maki:** All I was thinking all day was, I'm really glad someone as reliable as you is with me\.  
+**Suzuka:** Wha\.\.\.\!  
+**Maki:** I still keep it in mind; how you told me it'd be better if we took on different roles that show the best of our abilities\.  
+**Suzuka:** \.\.\.If that's all this is about, then that's fine\.  
+**Suzuka:** (Maki-san has been like this ever since we agreed to start calling each other by our first names\.\.\.\)  
+**Suzuka:** (\.\.\.It makes me seem strange for being the only one so wary around her\.\.\.\!\)  
+**Suzuka:** (Really\.\.\. Maki-san, you're just so\.\.\.\)  
+
+## [Misogi - Suzuka: End\]: Crossing Okatana as a Refresher
+**Suzuka:** Maki-san\. You've left a few errors in this paperwork, you know\?  
+**Maki:** I did\? Sorry; could I fix it up later\? I'm running short on time\.  
+**Suzuka:** It's not an issue\. I've already corrected them for you\.  
+**Maki:** Thanks for that\. Anyway, I'd better get going\.  
+**Yume:** Hey, hey, Suzuka-onee-san\. Aren't you kinda getting friendlier with Maki-onee-san now\? You are, right\?  
+**Suzuka:** Nothing's changed between us in the slightest\.  
+**Yume:** Ehh; you're definitely friendlier now\!  
+**Suzuka:** (She's not wrong\.\.\. It feels as if there's less distance between Maki-san and myself\.\.\.\)  
+**Suzuka:** (But, even so\.\.\. I still want to make up for the losses I suffered to her\.\.\.\)  
+**Suzuka:** Sigh\.\.\.  
+**Suzuka:** (How can I relieve these pent up feelings\.\.\. It seems I'll have to do something to refresh myself\.\)  
+**Maki:** This is the first time we've fought seriously since the tournament, isn't it\?  
+**Suzuka:** Thank you very much for accepting my sudden proposal\.  
+**Maki:** It's fine by me\.  
+**Suzuka:** \.\.\.This time, I'll be victorious\.  
+**Maki:** I'm not planning on losing either\.  
+**Suzuka:** Good\. There wouldn't be much point if you were\.  
+**Maki:** Then, let's get started\. Come at me whenever\.  
+**Suzuka:** I'll take you up on that then\!  
+**Suzuka:** EII--\!  
+**Maki:** Ggh\.\.\. You're especially aggressive today\.  
+**Suzuka:** I can't have you thinking\.\.\. I'll only stay the same old Konohana Suzuka--\!\!  
+**Maki:** Having you come at me head on's kind of exciting\.  
+**Suzuka:** Don't you think\.\.\. you're talking a little too much\?  
+**Maki:** You're right; let's leave it at that\. Here I come\.  
+**Maki:** --YAAAAAAHH\!  
+**Suzuka:** (She really is\.\.\. so strong\! Her strikes so straightforward\.\.\. so heavy\!\)  
+**Suzuka:** (Even still, I won't lose\!\)  
+**Suzuka:** HAAAAAH\!  
+**Maki:** [pant\.\.\. pant\.\.\. pant\.\.\.\]  
+**Suzuka:** I'm beaten\.\.\. It's your win\.  
+**Maki:** That was a great match\. You really are amazing\. You had me scrambling to keep up; I've never seen you fight like that before\.  
+**Maki:** Let's keep getting stronger like that together, to support Yukari-sama\.  
+**Suzuka:** (That attitude of hers-- As straightforward as her swordsmanship\. Maybe that's what Usumidori recognized in her\.\)  
+**Suzuka:** (This marks my third consecutive defeat\. And yet\.\.\.\)  
+**Suzuka:** Of course\. But, someday, I will overtake you\. \.\.\.I hope you won't grow complacent, unless you'd like me to take your precious okatana off your hands\.  
+**Maki:** I'm glad for the competition\. I won't be losing either; I'll show you how strong I can get\.  
+**Suzuka:** Take good care of Usumidori for me\.  
+**Maki:** Course I will\. That's my trusty partner you're talking about\.  
 > :ToCPrevNext

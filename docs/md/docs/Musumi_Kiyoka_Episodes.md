@@ -445,4 +445,91 @@ Musumi Kiyoka Episodes
 **Mihono:** Yeah, with school and missions and all\. Maybe if I could take time off from class, but there's no way they'd let me\.  
 **Mihono:** When you do your workplace experience in 2 days, it might be hard on you, but give it your best shot\. I'm sure you'll have fun with it\.  
 **Kiyoka:** Sure\! I hope I'll get to have as much fun as you did, Hono-chan\.  
+
+
+https://streamable.com/0sio32
+  
+
+## [Misogi - Kiyoka: Start\]: I'll Protect You\!
+--This was something that happened on a mission a few months ago\.
+
+  
+**Kofuki:** This's the best\! There's aradama-chan whichever way you look\! I'm gonna cut 'em all up\!  
+**Mirja:** Don't push ahead, Shichinosato Kofuki\!  
+**Kofuki:** Shut up\! These're all mine\!  
+**Mirja:** You're getting too excited\!  
+**Mirja:** (Losing control of Shichinosato Kofuki will hurt us\. Asakura Mihono is\.\.\.\)  
+**Mihono:** Geez, there's way too manyyy\! I chop one\.\.\. and another\.\.\. and there's just\.\.\. more\!  
+**Mirja:** (She still has strength left\. What about Musumi Kiyoka\?\)  
+**Kiyoka:** [pant\.\.\. pant\.\.\.\!\]  
+**Mirja:** (\.\.\.So Musumi Kiyoka is reaching her limit\.\)  
+**Mirja:** \.\.\.Could we talk for a moment, Setouchi Chie\?  
+**Chie:** \.\.\.  
+**Mirja:** \.\.\.  
+**Mirja:** Please listen to me, Setouchi Chie\.  
+**Chie:** \.\.\.Eh-- Ah, what\?  
+**Mirja:** Asakura Mihono and I will move to concentrate the aradama around Shichinosato Kofuki\.  
+**Mirja:** Please move with Musumi Kiyoka in a direction with less aradama\.  
+**Chie:** \.\.\.If that's the plan, then Kiyoka-chan and I will go with you\. The three of you can't handle this many aradama on your own\.  
+**Mirja:** \.\.\.You and Musumi Kiyoka are showing heavy signs of fatigue\.  
+**Mirja:** This is expected to be a lengthy mission\. So please recover your stamina for now\.  
+**Mirja:** We can manage this fine\.  
+**Chie:** \.\.\.Alright\. I'll look after Kiyoka-chan\.  
+**Mirja:** I'll leave her to you\.  
+**Mirja:** \.\.\.Follow after me, Asakura Mihono\! We're taking out the aradama that escape from Shichinosato Kofuki\!  
+**Mihono:** Okay\!  
+**Chie:** \.\.\.\.\.\.\! HAAAAAAAAAAHHH\!\!  
+**Chie:** \.\.\.That should be the last of the aradama around here\.\.\. I think\? Are you okay, Kiyoka-chan\?  
+**Kiyoka:** I'm almost exhausted from fighting on and on, but\.\.\. I didn't get hurt or anything\.  
+**Kiyoka:** \.\.\.How do you think Hono-chan and them are doing\?  
+**Chie:** Mirja-san is with them, so I'm sure they're alright\. So, just rest a little\.\.\. When you get your energy back, we can go help them out, okay\?  
+**Kiyoka:** With all those aradama, we're probably going to have to fight some more\.\.\. Do you think we can meet up with them alright\?  
+**Chie:** Don't worry\. Your onee-san will keep you safe\.  
+**Kiyoka:** \.\.\.When you say that, it feels like it'll really be okay\.  
+**Chie:** But\.\.\. sorry\.\.\. right now\.\.\. I need some\.\.\.  
+**Kiyoka:** Chie-san\?  
+**Chie:** [pant\.\.\. pant\.\.\. pant\.\.\.\]  
+**Kiyoka:** You're burning up\!\?  
+**Kiyoka:** (She was fighting like this\.\.\. Chie-san really is incredible\.\)  
+**Kiyoka:** \.\.\.No, that's not it\. It's because I'm so weak\.\.\. Chie-san had to push herself so hard for me\.\.\.  
+**Chie:** Ki\.\.\. yoka\.\.\. chan\?  
+**Kiyoka:** \.\.\.Don't overwork yourself, Chie-san\. I'll try my best\.  
+**Kiyoka:** Until we meet back up with the others\.\.\. I'll protect you\!  
+
+## [Misogi - Kiyoka: End\]: A Little Confidence
+**Kiyoka:** YAAAAAAAAAAAAAHH\!\!  
+**Kiyoka:** Are you okay, Chie-san\?  
+**Chie:** Yes, thank you, Kiyoka-chan\.  
+**Chie:** (But\.\.\. I can't keep going leaving everything to her\.\)  
+**Chie:** Kiyoka-chan, thanks for protecting me\. I'm feeling better after a little rest, so I can fight too now\.  
+**Kiyoka:** \.\.\.Let me feel your forehead for a second\.  
+**Chie:** Eh\?  
+**Chie:** \.\.\.Your hand feels nice and cool, Kiyoka-chan\.  
+**Chie:** The reason it feels nice is because you still have a fever\!  
+**Chie:** \.\.\.Ah\.  
+**Kiyoka:** Do you understand\? No matter what you say, Chie-san, I'm going to protect you until we meet up with everyone\!  
+**Chie:** \.\.\.  
+**Kiyoka:** Are you listening\!  
+**Chie:** \.\.\.I am\. Then, please look after me, Kiyoka-chan\.  
+**Kiyoka:** Please just rely on me\. I won't let them lay a finger on you\.  
+**Aradama:** SHAAAAAAAA\!  
+**Kiyoka:** \.\.\.HMPH\!  
+**Chie:** \.\.\.Fufu\.  
+**Chie:** (Having Kiyoka-chan protect me\.\.\. It makes me no good as an onee-san, but it also sort of gives me butterflies\.\)  
+**Mihono:** Ah\! There's Kiyoka and Chii-nee\!  
+**Kiyoka:** Ah, everyone\.\.\.\!  
+**Mirja:** I'm glad to see the both of you are safe\. Setouchi Chie, how are you feeling\?  
+**Chie:** \.\.\.Could you tell I had a fever\?  
+**Mirja:** I can't tell that much\.  
+**Mirja:** But, you were clearly responding sluggishly\. I decided something had to be wrong and focused the aradama on us\.  
+**Mihono:** You had one\!\? I didn't notice at all\!  
+**Chie:** I'm your onee-san\. I can't go making you worry about me, can I\?  
+**Chie:** And, I had Kiyoka-chan making sure I was safe, so I was absolutely fine\.  
+**Kiyoka:** [crying\]\.\.\.  
+**Chie:** Kiyoka-chan\!\? Why are you crying\!\?  
+**Kofuki:** Was it that scary being off alone with Chichie\!\?  
+**Kiyoka:** That's not it\.\.\. Since Chie-san wasn't feeling well, I-I had to protect her\.\.\. When it was over, I felt so relieved\.\.\. The tears won't\.\.\.  
+**Mirja:** Musumi Kiyoka\. You've done an excellent job\.  
+**Mihono:** Thanks a bunch for keeping Chii-nee safe, Kiyoka\!  
+**Kiyoka:** \.\.\.Yeah\!  
 > :ToCPrevNext

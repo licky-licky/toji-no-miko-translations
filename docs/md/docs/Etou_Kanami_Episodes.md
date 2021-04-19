@@ -15,6 +15,7 @@ Etou Kanami Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/U1jobRU1Nr4"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/_0ke0wRCknw"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/m5rpY-umfYk"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/OLDABiUza-Q"></iframe>](:Iframe)  
 
 ## 1: The Match That Started It
 **Kanami:** Mihono-chan's my opponent in the semi-finals\?  
@@ -1081,4 +1082,82 @@ Easter day\.
 **Sayaka:** There's something I wanted to ask too\.  
 **Kanami:** See, see\! C'mon, Fate-chan, let's hurry on back\!  
 **Fate:** \.\.\.Okay\!  
+
+## [Dress '21 - Kanami: Start\]: Going Casual to the Spring Party\?
+**Kanami:** Whoa, look at all the people that came\!  
+**Hiyori:** They said they sent invitations to everyone in the Five Traditions, so it was bound to be a busy party\.  
+**Kaoru:** Hey, check out all the food over there\. We should get some before the good stuff's gone\.  
+**Kanami:** Good thinking; we'd better hurry\!  
+**Hiyori:** Hey you two, this party's meant to be for appreciating the flowers\. Isn't this exactly what they mean by \"dango before flowers\"\? 	[\"Hana yori dango\" is a popular Japanese proverb about putting practical things before ornamental things, literally food before flowers\]  
+**Ellen:** It really is\! By the way, Hiyoyon, I saw they have lots of different ice cream over at the dessert corner\. And there's chocolate mint of course\!  
+**Hiyori:** Th-There is\!\? We shouldn't just wait around then\.  
+**Kanami:** Ah-- Wait up, Hiyori-chan\!  
+**Ellen:** Look how fast she goes\.  
+**Kaoru:** Looks like Hiyori's the most \"dango before flowers\" of anybody\.  
+**Kanami:** Ahh, the food's so good; I'm stuffed\! This is the best\.  
+**Hiyori:** Well, the Origami family are hosting after all\. Even the ice cream was very good\.  
+**Sayaka:** Mai, there's Kanami and Hiyori\.  
+**Mai:** Thank goodness\. With all the people here, it was getting hard to find you\.  
+**Kanami:** You were looking for us\? What for\?  
+**Mai:** See, yesterday, after I spoke with my father about the party, he sent over a wonderful present\.  
+**Kanami:** A present\? What'd he send\?  
+**Mai:** Fufu, you'll have to see for yourself\. There's plenty to go around, so do you want to join us in the waiting room\?  
+**Kanami:** Sure we do\! I can't to see what it is\.  
+**Hiyori:** Th-These are all\.\.\.  
+**Ellen:** Look at all the lovely party dresses\!  
+**Mai:** Go ahead and put on whichever one you like\.  
+**Kanami:** Can we\!\? Wow; they're all so cute, I can't pick just one\. What about you, Hiyori-chan\?  
+**Hiyori:** Hmm, it's tough narrowing it down\. This one's nice, but, I don't want to let go of this one\.\.\.  
+**Kaoru:** Oi oi, the party's going to be over before you make up your minds\.  
+**Kanami:** But they're all too cute to settle on just one-\.  
+**Hiyori:** They really are\. I can see some that'd look good on you, Kanami, but nothing I'd wear\.\.\.  
+**Kanami:** Same for me; all I keep finding are dresses I think'd look great on you\.  
+**Ellen:** You two sure think a lot about each other\. Why don't you just pick out each other's dresses then\?  
+**Hiyori:** We could do that\. What do you think Kanami\?  
+**Kanami:** Let's go with that\! I already found the dress that'll look best on you\!  
+**Sayaka:** I'm a little excited to see what they pick\.\.\.  
+https://streamable.com/l2taom
+
+  
+
+## [Dress '21 - Kanami: Start\]: Off to the Dress Up Party\!
+**Kanami:** I'm going with this one\! Here's your dress, Hiyori-chan\!  
+**Hiyori:** Th-This one\.\.\.\!\? Isn't it a little too flashy\?  
+**Kanami:** No way\. I know you'll look amazing in it\!  
+**Hiyori:** If you say so\. Then, here's what I picked\. Ever since I saw it, I thought you would look good in it\.  
+**Kanami:** Wow, it's so cute\! Thanks, Hiyori-chan\!  
+**Ellen:** Okay, let's hurry and get you two changed before the party starts wrapping up\!  
+**Kanami:** Good, it took a little while to get changed, but we made it back in time\.  
+**Kaoru:** Yeah, the party's in full swing\. Now the real fun can start\.  
+**Mihono:** Whoa; Kanami, Juujou-san where'd you get those\? Those dresses look super pretty\!  
+**Hiyori:** I guess it's a bit too flashy for me after all\.\.\.  
+**Kiyoka:** Not at all\! You and Etou-san both look so cute\.  
+**Mihono:** Mmhm, you're like flower fairies\!  
+**Hiyori:** F-Fairies\.\.\.\?  
+**Yui:** A flower fairy blushing bright red\! Nnnn-- I can't get enough\! This is what spring's all about\! Spring Has Come\!  
+**Hiyori:** H-Hey\.\.\. Who said you could start taking pictures\?  
+**Yui:** The model's just too cute; my fingers won't stop-\!  
+**Mirja:** Control yourself, Yamashiro Yui\. You're being very rude\.  
+**Mirja:** Everyone, spring is when perverts start becoming more active\. Please be on the lookout\. Now, if you'll excuse us\.  
+**Yui:** Ehh-- Mirja-san, let me go-\! You don't have to get jealous; you know I love you-\!  
+**Hiyori:** She comes and goes like a storm\.  
+**Kanami:** That's one way to put it\.\.\. I hope we can get those pictures from her later\.  
+**Kiyoka:** Sorry about her\.\.\. I'll be sure to ask Yui-chan for you\.  
+**Hiyori:** Sure, thanks\. But, I wasn't ready to have my picture taken yet\.  
+**Hiyori:** If we're going to take pictures, I'd want a little more time to get mentally ready first\.  
+**Kanami:** Then we can take a whole bunch more\! There's tons of places in here and the courtyard where we could get good photos\!  
+**Kiyoka:** If you want, I know a great spot nearby to have your photo taken\!  
+**Mihono:** Oh, you mean that place with the sparkling pool\?  
+**Kiyoka:** Yeah\! The flowers should be blooming there too, and it's really close by, so why don't you go take your pictures there\?  
+**Kanami:** A sparkling pool\? That sounds neat-\! Hiyori-chan, let's check it out\!  
+**Hiyori:** Hey, hang on, Kanami\! Don't run so fast\!  
+**Kanami:** Let's see, from the map Musumi-san gave me, I think it's around here\.\.\.  
+**Hiyori:** Isn't this place a wedding chapel\? Can we just walk on in\?  
+**Kanami:** Yeah\! They said it's open to the public today\. Looks like it's right through this door\.  
+**Kanami:** Whoa-\! Look, Hiyori-chan, look\! There's a pool right in the middle of the garden\!  
+**Hiyori:** I didn't think it'd be like this\.\.\. There's flowers blooming everywhere too; it's amazing\.  
+**Kanami:** Wahh-\! The petals are all blowing around\! Now's our chance\!  
+**Hiyori:** H-Hey\! I'm still not prepared yet\.\.\.  
+**Kanami:** Sorry, sorry\. Hey, let's take the next shots in front of the pool where all the petals are floating\!  
+**Hiyori:** That should be nice too\. Seems like we'll get a lot of good pictures today\.  
 > :ToCPrevNext

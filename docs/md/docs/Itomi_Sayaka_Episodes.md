@@ -2,6 +2,10 @@
 Itomi Sayaka Episodes
 =====================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/FOmY007u7kA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/A8mB5sp3tpA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/7xz_k03cXQA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/UdyV4xZkk2E"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/HT3YdcAAc3c"></iframe>](:Iframe)  
 
 ## 1: Naptime
 **Kofuki:** Oiii-\! Aradama-chan-\! Don't be shy-\! C'mon out and play already-\!  
@@ -425,4 +429,81 @@ Itomi Sayaka Episodes
 **Sayaka:** Mm\. If this can help boost the image of toji\.\.\. I'll be glad\.  
 **Mirja:** I'm sure you won't have to worry about that, Itomi Sayaka\.  
 **Kofuki:** There's nothing left to do here, so lets go home already\.  
+
+## [Halloween 19 - Sayaka: Start\]: A Request Offer
+**Mirja:** I've been looking for you, Itomi Sayaka\. Do you remember the director from that historical film\?  
+**Sayaka:** I remember\.  
+**Mirja:** As it turns out, that director has sent in another offer\. He requested you, myself, and Iwakura Sanae\.  
+**Sayaka:** I didn't plan on being in any more movies after that\.  
+**Mirja:** That may be so, but, those at the top\.\.\. Or rather, the public relations department is fairly eager to accept this\.  
+**Mirja:** I understand how you feel, but is there any way you could lend us your assistance\?  
+**Sayaka:** \.\.\.I'll do it if it's just a little\.  
+**Mirja:** Thank you very much\. I think they'll be able to meet that expectation of yours\.  
+**Mirja:** The role you will be playing is that of a younger nun under my guidance, so you shouldn't need to say many lines\.  
+**Mirja:** Now then, why don't we go visit Iwakura Sanae\.  
+**Sanae:** Eh, you want me to be in a movie with you and Itomi-san\? I'll be in a movie\!\?  
+**Mirja:** It's only natural to be surprised\. However, this too is a part of our duties as toji\.  
+**Sanae:** But, can I really do something like that\.\.\.\?  
+**Sayaka:** We'll do our best together\.  
+**Sanae:** Itomi-san\. It's amazing how you can be totally calm here\.  
+**Sayaka:** This is the second time for me\. And also, this is an important mission\.  
+**Sanae:** That's true\. This will be my first time acting, but I'll do it as best as I can\.  
+**Mirja:** According to the project outline and the script, it should be a horror action film\.  
+**Mirja:** The plot features a pair of young nuns who go to exterminate a centuries old black cat demon living in a ruined mansion\.  
+**Sayaka:** I'll be playing the younger nun\.  
+**Sanae:** Then that means, I'm the one who's playing the black cat demon\?  
+**Mirja:** Yes\. I'm not sure exactly why you were chosen for the part, but that director is one to set his heart on something and not let go\.  
+**Sayaka:** I think you'll be a cute black cat\.  
+**Sanae:** But it's a horror movie\.\.\. Is that really okay\?  
+**Mirja:** That shouldn't be an issue\. Judging from the photos of costumes that they sent us, they don't look designed to be scary\.  
+**Sayaka:** They're cute\.  
+**Sanae:** The nun clothes have a stylish feeling to them\. I bet they'd look good on you two\.  
+**Mirja:** Before the filming takes place, I plan to hold rehearsal sessions and briefing sessions with the director when there's time between missions\.  
+**Mirja:** Aradama suppression will be my highest priority of course, but I'll make my efforts here as well\.  
+**Sayaka:** Mm\. We should make the best use of our experience and bearing as toji\.  
+**Mirja:** Much like with their offer with the historical film, they must be expecting a similar kind of action from us\.  
+**Sanae:** In that case, I think I might be able to do some of it\.  
+**Sayaka:** Don't worry\. I know you can do it, Sanae\.  
+**Sanae:** Alright, thank you\.  
+
+## [Halloween 19 - Sayaka: End\]: The Scream is Vital\.\.\.\?
+On the day of the film shoot\.
+
+  
+**Sayaka:** I only need to walk around the ruined mansion looking for the rumored black cat demon\?  
+**Film Director:** Yes, that's right\. There's a few lines for you to say, but the most important part is the scream\.  
+**Sayaka:** \.\.\.The scream\?  
+**Film Director:** In this scene, just before you climb the ladder to the next floor, you see the shadow of the black cat, and I want you to scream as loud as you can\.  
+**Film Director:** This is your big scene\. A scream is the heart of horror-- It's the most thrilling part\. So I'm counting on you\.  
+**Sayaka:** I understand\.\.\. I'll do my best\.  
+**Film Director:** Sure, sure\. I can already tell I made the right call requesting you three\! Anyway, we'll talk later\.  
+**Sanae:** Your big scene is a screaming scene\.\.\. Doing a scream on purpose\.\.\. It'll be a little tough, won't it\?  
+**Sayaka:** \.\.\.\.\.\.  
+**Sayaka:** I've never really screamed before\.  
+**Mirja:** Then, why not do some practicing\? Say, \"Gyaa-\"\.  
+**Sayaka:** Gyaa-\.  
+**Sayaka:** \.\.\.Like that\?  
+**Sanae:** Wouldn't it be better to sound a little more shocked when you do it\?  
+**Mirja:** That's reasonable advice to give\.  
+**Sayaka:** Gyaa-\!  
+**Sayaka:** \.\.\.How was that\?  
+**Mirja:** Hmm\.\.\. Instead of sounding so rough, something like, \"Kyaa-\!\"\.\.\. It may be better to make it sound cuter like that\.  
+**Sayaka:** I think I'm starting to get it\. Thank you, both of you\.  
+**Staff:** Itomi-san, if you could head over here around now\~\.  
+The apprentice nun visited the ruined mansion to search for the black cat in question, but\.\.\. Along the way, she became separated from her senior nun\.
+
+  
+**Sayaka:** \.\.\.Sister, where are you\?  
+**Sayaka:** And\.\.\. Where is the black cat demon too\.\.\.  
+**Sayaka:** (When I climb up this ladder\.\.\. I scream\.\.\. I have to yell\.\.\. Kyaa-\. I have to sound\.\.\. as surprised as I can\.\)  
+**The Voice of a Cat\?:** Nyaa\~\.  
+**Sayaka:** (\.\.\.Okay\. Now I--\)  
+**Sayaka:** --KYAAAAA\.\.\.\!  
+**Staff:** Alright, we'll be taking an hour break now-\.  
+**Sayaka:** Good work\.  
+**Mirja:** You did well yourself, Itomi Sayaka\.  
+**Sayaka:** You two still have more scenes\. You have to rest before then\.  
+**Sanae:** Then, should we get right to having lunch\? I'm a little excited to see the catering\.  
+**Sayaka:** Mm, I feel hungry too\. It's smelled good for a while here\.  
+**Mirja:** Fufu, you're right about that\. Let's go see what they have then\.  
 > :ToCPrevNext

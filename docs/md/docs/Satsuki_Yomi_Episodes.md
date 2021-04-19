@@ -10,6 +10,7 @@ Satsuki Yomi Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UDpu_4zvXrw"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/53qQY9kGizE"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/x09jCgS9Qss"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/asuyUPbavRc"></iframe>](:Iframe)  
 
 ## 1: Elite Guard Tea Party
 **Maki:** Sigh\.\.\. Writing up a report after every single mission is getting to be a real chore\.  
@@ -779,4 +780,72 @@ A few days later\.
 **Yomi:** \.\.\.  
 **Yomi:** Let's go back, Takamachi-san\.  
 **Nanoha:** Sure, Yomi-san\!  
+
+## [Dress '21 - Yomi: Start\]: Staying Home During the Party\?
+**Akane:** That's a lovely offer\. However, I think it would be a waste for us to be the only ones enjoying it\.\.\.  
+**Maki:** That's true, especially when there's a whole truck of them\.\.\.  
+**Yume:** Hey, hey, what are you talking about\? Enjoying what\?  
+**Suzuka:** Plenty of flowers bloomed in a garden my family manages, so they were donated to the Origami family as a gift\.  
+**Yomi:** We were just talking about how it would be wasteful for only the Origami family to appreciate them\.  
+**Yume:** What, that's it\? Then just have a big flower party and invite everybody to come see\!  
+**Akane:** I see, that does sound nice\. We might as well send invitations to every toji and person related to the Five Traditions then\.  
+**Suzuka:** Wonderful\. My father would be delighted to hear it too\.  
+**Akane:** Could I ask you all to help with preparing the party venue and sending invitations\?  
+**Maki:** Sure thing\! It's going to take some work\.  
+**Yume:** If toji onee-sans are coming from all around the country, I can't wait\!  
+**Suzuka:** Then, how about we get right to dividing up our roles\? We should have some in charge of creating and preparing the party venue, some in charge of getting in touch with all those invited, and\.\.\.  
+**Suzuka:** If there's anything you'd like to be in charge of, go ahead and volunteer\.  
+**Yomi:** Then, I'd like to volunteer\.\.\.  
+**Maki:** I didn't think you'd be the one to volunteer yourself\.\.\. So, what'd you want to do\?  
+**Yomi:** On the day of the party, everyone should be away, so I thought I could be in charge of staying behind here\.  
+**Yume:** Huhh\? Wait, so then, you're not coming to the party, Yomi-onee-san\?  
+**Yomi:** Right\. I don't do very well with busy places\.  
+**Yume:** Ehhh; you can't do that\! You have to go-\!  
+**Yume:** If we're throwing a party, all of us have to be there\! Can't you just go\?  
+**Yomi:** Even if I did\.\.\. I feel like it would be a problem if all of us were away from the Origami estate\.  
+**Suzuka:** You do have a point; it wouldn't be much of a way to thank the other toji for their efforts if we also left our posts\.\.\.  
+**Maki:** It's only right for some of us to stay behind\.  
+**Maki:** Alright; I'll watch the place together with Yomi then\.  
+**Yume:** Huhh\!\? There's no way the both of you can't go, Maki-onee-san\!  
+**Akane:** If you're worried about it, I have a good solution\.  
+**Maki:** You were listening in, Akane-sama\? What'd you have in mind\.\.\.\?  
+**Akane:** What if we held the party within the grounds of the Origami estate\?  
+**Yomi:** Within the Origami estate\.\.\.\?  
+**Akane:** It doesn't see much use, but we do have a banquet hall we can decorate for the party\.  
+**Maki:** That'll do it\! No matter what comes up, we can be right there to deal with it\.  
+**Suzuka:** Good suggestion, Akane-sama\. Yomi-san, you'll be there at the party as security for the Origami family, won't you\?  
+**Yomi:** \.\.\.It seems I'll have to\. If it's my mission, I'll make sure everyone attending the party is protected\.  
+
+## [Dress '21 - Yomi: End\]: The Party Guards' Outfits\!\?
+The day of the party\.
+
+  
+**Yume:** The guests'll be here soon\! Yomi-onee-san, let's put our dresses on\!  
+**Yomi:** Our dresses\.\.\.\? Wasn't it my duty to be guarding the party today\?  
+**Suzuka:** Everyone will be dressed up, so wouldn't you be all the more conspicuous if you were the only one in uniform\?  
+**Maki:** That's why they say, if you want to hide a leaf, do it in a forest\.  
+**Yomi:** I see; in that case\.\.\.  
+**Suzuka:** For the party today, I had lovely dresses with a flower motif prepared for us all\. Come along, let's get changed\.  
+**Yume:** We put it on-\! How's it look\?  
+**Suzuka:** Wow; you all look fantastic\!  
+**Yume:** Eheheh\! It's nice getting to go to the party in these cute dresses, huh, Yomi-onee-san\!  
+**Yomi:** It is\. I shouldn't be surprised, since Konohana-san prepared them for us, but I'm relieved at how easy they are to move around in\.  
+**Yomi:** It might be a little early, but since we've finished getting dressed, why don't we go to the banquet hall\?  
+**Yume:** Sure\! Y'know, you didn't want to come before, but you got excited for this too, didn't you, Yomi-onee-san\!  
+**Yomi:** No, that's not it\.\.\. I only wanted to give the area a full check before the guests arrived\.  
+**Yume:** Boo-\. Even though she's in such a cute dress, she still won't get out of work mode\.  
+**Suzuka:** That's one of Yomi-san's virtues\.  
+**Yume:** Whoa-\! Look, Yomi-onee-san\! There's flowers put up everywhere\!  
+**Yomi:** I never expected them to send us this many flowers\.\.\.  
+**Yume:** It looks like there's a big flower stand out in the courtyard too\! Let's go see\!  
+**Yomi:** Please slow down, Tsubakuro-san\. You're going to trip over if you run that fast\.  
+**Yume:** But it's so pretty out here\! Let's have a lot of fun at the party, Yomi-onee-san\!  
+**Yomi:** Alright\. I'll be sure to keep on guard, so that you and all the other guests can enjoy it\.  
+**Yume:** Boo-\.\.\. You're still talking about that stuff\? We're all at the party, so we'd all be missing out if we didn't have fun together\.  
+**Maki:** Yume's right\. Couldn't we trade off so we all have time to enjoy the party\?  
+**Yomi:** Still\.\.\. If, by some chance, a suspicious person arrived\.\.\.  
+**Suzuka:** If that were to happen, they'd have all the toji from across the nation to contend with\.  
+**Akane:** With how many toji will be gathered here, this could be one of the safest places in Japan\.  
+**Akane:** So please, try to enjoy yourself tonight, Yomi-san\.  
+**Yomi:** Akane-sama\.\.\. I understand\. If that's part of my mission, I'll try to enjoy it as well\.  
 > :ToCPrevNext

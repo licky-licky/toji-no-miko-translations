@@ -6,6 +6,7 @@ Shidou Maki Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/WNtGgHguxrw"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/-wO5Ngjj1-g"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/f98LI_s4H4M"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/4FZrOyp51WQ"></iframe>](:Iframe)  
 
 ## 1: The Charismatic Toji
 **Maki:** --Aradama sighted\! Engaging in combat\!  
@@ -412,4 +413,92 @@ On Christmas Eve\.
 **Kazumi:** I hope you'll enjoy yourself\!  
 **Maki:** Thanks, Kazumi\. I hope you'll have a good Christmas Eve too\.  
 **Kazumi:** \.\.\.Right\!  
+
+## [Misogi - Maki: Start\]: Maki's Habit
+**Maki:** Give me a status report\!  
+**Toji A:** Unit #1 collapsed after being hit with an enemy ambush\!  
+**Maki:** An ambush\.\.\.\? This platoon maneuvers training only just started though\!\?  
+**Toji B:** Still, we've confirmed it\! We tried sending backup immediately, but by the time they got there, they were already unable to fight\!  
+**Maki:** Kgh\.\.\.  
+**Maki:** (Did Suzuka predict the orders I'd give\? Then that'd mean\.\.\.\)  
+**Maki:** It's dangerous staying here too\.\.\. We're moving\!  
+**Toji:** Shidou-san\! It's an ambush\!  
+**Maki:** Huh\!\? Another ambush\.\.\.\? But then they'd have to know we'd come this way\!\?  
+**Toji B:** We'll open a path for you\! \.\.\.Don't let them get Shidou-san\!  
+**Toji A:** Leave her to me\! Shidou-san, over this way\!  
+**Maki:** I didn't think this would end up being so one-sided\.  
+**Toji A:** I'm sorry, Shidou-san; we just weren't strong enough for them\.\.\.  
+**Maki:** \.\.\.No, none of you did anything wrong\. They were just one step ahead of us\.  
+**Maki:** (I never thought she'd have such a good read on me\.\.\.\)  
+**Toji A:** There's only me and a few others left\.\.\. What should we do\?  
+**Maki:** \.\.\.\.\.\.  
+**Maki:** (Regrouping from this would be almost impossible\.\.\. All that's left is\.\.\.\)  
+**Maki:** I'll go out there\. We're just too outnumbered right now\.\.\. I'm the only one who could this around\.  
+**Toji A:** Alright\.\.\. Good luck out there, Shidou-san\.  
+**Maki:** Thanks\!  
+**\?\?\?:** Shidou Maki started moving independently from the rest\.  
+**\?\?\?:** Just as expected\. Mm, I knew you wouldn't be able to resist\.  
+**\?\?\?:** Is everyone ready and waiting\?  
+**\?\?\?:** Yes\.  
+**Suzuka:** \.\.\.This is checkmate, Maki-san\.  
+**Suzuka:** Now then, let's begin the review meeting for our platoon skirmish\.  
+**Maki:** \.\.\.I got outmatched so badly I can't even tell what I'm supposed to review\.  
+**Maki:** Could you tell everything I was thinking, Suzuka\?  
+**Suzuka:** From your past tendencies, I could tell you would bring your platoon at us from the front\.  
+**Suzuka:** Given our different approaches to leadership, if our platoons were to face each other so directly, I would be at a disadvantage\.  
+**Maki:** So that's why you went with an ambush\.  
+**Suzuka:** Yes; if I wanted to win, our best plan of action was to come at you from where you were most exposed\.  
+**Maki:** You had me completely caught up in it\. Especially with how well you pulled off those last waves of attacks\.  
+**Suzuka:** That was the cornerstone to our strategy\. I wouldn't be exaggerating to say everything else was simply to bring you to that point\.  
+**Maki:** \.\.\.So you knew I'd do all that\?  
+**Suzuka:** That's right\. When your unit finds itself in danger, you always attempt to recover the situation on your own, don't you\?  
+**Maki:** \.\.\.Do I\? Wait, now that I think about it, maybe you're right\.\.\.  
+**Suzuka:** \.\.\.We'll have to put this review meeting on hold here\.  
+**Maki:** Right\.\.\. Let's move out, Suzuka\!  
+
+## [Misogi - Maki: End\]: Somebody I Can't Beat
+**Suzuka:** It seems we'll already be able to put today's training to good use\.  
+**Maki:** Today's training\.\.\.\? You think we'll have to watch out for any aradama ambushes\?  
+**Suzuka:** Well, I wouldn't say it's completely out of the question, would you\?  
+**Suzuka:** \.\.\.We're just about to make contact\.  
+**Maki:** Why are there so many\!\?  
+**Suzuka:** This could take quite some time\.\.\.  
+**Toji A:** HAAAAAAAAAAAA\!\!  
+**Toji A:** Damnit\! After every one we kill, another one comes out\!  
+**Toji B:** How long is this going to go on for\.\.\.\?  
+**Maki:** (\.\.\.They're already showing signs of fatigue\. At this point, I should\.\.\.\)  
+**Suzuka:** That's right\. When your unit finds itself in danger, you always attempt to recover the situation on your own, don't you\?  
+**Maki:** (\.\.\.If I did that, there'd be no point to the training\.\.\. But, still\.\.\.\)  
+**Suzuka:** \.\.\.It's getting to be rather difficult, isn't it\.  
+**Maki:** \.\.\.Yeah\. Everybody's close to their limit\.  
+**Suzuka:** What should we do about them\.\.\.  
+**Maki:** (If we keep fighting like this\.\.\. we might get overwhelmed by their numbers\.\)  
+**Maki:** (And then, what's going to happen to these girls\?\)  
+**Maki:** (If that's going to put them in danger\.\.\. I just have to do whatever I can\!\)  
+**Maki:** Suzuka\!  
+**Suzuka:** Yes\?  
+**Maki:** I'm leaving my unit with you\! You'll take good care of them, right\?  
+**Suzuka:** Fufu, how very like you, Maki-san\.  
+**Maki:** Yeah, it doesn't seem like I can do much else\. So\.\.\. I'm heading off\.  
+**Maki:** HAAAAAAAAAAAAAHH\!\!  
+**Aradama:** GEEEEEEEEE\!\!  
+**Suzuka:** We somehow managed though all that\.  
+**Maki:** \.\.\.Sorry, Suzuka\.  
+**Suzuka:** What are you apologizing for\?  
+**Suzuka:** Many girls were injured, but none of it was serious\. And they all owe it to you\.  
+**Maki:** Still, I ended up going off on my own in the end\. That made the whole training meaningless\.  
+**Suzuka:** It's true that you should reflect on that, from the perspective of preparing the next generation\.  
+**Suzuka:** But, to use yourself as a shield to protect those by your side\.\.\. I think that's one of your best qualities, Maki-san\.  
+**Maki:** You\.\.\. do\?  
+**Suzuka:** I do\. So, why not learn to operate your unit in your own way\?  
+**Maki:** Hmph\! Hmph\! Hmhh\! Hmph\! Huph--\!\!\!  
+**Maki:** (Operate in my own way\.\.\. Since I have the day off and I'm done training, I might as well go through some simulations\.\)  
+**Suzuka:** You're out here training again\? Don't you think you ought to take the time to rest every so often\?  
+**Maki:** Hey, you're the one who said I should keep doing things my own way\.  
+**Maki:** I'm not busy today, so I'm going to really think over how to lead around a unit\.  
+**Suzuka:** Honestly\.\.\. This is exactly what's no good about you, Maki-san\.  
+**Maki:** Weren't you telling me the exact opposite before\!\?  
+**Suzuka:** That was then, this is now\.  
+**Suzuka:** So go on, shower yourself off\. After you've finished, you can come along with me to an art gallery\.  
+**Maki:** \.\.\.I really can't hold a candle to you, can I\.  
 > :ToCPrevNext

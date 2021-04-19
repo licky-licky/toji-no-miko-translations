@@ -8,6 +8,7 @@ Tsubakuro Yume Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/51zzPZJO6kY"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/QcrxhLnr7t8"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/0OSG6EeTdH8"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/0SoaKrXIWPw"></iframe>](:Iframe)  
 
 ## 1: Meeting Maki
 **Maki:** So you're the new addition to the elite guard, Tsubakuro Yume\?  
@@ -594,4 +595,78 @@ The next day--
 **Yume:** Geez, and it was just getting fun too\. Let's pick up from here when we get back, Fate-chan\.  
 **Nanoha:** Fate-chan can get pretty intense when it comes to combat training\.\.\.  
 **Fate:** I told you, it's not like that\!\!  
+
+## [Dress '21 - Yume: Start\]: You Excited\? It's the Spring Flower Party\!
+**Yume:** Hey, hey, Yomi-onee-san\! All the people coming to the party today are toji, aren't they\?  
+**Yomi:** Not exactly all of them, but everyone from the Five Traditions was invited, so the majority should be toji\.  
+**Yume:** That's a lot though\! So, who do you think's the strongest of them all\?  
+**Yume:** I can't really tell, so I think I'll just challenge whoever I feel like\!  
+**Suzuka:** Yume, we're all here today to appreciate the flowers, not to fight amongst each other\.  
+**Maki:** That's right\. And besides, our job here is to act as guards\.  
+**Maki:** We're keeping this up until late tonight, so you're going to wear yourself out if you're getting too excited first thing\.  
+**Yume:** We're doing this until night\? Didn't they say we were just guarding during the day\?  
+**Maki:** Oh yeah; you're only in charge of the day part, aren't you\.  
+**Yume:** The day part\? So that means the party's still going on at night too\?  
+**Yomi:** Akane-sama proposed that we split the party into two parts, for the toji who couldn't arrive during the day due to their missions\.  
+**Yume:** She did\? So wait, then, I can just be a normal guest for the night part, right\?  
+**Maki:** Sure; but don't get too carried away with it\.  
+**Yume:** Nice-\!  
+**Yume:** Ah-- There's some onee-sans over there\! Heyyy\!  
+**Kanami:** Oh; Yume-chan\! Come and look\! They decorated this cake with flowers all over; isn't it cute\?  
+**Yume:** Wow; it really is\! --Wait, forget that, come out to the courtyard with me, Onee-san\!  
+**Kanami:** Huh\? The courtyard\? Did you want to look at the flowers together\?  
+**Yume:** Not that-\! There's a whole bunch of toji coming here today, so we're going to have a big match to see who's the strongest\!  
+**Kanami:** That sounds cool\! You'll come too, right, Hiyori-chan\?  
+**Hiyori:** Hmm\.\.\. If you say so, then I guess I have to\.  
+**Mihono:** That'll be fun\! Let me in too-\!  
+**Yume:** Yayyy, more and more people are coming\! I can fight anybody I want\! So, who should I beat first-\?  
+**Maki:** Hey, Yume\! The moment I take my eyes off you, you're already starting something\.  
+**Yomi:** Our team's duty is to act as security for the venue today\.  
+**Suzuka:** You're meant to mingle naturally amongst the partygoers while keeping an eye on things\.\.\.  
+**Yume:** Boo\.\.\. But for me though, fighting with everybody's the most natural thing to do\.  
+**Yomi:** You might be right, but you are on duty, at least during the day\. Please bear with it\.  
+**Yume:** Fiiine\.\.\.  
+**Yume:** Ahh, I'm so bored\. They said just to enjoy the party normally, so I ate the food, and talked, and\.\.\.  
+**Yume:** Yawwwn\. Now I'm feeling tired cause I'm full\.  
+**Yume:** Zzzzzzzzzzzz\.\.\.\.\.\.  
+**Yume:** Yawwwn\.\.\. Huh\? It's dark out\.\.\.\?  
+**Yume:** It's sorta quiet too\.\.\. Wait\!\? There was all those guests and now I don't see anybody\!  
+**Yume:** Does that mean; did I sleep through the whole party\!\?  
+
+## [Dress '21 - Yume: End\]: A Private Time After the Party\?
+**Yume:** Wahhh\! I don't believe it\! The party's seriously over\!  
+**Yomi:** Oh, you're awake now, Tsubakuro-san\.  
+**Yume:** Yeah, I'm awake now-\! So why didn't you wake me up\!\?  
+**Maki:** You just looked so peaceful sleeping, we'd feel bad waking you up\.  
+**Suzuka:** The way you were surrounded by flowers, you were as adorable as Sleeping Beauty\.  
+**Suzuka:** See, I took a photo; have a look\.  
+**Yume:** Wow, I really do-\! --Wait\!\! That's not the point\!  
+**Yume:** Didn't you say how, after I was done guarding during the day, I could do what I wanted at night\?  
+**Yume:** Did all the toji onee-sans really leave already\?  
+**Maki:** Yeah\. They all said they'd be busy with missions and training again first thing tomorrow morning\.  
+**Yume:** Boo\! I was supposed to have a bunch of fights with all the different toji onee-sans\!  
+**Yume:** What was even the point of having the party now\!\?  
+**Yomi:** To appreciate the flowers\.\.\.  
+**Maki:** Hey, it's alright; if you want to spar with somebody, I'll do it with you tomorrow\.  
+**Yume:** You're no good, Maki-onee-san\! I wanted to fight with a whole lot more people\.  
+**Suzuka:** Sigh\.\.\. I suppose we should have woken you up regardless\.  
+**Maki:** There's not much we can do now though\. Right, Yomi\?  
+**Maki:** Hm\.\.\.\? Where'd Yomi go\? Did she go back to her room already\?  
+**Suzuka:** We should return as well\. I'll have my father send more flowers next year, so we can look forward to having the party again\.  
+**Yume:** Now they're all gone\.\.\. Aww, and I thought this was going to be a lot of fun with everybody\.\.\.  
+**Yume:** Sigh\.\.\. It's just boring\.\.\.  
+**Yomi:** Tsubakuro-san, you're still here\. Good\.  
+**Yume:** Yomi-onee-san\? Didn't you go back to your room\?  
+**Yomi:** I thought about it, but I saw that the bar was still open\.  
+**Yomi:** If you'd like, will you have a drink with me\?  
+**Yume:** Whoa\! This cocktail's so pretty\! But, is it really okay for somebody young to drink this\?  
+**Yomi:** I had them make special non-alcoholic ones\.  
+**Yume:** Neat\! Then I'll have some\!  
+**Yume:** What's with this; it's super yummy\! They didn't have this at the party, did they\?  
+**Yomi:** They didn't\. Since the orders had slowed down, it seems that they made extra flavorful ones for us\.  
+**Yume:** So this special cocktail's just for you and me\? Thanks, Yomi-onee-san\!  
+**Yomi:** I'm glad to see you're feeling better now\.  
+**Yume:** Next year, I want to invite even more toji, and then we can have a really exciting party\!  
+**Yume:** And then, everybody can have this cocktail there too\! Doesn't that sound good\?  
+**Yomi:** It's a little early to be thinking about next year\. But, I think that would be nice\.  
 > :ToCPrevNext

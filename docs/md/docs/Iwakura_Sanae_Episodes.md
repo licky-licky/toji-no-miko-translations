@@ -3,6 +3,7 @@ Iwakura Sanae Episodes
 ======================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/B53GqQAvhT4"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/HguM1_W3fqw"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/RC9-XBPlozw"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/yL8kaMSJQzo"></iframe>](:Iframe)  
 
 ## 1: A Gourmet Tour of My Native Gunma
@@ -354,6 +355,76 @@ The day of the film shoot\.
 **Sanae:** Thanks a lot, Kitora-san\! I can't wait for it to be in theaters\!  
 **Mirja:** I understand the feeling\. When that time comes, let's go and see it together\.  
 **Sanae:** Sure\!  
+
+## [Summer Dress - Sanae: Start\]: The Rain Comes Down
+**Aradama:** GYAOOOOOOOOOOOOO\!  
+**Sanae:** Konohana-san\! I cornered the aradama\!  
+**Sanae:** Please finish it off\!  
+**Suzuka:** You can leave it to me\!  
+**Suzuka:** HAAAAAAAAAA\!  
+**Aradama:** OOoo\.\.\.  
+**Suzuka:** This was the last of them now\. You did well, Iwakura-san\.  
+**Sanae:** Thank you\. You did well too, Konohana-san\.  
+**Sanae:** We finished our mission before the rain started\.\.\.  
+**Sanae:** \.\.\.Ah\.  
+**Sanae:** It's pouring now\.  
+**Suzuka:** Our expedition to Hokkaido coincided with the typhoon passing\. There's little we could do about it\.  
+**Suzuka:** Let''s hurry on to our hotel before anything\. If we stay here in the rain like this, we'll catch a cold\.  
+**Sanae:** Alright\!  
+**Sanae:** Oh, the rain stopped\.  
+**Suzuka:** Yes, the weather's nice out\.  
+**Suzuka:** Are you feeling a cold coming on, Iwakura-san\?  
+**Sanae:**　I feel fine\.  
+**Sanae:** It's all because of the plan you came up with, Konohana-san\. If we had been chasing down aradama in that rain, I might have caught one\.  
+**Suzuka:** Really now, even without my strategy, I think you would have been able to suppress them quickly enough\.  
+**Sanae:** Are you sure\.\.\.\?  
+**Suzuka:** What do you doubt about that\?  
+**Sanae:** It's just, with my skills, I'm not sure I'd be able to beat them in time\.  
+**Sanae:** I'd probably still be out there even after the rain started\.\.\.  
+**Suzuka:** (She's sincerely concerned\.\.\. What a straightforward person\. Come to think of it, Iwakura-san is also from Heijou\.\)  
+**Suzuka:** Fufu\.  
+**Sanae:** \? \.\.\.What's the matter\?  
+**Suzuka:** Oh, it's nothing\.  
+**Suzuka:** Anyway, before we stop in for the night, would you like to step out for a bit\? We did manage to finish our mission earlier than planned\.  
+**Sanae:** Ah, I'd love to\!  
+**Sanae:** Since we came to Hokkaido, I was thinking I could try some of the jingisukan here, or their ice cream, or the seafood\!  
+**Suzuka:** Well now, it's all food\.  
+**Sanae:** Actually\.\.\. Whenever I have time on an expedition assignment, I go on a gourmet tour\.  
+**Suzuka:** I think that's a fine interest to have\. In that case, could I ask you to escort me around\?  
+**Sanae:** Sure\! Leave it to me\!  
+
+## [Summer Dress - Sanae: End\]: Looking Good With Sunflowers
+**Sanae:** I found it, Konohana-san\! That store's ramen is famous for its deliciousness\!  
+**Suzuka:** Ramen\?  
+**Sanae:** Yeah\!  
+**Sanae:** When it comes to noodles, I think mizusawa udon is the best, but I love ramen too\!  
+**Sanae:** Every region does it pretty differently, so it's interesting to see\.  
+**Suzuka:** What sort of ramen do they have in Hokkaido\?  
+**Sanae:** Miso ramen's definitely the most popular in Hokkaido, but they make tasty seafood flavored shio ramen too\!  
+**Suzuka:** I'll look forward to it\.  
+**Suzuka:** The ramen was delicious\.  
+**Sanae:** Wasn't it\? I wasn't sure what to pick first, but I made the right choice with shio ramen\.  
+**Suzuka:** As a token of my thanks for the ramen, I'll show you to a place I recommend\.   
+**Sanae:** Somewhere you recommend\?  
+**Suzuka:** That's right\.  
+**Suzuka:** I thought I could also at least find one place to bring you, so I kept a special one in mind\.  
+**Sanae:** Woww\.\.\. It's so pretty here\.\.\.  
+**Suzuka:** I'm glad to see it's to your liking\.  
+**Sanae:** Why did you choose here\.\.\.\?  
+**Suzuka:** It fit the image I have of you, Iwakura-san\.  
+**Suzuka:** Sunflowers do suit you after all\.  
+**Sanae:** Sunflowers suit me\.\.\.\?  
+**Suzuka:** They do\. Sunflowers are a good fit for a toji with a straightforward, honest strength\.  
+**Sanae:** \.\.\.Thank you\.  
+**Sanae:** But, sunflowers really do suit you too, Konohana-san\.  
+**Suzuka:** Fufu, that would be nice\.  
+**Suzuka:** Anyway, it's about time we left\.  
+**Sanae:** Ah, for the shinkansen\?  
+**Suzuka:** No, for the flight I chartered\. This will be faster than taking the shinkansen, won't it\?  
+**Sanae:** \.\.\.\.\.\.Th-That's true\.  
+**Sanae:** (Instead of sunflowers\.\.\. maybe a more expensive flower would be better for Konohana-san\.\)  
+**Suzuka:** What are you waiting for\? We're going\.  
+**Sanae:** R-Right\.\.\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/yL8kaMSJQzo"></iframe>](:Iframe)  
 
 ## [Xmas' 20 - Sanae: Start\]: What Should I Go With\?

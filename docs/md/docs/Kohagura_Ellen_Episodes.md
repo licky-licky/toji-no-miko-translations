@@ -3,7 +3,9 @@ Kohagura Ellen Episodes
 =======================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/YTauNsgryxs"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/BHI45rWeMrA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/mujsmPOys3U"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/j47iC8Z6kho"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/nvrRtUbg98k"></iframe>](:Iframe)  
 
 ## 1: I Miss You
 **Ellen:** Kaoru, you got to see Papa and Mama at their research lab recently, didn't you\? They had a lot to say about you\! They were so happy to meet you\!  
@@ -250,6 +252,84 @@ Kohagura Ellen Episodes
 **Sayaka:** Me too\.\.\. I'm looking forward to the food stands\.  
 **Kanami:** Ehehe\. It's kind of nice, isn't it\? Doing this kind of thing\. I hope we can all have a lot more fun again this year-\.  
 **Ellen:** Alll-right, let's all have another fun year together\!  
+
+## [Summer Uniform - Ellen: Start\]: Meeting Up With Kaoru and Nene\~
+**Kaoru:** Are you guys already getting into it-\?  
+**Nene:** Nene\~\.  
+**Ellen:** Kaoru\~\! I'm glad you made it\~\. Good work on your mission\.  
+**Kaoru:** Getting R&R is something I specialize in, just as much as orders to wait on standby and break\.  
+**Kaoru:** Actually, you guys haven't finished up the barbecue yet, have you\?  
+**Ellen:** No problem\. We still have plenty of ingredients left-\. You and Nene can both eat your fill\.  
+**Nene:** Ne-\!  
+**Kaoru:** Ooh, you've got some pretty good meat here\. You really went all out\.  
+**Ellen:** That's the beef that Mihomiho brought\. She said she used all her spending money\!  
+**Kaoru:** Is that so\. Though, I'm not seeing Mihono herself around\?  
+**Chie:** Mihono-chan and Kiyoka-chan are taking a little break after eating\.\.\.  
+**Ellen:** Naonao, could you save the meat you're grilling now for Kaoru\?  
+**Uraga Nao:** Sure thing\. The hard workers among us need to make sure to get enough nourishment\~\.  
+**Kaoru:** The president must have me confused for a workhorse or something\. She doesn't even give me carrots either\.\.\.  
+**Ellen:** We have carrots here\. Go on and eat up-\.  
+**Kaoru:** No way; let me get some meat first\!  
+**Ellen:** Fufu, I'm only joking\. Here you go, ready to eat\. You can have a drink too\.  
+**Kaoru:** Ohh, I sorta feel bad making you getting everything for me\. Why're you doing all this anyway\?  
+**Chie:** Isn't it simply that she's happy you're here, Kaoru-san\?  
+**Ellen:** Hey, Chie-, don't tell her that-\.  
+**Ellen:** You quit looking at me too, Kaoru\. Your meat's getting cold\.  
+**Kaoru:** Then, I'll dig in\. --Ohm\!  
+**Kaoru:** Sho good\.\.\.\!\? I've gotta give Mihono my thanks\.  
+**Ellen:** That's the meat we all fought to get back from the aradama\. So go ahead and savor it\.  
+**Kaoru:** You've been working hard too, huh\. [chew chew\]\.\.\.  
+**Kaoru:** I wish this kind of R&R would get turned into one of my duties too\.  
+**Ellen:** That's for sure-\. We could all go have fun at lots of different places\.  
+**Ellen:** Ah, you should try the ones she grilled slow at low temperature too\.  
+**Kaoru:** I guess I'll have some of that then\.  
+**Nene:** Nene-\!  
+**Nao:** Not yet\~\. These ones need to cook a little longer\. Understand\~\?  
+**Nene:** Ne\.\.\.  
+**Ellen:** The barbecue boss's orders are absolute, Kaoru\.  
+**Kaoru:** \.\.\.R-Right\. Anyway, Mihono and Kiyoka still aren't back yet\?  
+**Ellen:** They'll be back soon\. Let's all enjoy the barbecue while we wait for them\.  
+**Kaoru:** Sounds like a plan-\. Ahh, this stuff really is good\.  
+
+## [Summer Uniform - Ellen: End\]: After a Mission, You Take a Break\!
+**Kaoru:** Having somebody else grill for you isn't bad, but you've gotta try barbecuing your own meat\.  
+**Kaoru:** When it starts sizzling, the sound alone's enough to taste it\.  
+**Nene:** Ne\~\.  
+**Ellen:** That's definitely one way to enjoy it-\.  
+**Kaoru:** The smell when it's grilling's good too\.  
+**Ellen:** [yawn\]\.\.\. Nice weather and a full stomach\.\.\. I'm getting sleepy\.  
+**Ellen:** Kohagura Ellen, now switching over to comfy mode\~\.  
+**Kaoru:** Skewers are ready; you want one, Ellen\?  
+**Ellen:**  Nnn\.\.\. Getting up's too much work\. I wonder if I caught this from you, Kaoru\?  
+**Ellen:** Since we're always together, it must have only been a matter of time\.  
+**Kaoru:** Don't blame me if you're turning into a slacker\. I'm the one wanting to slack off here\.  
+**Kaoru:** So, you want one or don't you\?  
+**Ellen:** What to do-\. You did go and grill it yourself, so\.\.\.  
+**Ellen:** If you'll feed it to me, I'll gladly have one\. --Ahhhhn\.  
+**Kaoru:** What're you talking about\.\.\. What are you, a baby bird\?  
+**Ellen:** If I'm a baby bird, then you're the mama bird\.  
+**Ellen:** You're good at looking after others, so you seem like you'd make a good mother, Kaoru\.  
+**Kaoru:** I'm not so sure about that\. Here, it's hot, so be careful\.  
+**Ellen:** Thank you\. You cooked it nicely\.  
+**Kaoru:** It's not fun, but cooking's nothing much-\.  
+**Ellen:** You really brought the flavor out, Kaoru\.  
+**Kaoru:** Anybody could do it if they tried\.  
+**Kaoru:** \.\.\.Or maybe not\. The stuff Nao cooked was really good\.  
+**Ellen:** [chew chew\]\.\.\. But, I like it this way\.  
+**Kaoru:** Well, that's good to hear then\.  
+**Kaoru:** Ahh\.\.\. Now that I've had my fill, I'm getting sleepy too\.  
+**Ellen:** Want to take a nap with me\? They say \"a sleeping child is a growing child\"\.  
+**Kaoru:** Don't you think you've already grown enough\?  
+**Ellen:** Actually, I'm still in the middle of my growing phase\.  
+**Nene:** Ne-\!\?  
+**Kaoru:** You're gonna get even bigger\!\?  
+**Kaoru:** So this's what they call a dangerously stratified society\.\.\.  
+**Kaoru:** But, back to what you were saying\. An afternoon nap doesn't sound too bad\. I wish I had the spare time to take one every day\.  
+**Ellen:** Agreed\. Kaoru, don't go pushing yourself too hard, alright-\?  
+**Kaoru:** You know that's not up to me-\. I'd do everything I can to get out of it\.  
+**Kaoru:** Anyway, don't worry about me\. But thanks\.  
+**Ellen:** Fufu, you don't have to thank me for it\. Just, no need to be shy with me\. Got it\?  
+**Kaoru:** Sure\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/j47iC8Z6kho"></iframe>](:Iframe)  
 
 ## [Casual '20 - Ellen: Start\]: The Pair's New Year's Eve
@@ -332,4 +412,80 @@ Kohagura Ellen Episodes
 **Ellen:** Ah, looks like the sun is out\.  
 **Kaoru:** You're right\. The morning sun's shining real bright\.  
 **Ellen:** It's looking to be another good year\. Happy New Year, Kaoru\. Let's stay strong and give it our best this year too\.  
+
+## [Ceremonial Dress Misogi - Ellen: Start\]: Let's Go On a Trip to Change the World\!
+**Ellen:** Hmm, hm hm hm hmm\~\. Hm hmm hm hm hmm\~\! \.\.\.It's done\!  
+**Ellen:** My Nene drawing is finished\! That's another one that turned out very cute\!  
+**Ellen:** I'll show it to the people of the world right away\. \.\.\.Okay, it's uploaded\! Now to spread it on social media\.\.\. Wow\!  
+**Ellen:** It's already getting comments\!  
+**Comment 1:** \.\.\.A tanuki\?  
+**Comment 2:** Maybe it's an extension cord\. That tail thing looks like it plugs in\.  
+**Comment 3:** It's so crappy I can't tell what it's supposed to be\.  
+**Ellen:** \.\.\.Oh, it's no good again\. Does it really look that bad\?  
+**Ellen:** \.\.\.No, I can't go letting it get me down\! My art's going to show them aradama don't have to be scary\!  
+**Ellen:** So I can make more friendships like Kaoru and Nene\.\.\. I'll try my hand at making a manga next\!  
+**Ellen:** It's Hokkaido-\!  
+**Kaoru:** \.\.\.I've never traveled that cozy before in my life\. First class is insane\. I can't go back to the overnight bus after that\.\.\.  
+**Nene:** Nee\.  
+**Ellen:** I asked a friend and they set it up for us\!  
+**Nene:** Nenene\!\?  
+**Kaoru:** \.\.\.I never can tell what's up with your connections\. So, what're we in Hokkaido for anyway\?  
+**Ellen:** To make the world a better place-\!  
+**Kaoru:** \.\.\.\.\.\.\.\.\.Huh\?  
+**Kaoru:** We're on vacation and there's still aradama-\!\?  
+**Ellen:** Kaoru-\! One's going your way\!  
+**Kaoru:** \"One's going your way\~\" Come on\! I only came with cause you said we were going on a trip to Hokkai\.\.\. do\!\!  
+**Ellen:** And we are here in Hokkai\.\.\. do\!  
+**Ellen:** Phew, that was the last of them now\. Nene\? Could you strike a pose there\.\.\. like, \"I beat the aradama\!\"  
+**Nene:** Ne-\!  
+**Ellen:** That's perfect-\! You're looking cool, Nene\!  
+**Kaoru:** \.\.\.Is that a sketchbook\? What're you doing now\?  
+**Ellen:** Please give me some quiet here, Kaoru\! Nene, be sure not to move, okay\?  
+**Kaoru:** \.\.\.Well, I'm fine with whatever so long as I get a break\. Though\.\.\.  
+**Ellen:** \.\.\.\.\.\.  
+**Kaoru:** She still sucks at drawing, huh\. I can't even tell what that's supposed to be\.  
+
+## [Ceremonial Dress Misogi - Ellen: End\]: I've Done It\!
+**Ellen:** It's Okinawa-\!  
+**Kaoru:** Nobody told me we were making a 2 days 1 night trip across Japan\.\.\.  
+**Nene:** Ne-\.\.\.  
+**Ellen:** Didn't I tell you we were on a trip to make the world a better place\?  
+**Kaoru:** Just going to Hokkaido is enough of a trip\! And, what's the deal with drawing Nene doing weird poses everywhere\?  
+**Nene:** Nenenene\!  
+**Ellen:** Fu fu fu\. That I can't even tell you about yet, Kaoru\. You can look forward to it when we get back\.  
+**Kaoru:** Is that how it is\. So, where're we going this time\? You looked up stuff for Okinawa too, didn't you\?  
+**Ellen:** Unfortunately, there wasn't any news on aradama in Okinawa\. So, let's go to a Ryukyu karate dojo\!  
+**Kaoru:** \.\.\.What happened to making the world a better place\?  
+**Kaoru:** Aghh\.\.\. Ahh\.\.\. This sucks; you didn't say anything about training on the beach\.\.\.  
+**Nene:** Nee\.\.\. Neee\.\.\.  
+**Ellen:** You're never going to get your black belt if that's enough to make you call it quits\! You both need more training, Kaoru, Nene\!  
+**Kaoru:** I'm pretty sure I've never said I wanted a black belt\.  
+**Kaoru:** \.\.\.But you seem pretty good at this, Ellen\. Were you doing Ryukyu karate on top of Taisha-ryu or something\?  
+**Ellen:** Yes\! It's just something I picked up in the past\.  
+**Kaoru:** Where'd you pick that up\?  
+**Ellen:** Huh, didn't I tell you\? A little bit before we met, I was here in Okinawa\.  
+**Kaoru:** Ahh\.\.\. That sounds familiar, come to think of it\. You were helping with that what's-it-called development place, right\?  
+**Ellen:** The Special Rare Metals Applications Research Institute\. I was a test operator for storm armor there\.  
+**Kaoru:** So then, you must've been living around here, huh\.\.\.  
+**Ellen:** Yes\! I know tons of great places to eat too\!  
+**Kaoru:** Now that sounds good\. Take me somewhere you recommend\.   
+**Ellen:** Sure thing\! There's so many places I want to take you to, I can't settle for just one\!  
+**Ellen:** Hmm, hm hm hm hm hmm\~\. Hm hm hm hmhm, hmm\~\! \.\.\.It's done\!  
+**Ellen:** It sure comes out differently after you've seen it firsthand\! Okay then\.\.\. Now to upload\!  
+**Comment 1:** This week it's the tanuki's big adventure\?  
+**Ellen:** \.\.\.So making a manga didn't work either\? I thought I drew it pretty well too\.\.\.  
+**\?\?\?:** I don't know if it's a tanuki or what, but I really like how that little guy worked so hard to beat the aradama\.  
+**Ellen:** Ah\.\.\.\.\.\.\!  
+**Ellen:** I-I've done it----------\!  
+**Ellen:** I-I've done it----------\!  
+**Kaoru:** Seriously, if she's drawing a manga, she could've just said so\. Right\?  
+**Nene:** Nene\!  
+**Ellen:** Kaoru-\! Come over here for a minute-\!  
+**Kaoru:** What do you want; it's late\. I was going to bed, y'know\?  
+**Ellen:** This is a huge deal\!  
+**Kaoru:** Can you believe her\.\.\.\?  
+**Kaoru:** Nn\?  
+**Comment:** The art's not great, but I like it a lot too\.  
+**Kaoru:** \.\.\.Dang\. Guess I didn't have to go and do that after all\.  
+**Nene:** Ne-\!  
 > :ToCPrevNext

@@ -8,6 +8,7 @@ Yamashiro Yui Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/pR7T3znqc5E"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Wuef7y1z6Q4"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/mM0jQ11E1pE"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/szCgvSydsCY"></iframe>](:Iframe)  
 
 ## 1: Let's Take This into the Bath\!
 **Yui:** --Ah-\! Hiyori-san\! Morning\! You're looking as lovely as ever today\!  
@@ -653,4 +654,68 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Yui:** We might've lost, but it was still fun-\! And I got pictures of everybody's pirate cosplay\!  
 **Ellen:** You always put everything into having a good time, Yuiyui\. I think that's so nice\.  
 **Yui:** Ehehe, how about we come have fun again someday\! I want to keep getting more and more treasures for myself\!  
+
+## [Taisho Romance Military Uniform - Yui: Start\]: Click\!
+**Yui:** \.\.\.\.\.\.\.\.\.\.\.\.  
+**Yui:** I wish the whole investigation team would cosplay for me\.\.\.  
+**Kiyoka:** \.\.\.What are you saying now\?  
+**Yui:** Kiyoka-chan\!  
+**Yui:** I'm going on a journey\! And, I'm going to find cosplay that everybody'll look good in\!  
+**Kiyoka:** \.\.\.You don't have to come back, Yui-chan\.  
+**Yui:** And so, I set out on my journey to search for cosplay\!  
+**Yui:** Just wait, Kiyoka-chan\! I'll make sure to find the very best cosplay for you\!  
+**Yui:** Hmh\!\? My hot girl-dar is picking something up\! That's\.\.\.  
+**Aoto Hina:** \.\.\.  
+**Yui:** Heyyy\! Hina-saaan\! Where are you going-\!  
+**Hina:** Ah, Yui-chan\! Rare to see you around here\.  
+**Hina:** Need something from our place\? Pa should be in right about now\.\.\.  
+**Yui:** Ah; it's not like that\! I'm actually on a journey to find cosplay the investigation team'll look great in\!  
+**Hina:** \.\.\.Ah, i-is that why\. I'm making a delivery to an important customer, so I don't think I'll be much help with that\.\.\.  
+**Yui:** That's\.\.\. a cool looking sword you have there\. Ah, but, there's no edge to it\.\.\. Is it a fake\?  
+**Hina:** Yep; it's a prop for a movie they're shooting\.  
+**Yui:** A MOVIE\!\?  
+**Yui:** It all sorta just clicked for me\! Is it okay if I go along with you for that\!\?  
+**Hina:** Probably, but\.\.\. I'm going to check with them just to be sure, so give me a sec\.  
+**Yui:** Okay\!  
+**Yui:** This is it--------\!\! Please give me these costumes\!\!  
+**Director:** \.\.\.\.\.\.I said she could come because she's a friend of yours, Hina-chan, but\.\.\.  
+**Hina:** \.\.\.I'm sorry\. She's not a bad girl\.\.\. Just a weird one\.  
+**Director:** You're telling me\.\.\. Err, what do you want these costumes for\?  
+**Yui:** There's people I want to put them on\! Like, Mirja-san and Chie-san'd look absolutely perfect in it\!  
+**Director:** I see\.\.\. In that case, what about this\. If they help out with the filming, I'll let them wear those clothes\.  
+**Director:** How does that sound\?  
+**Yui:** We'll help-\!\!  
+
+## [Taisho Romance Military Uniform - Yui: End\]: There's No Moe\!
+**Yui:** Please, Mirja-san\! Chie-san\! Help film this movie with me\!  
+**Chie:** Mmm\.\.\. Sorry, Yui-chan\. I have coursework I have to take care of\.  
+**Mirja:** Now would be difficult for me as well\. Please ask someone else to help\.  
+**Yui:** That's a shame\.\.\. Even if I wanted to find other people\.\.\.  
+**Kiyoka:** Ugh\.\.\. D-Don't tell me\.\.\.  
+**Yui:** Sorry, Kiyoka-chan\.\.\. I want a grown up onee-san girl in those clothes\! It wouldn't work for you\!  
+**Kiyoka:** I-I'm saved\.\.\. but, I'm not satisfied with why\!\!  
+**Yui:** Hmm\.\.\.  
+**Yui:** Onee-sans that could hold a candle to Mirja-san and Chie-san\.\.\. Can I find anybody like that\.\.\.  
+**Yui:** THERE THEY ARE\!\!  
+**Ellen:** Tadaaah\! Well; how do I look\?  
+**Akira:** I put it on, 'cause you were saying I had to\.\.\. Does this actually look any good on me\?  
+**Yui:** You two look fantastic\! This is it, right here\! This is what I wanted to see\!  
+**Yui:** Ahh, it's too much, seriously too much\.\.\. I'm about to get a nosebleed\.\.\.  
+**Hina:** UWAH-\!\? Not about to; there's blood pouring out\!\? Here, c'mon and lie down here, before it gets on your costume\!  
+**Yui:** Th-Thank you very mush\.\.\.  
+**Yui:** Ah, Hina-san's thighs\.\.\. I could die happy laying on these\.\.\.  
+**Hina:** Quit being silly; let's get your nosebleed to stop\. Filming's going to start soon\.  
+**Yui:** Shure\.\.\. I found heaven here\.\.\.  
+**Ellen:** Now I've made my film debut\!  
+**Akira:** Debut\? We just got total side roles\. Is it really worth celebrating that much\?  
+**Ellen:** You should celebrate too, Inagon\!  
+**Yui:** She's right\! You two looked amazing cosplaying\!  
+**Akira:** Hah\? What do you mean\? You're the one who looked way better than us\.  
+**Yui:** \.\.\.Huh\?  
+**Ellen:** I agree with Inagon\. I think the director wanted to make you an extra after seeing you, Yuiyui\.  
+**Yui:** Sigh\.\.\. That director sure has some strange sensibilities\.  
+**Yui:** I mean, I did think I looked alright in it, but I'm not feeling any moe from my own cosplay\!  
+**Yui:** I really just want somebody to cosplay for me\!  
+**Akira:** I was giving you a compliment\.\.\. Guess it's no use with you\.  
+**Ellen:** Though, that's just what I'd expect from Yuiyui\.  
 > :ToCPrevNext

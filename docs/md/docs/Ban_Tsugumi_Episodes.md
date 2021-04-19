@@ -3,6 +3,7 @@ Ban Tsugumi Episodes
 ====================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/K--ldddq7Fw"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/evNvCiMwU_E"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/7b71XYO8qmc"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/hYaqFwGk9SI"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/imReN1M24ss"></iframe>](:Iframe)  
 
@@ -367,6 +368,73 @@ December 25th\.
 **Tsugumi:** By pure chance, we now have a fantastic backdrop for our performance\. I'm sure we'll be able to carol well again today\.  
 **Mihono:** That's for sure\. It'd be a waste to be feeling nervous singing in someplace this romantic looking\! Let's have as much fun as we can with it\!  
 **Tsugumi:** Sure\. Now then, let's go out\. Our choir is taking the stage\.  
+
+## [Bride - Tsugumi: Start\]: Undercover Investigation (Tsugumi's Case\)
+**Tsugumi:** Shichinosato-san, we have a mission\.  
+**Kofuki:** Where's the aradama-chan at\!\? I'll take care of all of 'em\!\!  
+**Tsugumi:** Yes, I can tell you're excited\.  
+**Tsugumi:** By the way, this mission will require you to wear a wedding dress\.  
+**Kofuki:** Alright\! Leave it to\.\.\. Huh\? A wedding dress\!\?  
+**Tsugumi:** This is one of those so-called undercover investigations\. Shichinosato-san will act as a bride to lure out aradama\.  
+**Tsugumi:** You get to have all the aradama to yourself, so this is truly the perfect assignment for you\.  
+**Kofuki:** \.\.\.Not doing it\.  
+**Tsugumi:** Hm\? What was that\?  
+**Kofuki:** Hell no I'm not doing it\! Like I'd wear something all loose and frilly like that\! You do it\!  
+**Tsugumi:** People have different things they're suited for, so the person who's most suited should wear it\.  
+**Kofuki:** Huhh\? I'm telling you, it'd look bad on me\!  
+**Tsugumi:** No no, not at all-\. It would look far better on you than me\.  
+**Tsugumi:** Because you are cute, Shichinosato-san\.  
+**Kofuki:** \.\.\.  
+**Tsugumi:** \.\.\.As I thought, my flattery sounded forced\. Well, it's not as if I don't think you're cute, you know\?  
+**Kofuki:** Still, you seriously think a wedding dress is the kind of thing I should wear\?  
+**Tsugumi:** Yes\.\.\. Or, don't you think you might be unexpectedly suited for it\?  
+**Kofuki:** Quit just saying that\!  
+**Tsugumi:** We'll never come to an agreement like this\.\.\. There's no helping it\. Should we decide this with a competition\?  
+**Kofuki:** Fine by me\? It'll be whoever takes out the most aradama-chan\. Loser gets the wedding dress\.  
+**Tsugumi:** Out of the question\. I would have an overwhelming disadvantage in that\. Let's decide this fairly\.  
+**Kofuki:** Like how\?  
+**Tsugumi:** In speed-eating\. I have lots of pre-made food here\.  
+**Kofuki:** What part of that's fair\!\? You trying to kill me\!\?  
+**Tsugumi:** I'm well aware that no one besides myself has a taste for my cooking\.\.\. Even if I refuse to accept it\.  
+**Tsugumi:** Though, that alone shows how serious I am here\.  
+**Kofuki:** You're real freaky, y'know\.\.\. If you want to do this fair and square, why don't we just do rock paper scissors\?  
+**Tsugumi:** That sounds reasonable\. No hard feelings then\?  
+**Kofuki:** I know\. How many rounds are we doing\?  
+**Tsugumi:** Let's do just one\. Now, ready\.\.\.  
+**Tsugumi/Kofuki:** Rock paper scissors shoot\!  
+
+## [Bride - Tsugumi: End\]: I Hope You Remember This\.\.\.
+**Chapel Staff:** The\.\.\. undercover investigation\?  
+**Kofuki:** Yeah, so get a wedding dress for her, and make sure it's the cutest one you've got\!  
+**Chapel Staff:** You'd like a cute wedding dress\.\.\.\?  
+**Tsugumi:** No, please get me an ordinary one\.  
+**Kofuki:** No way; this is a big opportunity, right\? It'd be way better to wear something she normally wouldn't\.  
+**Tsugumi:** Shichinosato-san\!\?  
+**Kofuki:** You know, like, all frilly and stuff, and one that shows a lot of leg too\!  
+**Tsugumi:** Th-They wouldn't have a wedding dress like that\.\.\.  
+**Chapel Staff:** Frills\.\.\. Legs\.\.\. Ah, right, we do have one like that\.  
+**Tsugumi:** They do\!\?  
+**Kofuki:** Cool, then get it for us\!  
+**Tsugumi:** \.\.\.\.\.\.  
+**Kofuki:** Ahahahahahahaha\!\!  
+**Tsugumi:** \.\.\.\.\.\.  
+**Kofuki:** That's just perfect on you\! I mean, don't you think you look way too good in it\!\!  
+**Tsugumi:** \.\.\.Hearing you laugh while you say that doesn't make me any happier\.  
+**Kofuki:** Ahaha, my bad\. But hey, you really do look good\.  
+**Tsugumi:** \.\.\.Please don't try to sound serious either\.  
+**Kofuki:** Huh\? If it's no good if I'm laughing and no good if I'm not, then what do you want\?  
+**Tsugumi:** \.\.\.Whichever way you compliment me, it's embarrassing\. I don't normally wear things like this\.\.\.  
+**Kofuki:** That's what makes it funny, y'know\.  
+**Tsugumi:** And that's why, telling me you find it funny is\.\.\. No, I suppose that's just how you are\.  
+**Tsugumi:** Come on, let's begin the undercover investigation\.  
+**Kofuki:** \.\.\.That skirt's even shorter than I thought\. If you fought in that\.\.\. They'd show, right\?  
+**Tsugumi:** -\!\?  
+**Tsugumi:** Shichinosato-san\.\.\.  
+**Kofuki:** I'm just joking; you don't have to get all mad-\.  
+**Tsugumi:** Even I have things that embarrass me\.  
+**Kofuki:** Hey, if you're not gonna be fighting, I'll take 'em all on\.  
+**Tsugumi:** That doesn't resolve anything, does it-\.  
+**Tsugumi:** Remember this, will you\? Since you'll be the one wearing these kind of clothes next, Shichinosato-san\.\.\.  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/hYaqFwGk9SI"></iframe>](:Iframe)  
 
 ## [Misogi - Tsugumi: Start\]: Chasing the Mysteries of Aradama

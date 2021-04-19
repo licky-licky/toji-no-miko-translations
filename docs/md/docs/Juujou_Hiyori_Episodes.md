@@ -7,6 +7,7 @@ Juujou Hiyori Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/Vm_3KVXqxvE"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/FUwv5IZDyA4"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/61uP0-QaIpA"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/DRnmSP4487Q"></iframe>](:Iframe)  
 
 ## 1: Melting Smile
 **Kanami:** Oh, there's an ice cream shop over there\. I could really go for some ice cream\.\.\.  
@@ -582,4 +583,79 @@ Juujou Hiyori Episodes
 **Kofuki:** Oh\! Mihocchi and Kiyoka are headed over\. Go shove this pendant in their faces, Hunchback\.  
 **Suu:** Hunchback\!\? Could you please not call me weird names\.\.\. It's rude\!  
 **Hiyori:** Good grief\.\.\.  
+
+## [Furisode 21 - Hiyori: Start\]: Picking Out Furisode
+**Hiyori:** You know\.\.\. It's crazy how many furisode there are\.  
+**Ellen:** Keep the praise coming, Hiyoyon\! I worked hard to get all these together\!  
+**Hiyori:** I wasn't really meaning to praise you; it's just impressive seeing this many laid out\.  
+**Ellen:** Ehh, you weren't giving me compliments-\?  
+**Kaoru:** Do we really owe you compliments for this-\?  
+**Kaoru:** You're the one who was acting all spoiled saying we all had to wear furisode\.  
+**Ellen:** You're such a meanie, Kaoru\. It's the cute kind of spoiled, isn't it\?  
+**Kaoru:** The number of furisode you got goes way past cute into freaky\.  
+**Kanami:** Come on, Kaoru-chan\.  
+**Kanami:** This really is amazing, Ellen-chan\! There's so many cute ones; I'll have a hard time picking just one\!  
+**Kanami:** Did you already decide on one, Hiyori-chan, Kaoru-chan\?  
+**Kaoru:** Yeah; there's not that many that fit me after all\.  
+**Hiyori:** For me\.\.\. Alright, I'll go with this one\. I like these more subdued colors\.  
+**Ellen:** Nice going Hiyoyon, picking that one out\!  
+**Kaoru:** Yeah, I think you've got pretty good taste too\.  
+**Hiyori:** Y-You think so\?  
+**Ellen:** Yes\! Out of all the furisode here, that one's the most expensive\!  
+**Hiyori:** Huh\?  
+**Hiyori:** \.\.\.B-By the way, just how much did it cost\.\.\.\?  
+**Ellen:** [whisper whisper whisper\]\.\.\.  
+**Hiyori:** Seriously\!\?  
+**Kanami:** Uwah\!\? Eh\? How much was it\!\?  
+**Hiyori:** \.\.\.You're better off not knowing, Kanami\. I'm picking something else, Ellen\.  
+**Kaoru:** Was it really that much\.\.\.\?  
+**Kaoru:** I'm getting scared to actually pick one of these\.\.\.  
+**Kanami:** Now I have to know\! Tell it to me, Ellen-chan\!  
+**Hiyori:** Don't, Kanami\! You're going to regret hearing it\!  
+**Ellen:** [whisper whisper whisper\]\.\.\.  
+**Kanami:** \.\.\.\.\.\.I shouldn't have asked\.  
+**Hiyori:** That's what I told you\.\.\.  
+**Hiyori:** But still, we have to choose one of these to wear\.\.\. Let's pick one and be prepared for the worst, Kanami\!  
+**Kanami:** Yeah, Hiyori-chan\!  
+**Ellen:** Hahaha\! This is fun, Kaoru\!  
+**Kaoru:** Only for you, maybe\.  
+
+## [Furisode 21 - Hiyori: End\]: Is Winter a Special Case\?
+**Hiyori:** \.\.\.It's completely packed here\.  
+**Kaoru:** Geh, are we seriously getting in that line\? Who knows how many hours it'll be before we make it to the shrine\.  
+**Ellen:** We'd be spending a whole lot of time doing nothing, wouldn't we\.  
+**Kanami:** Then\.\.\. How about we do our own thing until the line gets shorter\?  
+**Kaoru:** Sure, that should be fine\.  
+**Ellen:** If that's what we're doing, lets go draw our fortunes, Kaoru\!  
+**Kaoru:** Hang on; don't drag me\!  
+**Ellen:** Let's go\!  
+**Hiyori:** That's them gone\.  
+**Kanami:** Yeah\. We should\.\.\.  
+**Kanami:** Sorry, that's Mai-chan calling\.  
+**Hiyori:** (So, now that we have some free time, what should we do\? Ellen and Kaoru went off to get their fortunes\.\.\.\)  
+**Kanami:** Okay\. Then, I'll see you later\.  
+**Kanami:** I told Mai-chan we'll meet up with her later\.  
+**Hiyori:** Oh\. Then, what are we doing now\?  
+**Kanami:** I dunno\.\.\.  
+**Kanami:** Ah\.  [Kanami's stomach rumbles\]  
+**Hiyori:** Guess we're going with that\.  
+**Hiyori:** Takoyaki, yakisoba, and\.\.\. There's lots of different stalls set up\. What do you want, Kanami\?  
+**Kanami:** Mmm, I'm not sure\.\.\. I think I want to have takoyaki\. Steamy hot takoyaki\! I'll be right back\!  
+**Hiyori:** That's her gone too\.  
+**Hiyori:** Fine; what should I have\? I'm not really in the mood for takoyaki or yakisoba\.\.\.  
+**Hiyori:** Nn\? They have an ice cream stand\? It's the middle of winter; there's some strange people out there\.\.\.  
+**Hiyori:** That's--\!\!  
+**Kanami:** I'm back-\.\.\. Wait, Hiyori-chan, why'd you get ice cream\? And it's chocolate mint too\.\.\.  
+**Hiyori:** Th-They were selling it, so what's wrong with that\!\?  
+**Kanami:** Well, there's nothing wrong with it\.\.\. Anyway, let's eat\!  
+**Kanami:** Mmm, it's hot and tasty\!  
+**Hiyori:** This chocolate mint is cool and tasty too\.  
+**Kanami:** It's crunchy on the outside\! And gooey on the inside\! The octopus is so tender, Hiyori-chan\!  
+**Hiyori:** You can really taste the chocolate mint in this\.  
+**Kanami:** \.\.\.Want one of mine\?  
+**Hiyori:** I-I'm not being stubborn here\! It really is delicious\!  
+**Hiyori:** It's just\.\.\.  
+**Kanami:** Just\?  
+**Hiyori:** I'm feeling colder, so I'll take one\.  
+**Kanami:** Sure\!  
 > :ToCPrevNext
