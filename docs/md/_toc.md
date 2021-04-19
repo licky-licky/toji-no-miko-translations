@@ -69,13 +69,10 @@
 > :Collapse label=Episodes
 > 
 > [Asakura Mihono Episodes](/docs/Asakura_Mihono_Episodes)
-> [Christmas Mihono](/docs/Christmas_Mihono)
-> [Joint Raid Event No.13: Another Mihono](/docs/Joint_Raid_Event_No.13:_Another_Mihono)
 > [Setouchi Chie Episodes](/docs/Setouchi_Chie_Episodes)
 > [Shichinosato Kofuki Episodes](/docs/Shichinosato_Kofuki_Episodes)
 > [Musumi Kiyoka Episodes](/docs/Musumi_Kiyoka_Episodes)
 > [Kitora Mirja Episodes](/docs/Kitora_Mirja_Episodes)
-> [Misogi Mirja](/docs/Misogi_Mirja)
 > [Yamashiro Yui Episodes](/docs/Yamashiro_Yui_Episodes)
 > [Etou Kanami Episodes](/docs/Etou_Kanami_Episodes)
 > [Juujou Hiyori Episodes](/docs/Juujou_Hiyori_Episodes)
@@ -95,7 +92,6 @@
 > [Inago Akira Episodes](/docs/Inago_Akira_Episodes)
 > [Inami Suu Episodes](/docs/Inami_Suu_Episodes)
 > [Nitta Hirona Episodes](/docs/Nitta_Hirona_Episodes)
-> [Joint Raid Event No.10](/docs/Joint_Raid_Event_No.10)
 
 > :Collapse label=Events
 > 
