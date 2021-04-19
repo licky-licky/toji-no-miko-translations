@@ -3,12 +3,8 @@ This site just makes it easier to browse and read the translatations of the game
 If you don't see the sidebar you can turn it on with the hamburger menu on the bottom left.
 You can search by clicking on the search bar on the sidebar or by pressing `CTRL+F`.
 
-_The Episodes section of the sidebar has some redundant links. Those will be removed soon<sup>TM</sup> when I find a way to automatically filter them._
 
 
-Made with **CODEDOC**.
-
-> :Buttons
-> > :Button label=Official Docs, url=https://codedoc.cc
+Made with **[CODEDOC](https://codedoc.cc)**.
 
 > :ToCPrevNext
