@@ -1,9 +1,7 @@
 
 Star Ocean -Encounter With the Toji-
 ====================================
-https://streamable.com/cnvnsm
-
-  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/CM43EZN-KQw"></iframe>](:Iframe)  
 
 ## -2: Encounter With the Aradama
 **Reimi Saionji:** YAH\.\.\.\!  
@@ -23,7 +21,6 @@ https://streamable.com/cnvnsm
 **Rena:** We need some kind of strategy, don't we\.  
 **Millie:** A strategy\? The fastest way would be getting some toji to help us\.  
 **Reimi:** That's true\. To carry out what we're after, we're definitely going to need a toji's help at some point\.  
-https://streamable.com/ozt89k
 
   
 
