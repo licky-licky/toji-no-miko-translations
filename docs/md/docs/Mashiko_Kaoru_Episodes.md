@@ -515,4 +515,70 @@ The Nenegurumi Shop, now open\.
 **Ellen:** You're welcome\! And, more importantly, before Kaoru wakes up, let's sell and sell till we're sold out\!  
 **Minaki:** Sure\!  
 **Kaoru:** \.\.\.\.\.\.\.\.\.[snooze\]\.  
+
+## [Police Officer - Kaoru: Start\]: Police and a Mountain Hunt\!\?
+**Police PR Official:** Mashiko-san, something came up we want your help with, so could you head out to the mountains out back as soon as you can\?  
+**Kaoru:** The mountains out back\? We're doing police work in the mountains now\?  
+**Police PR Official:** You'll hear the details from the officers at the scene, so if you could hurry\.  
+**Kaoru:** Anyway, I'm here to help\. Toji Mashiko and Nene here\.  
+**Nene:** Nene-\!  
+**Police Officer:** Good, you made it\. I'll get right to explaining the details of this mountain hunt here\.  
+**Kaoru:** M-Mountain hunt\!\? Did aradama show up out there or something\.\.\.\?  
+**Police Officer:** No, it's nothing like that\. We got a call saying someone who went hiking out here went missing\.  
+**Police Officer:** All available investigators were asked to help with the search\.  
+**Kaoru:** I see\.\.\. That makes sense then\.  
+**Kaoru:** Though, they told us toji we were here today to help with an \"aradama safety awareness campaign\"\.\.\.  
+**Police Officer:** We didn't think we'd be bringing a toji into this either\.\.\.  
+**Police Officer:** But, when we checked with your superiors, Mashiko-san, they said mountain hunts are your specialty, and offered by all means to let you come along\.  
+**Kaoru:** My superiors\.\.\. It's that old hag again\.\.\. Even when she's sending me to work for somebody else, she's still got to give me extra work\.\.\.  
+**Police Officer:** For now, we want you to walk around the mountain and search with a police dog\. Make sure you've got a good grip on the leash and follow along\.  
+**Police Dog:** Woof woof\!  
+**Kaoru:** Ohh, the doggie's looking ready to go\. Don't make me work too hard then\.  
+**Police Dog:** Woof woof\!  
+**Kaoru:** Wait, wait up\.\.\.\! [pant\.\.\. pant\.\.\.\] Do they not teach police dogs about taking breaks or what\?  
+**Nene:** Neneee\.\.\.  
+**Police Dog:** Woof woof\! Woof woof\!  
+**Kaoru:** Nn\? What'd you suddenly stop and start barking for\? Did you smell something in the brush here\.\.\.\? Anybody in there-\? If you're there, say something-\!  
+**Police Officer:** Hm\? Just another tanuki, huh\.\.\.  
+**Kaoru:** Oi, doggie, if you're gonna be running us all over the place, you're sure you're actually sniffing out the trail, right\?  
+**Police Dog:** Whine\.\.\. Whine\.\.\.  
+**Kaoru:** The heck; you're not exactly sounding confident now\.  
+**Police Officer:** Hmm, now this is an issue\. Since we're not finding anything, I think the police dog's started losing motivation\.  
+**Kaoru:** I understand exactly how the doggie feels\. My motivation's dropping real close to zero too\.  
+**Kaoru:** But, if you don't find this hiker, we're never getting off this mountain\. Think you could give it one more shot\.\.\.\?  
+**Kaoru:** Guess talking wouldn't do any good\. Sigh, what can we do\.\.\.  
+**Nene:** Nene-\! Nenee\!  
+**Kaoru:** Hm\? What's up, Nene\? Did you come up with some kinda idea\!\?  
+
+## [Police Officer - Kaoru: End\]: Racing Around With a Police Dog\!
+**Nene:** Nenee, nenene\! Nee, nene\!  
+**Police Dog:** Whine\.\.\. Whine\.\.\.  
+**Nene:** Nenee, nenene\! Nee, nene\!  
+**Kaoru:** Nene, you managing to cheer up the doggie\?  
+**Nene:** Nenee, nenene\! Ne, nenee\!  
+**Police Dog:** Woof\!  
+**Kaoru:** Ohh\! The light's back in its eyes\!  
+**Police Officer:** Now they should be up to it again\. Thank you, Nene-chan\.  
+**Nene:** Nenee\!  
+**Kaoru:** Alright, before the doggie gives up again, guess we'll have to put in a little more effort\.  
+**Police Dog:** Woof\!  
+**Police Officer:** Let's get the search back underway\. Ready\! Go\!  
+**Police Dog:** Woof woof woof\!  
+**Kaoru:** Whoa; they suddenly got a burst of energy\. If I let go of the leash, they'd be gone in no time\. You keeping up alright, Nene\?  
+**Nene:** Nenee\!  
+**Kaoru:** Hey--\! Since when did you get a free ride on the doggie's head\?  
+**Kaoru:** Lucky you; if I were that small too, then\.\.\. pant, pant\.\.\.  
+**Kaoru:** Crap, I don't have the stamina to go running from reality too\. Pant, pant\.\.\. What do you think now, doggie\?  
+**Police Dog:** Woof\! Woof woof\! Woof woof\!  
+**Police Officer:** What is it\? Is there something on the other side of that thicket\?  
+**Police Dog:** Woof\!  
+**Police Officer:** Anybody, is anybody there-\?  
+**Missing Person:** Please help meee\.\.\.  
+**Kaoru:** They're here\!  
+**Nene:** Neneneee---\!  
+**Police Officer:** We managed to safely find them because of your help\. Thanks for being here\.  
+**Kaoru:** If you're thanking anybody, thank Nene and the doggie\. All I did was get dragged along\.  
+**Police Officer:** Well, we only had Nene-chan here thanks to you, Mashiko-san\. We really are grateful\.  
+**Police Officer:** I'll make sure to send back a good report to your superior who recommended you to us as well\.  
+**Kaoru:** Gegh, do me a favor and don't\. I don't want her doubling down on giving me a reputation for dealing in mountain hunts\.\.\.  
 > :ToCPrevNext

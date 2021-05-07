@@ -410,4 +410,72 @@ Another day\.\.\.
 **Kofuki:** 'Course it wouldn't\! Anyway, I'm gonna go check it out\!  
 **Tsugumi:** I'll be waiting for you to bring me back data as a souvenir\.  
 **Kofuki:** Sure, count on it\!  
+
+## [Police Officer - Kofuki: Start\]: A Risky Pick for an Officer for a Day
+**Kofuki:** Sighhh, even if it's all just police work in the end, I'm bored out of my mind not getting any aradama-chan to beat around\.  
+**Kofuki:** I mean, we're only here for this \"aradama safety awareness campaign\", so why do we gotta work on all this stuff besides that\?  
+**Hirona:** \.\.\.There's nothing we can do about itt\. We're still civil servants too\.  
+**Police Officer:** Sorry to keep you waiting\. We were thinking over who you could help out with\.\.\.  
+**Police Officer:** If there's any kind of job you'd like to try, you can go ahead and volunteer yourselves\.  
+**Kofuki:** You'll let us do whatever we want\!\? Then I want to fire off a gun, like, blam blam\!  
+**Kofuki:** If I'm not gonna get to beat any aradama, then shooting the crap outta something'd still make me feel way better\!  
+**Police Officer:** Shoot the crap out of something\.\.\. You know\.\.\. We don't really do that here\.\.\.  
+**Hirona:** \.\.\.Sigh\. Shichinosato-san, there's no way they would make temporary helpers like us do something so dangerouss\.  
+**Kofuki:** Why not; that's so lame\. Then, lemme tear around town in a cop car\!  
+**Kofuki:** I've always wanted to blast the sirens and run red lights and all that\.  
+**Kofuki:** That's gotta feel real cool, right\?  
+**Police Officer:** \.\.\.That's only something we do during emergencies, when there's no other choice, not for joyriding\.\.\.  
+**Hirona:** \.\.\.I'm sorry; Shichinosato-san might need traffic laws explained to her all over from the very basicss\.  
+**Police Officer:** Maybe you're right\. Actually\.\.\. I know\! Let's have you be a crossing guard\.  
+**Kofuki:** A crossing what\?  
+**Police Officer:** It's to keep the kids going to and home from school safe; you stand at road crossings on the school route and make sure people drive safe\.  
+**Kofuki:** Huhh\!\? Why do I gotta do a lame job like that\.\.\.   
+**Hirona:** Isn't it be cause you keep saying you want to do dangerous things, like shooting a gun, or racing a carr\?  
+**Hirona:** \.\.\.You get to help the police while they're shorthanded and learn the importance of traffic safety; that's a great logical place for youu\.  
+**Police Officer:** Now that that's decided, let's get you over there quickly\. The kids have morning classes today, so they should be going home right around now\.  
+**Hirona:** Do your bestt\.  
+**Kofuki:** Wait, you're not coming either\!\? What the hell\.\.\.  
+**Kofuki:** The station sent me over, I'm Shichinosato Kofuki\.  
+**Traffic Officer:** I've been waiting for you\. Alright, you can stand here at the corner of this intersection\.  
+**Traffic Officer:** The kids should be coming home along this road any minute, so give them a good greeting and make sure they watch out for the lights, okay\?  
+**Kofuki:** Yeah sure\.\.\.  
+**Kofuki:** Ughh-, if I skip on this, Mirja and Chichie'll be pissed later, so I guess I'll just half-ass it\.  
+**Kofuki:** Ahh-, I miss my aradama-chan\.\.\.  
+
+## [Police Officer - Kofuki: End\]: A Reliable Officer for a Day\?
+**Kofuki:** Hey-, the brats finally made it\. C'mon, c'mon, get over there already-\. It's gonna be red soon-\.  
+**Kofuki:** (Sigh\.\.\. This job's so boring\. Like, there's not even any cars coming through here\. What's the point in making me stand around here\?\)  
+**Elementary Schooler 1:** Good morning, miss police lady\!  
+**Kofuki:** P-Police lady\!\?  
+**Kofuki:** (Oh yeah, I'm still wearing the police uniform, so they just think I'm an officer\.\)  
+**Elementary Schooler 2:** Police lady, are you a new police lady\? You're not very good at saying hello\.  
+**Elementary Schooler 1:** The usual police lady is always really nice when she says hi to us-\.  
+**Kofuki:** Huhh\!\? What'd you\.\.\.  
+**Kofuki:** (Wait, crap\. If they find out I lost it at a couple of kids, Mirja and Chichie are gonna flip out\.\)  
+**Kofuki:** (Alright fine, just for this, I'll play along and put on a nice police lady act\.\)  
+**Kofuki:** Sorry 'bout that-\. I'm just a new police lady, so I still haven't got the hang of this\.  
+**Kofuki:** See, the light's green\. So take care and go on over-\.  
+**Kofuki:** Not like any cars are coming anyway\.   
+**Kofuki:** Nn\? I guess a bike's coming up though\. Tch, they must be having fun, both of them riding together talking about whatever\.\.\.  
+**Kofuki:** Nn\.\.\.\? What're they doing coming into the intersection\!\? It's red right now\.  
+**Kofuki:** Shit, they're gonna crash into the kids crossing over\!  
+**Kofuki:** Oi, hold it\! STOP THE BIKE, WOULD YA---\!  
+**Kofuki:** I said stop, damnit\!  
+**Kofuki:** Sigh, now you stop\. Could you at least look where you're going\!\? And you're not allowed to double up on a bike, y'know\!\?  
+**Kofuki:** This is a school road, okay\!\? What're you gonna do if you ran over some kid\!\? How're you gonna make up for that\!\? Huhh\!\?  
+**High School Girl 1:** We're sorry\.\.\.  
+**Kofuki:** Don't let me catch you ever sharing a bike again\! And you better watch the lights next time\. Even the freaking elementary schoolers know this stuff\!  
+**High School Girl 2:** Yes ma'am, we'll be careful\.  
+**Elementary Schooler 1:** You did it, police lady\!  
+**Elementary Schooler 2:** It was really cool how you scolded them\.  
+**Kofuki:** What, you saw all that\?  
+**Elementary Schooler 1:** Those onee-sans never pay attention to the lights\. We tell them, you shouldn't do that, but they never listen to us\.  
+**Kofuki:** Seriously\.\.\.\? They're repeat offenders, huh\.  
+**Elementary Schooler 2:** Thank you for scolding them, miss police lady\.  
+**Elementary Schooler 1:** I'm glad you're here\. Thank you\.  
+**Kofuki:** I-It's not anything you've gotta thank me for\.\.\. Look, the light's still green, so look both ways and walk across already\.  
+**Elementary Schooler 1:** Okaaay, see you later, miss police lady\!  
+**Elementary Schooler 2:** Good luck with your work-\!  
+**Kofuki:** S-Sure\. Thanks\.  
+**Kofuki:** (I thought this job'd be all boring, but maybe it's not so bad\.\)  
 > :ToCPrevNext

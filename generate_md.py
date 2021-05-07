@@ -7,31 +7,30 @@ from natsort import natsorted
 translations_paste_key = 'LdyviZ8Z'
 
 character_names = [
+    'Asakura_Mihono',
+    'Setouchi_Chie',
+    'Shichinosato_Kofuki',
+    'Musumi_Kiyoka',
+    'Kitora_Mirja',
+    'Yamashiro_Yui',
     'Etou_Kanami',
     'Juujou_Hiyori',
     'Yanase_Mai',
     'Itomi_Sayaka',
     'Mashiko_Kaoru',
-    'Kohagura_Ellen',
-    'Asakura_Mihono',
-    'Setouchi_Chie',
-    'Musumi_Kiyoka',
-    'Shichinosato_Kofuki',
-    'Kitora_Mirja',
-    'Yamashiro_Yui',
+    'Kohagura_Ellen',    
     'Origami_Yukari',
     'Shidou_Maki',
     'Konohana_Suzuka',
     'Satsuki_Yomi',
     'Tsubakuro_Yume',
-    'Ban_Tsugumi',
-    'Fujiwara_Minato',
     'Hiiragi_Kagari',
+    'Fujiwara_Minato',
+    'Ban_Tsugumi',
+    'Iwakura_Sanae',
     'Inago_Akira',
     'Inami_Suu',
-    'Iwakura_Sanae',
     'Nitta_Hirona',
-    'christmas'
 ]
 
 def part_titles(x):
@@ -120,10 +119,13 @@ def generate_toc():
         elif md[0].isnumeric():
             other_parts.append(md[0])
             chapters.append(md)
-        elif 'episode' in md or 'misogi' in md or 'another' in md or 'dress' in md or any(name in md for name in character_names):
-            episodes.append(md)
+        # elif any(name in md for name in character_names):
+            # episodes.append(md)
         else:
             others.append(md)
+
+    for name in character_names:
+        episodes.append(name + '_Episodes')
 
     part1.sort()
     part1 = part1[-1:] + part1[:-1]
@@ -149,14 +151,14 @@ def generate_toc():
                 toc += f'> > [{title}](/docs/{fn})\n'
     
     toc += '\n> :Collapse label=Episodes\n> \n'
-    episodes_in_paste = get_episodes()
-    all_episodes = episodes_in_paste + list(set(episodes) - set(episodes_in_paste))
-    for i in range(len(all_episodes)):
-        if all_episodes[i] == 'Christmas_Mihono.md':
-            all_episodes.insert(i+1, 'Joint_Raid_Event_No.13:_Another_Mihono.md')
-            break
+    # episodes_in_paste = get_episodes()
+    # all_episodes = episodes_in_paste + list(set(episodes) - set(episodes_in_paste))
+    # for i in range(len(episodes)):
+    #     if episodes[i] == 'Christmas_Mihono.md':
+    #         episodes.insert(i+1, 'Joint_Raid_Event_No.13:_Another_Mihono.md')
+    #         break
 
-    for ep in all_episodes:
+    for ep in episodes:
         fn = ep.replace('.md', '')
         title = fn.replace('_', ' ').replace('~', '\~').replace('Adblocker detected! Please consider disabling it...', '')
         toc += f'> [{title}](/docs/{fn.replace("Adblocker_detected!_Please_consider_disabling_it...", "")})\n'
@@ -186,7 +188,7 @@ def generate_file(title, data):
     if '2 - The Darkness Looming over the World' in title or 'Time Limit' in title:
         title = '2-' + title.replace(' - ', ' ')
 
-    mdFile = MdUtils(file_name='./docs/md/docs/' + 
+    mdFile = MdUtils(file_name='./docs/md/docs/next/' + 
                                 title.replace('/', '_').replace(' ', '_').replace('#','No.').replace('?', '_').replace(
                                 'Adblocker detected! Please consider disabling it...', ''
                                 ).replace('Adblocker_detected!_Please_consider_disabling_it...', '')

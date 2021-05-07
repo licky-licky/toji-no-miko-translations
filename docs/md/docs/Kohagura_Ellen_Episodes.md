@@ -488,4 +488,76 @@ Kohagura Ellen Episodes
 **Comment:** The art's not great, but I like it a lot too\.  
 **Kaoru:** \.\.\.Dang\. Guess I didn't have to go and do that after all\.  
 **Nene:** Ne-\!  
+
+## [Police Officer - Ellen: Start\]: You Won't Get Away With Any Parking Violations\!
+**Ellen:** Our first job for the aradama safety awareness campaign went smoothly, but what should we be doing next\?  
+**Police PR Official:** From here, we'd like you to help with each of the other departments, so could you go see what the traffic department needs, Kohagura-san\?  
+**Ellen:** I'm on it\!  
+**Ellen:** I'm Kohagura Ellen, here to help\! I'll be in your care\!  
+**Traffic Officer:** That's a nice upbeat attitude\! Then, if I could get right to it, I'll explain what we need your help with\.  
+**Traffic Officer:** There's a lot of cars parking on the streets around here, so we're stepping up our regulation of parking violations\. Do you think you could come around as my assistant today\?  
+**Ellen:** Sure thing\!  
+**Traffic Officer:** Ah, looks like I've already spotted a parking violation there\. Let's go over\.  
+**Ellen:** Okay\! I see, so that's a parking ticket\.  
+**Traffic Officer:** If you get one of these, you'll have to pay a fine and points get deducted from your license\. There's no good that comes from it\.  
+**Driver:** Ah-\! Hang on a minute\! I was only parked here for a second, so could you overlook it\?  
+**Traffic Officer:** Sorry, but those are the rules\. There's signs that clearly state this is a no parking zone\.  
+**Driver:** I was back in no time though; I just had to do a little shopping\. Was I bothering anybody\?  
+**Traffic Officer:** This is a vital location in case an emergency vehicle needs to make a stop here\. Even if you weren't here for long, it still isn't allowed\.  
+**Driver:** Tch\.\.\. You want to fill your quota that bad\? You're just tax thieves\! Who do you think's paying your salaries\.  
+**Ellen:** \.\.\.\.\.\.  
+**Traffic Officer:** Okay, thanks for your cooperation\. Please drive safely now\.  
+**Ellen:** They just left\.\.\.  
+**Ellen:** I can't believe how rude they were\! They're the ones who broke the rules, so how can they act like that\.\.\.  
+**Traffic Officer:** It's just the way it is\. We hear that stuff all the time, so I'm fine with it, but are you alright, Kohagura-san\?  
+**Ellen:** I'm fine\. It was kind of a sucker punch, but\.\.\. I can tell just what you police officers have to go through\.  
+**Ellen:** \.\.\.\.\.\.\?  
+**Traffic Officer:** What's wrong\? Did you notice something\?  
+**Ellen:** Just now, I thought I saw somebody watching us from behind that building\.\.\.  
+**Traffic Officer:** Oh dear, do you think it's trouble\?  
+**Ellen:** I must have imagined it\. Anyway, we have a job to do\!  
+**Traffic Officer:** We managed to crack down on a lot of cars in such a short period of time\. You've been a real help, Kohagura-san, since you catch on so quick\.  
+**Ellen:** Thanks a lot\. Though, I'm surprised how whenever we give someone a ticket, they're always so insulting to us\.  
+**Traffic Officer:** From their perspective, we're more like sworn enemies coming out of nowhere to hit them with a fine\.  
+they're suddenly getting hit with a fine, 
+
+  
+**Traffic Officer:** But, even if they hate us for it, we have to keep the town safe around here\.  
+**Ellen:** It sure sounds like a tough job\.\.\. Hm\.\.\.\? I think someone's watching us after all\.\.\.  
+**Traffic Officer:** I could tell just now too\. Like someone's watching from behind the trees on the side of the road\.\.\.  
+**Ellen:** Someone stubbornly watching us from afar\. I wonder who would do that\.\.\.  
+
+## [Police Officer - Ellen: End\]: The Source of the Suspicious Gaze\.\.\.
+**Ellen:** Do you think it's maybe someone holding a grudge against us for giving them a ticket\.\.\.\?  
+**Traffic Officer:** I can't deny the possibility\. But, even if someone holds a grudge against us, we're just doing our job\.  
+**Ellen:** That's right\! I'll do what I can to help out too\. And, if it comes down to it, I'll keep you safe too\.  
+**Traffic Officer:** I feel safer already\.  
+**Traffic Officer:** \.\.\.\! They're watching us again\! From inside that car this time\.  
+**Ellen:** In a car\? Which one\?  
+**Traffic Officer:** There, the car that just stopped at the parking lot on the corner\.\.\.  
+**Ellen:** Wait, that car\.\.\.\!\?  
+**Traffic Officer:** We'd better not wait for them to try anything; let's question the driver\.  
+**Ellen:** Wow\! Please hang on a minute\! I know that car\.\.\.\!  
+**Traffic Officer:** Could I have a word with you, sir\?  
+**Traffic Officer:** Can you tell us what you were doing parking your car here\?  
+**Ellen:** Wow\! I knew it\! I'm sorry about all this, officer\!  
+**Traffic Officer:** What's wrong, Kohagura-san\? What are you apologizing for\?  
+**Ellen:** This is my\.\.\.  
+**Ellen:** Grandpa\!  
+**Traffic Officer:** Grandpa\.\.\. He's your grandfather\!\?  
+**Friedman:** I am\. Nice to meet you\. I'm Ellen's grandfather, Richard Friedman\.  
+**Ellen:** Grandpa, what are you doing here\!\?  
+**Friedman:** I was having a look at you on your police duty\.  
+**Ellen:** Were you also the one watching us from behind the building before too\?  
+**Traffic Officer:** And from behind the trees by the side of the road\.\.\.\?  
+**Friedman:** That was me\. I thought that I shouldn't go coming up to talk to you while you were working\.  
+**Traffic Officer:** Is that all it was\.\.\. That's good to hear, right, Kohagura-san\?  
+**Ellen:** It's a relief, but\.\.\.  
+**Ellen:** Don't go doing something so misleading, Grandpa\!  
+**Friedman:** Sorry, sorry\. Though, I have to say, Ellen, you look very good in that police uniform\.  
+**Friedman:** And you were on top of your work too; it was like watching a real police officer go about their business\.  
+**Ellen:** Grandpa\.\.\.  
+**Ellen:** But still, secretly peeping on someone is against the rules\!  
+**Ellen:** If you do that again, I'm giving you a ticket, Grandpa\!  
+**Friedman:** Now that would be bad\. I'll get permission beforehand next time\.  
 > :ToCPrevNext

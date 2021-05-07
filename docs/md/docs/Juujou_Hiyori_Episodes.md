@@ -658,4 +658,79 @@ Juujou Hiyori Episodes
 **Kanami:** Just\?  
 **Hiyori:** I'm feeling colder, so I'll take one\.  
 **Kanami:** Sure\!  
+
+## [Police Officer - Hiyori: Start\]: Aim to Be a Charismatic Interrogator\!
+**Detective:** Juujou-san, sorry to spring this on you, but could you act as an aid in an interrogation now\?  
+**Hiyori:** An aid in an interrogation\? Wasn't our job today to help with the \"aradama safety awareness campaign\"\?  
+**Detective:** That's what we'd planned, but the female officer in charge of this had to leave on urgent business\.  
+**Detective:** I've been looking for another female officer to take her place, but I'm having trouble finding any available\.  
+**Hiyori:** Why does it need to be a female officer\?  
+**Detective:** The higher ups have said we need to have a female aid present when interrogating female suspects\. Do you think you could help with that\?  
+**Hiyori:** Still\.\.\. I'm just a toji\. Is it really okay to put me in charge of an interrogation\?  
+**Detective:** Don't worry about it, the toji are still a part of the police\. And besides, the suspect is around your age, so maybe she'd be more willing to talk to you\.  
+**Hiyori:** If you're sure about it, then\.\.\. I'll do what I can\.  
+**Detective:** Great\. There's a summary of info on the suspect and her case in these papers, so once you're finished reading over it, come to the interrogation room next door\.  
+**Hiyori:** Will I really be able to handle this\.\.\. If I'm being honest, I'm not all that confident, but I already said yes, so I might as well do whatever I can\.  
+**Hiyori:** First off, I should read the papers on the suspect\. Hmm\.\.\.  
+**Hiyori:** The suspect is a member of a fraud group\.\.\. She calls elderly people over the phone, pretending to be their daughter or granddaughter, and tricks them into transferring large sums of money to her\.\.\.  
+**Hiyori:** How could you scam the elderly like that\!\? On top of that, during interrogations, she remained silent and denied any involvement\!\?  
+**Hiyori:** This seems like a tough person to go up against, but I'll try whatever I can to make them confess\.  
+**Hiyori:** Excuse me, I'm Juujou, taking over for the aid\.  
+**Detective:** Right, good to have you\. You can take that seat\. We'll be continuing with the interrogation now\. You say you're sure that you aren't committing any kind of fraud\?  
+**Suspect:** \.\.\.\.\.\.  
+**Hiyori:** (Hm, just like the papers said, she's adamant about staying silent\.\)  
+**Detective:** Hmm\.\.\. If you stay silent throughout all this, we're never going to be able to settle anything\.  
+**Detective:** We're at a stalemate\.\.\. Juujou-san, you're about the same age as her, could you try saying something to her\?  
+**Hiyori:** Wh-What should I talk about though\.\.\.  
+**Hiyori:** (Mmm, at times like these, what would a natural interrogator do\.\.\. A natural interrogator would\.\.\.\)  
+**Hiyori:** (Ah--\! I know; I'll give that a try\. First, I'll go over to the window\.\.\.\)  
+**Detective:** Hm\? What's the matter\? Why are you playing with the blinds\?  
+**Hiyori:** The sun sure is bright today\.\.\. What a beautiful blue sky\. Somewhere out there, back where you're from, your family must be living under that same sky\.  
+**Detective:** What's this all of a sudden\?  
+**Hiyori:** If your mother back home found out you'd been scamming people, don't you think she'd be heartbroken\?  
+**Hiyori:** If you're going to pay for your crimes, you'd better do it sooner than later\. Why don't you tell us the honest truth\?  
+**Suspect:** \.\.\.\.\.\.\.\.\.  
+**Hiyori:** (Kgh\.\.\. Why\? Why isn't she giving any kind of response\? In the detective drama I saw with Kanami and everyone the other day, that got the suspect to talk\.\)  
+**Hiyori:** (Gh\.\.\. What else could I do to make her open up\.\.\. What seems like it could work\.\.\.\)  
+**Hiyori:** Ah--\! I've got it; how about this then\!  
+
+## [Police Officer - Hiyori: End\]: The Secret Plan to Get Her Talking is\.\.\.\!\?
+**Detective:** Juujou-san, did you come up with something\?  
+**Hiyori:** Yes, I was just thinking, maybe she's feeling hungry now\?  
+**Hiyori:** If someone's hungry, it doesn't matter who they are, they start to close themselves off and don't feel like talking\.  
+**Hiyori:** Let's take a break and order some food\. If she could have something like katsudon, she'd probably be feeling better\. What do you think\? Do you like katsudon\?  
+**Suspect:** \.\.\.\.\.\.\!  
+**Hiyori:** (Ohh\! She nodded\. She's still not talking, but this tactic looks like it's working\.\)  
+**Hiyori:** Detective, let's order some katsudon soon\.  
+**Detective:** Um, Juujou-san, could we talk outside\?  
+**Detective:** There's nothing wrong with ordering food during the interrogation, but the suspect will have to pay for their own expenses\.  
+**Hiyori:** W-Wait, really\.\.\.\!\? In the drama I saw, it made it seem like the police paid for it\.\.\.  
+**Detective:** That's how it used to go\. Nowadays, if you don't give the suspect a clear explanation first and order it with their understanding, it can  cause issues later\.  
+**Hiyori:** I had no idea\.\.\. She was just starting to open up too\. I can't just tell her now, \"but you'll have to pay for it, okay\?\"  
+**Detective:** I know what you mean\. Though, if it's absolutely necessary, the police doing the interrogation will pay for it themselves\.  
+そうだよね。あとは、どうしてもって事ならば取り調べる側が自腹を切ることになるんだが。
+
+  
+**Hiyori:** Pay for it ourselves\.\.\. Hmm, I've been spending a lot this month, so I don't have much left over\.\.\.  
+**Detective:** It's not realistic to expect a confession because of a bowl of katsudon anyway\. We should come up with something else\. Let's go back into the interrogation room\.  
+**Hiyori:** Hang on a moment\. If that's how it is, then please let me get her something else\.  
+**Hiyori:** Sorry for making you wait\. Some things happened, and we couldn't get you any katsudon\.  
+**Hiyori:** \.\.\.Don't look so disappointed though\. Maybe having this would make you feel better instead\?  
+**Suspect:** \.\.\.\!\!  
+**Hiyori:** For lunch, I brought natto rice today\. There's warm miso soup too, so eat your fill, and then we can talk\.  
+**Detective:** (This isn't something so simple that a bowl of natto rice would get her talking though\.\.\.\)  
+**Detective:** (Ah--\! The suspect started scarfing it down\. The look on her face, it's completely different from before\.\)  
+**Hiyori:** So\? It's good, isn't it\? I pay extra attention to how many times I mix it, to bring out more umami\.  
+**Suspect:** \.\.\.It tastes just like mom makes\.\.\.  
+**Hiyori:** (Alright\.\.\. she spoke\! Okay, just stay calm\. Don't rush it, wait for your chance\.\.\.\)  
+**Hiyori:** I see\.\.\. We have all the time you need here\. Savor it all you want\.  
+**Suspect:** Uuuu\.\.\. It's good\.\.\. It's good\.\.\. Mom\.\.\. I'm sorry\.\.\. I'm really sorry\.\.\.  
+**Hiyori:** Wh-What's gotten into you\? Here, take my handkerchief\. You can wipe your tears\.  
+**Suspect:** Uuuu\.\.\. Thanks\.\.\. I'm sorry\.\.\. I\.\.\. I did it\.  
+**Detective:** W-We finally got a confession\! Thank you, for being honest with us\. But, what made you feel like talking all of a sudden\?  
+**Suspect:** Because, this flavor\.\.\. it reminded me of my mom\.\.\.  
+**Hiyori:** Is that right\. I'm just glad this natto was good for something\. You'd better not try scamming someone ever again\.  
+**Suspect:** Uuuu\.\.\. I won't\. I'm really sorry\.  
+**Hiyori:** (I never expected it to go so smoothly, but all's well that ends well\.\)  
+**Hiyori:** (I'll just keep quiet about how her katsudon turned into natto because of budget reasons\.\)  
 > :ToCPrevNext
