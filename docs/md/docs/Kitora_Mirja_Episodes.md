@@ -648,7 +648,7 @@ https://streamable.com/nprbpr
 **Kihiro:** Mmhm\! Just as we'd planned, Miss Haji\! Our motorcycle is the center of attention\!  
 **Kihiro:** Now then\! Let's hurry over and give our guests an explanation\!  
 **Keiko:** Right\.\.\.\! I'm very glad, that we worked so hard on this assignment\.\.\.\!  
-Mirja： (\.\.\.From the sound of it, this motorcycle has incredible workmanship\. That at least makes it worth me enduring the shame of dressing as a race queen\.\)
+**Mirja**： (\.\.\.From the sound of it, this motorcycle has incredible workmanship\. That at least makes it worth me enduring the shame of dressing as a race queen\.\)
 
   
 **Mirja:** (Though--\)  
@@ -697,7 +697,7 @@ Mirja： (\.\.\.From the sound of it, this motorcycle has incredible workmanship
 **Mirja:** As a toji, what sort of path should I explore from here\?  
 **Mirja:** \.\.\.Heh\. Jikkyuu Mitsutada isn't going to tell me that much, is it\.  
 
-## [Misogi - Mirja: Start\]: What Must Be Polished is You Yourself
+## [Misogi - Mirja: End\]: What Must Be Polished is You Yourself
 **Mirja:** We'll be in trouble if it comes out from blind spots behind the trees\!  
 **Mirja:** Let's move out into the open and engage from there\. Fortunately, the aradama appears to be pursuing us\.  
 **Mirja:** (I won't show as shameful a performance as last time\. I'm focused\.\)  
@@ -743,4 +743,71 @@ Mirja： (\.\.\.From the sound of it, this motorcycle has incredible workmanship
 **Nao:** Oh gosh\.\.\. she has such a serious and well defined goal\~\.\.\.  
 **Kinuka:** That sounds like something the teachers would take, no questions asked\. But, wait, why have you been thinking this out more than us third years-\!\?  
 **Mirja:** \.\.\.That's something I should be asking, as your kouhai\. You should think more carefully about this, you two\.  
+
+## [Resort Dress - Mirja: Start\]: Scouted
+**Mirja:** We were lucky we found that shop earlier\.  
+**Mirja:** The whipped creme they had for dessert was especially well made\.  
+**Chie:** It was; I thought they were a bit expensive just for lunch, but I can understand why now\.  
+**Mirja:** Yes\. Before our vacation is over, I'd like to bring Asakura Mihono back there\.  
+**Chie:** Fufu, we should\.  
+**Chie:** Do you think Mihono-chan's finished having lunch with Inago-san by now\?  
+**Mirja:** \.\.\.Oh, she's sent us a message\.  
+**Chie:** Ah, she did\. Looks like she went with Inago-san to a family restaurant\.  
+**Chie:** Maybe we should have uploaded pictures of our food too\?  
+**Mirja:** I don't think we should\. I can already imagine how annoying Yamashiro Yui would be, after missions kept her from coming along\.  
+**Chie:** You know Mirja, I've been thinking this for a while, but don't you think you're too hard on Yui-chan sometimes\?  
+**Mirja:** Am I\?  
+**Mirja:** Maybe that's in large part due to her being my direct kouhai at Ayanokouji Martial Arts Academy\.  
+**\?\?\?:** Excuse me, do you have a minute\? I'd like to talk to you about this\.\.\.  
+**Mirja:** Hm\? You're a magazine reporter\? Did you need something from us\?  
+**Magazine Reporter:** Do you have any interest in becoming a model\?  
+**Mirja:** A model\.\.\.\?  
+**Magazine Reporter:** Ahh, you don't have to look so suspicious\! We're a small-time local magazine\!  
+**Magazine Reporter:** I'll come right out and say it, I want you to be a model for us\!  
+**Mirja:** \.\.\.  
+**Chie:** Don't give them that look, Mirja\. Let's hear them out first\.  
+**Magazine Reporter:** Thank you very much\.  
+**Magazine Reporter:** The girl I'd asked to model for us suddenly couldn't make it, so I've been looking for a substitute\.  
+**Mirja:** But, why me\?  
+**Magazine Reporter:** You're exactly the type of model I had in mind\!  
+**Chie:** So they say\. It looks like they're in a pinch, so why not help them out\?  
+**Mirja:** Still\.\.\.  
+**Chie:** I'm sure it'll be a nice experience for you\.  
+**Mirja:** Acting as if it's someone else's problem\.\.\. Fine then\. I'll take your offer\.  
+
+## [Resort Dress - Mirja: End\]: Model Debut\!
+**Mihono:** I can't wait, Chii-nee\!  
+**Chie:** I know how you feel, Mihono-chan\.  
+**Mihono:** Did you already see what Mirja-san's wearing, Chii-nee\? What'd it look like\? She must have looked really good, right\?  
+**Chie:** No, I haven't gotten to see yet\. That's why I'm excited too\.  
+**Mirja:** I'm glad to hear that, but it's not all that different from what I typically wear\.  
+**Mihono:** \.\.\.  
+**Mirja:** What's wrong\?  
+**Mihono:** Mirja-san, you look so super pretty, all the words left my mouth\.\.\.\!  
+**Chie:** I know, she really does\.\.\. I'm surprised\.  
+**Mirja:** Do I really\?  
+**Mirja:** I didn't think I looked that different from usual\.\.\. Ahh, it must be because of the makeup\.  
+**Mihono:** But she's still the same old Mirja-san inside; the gap's making my brain hurt\.\.\.  
+**Chie:** Mihono-chan\!\? Mirja, you have to help Mihono-chan; start talking more like how you're dressed\!  
+**Mirja:** \.\.\.Stop getting so worked up over this, you two\.  
+**Mihono/Chie:** Okaaay\.  
+**Yui:** \.\.\.\.\.\.\.\.\.\.\.\.Huh\?  
+**Yui:** What am I doing here instead of there\? I don't get it\. Huh\?  
+**Yui:** Why is this happening; isn't that like an event made for me\?  
+**Yui:** Huhh\?  
+**Mihono:** Yui's making this really awkward\.\.\.  
+**Kiyoka:** \.\.\.That must have been so nice\. I wish I could have been there to watch her model too\.  
+**Mihono:** Even Kiyoka's doing it\.\.\.  
+**Yui:** Damnit\.\.\.  
+**Yui:** What's wrong with me; why didn't I skip my missions to be there\.\.\.\!\?  
+**Mirja:** \.\.\.Why are you crying over this\?  
+**Yui:** WHY WOULDN'T I BE CRYINGGGGGGGGGG\!\!  
+**Chie:** Now now\.  
+**Chie:** They said they would send us copies once the magazine is finished, so can you wait until then\?  
+**Yui:** They'll what\.\.\.\!\? I still have something to live for\!  
+**Kiyoka:** Mirja-san, if you do work as a model again, please take me along next time\!  
+**Yui:** You have to bring me too\!  
+**Mirja:** \.\.\.I see I should have never taken the modeling job in the first place\.  
+**Kiyoka/Yui:** MIRJA-SAN\!  
+**Mirja:** \.\.\.Sigh\. I'll consider it\.  
 > :ToCPrevNext

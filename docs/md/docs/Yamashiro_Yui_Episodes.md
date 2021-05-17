@@ -718,4 +718,70 @@ Yamashiro Yui has been paired with Inubouzaki Itsuki to suppress aradama\.\.\.
 **Yui:** I really just want somebody to cosplay for me\!  
 **Akira:** I was giving you a compliment\.\.\. Guess it's no use with you\.  
 **Ellen:** Though, that's just what I'd expect from Yuiyui\.  
+
+## [Star Ocean - Yui: Start\]: I Want to Touch Your Ears\!
+**Rena Lanford:** Alright, let's go looking for those aradama, Yui\.  
+**Yui:** Sure\!  
+**Yui:** Though, before that, could I ask you something\?  
+**Rena:** Like what\?  
+**Yui:** Please let me touch those cute ears of yours, Rena-san\!\!  
+**Rena:** Eh\? That's really sudden\.  
+**Yui:** It might seem sudden, but it's not sudden at all\! I've been wanting it this whole time\!  
+**Rena:** Yui\? That look on your face is scaring me\.\.\.  
+**Yui:** You let Mai-chan touch them, right\!\? So what's wrong with letting me touch them too\!\!  
+**Rena:** J-Just calm down, Yui-chan\!\!  
+**Yui:** I wanna rub your ears, Rena-sannnnnnn\!  
+**Rena:** KYAAAAAAAAAAAAAAAA\!\?  
+**Yui:** You don't have to run, Rena-san-\!  
+**Yui:** [Pant pant\]\.\.\. Sorry, I calmed down now\.  
+**Rena:** I-If you're calmed down, that's good\.  
+**Yui:** Phew, we ran so much I worked up a good sweat\! I'll go get us something to drink, so just wait here\.  
+**Rena:** O-Okay\.  
+**Yui:** Here, this one's yours\.  
+**Rena:** Thanks, Yui\.  
+**Yui:** You're very welcome\!  
+**Rena:** \.\.\.  
+**Yui:** Umm, you're going to make me embarrassed if you keep staring, okay\?  
+**Rena:** Ah, sorry\.  
+**Rena:** \.\.\.Did you really want to touch my ears that badly, Yui\?  
+**Yui:** Of course I do\! Anybody'd want to touch a cute girl's ears\!  
+**Rena:** \.\.\.Is that right\.  
+**Rena:** \.\.\.I'll let you do it now that you calmed down, okay\? But, just for a little bit\!  
+**Yui:** You mean it\!\?  
+**Yui:** \.\.\.Oh, too bad\. Looks like it's time for us to get to work\.  
+**Yui:** Let's go handle this, Rena-san\!  
+**Rena:** Yeah\.  
+**Rena:** (\.\.\.Yui feels different from a moment ago\. I wonder which one is how she's really like\.\)  
+
+## [Star Ocean - Yui: Start\]: Together
+**Aradama:** OOOOOOOOOOOOOOOOOO\!\!  
+**Rena:** YAAAAAAAAA\!\!  
+**Yui:** You punched that aradama\!\? For how cute you are, you're pretty rough\!  
+**Yui:** Though I do love that gap appeal\!  
+**Rena:** Yui\! Please stop fooling around and finish it off\!  
+**Yui:** O-Okay\!  
+**Yui:** HAAAAAAAAAAAAAAAAA\!\!  
+**Aradama:** OOoooo\.\.\.  
+**Rena:** Mm, it's going well\!  
+**Rena:** I'll soften up the aradama, so let's keep this up just like this\!  
+**Aradama:** GYAAAAAAAAAAAAAAA\!\!  
+**Rena:** Eh--\!\?  
+**Yui:** Watch out, Rena-san\!  
+**Aradama:** GOAAAAAAAAAAAAAAA\!\!  
+**Yui:** You're not laying a finger on such a pretty girl\!\!  
+**Rena:** Th-Thanks for that, Yui\.  
+**Yui:** This is no big deal\!  
+**Yui:** Rena-san\. I really appreciate how you're softening the aradama up for me\.  
+**Yui:** But, I'm pretty strong myself\. So\.\.\. how about we fight more back to back, with the two of us\?  
+**Rena:** Yui\.\.\.  
+**Rena:** Okay, let's fight together\!  
+**Yui:** Yeah\!  
+**Rena:** We beat the aradama\.\.\. but I didn't see any energy stones\.  
+**Yui:** Mmm, looks like they were just normal aradama after all\.  
+**Yui:** But, we took care of them and neither of us got hurt, so it's all okay either way\!  
+**Rena:** \.\.\.\.\.\.  
+**Rena:** You're pretty popular with girls, aren't you, Yui\?  
+**Yui:** D-Does that mean you started falling for me\?  
+**Rena:** Mm, maybe I did\.  
+**Yui:** Woohoo-\! I feel like really showing off now\! I'm gonna go all out finding those energy stones-\!  
 > :ToCPrevNext

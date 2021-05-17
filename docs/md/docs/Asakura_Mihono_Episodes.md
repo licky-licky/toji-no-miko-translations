@@ -855,4 +855,138 @@ Several weeks later\.
 **Mirja:** Can you hear me, Asakura Mihono\!\?  
 **Mirja:** Fight it\! Don't\.\.\. DON'T LET SETOUCHI CHIE'S WISHES BE FOR NOTHING\!\!  
 **Mihono:** \.\.\.\.\.\.  
+
+## [Star Ocean - Mihono: Start\]: Found a Ramen Stall\!
+**Mihono:** Hmm, there's nothing on the spectrum finder\. We're not really finding anything, huh\.  
+**Miki:** That's for sure\. We're over here looking around every corner for them, so the least they could do is show up a little\.  
+**Mihono:** I know\!  
+**Miki:** And now I'm feeling kind of hungry\.\.\.  
+**Mihono:** Ugh, me too\.\.\.  
+**Mihono:** Want to\.\.\. go get some food\?  
+**Miki:** Sure\! Let's do that\!  
+**Miki:** Tell me where you like to eat, Mihono\!  
+**Mihono:** Hmm, someplace I like to eat\.\.\. It's a little far, but\.\.\.  
+**Miki:** Ugh\.\.\. It's far away\.\.\.  
+**Miki:** I don't think my stomach is going to make it that far\.\.\.  
+**Mihono:** Actually, I think mine's the same\.\.\.  
+**Mihono:** What's something tasty nearby\.\.\. Something tasty nearby\.\.\.  
+**Mihono:** Hear that\.\.\. That's a ramen stall\!  
+**Mihono:** Let's go there, Miki-san\!  
+**Miki:** Phew, I'm so full\.\.\. They had that \"stall\" taste to them; I really liked it\.  
+**Mihono:** \.\.\.\.\.\.  
+**Miki:** What's up, Mihono\?  
+**Mihono:** Doesn't your\.\.\. stomach hurt at all\?  
+**Miki:** Eh\?  
+**Mihono:** Eh\?  
+**Mihono:** I mean, you had stuff from the whole menu, right\.\.\.\?  
+**Miki:** I ate them all, but I didn't drink all the soup, so it's all good\!  
+**Mihono:** (Is that really all good\.\.\.\?\)  
+**Miki:** I actually wanted to have some more of it, but, see, it's already nighttime\? So I held off a little\.  
+**Mihono:** Y-Yeah, I guess\.\.\.  
+**Mihono:** (I feel like she already ate a whole bunch though\.\.\.\)  
+**Mihono:** B-But, we did go looking around all day today, so it's fine to eat that much\.\.\. right\?  
+**Miki:** Yeah, it's fine\!  
+**Miki:** So come on, let's work it off and go look around over that way, Mihono\!  
+
+## [Star Ocean - Mihono: End\]: Found Some Cats\!
+**Mihono:** It sorta feels like we're just going on a walk together after we got that ramen\.  
+**Miki:** Do aradama take the nights off or something\?  
+**Mihono:** Well, we still get tons of missions at night too\.\.\. And then it gets really hard waking up the next day\.\.\.  
+**Miki:** Ahaha, toji sure have it rough too, huh\.  
+**Mihono:** --\!\? That meow just now\!\!  
+**Miki:** Mihono\?  
+**Mihono:** I feel like it came from that way\.\.\. Let's go and check, Miki-san\!  
+**Mihono:** Meowww, meowww\. Where are you, kitty-\?  
+**Miki:** You heard it from over here, right\?  
+**Mihono:** Yeah\! I'm pretty sure it's right around here\.\.\.  
+**Mihono:** There they are\!  
+**Miki:** Where, where\!\?  
+**Mihono:** Right here\! There's two of them, Miki-san\!  
+**Miki:** Ah, I see them\! They're so cute\!  
+**Mihono:** Yeah\!  
+**Mihono:** Will you let me pet you, meow-\?  
+**Cat:** \.\.\.  
+**Mihono:** Ah, she turned her head away\.\.\.  
+**Miki:** Ahaha, looks like she's telling you no\.  
+**Mihono:** Yeah\.\.\.  
+**Mihono:** Hey, they ran off\!  
+**Miki:** They looked like they were strays, so maybe they were being cautious of you\?  
+**Mihono:** Yeah, I just wanted to pet them\.\.\.  
+**Mihono:** Next time I find them, I'm gonna pet them for sure\!  
+**Miki:** Ahaha, I'm rooting for you\!  
+**Mihono:** We didn't find any geregere slime, but this was pretty fun, huh Miki-san\!  
+**Miki:** It was\!  
+**Miki:** The ramen tasted really good, and the cats\.\.\. well, it's too bad about that\.  
+**Miki:** I wouldn't mind going on another walk at night with you, Mihono\!  
+**Mihono:** Sure\! Let's go do this again\!  
+
+## [Resort Dress - Mihono: Start\]: It's Not There\!\!
+**Mihono:** This'll definitely look good on you, Akira-san\!\!  
+**Akira:** Huhh\!\? Quit screwin' with me\! Like hell I'd wear that\!\!  
+**Mihono:** I'm not screwing with you\! I want you to try on some cute clothes too\!  
+**Akira:** How dumb are you\!\? It's not gonna look any good\! I'm into rough and ready kinda clothes, okay\!  
+**Mihono:** Kiyoka says just cause you like something doesn't mean that's all you look good in\! There could be a bunch of clothes you'd like but won't try just cause you think they won't work\!  
+**Akira:** What does that have to do with anything\!\?  
+**Mihono:** What's wrong with trying\!  
+**Mihono:** We're here on vacation, so you should try on some clothes you've never tried before\!  
+**Akira:** I only came here cause I had a mission to\!  
+**Mihono:** But you already finished with that, right\? And you even came shopping with me now\!  
+**Akira:** Yeah, but\.\.\. Look, just forget about me and pick your own clothes\! Like here, wouldn't this look good on you\!  
+**Mihono:** Ugh\.\.\.  
+**Akira:** Nn\? Why'd you get all quiet\.\.\. Something wrong\?  
+**Mihono:** I don't have all that much money\.\.\. Only enough to buy one thing, but I can't pick just one\.\.\.  
+**Mihono:** So I'm stuck on this\.  
+**Akira:** Don't be\. I know you'd look great in any of these\. Just buy whichever you want\.  
+**Mihono:** \.\.\.You want to get this over with already, don't you\?  
+**Akira:** Oh yeah I do\.  
+**Mihono:** I knew it\! You have that same look Fukki gets when she doesn't care anymore\!  
+**kira:** Oh yeah, her, she has that feeling like she just puts on whatever too\.  
+**Mihono:** She might seem like that, but even Kiyoka says Fukki's got great fashion sense\!  
+**Akira:** What're you looking proud about that for\.  
+**Mihono:** Ehehe\.\.\. But still, what do I do\. I want this\.\.\. I want it, but\.\.\.  
+**Akira:** (Phew, I somehow got out of that one\.\)  
+**Akira:** (Though\.\.\. those clothes from before were pretty cute\.\.\.\)  
+**Mihono:** Wait\?  
+**Akira:** What now\?  
+**Mihono:** Huh\? Huhhh\? My wallet's\.\.\.  
+**Akira:** Your wallet\? What about it\? Didn't have as much cash as you thought\?  
+**Mihono:** \.\.\.It's gone\.  
+
+## [Resort Dress - Mihono: End\]: Don't Make Me Say It\!
+**Mihono:** It's gone\? It's gone\! It's gone\!\? No matter where I look, my wallet's goneeee\!\!  
+**Akira:** Huhh\!\? You had it at lunch, didn't you\!\?  
+**Mihono:** But now I can't find it anywhereee\.\.\. Arghh, where could I have dropped it\.\.\.  
+**Akira:** No point in standing around asking that here\.  
+**Mihono:** But\.\.\.  
+**Akira:** I'm gonna go check the police box, you go check the way we came\.  
+**Akira:** We'll meet up later\.  
+**Mihono:** O-Okay\! Thanks\!  
+**Akira:** Alright, before I hit up the police box\.\.\.  
+**Mihono:** It wasn't where we ate lunch either; where'd I even drop it\.\.\.  
+**Akira:** Mihono\!  
+**Mihono:** Akira-san\! Was it at the\.\.\.  
+**Akira:** They didn't have it\. What about you\?  
+**Mihono:** I couldn't find it here either\.\.\. I even went to all the places we stopped by\.\.\.  
+**Akira:** \.\.\.Oh\.  
+**Mihono:** Where did you go after the police box, Akira-san\.\.\.\?  
+**Akira:** I went to buy this, then I went looking for your wallet too\.  
+**Mihono:** This\? \.\.\.Ah, that's one of the outfits I wasn't sure if I should buy\.\.\.  
+**Akira:** I picked this out of all of them\. Not gonna complain about it, are ya\?  
+**Mihono:** But why\.\.\.\?  
+**Akira:** It's bad enough you lost your wallet, not getting to buy what you wanted's even worse\. So here, cheer up\.  
+**Mihono:** Thanks a lot\.\.\. I feel a little better now\. But\.\.\. we still haven't found my wallet, so I feel kinda mixed up\. Ehehe\.  
+**Akira:** Well sure\. Let's trace our steps again; we'll go together this time\.\.\.  
+**Akira:** Nn\? Hirona\? Hey, what're you calling for\?  
+**Hirona:** Akira-san, you're with Asakura-san today, aren't you\?  
+**Akira:** Mihono\? Yeah, she's here, why\?  
+**Hirona:** I tried calling her over and over, but she won't answer\. I guess she's panicking since she lost her wallett\.  
+**Akira:** Yeah, probably\.\.\. Why do you know about that\?  
+**Hirona:** Actually, I picked up Asakura-san's wallet\. I'll bring it to you right awayy\.  
+**Akira:** \.\.\.Sure, that'll be great\.  
+**Akira:** Oi, Mihono\. Hirona found your wallet\. Says she'll bring it right here\.  
+**Mihono:** Hirona did\!\? Thank goodness\.\.\. Ah, when I get my wallet, I'll pay you back for\.\.\.  
+**Akira:** Don't need it\.  
+**Mihono:** Eh, but\.\.\.  
+**Akira:** I went and got you a present, so don't go saying something dumb like that\.  
+**Mihono:** \.\.\.Alright\!\! Thanks a lot\!\!  
 > :ToCPrevNext

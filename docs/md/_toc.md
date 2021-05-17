@@ -171,6 +171,7 @@
 > [Star Ocean -Encounter With the Toji-](/docs/Star_Ocean_-Encounter_With_the_Toji-)
 > [Yume's Homecoming](/docs/Yume's_Homecoming)
 > [Tojitomo Police Duty](/docs/Tojitomo_Police_Duty)
+> [Let's Vacation! A Tropical Resort Festival!](/docs/Let's_Vacation!_A_Tropical_Resort_Festival!)
 > [Chain Story Archives Part 0.5.1](/docs/Chain_Story_Archives_Part_0.5.1)
 
 [Other Translations](/other)

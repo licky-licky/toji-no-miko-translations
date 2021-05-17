@@ -495,4 +495,130 @@ In the research lab of Osafune Girls' Academy\.\.\.
 **Chie:** After all, without people like you there for us, us toji wouldn't be able to keep on fighting\.  
 **Chie:** So\.\.\. we'll keep being in your care in the future\.  
 **Sakura:** Okay\!  
+
+## [Star Ocean - Chie: Start\]: Potatoes
+**Miki Sauvester:** Thanks for the food-\!  
+**Chie:** Go ahead and eat\.  
+**Miki:** [chew chew\]\.\.\.  
+**Miki:** Mmm, it's so good\!  
+**Chie:** Fufu, we got plenty, so have as many as you like\.  
+**Miki:** Will do-\!  
+**Miki:** Why do you think potatoes are so tasty\? They're all warm and sweet and\.\.\. I'll take another\!  
+**Chie:** Sure, here you go\.  
+**Miki:** I bet I could keep eating these all night\!  
+**Miki:** Another one\!  
+**Chie:** Here\.  
+**Miki:** One more\!  
+**Chie:** Here you g\.\.\. Ah\. Sorry, Miki-san\.  
+**Chie:** That was the last one just now\.\.\. Looks like I didn't get enough\. Should I go buy you one more\?  
+**Miki:** You will\!\?  
+**Chie:** You looked so happy eating them\. I was having fun just watching you go\.  
+**Miki:** Thanks so much, Chie\!  
+**Chie:** But, we're out here to find a biribiri plasma rod, so we have to make sure not to forget, okay\?  
+**Miki:** Sure we won't\!  
+**Miki:** Aradama'll go down like nothing with all this potato power\!  
+**Chie:** Oh, but it looks like the baked potato stand moved somewhere else\.  
+**Miki:** That just means we can look for them again while we look for the aradama\.  
+**Miki:** That way it's two birds with one stone\.  
+**Chie:** That's true; let's do that then\.  
+**Chie:** Oh\?  
+**Chie:** It looks like we found the aradama before the baked potatoes\. Let's go take care of them, Miki-san\.  
+**Miki:** Alright, Chie\!  
+**Miki:** We'll get that biribiri plasma rod and then have another helping of potatoes in peace\!  
+**Chie:** Sure\!  
+
+## [Star Ocean - Chie: End\]: I Prefer Potatoes to Aradama
+**Miki:** Rock Rain\!  
+**Aradama:** GYAH\!\?  
+**Miki:** Earth Grave\!  
+**Aradama:** GUOH\!\?  
+**Miki:** Shiny Lancer\!  
+**Aradama:** GAAAAAAAA\!\?  
+**Miki:** Miki-chan's the strongest\!  
+**Chie:** That's amazing\.\.\. So that's what you can do, Miki-san\.\.\.  
+**Chie:** Should I\.\.\. just think of that as magic\?  
+**Miki:** It's called signeturgy\.  
+**Miki:** I'm best at healing signeturgy, but not that great at attacks\.\.\. I'm just giving it my best shot for the potatoes\!  
+**Miki:** But, I can't finish them off, so the rest is up to you, Chie\!  
+**Chie:** Of course, just leave it to me\.  
+**Chie:** YAAAAAAAAAAAAAAAAAA\!\!  
+**Aradama:** \.\.\.\.\.\.  
+**Chie:** That should do it\.  
+**Chie:** Though\.\.\. From the looks of it, these aradama didn't have the biribiri plasma rod\.  
+**Miki:** Oh, that's too bad\.  
+**Miki:** We're having a tough time finding an aradama with one, aren't we\.  
+**Chie:** We are\.\.\.  
+**Baked Potato Stand:** Get your stone baked sweet potatoes\~\!  
+**Miki:** Ah\.\.\.  
+**Miki:** I'm hungry now, after going all out\.  
+**Chie:** We did beat a lot of aradama, so we'll have to do something to reward ourselves\. Why don't we go get some potatoes\?  
+**Miki:** Sure\!  
+**Miki:** The ones from earlier are already done digesting, so let's get a whole bunch\!  
+**Chie:** A bunch\.\.\. In that case, let's buy enough to bring back for everyone\.  
+**Miki:** We're bringing them back for everybody\.\.\. What should we do, Chie\!\?  
+**Miki:** What if that stall doesn't have enough potatoes for us all\!\?  
+**Chie:** Just how many were you thinking of bringing back\!\?  
+
+## [Resort Dress - Chie: Start\]: Choosing Souvenirs
+**Chie:** Hmm, what kind of souvenir should I get everyone\?  
+**Hirona:** \.\.\.\.\.\.  
+**Hirona:** Is that you, Setouchi-san\?  
+**Chie:** Eh\?  
+**Chie:** Oh, Hirona-chan\! What a surprise, running into you here\.  
+**Chie:** Were you on vacation here too\?  
+**Hirona:** \.\.\.So you're on vacation, Setouchi-san\. I'm jealous\.  
+**Hirona:** I'm here on a mission\. Though, we already finished it\.  
+**Hirona:** If you're on vacation, does that mean you came here by yourself\?  
+**Chie:** Mm-mm, I came with Mihono-chan and Mirja\.  
+**Hirona:** \.\.\.So then you're here to get souvenirs for the others left back home\?  
+**Hirona:** Then, can we pick them out together\?  
+**Chie:** Eh\?  
+**Hirona:** I actually came to get souvenirs for the people who've helped me too\.  
+**Hirona:** But, picking out souvenirs is very inefficient\.  
+**Chie:** Fufu, I know what you mean; there's a lot to decide on\. You want to make the person you're giving it to happy, after all\.  
+**Hirona:** \.\.\.Right\.  
+**Chie:** Well, how about we choose some together then\?  
+**Hirona:** I would appreciate itt\.  
+**Hirona:** What were you going to buy, Setouchi-san\?  
+**Chie:** Let's see\.\.\. I had a rough idea I'd get baked sweets\. Everybody will eat those\.  
+**Hirona:** Sweets are very efficient like that\.  
+**Chie:** Mmhm, sweets are the greatest for gifts\.  
+**Chie:** But\.\.\. a part of me also wonders, would that be boring\?  
+**Hirona:** \.\.\.That's true\.  
+**Hirona:** (\.\.\.I could see this taking a while\. This might not actually save me any time\.\.\.\)  
+**Chie:** Aradama\!\?  
+**Hirona:** \.\.\.Did they get away\? I was sure we suppressed them all though\.\.\.  
+**Hirona:** Setouchi-san, I'll go take care of this\.  
+**Chie:** Wait\! I'll go with you\!  
+
+## [Resort Dress - Chie: End\]: Old People Charmer
+**Hirona:** Now they're\.\.\.  
+**Hirona:** Finished\.  
+**Aradama:** \.\.\.  
+**Chie:** You did great, Hirona-chan\.  
+**Hirona:** The after-service is overr\.  
+**Hirona:** Let's go back to the souvenirs\. I feel like just going with sweets\.  
+**Chie:** You're right; how about we pick some tasty looking sweets\.  
+**Hirona:** Okay\.  
+Local Citizen A： Thanks, miss toji\! Here, take these\!  
+**Local Citizen B:** These too, as souvenirs\!  
+**Chie:** U-Um\.\.\.  
+**Hirona:** Thank you very muuuch\.  
+**Chie:** I feel bad, taking this much\.\.\.  
+Local Citizen A： It's fine, it's fine\!  
+**Hirona:** \.\.\.  
+**Hirona:** You're a real old people charmerr\.  
+**Chie:** Old people charmer\!\? That's the first time anyone's told me that\.\.\.  
+**Hirona:** There's nothing wrong with it\. Now we won't have to worry about souvenirs\.  
+**Chie:** That's true, but\.\.\. Oh\?  
+**Chie:** These clothes, Kiyoka-chan would look nice in them\.\.\. And these are for Kofuki-chan\.  
+**Chie:** These ones\.\.\. Maybe for Mirja\? She doesn't need a souvenir though\.\.\. Oh well, I'll give her them anyway\.  
+**Hirona:** \.\.\.You sure think a lot about other people, Setouchi-san\.  
+**Chie:** Eh\?  
+**Hirona:** Instead of Kitora-san, I think these clothes would look even better on you\.  
+**Chie:** You think so\?  
+**Hirona:** I doo\.  
+**Hirona:** Ah, I'll take these sweets here\. Mm, that went efficiently\.  
+**Chie:** Honestly, Hirona-chan\.  
+**Chie:** Though\.\.\. they do seem just fine as a gift\.  
 > :ToCPrevNext
