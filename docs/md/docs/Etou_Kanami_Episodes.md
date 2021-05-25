@@ -1160,4 +1160,80 @@ https://streamable.com/l2taom
 **Hiyori:** H-Hey\! I'm still not prepared yet\.\.\.  
 **Kanami:** Sorry, sorry\. Hey, let's take the next shots in front of the pool where all the petals are floating\!  
 **Hiyori:** That should be nice too\. Seems like we'll get a lot of good pictures today\.  
+## [Another - Kanami: Start\]: No Matter When, Never Skip Training\!
+This is a fragmentary vision as shown by a strange aradama, down a path Etou Kanami might have taken\.
+
+  
+**Mihono:** Kanami's gone and I wanna find her\!  
+**Mihono:** But\.\.\. I can't just give up all my missions either; what do I do, Mai\?  
+**Mihono:** Back then\.\.\. when Kanami came and helped us out, I knew I should have done whatever it took to bring her back\.\.\.  
+**Mai:** Mm\. I know exactly how you feel\.  
+**Mai:** But, right now, I don't think we can do anything but look for her while finishing our missions\. There's been a few cases where aradama disappeared before toji got there, so maybe\.\.\.  
+**Mihono:** You think it could be Kanami doing it\!\?  
+**Mai:** I do\. So let's find out more about it little by little, okay Mihono-chan\?  
+**Mihono:** Alright\. I think Juujou-san's coming up with something too, so we'll just have to do what we can\.  
+Having separated herself from everyone, Kanami was now--
+
+  
+**Kanami:** Hmph--\! Hah--\! Yah--\!  
+**Kanami:** Mm\. My body really does feel lighter\.  
+**Kanami:** It's pretty fun when you can tell all the training you're doing's paying off\.  
+**Kanami:** Wonder if I can use an even higher level of hachimanriki by now\. I can use it for longer too\.  
+**Kanami:** And, if I tried putting everything I've got into jin'i, I could probably go deeper than I've ever gone before\.  
+**Kanami:** Though it'd be pretty bad if I ended up in the netherworld and couldn't come back\.\.\. so I don't think I'll be trying anytime soon\.  
+**Kanami:** \.\.\.\!  
+**Kanami:** There's that weird feeling again, like ripples in water\. There's an aradama close by\.  
+**Kanami:** (Lately, it's been like I can see the world around me so clearly\. Or maybe, it's more like I can feel it\?\)  
+**Aradama:** GGGGIIIII\!  
+**Kanami:** Ah, there really was one here\. You can't go running wild all over, alright\?  
+**Aradama:** \.\.\.\!  
+**Aradama:** \.\.\.uuu\.  
+**Kanami:** It happened again\. Sometimes, when I get close to aradama, they get all quiet and calm down\. But why though\?  
+**Aradama:** \.\.\.\.\.\.  
+**Kanami:** When they get like this, even if they're aradama, it's pretty hard for me to cut them down and exorcise them\.\.\.  
+**Kanami:** It doesn't look like it's going to be aggressive anymore, so maybe it's fine now\. It's weak enough that spectrum finders probably wouldn't pick it up either\.  
+**Toji's Voice:** The aradama should be just up ahead\.  
+**Kanami:** Ah-- Somebody's here on a mission\.\.\.\! Crap, I've gotta hide\.\.\.\!  
+**Kofuki:** \.\.\.The hell; there's no aradama-chan anywhere\! You sure this was the right place\?  
+**Tsugumi:** The coordinates point to right here, but maybe it moved elsewhere\.\.\. Though, even the spectrum reading's disappeared\. That's odd\.  
+**Kofuki:** Forget it; I'm just gonna go find it already\!  
+**Tsugumi:** Please try not running off on your own-\. Sorry about her, could you all follow after Shichinosato-san\?  
+**Kanami:** (Sorry everyone\.\.\.\)  
+**Kanami:** (You've got a job to do, and it just gets more complicated if you can't find the aradama\.\.\. I'll have to be more careful\.\)  
+
+## [Another - Kanami: End\]: Looking Back to a Familiar Voice
+**Aradama:** GSSHAAAAAAAAAA\!  
+**Kanami:** I'll purify you right away, okay\. --HAHH\!  
+**Kanami:** \.\.\.Phew\.  
+**Kanami:** Training up here in the caves and mountains has totally turned into an everyday thing for me, huh\. Though, I run into aradama like this sometimes\.  
+**Kanami:** It's not so bad, living like this\. I just wish I'd explained things to Mai-chan and Mihono-chan\.\.\.  
+**Kanami:** (That was\.\.\. I think it was about half a year ago now\. When I beat those aradama they were having a hard time with--\)  
+**Mai:** Don't go, Kanami-chan\.\.\.\!  
+**Mihono:** Yeah, we spent all this time looking for you\!  
+**Kanami:** \.\.\.I'm sorry\.  
+**Kanami:** I'm definitely\.\.\. making them worry about me\.  
+**Kanami:** (Even if I did tell them why I ran away, I wasn't sure I could explain it all that well back then\.\)  
+**Kanami:** (I can kind of understand why the people in the government would think my powers are dangerous\.\)  
+**Kanami:** (I get why there'd be people out there afraid these toji powers could be used on something besides aradama\.\)  
+**Kanami:** (I wouldn't have considered it myself, but hearing that sort of made sense\.\)  
+**Kanami:** (If I'm around, then everyone from them to Akane-sama and Yukari-sama might get caught up in all kinds of trouble\.\)  
+**Kanami:** (--When I kept thinking like that, at some point I just wanted to forget everything and do nothing but swordfighting\.\)  
+**Kanami:** I wanted to be free to keep doing this, exorcising aradama and polishing my skills\.\.\. but I still don't know if it's the right thing to do\.  
+**Kanami:** For now, I'd better get today's shopping taken care of\.  
+**Kanami:** Thanks for always giving me some extras\.  
+**Clerk:** Don't mention it\. Kanami-chan, you go camping up that mountain a lot, don't you\?  
+**Kanami:** Uh, yeah\. I'm camping there\.\.\. or something like that\.  
+**Clerk:** Did you ever see anything like a tengu or god of the mountain up there\?  
+**Kanami:** Eh\!\? Is that a thing\?  
+**Clerk:** From what folks say, it's thanks to something like that that the aradama round here disappeared\.  
+**Kanami:** (Wait\.\.\. are they talking about me\?\)  
+**Kanami:** A-Ahaha\.\.\. I guess that explains it\.\.\.  
+**Clerk:** Toji come by here less and less on missions too, so there's got to be something to it\.  
+**Kanami:** I-I hope I get to see that tengu someday-\. Ahaha\.\.\.  
+**Kanami:** Who'd have thought they'd start talking about me like I'm a tengu\.\.\.  
+**Kanami:** I got all the tings I need, so I'll just stay up here for a while\.\.\.  
+**Kanami:** Now my usual routine\.\.\. First to let your mind be one\. Cast off the teachings of the art of war, drink of the river Xi\.\.\. Let nothing be in your heart, and be one with nature\.\.\.		[Kanami is directly quoting teachings in Yagyu-ryu, signifying becoming one with the world\.\]  
+**Kanami:** And then, 10,000 practice swings\.\.\.  
+**Hiyori:** Found you\. \.\.\.Seeing you still just swordfighting even out here; in a way, it's actually a relief\.  
+**Kanami:** \.\.\.Hiyori-chan\!  
 > :ToCPrevNext

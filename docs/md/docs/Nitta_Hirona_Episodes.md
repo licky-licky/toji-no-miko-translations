@@ -462,5 +462,77 @@ Several hours later--
 **Yuuki:** Well, sure I am\. If I had to put it like Akira-nee-sama, it's hardcore\. I have hardcore hopes for you\!  
 **Hirona:** Hardcore-\? Fufu\.\.\.\.\.\. I'll try my beest\.  
 **Yuuki:** If anything else comes up, let us know, okay\? I'm about to go to bed\.\.\. [yawn\]\.  
-**Hirona:** Okaay, goodniight\.  
+**Hirona:** Okaay, goodniight\. 
+
+## [Misogi - Hirona: Start\]: Cooking With No Regard for Efficiency
+**Hirona:** \.\.\.Makoto-san, Akira-san\. Could you teach me how to cook\?  
+**Akira:** \.\.\.\.\.\.Huh\?  
+**Akira:** You want me teaching you how to cook\? I get why you'd ask Makocchan, but\.\.\.  
+**Hirona:** \.\.\.Ah, you're just for taste testing, Akira-saan\. It's more cost-effective asking you from the start\.  
+**Akira:** Oh, so that's why\.  
+**Makoto:** I wouldn't mind teaching you how to cook, though\.\.\. I thought you didn't have any interest in cooking for yourself, Hirona-san\.\.\.\?  
+**Hirona:** \.\.\.That's right, it's a waste of effort to cook for myself\.  
+**Hirona:** I think it's much better to have somebody else cook tasty food for me\.  
+**Hirona:** But, there's a reason I want to cook a meal myself this time\.\.\.  
+**Makoto:** What would that be\?  
+**Hirona:** Yuuki-san told me she wanted to try eating food I made\.  
+**Akira:** You're real soft when it comes to Yuuki, aren't ya\.  
+**Hirona:** My sense of efficiency doesn't apply for Yuuki-san, so I put in all my effort for her\.  
+**Hirona:** \.\.\.That doesn't go for you though, Akira-san\.  
+**Akira:** Didn't ask\.  
+**Akira:** But hey, didja know Yuuki'll do anything I tell her\? Hmm\? You jealous\?  
+**Hirona:** Gununununu\.\.\. I'm extremely jealouss\.  
+**Akira:** Ahaha\! I win this one\!  
+**Makoto:** That's enough fooling around, you two\.  
+**Hirona:** \.\.\.\.\.\.Yuuki-san does almost anything Makoto-san asks too, doesn't she\.\.\.  
+**Makoto:** Ehh\!\?  
+**Hirona:** It makes me jealouss\.\.\.  
+**Akira:** Look what you did to Hirona, Makocchan\.  
+**Makoto:** Ehh\!\? But, I can't make a comeback like Akira-chan can\!\?  
+**Makoto:** I'll make sure to teach you cooking, alright\!  
+**Akira:** There ya go\.  
+**Hirona:** I guess that's fine\.  
+**Makoto:** \.\.\.Honestly, don't go teasing me like that, okay\?  
+**Hirona:** I meant it seriously when I said I was jealous, so please forgive me\.  
+**Hirona:** Ah, but I'll get revenge on Akira-san\. You have to taste test until you get sick\.  
+**Akira:** Fine by me, but do me a favor and at least make it edible\.  
+**Hirona:** I'll do what I cann\.  
+
+## [Misogi - Hirona: End\]: Greatest Efficiency
+**Hirona:** I already knew, but\.\.\. she's skilled with her hands\.  
+**Akira:** I mean, Makocchan's been cooking since forever\.  
+**Hirona:** It's unusual for Makoto-san to be so good at cooking when she comes from such a wealthy family\.  
+**Akira:** What started it was\.\.\. I guess it's kinda like you\. Her mom was real busy, and she wanted her to have something good to eat\.  
+**Hirona:** \.\.\.I never did meet the previous head of the Hitakami family\.  
+**Akira:** She was really nice\. Back then, Makocchan's cooking sucked too, and\.\.\.  
+**Makoto:** What are you two talking about\?  
+**Akira:** Just how you used to suck at cooking\.  
+**Makoto:** Well of course I wasn't any good at first\.  
+**Makoto:** Here, Hirona-san\. I'm finished with my example\. Now you should try doing it yourself\.  
+**Hirona:** Okaaay\. I'll tryy\.  
+**Makoto:** So, now that I've had you try making it\.\.\.  
+**Akira:** Hey, it's good enough, right\? You could serve this just fine\.  
+**Makoto:** Yes, I think it's rather good too\. If you can make this, you shouldn't need me teaching you\.  
+**Hirona:** \.\.\.\.\.\.  
+**Hirona:** No, this won't work\.  
+**Akira:** Huh\? What's the problem\?  
+**Hirona:** It doesn't taste the same as Makoto-san's\.  
+**Akira:** Well duh, course it doesn't\.  
+**Akira:** You started cooking like an hour ago; if you could make it taste the same, what'd that say about Makocchan\? Yuuki just wants to eat your food; this'll be fine\.  
+**Hirona:** But, if mine tastes worse than Makoto-san's, couldn't she eat Makoto-san's cooking instead\?  
+**Akira:** \.\.\.You can be a real pain in the ass, y'know\.  
+**Hirona:** When it comes to Yuuki-san, I ignore the cost-benefits\.  
+**Hirona:** What should I do, Makoto-san\?  
+**Makoto:** Let's see\.\.\.  
+**Makoto:** I know; how about this\?  
+**Yuuki:** Just you wait, nee-samas\! We'll get some delicious udon ready for you\! Right, Hirona-san\!  
+**Hirona:** I'll do my beeest\.  
+**Akira:** Nice thinking, having them cook together\.  
+**Makoto:** This way Yuuki-chan will surely be happy\.  
+**Yuuki:** Hirona-san, you're not kneading it hard enough\!  
+**Hirona:** \.\.\.I'm not\? Can you show me how\?  
+**Yuuki:** You do it\.\.\. like this\!  
+**Hirona:** Like\.\.\. this\? You're amazing at this, Yuuki-san\.  
+**Yuuki:** Ehehe, thanks\!  
+**Hirona:** (It's not exactly my cooking, but\.\.\. it's making Yuuki-san smile, so this is the greatest efficiency\.\)  
 > :ToCPrevNext

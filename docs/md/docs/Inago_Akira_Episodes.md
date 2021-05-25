@@ -417,5 +417,69 @@ https://streamable.com/cq5bjh
 **Suu:** I'm sorry\.\.\. Ah, ah, I'm sorry\.\.\.\! Then, I'll begin now, if that's okay\.\.\.\!  
 **Akira:** Sure\.\.\. Whenever you're ready\. Just take it easy\.  
 **Akira:** (\.\.\.Is it my highlights that're no good\? The jacket\? What's the problem\.\.\. How I talk\?\)  
-**Akira:** (But I don't wanna change any of it\.\.\.\)  
+**Akira:** (But I don't wanna change any of it\.\.\.\) 
+
+## [Misogi - Akira: Start\]: New Recruit
+**Makoto:** I have something I'd like you to be in charge of, Akira-chan\. Please join this toji on an aradama suppression mission\.  
+**Akira:** Fine by me, but, who's this chick\? Don't think she's with us, is she\?  
+**Makoto:** President Maniwa introduced her to me the other day\.  
+**Makoto:** Her name is\.\.\. Nitta Hirona\. Her okatana is the Mizuguchi Rapier\.  
+**Makoto:** She's another victim of Origami Yukari\.  
+**Akira:** \.\.\.Hmm\. You're asking me to go cause you want me to test her\?  
+**Akira:** Think there's something sketchy with her\?  
+**Makoto:** I did an investigation, though nothing came up\.  
+**Makoto:** But\.\.\. I want to know, as a person, can we put our faith in her\. That's why I want you there\.  
+**Akira:** \.\.\.That's a big job\. Just leave her to me, Makocchan\.  
+**Akira:** (That's what I told her, but\.\.\.\)  
+**Hirona:** \.\.\.\.\.\.  
+**Akira:** (Ever since we met up, she's just been standing around staring at nothing\. Is she\.\.\. actually gonna be able to handle her own with aradama\?\)  
+**Hirona:** \.\.\.\? Is something wrong\?  
+**Akira:** You sure you're up for this\? Think you'll be able to take out some aradama\?  
+**Hirona:** I'll be fiine\.  
+**Hirona:** Though, strangely, I do get told a lot I should consider changing departments\.  
+**Akira:** Probably cause you getting hurt on their watch'd give them trouble sleeping at night\.  
+**Hirona:** Are you sure\? Every unit I was assigned to always had their results improved though\?  
+**Akira:** Did they really\? You sure they weren't fudging the numbers\?  
+**Hirona:** \.\.\.Fudging\?  
+**Akira:** I'm asking if you're just making shit up\!  
+**Akira:** (Seriously, for somebody who keeps blanking out, she's weirdly in your face\.\)  
+**Akira:** (But whatever, it's good she's not spooked by me\. Yeah, seems like she's got guts\.\)  
+**Hirona:** I confirmed where the aradama are\.  
+**Akira:** \.\.\.What do you wanna do\?  
+**Hirona:** A surprise attack would be efficient\.  
+**Akira:** (Didn't even hesitate\.\.\. That's good\.\)  
+**Akira:** Cool, let's go with that then\.  
+**Hirona:** Okaaay\.  
+**Akira:** (Alright, now show me how you handle yourself\.\)  
+
+## [Misogi - Akira: End\]: Nitta Hirona
+**Hirona:** YAH\!  
+**Aradama:** oooo\.\.\.  
+**Akira:** That Mizuguchi Rapier\.\.\. You sure can fight with that thing\.  
+**Hirona:** Everyone says that\. So\.\.\. the next one\!  
+**Akira:** (She's not bad\.\.\. maybe better than Yuuki\?\)  
+**Akira:** (Well, it's enough if she can do that much\. Yuuki could use a practice partner\.\)  
+**Akira:** (Though I'd love it if she were just a bit more capable\. But now's not really the time to be getting picky\.\)  
+**Aradama:** GAAAAAAAAAAAAAAAAAAAAAAAA\!  
+**Akira:** --\!\?  
+**Akira:** This one's\.\.\. Oi\! You can back off\! I'll take this one myself\!  
+**Hirona:** \.\.\.Inago-san, do you watch sports\?  
+**Akira:** The hell are you going on about now\!\?  
+**Hirona:** In baseball, they don't throw with the same strength at the top of the batting order as they do at the bottom\. In soccer, they don't run at full sprint the whole time\.  
+**Hirona:** I think they play keeping the effort required in mind\.  
+**Akira:** Oi\!\! Would you listen to me already--  
+**Hirona:**　And I think that can work for toji too\. Regulating effort depending on the opponent\.  
+**Hirona:** With all that in mind, if they're strong, I'll put in everything\.\.\.\!\!  
+**Aradama:** GUOHhh\.\.\.  
+**Akira:** Wha\!\? How the hell'd you move like that\!\? Were you holding that back this whole time\!\?  
+**Hirona:** You can call it regulating effort\. I was just weighing the cost and benefits\.  
+**Hirona:** Though\.\.\. It does sound slightly cool the way you said it\.  
+**Akira:** Hah-\! You're pretty damn funny\!  
+**Hirona:** Does this mean I passed your test\?  
+**Akira:** \.\.\.What makes you think that\?  
+**Hirona:** Someone as skilled as you paired with a beginner like me\. And also, the aradama we were assigned to defeat weren't strong enough to need someone like you here, Inago-san\.  
+**Hirona:** Which means there's some other reason for it, isn't there\? Otherwise there's no benefit to you being here\.  
+**Akira:** (She figured it all out, and that attitude\.\.\. Pretty good\! I'm starting to like her\!\)  
+**Akira:** Yeah, you passed\. No complaints from me\. We'd be glad to have ya, Hirona\!  
+**Hirona:** \.\.\.Please take care of mee\.  
 > :ToCPrevNext
