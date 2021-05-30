@@ -7,6 +7,7 @@ Setouchi Chie Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UMDuFWf-sOc"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/FpDzSMNFIXE"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/-FnEpWyIfT4"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/nafvx9qUreI"></iframe>](:Iframe)  
 
 ## 1: Effective Applications of the Resource Known as Nene
 In the research lab of Osafune Girls' Academy\.\.\.

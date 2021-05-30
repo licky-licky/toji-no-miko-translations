@@ -5,6 +5,7 @@ Musumi Kiyoka Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/6_yDBybZI3Y"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/H9uezyeVchU"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/F1HUf5KE_sc"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/Aopf8mCz-j8"></iframe>](:Iframe)  
 
 ## 1: I Have a Friend, Meow-
 **Mihono:** Oh yeah, so what's your friend like, Musumi-san\? You said you were close to someone at Heijou\.  
@@ -531,5 +532,101 @@ https://streamable.com/0sio32
 **Kiyoka:** That's not it\.\.\. Since Chie-san wasn't feeling well, I-I had to protect her\.\.\. When it was over, I felt so relieved\.\.\. The tears won't\.\.\.  
 **Mirja:** Musumi Kiyoka\. You've done an excellent job\.  
 **Mihono:** Thanks a bunch for keeping Chii-nee safe, Kiyoka\!  
+**Kiyoka:** \.\.\.Yeah\!  
+
+## [Heijou Jersey - Kiyoka: Start\]: Something That Needs to Be Done for the New Year
+**Kiyoka:** I think that was the last of the aradama\. \.\.\.Even though the year's almost over, we still have to do the same amount of missions\.  
+**Hiyori:** I wish they'd give it a rest this time of year, but they\.\.\. That kind of thing doesn't matter to aradama\.  
+**Kiyoka:** If only there'd be a little less\.\.\.  
+**Hiyori:** Have you not been able to go home and see your family in a while, Kiyoka\?  
+**Kiyoka:** Lately\.\.\. not so much\.  
+**Kiyoka:** But, and it depends on what comes up, but I think I'll be able to go back home for 2 or 3 days during New Year's\.  
+**Hiyori:** I'm sure your parents would be glad to see you\.  
+**Kiyoka:** What about you, Juujou-san\?  
+**Hiyori:** I got invited to spend New Year's Eve with Kanami, Kaoru, and the rest\.  
+**Hiyori:** We talked about going right after that to make our first shrine visit too\.  
+**Kiyoka:** Ah, we did too\. I promised Hono-chan we'd all go together\.  
+**Kiyoka:** We still aren't sure where we're going, but maybe to Hono-chan's home\.  
+**Hiyori:** Oh yeah, Mihono lives at a shrine, doesn't she\.  
+**Kiyoka:** I asked Hono-chan and she said she'd let me try on miko clothing, so I'm a little excited\.  
+**Hiyori:** Thinking about it, there's not a lot of days left, but I guess we both can't wait for New Year's\.  
+**Kiyoka:** \.\.\.\!  
+**Kiyoka:** You're right, but\.\.\. there's something I have to do before that\.\.\.  
+**Hiyori:** \? We didn't have much homework over winter break, did we\?  
+**Kiyoka:** It's cleaning season\.\.\.  
+**Kiyoka:** I still have to do a big cleanup of my dorm room\.\.\.\!  
+**Hiyori:** It's just cleaning your room; it won't be that big a deal\.  
+**Kiyoka:** I've been so busy lately, I haven't had time to tidy up\.\.\.  
+**Kiyoka:** I still do basic cleaning, of course, but\.\.\. I just can't seem to get around to it\.  
+**Hiyori:** Alright then\. If tomorrow works, do you want me to help you out\?  
+**Kiyoka:** Will you really\!\?  
+**Hiyori:** Sure\.  
+**Kiyoka:** Thanks a lot\! That would help so much\! I have the day off tomorrow too\.  
+**Hiyori:** Is it that bad that you have to grab my hands\.\.\.\?  
+**Hiyori:** (Could Kiyoka actually be bad at cleaning\.\.\.\?\)  
+**Kiyoka:** With that settled, when we get back to town, why don't we go eat something sweet to cheer ourselves up\?  
+**Hiyori:** I'm fine with that\.  
+**Kiyoka:** Great\~\!  
+**Hiyori:** You're just looking for a reason to go eat sweets, aren't you\?  
+**Kiyoka:** Actually, the other day, I found a shop that a lot of people are saying serves delicious fruit gratin\. I really wanted to try it, but it's hard to go there by myself\.  
+**Hiyori:** So that's why\. Then, no point in wasting time here\.  
+
+## [Heijou Jersey - Kiyoka: End\]: The Temptations That Sneak into Cleaning\!
+**Kiyoka:** Phew\.\.\. I think that's enough vacuuming to start\.  
+**Kiyoka:** I'm glad I finished before Juujou-san got here\.  
+**Kiyoka:** Even though she's coming to help, I have to do this much first\.\.\.  
+**Kiyoka:** Umm\.\.\. Okay, I have all the cleaning supplies\. And enough strings to tie up magazines\.  
+**Kiyoka:** I know\! Before we get started, I'll change into my jersey\.  
+**Hiyori's Voice:** Kiyoka\. I'm here to help out\.  
+**Kiyoka:** Ah, I'll get the door-\!  
+**Hiyori:** Just from looking around, it doesn't seem bad enough you needed somebody else's help\.  
+**Kiyoka:** For the end of the year cleaning, I just need to do things like the windows\.\.\. The big problem is sorting through all the books and magazines I subscribed to this year\.  
+**Kiyoka:** I can send the books I'm not going to be reading back home\. It's just hard to get through all by myself\.\.\. I really appreciate you being here, Juujou-san\.  
+**Hiyori:** \? If you're just deciding whether you need them or not, you don't need me, do you\?  
+**Kiyoka:** No no no\.\.\. I'll be in big trouble if you're not here\!  
+**Hiyori:** \.\.\.If you say so\?  
+**Kiyoka:** For now, let's change into our jerseys then get started\. I was just about to get changed myself\. I don't really like getting my uniform dirty when I'm not on a mission\.  
+**Hiyori:** That's a good idea\. Give me a minute\.  
+**Kiyoka:** Thanks for helping with cleaning the windows too\.  
+**Hiyori:** I'm good at helping with cleaning, so that's easy for me\. And it's over quick when there's two people\.  
+**Hiyori:** Anyway, what's that you've been reading\?  
+**Kiyoka:** It's the teens' fashion magazine I always buy\.\.\.  
+**Hiyori:** That says it's the April issue, doesn't it\.\.\.\?  
+**Kiyoka:** Uh, about that\.\.\. I remembered I bought the skirt the model on the cover is wearing\.\.\. and then I just started flipping through the pages\.  
+**Hiyori:** Weren't you going to pick out the books you're done reading to send home, and tie up the magazines for recycling\.\.\.\? Honestly\.  
+**Kiyoka:** You're right\.\.\. Even if I look back through them at times like these, I can't go holding onto them forever\.  
+**Kiyoka:** I really should throw them away every month when I buy a new one, but\.\.\.  
+**Kiyoka:** They come in handy for things like tips on how to coordinate, so it's hard to get rid of them\.  
+**Hiyori:** Let me see those\. I'll tie up the ones around here\.  
+**Kiyoka:** Please go ahead\. I knew this would happen, which is why I wanted you to come\.  
+**Hiyori:** Don't sound so proud about that\.  
+**Hiyori:** How's it going over there\?  
+**Kiyoka:** Take a look at this, on the corner of this page\! Isn't this knitted scarf so cute\? It looks so soft and fluffy\.  
+**Hiyori:** It'd probably look good on you\.  
+**Kiyoka:** And then, there's this too, I think this chic design would look great on you, Juujou-san\!  
+**Kiyoka:** Once the new year starts, we can make it our first shopping trip\.\.\. or maybe not\. But, we should go take a look together\. And we can invite some others too\.  
+**Hiyori:** Sounds good\. There's still plenty of time to use a scarf this season\.  
+**Hiyori:** Wait, forget that\.\.\. hand that over here too\.  
+**Kiyoka:** This one's this month's issue\.\.\. so I'm not done with it yet\.  
+**Hiyori:** Sigh\.\.\. Then, what should I be doing next\?  
+**Kiyoka:** The books stacked in front of the bookshelf are going home, so it'd help if you could put them in those cardboard boxes\.  
+**Kiyoka:** I'll look for other books I don't think I'll be reading\.  
+**Hiyori:** Got it\.  
+**Hiyori:** Still, even for paperbacks, there's a lot more than I was expecting\.  
+**Hiyori:** Nn\.\.\.\? This one\.\.\. Isn't this the sequel to the novel you let me borrow before\?  
+**Hiyori:** I guess I can take a quick break and take a look\.\.\.  
+**Kiyoka:** This book, I bought it and never got around to reading it\. I must have tucked it away here\.  
+**Kiyoka:** I'll just take a quick peek to see what it was about\.\.\.  
+**Hiyori:** Wha\.\.\. It ends like that\? Now I'm even more interested to see what happens next\.\.\.  
+**Kiyoka:** If you want the 3rd volume, I think it was over here\.\.\.  
+**Kiyoka:** Here you go\.  
+**Hiyori:** Sure\. Thanks for finding it\.  
+**Kiyoka/Hiyori:** \.\.\.\.\.\.  
+**Kiyoka:** \.\.\.It's been a couple hours and we haven't finished sorting anything\!\?  
+**Kiyoka:** I can't believe it\.\.\. Even Juujou-san got sucked in, when I called her so this wouldn't happen\.\.\.  
+**Hiyori:** Sorry, I couldn't help myself\.\.\. I couldn't put the book down\.  
+**Hiyori:** Let's hurry up and finish this\. It'll be night at this rate\.  
+**Kiyoka:** No more reading until after we're done\.\.\.  
+**Hiyori:** \.\.\.Yeah, we should be fine with enough self-control\. I know it\.  
 **Kiyoka:** \.\.\.Yeah\!  
 > :ToCPrevNext

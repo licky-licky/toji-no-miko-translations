@@ -3,6 +3,7 @@ Inago Akira Episodes
 ====================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/711imvBKFEk"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/aiA2svZtMos"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/juI5n1l2VOs"></iframe>](:Iframe)  
 
 ## 1: Not Like I Dislike It\!
 **Akira:** \.\.\.\.\.\.  
@@ -331,11 +332,6 @@ The day of the party\.
 **Sana:** If I were talking to Kaoru, she'd be glad hearing me say to slack off\. But I guess this is your answer\.  
 **Sana:** Well, enjoy yourself today\.  
 **Akira:** Yeah\. I'll take you up on that\.  
-(Very low quality video\)
-
-  
-https://streamable.com/cq5bjh
-
   
 
 ## [Pirate - Akira: Start\]:  We Can Enjoy the Perks Sometimes, Right\?

@@ -3,6 +3,8 @@ Hiiragi Kagari Episodes
 =======================
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/1TSJLghLiqQ"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/oPPNp9dWijk"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/R7NCcMzDlBg"></iframe>](:Iframe)  
+
 
 ## 1: Mamekan
 **Minato:** Yukari, is Kagari in here\?  
@@ -328,4 +330,69 @@ On Christmas\.
 **Kagari:** What's that supposed to mean\?  
 **Minato:** Well, it's all good\. Anyway, let's make sure to throw a Christmas party next year, Kagari\.  
 **Kagari:** I'd rather not be keeping you company again next year, Minato-senpai\.  
+
+## [Renpu High Gym Uniform - Kagari: Start\]: Picking Up Trash
+**Minato:** Volunteering\?  
+**Kagari:** That's right, Minato-senpai\. Please be there for the volunteer trash collecting this weekend\.  
+**Minato:** Uhh\.\.\.\.\.\. Sorry\! I'm actually supposed to do something with Ema this weekend\.  
+**Kagari:** Yes, I already know\.  
+**Minato:** \.\.\.Eh\?  
+**Kagari:** But, it's strange\. I'm sure I didn't see your name on the suppression request Ema-senpai and the others were handling\.\.\.  
+**Minato:** \.\.\.Urgh\.  
+**Yukari:** Give it up already, Minato\.  
+**Kagari:** Honestly\. You aren't a child, so please stop trying to fake your way out of whatever you find annoying\.  
+**Minato:** Ahaha, sorry, sorry\. So, who else is going to be there\?  
+**Yukari:** Yuzuki-senpai is off with the others dealing with a suppression request, so it's only you, Kagari, and I\.  
+**Kagari:** Please don't run away from it, Minato-senpai\.  
+**Minato:** Fiiine\.  
+That weekend\.
+
+  
+**Minato:** You think we could stop here\?  
+**Yukari:** It hasn't even been an hour since we started collecting trash, Minato\.  
+**Minato:** But I already filled up the trash bag they gave us\. So can't I just be done now\?  
+**Kagari:** You can't\.  
+**Kagari:** We still haven't finished walking the route they specified, so please give it a little more effort\.  
+**Minato:** Ehhh\.\.\.  
+**Kagari:** If you filled up your trash bag, you just have to go get another one\. That's no reason to stop here\.  
+**Minato:** Alright fine, I'll go get another trash bag\.  
+**Yukari:** Kagari\. Do you want to take a break until Minato comes back\?  
+**Kagari:** No, I'll collect up the trash\. It'll be more efficient that way when Minato-senpai gets back\.  
+**Kagari:** You should rest though, Yukari-sama\.  
+**Yukari:** \.\.\.  
+**Yukari:** Alright then\. Try not to push yourself too hard\.  
+**Kagari:** I won't\.  
+
+## [Renpu High Gym Uniform - Kagari: End\]: A Promise
+**Kagari:** Phew, I've picked up plenty of trash, but\.\.\. Minato-senpai still hasn't come back\.  
+**Kagari:** \.\.\.She's skipping out, isn't she\.  
+**Minato:** Heyyy, Kagari\!  
+**Yukari:** Sorry we made you wait\.  
+**Kagari:** Yukari-sama, Minato-senpai\.\.\.  
+**Kagari:** You were skipping, weren't you, Minato-senpai\?  
+**Minato:** Hey hey, don't call it that\. Anyway, come and check this out\!  
+**Kagari:** Ah, Minato-senpai\! My hands are dirty, so don't\.\.\.  
+**Minato:** You were working hard cleaning up trash, weren't you\? So don't worry about it\.  
+**Minato:** Come on, let's go\!  
+**Kagari:** Wait, but, where are we going to\?  
+**Yukari:** You'll just have to see when we get there\.  
+**Kagari:** Don't you play along with her too, Yukari-sama\!  
+**Minato:** Alright, we're here\!  
+**Kagari:** Ah\.\.\. The sakura petals\.\.\.  
+**Yukari:** They're pretty, aren't they\.  
+**Kagari:** \.\.\.They are\.  
+**Minato:** See, it's a really nice day today, isn't it\? I was looking around to see if there might be a good place to take a nap, when I found this\.  
+**Kagari:** A nap\? Didn't you leave so you could get another trash bag, Senpai\?  
+**Minato:** Urgh\.\.\. Help me out here, Yukari\!  
+**Yukari:** Not going to\. Sometimes, you deserve to get yelled at\.  
+**Minato:** You traitor\!  
+**Kagari:** Let's get back to volunteering\.  
+**Minato:** Ehh-\!\? But, look how pretty the sakura petals are\!  
+**Kagari:** \.\.\.We can come back to see them when everyone is here\.  
+**Yukari:** \.\.\.  
+**Yukari:** Sure, that sounds nice\. Right, Minato\?  
+**Minato:** \.\.\.Yeah, it'll be more fun with everybody making some noise\.  
+**Kagari:** Ah, but since Minato-senpai didn't take collecting trash seriously, she's not allowed to come to the flower viewing\.  
+**Minato:** Ehh-\!\? Don't be like that\! I'll start taking it seriously\!  
+**Kagari:**　I don't care\.  
 > :ToCPrevNext

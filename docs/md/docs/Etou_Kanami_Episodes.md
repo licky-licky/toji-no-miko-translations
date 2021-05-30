@@ -16,6 +16,7 @@ Etou Kanami Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/_0ke0wRCknw"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/m5rpY-umfYk"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/OLDABiUza-Q"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/x1YZN5rulVI"></iframe>](:Iframe)  
 
 ## 1: The Match That Started It
 **Kanami:** Mihono-chan's my opponent in the semi-finals\?  

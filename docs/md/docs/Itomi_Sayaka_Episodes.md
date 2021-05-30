@@ -6,6 +6,7 @@ Itomi Sayaka Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/7xz_k03cXQA"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/UdyV4xZkk2E"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/HT3YdcAAc3c"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/3onVkXoPxgw"></iframe>](:Iframe)  
 
 ## 1: Naptime
 **Kofuki:** Oiii-\! Aradama-chan-\! Don't be shy-\! C'mon out and play already-\!  
@@ -506,4 +507,75 @@ The apprentice nun visited the ruined mansion to search for the black cat in que
 **Sanae:** Then, should we get right to having lunch\? I'm a little excited to see the catering\.  
 **Sayaka:** Mm, I feel hungry too\. It's smelled good for a while here\.  
 **Mirja:** Fufu, you're right about that\. Let's go see what they have then\.  
+
+## [Valentines '21 - Sayaka: Start\]: Disconcerting Chocolates
+**Sayaka:** I want to make chocolates\.  
+**Kofuki:** \.\.\.Chocolates\? Did you bump your head or something\? Why bring that up here of all places\?  
+**Tsugumi:** Shichinosato-san might not have any interest in these things, but for the rest of the world, it is Valentines season\.  
+**Kofuki:** Yeah, I know\! What I mean is, why'd she come to you of all people for advice\! Okay\!\?  
+**Sayaka:** I want to give back to Mai\. She's always giving them to me\.  
+**Kofuki:** Oh yeah, she's got you hand fed now\.  
+**Kofuki:** But still, I get that, but why'd you come to us\?  
+**Sayaka:** I didn't mean you, Kofuki\. I wanted Tsugumi\. I heard that Tsugumi can cook\.  
+**Kofuki:** Are you sure\? The stuff she makes, it's\.\.\. like that, alright\?  
+**Tsugumi:** Don't worry, Shichinosato-san\. Even I know to mind the TPO\.	[Time, place, and occasion\]  
+**Kofuki:** Do you\.\.\.\?  
+**Tsugumi:** I'll help you, Itomi-san\. Let's give it our best attempt\.  
+**Sayaka:** I'll be in your care\.  
+**Kofuki:** \.\.\.Guess if that's how it's going to be\.  
+**Kofuki:** Oi\! I'm helping out too\! Don't go starting this on your own\!  
+**Tsugumi:** First, we need to gather ingredients\.  
+**Sayaka:** Okay\.  
+**Tsugumi:** Now, I'll stop by the fresh fish corner\.\.\.  
+**Kofuki:** You're not going anywhere near there\!  
+**Mai:** Sayaka-chan, you're with Shichinosato-san and Tsugumi-san\? That's a bit of an odd combination\.\.\. or maybe not\? You're all Renpu toji, after all\. Were you out shopping\?  
+**Sayaka:** We were going--  
+**Kofuki:** Yeah we were\. Just helping with this one's research\. Right\?  
+**Tsugumi:** Yes, that's how it is\.  
+**Mai:** Is that why\? Do your best with them, Sayaka-chan\.  
+**Sayaka:** \.\.\.Mm\.  
+**Sayaka:** Kofuki, why did you do that\?  
+**Kofuki:** Why'd I make something up\? Cause, you don't want Mai to know till you give it to her, right\?  
+**Tsugumi:** Hmm\.\.\.\?  
+**Kofuki:** What's that look for\! Before, Kiyoka kept going on about how girls need surprises or whatever, and I just remembered it is all\!\!  
+**Sayaka:** \.\.\.Thank you, Kofuki\.  
+**Kofuki:** So make some good chocolate and give her a surprise\.  
+**Sayaka:** Mm\.  
+
+## [Valentines '21 - Sayaka: End\]: Normal Chocolates
+**Tsugumi:** It should be fine now\. Test chocolate #1 is complete\.  
+**Sayaka:** It's ready\.\.\.  
+**Kofuki:** Hmm, it looks okay at least\.  
+**Sayaka:** I tried my best for Mai, since she works hard every day\.  
+**Tsugumi:** Now for the taste testing\. \.\.\.[chew chew\]\. Mm, it turned out well\.  
+**Sayaka:** Really\?  
+**Tsugumi:** Yes, you could proudly serve this anywhere\.\.\.  
+**Kofuki:** I guess I'll give it a taste too then\.\.\.  
+**Tsugumi:** With its nutritional value\.  
+**Kofuki:** Pffpphhtt\!\? This tastes like shit\!\!\!\!\!\!\!\!\!\!\!  
+**Tsugumi:** Shichinosato-san\.\.\. That's disgusting\.  
+**Kofuki:** Hey, I didn't do anything wrong here\! What the hell happened to TPO; remember TPO\!\?  
+**Tsugumi:** You see-, Itomi-san told me she wanted to make it nutritious-\. So yes, I provided some nutritional ingredients from my own private stockpile\.  
+**Sayaka:** It would be great for Mai if she's tired\.  
+**Kofuki:** \.\.\.Sigh\.  
+**Kofuki:** Oi, Sayaka\. What're Mai's cookies like\?  
+**Sayaka:** Mai's cookies are normal cookies\. But, they're really tasty\.  
+**Kofuki:** Right\? So, quit thinking about nutrition and all that crap and make some normal tasty chocolates too\.  
+**Sayaka:** But\.\.\.  
+**Kofuki:** No buts\. She's absolutely gonna be way happier if you give her that instead of something weird\.  
+**Sayaka:** It'll make Mai happy\.\.\. Okay, I'll make normal chocolates\.  
+**Tsugumi:** I think that would be a good idea too\. They say that cooking comes down to love, after all\.  
+**Kofuki:** \.\.\.You can just stop talking\.  
+Valentines Day\.
+
+  
+**Mai:** Ah, Sayaka-chan\! Here you go; I made you Valentines chocolates\.  
+**Sayaka:** Thank you, Mai\.  
+**Sayaka:** \.\.\.I made some too\.  
+**Mai:** Eh\? Sayaka-chan, you made your own chocolates for me\.\.\.\?  
+**Sayaka:** Mm\. Tsugumi and Kofuki helped me, and I tried my best\.  
+**Sayaka:** I tried tasting it lots of times\. I made sure it was normally tasty chocolate\.\.\. I think\. Do you want to try it\?  
+**Mai:** Thank you, Sayaka-chan\.  
+**Mai:** I'd be glad to have a bite\.\.\. Mmm, it's so good\!  
+**Sayaka:** I'm happy\.\.\. Thank you for always helping me, Mai\.  
 > :ToCPrevNext

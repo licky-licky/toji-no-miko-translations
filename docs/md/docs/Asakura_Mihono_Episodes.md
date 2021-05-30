@@ -8,6 +8,7 @@ Asakura Mihono Episodes
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/fhciZ41akJA"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/75s9LlmOAs4"></iframe>](:Iframe)  
 [<iframe width="640" height="480" src="https://www.youtube.com/embed/WS6-7vX7rqk"></iframe>](:Iframe)  
+[<iframe width="640" height="480" src="https://www.youtube.com/embed/scFTajVxIKg"></iframe>](:Iframe)  
 
 ## 1: Asakura Mihono's Easygoing Day
 **Mihono:** Yawwwn\.\.\. Eh\!\? Crap\! I'm gonna be late\!  
