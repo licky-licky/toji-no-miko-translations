@@ -39,7 +39,7 @@ def part_titles(x):
         '3': 'Part 3: Turmoil',
         '4': 'Part 4: Bonds',
         '5': 'Part 5: Fog at First Light',
-        '6': 'Part 6: Breaking'
+        '6': 'Part 6: Beacon'
     }.get(x, 'Part')  
 
 def get_events():

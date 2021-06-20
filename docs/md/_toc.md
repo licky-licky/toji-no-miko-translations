@@ -66,7 +66,7 @@
 > > [5-8.3 One With the Flame](/docs/5-8.3_One_With_the_Flame)
 > > [5-8.4 One With the Flame](/docs/5-8.4_One_With_the_Flame)
 >
-> > :Collapse label=Part 6: Breaking
+> > :Collapse label=Part 6: Beacon
 > >
 > > [6-1 The Morning Fog Clears](/docs/6-1_The_Morning_Fog_Clears)
 
