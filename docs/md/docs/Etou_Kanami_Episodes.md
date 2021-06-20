@@ -1237,4 +1237,111 @@ Having separated herself from everyone, Kanami was now--
 **Kanami:** And then, 10,000 practice swings\.\.\.  
 **Hiyori:** Found you\. \.\.\.Seeing you still just swordfighting even out here; in a way, it's actually a relief\.  
 **Kanami:** \.\.\.Hiyori-chan\!  
+
+# Joint Raid Event #14
+
+## 1: Prologue: The Illusory Aradama
+**Mihono:**　A strange acting\.\.\. aradama\?  
+**Mirja:** Yes\. An aradama that causes people to see visions\.\.\. There's been reports of a fair number of toji coming in contact with it\.  
+**Yui:** Visions\? Like what happens in manga, where they're like, \"Where are you aiming; that's an illusion\!\"  
+**Yui:** \.\.\.Or something\.  
+**Kiyoka:** (I don't think they'd call that visions though\.\.\. It's probably more like\.\.\.\)  
+**Mai:** They say it shows you the future\.  
+**Sayaka:** The future\?   
+**Ellen:** Like seeing yourself even better at swordfighting than you are now, or seeing yourself caught in a tough situation\.\.\.  
+**Ellen:** That's apparently why they keep saying, \"I saw my future\!\"  
+**Kanami:** Huh, so there's aradama like that out there\. That actually sounds kinda fun\.  
+**Yume:** I wanna try seeing those visions once\.  
+**Maki:** This isn't all fun and games\.  
+**Maki:** Things are alright for now, since none of the toji have been directly hurt yet, but\.\.\. we have no idea what that aradama is trying to do\.  
+**Maki:** We need to suppress it as fast as possible\.  
+**Suzuka:** That's right\. Which is why so many toji have been gathered to find it, us included\.  
+**Yomi:** Everyone, I've located the aradama\. The nearest unit is\.\.\.  
+**Illusory Aradama:** \.\.\.  
+**Hiyori:** So it showed up for us\! We're going to start suppressing it\!  
+**Kaoru:** \.\.\.Wait, it's gone\?  
+**Hiyori:** There's a good chance it's still around here\. Let's search for\.\.\. Nn\? Where's Kanami\?  
+**Illusory Aradama:** \.\.\.  
+**Suruga:** You brought yet another in\? It's impressive how you never tire of this\.  
+**Illusory Aradama:** \.\.\.  
+**Suruga:** You do understand\? What you show them are no more than illusions\.  
+**Suruga:** However many illusions you show, it will bring you no closer to your objective\.  
+**Illusory Aradama:** \.\.\.  
+**Suruga:** Hmph\. You shouldn't waste the effort; simply kill them\. It would be better for you\.  
+**Illusory Aradama:** \.\.\.  
+
+## 2: Kanami's Disappearance
+**Mihono:** Hey, Mai\. Did Kanami\.\.\. message you or anything\?  
+**Mai:** She didn't\.\.\. I haven't heard anything today either\.  
+**Mihono:** She's already been gone for a week, hasn't she\!\? Aghh, what if she got in an accident or something\.\.\.  
+**Hiyori:** If she had, we'd have heard about it from the bureau\.  
+**Mihono:** But then\.\.\. did Kanami really run off somewhere by herself\?  
+**Mai:** I think\.\.\. that's pretty likely\.  
+**Mai:** Actually, it seems like there was some kind of proposal from people in the government to monitor and put restrictions on Kanami-chan\.  
+**Mihono:** No way\!\? Why though\!\?  
+**Hiyori:** Because of her strength\.\.\. isn't that it\?  
+**Mai:** They gave up on it after Akane-sama and the others pushed back, but there's still plenty who think she could be dangerous\.\.\.  
+**Mihono:** But, that's all messed up\. Sure, lately Kanami's been really strong, and she totally outplays me a lot, but\.\.\.  
+**Mihono:** Still, Kanami's been protecting everybody this whole time, so I know she's not dangerous or anything for anybody\.  
+**Mai:** That's true\. I feel the same way\. But, if someone has powers\.\.\. the kind of strength they don't understand, there's people who would feel afraid of that\.  
+**Mai:** And that's why, Kanami-chan might have\.\.\.  
+**Hiyori:** She does tend to pick up on things pretty well\. So, what happened is\.\.\. she didn't want to cause trouble for the rest of us, so she ran away\?  
+**Mihono:** \.\.\.Kanami\.  
+**Hiyori:** Are you kidding me\.\.\.\! You're just going to disappear like that\!\?  
+**Hiyori:** \.\.\.\.\.\.  
+**Hiyori:** (Today\.\.\. what Mai said is probably right\. I heard something similar from President Gojou and Origami Yukari\.\)  
+**Hiyori:** (But\.\.\. I get the feeling there's more to it, something else that made Kanami leave\.\)  
+**Hiyori:** I'm going to find you and bring you back, Kanami\.  
+**Hiyori:** (I won't leave you all on your own\.\.\. So, there's something I have to do here\.\)  
+**Hiyori:** \.\.\.HAAHH\!  
+**Kaoru:** You sure are pushing yourself\.  
+**Kaoru:** Couldn't you at least take a break when you come out here on an expedition\?  
+**Kaoru:** Knowing you, you've probably been at this every single day the last half a year she's been gone\.  
+**Hiyori:** I make sure to take breaks\. It's not going to be an issue\.  
+**Kaoru:** I guess I'll take your word for it\. Though, it's pretty important, finding time to relax-\. Here, take this\.  
+**Hiyori:** This brand of chocomint ice cream; they just started making it\. That's actually thoughtful of you\.  
+**Kaoru:** Right\? By the way, did you hear from Mihono and Mai\? Seems like they ran into Kanami\.  
+**Hiyori:** They told me\. She came to help when they were struggling with an aradama going wild\.  
+**Kaoru:** But then she tried to bail right away, and even though they chased after, there was no way they could keep up\.  
+**Kaoru:** Just when it's been forever since they saw her, she goes and ditches them again; she's a real pain in the ass, isn't she\?  
+**Hiyori:** Must have been\.\.\. her jin'i\. And she's got to be able to go very deep with it by now\.  
+**Kaoru:** Well, that's how she is, Hiyori\. You've gotta take care of her for us\.  
+**Kaoru:** Anyway, I'm going to bed\. Don't go staying up too late, alright-\.  
+**Hiyori:** \.\.\.Sure\.  
+**Hiyori:** (I have this feeling\.\.\. If I can cross okatana with her, I'll understand what's going through Kanami's head\.\)  
+**Hiyori:** (I'm sure I'll get this across too\. How badly I-- How much everyone wants you back with them\.\)  
+**Hiyori:** (And when I beat you, I'm dragging you right back here\.\)  
+
+## 3: Even if You Reach Even Greater Heights
+**Hiyori:** I see\. So you're saying, on the mountain up ahead, whenever people encounter aradama, they disappear right after\.  
+**Local Resident:** Well, it's been happening for about a year now I think\. We thought maybe it was a toji helping us, but we never saw sight of one\.  
+**Local Resident:** It's happened so many times now that folks are saying there might really be a god of the mountain up there\.  
+**Hiyori:** Thanks a lot for telling me all this\. I'll try looking into it\.  
+**Hiyori:** (Exorcising aradama in an instant and never letting anyone see her; who else would be pulling that off\?\)  
+**Hiyori:** Just a little longer, Kanami\.  
+**Hiyori:** Found you\. \.\.\.Seeing you still just swordfighting even out here; in a way, it's actually a relief\.  
+**Hiyori:** (Kanami\.\.\. It's been a while since I saw her, but she definitely feels different from before\. Like there's an air of purity to her\.\)  
+**Kanami:** Hiyori-chan\.\.\.\!  
+**Hiyori:** (Though even with that, she's still Kanami\.\)  
+**Hiyori:** You're going to be coming back with me\.  
+**Kanami:** So that's why\. Alright then\.  
+**Hiyori:** Let's go\!  
+**Kanami:** Hahh\~\.\.\. You really are strong, Hiyori-chan\.\.\. It's sorta hard dealing that \"hitotsu no tachi\" of yours\.  
+**Hiyori:** Does that mean you're admitting I beat you\?  
+**Kanami:** Hmm\. Sure, you beat me this time\. You're even faster than I was imagining you'd be\!  
+**Hiyori:** Well, I spent as much time as I could to show you just how strong I can be\.  
+**Hiyori:** (Though, I don't know how serious Kanami was about our fight just now\.\.\.\)  
+**Hiyori:** (The way she's gotten, if she used kongoushin or went all out with jin'i, could she have defended against me\?\)  
+**Kanami:** Hehe, that makes me kinda happy\.\.\.  
+**Hiyori:** \"Kinda happy\"-- That's all you have to say\? Honestly\.\.\. Don't go running off to be all alone again, you idiot\.  
+**Kanami:** Mm, thanks\.  
+**Hiyori:** If I said all the things I wanted to, we'd be here all day\. We're going home\. Everyone's waiting\.  
+**Kanami:** I think this is the first time took me by the hand like this, isn't it\?  
+**Hiyori:** There's no way that's true\. Probably\.  
+**Kanami:** That day when we first fought each other, back at the tournament\. I was the one who grabbed your hand and we ran away together\. Now it's totally the other way around\.  
+**Hiyori:** And just like back then, I'm still always the one getting swept up in whatever you do\.  
+**Kanami:** Hey, Hiyori-chan\. I don't think\.\.\. I'll ever be able to give up on training with the sword\.  
+**Hiyori:** What's wrong with that\? I couldn't imagine you giving up swordfighting anyway\.  
+**Hiyori:** And besides, it's not like I'm planning on giving up training anytime soon either\.  
+**Kanami:** \.\.\.Yeah\! Let's spar again then\!  
 > :ToCPrevNext

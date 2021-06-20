@@ -65,6 +65,10 @@
 > > [5-8.2 One With the Flame](/docs/5-8.2_One_With_the_Flame)
 > > [5-8.3 One With the Flame](/docs/5-8.3_One_With_the_Flame)
 > > [5-8.4 One With the Flame](/docs/5-8.4_One_With_the_Flame)
+>
+> > :Collapse label=Part 6: Breaking
+> >
+> > [6-1 The Morning Fog Clears](/docs/6-1_The_Morning_Fog_Clears)
 
 > :Collapse label=Episodes
 > 
@@ -170,6 +174,8 @@
 > [Happy New Year! The Tojis' New Year's and Prayers [past]](/docs/Happy_New_Year!_The_Tojis'_New_Year's_and_Prayers_[past])
 > [Star Ocean -Encounter With the Toji-](/docs/Star_Ocean_-Encounter_With_the_Toji-)
 > [Yume's Homecoming](/docs/Yume's_Homecoming)
+> [Heart-Pounding and Exciting!? TojiTomo Police Mission](/docs/Tojitomo_Police_Duty.md)
+> [Let's Vacation! A Tropical Resort Festival!](/docs/Let's_Vacation!_A_Tropical_Resort_Festival!.md)
 > [Chain Story Archives Part 0.5.1](/docs/Chain_Story_Archives_Part_0.5.1)
 
 [Other Translations](/other)

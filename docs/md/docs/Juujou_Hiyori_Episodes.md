@@ -733,4 +733,141 @@ Juujou Hiyori Episodes
 **Suspect:** Uuuu\.\.\. I won't\. I'm really sorry\.  
 **Hiyori:** (I never expected it to go so smoothly, but all's well that ends well\.\)  
 **Hiyori:** (I'll just keep quiet about how her katsudon turned into natto because of budget reasons\.\)  
+
+## [Another - Hiyori: Start\]: I Want It to Be Me
+Several days after Etou Kanami disappeared\.
+
+  
+**Hiyori:** YAAAAAAAAAAAAH\!\!  
+**Ellen:** Uwah\!\?  
+**Kaoru:** Gh\.\.\.\!  
+**Hiyori:** Is that the best both of you have got\!\?  
+**Kaoru:** Is that how you want to play this\.\.\. Don't blame us if you get hurt then\!  
+**Ellen:** You'd better be ready, Hiyoyon\!  
+**Sanae:** She's really intense about this\.\.\.  
+**Sanae:** (Seeing her like that\.\.\. It's like Juujou-san's back to when I first met her\.\)  
+**Sayaka:** I think Hiyori feels like that's not enough\.  
+**Sanae:** Even though they're fighting so fiercely\?  
+**Mai:** Kanami-chan can copy the schools of swordfighting of people she's faced against\.  
+**Sanae:** She copies them\.\.\. so it's like fighting against multiple toji at once\.\.\.\?  
+**Mai:** That's right\.  
+**Sanae:** So, in order to beat Etou-san, she'd need more than just the thunder god's power, she'd have to have the skill to fight multiple schools at the same time\?  
+**Sanae:** And that's why Juujou-san's fighting them all at once\.\.\.  
+**Mai:** I'm not sure if doing it this way will actually get her her powers back\. Still\.\.\. this training won't be for nothing though\.\.\.  
+**Sanae:** Juujou-san really is incredible, isn't she\. Wait, what are you making that face for\?  
+**Mai:** \.\.\.Even still, this training is just too much\. It's only a matter of time before she hurts herself\.  
+**Sanae:** \.\.\.I know\.  
+**Hiyori:** Next, come on\!\!  
+**Kaoru:** \.\.\.Oi, don't you think you should be taking a break\?  
+**Ellen:** She's right, Hiyoyon\. You're going to get yourself hurt before you manage to get your powers back\.  
+**Hiyori:** [pant pant\]\.\.\. I'll be fine\.  
+**Sayaka:** What should we do, Mai\?  
+**Mai:** Let's take a little break, okay, Hiyori-chan\?  
+**Sanae:** (\.\.\.Juujou-san when I first met her, she would never take breaks\.\.\.\)  
+**Sanae:** In that case, let me fight you\.  
+**Hiyori:** Thanks, Iwakura-san\.  
+**Mai:** \.\.\.Are you sure about this, Iwakura-san\? If she keeps wearing away at herself like this, her body's going to give out first\.\.\.  
+**Sanae:** \.\.\.Etou-san is someone special to Juujou-san\. So I'm sure, no matter what anyone says, she won't stop\.  
+**Mai:** \.\.\.  
+**Sanae:** Here I come\!\!  
+**Hiyori:** Bring it on then\!\!  
+**Hiyori:** Mihono, there's something I want to ask you\. Could you face off sparring with me\?  
+**Mihono:** Sure, I'll do it\!  
+**Hiyori:** \.\.\.You're not going to ask why\?  
+**Mihono:** I can tell even if I don't ask\. It has to do with Kanami running away, right\?  
+**Hiyori:** \.\.\.It does\.  
+**Hiyori:** I want to get back the power of the thunder god\. That's why, I thought it'd be best if I came to you, since you became an evil god once, like I did\.  
+**Mihono:** Okay; I don't know how much I'll be able to help out, but I'll try\!  
+**Hiyori:** Kgh, one more time\!  
+**Mihono:** Nah, we should pause here\! Let's take a break\.  
+**Hiyori:** Mihono, we don't have time for\.\.\.  
+**Mihono:** You can't rush yourself, Juujou-san\. You have to make sure to rest too\.  
+**Hiyori:** Still\.\.\.  
+**Mihono:** It'll be fine\. I mean, there's a whole bunch of people looking for Kanami\.  
+**Mihono:** So for what we can do, we've gotta make sure we do it right\.  
+**Hiyori:** \.\.\.  
+**Hiyori:** I never thought I'd see the day Mihono turns logic on me\. But\.\.\. yeah, maybe you're right\.  
+**Mihono:** Yeah, see\!  
+**Mihono:** If we all try convincing her, I know Kanami'll come back\!  
+**Hiyori:** No, that's not going to work\.  
+**Mihono:** Eh\?  
+**Hiyori:** Kanami's getting too strong\. That's why she left us\.  
+**Hiyori:** Sure, if we talked to her, maybe she would come back\. But\.\.\. it wouldn't change anything\.  
+**Hiyori:** Kanami needs a toji on her own level, someone as strong as her, to tell her she's not alone\.  
+**Mihono:** \.\.\.Maybe, yeah\.  
+**Mihono:** So you want to be that person, Juujou-san\?  
+**Hiyori:** Yeah; I don't think it can be anyone but me\.  
+**Hiyori:** Besides, if I couldn't do anything to Kanami, how frustrating would that be\?  
+**Mihono:** \.\.\.I know what you mean\.  
+**Mihono:** Breaktime's over\! Let's get back to it\!  
+**Hiyori:** Sure\!  
+
+## [Another - Hiyori: End\]: Surpass This Feeling
+**Hiyori:** YAAAAAAAAAAAAAAAAHH\!\!  
+**Mihono:** --\!\!  
+**Mihono:** (Juujou-san's really passionate about this\.\)  
+**Mihono:** (But\.\.\. it's not like I don't want Kanami back either\. I want to be able to help both Kanami and Juujou-san\!\)  
+**Mihono:** Ah\.\.\.  
+**Hiyori:** Mihono, that glow\.\.\.  
+**Mihono:** Looks like Kanayamahime's giving me her strength\.  
+**Mihono:** Get your okatana ready, Juujou-san\.\.\. Here I come\!  
+**Hiyori:** \.\.\.\!  
+**Hiyori:** Gh--\!  
+**Hiyori:** (She's strong\.\.\. It takes everything I've got just keeping up with her\.\.\. This is what Mihono's like when she's using Kanayamahime's power\.\.\.\)  
+**Hiyori:** (\.\.\.\)  
+**Hiyori:** (With Mihono like this, I'm sure Kanami would\.\.\.\)  
+**Hiyori:** \.\.\.I guess that's enough\.  
+**Mihono:** Huh\?  
+**Hiyori:** If you're this strong, you can get through to Kanami\. You could convince her, Mihono\.\.\.  
+**Mihono:** We can't do that\!\!  
+**Hiyori:** But\.\.\.  
+**Mihono:** I don't think I'll be able to use Kanayamahime's power any more than right here, right now\.  
+**Mihono:** Kanayamahime's backing me up because of how much I want to help you, Juujou-san\.  
+**Mihono:** That's why\.\.\. You have to do better than me\!\!  
+**Hiyori:** \.\.\.It shook my confidence, getting overtaken by you\.  
+**Hiyori:** But, you're not the one that gets to stand with Kanami\.\.\. THAT'S MY PLACE\!  
+**Mihono:** Yeah\! That's how it's gotta be, Juujou-san\!  
+**Hiyori:** Come on\!\!  
+**Mihono:** Here goes, Juujou-san\!  
+**Hiyori:** Just now, that was\.\.\.  
+**Mihono:** Mihono: Here goes, Juujou-san\!  
+**Hiyori:** I can see it, Mihono\!\!  
+**Mihono:** --\!\?  
+**Hiyori:** YAAAAAAAAAAAAAAAAHH\!\!  
+**Mihono:** You got your powers back, huh\.  
+**Hiyori:** Because of you, Mihono\. Thanks\.  
+**Mihono:** I'm glad I could do something to help you\! \.\.\.You have to bring Kanami back, okay\.  
+**Hiyori:** Yeah, just leave her to me\.  
+**Hiyori:** Alright, I'm going now\.  
+**Sanae:** Are you really going to go by yourself\?  
+**Hiyori:** Yeah\.  
+**Sayaka:** \.\.\.\.\.\.  
+**Sayaka:** Hiyori\! I want to go with you after all\.  
+**Hiyori:** Sorry, but no\.  
+**Sayaka:** \.\.\.  
+**Kaoru:** Just bear with it\. Hiyori's the only one who can take on Kanami\. If we were there, we'd be in their way\.  
+**Sayaka:** \.\.\.I don't like this\.  
+**Kaoru:** It's not like I do\.  
+**Mai:** We might not be able to go with her, but we can give her our support\.  
+**Ellen:** Feel free to call us for anything\! We all feel the same as you do, Hiyoyon\!  
+**Hiyori:** Sure, I'll keep it in mind\.  
+**Sanae:** If we hear anything, we'll let you know right away\. \.\.\.Have a safe trip\.  
+**Hiyori:** I'll be going then\!  
+A few weeks later\.
+
+  
+**Aradama:** \.\.\.  
+**Hiyori:** That's it\?  
+**Woman:** Thank you, you've saved us\!  
+**Hiyori:** No, this much was nothing\.  
+**Woman:** You're awfully strong, aren't you\. Almost like that tengu they keep talking about\!  
+**Hiyori:** Tengu\?  
+**Woman:** Right\! There's this rumor lately, whenever an aradama appears, the tengu comes from nowhere to take care of them\!  
+**Woman:** Let me find it\.\.\. Ah, here it is\! Here's a picture someone uploaded\!  
+**Hiyori:** \.\.\.Looks like I'll finally get to see you\.  
+**Woman:** Eh\?  
+**Hiyori:** Nothing; thanks\. I've finally found what I'm looking for\.  
+**Hiyori:** Just up ahead\.\.\.  
+**Hiyori:** \.\.\.Wait for me, Kanami\.  
+**Hiyori:** I'll be there with you soon\. And then\.\.\. I'm going to beat you\.  
 > :ToCPrevNext
