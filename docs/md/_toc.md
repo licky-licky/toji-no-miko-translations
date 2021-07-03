@@ -69,6 +69,7 @@
 > > :Collapse label=Part 6: Beacon
 > >
 > > [6-1 The Morning Fog Clears](/docs/6-1_The_Morning_Fog_Clears)
+> > [6-2 Live Fire](/docs/6-2_Live_Fire)
 
 > :Collapse label=Episodes
 > 
