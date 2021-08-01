@@ -6,12 +6,12 @@ module.exports = {
   title: 'Toji no Miko: Kizamishi Issen no Tomoshibi translations',
   tagline: 'Play Mihono\'s game!',
   url: 'https://swordpolishing.github.io/',
-  baseUrl: '/test/',
+  baseUrl: '/tnm-translations/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/fav.ico',
   organizationName: 'swordpolishing', // Usually your GitHub org/user name.
-  projectName: 'test', // Usually your repo name.
+  projectName: 'tnm-translations', // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
     navbar: {
