@@ -1,0 +1,143 @@
+
+5-8.1 One With the Flame
+========================
+
+## 1: To Save Mihono (1\)
+**Mihono:** \.\.\.\.\.\.
+**Chie:** We finally found her\.\.\.
+**Chie:** Mihono-chan\!\!
+**Mihono:** \.\.\.\.\.\.
+**Kiyoka:** Is that Kanayamahime\.\.\.?
+**Chie:** When it happened to you, Juujou-san, you were still conscious, weren't you\!? So what's going on with Mihono-chan\!?
+**Hiyori:** \.\.\.This is different from what I went through\. Probably closer to what happened with Tagitsuhime and Origami Yukari\.
+**Hiyori:** Mihono's consciousness should be trapped up by Kanayamahime\.\.\.
+**Mihono:** \.\.\.\.\.\.
+**Hiyori:** But I don't see Kanayamahime in there either\.\.\.
+**Kanami:** Then we'll just have to feel her out sword to sword\.
+**Kanami:** Give me a response, Kanayamahime\!
+
+## 2: To Save Mihono (2\)
+**Mihono:** AAAAAAAAAAAGGGHHHHHH\!\!
+**Hiyori:** Kanami\.
+**Kanami:** \.\.\.Yeah\. That footwork just now was Shingyoto-ryu\. But\.\.\.
+**Mihono:** GAAAAAAAAHHHHH\!\!
+**Kanami:** I'm not feeling anything from her swordfighting\.\.\.
+**Mai:** You mean, her body is just moving from memory\.\.\.?
+**Kofuki:** Oi oi\.\.\. I've gone up against Mihocchi when she's serious a couple times, but this's on another level\.
+**Mihono:** AAAAAAAAAAGGHHHH\!\!
+**Hiyori:** \.\.\.\! If she got the name -hime, Kanayamahime has to be past a certain level of intelligence\.
+**Kiyoka:** But it doesn't seem like we can get through to her if she just keeps acting wild\!
+**Yui:** So then, is Kanayamahime even fully awake\.\.\.? Or am I being too optimistic?
+**Ellen:** We came here riding on a one in a million hope\. That's plenty for us\!
+**Nene:** Nene\!
+**Kaoru:** Oi, don't go out there\! You're gonna get hurt\!
+**Kaoru:** Seriously\.\.\. So, what's the plan?
+**Kanami:** If Kanayamahime hasn't fully woken up, couldn't we get Mihono-chan conscious again?
+**Chie:** Could we still do that\!?
+**Hiyori:** It's possible\.
+**Hiyori:** But that'll depend on whether Mihono has the willpower left to fight off Kanayamahime\.\.\.
+**Chie:** \.\.\.Mihono-chan wouldn't ever give up\.
+**Chie:** If there's a chance, I'll do anything\! What do you need from me?
+**Hiyori:** All you can do is keep calling out to her while we wear down Kanayamahime's strength\.
+**Hana:** And if Kanayamahime wakes all the way up, then what?
+**Hiyori:** \.\.\.If that happens\.\.\. We just have to try talking Kanayamahime down\.
+**Kaoru:** So what, we ask her to give Mihono back? Let's hope she's the understanding type\.
+**Ellen:** Don't be like that, Kaoru\. If we want to save Mihomiho, all we can do is give this a shot\!
+
+## 3: I'll Save Her (1\)
+**Mihono:** GAAAAAAGGHHH\!
+**Kanami:** HAH\!
+**Hiyori:** Gh\!\!
+**Akira:** \.\.\.Good, it's not over yet\.
+**Yui:** Boss\.\.\.
+**Akira:** You here too, Yui?
+**Akira:** And\.\.\.
+**Hana:** \.\.\.\.\.\.
+**Akira:** These're some familiar faces\. Though, one of us is\.\.\.
+**Mihono:** GRAAAAAAAAAGGHHH\!
+**Akira:** \.\.\.It's just like I told you\.\.\.
+**Yui:** Boss?
+**Akira:** Forget it\. So right now, you're swapping off trying to wear Kanayamahime out\.\.\.?
+**Akira:** Let me through\.
+**Akira:** You're not gonna be able to save Mihono\. I can help her, so swap with me\.
+**Yui:** You mean you can\!? Boss, you can save Mihono-chan\.\.\.\!
+**Akira:** \.\.\.\.\.\.Yeah\.
+**Akira:** I'll be the one to do it\.
+**Yui:** Boss?
+**Hana:** Stop her, Yui\!
+**Yui:** Huh?
+**Akira:** --\!
+**Ellen:** STOP\!
+**Akira:** Gh\!?
+**Ellen:** This road's closed, Akira\.
+**Akira:** --\!?
+**Kaoru:** Don't go\.\.\. playing cool\!
+**Akira:** So it's Ellen and Kaoru first\.\.\.
+**Yui:** H-Hey, what're you doing\!? Boss said she's going to save Mihono-chan\.\.\.
+**Hana:** Not like that, Yui\. That's not\.\.\. how she's going to save her\.
+**Kaoru:** Right?
+**Kaoru:** You're gonna kill Mihono, aren't you?
+**Akira:** \.\.\.\.\.\.
+**Ellen:** You're not going to hurt Mihomiho\. You'll have to get through us, Akira\.
+**Akira:** \.\.\.I won't go easy\. You better be ready to lose a couple arms\!
+**Kaoru:** Same to you\!
+**Yui:** But, why, Boss\!? You and Mihono-chan were\.\.\.
+**Akira:** \.\.\.That's why\.
+**Akira:** That's why\.\.\. I'll be the one to make this right\!\!
+**Kaoru:** Let's go, Ellen\! Don't let her get Mihono\!
+**Ellen:** Yes\!
+**Akira:** Come on then\!\!
+
+## 4: I'll Save Her (2\)
+**Chie:** Stop\!
+**Ellen:** Chie?
+**Chie:** \.\.\.Help us, Inago-san\.
+**Kaoru:** The hell are you talking about\!? She came here to kill Mihono\!
+**Chie:** I said we'd handle it\.\.\. But all I ever did was talk; I couldn't do anything for her\.\.\.
+**Chie:** So\.\.\. talking isn't going to be enough right now\! Help us, Inago-san\!
+**Akira:** \.\.\.Give it up\.
+**Akira:** After she's that far gone\.\.\. we don't have a way to save her either\.
+**Akira:** The only way to free her from that is to cut her down and exorcise her\.
+**Chie:** You're wrong\! Kanayamahime still hasn't fully awakened yet\!
+**Chie:** This is\.\.\. our one and only chance\!
+**Akira:** \.\.\.\.\.\.
+**Akira:** \.\.\.\.\.\.It's not happening\.
+**Chie:** Because Makoto ordered you not to?
+**Chie:** But still\.\.\. Makoto doesn't want this either, does she?
+**Akira:** You think you know Makocchan\.\.\.?
+**Chie:** I do know her\.\.\. Because she hasn't changed\.
+**Chie:** She's kind hearted, and stubborn\.\.\.
+**Chie:** Which is why I can tell\.
+**Chie:** Makoto would never want to have to make a sacrifice out of Mihono-chan\!
+**Chie:** After how much she cried when Miyako gave up her future as a toji\.\.\. deep down, she'd never want to sacrifice anyone\!
+**Akira:** \.\.\.You've got that right\.
+**Akira:** But then, you get this too, don't you?
+**Akira:** She already made up her mind\.
+**Chie:** But\.\.\.
+**Akira:** Yeah, Makocchan's stubborn as hell\. Once she settles on something, she never backs down\.
+**Akira:** And I'm right there with her\!
+**Mirja:** In that case, we'll offer something that would persuade Hitakami Makoto as well\.
+**Akira:** I'm not letting you waste any more time\!
+**Mirja:** Grh\.\.\.
+**Mirja:** \.\.\.We'll have Asakura Mihono participate in your research\.
+**Akira:** \.\.\.What?
+**Chie:** Mirja\!?
+**Mirja:** That's the compromise we'll need to make, Setouchi Chie\.
+**Mirja:** What do you say?
+**Akira:** \.\.\.\.\.\.\.\.\.\.\.\.
+**Mirja:** Then, one more thing\. If you're concerned for your future, you should take our side\.
+**Akira:** \.\.\.What's that supposed to mean?
+**Mirja:** Let's assume you destroy Kanayamahime and Asakura Mihono with her\.
+**Mirja:** The general populace and many toji will likely turn a blind eye to Asakura Mihono's sacrifice\.
+**Mirja:** However\.\.\. It's not going to sit right with those who knew her personally\.
+**Mirja:** And Asakura Mihono has a way of getting to know people\. I think you might be surprised just how many that could be?
+**Akira:** \.\.\.\.\.\.
+**Mirja:** If you hope to keep the reputation of tamayori toji stable, you'd be better off having tried to save Asakura Mihono\.
+**Mirja:** Am I wrong?
+**Akira:** You sure are a smooth talker\.
+**Akira:** \.\.\.I've got one condition\.
+**Chie:** \.\.\.Are you really\.\.\. helping us?
+**Akira:** It's not like I'm going against what Makocchan said to do\.
+**Chie:** Thank you\!
+**Akira:** Don't thank me yet\!
+**Akira:** If I decide Mihono's past the point of saving, I'm killing her\. Got that?
