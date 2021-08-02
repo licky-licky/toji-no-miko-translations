@@ -108,7 +108,7 @@ html[data-theme='dark']
   max-width: 12rem;
 }
 .card3 h3 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 @media only screen and (max-width: 880px) {
   .card3 {
