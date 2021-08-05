@@ -57,13 +57,13 @@ const events = [
         'Miss_Five_Traditions_Charity_Mission', 'charity', 'charity mission', 'Miss Five Traditions Charity Mission', 2020
     ],
     [
-        'Mahouka_Dream_Visitors', 'mahouka', 'mahouka', 'Mahouka: Dream Visitors', 2020
+        'Mahouka:_Dream_Visitors', 'mahouka', 'mahouka', 'Mahouka: Dream Visitors', 2020
     ],
     ['North_and_South_Swordsman_Record', 'north_south', 'north and south swordsman', 'North and South Swordsman Record', 2020],
     ['Yakisoba_Journey_to_the_West', 'tothewest', 'Yakisoba Journey to the West', 'Yakisoba Journey to the West', 2020],
     ['Human_Egg', 'egg', 'what\'s a human egg anyway?', 'Enjoy the Easter Game! Human Egg', 2020],
     ["Aradama_on_the_Counterattack", "aradama", "Aradama on the Counterattack", "Aradama on the Counterattack", 2020],
-    ["Entwining_Bonds_Fierce_Genius_x_Strange_Genius", "bonds1", "Entwining Bonds 1", "Entwining Bonds: Fierce Genius x Strange Genius", 2020],
+    ["Entwining_Bonds:_Fierce_Genius_x_Strange_Genius", "bonds1", "Entwining Bonds 1", "Entwining Bonds: Fierce Genius x Strange Genius", 2020],
     ["Miss_Five_Traditions_Contest", "contest", "Miss Five Traditions Contest", "Miss Five Traditions Contest", 2020],
     ["Rumored_Urban_Legend_Watching", "urban", "urban legends", "Rumored Urban Legend Watching", 2020],
     ["A_Certain_Superpowered_Parallel_World", "railgun", "railgun event", "A Certain Superpowered Parallel World", 2020],
@@ -73,8 +73,8 @@ const events = [
     ["Yume's_Great_Xmas_Operation_-_Christmas_Eve_Surprise_Party", "xmas2019", "xmas2019", "Yume's Great Xmas Operation - Christmas Eve Surprise Party", 2019],
     ["Debug_Mission_Capriccio", "debug", "debug", "Debug Mission Capriccio", 2019],
     ["One_Strange_Night's_Monster_Parade", "halloween2019", "halloween2019", "One Strange Night's Monster Parade", 2019],
-    ["~UDON_Chapter~", "udon", "udon", "Yuuki Yuuna wa Yuusha de Aru -Udon Chapter-", 2019],
-    ["~Okatana_with_Flowers_Shining_in_Full_Bloom_Chapter~", "mankai", "mankai", "Yuuki Yuuna wa Yuusha de Aru -Sparkling Mankai Chapter-", 2019],
+    ["UDON_Chapter", "udon", "udon", "Yuuki Yuuna wa Yuusha de Aru -Udon Chapter-", 2019],
+    ["Okatana_with_Flowers_Shining_in_Full_Bloom_Chapter", "mankai", "mankai", "Yuuki Yuuna wa Yuusha de Aru -Sparkling Mankai Chapter-", 2019],
     ["Full_Summer_Beach_Lounge_Rescue_Team", "rescue", "rescue", "Full Summer Beach Lounge Rescue Team!", 2019],
     ["Smash_Through_Sports_Chanbara_Joint_Training", "chanbara", "chanbara", "Smash Through! Sports Chanbara Joint Training", 2019],
     ["On_a_Nice_Cool_Evening_Yukata_at_the_Summer_Festival", "yukata", "yukata", "On a Nice Cool Evening! Yukata at the Summer Festival", 2019],

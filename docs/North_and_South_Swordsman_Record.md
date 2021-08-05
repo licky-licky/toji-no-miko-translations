@@ -62,7 +62,7 @@ As this event came in 3 parts, it's separated into 3 videos.
 **Hokuto:** Kh... There are too many people... This could be bad.  
 **Suu:** Hokutoo-saaaan... I can't go on any more-.  
 **Hokuto:** Once backup arrives, this will be easier... Just hold out a little longer. You can still use utsushi, can't you?  
-**Suu:** You said that a while ago~~...  
+**Suu:** You said that a while ago~\~...  
 **Aradama:** ...GUGGGGI!  
 **Suu:** Awawawa... There's a really big one coming our way-!?  
 **Sanae:** We're here to support you!  
