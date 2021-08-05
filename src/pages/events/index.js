@@ -48,7 +48,7 @@ const events = [
         2020
     ],
     [
-        'Entwining_Bonds:_Honest_Heart_x_Acrobatics', 'bonds2' , 'Entwining Bonds 2', 'Entwining Bonds: Honest Heart x Acrobatics', 2020
+        'Entwining_Bonds_Honest_Heart_x_Acrobatics', 'bonds2' , 'Entwining Bonds 2', 'Entwining Bonds: Honest Heart x Acrobatics', 2020
     ],
     [
         'Escape_From_the_Locker_Room', 'locker', 'locker room', 'Escape From the Locker Room', 2020
@@ -63,7 +63,7 @@ const events = [
     ['Yakisoba_Journey_to_the_West', 'tothewest', 'Yakisoba Journey to the West', 'Yakisoba Journey to the West', 2020],
     ['Human_Egg', 'egg', 'what\'s a human egg anyway?', 'Enjoy the Easter Game! Human Egg', 2020],
     ["Aradama_on_the_Counterattack", "aradama", "Aradama on the Counterattack", "Aradama on the Counterattack", 2020],
-    ["Entwining_Bonds:_Fierce_Genius_x_Strange_Genius", "bonds1", "Entwining Bonds 1", "Entwining Bonds: Fierce Genius x Strange Genius", 2020],
+    ["Entwining_Bonds_Fierce_Genius_x_Strange_Genius", "bonds1", "Entwining Bonds 1", "Entwining Bonds: Fierce Genius x Strange Genius", 2020],
     ["Miss_Five_Traditions_Contest", "contest", "Miss Five Traditions Contest", "Miss Five Traditions Contest", 2020],
     ["Rumored_Urban_Legend_Watching", "urban", "urban legends", "Rumored Urban Legend Watching", 2020],
     ["A_Certain_Superpowered_Parallel_World", "railgun", "railgun event", "A Certain Superpowered Parallel World", 2020],
