@@ -36,6 +36,14 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   align-items: center;
 }
 
+.main .filterBar {
+  width: 400px;
+}
+
+.main h2 {
+  padding-top: 18px;
+  border-bottom: solid 2px orangered;
+}
 
 .videoWrapper {
   overflow: hidden;

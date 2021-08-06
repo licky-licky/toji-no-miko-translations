@@ -153,7 +153,7 @@ function Events() {
     return (
         <Layout
             title={'Events'}>
-            <main className={styles.main}>
+            <main className={"main"}>
 				<h1 className={styles.title}>Events</h1>
                 <div className={styles.filterBar}>
                     <div className={"barContainer"}>
