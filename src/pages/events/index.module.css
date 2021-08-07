@@ -201,11 +201,11 @@ html[data-theme='dark']
 .filterBar {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
   padding: 12px 0;
 }
 
-@media only screen and (max-width: 880px) {
+@media only screen and (max-width: 980px) {
   .filterBar {
     flex-direction: column;
     justify-content: center;
@@ -218,5 +218,18 @@ html[data-theme='dark']
 }
 
 .main .filterBar {
-  width: 400px;
+  width: 70vw;
+}
+#count {
+  height: 35px;
+  margin-right: 1rem;
+  padding: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: var(--ifm-background-surface-color);
+  border-radius: var(--ifm-button-border-radius);
+}
+#count span {
+  line-height: 50px;
+  vertical-align: middle;
 }

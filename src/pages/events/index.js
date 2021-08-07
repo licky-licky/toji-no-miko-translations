@@ -1,7 +1,9 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Layout from '@theme/Layout';
 import Event from '../../components/Event';
+import CharacterFilter from '../../components/CharacterFilter';
 import styles from './index.module.css';
+import { events as eventCharacters, characters } from '../../../appearances.json'
 
 const years = [2021, 2020, 2019, 2018]
 const events = [
@@ -125,8 +127,8 @@ const events = [
 function Events() {
     const [orderNewestFirst, setOrderNewestFirst] = useState(true)
     const [filteredEvents, setFilteredEvents] = useState(events)
-    const [currentYears, setCurrentYears] = useState([...years])
-    const orderedYears = orderNewestFirst ? years : years.slice().reverse()
+    const [filteredCharacters, setFilteredCharacters] = useState([])
+    const [filter, setFilter] = useState('')
     const showNewer = () => {
         setOrderNewestFirst(true)
     }
@@ -140,38 +142,58 @@ function Events() {
                 filteredYears.push(event[4])
             }
         });
-        console.log(filteredEvents);
         return orderNewestFirst ? filteredYears : filteredYears.slice().reverse()
-    }    
-    const filterEvents = (filterData) => setFilteredEvents(events.filter(event => {
-        console.log(filterYears());
-        if (filterData === '' || typeof filterData === 'undefined' || filterData === null)
-            return event
-        else if (event[3].toLowerCase().includes(filterData.toLowerCase()))
-            return event
-    }))
+    }
+    const getListOfCharsFromEvent = (eventName) => {
+        for (const event of eventCharacters) {
+            if (event['name'] == eventName) {
+                return event['chars']
+            }
+        }
+        return []
+    }
+    const filterEventsByCharacters = (event) => {
+        if (filteredCharacters.length == 0) {
+            return true
+        } else {
+            return filteredCharacters.every(char => getListOfCharsFromEvent(event[0]).includes(char))
+        }
+    } 
+    const filterEvents = (filterData) => setFilter(filterData)
+    
+    useEffect(() => setFilteredEvents(events.filter(event => {
+        if (filterEventsByCharacters(event)) {
+            if (filter === '' || typeof filter === 'undefined' || filter === null)
+                return event
+            else if (event[3].toLowerCase().includes(filter.toLowerCase()))
+                return event
+        }
+    })), [filter, filteredCharacters])
+    
     return (
         <Layout
             title={'Events'}>
             <main className={styles.main}>
 				<h1 className={styles.title}>Events</h1>
                 <div className={styles.filterBar}>
+                    <span id={styles.count}>{filteredEvents.length}</span>
                     <div className={"barContainer"}>
                         <input type="text" id="filter" className={styles.searchBar} placeholder="Filter events" onChange={event => {filterEvents(event.target.value)}}></input>
                     </div>
                     <div className={styles.dropdown}>
                         <ul>
-                            <li><button className={orderNewestFirst ? styles.selectedButton : ''} onClick={showNewer}>Newest first</button></li>
-                            <li><button className={!orderNewestFirst ? styles.selectedButton : ''} onClick={showOlder}>Oldest first</button></li>
+                            <li key='newer'><button className={orderNewestFirst ? styles.selectedButton : ''} onClick={showNewer}>Newest first</button></li>
+                            <li key='older'><button className={!orderNewestFirst ? styles.selectedButton : ''} onClick={showOlder}>Oldest first</button></li>
                         </ul> 
                     </div>
+                    <CharacterFilter chars={characters} setFilteredChars={setFilteredCharacters}/>
                 </div>
                 {filterYears().map(year => {
                     const yearEvents = filteredEvents.filter(event => event[4] === year)
                     return (
                         <>
-                        <h2>{year}</h2>
-                        <Event events={yearEvents} newestFirst={orderNewestFirst}/>
+                        <h2 key={year}>{year}</h2>
+                        <Event key={`event-${year}`} events={yearEvents} newestFirst={orderNewestFirst}/>
                         </>
                     )
                 })}

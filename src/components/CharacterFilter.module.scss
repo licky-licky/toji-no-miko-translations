@@ -1,0 +1,93 @@
+$mobile: 980px;
+$container-margin: 200px;
+@mixin count-display {
+    padding: 4px;
+    color: var(--ifm-color-secondary-darkerest);
+    background-color: var(--ifm-color-primary-contrast-background);
+    border-radius: var(--ifm-global-radius);
+}
+.charSelector {
+    max-width: 500px;
+    max-height: 150px;
+}
+.input {
+    position: absolute;
+    overflow: auto;
+    max-height: 60vh;
+    max-width: 50vw;
+    top: 268px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 6px 0px, rgba(0, 0, 0, 0.12) 0px 1px 4px 0px;
+    // border-radius: 14px;
+    @media only screen and (max-width: $mobile) {
+        max-width: 95vw;
+        max-height: 90vh;
+        top: 100px;
+    }
+    background-color: var(--ifm-background-surface-color);
+    span {        
+        @include count-display;
+        margin-left: 0.5rem;
+        font-size: smaller;
+        min-width: 3rem;
+    }
+    .checkboxContainer {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 3px;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        input {
+            width: 1.25rem;
+            height: 1.25rem;
+            border-radius: 4px;
+            background-color: gray;
+            transition-duration: 0.3s;
+        }
+        @media only screen and (max-width: $mobile) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+        & label {
+            display: inline-block;
+            vertical-align: middle;
+        }
+        & > div > * {
+                vertical-align: middle;
+        }
+    }   
+}
+.buttonContainer {
+    display: flex;
+    justify-content: space-between;
+}
+.hidden {
+    display: none;
+}
+.charShow {
+    margin-left: 2rem;
+    font-family: inherit;
+    font-weight: var(--ifm-button-font-weight);
+    text-decoration: none;
+    font-size: 16px;
+    // color: var(--ifm-color-primary-contrast-foreground);
+    @media only screen and (max-width: $mobile) { margin-left: 0px; }
+    // color: black;
+        // min-height: 2rem;
+        border: solid 1px #777;
+        border-radius: var(--ifm-button-border-radius);
+        span {
+            line-height: 14px;
+            font-size: 16px;
+            padding: 4px;
+            display: inline-block;
+            vertical-align: middle;
+            text-align: center;    
+        }
+}
+.container {
+    border-radius: 14px;
+}
