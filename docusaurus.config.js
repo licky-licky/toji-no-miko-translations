@@ -78,6 +78,7 @@ module.exports = {
     ],
   ],
   plugins : [
+    'docusaurus-plugin-sass',
     require.resolve('@cmfcmf/docusaurus-search-local')
   ]
 };
