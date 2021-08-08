@@ -162,9 +162,7 @@ html[data-theme='dark']
 
 }
 .selectedButton {
-  /* color: var(--ifm-color-primary) !important; */
-  background-color: var(--ifm-color-secondary-dark);
-  filter: brightness(65%);
+  background-color: var(--ifm-color-secondary-darkest);
 }
 .dropdown li:nth-child(odd) > button{
   border-radius: var(--ifm-button-border-radius) 0% 0% var(--ifm-button-border-radius);  
