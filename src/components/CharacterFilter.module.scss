@@ -31,7 +31,7 @@ $container-margin: 200px;
     background-color: var(--ifm-background-surface-color);
     span {        
         @include count-display;
-        margin-left: 0.5rem;
+        margin-left: 0.25rem;
         font-size: smaller;
         min-width: 3rem;
     }
@@ -54,6 +54,7 @@ $container-margin: 200px;
         & label {
             display: inline-block;
             vertical-align: middle;
+            padding-left: 4px;
         }
         & > div > * {
                 vertical-align: middle;
