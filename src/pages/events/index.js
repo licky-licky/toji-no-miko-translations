@@ -8,8 +8,8 @@ import { events as eventCharacters, characters } from '../../../appearances.json
 const years = [2021, 2020, 2019, 2018]
 const events = [
     ["Tojitomo_General_Election_-Pledge_Story-_Their_Choice", "choice", "choice", "Tojitomo General Election -Pledge Story- Their Choice", 2021],
-    ["Let's_Vacation_A_Tropical_Resort_Festival", 'vacation', 'vacation 2021', "Let's Go On a Vacation! Nankoku Resort Festival!", 2021],
-    ["Tojitomo_Police_Duty", 'police', 'police', 'Heart-Pounding and Exciting!? TojiTomo Police Mission', 2021],
+    ["Let's_Vacation_A_Tropical_Resort_Festival", 'vacation', 'vacation 2021', "Let's Vacation! A Tropical Resort Festival!", 2021],
+    ["Tojitomo_Police_Duty", 'police', 'police', 'Tojitomo Police Duty', 2021],
     ["Yume's_Homecoming", 'yume_home', 'YH', "Yume's Homecoming", 2021],
     ['Star_Ocean_-Encounter_With_the_Toji-', 'encounter', 'ENC', 'Encounter with the Toji', 2021],
     [

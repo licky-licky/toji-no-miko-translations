@@ -6,8 +6,8 @@ import styles from './EpisodesPreview.module.css'
 
 const events = [
     ["Tojitomo_General_Election_-Pledge_Story-_Their_Choice", "choice", "", "Tojitomo General Election -Pledge Story- Their Choice", 2021],
-    ["Let's_Vacation_A_Tropical_Resort_Festival", 'vacation', 'vacation 2021', "Let's Go On a Vacation! Nankoku Resort Festival!", 2021],
-    ["Tojitomo_Police_Duty", 'police', 'police', 'Heart-Pounding and Exciting!? TojiTomo Police Mission', 2021],
+    ["Let's_Vacation_A_Tropical_Resort_Festival", 'vacation', 'vacation 2021', "Let's Vacation! A Tropical Resort Festival!", 2021],
+    ["Tojitomo_Police_Duty", 'police', 'police', 'Tojitomo Police Duty', 2021],
 ]
 
 const episodes = [
