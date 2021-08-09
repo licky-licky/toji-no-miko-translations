@@ -2,6 +2,7 @@ import React, { useState, useRef, useEffect } from 'react'
 import styles from './CharacterFilter.module.scss'
 import onClickOutside from "react-onclickoutside";
 import useBaseUrl from '@docusaurus/useBaseUrl'
+import { getFromSessionStorage, saveToSessionStorage } from '../pages/utils';
 
 function CharacterFilter({chars, setFilteredChars}) {
     const numOfChars = Object.keys(chars).length
@@ -15,11 +16,24 @@ function CharacterFilter({chars, setFilteredChars}) {
         values.push(value)
     }
 
+    useEffect(() => {
+        const savedCharacters = getFromSessionStorage('chars')        
+        if (savedCharacters) {
+            setSelected(savedCharacters)
+            let filteredCharacters = []
+            savedCharacters.forEach((val, idx) => {
+                if (val) filteredCharacters.push(characters[idx])
+            })
+            setFilteredChars(filteredCharacters)
+        }
+    }, [])
+
     const showCharFilter = () => setShow(!show)
 
     const clearAllSelection = () => {
         setSelected(new Array(numOfChars).fill(false))
         setFilteredChars([])
+        sessionStorage.removeItem('chars')
     }
 
     const handleOnChange = (position) => {
@@ -32,6 +46,7 @@ function CharacterFilter({chars, setFilteredChars}) {
             if (val) filteredCharacters.push(characters[idx])
         })
         setFilteredChars(filteredCharacters)
+        saveToSessionStorage('chars', updatedSelectedState)
     }
     CharacterFilter.handleClickOutside = () => setShow(false)
     return (

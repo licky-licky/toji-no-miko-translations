@@ -4,6 +4,7 @@ import Event from '../../components/Event';
 import CharacterFilter from '../../components/CharacterFilter';
 import styles from './index.module.css';
 import { events as eventCharacters, characters } from '../../../appearances.json'
+import { saveToSessionStorage, getFromSessionStorage } from '../utils'
 
 const years = [2021, 2020, 2019, 2018]
 const events = [
@@ -131,9 +132,11 @@ function Events() {
     const [filter, setFilter] = useState('')
     const showNewer = () => {
         setOrderNewestFirst(true)
+        saveToSessionStorage('newest', true)
     }
     const showOlder = () => {
         setOrderNewestFirst(false)
+        saveToSessionStorage('newest', false)
     }
     const filterYears = () => {
         let filteredYears = []
@@ -159,7 +162,10 @@ function Events() {
             return filteredCharacters.every(char => getListOfCharsFromEvent(event[0]).includes(char))
         }
     } 
-    const filterEvents = (filterData) => setFilter(filterData)
+    const filterEvents = (filterData) => {
+        setFilter(filterData)
+        saveToSessionStorage('filter', filterData)
+    }
     
     useEffect(() => setFilteredEvents(events.filter(event => {
         if (filterEventsByCharacters(event)) {
@@ -169,6 +175,17 @@ function Events() {
                 return event
         }
     })), [filter, filteredCharacters])
+
+    useEffect(() => {
+        const savedFilter = getFromSessionStorage('filter')
+        if (savedFilter)
+            setFilter(savedFilter)
+        
+        const savedNewestFirst = getFromSessionStorage('newest')
+        console.log(savedNewestFirst);
+        if (typeof savedNewestFirst)
+            setOrderNewestFirst(savedNewestFirst)
+    }, [])
     
     return (
         <Layout
@@ -178,7 +195,7 @@ function Events() {
                 <div className={styles.filterBar}>
                     <span id={styles.count}>{filteredEvents.length}</span>
                     <div className={"barContainer"}>
-                        <input type="text" id="filter" className={styles.searchBar} placeholder="Filter events" onChange={event => {filterEvents(event.target.value)}}></input>
+                        <input type="text" id="filter" className={styles.searchBar} value={filter} placeholder="Filter events" onChange={event => {filterEvents(event.target.value)}}></input>
                     </div>
                     <div className={styles.dropdown}>
                         <ul>
