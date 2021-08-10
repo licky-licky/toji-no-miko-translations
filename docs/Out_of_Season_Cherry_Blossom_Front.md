@@ -3,7 +3,7 @@ Out of Season Cherry Blossom Front
 ==================================
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/mq7ugG3Z_Xw"></iframe></div>  
 
-**Out of Season Cherry Blossom Front:** Prologue  
+## Out of Season Cherry Blossom Front: Prologue  
 **Kanami:** Hey, did all of you see? The flower buds on the cherry blossom trees behind the school are getting bigger!  
 **Hiyori:** I know. I saw it myself earlier. The weather report said the temperature should go up this weekend, and then they'll bloom.  
 **Mai:** We should go see them together after they start blooming.  
@@ -21,6 +21,8 @@ Out of Season Cherry Blossom Front
 **Sayaka:** I understand. I'll do my best... To find a good location...  
 **Kanami:** And I'll help!  
 **Chie:** Then, I'll think something up with Ellen-san, Kiyoka-chan, and the others to liven up the event, and lend a hand to the girls making bento boxes on the side.  
+
+
 On the day of the flower viewing--
 
   
@@ -63,7 +65,7 @@ On the day of the flower viewing--
 **Mai:** Let's defeat the aradama, Chie-san! Until all the flowers here are in bloom!  
 **Chie:** Of course! I'll do what I can, so we can all have our flower viewing party!  
 **Hiyori:** Good, then let's defeat as many aradama as possible, and bring back our spring!  
-**Out of Season Cherry Blossom Front:** Epilogue  
+## Out of Season Cherry Blossom Front: Epilogue  
 **Sayaka:** Oh, Mai and everyone came...  
 **Kanami:** Hiyori-chan, Mai-chan, over here, over here~!  
 **Mihono:** Hurry up, Chii-nee~!  
