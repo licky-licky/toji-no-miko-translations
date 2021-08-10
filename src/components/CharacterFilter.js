@@ -56,7 +56,7 @@ function CharacterFilter({chars, setFilteredChars}) {
                 <div className={styles.input}>
                     <div className={styles.buttonContainer}>
                         <button onClick={clearAllSelection}>Clear All</button>
-                        <button onClick={showCharFilter}>Close</button>
+                        <button onClick={showCharFilter} id={styles.closeButton}><img src={useBaseUrl('/img/close_black_24dp.svg')}/></button>
                     </div>
                     <div className={styles.checkboxContainer}>
                         {characters.map((ch, idx) => {

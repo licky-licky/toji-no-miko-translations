@@ -172,7 +172,8 @@ html[data-theme='dark']
   border-radius: 0% var(--ifm-button-border-radius) var(--ifm-button-border-radius)  0%;
 }
 .dropdown button:hover:not(.selectedButton){
-  filter: brightness(80%);
+  filter: brightness(90%);
+  cursor: pointer;
 }
 
 .searchBar {

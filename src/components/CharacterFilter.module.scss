@@ -1,4 +1,5 @@
-$mobile: 980px;
+$mobile: 780px;
+$tablet: 1000px;
 $container-margin: 200px;
 @mixin count-display {
     padding: 4px;
@@ -14,7 +15,7 @@ $container-margin: 200px;
     position: absolute;
     overflow: auto;
     max-height: 60vh;
-    max-width: 50vw;
+    max-width: 1000px;
     top: 268px;
     left: 0;
     right: 0;
@@ -22,18 +23,11 @@ $container-margin: 200px;
     margin-right: auto;
     padding: 1rem;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 6px 0px, rgba(0, 0, 0, 0.12) 0px 1px 4px 0px;
-    // border-radius: 14px;
+    background-color: var(--ifm-background-surface-color);    
     @media only screen and (max-width: $mobile) {
         max-width: 95vw;
-        max-height: 90vh;
+        max-height: 70vh;
         top: 100px;
-    }
-    background-color: var(--ifm-background-surface-color);
-    span {        
-        @include count-display;
-        margin-left: 0.25rem;
-        font-size: smaller;
-        min-width: 3rem;
     }
     .checkboxContainer {
         display: grid;
@@ -48,8 +42,19 @@ $container-margin: 200px;
             background-color: gray;
             transition-duration: 0.3s;
         }
+        span {        
+            @include count-display;
+            margin-left: 0.25rem;
+            font-size: smaller;
+            min-width: 3rem;
+        }
         @media only screen and (max-width: $mobile) {
             grid-template-columns: repeat(3, 1fr);
+            font-size: smaller;
+            gap: 2px;
+        }
+        @media only screen and (min-width: $mobile) and (max-width: $tablet) {
+            grid-template-columns: repeat(4, 1fr);
         }
         & label {
             display: inline-block;
@@ -64,6 +69,17 @@ $container-margin: 200px;
 .buttonContainer {
     display: flex;
     justify-content: space-between;
+    #closeButton {
+        background-color: rgba($color: #000000, $alpha: 0);
+        border: none;
+        border-radius: var(--ifm-button-border-radius);
+        &>:is(img, span) {
+            vertical-align: middle;
+        }
+        &:hover {
+            background-color: grey;
+        }
+    }
 }
 .hidden {
     display: none;
@@ -74,20 +90,21 @@ $container-margin: 200px;
     font-weight: var(--ifm-button-font-weight);
     text-decoration: none;
     font-size: 16px;
-    // color: var(--ifm-color-primary-contrast-foreground);
     @media only screen and (max-width: $mobile) { margin-left: 0px; }
-    // color: black;
-        // min-height: 2rem;
-        border: solid 1px #777;
-        border-radius: var(--ifm-button-border-radius);
-        span {
-            line-height: 14px;
-            font-size: 16px;
-            padding: 4px;
-            display: inline-block;
-            vertical-align: middle;
-            text-align: center;    
-        }
+    border: solid 1px #777;
+    border-radius: var(--ifm-button-border-radius);
+    span {
+        line-height: 14px;
+        font-size: 16px;
+        padding: 4px;
+        display: inline-block;
+        vertical-align: middle;
+        text-align: center;    
+    }
+    &:hover {
+        cursor: pointer;
+        filter: brightness(90%);
+    }
 }
 .container {
     border-radius: 14px;

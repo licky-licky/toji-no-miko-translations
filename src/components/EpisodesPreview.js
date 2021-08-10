@@ -3,7 +3,7 @@ import Event from './Event'
 import Link from '@docusaurus/Link';
 import styles from './EpisodesPreview.module.css'
 
-
+// TODO import the first n elements from the array in the events/episodes arrays
 const events = [
     ["Tojitomo_General_Election_-Pledge_Story-_Their_Choice", "choice", "", "Tojitomo General Election -Pledge Story- Their Choice", 2021],
     ["Let's_Vacation_A_Tropical_Resort_Festival", 'vacation', 'vacation 2021', "Let's Vacation! A Tropical Resort Festival!", 2021],
