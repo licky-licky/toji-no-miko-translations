@@ -183,7 +183,7 @@ function Events() {
         
         const savedNewestFirst = getFromSessionStorage('newest')
         console.log(savedNewestFirst);
-        if (typeof savedNewestFirst)
+        if (typeof savedNewestFirst === 'boolean')
             setOrderNewestFirst(savedNewestFirst)
     }, [])
     
