@@ -4,7 +4,7 @@ import Event from '../../components/Event';
 import CharacterFilter from '../../components/CharacterFilter';
 import styles from './index.module.css';
 import { events as eventCharacters, characters } from '../../../appearances.json'
-import { saveToSessionStorage, getFromSessionStorage } from '../utils'
+import { saveToSessionStorage, getFromSessionStorage } from '../../utils'
 
 const years = [2021, 2020, 2019, 2018]
 const events = [

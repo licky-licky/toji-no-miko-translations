@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react'
 import styles from './CharacterFilter.module.scss'
 import onClickOutside from "react-onclickoutside";
 import useBaseUrl from '@docusaurus/useBaseUrl'
-import { getFromSessionStorage, saveToSessionStorage } from '../pages/utils';
+import { getFromSessionStorage, saveToSessionStorage } from '../utils';
 
 function CharacterFilter({chars, setFilteredChars}) {
     const numOfChars = Object.keys(chars).length
