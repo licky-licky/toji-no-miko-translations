@@ -1,10 +1,10 @@
 
 Complete Your Day Off Mission!
 ==============================
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/fZFiQs-1TKo"></iframe></div>  
+:::note
 Covers both fall events.
-
-  
+:::
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/fZFiQs-1TKo"></iframe></div>   
 
 ## 1: The Elite Guard's Time Off
 **Maki:** Everyone, the mission schedule for this month is ready.  

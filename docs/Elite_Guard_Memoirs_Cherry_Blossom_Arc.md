@@ -1,10 +1,10 @@
 
 Elite Guard Memoirs: Cherry Blossom Arc
 =======================================
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/1y-R-16Cves"></iframe></div>  
+:::note
 Chapter 8 was voiced live on a stream, there's a link down below to it.
-
-  
+:::
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/1y-R-16Cves"></iframe></div>  
 
 ## 1: What Yume's Up To
 **Yume:** Maki onee-san! Suzuka onee-san! Good timing! Hey, do you two have any plans this weekend?  

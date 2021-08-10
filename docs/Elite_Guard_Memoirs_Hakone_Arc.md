@@ -50,8 +50,8 @@ Elite Guard Memoirs: Hakone Arc
 **Maki:** We need to hurry and regroup--  
 **Suzuka:** Still, against these numbers, reuniting with them won't be easy.  
 **Maki:** We need to come up with a plan. But with their attacks coming one after another, it's hard getting a grip on the situation--  
-Approximately six hours after Maki and Suzuka were separated from the rest of the unit.
 
+Approximately six hours after Maki and Suzuka were separated from the rest of the unit.
   
 **Commander A:** What's going on out there!? The amount of aradama hasn't decreased in the slightest!  
 **Commander B:** Are Shidou-san and Konohana-san still unaccounted for!?  
@@ -103,7 +103,6 @@ Approximately six hours after Maki and Suzuka were separated from the rest of th
 ## 5: Origami Yukari's Might
 Several hours before Yomi and Yume met up with Maki and Suzuka.
 
-  
 **Commader A:** The aradama are gathering their numbers! Find some way to keep them in check!  
 **Commander B:** How long before the situation returns to normal!? I need enough time for a bathroom break!  
 **Commander C:** Quit complaining; you're bringing down morale! You're not the only one having a rough time here, you know!  
@@ -127,7 +126,6 @@ Several hours before Yomi and Yume met up with Maki and Suzuka.
 ## 6: Searching for Their Comrades
 --Several hours before Yomi and Yume met up with Maki and Suzuka.
 
-  
 **Yume:** Ahahahaha-! Keep it coming, aradama-! Take this-!  
 **Yume:** --Mmm-? This one's pretty tough! Still no match for me though!  
 **Yomi:** --Kh! As the reports mentioned, there's an incredible number of aradama here...!  

@@ -27,8 +27,8 @@ One Strange Night's Monster Parade
 **Sanae:** Sure! That sounds like a plan.  
 **Hiyori:** Not you too, Iwakura-san... Me in a costume, it's just...  
 **Sanae:** Well, we don't have to do any more than think about it, okay? I'm sure it'll be fun.  
-That night... Kiyoka and the others received an urgent dispatch to an abandoned factory.
 
+That night... Kiyoka and the others received an urgent dispatch to an abandoned factory.
   
 **Kiyoka:** When I got the call to come here in the middle of the night, I didn't expect there to be so many other people...  
 **Mirja:** It could be that these aradama were recognized as enough of a menace to warrant it.  

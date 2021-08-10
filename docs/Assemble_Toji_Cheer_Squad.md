@@ -58,8 +58,8 @@ Assemble! Toji Cheer Squad
 **Maki:** Stunts are a part of the act as a cheerleader. A pyramid is made up of a combination of stunts. Now, let's get started!  
 **Miki:** Th-This got hard all of a sudden...  
 **Sayaka:** I'll do my best.  
-And so their practicing continued... After several days passed...
 
+And so their practicing continued... After several days passed...
   
 **Maki:** Jump, step, watch those feet! Focus!  
 **Maki:** Good, stop. You all seem like you're getting used to this.  
@@ -78,8 +78,8 @@ And so their practicing continued... After several days passed...
 **Sayaka:** But President Takatsu said I have to get Origami Yukari's acknowledgement and become a cheer toji. I have to do my best...  
 **Mai:** Sayaka-chan...  
 **Mai:** I know! In that case, why not get some pointers from someone more skilled? You might learn something useful.  
-The next day--
 
+The next day--
   
 **Sayaka:** Shidou Maki. Please teach me some pointers.  
 **Mai:** Sayaka-chan is worried... She wants to hear some advice from you.  
@@ -189,8 +189,8 @@ And so, after several days--
 **Miki:** Don't get too excited...  
 **Suzuka:** You'll carry out your mission while wearing these, everyone.  
 **Suzuka:** And Yukari-sama has asked me to remind you to do your cheerleading performance after you're done fighting.  
-Several days later--
 
+Several days later--
   
 **Kanami:** Check it out, Mai-chan, Sayaka-chan! They put up a video of the cheer toji on the internet!  
 **Sayaka:** It's true.  

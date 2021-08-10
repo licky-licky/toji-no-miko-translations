@@ -98,14 +98,9 @@ Sweet Valentines Chocolate Panic!
 **Yume:** I got a lot of chocolate too, so I think I'll share some with Yomi-onee-san. Just a little though.  
 **Mirja:** Oh... A text message from someone? Please excuse me.  
 **From Yamashiro Yui:** Hello, Mirja-san!  
-It's almost Valentines, you know. So why not give some chocolate to your cute kouhai who works so hard every day!
-
-  
-Some chocolate, filled up with your love, for Valentines Day, if you please!
-
-  
+It's almost Valentines, you know. So why not give some chocolate to your cute kouhai who works so hard every day!  
+Some chocolate, filled up with your love, for Valentines Day, if you please!  
 If you feed it to me while I say ahhh, I'll swear to you my eternal loyalty, no, love! So--
-
   
 **Mirja:** Huh... At some point, Yamashiro Yui must have gotten my contact information...  
 **Mirja:** Well, regardless... This is something that would be best to ignore.  

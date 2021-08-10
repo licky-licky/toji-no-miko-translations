@@ -79,7 +79,8 @@ Toji Notes: -The Heroes of Twenty Years Ago-
 **Yukari:** Fix things?  
 **Minato:** I'll be Kagari's first friend! That way, you'll feel better too, right?  
 **Yukari:** Minato...  
-**Minato:** Best to strike while it's hot! Let's take a detour when the three of us go home together today.  
+**Minato:** Best to strike while it's hot! Let's take a detour when the three of us go home together today. 
+
 After school that day.
 
   
@@ -158,6 +159,7 @@ After school that day.
 **Kagari:** Minato-senpai!? What are you saying, barging in here out of nowhere... You made reservations without me? You're always like this; always so pushy.  
 **Yukari:** What's the harm in it? I'll feel better if you're with Minato and Ema. Take your time in the warm waters and come back feeling refreshed.  
 **Kagari:** Kh... If those are your orders, Yukari-sama...  
+
 The next morning...
 
   

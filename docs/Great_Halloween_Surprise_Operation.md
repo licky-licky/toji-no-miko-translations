@@ -1,10 +1,10 @@
 
 Great Halloween Surprise Operation
 ==================================
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/GUIkSASCHRk"></iframe></div>  
+:::note
 Covers both Halloween events.
-
-  
+:::
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/GUIkSASCHRk"></iframe></div>  
 
 ## 1: Great Halloween Surprise Operation Prologue
 **Kaoru:** ...So we left the Halloween party to go scare Origami Yukari, right?  

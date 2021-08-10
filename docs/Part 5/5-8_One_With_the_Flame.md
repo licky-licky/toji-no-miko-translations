@@ -1,5 +1,8 @@
 5-8 One With the Flame
 ========================
+:::note
+The chapter had a staggered release, so the video is in 4 parts.
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/5gFX1bu-7Rc"></iframe></div>  
 
 ## 1: To Save Mihono (1)

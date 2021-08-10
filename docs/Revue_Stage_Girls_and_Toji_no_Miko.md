@@ -4,11 +4,10 @@ Revue: Stage Girls and Toji no Miko
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/nstX1sl6Xmo"></iframe></div>  
 
 ## 1: The Training Camp Runs into Trouble
-The Dance Recital; a fine arts festival presented through a collaborative effort by the Five Traditions.
+The Dance Recital; a fine arts festival presented through a collaborative effort by the Five Traditions.  
+Its main attraction: a dance performed in miko attire by eleven select toji.  
+This year, the girls chosen were as follows: Shidou Maki, Konohana Suzuka, Satuki Yomi, Tsubakuro Yume, Etou Kanami, Yanase Mai, Juujou Hiyori, Mashiko Kaoru, Kitora Mirja, Yamashiro Yui, and Shichinosato Kofuki--  
 
-  
-**Its main attraction:** a dance performed in miko attire by eleven select toji.  
-**This year, the girls chosen were as follows:** Shidou Maki, Konohana Suzuka, Satuki Yomi, Tsubakuro Yume, Etou Kanami, Yanase Mai, Juujou Hiyori, Mashiko Kaoru, Kitora Mirja, Yamashiro Yui, and Shichinosato Kofuki--  
 **Maki:** We're going to do a full rehearsal of the performance now. Ban Tsugumi, you're in charge of the music.  
 **Tsugumi:** Right, you can leave the supporting role to me. Ready... Starting the music.  
 **Tsugumi:** Three, two, one...  
@@ -324,8 +323,8 @@ The Dance Recital; a fine arts festival presented through a collaborative effort
 **Suzuka:** That's right. I still have it, right here. Look.  
 **Maki:** The advice they gave us... It won't go to waste.  
 **Maki:** First, we're all going to synchronize our mental image of our performance! After that, we're going to practice!  
-On the day the dance performance would be shown to the public.
 
+On the day the dance performance would be shown to the public.
   
 **Maki:** (Everything's gone well so far... All that's left is the closing act... It'll be fine.)  
 **Maki:** (We've shared our mental image, like the stage girls suggested.)  
@@ -371,56 +370,3 @@ On the day the dance performance would be shown to the public.
 **Hiyori:** Did you say something, Hikari?  
 **Hikari:** ...I didn't say anything.  
 **Kanami:** Come on, let's go ask everyone to start collecting Suzudaru Cats from the aradama!  
-[WARNING. I didn't actually roll Mai so I only ever happened to see part 1]
-
-  
-**Stage Girl Mai:** Start: Two Triangles  
-**Kanami:** I can't wait to spar with all these stage girls! If I miss this, I'll never get another chance.  
-**Kanami:** You know, I've wanted to spar with them ever since we came here and saw them fighting those aradama.  
-**Mai:** You said the same thing back when you first saw Hiyori-chan at the tournament, didn't you, Kanami-chan.  
-**Kanami:** Ehehe.  
-**Hiyori:** You did? Though it sounds just like something you'd do.  
-**Kanami:** Ah, Hiyori-chan. What's up?  
-**Hiyori:** What do you mean, "What's up?" You're the one who said to meet here so we can spar now.  
-**Kanami:** Oh yeah! Then, let's get right to it, Hiyori-chan! I'll catch up with you later, Mai-chan~.  
-**Mai:** Okay. Be sure not to get hurt, you two.  
-**Mai:** ......  
-**Mahiru:** Mai-chan?  
-**Mai:** Tsuyuzaki-san? Did you need something?  
-**Mahiru:** Nothing in particular, but I was watching you with Kanami-chan. You seem close.  
-**Mai:** We sure are. As soon as we met in middle school, we were fast friends. We often spend time together, in classes and the dorms.  
-**Mahiru:** Just like Karen-chan and I. Since the start of high school, we've always been together as roommates! Though now there's three of us, since Hikari-chan moved in.  
-**Mahiru:** What about Hiyori-chan? Her uniform is different, so she's from a different school, isn't she?  
-**Mai:** We got to know Hiyori-chan during an incident at the tournament in our second year, and we've been friends ever since.  
-**Mai:** It all started with Kanami-chan befriending Hiyori-chan.  
-**Mahiru:** So that's what happened.  
-**Kanami:** Mai-chaaan, Tsuyuzaki-saaan! There's some aradama, so come over here!  
-**Mai:** We should go.  
-**Mahiru:** Okay!  
-**Aradama:** GGGIIII!  
-**Mai:** Tsuyuzaki-san, one of the aradama went that way! Could you get it!  
-**Aradama:** GGIIIII!  
-**Mahiru:** It's a little... Scary, but I'll do it!  
-**Mahiru:** EIIIIIII!!  
-**Mahiru:** There! Home run!  
-**Mahiru:** It looks like we just finished cleaning up the aradama too.  
-**Mai:** The aradama's really gone... You're incredible, Mahiru-san.  
-**Mahiru:** It sort of looked like a ball, so I just gave it a good whack on reflex.  
-**Mai:** That was only your reflexes...?  
-**Mai:** And not just that, but how you casually twirled around that weapon of yours like a baton as you fought...  
-**Mai:** The way you moved... I think I could use it as reference in future fights.  
-**Mahiru:** It's sort of embarrassing hearing you talk like that, Mai-chan.  
-**Mahiru:** But, would it really be helpful learning from me?  
-**Mai:** I'd like to give it a try. Will you teach me how?  
-**Mahiru:** Mmm, but even if I teach you how to twirl a baton, it's not very useful for fighting, is it? I just somehow make it work...  
-**Mahiru:** I know! Mai-chan, could we try training like we're really fighting?  
-**Mai:** Of course, if that's alright with you.  
-**Mahiru:** Then, let's do it over there.  
-**Mahiru:** I love the shining stage, but I love seeing you shine even more. I want to dance with you forever, in a duet going round and round. 99th generation, Tsuyuzaki Mahiru.  
-**Mai:** That line just now had such a stylish ring to it.  
-**Mahiru:** Ehehe, thank you. It makes me happy, hearing you say that. I get the feeling we're sort of alike, Mai-chan.  
-**Mai:** We're alike?  
-**Mahiru:** But we can talk about that after!  
-**Mahiru:** Fighting might be more of your specialty, but come try me, Mai-chan!  
-**Mai:** Here I come!  
-**Mahiru:** Ah, but I would appreciate it if you go a little easy on me after all.  

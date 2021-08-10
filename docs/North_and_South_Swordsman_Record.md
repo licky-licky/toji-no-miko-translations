@@ -1,8 +1,9 @@
 
 North and South Swordsman Record
 ================================
+:::note
 As this event came in 3 parts, it's separated into 3 videos.
-
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/HVOkvuEZX5w"></iframe></div>  
 
 ## 1: In Order to Overcome These Hardships!

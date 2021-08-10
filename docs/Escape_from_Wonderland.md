@@ -1,10 +1,10 @@
 
 Escape from Wonderland
 ======================
+:::note
+This event came accompanied with hint cards you got for progressing through the maps. They're all at the bottom of each segment.
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/5On4WnD5fIA"></iframe></div>  
-[This event came accompanied with hint cards you got for progressing through the maps. They're all at the bottom of each segment.]
-
-  
 
 ## 1: The Photo Room
 **???:** ...Kaoru, come on and wake up...  
@@ -82,9 +82,11 @@ Escape from Wonderland
 **Suzuka:** The spectrum finder is still getting a reading... This won't be settled so easily.  
 **Suzuka:** Let's gather all the hints we can.  
 **Yume:** Aha, this is more fun than regular aradama fighting~.  
+:::info Hints
 **Hint 1:** "Don't let them get in the way of our rampage!"  
 **Hint 2:** "If only they weren't around!"  
 **Hint 3:** "Our natural enemy!"  
+:::
 
 ## 2: The Eight White Rabbits Room
 **Ellen:** I get it now. The answer is... "Toji"!  
@@ -134,12 +136,14 @@ Escape from Wonderland
 **Suzuka:** You need to focus more on your studies, Asakura-san.  
 **Mihono:** Uuu...  
 **Ellen:** Hang in there, Mihomiho!  
+:::info Hints
 **Hint 1:** There is a hidden word.  
 **Hint 2:** whiterabbit  
 **Hint 3:** dumpty  
 **Hint 4:** tweedledum  
 **Hint 5:** tweedledee  
 **Hint 6:** humptY  
+:::
 
 ## 3: The Treasure Room
 **Ellen:** The answer is "Buddy"!  
@@ -186,9 +190,11 @@ Escape from Wonderland
 **Mihono:** Okay, okay... Mm? Wait, I already know there's treasures, but...  
 **Ellen:** In that case, how about this hint?  
 **Mihono:** Umm... Ah! So that's how it is! To get the answer, we just have to do this, right?  
+:::info Hints
 **Hint 1:** There are three treasures.  
 **Hint 2:** Toji come with what?  
 **Hint 3:** Sort them out.  
+:::
 
 ## 4: The Break Room
 **Yume:** The answer is "Sohayanotsuruki, Suijingiri Kanemitsu, Echizen Yasutsugu"!  
@@ -246,10 +252,12 @@ Escape from Wonderland
 **Suzuka:** Oh my, are you coming to me for help?  
 **Yume:** If they're going to split the cakes in half, we can do that too!  
 **Suzuka:** What am I ever going to do with you. Then, let's not waste time... Ahh, so that's how it is.  
+:::info Hints
 **Hint 1:** From the start.  
 **Hint 2:** In order.  
 **Hint 3:** A>C>B  
 **Hint 4:** Vertically.  
+:::
 
 ## 5: The Traitor Room
 **Suzuka:** Yume, you may eat a piece of whichever cake you like.  
@@ -271,8 +279,7 @@ Escape from Wonderland
 **Kofuki:** What, is that all of them?  
 **Yume:** They were way too weak! I didn't get to have any fun at all.  
 **Yume:** And anyway, they didn't give us a hint card either; we got a letter instead.  
-
-## [R]: There is a traitor among you. Listen to the white rabbit to find who can stop them!
+**[R]**: There is a traitor among you. Listen to the white rabbit to find who can stop them!  
 **Suzuka:** This means...  
 **Kiyoka:** One of us in here is a traitor...?  
 **Mihono:** W-Well it's not me!?  
@@ -302,8 +309,9 @@ Escape from Wonderland
 **Ellen:** Come on, are you listening to me!?  
 Throughout the story so far, there are hints to the traitor's identity.
 
-  
+:::info Hint
 **Hint 1:** Combine all the answers, and what do you get?  
+:::
 
 ## 6: Escape!
 **Kaoru:** Oi, Yume. Suzuka's not the traitor.  

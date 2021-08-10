@@ -58,9 +58,7 @@ Team vs Team in the White Day Wars
 **Mai:** Come here, I'll wipe it off for you.  
 **Sayaka:** Nn...  
 **Mihono:** We're only in fourth place... We're going to need more people if we want to stand a chance of getting that prize!  
-*everyone's phones ring*
-
-  
+*everyone's phones ring*    
 **Mihono:** --Bad news! They just sent out an alert for another aradama sighting! We've gotta get going!  
 **Sayaka:** Mai, the cookies...  
 **Mai:** We'll have to leave them now and finish cooking later, okay?  
@@ -104,16 +102,12 @@ Team vs Team in the White Day Wars
 **Kanami:** Whoa! There's so many sweets in here!  
 **Mihono:** They told everyone to freely drop them off, so it looks like they've been piling up one after another.  
 **Mihono:** --There we go. Now that that's taken care of, we should meet back up with the others.  
-*Kanami and Mihono leave*
-
-  
+*Kanami and Mihono leave*  
 **Koike Saaya:** ...Fufu. Looks like more sweets have been delivered.  
 **Saaya:** Then I'll get right to it. Just have to swap these in with the candies--  
 **Kanami:** Now!! Grab the suspect!!  
 **Mihono:** Give it up!!  
-*Kanami and Mihono bust in and grab Saaya*
-
-  
+*Kanami and Mihono bust in and grab Saaya*  
 **Saaya:** -!? But you left!?  
 **Kanami:** We made a lot of extra noise as we were leaving, then quietly came back in!  
 **Mihono:** We heard reports the candy stored here had some weird sour taste.  
@@ -134,9 +128,7 @@ Team vs Team in the White Day Wars
 **Kanami:** Basically, you just thought you were helping out...  
 **Saaya:** What a heartbreaking incident...  
 **Mihono:** You don't get to say that!  
-*phone rings*
-
-  
+*phone rings*    
 **Saaya:** --Headquarters is contacting me! There's reports of more aradama sightings!  
 **Kanami:** That's a bigger issue! We can deal with Saaya-san later; let's hurry!  
 
@@ -178,9 +170,7 @@ Team vs Team in the White Day Wars
 **Kiyoka:** Alright, let's do our best! --Ah, Shichinosato-san! Please don't go sneaking a taste of the ingredients already!  
 **Kofuki:** What's wrong with that? Raw cookie batter tastes pretty good, you know? You try some too, Kiyoka.  
 **Kiyoka:** I won't have any!  
-*everyone's phones ring*
-
-  
+*everyone's phones ring*  
 **Kofuki:** --The phones going off like that can only mean more aradama.  
 **Kofuki:** Which means I've got no more time to waste on this! Wait for me, aradama-chan! I'll be right there!  
 **Kiyoka:** Ahh, but we're in the middle of cooking...!  
@@ -190,9 +180,7 @@ Team vs Team in the White Day Wars
 **Kiyoka:** ...These chocolates, I made them. I meant to give you them on Valentines Day, but I couldn't find the courage, and now it's already White Day...  
 **Kiyoka:** I've... I've always liked you!! If it's okay with you, will you please go out with me!?  
 **Kiyoka:** ...Phew, enough practice. It'd be nice if I could give someone chocolates like that someday...  
-*bushes rustling*
-
-  
+*bushes rustling*  
 **Kiyoka:** -!? Is someone there!?  
 **Kanami:** Sorry, we didn't mean to hide, but...  
 **Mihono:** Yeah, we weren't trying to hide... Pft-hahaha...  
@@ -208,9 +196,7 @@ Team vs Team in the White Day Wars
 **Mihono:** Huhh!? I can't do that!!  
 **Kanami:** Mihono-chan! We have to get Musumi-san to work with us! So let's give it our best shot!  
 **Mihono:** Why're you getting into this, Kanami!?  
-*everyone's phones ring*
-
-  
+*everyone's phones ring*  
 **Mihono:** Ah-! O-Oh no-! Looks like more aradama showed up! Guess we need to get going, huh-!  
 **Kiyoka:** I won't let you get out of this, Hono-chan! If aradama showed up, then you'll just have to confess while you're fighting!  
 **Mihono:** While we're fighting!? How do you expect me to pull that off!?  

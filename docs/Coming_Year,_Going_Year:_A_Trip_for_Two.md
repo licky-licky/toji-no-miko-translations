@@ -1,11 +1,10 @@
 
 Coming Year, Going Year: A Trip for Two
 =======================================
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/3QFTYaDjNyw"></iframe></div>  
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/EgIu3T30SHE"></iframe></div>  
+:::note
 Part 5 was dubbed live on stream. There's a link above it if you want to read along.
-
-  
+:::
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/3QFTYaDjNyw"></iframe></div>   
 
 ## 1: On a New Year's Trip for Two!
 **Mihono:** Pant, pant... Thank goodness! We made it to the train right on schedule.  
@@ -234,94 +233,3 @@ Part 5 was dubbed live on stream. There's a link above it if you want to read al
 **Chie:** I know, let's make a wish on the first sunrise. A wish that we'll be able to peacefully spend another year together.  
 **Mihono:** Good idea! After all we went through to see this sunrise, whatever we wish for is gonna get granted for sure!  
 **Mihono/Chie:** This year, and the next year, and every year after that, please let us stay happily together!  
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/EgIu3T30SHE"></iframe></div>  
-
-## [Casual 20 - Mihono: Start]: Planning a New Year's Trip
-Several days before New Year's Eve.
-
-  
-**Mihono:** I can't take the local gourmet off the list after all, can I. But, I wanted to put the petting zoo in too...  
-**Yui:** Huh, what are you doing all by yourself there, Mihono-chan?  
-**Mihono:** Yui, and Mirja-san too!  
-**Mirja:** That's quite a lot of guidebooks you have open. Are you going on a trip somewhere?  
-**Mihono:** I'm planning on doing an overnight trip on New Year's Eve with Chii-nee... And, I was checking what sights we should go see!  
-**Yui:** Two girls, taking a trip into the new year together... Just those words alone are enough to make your heart throb. Maybe I'll tag along too...  
-**Mirja:** Yamashiro Yui, that would be inconsiderate of you. And, if I recall, you have missions scheduled as far as New Year's Eve, don't you?  
-**Yui:** Ugh, you're right... I'm so jealous Mihono-chan and them get to take their New Year's break early-.  
-**Mihono:** Hang in there, Yui. I'll be sure to get souvenirs to bring back for everyone.   
-**Yui:** Souvenirs are nice and all, but more than that, I want to see lovey dovey photos of you two on your trip!  
-**Yui:** Please, help me get through my missions on New Year's Eve! Send them to me as you go! I'll be waiting for them!  
-**Mihono:** O-Okay, sure. I'll send them when I remember to.  
-**Yui:** If I can get some shots of two dreamy girls spending a heart-pounding New Year's tour together, I feel like I'll be able to pull through! You have to send them to me no matter what! It's a promise!  
-**Mihono:** Okay, I'll do what I can, but, what kind of photos do you want anyway?  
-**Yui:** Let's see... How about, photos of the two of you feeding each other food you bought on the train, like, "Ahhn"!  
-**Yui:** And then, photos of you staring deep into each others' eyes on the beach while you share your love, and photos of the two of you proposing in a romantic church deep in the mountains!  
-**Mirja:** I can't help but feel your suggestions are leading towards something other than a normal tour for two girls...  
-**Mihono:** Well, I was hoping to have something a little more exciting for us to do together, but do you have any ideas, Mirja-san?  
-**Mirja:** If you are planning a New Year's trip, a shrine visit and viewing the first sunrise would be standard suggestions.  
-**Mirja:** And, if time permits, it might be good to work in something slightly more original.  
-**Mihono:** Something more original? Like what?  
-**Mirja:** For example, rather than simply viewing the first sunrise on New Year's day, why not admire the setting sun on New Year's Eve?  
-**Mirja:** It's something I've considered for some time now. Everyone glorifies the year's first sunrise, but why do they pay no attention to the year's last sunset?  
-**Mihono:** You're right, every year things are so busy on the evening of New Year's Eve that I don't think I've ever sat back and watched the sun go down.  
-**Yui:** Yeah yeah, me too-.  
-**Yui:** But you know, if I were the sun, I'd be happy having everyone admire me on New Year's morning, but I think I'd want people admiring me on the last sunset after I worked so hard all year too!  
-**Mirja:** I've never exactly thought about how it would make the sun feel...  
-**Mirja:** I've always thought that those who can appreciate the sunset, the same as they would the sunrise, will get the most benefit from the year's first sunrise the next morning.  
-**Mihono:** I get it! I think that's a great way of looking at it. It might give us better fortune from watching the sunrise, so I I'll try putting watching the sunset into our plan too!  
-**Mihono:** Okaaay, now just to find the perfect place to watch the sunset with Chii-nee!  
-
-## [Casual 20 - Mihono: End]: At the Year's Final Sunset...
-On New Year's Eve. Partway through Mihono and Chie's trip together, they happened to meet Kiyoka, Sanae, and Yume, and all went to watch the sunset from an observation tower together.
-
-  
-**Mihono:** Chii-nee, look, look! The setting sun looks so pretty!  
-**Chie:** It sure is pretty, isn't it. Ah, Mihono-chan, it looks like we can go out onto the deck from there.  
-**Mihono:** Whoa, the wind's strong out here. Chii-nee, be careful so your scarf doesn't get blown away, okay!  
-**Chie:** Right. You too, Mihono-chan; be sure your hat doesn't get swept off. Though, the air is nice and clear up here too.  
-**Mihono:** Yeah, it might be cold, but getting to see the sunset so clearly is the best! Oh yeah! Chii-nee, let's take a picture!  
-**Chie:** Another picture? You've been taking them nonstop ever since this morning.  
-**Mihono:** We're on a big trip together, so don't you want to have a bunch of things to remember it by? Kiyoka, could you take our picture with my phone?  
-**Kiyoka:** I don't mind, but, Hono-chan, with all the pictures you're taking, your phone must be running out of space, right? I'll take it on my phone and send it to you later.  
-**Mihono:** You will? Thanks. That's a big help-.  
-**Kiyoka:** Okay, Hono-chan, Setouchi-san, please come up with a pose!  
-**Chie:** Umm, a pose... What should we...  
-**Kiyoka:** If you want to give off a fun mood, how about if you do something like throwing both hands up in the air?  
-**Mihono:** Like this? Banzai-!  
-**Kiyoka:** Yeah, that's great, Hono-chan! Though, you still had your phone in your hand... Next, how about you stay just like that, but hold each other's hands?  
-**Mihono:** That might look good! Come on, hold my hand, Chii-nee! Yayyy!  
-**Mihono:** WAH---- What do I do!? I dropped my phone!  
-**Chie:** Eh-!? You mean right now, when we held hands?  
-**Mihono:** I think so. It's not on the floor here, so don't tell me...  
-**Yume:** You were swinging your hands all around, Onee-san, so I think it might've fallen all the way off the deck.  
-**Mihono:** No way...  
-**Sanae:** This observation tower is a hundred meters up off the ground too. There's a cliff below us, so I don't think it could have hit anybody, but if it hit the rocks down there, it would have broken for sure...  
-**Mihono:** I don't believe it... And I took so many pictures all day too-. Uuu... How could something like this happen...  
-**Kiyoka:** Hono-chan, sorry. This all happened because I got carried away and asked you to do poses.  
-**Mihono:** It's not your fault, Kiyoka. I was the one who let go because I wasn't careful.  
-**Mihono:** Sigh... For me to mess up this bad at the very very end of the year; my luck is the worst.  
-**Chie:** Don't look so sad, Mihono-chan. We might not be able to get the pictures back, but because of you, I've been having lots of fun all day.  
-**Chie:** All the memories are right here in my heart, so it's fine. Here, raise up your head. We can still make plenty more memories together from now on.  
-**Mihono:** Chii-nee...  
-**Kiyoka:** Ahh, the closeness between those two. It kind of makes you feel like tearing up, doesn't it?  
-**Sanae:** I know. That closeness itself might be the best takeaway from this trip...  
-**Yume:** Hey, hey, somebody's phone's been ringing. It's ruining the mood. Whose is it?  
-**Chie:** It isn't mine. ...Hm? Mihono-chan, isn't the ringing coming from behind you?  
-**Mihono:** Huh? Now that you say it, I think so. But, my phone fell down the cliff...  
-**Kiyoka:** Wait! Hono-chan, isn't there something in the hood of your parka?  
-**Mihono:** Whoa-! It's my phone! It didn't fall down the cliff; it fell into my hood.  
-**Sanae:** I can hardly believe it. But, isn't that great for you, Asakura-san.  
-**Mihono:** Yeah, and it seems like all my photos are safe too. Sorry for making all of you worry, guys!  
-**Yume:** Good for you. But, wouldn't you normally notice if something fell into your hood, Onee-san?  
-**Mihono:** I had no idea when it happened...  
-**Chie:** You might not have been able to notice in the panic after you dropped it. But, I'm glad to see you're back to your happy self, Mihono-chan.  
-**Sanae:** By the way, your phone has been ringing for a while, hasn't it? Who's trying to get a hold of you?  
-**Mihono:** Ahhh! Yui sent me all these texts!  
-**Kiyoka:** "Where's those lovey dovey shots of you two you promised?" "The sun is already setting" "Hurry up-!" it says. Do you have to text her back?  
-**Mihono:** That reminds me, I did promise I'd send her pictures of Chii-nee and me together.  
-**Mihono:** But, all I took were normal pictures of us having fun sightseeing, so it's probably not anything like what Yui's expecting.  
-**Kiyoka:** Fufu, in that case, I'll take one for you now. Hono-chan, hug up nice and close against Setouchi-san. Press your cheeks together too, and it'll look extra lovey dovey!  
-**Mihono:** I-I can't do that out of nowhere-! It'd be embarrassing, right, Chii-nee?  
-**Chie:** Well, it is a little embarrassing, but since we are on a big trip, it might be nice to have photos like this too.  
-**Mihono:** I guess so... Then, when in Rome! [hug-]!  
-**Kiyoka:** Yeah, that pose looks perfect! I'm taking the picture now. Say cheese!  

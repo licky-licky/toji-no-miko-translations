@@ -2,9 +2,8 @@
 A Certain Superpowered Parallel World
 =====================================
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/sa9nfpnKeaA"></iframe></div>  
-Creation Experiment (Trial)
 
-  
+## Creation Experiment (Trial)
 **Shirai Kuroko:** That reminds me, Onee-sama. I've heard you'll soon be helping with an experiment to create a new type of metal. Is that true?  
 **Misaka Mikoto:** Ah, yeah. I'm surprised you knew.  
 **Kuroko:** I didn't think you interested in those experiments normally.  
@@ -16,9 +15,7 @@ Creation Experiment (Trial)
 **Mikoto:** Sure, I think that'll be fine?  
 **Uiharu Kazari:** Saten-san, didn't you say you'd be busy gathering gossip about that urban legend that there's a door to another world hidden in some school district?  
 **Ruiko:** It's fine, it's fine. Urban legends aren't going anywhere!  
-Visitors (Gallery)
-
-  
+## Visitors (Gallery)  
 **Mikoto:** HAAAA...!  
 **Ruiko:** That's as incredible of an electric shock as ever, Misaka-san.  
 **Kazari:** I wonder what the theory is behind creating a new type of metal using electricity, anyway?  
@@ -181,9 +178,7 @@ Visitors (Gallery)
 **Ruiko:** Ah-, that'd be great. I was starving, actually.  
 
 ## 3: Toji are Highly Busy
-Several days had passed since Mikoto and the others came to this world.
-
-  
+Several days had passed since Mikoto and the others came to this world.  
 They offered to help gather from the aradama the tamahagane metal that their experiment had created.
 
   
@@ -416,6 +411,7 @@ The following day--
 **Sanae:** If we just handle this like we usually do, it should be fine.  
 **Mai:** Mmhm. We just need to pool our strength--  
 **Kanami:** We can do this, everyone! Let's go!  
+
 After supressing the aradama--
 
   

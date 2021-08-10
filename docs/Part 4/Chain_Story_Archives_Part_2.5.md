@@ -1,8 +1,9 @@
 
 Chain Story Archives Part 2.5
 =============================
-[Due to this event being released across 3 months, there are 3 separate videos]
-
+:::note
+Due to this event being released across 3 months, there are 3 separate videos.
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/dRw4QiWULI0"></iframe></div>  
 
 

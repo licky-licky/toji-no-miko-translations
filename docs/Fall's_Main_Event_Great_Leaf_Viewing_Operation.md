@@ -1,8 +1,10 @@
 
 Fall's Main Event! Great Leaf Viewing Operation
 ===============================================
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/fZFiQs-1TKo"></iframe></div>  
+:::note
 Covers both fall events.
+:::
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/fZFiQs-1TKo"></iframe></div>  
 
   
 
@@ -41,8 +43,8 @@ With autumn in full swing, toji of the STT have been called to action to suppres
 **Mirja:** They don't seem to pose any immediate danger, however, as we have no way of knowing what effects they may have on the area, it would be best if we collected any we find.  
 **Tsugumi:** Ah, then I'll be in charge of gathering them. If you find any more, please let me have them.  
 **Hiyori:** O-Okay... I'll leave you to that. With that settled, we should begin our mission.  
-A little while after beginning their aradama suppression mission...
 
+A little while after beginning their aradama suppression mission...
   
 **Hiyori:** How are you all holding up? We could take a break.  
 **Tsugumi:** You're all even stronger than I thought. Thanks to your efforts, I've been able to safely focus on collecting leaves.  
@@ -100,8 +102,8 @@ A little while after beginning their aradama suppression mission...
 **Sayaka:** Tsugumi, good luck.  
 **Tsugumi:** ...You're all pretty humorless, huh.  
 **Hiyori:** Anyway, why don't we take in the fall colors one last time on our way back.  
-On a later day...
 
+On a later day...
   
 **Tsugumi:** Fufu. I finally managed to get you home, my "red raging leaves". It's time for some fun experiments together.  
 **Tsugumi:** Nn? Huh? Where did I put them...?  

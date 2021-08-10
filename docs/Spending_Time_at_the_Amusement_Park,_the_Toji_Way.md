@@ -109,6 +109,7 @@ Spending Time at the Amusement Park, the Toji Way
 **Kiyoka:** Yes!  
 **Kanami:** They're closing soon, so we should race back there!  
 **Kiyoka:** Okay!  
+
 At that time, the two from the elite guard were--
 
   
@@ -171,6 +172,7 @@ At that time, the two from the elite guard were--
 **Hiyori:** I get it... Not just thinking of where you start, but the machine you start in. Not bad, Mirja.  
 **Kiyoka:** Should you really be impressed by that!?  
 **Kiyoka:** This is looking like an even more dangerous competition than I thought...  
+
 At the same time, Maki and Suzuka were walking nearby--
 
   

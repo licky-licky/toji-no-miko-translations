@@ -1,11 +1,10 @@
 
 5-6 Tamayori Toji
 =================
-
+:::note
+The chapter had a staggered release, so the video is in 4 parts.
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/O3aZ1PAzOf4"></iframe></div> 
-
-
-[The chapter had a staggered release, so the video is in 4 parts.]
 
 ## 1: The Investigation Team Without Mihono (1)
 Several days later--

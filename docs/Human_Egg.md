@@ -1,10 +1,10 @@
 
 Human Egg
 =========
+:::note
+Like last year's Escape from Wonderland event, there was an official competition to guess the identities of all players before the final story update.
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/xkR1G_BHzCI"></iframe></div>  
-[Like last year's Escape from Wonderland event, there was an official competition to guess the identities of all players before the final story update.]
-
-  
 
 ## 1: Human Egg
 **Mirja:** ...Hidden among us are two impostors. Asakura Mihono, Musumi Kiyoka. Which faction do you belong to?  

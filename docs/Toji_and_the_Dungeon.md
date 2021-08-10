@@ -4,12 +4,8 @@ Toji and the Dungeon
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/DK-DkM29FI8"></iframe></div>  
 
 ## 1: Awakening in a Dungeon
---How am I meant to become stronger than I already am? Whenever I'm training, that's always on my mind.
-
-  
-Still, what should I be doing besides swinging my okatana? What should I be doing besides polishing what I already know? Is there something else, something I'm missing?
-
-  
+--How am I meant to become stronger than I already am? Whenever I'm training, that's always on my mind.  
+Still, what should I be doing besides swinging my okatana? What should I be doing besides polishing what I already know? Is there something else, something I'm missing?  
 Again and again, I can't get it out of my mind. But I still haven't found the answer...
 
   

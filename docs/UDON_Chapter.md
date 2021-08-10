@@ -39,8 +39,8 @@
 **Fuu:** [SLURRRRRP]! Please take us, Satsuki-san! Tomorrow, the Hero Club sets out on their udon journey!  
 **Fuu:** Anyway, we'll have to stock up on energy! Let's get seconds!  
 **Itsuki:** Onee-chan, that's your third...  
-The next day, the Heroes and the toji gathered before the break of dawn.
 
+The next day, the Heroes and the toji gathered before the break of dawn.
   
 **Yuuna:** Yawn... Morning, everybody! Isn't it fun, us all leaving this early! Kind of like a field trip!  
 **Tougou:** Thinking of breakfast, I borrowed a kitchen and made us some botamochi.  

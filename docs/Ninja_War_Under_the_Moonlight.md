@@ -14,8 +14,8 @@ Ninja War Under the Moonlight
 **Suzuka:** However, Makizou-dono, we do have a bit of spare time. A round of rat hunting might be amusing.  
 **Maki:** A rat hunt...? You may be on to something, Suzusuke-dono.  
 **Maki:** If they're skilled enough to invade here, they may prove useful in killing time... We'll see.  
-Meanwhile, on the other side--
 
+Meanwhile, on the other side--
   
 **Kofuki:** Damnit, why do I have to play along with this dumb stuff? What moron came up with "Mokusa ninja"!  
 **Kiyoka:** P-Please calm down, Kofukimaru-san. If you make too much noise, the enemy will find us.  
@@ -33,8 +33,8 @@ Meanwhile, on the other side--
 **Kiyoka:** The secret message is a secret message. The village is a village. Please don't try to poke holes in the setting.  
 **Kofuki:** Poke holes!? Between the secret message and the village, there's more holes than setting!  
 **Kofuki:** I guess it doesn't matter... I just have to play along. Let's hurry and get this over with!  
-Once again, on the other side--
 
+Once again, on the other side--
   
 **Maki:** There you are! Skulking around in a place like this; you truly are rats!  
 **Nagasaki Sumi:** Ahh, we're not rats, we're ninja...  
@@ -154,7 +154,7 @@ Once again, on the other side--
 **Suzuka:** I understand that, but... I didn't think you'd be so obsessive about it. In a way, I'm impressed!  
 **Kiyoka:** You let your guard down! I'll be taking the secret letter now!  
 **Maki:** Damn! Run, Sakurayoshi!!  
-**Sakura:** Ahhh~~!! My butt! My butt still hurts...!  
+**Sakura:** Ahhh\~\~!! My butt! My butt still hurts...!  
 **Announcer:** Time is up. Time is up. The invading team could not complete their objective within the time limit. Therefore, the defending team wins.  
 **Announcer:** I repeat: Time is up. Time is up. The invading team could not complete their objective within the time limit. Therefore, the defending team wins.  
 **Announcer:** Good work out there, everyone. With this, the special training course "Ninja Mansion" is concluded.  
@@ -182,6 +182,6 @@ Once again, on the other side--
 **Maki:** It goes without saying that a team of toji working together need to trust each other to cooperate. Acting according to your private interests is forbidden.  
 **Suzuka:** And in your case, Shichinosato-san. With your complete lack of cooperation, we were asked by Kitora Mirja-san to train you thoroughly.  
 **Maki:** Don't think you'll get to leave until after we finish all seven more sets.  
-**Kofuki:** Huuuhhhh~~~~~~!? Seven sets!?  
+**Kofuki:** Huuuhhhh\~\~\~\~\~\~!? Seven sets!?  
 **Announcer:** In a moment, the next training course will begin. The name of the program is "The Queen and the Great Thieves". Details of the mission are as follows--  
 **Kofuki:** LET ME OUT OF HERE ALREADYYY!!  

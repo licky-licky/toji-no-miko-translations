@@ -195,9 +195,9 @@ On the day of the campaign.
 **Kanami:** Who else is going? Do I get to go?  
 **Mirja:** Only Nitta Hirona and 2 others will be going, but the only ones without plans on that day are... Mashiko Kaoru and Kohagura Ellen.  
 **Ellen:** Wow! Kaoru and I get to be police officers!?  
-**Mashiko:** Gehh... Do we have to? I thought I'd get to spend that day lazing around.  
-The day of the event.
+**Mashiko:** Gehh... Do we have to? I thought I'd get to spend that day lazing around. 
 
+The day of the event.
   
 **Police PR Official:** Nitta-san, we're glad to have you back. We're looking forward to working with you again.  
 **Hirona:** Okayy. Please take care of mee.  

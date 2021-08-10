@@ -180,8 +180,8 @@ Toji Summer Vacation -Hard Struggle Arc-
 **Mai:** Mihono-chaaan, Musumi-saaan! If you don't put your swimsuits on soon, the sun will set before you know it!  
 **Mihono:** C'mon, Kiyoka! Here's your chance to get closer to Mai and the rest! Summer vacation's just getting started, after all!  
 **Kiyoka:** --Right!  
-That night, on a mountain near the coast--
 
+That night, on a mountain near the coast--
   
 **Taeko:** Hmm... I helped the Special Ritual Squad with their after-investigation, but we couldn't find a clue as to the source of the mass outbreak...  
 **Taeko:** ...We may need to do a little more research into this area...  

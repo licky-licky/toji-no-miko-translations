@@ -190,8 +190,8 @@ Toji Edo Detective Story
 **Film Director:** Alright, time to film something spectacular!  
 **Kofuki:** Kuku... Things are getting interesting 'round here.  
 **Kazumi:** ...Will Maki-sama truly be in a movie?  
-Several months after the mission at the movie studio, on the movie's opening day.
 
+Several months after the mission at the movie studio, on the movie's opening day.
   
 **Yume:** I can't wait to see Maki-onee-san's movie~!  
 **Suzuka:** I never thought I'd see Maki-san's debut on the silver screen.  

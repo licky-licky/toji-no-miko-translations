@@ -1,9 +1,10 @@
 
 5-7 Awakening
 =============
-
+:::note
+The chapter had a staggered release, so the video is in 4 parts.
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/WgqAjgkSDn0"></iframe></div> 
-  
 
 ## 1: To See Her
 **Yui:** Are you there, Hana-san? It's Yamashiro\.  

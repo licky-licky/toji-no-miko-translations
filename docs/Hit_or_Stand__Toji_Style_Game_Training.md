@@ -136,8 +136,8 @@ Hit or Stand? Toji Style Game Training
 **Maki:** As for more in depth rules...  
 **Kofuki:** Aghh, I get it already! This is boring! There's hit, there's stand, and you add up to 21. That's enough, right?  
 **Maki:** If you're fine with that. Then, let's play blackjack.  
---Ten minutes later.
 
+--Ten minutes later.
   
 **Dealer:** Hole card, open. The dealer's cards reach 20.  
 **Mai:** 20, huh... I'm at 18, and the odds of getting a 3 are... Well, I don't think there's any helping me here.  
@@ -255,8 +255,8 @@ Hit or Stand? Toji Style Game Training
 **Mai:** It's time to play blackjack, Shichinosato-san, Musumi-san.  
 **Kofuki:** I'm all warmed up now. I'm gonna win it this time!  
 **Kiyoka:** I'll try, but... I wanted to hear the rest-!  
-Several days later--
 
+Several days later--
   
 **Kofuki:** Can't believe we ended up with makeup lessons anyway!  
 **Kiyoka:** It's a real shame... You were so close to beating Shidou-san.  

@@ -24,15 +24,15 @@ There's an Anomaly in the Seasonal Rain Front!
 **Kanami:** Take me? Hmm, where could that be? Tell me, Mai-chan!  
 **Mai:** It's... A secret, until we get there.  
 **Mai:** (If Kanami-chan doesn't remember... Then it would be kind of sad.)  
---The day before the picnic.
 
+--The day before the picnic.
   
 **Mai:** Let's get everything ready for the bento! Since we're having a picnic and all, I can get a little extravagant.  
 **Mai:** Karaage, ginger fried pork, hijiki kinpira. With this many brown colored foods, I should add a side dish of boiled spinach with soy sauce, tamagoyaki with tomatoes, and some Chinese style cucumber salad!  
 **Mai:** After that... Kanami-chan's favorite: natto over rice! ...I can't make that now though... Oh, right! I can just set the rice cooker for tomorrow morning... There!  
 **Mai:** Fufu~. Mr. Teru Teru Bozu, I'll be needing your help tomorrow~. [teru teru bozu are simple dolls made to pray for a sunny day]  
---The day of the picnic.
 
+--The day of the picnic.
   
 **Weatherman:** --In what would normally be an unthinkable weather pattern, it seems the rainy season will be continuing over this particular area for a while longer.  
 **Mai:** Eh!?  

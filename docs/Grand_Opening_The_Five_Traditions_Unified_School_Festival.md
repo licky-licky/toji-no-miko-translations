@@ -65,8 +65,8 @@ Grand Opening! The Five Traditions Unified School Festival
 **Yomi:** Musumi-san, are you sure about that?  
 **Kiyoka:** Yes. There's so many things I want to do that it's hard to pick just one... I know! To keep things fair, why don't we use a lottery to decide?  
 **Maki:** Understood. If that's how you want it, we'll do it.  
-After drawing the lottery--
 
+After drawing the lottery--
   
 **Kiyoka:** Aww...  
 **Kiyoka:** (I said I'd do my best at anything, but I didn't think I'd draw the most boring one...)  
@@ -110,8 +110,8 @@ On the day of the Five Traditions Unified School Festival--
 **Maki:** Still, we decided that it was your duty to be there right now. You have to stick to the schedule. Go on, hurry up back to the cafe.  
 **Yume:** Fiiine.  
 **Maki:** Alright, next they need me as an announcer on stage. Starting in three minutes. If I hurry, I can make it in time.  
-At that time, outside the school festival grounds--
 
+At that time, outside the school festival grounds--
   
 **Kiyoka:** Sigh... I know security is important and all... But am I really going to miss the whole festival standing out here...  
 **Kiyoka:** The band should be playing up on stage right about now. That must be so exciting...  
@@ -167,8 +167,8 @@ At that time, outside the school festival grounds--
 **Kiyoka:** In that case, I'll guide you there, master!  
 **Suzuka:** Musumi-san immediately understands how to win a guest's heart. Having them switch positions was the right idea after all.  
 **Maki:** Agreed. Everyone has something they're better cut out for.  
-And like that, the school festival finished without incident--
 
+And like that, the school festival finished without incident--
   
 **Maki:** So it's already time to shut it down. I'm glad everything went smoothly.  
 **Yomi:** Because of my reassignment, I was also able to fulfill my duties until the end. Thank you very much.  

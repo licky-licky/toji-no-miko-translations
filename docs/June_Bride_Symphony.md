@@ -237,11 +237,11 @@ June Bride Symphony
 **Kozue:** W-Well that's because, umm... You see...  
 **Hina:** R-Right...  
 **Yukari:** Why has no one reached the goal?  
-**Kozue:** U-Uhh, well... Ahh! Oh no, time just ran ouuu~~~t!! We've reached the time limit!  
+**Kozue:** U-Uhh, well... Ahh! Oh no, time just ran ouuu\~\~\~t!! We've reached the time limit!  
 **Kozue:** Who could have seen this coming; we finished without a single winner!  
 **Yukari:** ...Hm, that would be a problem. Then all the trouble of planning this event was for nothing.  
 **Hina:** Y-Yes... It seems like it...  
-**Kozue:** A-All of you gathered here~~! If things end like this with no winners, you're causing serious problems for the head of the family, you know!  
+**Kozue:** A-All of you gathered here\~\~! If things end like this with no winners, you're causing serious problems for the head of the family, you know!  
 **Mihono:** ......Hmm~. Then, why doesn't everyone reach the goal together? That way we can all wear dresses and everyone's happy?  
 **Kanami:** Ah, that could work!  
 **Hiyori:** Really...?  

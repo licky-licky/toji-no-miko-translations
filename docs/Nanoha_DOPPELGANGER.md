@@ -1,10 +1,10 @@
 
 Nanoha DOPPELGANGER
 ===================
+:::note
+As per usual for collabs, the countdowns are voiced. Unusually, the game decided to combine both parts of the event into one, so I have them all here even if the numbering is off.
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/YyVH-T2QEjM"></iframe></div>  
-[As per usual for collabs, the countdowns are voiced. Unusually, the game decided to combine both parts of the event into one, so I have them all here even if the numbering is off.]
-
-  
 
 ## 1: What Are the Toji Like? ~2 Days Until the Collab Event~
 **Nanoha:** Fate-chan, Hayate-chan.  

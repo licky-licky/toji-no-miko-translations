@@ -253,6 +253,7 @@ The next day--
 **Mihono:** (Maybe we just aren't cut out to be idols after all...)  
 **Mihono:** (No... That can't be right!)  
 **Mihono:** (Kanami said watching our performance made her feel better. There's got to be some way for us to make people smile!)  
+
 When the next day's lessons were starting.
 
   
@@ -323,6 +324,7 @@ And so the day of Mihono and Kanami's teams' joint-live arrived.
 **Mihono:** We can't bring down the whole joint-live if we screw it up.  
 **Yui:** Got it-! That makes us on even terms with Kanami and them.  
 **Kiyoka:** L-Let's do the best we can, Hono-chan-!  
+
 Mihono-chan and the others headed out before the audience, and their performance began.
 
   
@@ -446,6 +448,7 @@ Mihono-chan and the others headed out before the audience, and their performance
 **Mihono:** Shidou-san told me they're gonna make it the ultimate show. So then... we should all make it even better than ultimate!  
 **Kanami:** Better than ultimate... Sure! For some reason, that gets me really pumped up!  
 **Kanami:** Let's all train together until we get so good that even the elite guard can't believe it!  
+
 On the first day of the training camp--
 
   
@@ -517,8 +520,8 @@ On the first day of the training camp--
 **Mihono:** Kanami and me as a double-center...  
 **Kanami:** Let's give it our best shot, Mihono-chan!  
 **Mihono:** Yeah-! Thanks, everybody!  
-After the training camp was over, Mihono went straight to report to Maki.
 
+After the training camp was over, Mihono went straight to report to Maki.
   
 **Maki:** Okay... So you and Etou Kanami's teams will be performing together.  
 **Maki:** The main performance'll be something to see.  
@@ -642,7 +645,7 @@ And so the day of the cultural festival came--
 **Sayaka:** Mm, thanks, Mai.  
 **Hiyori:** Alright, next it's our turn to show off.  
 **Sanae:** Mmhm, let's give it our best shot, Juujou-san!  
-**Mihono:** Nnn~~~, I never knew it felt this good being up on stage!  
+**Mihono:** Nnn\~\~\~, I never knew it felt this good being up on stage!  
 **Mihono:** Everybody, thank you so so much cheering us on this whole time!  
 **Mihono:** Okay, here comes the climax, Kanami!  
 **Kanami:** Yeah, let's stick together and give it one last burst!  

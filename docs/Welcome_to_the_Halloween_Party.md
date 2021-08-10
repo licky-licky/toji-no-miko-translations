@@ -1,10 +1,10 @@
 
 Welcome to the Halloween Party!
 ===============================
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/GUIkSASCHRk"></iframe></div>  
+:::note
 Covers both Halloween events.
-
-  
+:::
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/GUIkSASCHRk"></iframe></div>
 
 ## 1: It's Nearly Halloween!
 **Kanami:** Mai-chan, Sayaka-chan, hurry up!  

@@ -284,7 +284,8 @@ In a certain room of the hospital--
 **Sayaka:** Yui. I want you to take one of me too.  
 **Yui:** Course I will! While we're at it, let's get Mai-chan and everyone in there too!  
 **Mai:** In that case, Sayaka-chan, can I get a picture with you?  
-**Sayaka:** Mm, I want to take one with everyone.  
+**Sayaka:** Mm, I want to take one with everyone. 
+
 Elsewhere--
 
   
@@ -335,67 +336,3 @@ Elsewhere--
 **Yume:** ...  
 **Yomi:** Isn't that nice, Tsubakuro-san.  
 **Yume:** Yeah! Being Miss Five Traditions might actually be pretty fun!  
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/ZYwru7GiMV0"></iframe></div>  
-
-## [Valkyrie - Yomi: Start]: A Sudden Call from Akira
-**Akira:** Oiii, Yomi! Here, over here~.  
-**Yomi:** I could tell where you were without you having to shout.  
-**Akira:** You just looked like you were kinda spacing out over there. Anyway, ready to go?  
-**Yomi:** I was wondering where you were taking me. A cakery?  
-**Akira:** What's wrong with that? The limited run parfaits this place makes get a lot of talk for being good.  
-**Yomi:** You still like parfaits like you used to.  
-**Yomi:** So, what was the reason you called me here for?  
-**Akira:** I had a little something to take care of around here. So I thought I'd give you a call. It's no fun eating by yourself, right?  
-**Yomi:** ......  
-**Akira:** I know you've probably got a lot going on too, but you've gotta take a breather every now and then.  
-**Yomi:** I have to be part of a promotional photo shoot later today, so I can't stay here for very long.  
-**Akira:** Huhh? What're you doing a photo shoot for?  
-**Yomi:** You could say it has to do with the results of the Miss Five Traditions competition that was held the other day, I suppose.  
-**Akira:** Ahh, oh yeah, they put those out, huh.  
-**Akira:** That reminds me, didn't you place pretty high yourself? I was surprised to hear it. I never thought you'd be up there.  
-**Akira:** Though, it must be boring as hell to sit through some photo shoot cause of it.  
-**Yomi:** I can't neglect this, considering it's part of my duties as a toji.  
-**Akira:** You got so straight laced. But, if that's what you're set on. You better do it right.  
-**Akira:** You gonna be doing it in your uniform? They'd probably get mad if you wore something too casual; so a jacket like mine's out.  
-**Yomi:** You're probably right. Though, this time it's arranged for me to wear a valkyrie themed costume, along with Tsubakuro-san and the others.  
-**Akira:** ......  
-**Akira:** What're you talking about?  
-**Yomi:** You may not know about it, Akira, but valkyries were something that was part of Norse mythology--  
-**Akira:** It's not like I don't know what valkyries are...! I'm asking, why're they making you dress up like that...!?  
-**Yomi:** That's what I'd like to know.  
-**Akira:** Yeah, I guess... The bureau does say to do some ridiculous stuff sometimes, huh.  
-**Akira:** ...Well, do what you can. Whatever you're buying here'll be my treat.  
-**Yomi:** Then, I'll have some tea. The black tea here is fairly good; it goes well with sweet foods.  
-**Akira:** I'll have the same thing you're drinking then.  
-**Akira:** Ah, when you get the photos back, lemme see. Those'll be fun to look through for sure.  
-
-## [Valkyrie - Yomi: End]: This One is My Favorite
-**Akira:** Yo! It's rare for you to call me to hang out.  
-**Yomi:** I got the photos back from that photo shoot we spoke about the other day.  
-**Yomi:** I think they'll be published online soon, but I had heard you were coming by on an assignment.  
-**Akira:** Cool; let me just put my bike away. Wait here a minute.  
-**Akira:** So, how'd that photo shoot turn out anyway?  
-**Yomi:** Like this.  
-**Akira:** Whoa-!? The hell... You're looking way too cool in this.  
-**Akira:** That sharp look on your face is great. It came out really damn nice.  
-**Yomi:** I didn't expect you to praise it so much.  
-**Akira:** Why not? Of course I would if it turned out this good.  
-**Yomi:** That's true. Though, I expected you to make fun of me.  
-**Akira:** Yeah, if I'm being honest, I was planning to, until I actually saw this. This whole valkyrie thing came out of nowhere.  
-**Akira:** But this seems like it'll get some attention. Especially if Tsubakuro Yume and Kanami and the others are doing it.  
-**Akira:** You got any other shots of you in this?  
-**Yomi:** No. This is the only one I brought with me.  
-**Akira:** That's too bad. I really like the look of this one.  
-**Yomi:** I see. I wasn't sure which photo to bring myself, so the others in the special defense team picked it out for me.  
-**Akira:** Huh. Didn't think you were so close with them, Yomi.  
-**Akira:** Does that mean you're pushing omusubi on them too?  
-**Yomi:** Sometimes... I do.  
-**Akira:** The omusubi you make are weirdly good, y'know. Somehow, just talking about them made me hungry.  
-**Akira:** I'm thinking of getting something to eat here, but, what about you?  
-**Yomi:** I'd like to join you, but I've already made plans.  
-**Akira:** With the special defense team?  
-**Yomi:** Yes.  
-**Akira:** Guess there's no helping that. We didn't get to see each other much, but I had fun today.  
-**Yomi:** I did too. Then, until next time.  
-**Akira:** She's working real hard for her buddies, huh.  
-**Akira:** Alright... I've gotta stick to it too.  

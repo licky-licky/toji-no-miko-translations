@@ -35,6 +35,7 @@ After the escape room game was concluded...
 **Ellen:** In fact, I don't think it'll work if we can't get your cookies at the party!  
 **Chie:** In that case, Ellen-san will take care of the cakes, and Yanase-san will take care of the cookies.  
 **Chie:** We should all make some quick decisions on what we're bringing, so none of us bring the same thing.  
+
 The day of the tea party.
 
   
@@ -64,9 +65,7 @@ The day of the tea party.
 ## 2: The March Hare's Tea Party
 **Ellen:** Good, now the teapot and cups are all set out again!  
 **Sayaka:** ...It's perfect. They're lined up pretty.  
-[stomach growls]
-
-  
+[stomach growls]  
 **Sayaka:** ...Mai?  
 **Mai:** Th-That wasn't me, Sayaka-chan!?  
 **Kaoru:** That was me.  

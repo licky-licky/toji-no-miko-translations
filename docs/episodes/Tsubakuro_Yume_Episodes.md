@@ -138,7 +138,8 @@ Tsubakuro Yume Episodes
 **Yume:** ...Hey, Onee-san. Don't forget about me, okay...  
 **Kanami:** ...I won't! I could never forget you!  
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/g3DcgmFmPik"></iframe></div>  
-**Furisode Part 1:** Yume's First Shrine Visit of the Year  
+
+## Furisode Part 1: Yume's First Shrine Visit of the Year  
 **Yume:** Whoa~, there's so many people. Do we really have to wait in line here?  
 **Suzuka:** My, weren't you the one saying you wanted to make your first shrine visit of the year?  
 **Yume:** I did, but~... I just wanted to go with you onee-sans.  
@@ -169,7 +170,7 @@ Tsubakuro Yume Episodes
 **Yume:** Yup. I'm giving all these to you onee-sans, as a gift.  
 **Maki:** A gift?  
 **Yume:** Thank you, onee-sans. If it weren't for you two, we wouldn't be able to do our first shrine visit together.  
-**Furisode Part 2:** Thank You  
+## Furisode Part 2: Thank You  
 **Yume:** Thank you, onee-sans. If it weren't for you two, we wouldn't be able to do our first shrine visit together.  
 **Maki:** It's rare hearing you say thanks...  
 **Yume:** Come on! Just listen to me!  

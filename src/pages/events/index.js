@@ -119,9 +119,9 @@ const events = [
     ["Battle_for_the_First_in_the_Pool", "pool", "pool", "Battle for the First in the Pool!", 2018],
     ["June_Bride_Symphony", "bride2018", "bride2018", "June Bride Symphony", 2018],
     ["Ninja_War_Under_the_Moonlight", "ninja", "ninja", "Ninja War Under the Moonlight", 2018],
-    ["Elite_Guard_Memoirs:_Cherry_Blossom_Arc", "eliteguard2", "eliteguard2", "Elite Guard Memoirs: Cherry Blossom Arc", 2018],
+    ["Elite_Guard_Memoirs_Cherry_Blossom_Arc", "eliteguard2", "eliteguard2", "Elite Guard Memoirs: Cherry Blossom Arc", 2018],
     ["Spring_in_Full_Bloom_Combined_Off-Campus_Learning", "spring", "spring", "Spring in Full Bloom! Combined Off-Campus Learning", 2018],
-    ["Elite_Guard_Memoirs:_Hakone_Arc", "eliteguard1", "eliteguard1", "Elite Guard Memoirs: Hakone Arc", 2018],
+    ["Elite_Guard_Memoirs_Hakone_Arc", "eliteguard1", "eliteguard1", "Elite Guard Memoirs: Hakone Arc", 2018],
     ["Team_vs_Team_in_the_White_Day_Wars", "white_day", "white_day", "Team vs Team in the White Day Wars", 2018],
 ]
 
@@ -182,7 +182,6 @@ function Events() {
             setFilter(savedFilter)
         
         const savedNewestFirst = getFromSessionStorage('newest')
-        console.log(savedNewestFirst);
         if (typeof savedNewestFirst === 'boolean')
             setOrderNewestFirst(savedNewestFirst)
     }, [])

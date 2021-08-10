@@ -1,10 +1,10 @@
 
 Happy New Year! The Tojis' New Year's and Prayers [mystery]
 ===========================================================
+:::note  
+The third annual riddle event, where you could win a prize by guessing the answers correctly on twitter.
+:::
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/B_fpUNymLSk"></iframe></div>  
-[The third annual riddle event, where you could win a prize by guessing the answers correctly on twitter.]
-
-  
 
 ## 1: Riddles in Place of Osechi
 **Mirja:** Good work on our mission, everyone. We successfully cleared out the aradama without incident.  

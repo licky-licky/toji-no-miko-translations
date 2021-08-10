@@ -1,7 +1,10 @@
 
 Miss Five Traditions Contest
 ============================
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/N8q9gtW9xcY"></iframe></div>  
+<!-- <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/N8q9gtW9xcY"></iframe></div>   -->
+:::caution No video yet
+Will put it here if it appears.
+:::
 
 ## 1: Aiming to Be the Toji Representative
 **Maki:** Yukari-sama. Shidou Maki and Konohana Suzuka have arrived.  
@@ -27,8 +30,8 @@ Miss Five Traditions Contest
 **Maki:** As members of the elite guard, we can't afford to give a bad example here, can we, Suzuka.  
 **Suzuka:** That's true. This is a fine opportunity to demonstrate to the public our regular dedication to improving ourselves.  
 **Yukari:** I will be there as well, on the day of the competition. I have high expectations that the nominated toji will put their best efforts.  
-After Yukari announced the details of the "Miss Five Traditions" Selection Tournament, word spread in a flash among the toji.
 
+After Yukari announced the details of the "Miss Five Traditions" Selection Tournament, word spread in a flash among the toji.
   
 **Mihono:** Being an ambassador of peace toward the world sounds kinda amazing, doesn't it!  
 **Mihono:** And also, I'm really happy everyone in the investigation team got chosen as "Miss Five Traditions" candidates too.  
@@ -65,6 +68,7 @@ And so, the day of the "Miss Five Traditions" Selection Tournament came.
 **Announcement:** Inago Akira-san. If you have arrived at the tournament hall, please let the administrator's office know at once--  
 **Kofuki:** Huhh, so somebody's not even here yet. Actually, that should've been me.  
 **Kofuki:** Let me hunt some aradama instead of playing along with this junk-.  
+
 At that moment.
 
   
@@ -308,6 +312,7 @@ After all the judging had been concluded, the toji each waited for the results t
 **Yomi:** Everyone, I've prepared omusubi if you'd like.  
 **Yume:** Yaaay, I'll have some-!  
 **Announcer:** Thank you very much for waiting. The one selected to be "Miss Five Traditions" is...  
+
 You will decide who becomes Miss Five Traditions! By all means, please vote for your favorite toji!
 
   
@@ -320,74 +325,3 @@ You will decide who becomes Miss Five Traditions! By all means, please vote for 
 **Announcer:** Thank you for your comments! We'll look forward to seeing your efforts in the future!  
 **Announcer:** And, to those of you who participated in the voting, thank you once again!  
 **Announcer:** Please continue to support the toji from here on out!  
-<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/fhciZ41akJA"></iframe></div>  
-
-## [Dress 20 - Mihono: Start]: I Want to Throw a Thank You Party!
-**Mihono:** Let's throw a thank you party for the Miss Five Traditions competition! Everybody tried really hard, so, no matter how it turns out, let's thank them!  
-**Mihono:** Or something like that!  
-**Kofuki:** Fine by me?  
-**Chie:** Then, I'll make us some food.  
-**Mihono:** Chii-nee's gonna cook!  
-**Mihono:** ...But wait, why don't we just go do karaoke?  
-**Mihono:** I do want to eat Chii-nee's cooking, but I want it to be something more casual and fun where we can let loose.  
-**Chie:** Fufu, you're just being considerate. Karaoke, hm. I'll look forward to it.  
-**Mirja:** That's right, I'll have to tune my throat beforehand.  
-**Yui:** I can't wait to hear Mirja-san's singing! Let's sing a duet together!  
-**Kiyoka:** Are you only going to be inviting the investigation team?  
-**Mihono:** Since we're doing this, I want to reach out to Kanami and them too.  
-**Kiyoka:** It would be more fun with everyone going, won't it? I'll talk to Juujou-san.  
-**Chie:** Then, I'll ask Kaoru-san and Ellen-san. Tsugumi-san, can you speak to Itomi-san about it?  
-**Tsugumi:** Understood. I'll ask Itomi-san.  
-**Mihono:** Alright-, Kiyoka, Yui, Fukki-! Let's go do karaoke now! We've gotta build up our stock of songs!  
-**Mihono:** Wait, that was what we talked about, so why'd it turn into a party at such a fancy place!?  
-**Kanami:** I heard the elite guard and Yukari-sama found out about it, and it sounds like Yukari-sama decided to hold a great big party to thank everyone.  
-**Mihono:** Our karaoke meetup turned into a real party!  
-**Mihono:** Hey, Kanami! Since Yukari-sama did this, that means she had to have gotten some yummy food for us, right!  
-**Mihono:** Mmmm, I can't wait!  
-**Kanami:** I know what you mean, Mihono-chan.  
-**Mai:** Kanami-chan, Mihono-chan, it seems like they have dresses ready for us over there.  
-**Mihono:** She got us dresses too!? Let's go quick, Kanami!  
-**Kanami:** Ah, wait up, Mihono-chan!?  
-**Mai:** You don't have to be in such a rush you two; they have enough for everyone...  
-**Mai:** They're already gone.  
-**Sayaka:** Mai?  
-**Mai:** Oh, Sayaka-chan.  
-**Sayaka:** Kanami and Mihono were running. Did something happen?  
-**Mai:** Nothing's happened, you don't have to worry. More importantly, what did you need?  
-**Sayaka:** I came to get you.  
-**Mai:** Thank you. I'm looking forward to seeing the dresses.  
-**Sayaka:** Mm.  
-
-## [Dress 20 - Mihono: End]: Earrings and a Necklace
-**Kiyoka:** Hono-chan, I'm going on ahead.  
-**Mihono:** Okay-, I'll be out in a minute.  
-**Kiyoka:** Alright!  
-**Mihono:** (It's just me and Itomi-san left, huh.)  
-**Mihono:** (I just need to put this ear piercing in, and... There! It's all set!)  
-**Mihono:** Okay, Itomi-san, I'm going to get going too now.  
-**Sayaka:** ...  
-**Mihono:** Itomi-san? What's wrong?  
-**Sayaka:** I can't attach this necklace right.  
-**Mihono:** Necklace?  
-**Mihono:** ...Ah.  
-**Sayaka:** I'll be okay, so you can go, Mihono.  
-**Mihono:** Since I'm already here, let's go together. Could I see your necklace? I'll put it on for you.  
-**Sayaka:** ...Okay.  
-**Mihono:** Doing this much is no big deal. And besides, this necklace; it's cute, isn't it!  
-**Sayaka:** Thank you, Mihono. Your earrings are cute too.  
-**Mihono:** Ahaha, thanks! There, it's on!  
-**Mihono:** Okay, let's go!  
-**Sayaka:** Mm.  
-**Mihono:** Huh, did somebody come back? I'm coming-.  
-**Mihono:** Chii-nee and Mai?  
-**Chie:** I thought, if you were still getting ready, I could give a hand, but... It looks like you're fine.  
-**Mai:** You look like you're finished too, Sayaka-chan.  
-**Mai:** ...Mmhm, you look very cute.  
-**Sayaka:** Thank you, Mai.  
-**Sayaka:** Mihono put this necklace on for me.  
-**Mai:** I see; Wasn't that nice of her.  
-**Sayaka:** Mm.  
-**Chie:** So you were late because you were helping Itomi-san finish up.  
-**Mihono:** There was that too, but it's mostly because I couldn't decide what earrings to go with. What do you think of these?  
-**Chie:** I like them; they look great on you, Mihono-chan.  
-**Mihono:** Ehehe, I'm glad to hear it then! Okay-, let's all go out to the party!  
