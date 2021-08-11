@@ -59,6 +59,7 @@ const events = [
     [
         'Miss_Five_Traditions_Charity_Mission', 'charity', 'charity mission', 'Miss Five Traditions Charity Mission', 2020
     ],
+    ['Yume_and_the_Ice_Magic_Sequence', 'ice', 'yume and ice', 'Yume and the Ice Magic Sequence', 2020],
     [
         'Mahouka:_Dream_Visitors', 'mahouka', 'mahouka', 'Mahouka: Dream Visitors', 2020
     ],

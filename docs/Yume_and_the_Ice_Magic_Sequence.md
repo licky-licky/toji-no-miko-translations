@@ -60,7 +60,10 @@ Several days after realizing this world was a dream...
 **Kanami:** Ah... Yume-chan!?  
 **Maki:** Wait... Yume!  
 
-## 2: Chasing Yume [Like in the event's title, Yume isn't written in kanji here, so it could mean both Yume and dreams]
+## 2: Chasing Yume
+:::note
+Like in the event's title, Yume isn't written in kanji here, so it could mean both Yume and dreams
+:::
 **Mayumi:** This here. It looks like Tsubakuro-san dropped it earlier. I think it's some sort of character keyring.  
 **Kanami:** That's the mascot character, Ichigo Daifuku Neko.  
 **Honoka:** Ah, now that you mention it, it looks like it has a strawberry daifuku motif. It's cute...  
