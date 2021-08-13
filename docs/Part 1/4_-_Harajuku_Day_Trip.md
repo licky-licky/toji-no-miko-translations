@@ -76,8 +76,9 @@
 **Mihono:** G-Got it!  
 
 ## 5: Newly Arrived Ally, Ma[i] (1)
-(there's a pun in the title with the second kanji of Mai's name, meaning clothing, isolated)
-
+:::note
+There's a pun in the title with the second kanji of Mai's name, meaning clothing, isolated.
+:::
   
 **Mai:** Ha!  
 **Mai:** Ya!  
@@ -142,8 +143,8 @@
 ## 9: We're Here! Welcome to Aoto-kan!
 **Mirja:** All aradama in the area have been confirmed destroyed.  
 **Mirja:** Collection of the noro is mostly complete too, so from here we can leave it to the riot squad and continue on to Aoto-kan.  
-...30 minutes later.
 
+...30 minutes later.
   
 **Mihono:** Aoto-kan... I've heard of it before, but I don't really remember... They make scabbards and handles and stuff, right?  
 **Mirja:** That's right. Though it isn't affiliated with the sword administration, Aoto-kan provides scabbards for many toji.  
@@ -155,8 +156,9 @@
 **Mirja:** Of course, you are from Minoseki yourself, Asakura Mihono-san. I'm sure this is mostly common knowledge to you.  
 **Mihono:** ......I had no idea. Please forgive me.  
 **Kiyoka:** I know what you mean! If a shirasaya* is casual wear, then coordinating all the mountings together is an important part of a girl's fashion arsenal!  
-*(shirasaya consists of only a plain wooden scabbard and hilt, intended for storing the blade and not at all practical in combat)
-
+:::note
+*shirasaya consists of only a plain wooden scabbard and hilt, intended for storing the blade and not at all practical in combat.
+:::
   
 **Mihono:** I'm not too sure about that comparison...? I mean, I get it, but... An okatana is your partner in protecting everyone, and...  
 **Kiyoka:** Sigh... You don't get it.  

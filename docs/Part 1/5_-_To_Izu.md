@@ -16,9 +16,9 @@
 **Youji:** Back in the Sengoku period... Takeda Shingen offered that okatana to the Sengen Taisha at Mt. Fuji. The Edo period was tumultuous though, and it's said to have been unaccounted for ever since.  
 **Mirja:** For you to know that much already... I shouldn't be surprised.  
 **Mirja:** Then, have you ever heard of any replicas being forged?  
-(there's an extra line in here explaining away any confusion since utsushi both means replica and it's a toji technique, but I'm not about to try naturally working that into English)
-
-  
+:::note
+There's an extra line in here explaining away any confusion since utsushi both means replica and it's a toji technique, but I'm not about to try naturally working that into English.
+:::  
 **Youji:** Sorry, I know that a replica was made but that's all. Anyway, if the real thing does turn up I'd love to go pay my respects to it.  
 **Youji:** ...And that's all she asked me. That girl's all business; a real piece of work.  
 **Chie:** I see... Namu Yakushi Kagemitsu. Thanks for sharing that with me, Youji-san. But why is Kitora-san interested in that specific okatana...  
@@ -47,16 +47,14 @@
 **Chie:** Y-Yeah, right. Aoto-kan sure is something, huh...  
 **Chie:** (I can't let them know this actually came from my school's president...)  
 *train screeches to a halt*
-
-  
 **Chie:** What was that!?  
 **Mirja:** An emergency stop!? My spectrum finder... It's picking up aradama!?  
 **Mirja:** (This is too much to be a coincidence.　The day before yesterday in Harajuku, and now this... Twice in such a short span of time... And, if what Asakura Mihono says is true, not long before that in Kamakura as well.)  
 **Mirja:** (Either way, for the same team to engage aradama two or three times in such a short period is nearly unbelievable... There must be a reason behind it...)  
 **Chie:** Kitora-san?  
 **Mirja:** ...That's right, I need to be giving orders now. Setouchi Chie-san, keep the passengers safe with Musumi Kiyoka! Shichinosato Kofuki, Asakura Mihono, the three of us will begin exterminating the aradama!  
-....Meanwhile, in a different train car.
 
+....Meanwhile, in a different train car.
   
 **Ellen:** Oh! What happened!!!? It can't be aradama, can it?  
 **Kaoru:** That's what it looks like.  
@@ -74,9 +72,7 @@
 **Ellen:** Kaoru! Don't yank him by the tail! I feel so bad for him.  
 **Mihono:** Eh? What was that, an aradama!?  
 **Kaoru:** Stupid Nene... That's why I said not to come out. This little guy's Nene. He's an aradama, but he's basically my family's guardian spirit.  
-*muffled nene noises*
-
-  
+*muffled nene noises*  
 **Mirja:** The Mashiko family guardian spirit... I've heard of this before.  
 **Mirja:** (Aradama are said to attract aradama... So in this case, it's highly likely Nene was the one who drew them here. That may be all there is to it.)  
 **Ellen:** Nene is a holy beast! Though, saying that... It's probably best if we don't get back on the train now that he's out.  
@@ -101,8 +97,6 @@
 **Chie:** Me? I'm everyone's onee-san, I suppose.  
 **Kofuki:** ......Tch, the hell's that even mean.  
 *aradama appears*
-
-  
 **Mirja:** ...Investigation team! Form up!  
 **Ellen:** More aradama!  
 **Kaoru:** That's the second time today. What's going on?  
@@ -132,15 +126,11 @@
 ## 7: Walking and Wondering (4)
 **Yomi:** Our targets are caught in the network... I need to let Shidou-san and Konohana-san know... Their coordinates are... Here... And here... I can't get a good reading... Why?  
 **Yomi:** Are there not enough aradama... Rather, are they being destroyed...? Then... I'll just have to replenish them...  
-Yomi drew her okatana and raised it along her left arm. With a swift motion, a wound opened and began to bleed. In dark clumps it sluggishly trickled down. 
 
-  
-Completely expressionless, she stared down at the dark substance with a deep red glow in her eyes.
-
-  
+Yomi drew her okatana and raised it along her left arm. With a swift motion, a wound opened and began to bleed. In dark clumps it sluggishly trickled down.   
+Completely expressionless, she stared down at the dark substance with a deep red glow in her eyes.  
 Not long after, the endless black liquid began taking shape, in a form of an aradama mimicking an animal... They slipped into the trees, deep in the dark woods, in search of their prey.
 
-  
 **Yomi:** Go, my aradama... For her sake, find Etou Kanami and Juujou Hiyori... Hurry, and find them...!  
 
 ## 8: Another Encounter with the Elite Guards (1)

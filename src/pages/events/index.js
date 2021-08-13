@@ -35,6 +35,7 @@ const events = [
         2020
     ],
     ['Nanoha_DOPPELGANGER', 'nanoha', 'manoha', 'Nanoha DOPPELGANGER', 2020],
+    ['Entwining_Bonds_Shameless_x_Honorable', 'bonds3', 'shameless', 'Entwined Bonds: Shameless x Honorable', 2020],
     [
         'Treasure_Hunt_A_Gift_From_the_Pirates',
         'pirate',
