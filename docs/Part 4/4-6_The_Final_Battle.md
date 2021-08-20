@@ -100,7 +100,7 @@
 **Ellen:** Please come back safe, no matter what!  
 **Mihono:** Then, I'll be going!!  
 
-## 4:　Joint Struggle (1)
+## 4: Joint Struggle (1)
 **Mihono:** ...This is, the threshold between our world and the netherworld...   
 **Yume:** Hey hey, where's that Hirukomitama?  
 **Mihono:** I'm not sure, but, Yukari-sama said Hirukomitama should be really big, so we should be able to see it right away...  
