@@ -35,6 +35,7 @@ Because of this, and because I am the one who has made the most direct contact w
 **Tsugumi:** No, you lost me right away.  
 **Tsugumi:** But I'm relieved to see you're your usual self. Since you're in a good mood, why not keep up this pace? Seize the day, right!  
 **Kofuki:** You know it!  
+
 --Progress report from research lab 8, in charge of subject Shichinosato Kofuki. Recorded by Ban Tsugumi.
 
   
@@ -85,8 +86,8 @@ In April--
 **Kofuki:** Ooh, I'll take it. Thanks.............. (Gulp)  
 **Minaki:** Mmmm, you're so small and cute, Kofukkichi~. (Rub rub)  
 **Kofuki:** ...You're as bad as the rest!  
-Inside the research building of Renpu Girls' School, in the aradama processing facility--
 
+Inside the research building of Renpu Girls' School, in the aradama processing facility--
   
 **Kofuki:** Where's the next one! Why's the next aradama-chan not in here yet!?  
 **Tsugumi:** What's the matter? You're in a bad temper today.  
@@ -114,8 +115,8 @@ Inside the research building of Renpu Girls' School, in the aradama processing f
 **Kiyoka:** I get it now. Kofuki-san's style is boyish and punk fashion. Where do you usually do your shopping?  
 **Kofuki:** Huh? I just buy something if it catches my eye while I'm out. Don't have any favorite shops or anything. So wait, this stuff is called punk?  
 **Kiyoka:** Y-You didn't know that!?  
-Another day...
 
+Another day...
   
 **Chie:** Kofuki-chan, let's go shopping in town together. Everyone's picking out clothing today.  
 **Kofuki:** Huhh? Go do it yourselves!  
@@ -143,8 +144,8 @@ Another day...
 **Mihono:** I mean, they actually filled a whole bucket for you. I don't think those are meant for just one person?  
 **Kofuki:** ...Back off! You can't have any!  
 **Chie:** Fufu, but just look how happy she is. Let's just let her enjoy it~.  
---Half a month later.
 
+--Half a month later.
   
 **Chie:** Kofuki-chan! We're all going for ice cream again. Are you coming...  
 **Kofuki:** I don't want any...  
@@ -159,9 +160,7 @@ Another day...
 **Mirja:** Asakura Mihono, I'll teach you the proper way to handle it yourself, so please try to remember. More importantly...  
 **Mirja:** When we pushed back the aradama without much effort, I was very surprised to see Shichinosato Kofuki obey orders and hang back without giving chase... She's changed, hasn't she?  
 **Kiyoka:** She has. It also feels like it's easier to talk to her lately. It's all thanks to Setouchi-san, I think.  
-*Kofuki kicks a tree*
-
-  
+*Kofuki kicks a tree* 
 **Kofuki:** ...Damnit... I'm getting really pissed off! It's all Chichie's fault!  
 **Kofuki:** I just wanna do my thing and play with aradama-chan, but nooo!  
 **Kofuki:** I mean...  
@@ -176,9 +175,7 @@ Another day...
 **Kofuki:** Alright! I made up my mind! I'm just gonna do what I want to do from now on! And I'm gonna tell her off so she quits messing with me!  
 **Kofuki:** OI! CHICHIE!  
 **Chie:** Kofuki-chan?  
-*Chie pats down Kofuki*
-
-  
+*Chie pats down Kofuki*  
 **Kofuki:** W-What're you... You don't have to feel me up!  
 **Chie:** ...Mm, thank goodness, you aren't injured. Your onee-san was just a little worried.  
 **Chie:** So, what is it? It's rare for you to come talk to me, Kofuki-chan.  

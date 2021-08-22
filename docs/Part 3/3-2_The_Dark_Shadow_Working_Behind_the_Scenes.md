@@ -48,11 +48,9 @@
 **Ayumu:** Yeah\!  
 **Miya:** She was so strong, wasn't she? But we were pretty useless in comparison\.  
 **Miya:** If Etou-san hadn't been there to save us, who knows what would have happened\.\.\. I don't want to think about it\.  
-Several weeks earlier--
 
-  
+Several weeks earlier--  
 During an aradama suppression mission\.
-
   
 **Unit Leader:** After the firing squad stops, we'll rush in\! Match each other's timing\! If you do it like in training, you'll make it through\!  
 **Ayumu:** Pant\.\.\. Pant\.\.\.\!  
