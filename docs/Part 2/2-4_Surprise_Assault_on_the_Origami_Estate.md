@@ -30,7 +30,7 @@
 **Kiyoka:** I'll do my best\.\.\. For the crepes\.\.\.  
 **Mirja:** Now, begin the operation\.  
 
-At the same time, in the Origami family Operations Control Room--
+At the same time, in the Origami family Operations Control Room--  
   
 **Maki:** What's going on?  
 **Operator:** \.\.\.We've picked up an unidentified flying unit\. They're\.\.\. Storm armor containers\!  
@@ -61,7 +61,7 @@ At the same time, in the Origami family Operations Control Room--
 **Kanami:** Kh\.\.\.\!  
 **Yume:** Ahahahaha\!  
 
-At the same time, with Asakura Mihono's A team--
+At the same time, with Asakura Mihono's A team--  
   
 **Mihono:** There was a huge boom from over there\. That made me jump\!  
 **Chie:** They must have gotten started\. Then we have to cause as much of a commotion as we can and draw the guard's attention to us\.  
@@ -160,7 +160,7 @@ At the same time, with Kitora Mirja's B team\.
 **Kaoru:** It's the two of us and one pet\.  
 **Yume:** Like I said, so what? Whatever, I'll go after her right as soon as I'm done with you\! I don't\.\.\. Have time for this\!  
 
-At the same time, with Asakura Mihono's A team--
+At the same time, with Asakura Mihono's A team--  
   
 **Kofuki:** That's most of the guards around here dealt with\. What next?  
 **Chie:** Okay, then let's change posi--  
@@ -210,7 +210,7 @@ At the same time, with Asakura Mihono's A team--
 **Mai:** That's why, as punishment\.\.\. I'll make you eat all my new cookies\.  
 **Sayaka:** --I'll do it\.  
 
-At the same time, with Kitora Mirja's B team--
+At the same time, with Kitora Mirja's B team--  
   
 **Kiyoka:** Wh-What\.\.\.?  
 **Mirja:** These readings on the spectrum finder\. Maybe it's a result of the great aradama itself beginning to act\. But large numbers of aradama are appearing in the nearby area\.  
@@ -249,7 +249,7 @@ At the same time, in the way of Juujou Hiyori and Etou Kanami, who were headed f
 **Hiyori:** \.\.\.Kanami\!  
 **Kanami:** Right\!  
 
-At the same time, with Asakura Mihono's A team--
+At the same time, with Asakura Mihono's A team--  
   
 **Mihono:** Hyaaah-\!\!  
 **Kofuki:** Tch\.\.\. They just keep popping out one after another\!  
@@ -291,7 +291,7 @@ At the same time, with Asakura Mihono's A team--
 **Kanami:** Yeah, I made it somehow\. We both seem pretty tired, but can you run?  
 **Hiyori:** Of course\.  
 
-At the same time, with Kitora Mirja's B Team--
+At the same time, with Kitora Mirja's B Team--  
   
 **Aradama:** KIIGYAAAAAAAA\!\!  
 **Kiyoka:** Aradama\!?  

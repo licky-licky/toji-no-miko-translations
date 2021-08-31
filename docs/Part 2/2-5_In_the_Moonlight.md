@@ -173,7 +173,7 @@
 **Hiyori:** Right-\!  
 **Yukari:** Has the time come for you to leave the nest? Or do you yet remain as chicks\.\.\. Prove it to me with those swords\.  
 
-Going back in time a little--
+Going back in time a little--  
   
 **Hana:** Still, it's depressing thinking about the toji here\. They're being told to fight without understanding what's really going on\.  
 **Kofuki:** What, you're feeling sorry for them now?  

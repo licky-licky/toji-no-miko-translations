@@ -16,7 +16,7 @@
 **Akira:** \.\.\.It's cause of Genzan\. There's no way he didn't teach Kagutsuchi some of his messed up tricks\.  
 **Mihono:** Genzan\.\.\. san?  
 **Yuuki:** He's an older relative of ours\. "Don't slay aradama\! Aradama are gods\!" He'd tell us that kind of stuff\. He was a little weird\.  
-slay
+slay  
 **Kaoru:** It's not like we've got any proof you still aren't working for that guy\.  
 **Yuuki:** We wouldn't lie about that\!  
 **Akira:** Give it up, Yuuki\. Nothing we say's gonna convince anybody\.  

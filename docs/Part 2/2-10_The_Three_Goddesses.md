@@ -15,7 +15,7 @@
 **Akane:** The strange hooded girl who has been attacking toji is none other than Tagitsuhime\.  
 **Suzuka:** What--\!? Tagitsuhime was driven back to the netherworld though\.\.\.\!?  
 
-After encountering the classified hooded toji, Mihono and the other members of the former investigation team completed their reassignment to Renpu Girls' School\.
+After encountering the classified hooded toji, Mihono and the other members of the former investigation team completed their reassignment to Renpu Girls' School\.  
 At which point, they were made aware of that toji's identity--
   
 **Mihono:** You mean, that toji was Tagitsuhime\!?  

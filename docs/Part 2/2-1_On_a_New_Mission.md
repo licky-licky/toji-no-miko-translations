@@ -59,7 +59,7 @@
 **Kofuki:** Don't worry about it\. I'll take care of every last aradama-chan\. You guys just hang back and relax\.  
 **Chie:** You know we can't do that\. We're all going to work together out there\.  
 **Kofuki:** I mean it\! I don't want you ruining any of my fun\~\.  
-*Chie starts drawing her okatana*
+*Chie starts drawing her okatana*  
 **Chie:** Ufufu, we're all going to work together, aren't we?  
 **Kofuki:** Seriiiously\~\.\.\.  
 **Chie:** We're ALL going to work together, aren't we?  
@@ -94,7 +94,7 @@
 **Chie:** (And President Souraku surely didn't tell us the whole story\. She has to be hiding something\.\)  
 **Chie:** (Until I know what that is, I can't trust President Souraku, and Mirja-san too\.\.\.\)  
 **Chie:** (I'd better ask for support from Mokusa in getting to the bottom of this\.\)  
-*phone ringing*
+*phone ringing*  
 **Chie:** \.\.\.\.\.\.\.\.\.  
 **Chie:** (\.\.\.? That's strange\. No one's answering? There should always be someone responding to the emergency undercover line\.\.\.\)  
 **Chie:** (I hope I'm only overthinking this, but I can't help but feel uneasy\.\.\.\)  
@@ -145,7 +145,7 @@ At the same time, at the Mokusa hideout--
 **Takako:** \.\.\.What happened to the toji at the shrine?  
 **Yume:** Toji? That's what they were supposed to be? They barely even put up a fight though\.\.\.  
 **Yume:** Ahh, but the one with this okatana, she wasn't too bad\.  
-*Yume throws it at Takako's feet*
+*Yume throws it at Takako's feet*  
 **Takako:** Satomi\.\.\.\!  
 **Yume:** You wanna fight? In that state? I'll wait for you to recover if you want\.  
 **Takako:** I don't need your pity\!  
@@ -158,7 +158,7 @@ At the same time, at the Mokusa hideout--
 ## 8: Mokusa Under Attack (2\)
 **Chie:** Pant, pant, pant\.\.\.  
 **Chie:** One more time\.\.\. If I call Mokusa one more time\.\.\.  
-*phone ringing*
+*phone ringing*  
 **Chie:** \.\.\.\.\.\.\.\.\.  
 **Chie:** (\.\.\.Everyone\.\.\. What am I supposed to do? What can I even do right now\.\.\.\)  
 **Chie:** (No good\.\.\. It's hopeless\. If I just knew what's happening to Mokusa\.\.\.\)  

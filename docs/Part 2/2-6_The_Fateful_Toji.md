@@ -24,7 +24,7 @@
 **Hiyori:** \.\.\.Ngh\! Kanami\! Give it everything you have\!  
 **Kanami:** Right\!  
 
-Stepping back in time a little--
+Stepping back in time a little--  
   
 **Yui:** \.\.\.\.\.\.\.\.\.That sound\!  
 **Mirja:** The final battle must be beginning\.  
@@ -302,7 +302,7 @@ Stepping back in time a little--
 **Hiyori:** Tagitsuhime's\.\.\.\!  
 **Kanami:** \.\.\.Disappearing\.  
 
-That night, as Tagitsuhime fled to the netherworld, the aradama she discarded shot up into the sky\.
+That night, as Tagitsuhime fled to the netherworld, the aradama she discarded shot up into the sky\.  
 As it flew, it began to rain down across all of Kanto\. Like shooting stars it shone\.
 
   
