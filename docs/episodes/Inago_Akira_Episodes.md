@@ -64,6 +64,7 @@ Inago Akira Episodes
 **Sawano:** (Did she just get back? She looks angry about something...)  
 **Akira:** Fuck! Might as well just go to bed!  
 **Sawano:** (She didn't come to school again today... What has she been up to?)  
+
 --First thing in the morning.
 
   
@@ -269,6 +270,7 @@ Inago Akira Episodes
 **Yomi:** And please try not to be late this time either.  
 **Akira:** Oi oi, I might show up late a lot, but that doesn't mean I'm gonna be late all the time, alright?  
 **Yomi:** ...I hope I can hold you to that. I've made sure to let you know.  
+
 The day of the party.
 
   
