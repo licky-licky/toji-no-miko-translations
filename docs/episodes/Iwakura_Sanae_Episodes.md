@@ -117,8 +117,8 @@ Iwakura Sanae Episodes
 **Sanae:** I can't help but admire her... [whispered]  
 **Sanae:** (Juujou-san is so driven, but she's still the same age as us. Someday... I want to see her act more her age too.)  
 **Sanae:** (It'd be nice if I could get close enough to her that she'd let her guard down around me...)  
---The next day.
 
+--The next day.  
   
 **Sanae:** Morning, Juujou-san.  
 **Hiyori:** ......  
@@ -202,9 +202,7 @@ Iwakura Sanae Episodes
 **Sanae:** (I wasn't sure what I would say either. All I knew was, at this time, she didn't need me to say anything... That's the feeling I got from her.)  
 **Sanae:** (So, after this match is over, I want to go talk to her.)  
 **Sanae:** (Hopefully, I'll get to say, "Congratulations!" and see her face light up--)  
-The referee signals the two who advanced to the finals to bow. The match is about to begin.
-
-  
+The referee signals the two who advanced to the finals to bow. The match is about to begin.  
 **Sanae:** (Juujou-san! You can do it--!)  
 
 ## [Sanae Joins: Start]: The Curious Transfer Student
