@@ -155,18 +155,10 @@ Ban Tsugumi Episodes
 **Mirja:** In getting along with Shichinosato Kofuki... Fufu, I suppose you're right. I'll try remaining patient and straightforward with her.  
 
 ## 5: Meeting Kofuki
-That was two years ago-- I was still a toji in the thick of the action then.
-
-  
-The problem child, Shichinosato Kofuki, was infamous among the toji of Renpu Girls' School.
-
-  
-They call her the walking order violation. The aradama-chan junkie. The two-fanged mad dog.
-
-  
-That girl had been passed off from unit to unit, until finally being assigned to mine, where none of the toji would approach her.
-
-  
+That was two years ago-- I was still a toji in the thick of the action then.  
+The problem child, Shichinosato Kofuki, was infamous among the toji of Renpu Girls' School.  
+They call her the walking order violation. The aradama-chan junkie. The two-fanged mad dog.  
+That girl had been passed off from unit to unit, until finally being assigned to mine, where none of the toji would approach her.  
 Until I offered to be her partner that day.
 
   
@@ -198,13 +190,12 @@ Until I offered to be her partner that day.
 **Tsugumi:** I'll be acting as operator for the aradama research team, but they still haven't found anyone to cover the practical side of the combat testing.  
 **Tsugumi:** Hardly surprising with such a difficult role, having to kill countless aradama day after day... Is there really anyone out there who would take such an awful position...?  
 **Kofuki:** You were after this all along, weren't you... You should've said something sooner!  
-And that's how I met Shichinosato-san.
 
-  
+And that's how I met Shichinosato-san.  
 Our current relationship? If I had to say, I don't think it's going too badly.
 
   
-**Tsugumi Joins - Part 1:** Must-Have Data  
+## Tsugumi Joins - Part 1: Must-Have Data  
 **Sayaka:** Kofuki... Good work.  
 **Kofuki:** Mann, that's another day I got to mess around with so many aradama-chan.  
 **Sayaka:** You weren't messing around... It was a mission.  
@@ -240,7 +231,7 @@ Our current relationship? If I had to say, I don't think it's going too badly.
 **Tsugumi:** With this case, it may be better to collect some data myself first.  
 **Tsugumi:** But, where to begin... Sip... Sip...  
 **Tsugumi:** These nutrition packs seem just as tasty as ordinary food to me... Sip... Sip...  
-**Tsugumi Joins - Part 2:** Give and Take  
+## Tsugumi Joins - Part 2: Give and Take  
 **Tsugumi:** Oh, it's already 1:00... I should get ready for bed.  
 **Tsugumi:** Though, aradama clearly don't care if it's the dead of night. What should I do; this is a perfect chance to gather some data.  
 **Tsugumi:** If Shichinosato-san goes along, the aradama will likely be killed before any data can be gathered on attacks to the head... Hmmm.  
@@ -335,9 +326,12 @@ The next day.
 **Mihono:** Yui, your face turned bright red; are you okay?  
 **Yui:** Uwah----! I can feel power gushing up in me, and I feel like shouting at the top of my lungs~!  
 **Tsugumi:** Hmhm, the effects are already showing in such a short timeframe. It seems I can call this highly successful.  
-**Yui:** Ahh~! I want to shout! Shout my heart out! AHHHH~~~~~~~~~~!  
+**Yui:** Ahh~! I want to shout! Shout my heart out! AHHHH\~\~\~\~\~\~\~\~\~\~!  
 **Mihono:** Sh-She's so loud! Yui's singing is making the windows rattle-! Tsuguki-san's lozenges might actually be amazing!  
-**Yui:** Whoa; what's going on! I can sing kobushi so well now it's funny~! Give me any enka song and I feel like I could sing it! HAA~~~~~~~~~!		[Kobushi is a technique used in singing enka, where a single syllable is sung while moving between several different notes in succession]  
+**Yui:** Whoa; what's going on! I can sing kobushi so well now it's funny~! Give me any enka song and I feel like I could sing it! HAA~~~~~~~~~!		
+:::note
+Kobushi is a technique used in singing enka, where a single syllable is sung while moving between several different notes in succession.
+:::
 **Yui:** Ahh~! I want to sing out across the sea of Japan! My body's itching to try it~! I can't take it anymore! I'm on my way!  
 **Mihono:** And she's gone...  
 **Tsugumi:** She sure is... Though, thanks to Yamashiro-san's sudden appearance, I was able to prove the potency of these lozenges. Now, you two, try some as well!  
@@ -345,8 +339,8 @@ The next day.
 **Mihono:** Y-Yeah, that's right. We're singing carols here, not enka, so maybe practicing on our own efforts is the best way to go...  
 **Tsugumi:** You think so? I managed to come up with something useful, so it would be a shame not to use them... But, if you both say so, then we can work at it that way.  
 **Mihono/Kofuki:** Phew...  
-December 25th.
 
+December 25th.
   
 **Mirja:** You performed well at yesterday's Christmas Eve party. Now I would like for you to maintain that effort and entertain this venue with your caroling.  
 **Tsugumi:** Of course.  
