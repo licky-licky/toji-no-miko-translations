@@ -115,8 +115,8 @@ Four months have past since Tagitsuhime fled to the netherworld, casting aradama
 **Mirja:** Come to think of it, I don't know if this information will be of any use, but two months ago, when I had a temporary change of assignment, I was placed in the same unit as Yamashiro Yui and Suzumoto Hana\.  
 **Mai:** You were?  
 **Mirja:** Yes\. Thinking back on it now, it was a bit of a strange situation\.\.\.  
-Two months ago, on a certain battleground\.
 
+Two months ago, on a certain battleground\.
   
 **Yui:** Mirja-san\! I haven't seen you in forever\! I missed you so, so badly\!  
 **Mirja:** Yamashiro Yui\. It's been some time\.  
@@ -200,8 +200,8 @@ At that time, the three who had been reported to be in Kamakura; Etou Kanami, Ju
 **Mihono:** Yeah\.\.\. We can talk tomorrow\.\.\.  
 **Kanami:** And it's been a while, so I wanted to have a practice match with you, but\.\.\.  
 **Mihono:** Are you for real, Kanami\.\.\.\!? We've been doing missions all day; how can you keep going\.\.\.\!?  
-The next morning\.
 
+The next morning\.
   
 **Sayaka:** Ah-, Kanami\.  
 **Kanami:** Morning, Hiyori-chan, Sayaka-chan\! Let's do our best again today\!  

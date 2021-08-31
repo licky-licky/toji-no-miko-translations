@@ -36,8 +36,6 @@
 **Kiyoka:** I don't think you get to call that false charges, Hono-chan\.  
 **Mihono:** Ch-Changing the subject\! When we were here last time, it was pretty crazy with all the aradama around, wasn't it\!  
 *aradama appears*
-
-  
 **Mihono:** Yeah, just like that- Whoa, it's happening again\!\!  
 **Kiyoka:** I-It's because you had to go and bring it up, Hono-chan\.\.\.  
 **Mihono:** Eh\!? This is my fault now\!?  
@@ -220,8 +218,8 @@
 **Mirja:** I see\.\.\. That's why you called Origami Akane-sama the greatest ace up your sleeve\. Akane-sama is the only one aware of how to perform that technique\.  
 **Youji:** If you charged in there without a plan, you'd all be throwing your lives away\.  
 **Mihono:** But\.\.\.\!  
-Shortly after the mysterious phenomenon occurred--
 
+Shortly after the mysterious phenomenon occurred--
   
 **Mihono:** \.\.\.Is there really\.\.\. Nothing we can do\.\.\.?  
 **Youji:** Oi\! Ladies\! I got in touch with Akane-sama, who managed to escape\!  

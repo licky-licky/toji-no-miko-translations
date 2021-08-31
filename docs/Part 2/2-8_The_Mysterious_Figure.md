@@ -5,8 +5,8 @@
 
 ## 1: Hiyori's Reflection (1\)
 **Hiyori:** \.\.\.\.\.\.\.\.\.I'm sorry, mother\. I\.\.\.  
-One week ago\. At Hiyori's home\.
 
+One week ago\. At Hiyori's home\.
   
 **Gojou Iroha:** --Say, Hiyori-chan\. Are you unsure about whether you'll quit being a toji?  
 **Hiyori:** \.\.\.On that night four months ago, I accomplished what my mother had wanted for so long\.  
@@ -84,11 +84,7 @@ One week ago\. At Hiyori's home\.
 
 ## 5: Personnel Reinforcements (1\)
 In the mountains of Gunma Prefecture\.
-
-  
 Here, where Mashiko Kaoru was commanding a unit that Itomi Sayaka was deployed to, an incident occurred causing the other toji to be hospitalized\. One week has passed since\.
-
-  
 Presently, the unit of two toji and one pet led by Mashiko Kaoru consists of herself as captain, Itomi Sayaka, and Nene--
 
   

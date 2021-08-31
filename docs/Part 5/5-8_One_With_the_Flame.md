@@ -571,8 +571,7 @@ The chapter had a staggered release, so the video is in 4 parts.
 **Mihono:** Y-Yeah!?  
 **Akira:** I'm gonna keep the pressure on that big thing! So you'd better hurry up and exorcise the hell out of it!  
 **Akira:** ORRRAAAAAAAAAAAHHH!!  
-**Akira:** Gagh...!  
-Like that'll, do, ANYTHIIIIIIIIIIINNGG!!
+**Akira:** Gagh...! Like that'll, do, ANYTHIIIIIIIIIIINNGG!!
 
   
 **Hiyori:** Idiot! You're at your limit, aren't you!?  

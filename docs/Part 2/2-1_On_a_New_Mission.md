@@ -60,16 +60,12 @@
 **Chie:** You know we can't do that\. We're all going to work together out there\.  
 **Kofuki:** I mean it\! I don't want you ruining any of my fun\~\.  
 *Chie starts drawing her okatana*
-
-  
 **Chie:** Ufufu, we're all going to work together, aren't we?  
 **Kofuki:** Seriiiously\~\.\.\.  
 **Chie:** We're ALL going to work together, aren't we?  
 **Kofuki:** Tch\.\.\. Fine, whatever\.  
 **Chie:** Ufufu\. Your onee-san's happy you're being so understanding\.  
 *Chie puts her okatana away*
-
-  
 **Mihono:** Chii-nee's kinda scary sometimes, isn't she?  
 **Kiyoka:** \.\.\.U-Uh huh\.  
 **Mihono:** By the way, what kinda okatana is this Kagemitsu?  
@@ -99,8 +95,6 @@
 **Chie:** (Until I know what that is, I can't trust President Souraku, and Mirja-san too\.\.\.\)  
 **Chie:** (I'd better ask for support from Mokusa in getting to the bottom of this\.\)  
 *phone ringing*
-
-  
 **Chie:** \.\.\.\.\.\.\.\.\.  
 **Chie:** (\.\.\.? That's strange\. No one's answering? There should always be someone responding to the emergency undercover line\.\.\.\)  
 **Chie:** (I hope I'm only overthinking this, but I can't help but feel uneasy\.\.\.\)  
@@ -139,8 +133,8 @@
 **Chie:** \.\.\.\.\.\.\.\.\.  
 **Chie:** (This shouldn't be happening; I still can't get through to Mokusa\. It's clear that something's wrong\.\)  
 **Chie:** (I have a bad feeling about all this\.\.\. What's going on over there?\)  
-At the same time, at the Mokusa hideout--
 
+At the same time, at the Mokusa hideout--
   
 **Mai:** Takako-san, hurry and get on\!  
 **Yonemura Takako:** \.\.\.Leave without me\.  
@@ -152,8 +146,6 @@ At the same time, at the Mokusa hideout--
 **Yume:** Toji? That's what they were supposed to be? They barely even put up a fight though\.\.\.  
 **Yume:** Ahh, but the one with this okatana, she wasn't too bad\.  
 *Yume throws it at Takako's feet*
-
-  
 **Takako:** Satomi\.\.\.\!  
 **Yume:** You wanna fight? In that state? I'll wait for you to recover if you want\.  
 **Takako:** I don't need your pity\!  
@@ -167,8 +159,6 @@ At the same time, at the Mokusa hideout--
 **Chie:** Pant, pant, pant\.\.\.  
 **Chie:** One more time\.\.\. If I call Mokusa one more time\.\.\.  
 *phone ringing*
-
-  
 **Chie:** \.\.\.\.\.\.\.\.\.  
 **Chie:** (\.\.\.Everyone\.\.\. What am I supposed to do? What can I even do right now\.\.\.\)  
 **Chie:** (No good\.\.\. It's hopeless\. If I just knew what's happening to Mokusa\.\.\.\)  
