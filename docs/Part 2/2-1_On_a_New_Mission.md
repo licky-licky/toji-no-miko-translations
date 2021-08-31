@@ -65,7 +65,7 @@
 **Chie:** We're ALL going to work together, aren't we?  
 **Kofuki:** Tch\.\.\. Fine, whatever\.  
 **Chie:** Ufufu\. Your onee-san's happy you're being so understanding\.  
-*Chie puts her okatana away*
+*Chie puts her okatana away*  
 **Mihono:** Chii-nee's kinda scary sometimes, isn't she?  
 **Kiyoka:** \.\.\.U-Uh huh\.  
 **Mihono:** By the way, what kinda okatana is this Kagemitsu?  
