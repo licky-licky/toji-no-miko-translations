@@ -19,12 +19,15 @@
   }
 }
 
-/* @media screen and (min-width: 1200px) {
-  .heroBanner {
-    background-image: url('/img/chara_right.png');
-    background-repeat: no-repeat;
-  }
-} */
+ @media screen and (min-width: 1400px) {
+  /* .heroBanner { */
+  /*   background-image: */
+  /*     url('/img/chara_right.png'); */
+  /*      url('/img/chara_left.png'); */ 
+  /*   background-position: left top, right top; */
+  /*   background-repeat: no-repeat; */
+  /* } */
+} 
 
 .buttons {
   display: flex;
