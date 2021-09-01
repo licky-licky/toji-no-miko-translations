@@ -19,9 +19,7 @@ Asakura Mihono Episodes
 **???:** A-! SA-! KU-! RA-! MI-! HO-! NOOOO--! LET'S DUEL--!  
 **Mihono:** Whoa! (Dodge!)  
 **???:** UWAAAHH!  
-*thud*
-
-  
+*thud*  
 **Nagae Futaba:** Don't dodge! Fight me fair and square!  
 **Rika:** Fudaba-chan... There's nothing fair and square about sneak attacks...  
 **Mihono:** Geez, you're always all worked up. You'd be so much cuter if you'd just calm down... You're not getting any more popular like that, you know?  
@@ -98,9 +96,7 @@ Asakura Mihono Episodes
 **Mihono:** Ahh! Geez! What's the big idea, complimenting me like that!? ...I'll be right back!  
 **Kiyoka:** Um, where are you going?  
 **Mihono:** T-The bathroom...!  
-*Mihono runs away blushing*
-
-  
+*Mihono runs away blushing*  
 **Chie:** She didn't have to get so embarrassed about it.  
 **Kofuki:** ......  
 **Chie:** Welcome back, Shichinosato-san. How was the dining car?  
