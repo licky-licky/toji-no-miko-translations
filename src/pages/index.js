@@ -5,15 +5,17 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import EpisodesPreview from '../components/EpisodesPreview';
+import Timer, { isOver } from "../components/Timer";
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <div className="container2">
           <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="WHY"><span className="hero__subtitle">{siteConfig.tagline}</span></p>
+          <p className="WHY"><span className={isOver() ? "hero__subtitle" : ''}>{siteConfig.tagline}</span></p>
+          {isOver() ? '' : <p>Time until termination: <br /><Timer /> </p>}
           <p className="READ">Read Mihono's story:</p>
           <div className={styles.buttons}>
             <Link
@@ -54,14 +56,14 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Home`}
       description="a website for dumb homos">
       <HomepageHeader />
       <main>
-        <EpisodesPreview/>
+        <EpisodesPreview />
       </main>
     </Layout>
   );
