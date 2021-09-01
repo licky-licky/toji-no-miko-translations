@@ -28,7 +28,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 .main {
-  padding: 0rem 0 3rem 0;
+  padding: 1.5rem 0 3rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
