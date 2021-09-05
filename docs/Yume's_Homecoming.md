@@ -1,7 +1,9 @@
 
 Yume's Homecoming
 =================
-[This event was written by Takahashi Tatsuya, main writer for the anime and in charge of series composition.]
+:::note
+This event was written by Takahashi Tatsuya, main writer for the anime and in charge of series composition.
+::: 
 <div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/HMr2ZSphUmw"></iframe></div>  
 
   
