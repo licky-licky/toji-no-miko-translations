@@ -666,3 +666,116 @@ The next day--
 **Yume:** Next year, I want to invite even more toji, and then we can have a really exciting party!  
 **Yume:** And then, everybody can have this cocktail there too! Doesn't that sound good?  
 **Yomi:** It's a little early to be thinking about next year. But, I think that would be nice.  
+
+## [Another - Yume: Start]: My All Eroding Plan
+**Kanami:** HAAH!  
+**Yume:** I can see right through that, Chidori-onee-san!  
+**Hiyori:** Gh, she even saw that attack coming...?  
+**Yume:** Onee-sans, why're you stopping me? My all erosion plan's going to make everybody happy, okay?  
+**Yume:** Nobody'll have to go through anything bad anymore.  
+**Yume:** Everybody can keep their promises for tomorrow...  
+**Yume:** The fun times'll keep going... forever and ever and ever!  
+**Yume:** What'd you stay behind for?  
+**Yume:** Chidori-onee-san.  
+**Kanami:** I don't really get it either.  
+**Kanami:** But... When I took your sword, I felt like, I had to be the one to be here.  
+**Yume:** ...Thanks, Onee-san. I want you to remember me, okay... [Cough! Cough!]  
+**Kanami:** Tsubakuro-san!?  
+**Yume:** Don't come over! This is, my... SEEEEEEEIII!  
+**Yume:** This is... Oh yeah. I was fighting with Chidori-onee-san, and... I died.  
+**Yume:** But... I guess that's fine.  
+**Yume:** Chidori-onee-san'll remember... that I'm strong. That I was strong.  
+**???:** Are you satisfied with that?  
+**Yume:** Who's there?  
+**Tagitsu:** You may call me Tagitsuhime.  
+**Yume:** Tagitsuhime? Wasn't that the great aradama Yukari-sama beat? Wait... then why're you here?  
+**Tagitsu:** No need to mind something so trifling. That's not what matters now, Tsubakuro Yume. Do you not want to live
+ longer?  
+**Yume:** ...I don't really care. I don't think I need to live that much.  
+**Yume:** Because... Chidori-onee-san's gonna remember me.  
+**Tagitsu:** And after Etou Kanami has died?  
+**Yume:** ...Huh?  
+**Tagitsu:** If Etou Kanami were to die, no one will remain to remember your strength.  
+**Tagitsu:** Would you be satisfied?  
+**Yume:** That'd...  
+**Tagitsu:** Accept me into yourself, Tsubakuro Yume.  
+**Tagitsu:** I could truly grant your wishes. Merge aradama and humanity, evolving this immature species to a higher 
+existence.  
+**Yume:** Evolve...?  
+**Tagitsu:** A plan to erode it all.  
+**Tagitsu:** Humanity will live on for eternity. None who remember you will ever die.  
+**Yume:** ...I can keep having fun forever...  
+**Tagitsu:** That's right. What will you choose, Tsubakuro Yume.  
+**Yume:** I...  
+**Maki:** Yume!? You're really alive...  
+**Suzuka:** Maki-san.  
+**Maki:** R-Right... Yume-sama, congratulations on your recovery.  
+**Yume:** Wait, why "Yume-sama"?  
+**Suzuka:** That was Yukari-sama's final request, as she was undergoing medical treatment. To treat and serve Yume-sama 
+as if you were her.  
+**Yume:** Yukari-sama, she...  
+**Yomi:** Yes. Tsubakuro-sama, if you would come this way.  
+**Yume:** Yomi-onee-san...  
+**Yume:** (I can't talk to them like we used to... And Yukari-sama's gone too...)  
+**Tagitsu:** (Carry through the all erosion plan. Do that, and everything will be just to your wishes.)  
+**Yume:** (...Yeah. If I do the all erosion plan, everything'll go back to normal. I just have to do the all erosion 
+plan...)  
+
+## [Another - Yume: End]: Once More with Those Dear
+**Yomi:** Tsubakuro-sama. Akane-sama has escaped her imprisonment, with Mokusa's assistance.  
+**Yume:** Just send Maki-onee-san and Suzuka-onee-san. Those two should be able to handle it. Right, Yomi-onee-san?  
+**Yomi:** They will.  
+**Maki:** When I heard Mokusa broke Akane-sama out, I never thought it'd be you two! Etou, Juujou!  
+**Suzuka:** If you give up Akane-sama in peace, we can settle this without having to do anything unsavory.  
+**Hiyori:** We refuse. Do you really think we'd going along with that... when we know we'd just get taken out like 
+Origami Yukari?  
+**Maki:** ...Taken out? What are you talking about?  
+**Suzuka:** We'd never... That's ridiculous...  
+**Hiyori:** It's the truth. Origami Yukari got abandoned by Tagitsuhime and was about to be killed. That's when... 
+Kanami and I saved her.  
+**Maki:** Tagitsuhime... and Yukari-sama...?  
+**Kanami:** Tagitsuhime's possessing Tsubakuro-san right now. You can't keep doing what she says!  
+**Maki:** Yume's... possessed by Tagitsuhime... No wonder... I've been feeling like Yume was acting like Yukari-sama 
+used to.  
+**Suzuka:** That is true... If you're saying it's because of Tagitsuhime, I could accept that...  
+**Akane:** Maki-san, Suzuka-san. Please hear us out. Work together with us.  
+**Maki:** ...That I can't do.  
+**Kanami:** But why not!?  
+**Suzuka:** Regardless of everything... Yume is still dear to us...  
+**Suzuka:** Even if she were being manipulated by Tagitsuhime... We couldn't turn our okatana on her.  
+**Akane:** ...Could you at least tell this to Tsubakuro-san? That Kanami-san and Juujou-san wish to become myouga toji.  
+**Maki:** That's an excuse to meet with Yume...?  
+**Akane:** That's right. It would be Yume-san's decision to make.  
+**Maki:** If that's all... But...  
+**Suzuka:** Maki-san... I'll support whatever you decide on.  
+**Maki:** ...Thanks, Suzuka.  
+**Maki:** We're just letting her know. After that... We'll follow what Yume decides.  
+**Akane:** That's more than enough.  
+**Akane:** ...We're depending on you for the rest, Kanami-san, Hiyori-san.  
+**Kanami:** Sure, you can leave it to us.  
+**Hiyori:** Right. Kanami and I will absolutely destroy Tagitsuhime.  
+**Yume:** Chidori-onee-san said she wants to be a myouga toji!? Yeah, I'll see her right away!  
+**Yume:** Now she can keep on remembering me! We'll keep having fun forever and ever!  
+**Tagitsu:** (...It's possible this is a trap.)  
+**Yume:** Yeah, I know that. But, does it matter? If it is, I'll just beat her and make her a myouga toji anyway.  
+**Yume:** We can keep it going... The fun'll keep going forever and ever and ever!  
+**Kanami:** There's nothing fun about that! Back then... even that was more fun!  
+**Yume:** !?  
+**Kanami:** Toji who go through myouga, their minds get put under your control, right?  
+**Kanami:** Back then, when you told me to remember you, was that how you meant it!?  
+**Yume:** ...  
+**Hiyori:** Those two in the elite guard, they were worried about you. But they said, no matter what you did, they'd 
+never betray you... That they could never turn their okatana on you.  
+**Hiyori:** Even still... are you seriously okay with that! You're going to brainwash the elite guard... them too!?  
+**Yume:** ...  
+**Kanami:** I remember it all, Tsubakuro-san! How strong you are!  
+**Kanami:** Not the strength Tagitsuhime gave you! The real Tsubakuro-san... she's so much stronger than this!  
+**Yume:** But... If I don't, the people who remember me, they'll be gone eventually.  
+**Tagitsu:** (Yes, that's exactly right.)  
+**Yume:** Onee-sans, you're getting this wrong. The plan to erode it all... I'm the one who wants to do it.  
+**Yume:** So long as... I get to stay together with everybody forever, I don't care. So long as this can go on forever, 
+I don't care!  
+**Kanami:** But...  
+**Hiyori:** ...We're switching up, Kanami. She's... going to be tough.  
+**Yume:** Ahahahahaha! Just wait, onee-sans! I'll beat you so fast and make you myouga!  
+**Yume:** And then... You'll never, ever forget me!!  

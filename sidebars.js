@@ -81,7 +81,9 @@ module.exports = {
       'Part 6: Beacon': [
         'Part 6/6-1_The_Morning_Fog_Clears',
         'Part 6/6-2_Live_Fire',
-        'Part 6/6-3_Dead_End'
+        'Part 6/6-3_Dead_End',
+        'Part 6/6-4_Once_More_at_Hand',
+        'Part 6/6-5_One_Way_Trip',
       ]
     },
   ],
