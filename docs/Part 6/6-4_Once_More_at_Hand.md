@@ -1,6 +1,7 @@
 
 6-4 Once More at Hand
 =====================
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/b5F5IHQ5mik"></iframe></div>  
 
 ## 1: Two Okatana (1)
 **Academy Intercom:** Academy Intercom: Aradama have been sighted in the area of this academy. Toji, please prepare to 
