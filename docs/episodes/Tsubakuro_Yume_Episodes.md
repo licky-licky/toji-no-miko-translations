@@ -667,6 +667,8 @@ The next day--
 **Yume:** And then, everybody can have this cocktail there too! Doesn't that sound good?  
 **Yomi:** It's a little early to be thinking about next year. But, I think that would be nice.  
 
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/fnVZgiP66Ew"></iframe></div>  
+
 ## [Another - Yume: Start]: My All Eroding Plan
 **Kanami:** HAAH!  
 **Yume:** I can see right through that, Chidori-onee-san!  
