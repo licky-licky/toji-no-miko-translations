@@ -204,7 +204,7 @@ function Events() {
                             <li key='older'><button className={!orderNewestFirst ? styles.selectedButton : ''} onClick={showOlder}>Oldest first</button></li>
                         </ul> 
                     </div>
-                    <CharacterFilter chars={characters} setFilteredChars={setFilteredCharacters}/>
+                    <CharacterFilter chars={characters} filteredCharacters={filteredCharacters} setFilteredChars={setFilteredCharacters}/>
                 </div>
                 {filterYears().map(year => {
                     const yearEvents = filteredEvents.filter(event => event[4] === year)

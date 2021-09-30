@@ -104,6 +104,13 @@ $container-margin: 200px;
     @media only screen and (max-width: $mobile) { margin-left: 0px; }
     border: solid 1px #777;
     border-radius: var(--ifm-button-border-radius);
+    &.charSelected {
+        box-shadow: inset 0 0 0 2px var(--ifm-color-primary);
+    }
+    .charCount {
+        color: var(--ifm-color-primary);
+        min-width: 1rem;
+    }
     span {
         line-height: 14px;
         font-size: 16px;

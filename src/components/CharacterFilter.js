@@ -4,7 +4,7 @@ import onClickOutside from "react-onclickoutside";
 import useBaseUrl from '@docusaurus/useBaseUrl'
 import { getFromSessionStorage, saveToSessionStorage } from '../utils';
 
-function CharacterFilter({ chars, setFilteredChars }) {
+function CharacterFilter({ chars, filteredCharacters, setFilteredChars }) {
   const numOfChars = Object.keys(chars).length
   const [selected, setSelected] = useState(new Array(numOfChars).fill(false))
   const [show, setShow] = useState(false)
@@ -51,7 +51,13 @@ function CharacterFilter({ chars, setFilteredChars }) {
   CharacterFilter.handleClickOutside = () => setShow(false)
   return (
     <div className={styles.charSelector}>
-      <button onClick={showCharFilter} className={styles.charShow}><span>Select Characters</span><span><img src={useBaseUrl(show ? '/img/expand_less_black_24dp.svg' : '/img/expand_more_black_24dp.svg')} /></span></button>
+      <button onClick={showCharFilter} className={`${styles.charShow} ${filteredCharacters.length > 0 ? styles.charSelected : ''}`}>
+        <span>Select Characters</span>
+        <span className={styles.charCount}>{filteredCharacters.length ? filteredCharacters.length : ''}</span> 
+        <span>
+          <img src={useBaseUrl(show ? '/img/expand_less_black_24dp.svg' : '/img/expand_more_black_24dp.svg')}/>
+        </span>
+      </button>
       {show && (<div className={styles.container}>
         <div className={styles.input}>
           <div className={styles.buttonContainer}>
