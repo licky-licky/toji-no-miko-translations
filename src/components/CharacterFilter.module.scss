@@ -1,6 +1,7 @@
 $mobile: 780px;
 $tablet: 1000px;
 $container-margin: 200px;
+$radius: 10px;
 @mixin count-display {
     padding: 4px;
     color: var(--ifm-color-secondary-darkerest);
@@ -12,7 +13,7 @@ $container-margin: 200px;
     max-height: 150px;
 }
 .container {
-    border-radius: 14px;
+    border-radius: $radius;
     overflow: hidden;
     position: absolute;
     top: 268px;
