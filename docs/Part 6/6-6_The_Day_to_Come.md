@@ -1,6 +1,7 @@
 
 6-6 The Day to Come
 ===================
+<div class="videoWrapper"><iframe width="640" height="480" loading="lazy" src="https://www.youtube.com/embed/zKFK2JXk4UA"></iframe></div>  
 
 ## 1: Mihono and Kagutsuchi (1)
 **Tsugumi:** Then, the operation will commence. I'm starting the countdown-.  
