@@ -4,14 +4,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Toji no Miko: Kizamishi Issen no Tomoshibi translations',
-  tagline: 'Play Mihono\'s game!',
-  url: 'https://swordpolishing.github.io/',
-  baseUrl: '/tnm-translations/',
+  tagline: 'Mihomo is the smartest!',
+  url: 'https://licky-licky.github.io/',
+  baseUrl: '/toji-no-miko-translations/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/fav.ico',
-  organizationName: 'swordpolishing', // Usually your GitHub org/user name.
-  projectName: 'tnm-translations', // Usually your repo name.
+  organizationName: 'licky-licky', // Usually your GitHub org/user name.
+  projectName: 'toji-no-miko-translations', // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
     navbar: {
@@ -29,6 +29,7 @@ module.exports = {
         },
         {to: '/episodes', label: 'Episodes', position: 'left'},
         {to: '/events', label: 'Events', position: 'left'},
+        {to: 'https://pastebin.com/LdyviZ8Z', label: 'Pastebin', position: 'right'}
       ],
     },
     footer: {
@@ -43,7 +44,7 @@ module.exports = {
             },
             {
               label: 'Site source code',
-              href: 'https://github.com/swordpolishing/tnm-translations',
+              href: 'https://github.com/licky-licky/toji-no-miko-translations',
             },
           ],
         },
@@ -65,7 +66,7 @@ module.exports = {
           // Please change this to your repo.
           // * Remove to hide the edit button
           editUrl:
-            'https://github.com/swordpolishing/tnm-translations/edit',
+            'https://github.com/licky-licky/toji-no-miko-translations/edit',
         },
         blog: {
           showReadingTime: true,
